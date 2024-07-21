@@ -1,7 +1,7 @@
 ---
 title: "Fixing iPhone's Malfunctioning QR Scanning Feature: A Comprehensive Guide to 7 Remedies"
-date: 2024-07-18 14:26:55
-updated: 2024-07-20 10:36:10
+date: 2024-07-20T03:29:26.956Z
+updated: 2024-07-21T03:29:26.956Z
 tags:
   - iphone
   - apple
@@ -18,6 +18,9 @@ thumbnail: https://thmb.techidaily.com/efc2d305e478474af3e17a5e089941fb3280acaab
 
  However, your QR code scanner may sometimes fail to recognize or read the codes correctly. This can be frustrating, especially when you urgently need to access the content within the code. Before you give up, here are some fixes you can try to get your QR code scanner to work again.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. Check if the QR Code Scanner Is Enabled
 
  Usually, pointing your iPhone's camera at the QR code does the trick. However, if that doesn't work, there's a chance you accidentally disabled QR code scanning in your Camera app. Here's how to enable the QR code scanner:
@@ -26,8 +29,14 @@ thumbnail: https://thmb.techidaily.com/efc2d305e478474af3e17a5e089941fb3280acaab
 2. Scroll down and tap**Camera** .
 3. Toggle on**Scan QR Codes** .
 
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![iPhone Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/img_1208.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![IPhone Camera Settings with Scan QR Codes Toggled On](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/img_1209.jpeg)
 
 Close
@@ -36,12 +45,18 @@ Close
 
  The QR code scanner on your iPhone only works when the camera is set to Photo mode. If you've mistakenly switched to Video, Portrait, Pano, or any other camera mode, the QR code scanner might not work as expected. So, swipe left or right in the Camera app to switch back to Photo mode. Then, point the camera at the QR code and try to scan it again.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. Position Your Camera Properly When Scanning
 
  For a quick and successful scan, make sure the QR code is positioned within the frame of your camera. Avoid scanning at steep angles, and try to keep the QR code parallel to your device. Also, ensure the QR code isn't wrinkled, obscured, or damaged in any way, as this can prevent a successful scan.
 
 ## 4\. Move Into Better Lighting
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Person scanning QR Code on a parcel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/person-scanning-qr-code-on-a-parcel.jpg)
 
  Good lighting is essential for any camera function, and the QR code scanner is no exception. A well-lit environment makes it easier for the camera to recognize and read the QR code. If you're in a dimly lit room or area, move to a brighter spot or shine some light on the QR code to improve visibility.
@@ -54,6 +69,9 @@ Close
 
  Sometimes, software glitches can cause your QR code scanner to malfunction. The quickest fix for this is to simply close the Camera app and relaunch it. To do this, swipe up from the bottom of the screen, then swipe up on the Camera app to close it. Wait for a few seconds, then reopen the**Camera** app and try to scan the QR code again.
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 7\. Add Code Scanner to Control Center
 
  If you're still having trouble using the Camera app to scan the QR code, you can add Apple's built-in Code Scanner directly to the Control Center for easy access. This built-in feature works separately from the Camera app and can sometimes bypass issues that you might encounter while using the Camera app.
@@ -90,6 +108,9 @@ Close
 
  To [update your iPhone](https://www.makeuseof.com/tag/update-iphone-ios-apps-data/) , go to**Settings > General > Software Update** to see if there is any available update. If there's a new iOS version available, tap**Download and Install** . Ensure you connect to a strong Wi-Fi network and that your iPhone is sufficiently charged before starting the update.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 10\. Check Out Third-Party QR Code Scanners
 
 ![using iPhone to scan a QR code](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/using-iphone-to-scan-a-qr-code.jpg)
@@ -98,6 +119,9 @@ Close
 
  Popular iOS third-party QR code reader apps include [QR Code & Barcode Scanner](https://apps.apple.com/us/app/qr-code-barcode-scanner/id1048473097) by TeaCapps,[Scan Shot](https://apps.apple.com/us/app/scan-shot-document-scanner-pdf/id1575194801) by Scanner App PDF Tool, and [CamScanner](https://apps.apple.com/us/app/camscanner-pdf-scanner-app/id388627783) by INSTIG.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Decode QR Codes on Your iPhone Without Issues
 
  QR codes have become a great way to access information with a simple scan. If you've tried all our fixes and still can't get your QR code scanner to work, you can always take a picture and scan the QR code with your Photos app.
@@ -118,3 +142,43 @@ Close
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://discord-videos.techidaily.com/new-2024-approved-essential-symbols-in-social-networking-movement-magic/"><u>[New] 2024 Approved  Essential Symbols in Social Networking  Movement Magic</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-expert-techniques-for-streaming-facebook-live-2023/"><u>[New] 2024 Approved  Expert Techniques for Streaming Facebook Live, 2023</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-dual-stream-technique-for-massive-viewer-growth-for-2024/"><u>[New] Dual-Stream Technique for Massive Viewer Growth for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-free-best-10-video-editing-apps-to-edit-and-make-instagram-reels/"><u>[New] FREE Best 10 Video Editing Apps to Edit and Make Instagram Reels</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-from-front-to-back-a-step-by-step-guide-to-angled-photography-on-social-platforms-for-2024/"><u>[New] From Front to Back  A Step-by-Step Guide to Angled Photography on Social Platforms for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-enhancing-user-experience-a-quick-how-to-for-youtube-cc-and-subtitles-for-2024/"><u>[Updated] Enhancing User Experience  A Quick How-To for YouTube CC & Subtitles for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-a-step-by-step-guide-share-youtube-vids-with-fb-friends/"><u>[Updated] In 2024, A Step-by-Step Guide  Share YouTube Vids with FB Friends</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-step-by-step-fbx-capture-for-gamers-for-2024/"><u>[Updated] Step-by-Step FBX Capture For Gamers for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-the-top-15-trending-hashtags-in-tiktok/"><u>2024 Approved  The Top 15 Trending Hashtags in TikTok</u></a></li>
+<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-zte-nubia-z60-ultra-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On ZTE Nubia Z60 Ultra | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-vivo-v30-lite-5g-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Vivo V30 Lite 5G</u></a></li>
+<li><a href="https://fox-that.techidaily.com/addressing-the-location-not-found-issue-for-iphone-users/"><u>Addressing the Location Not Found Issue for iPhone Users</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-water-damage-alerts-steps-to-clear-liquid-warning-messages-from-your-ios-devices-charger-connection/"><u>Fixing Water Damage Alerts: Steps to Clear Liquid Warning Messages From Your iOS Device's Charger Connection</u></a></li>
+<li><a href="https://fox-that.techidaily.com/from-freezing-to-battery-woes-tackling-the-iphone-13s-six-major-setbacks-and-fixing-them-up/"><u>From Freezing to Battery Woes - Tackling the iPhone 13'S Six Major Setbacks and Fixing Them Up</u></a></li>
+<li><a href="https://fox-that.techidaily.com/handling-final-text-row-inaccessible-problems-on-iphones-successfully/"><u>Handling 'Final Text Row Inaccessible' Problems on iPhones Successfully</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-change-or-remove-screen-time-lock-code-on-apple-products/"><u>How To Change or Remove Screen Time Lock Code on Apple Products</u></a></li>
+<li><a href="https://fox-that.techidaily.com/mastering-ios-key-strategies-to-troubleshoot-iphones-effectively/"><u>Mastering iOS: Key Strategies to Troubleshoot iPhones Effectively</u></a></li>
+<li><a href="https://fox-that.techidaily.com/optimizing-iphone-photography-workflow-strategies-to-tackle-common-problems-and-improve-quality/"><u>Optimizing iPhone Photography Workflow: Strategies to Tackle Common Problems & Improve Quality</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-icloud-backup-hurdles-9-tips-and-tricks-for-iphone-users/"><u>Overcoming iCloud Backup Hurdles: 9 Tips and Tricks for iPhone Users</u></a></li>
+<li><a href="https://fox-that.techidaily.com/quickly-resolve-widget-woes-top-troubleshooting-techniques-for-iphoneipad-users-in-need/"><u>Quickly Resolve Widget Woes: Top Troubleshooting Techniques for iPhone/iPad Users in Need</u></a></li>
+<li><a href="https://fox-that.techidaily.com/recovering-erased-pictures-on-your-iphone-is-it-possible-with-8-techniques/"><u>Recovering Erased Pictures on Your iPhone – Is It Possible with 8 Techniques?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/revive-your-disappearing-iphone-jottings-top-restoration-tactics/"><u>Revive Your Disappearing iPhone Jottings – Top Restoration Tactics</u></a></li>
+<li><a href="https://fox-that.techidaily.com/revive-your-icloud-photo-stream-discover-7-effective-fixes-for-iphone-sync-problems/"><u>Revive Your iCloud Photo Stream: Discover 7 Effective Fixes for iPhone Sync Problems</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721467787386-roblox-crashing-due-to-insufficient-memory-heres-how-to-resolve-it/"><u>Roblox Crashing Due to Insufficient Memory? Here's How to Resolve It</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721457678787-struggling-with-constant-audio-shifts-in-airpods-turn-off-the-head-tracking-feature/"><u>Struggling with Constant Audio Shifts in AirPods? Turn Off the Head-Tracking Feature!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721476886005-struggling-with-slow-message-delivery-here-are-pertinent-steps-to-resolve-your-iphones-timing-troubles-fixed-in-nine-ways/"><u>Struggling with Slow Message Delivery? Here Are Pertinent Steps to Resolve Your iPhone's Timing Troubles, Fixed in Nine Ways!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/struggling-with-sms-timing-on-your-iphone-here-are-nine-prompt-action-steps-for-improvement/"><u>Struggling with SMS Timing on Your iPhone? Here Are Nine Prompt-Action Steps for Improvement</u></a></li>
+<li><a href="https://fox-that.techidaily.com/tablet-touch-problems-discover-these-8-remedies-to-revitalize-your-screens-sensitivity/"><u>Tablet Touch Problems? Discover These 8 Remedies to Revitalize Your Screen's Sensitivity</u></a></li>
+<li><a href="https://fox-that.techidaily.com/the-ultimate-guide-to-perfecting-your-iphones-image-repository-with-8-expert-optimizations/"><u>The Ultimate Guide to Perfecting Your iPhone's Image Repository with 8 Expert Optimizations</u></a></li>
+<li><a href="https://fox-that.techidaily.com/the-ultimate-guide-to-taming-your-iphone-photostream-eight-proven-strategies-for-overcoming-usual-snags/"><u>The Ultimate Guide to Taming Your iPhone Photostream: Eight Proven Strategies for Overcoming Usual Snags</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-6-strategies-to-overcome-autocorrect-errors-on-iphone-learn-correct-spelling-now/"><u>Top 6 Strategies to Overcome Autocorrect Errors on iPhone - Learn Correct Spelling Now!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-steps-to-reactivate-your-disabled-ios-device/"><u>Troubleshooting Steps to Reactivate Your Disabled iOS Device</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-stuck-iphone-sound-controls-top-7-tips-and-tricks/"><u>Troubleshooting Stuck iPhone Sound Controls: Top 7 Tips & Tricks</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-fix-an-iphones-malfunctioning-silent-button/"><u>Troubleshooting: Fix an iPhone's Malfunctioning Silent Button</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlock-access-to-icloud-settings-on-your-device-top-4-fixes/"><u>Unlock Access to iCloud Settings on Your Device: Top 4 Fixes!</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-the-best-of-the-best-top-professional-audio-editing-programs-for-2024/"><u>Updated The Best of the Best Top Professional Audio Editing Programs for 2024</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: Can't Adjust Auto-Brightness on iPhone? Discover These 7 Quick Solutions!
-date: 2024-07-17 19:51:48
-updated: 2024-07-20 12:21:26
+date: 2024-07-20T03:04:25.449Z
+updated: 2024-07-21T03:04:25.449Z
 tags:
   - iphone
   - apple
@@ -18,12 +18,19 @@ thumbnail: https://thmb.techidaily.com/c91ef4997081e65543be4ed1e14a92e0b1b11ea3f
 
  If auto-brightness isn't working on your iPhone, you can use these solutions to fix it. Once that's done, it should be more comfortable to use your iPhone during the day, night, and any other times.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 ## 1\. Clean Your iPhone's Notch Area
 
  The ambient light sensor is at the top of your iPhone screen. Body oils, sweat, and other such gunk may stick to this sensor when holding the phone to your ear during long calls. Due to this, it may stop your iPhone's ambient light sensor working, which is what's responsible for adjusting the screen brightness according to your surroundings.
 
  To fix this, use a clean, dry cloth to wipe the top portion of your iPhone screen. After this, auto-brightness should work fine. If not, follow the remaining solutions below.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
 ## 2\. Restart Your iPhone
 
  If you haven't turned off your iPhone in a while, it can cause a few problems, like auto-brightness not working correctly. To fix this, simply restart your iPhone. After the device powers on, everything should work as well as it usually does.
@@ -48,12 +55,18 @@ thumbnail: https://thmb.techidaily.com/c91ef4997081e65543be4ed1e14a92e0b1b11ea3f
 
 Close
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. Update Your iPhone
 
  When you're running an older version of iOS, some old bugs may still be there causing issues. To fix this, you should update your iPhone to the newest version of iOS. This will ensure your device has all the latest features, bug fixes, and security patches.
 
  To update your iPhone, go to**Settings** \>**General** \>**Software Update** .
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5\. Try Turning Off Night Shift
 
  In case none of the above solutions work for you, consider turning off Night Shift. For this:
@@ -64,6 +77,18 @@ Close
 
 ![iPhone Settings Screen showing Accessibility](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/iphone-settings-screen-showing-accessibility.PNG)
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Display & Brightness Settings on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/display--brightness-settings-on-iphone.PNG)
 
 ![Night Shift Settings on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/night-shift-settings-on-iphone.PNG)
@@ -87,10 +112,16 @@ Close
 3. Tap**Reset** and choose**Reset All Settings** .
 4. Enter your device passcode to confirm.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Transfer or Reset iPhone in iOS 15](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/transfer-or-reset-iphone-in-ios-15.PNG)
 
 ![Reset Option in iOS 15 Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/reset-option-in-ios-15-settings.PNG)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
 ![All Reset Options in iPhone Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/all-reset-options-in-iphone-settings.PNG)
 
 Close
@@ -103,6 +134,9 @@ Close
 
 [Contact Apple Support](https://getsupport.apple.com/) to get your device repaired by Apple authorized service providers instead.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Auto-Brightness Makes Your iPhone Easier on the Eyes
 
  After following the above fixes, your iPhone display should automatically adjust the screen brightness to match your environment, ensuring that the screen is always comfortable to look at.
@@ -123,3 +157,66 @@ Close
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-excellent-pc-screen-grabbers-the-most-useful-1-5/"><u>[New] Excellent PC Screen Grabbers  The Most Useful #1-#5</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-google-image-mastery-rapid-and-remarkable-mosaics-created/"><u>[New] Google Image Mastery  Rapid & Remarkable Mosaics Created</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-how-to-create-captivating-videos-an-introduction-to-fb-reels-for-2024/"><u>[New] How to Create Captivating Videos  An Introduction to FB Reels for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-improving-visual-storytelling-with-secondary-shoots/"><u>[New] Improving Visual Storytelling with Secondary Shoots</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-enhanced-b2c-strategies-via-brands-and-youtube-collaboration/"><u>[New] In 2024, Enhanced B2C Strategies via Brands & YouTube Collaboration</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-select-top-6-slideshow-creation-software-for-x-models/"><u>[New] Select Top 6 Slideshow Creation Software for X Models</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-efficient-overwatch-recording-techniques-exposed/"><u>[Updated] Efficient Overwatch Recording Techniques Exposed</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-craft-engaging-visual-narratives-with-soundtrack-integration/"><u>[Updated] In 2024, Craft Engaging Visual Narratives with Soundtrack Integration</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-essential-strategies-for-effective-use-of-luts-in-video-edits/"><u>2024 Approved  Essential Strategies for Effective Use of LUTs in Video Edits</u></a></li>
+<li><a href="https://fox-that.techidaily.com/7-effective-remedies-to-resolve-persistent-phone-display-fluttering-issues/"><u>7 Effective Remedies to Resolve Persistent Phone Display Fluttering Issues</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/bypass-activation-lock-from-iphone-x-4-easy-ways-by-drfone-ios/"><u>Bypass Activation Lock From iPhone X - 4 Easy Ways</u></a></li>
+<li><a href="https://fox-that.techidaily.com/bypassing-apples-payment-rejection-with-these-6-strategies/"><u>Bypassing Apple’s Payment Rejection with These 6 Strategies</u></a></li>
+<li><a href="https://fox-that.techidaily.com/contacts-not-responding-on-iphone-xyz-discover-these-3-effective-fixes/"><u>Contacts Not Responding on iPhone XYZ? Discover These 3 Effective Fixes!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/deciphering-the-mystery-of-differing-volume-levels-in-airpods-implement-these-4-audio-fixes/"><u>Deciphering the Mystery of Differing Volume Levels in AirPods: Implement These 4 Audio Fixes</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-lava-blaze-2-pro-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Lava Blaze 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721459070511-experiencing-imbalanced-sound-in-your-airpods-here-are-4-effective-remedies/"><u>Experiencing Imbalanced Sound in Your AirPods? Here Are 4 Effective Remedies!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/four-effective-methods-to-get-your-iphones-standby-feature-up-and-running-again/"><u>Four Effective Methods to Get Your iPhone's Standby Feature Up and Running Again</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/google-docs-speech-to-text-a-complete-guidebook-for-2024/"><u>Google Docs Speech-to-Text  A Complete Guidebook for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/how-to-download-youtube-playlist-step-by-step/"><u>How to Download YouTube Playlist-Step by Step</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-ensure-your-iphones-imessage-delivers-all-text-messages-correctly/"><u>How to Ensure Your iPhone's iMessage Delivers All Text Messages Correctly</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-honor-magic-6-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Honor Magic 6? | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-repair-an-iphone-mobile-hotspot-that-wont-connect/"><u>How to Repair an iPhone Mobile Hotspot That Won't Connect</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-repair-persistent-airpods-connection-problems-on-iphone-11-essential-methods/"><u>How to Repair Persistent AirPods Connection Problems on iPhone - 11 Essential Methods</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-vivo-y28-5g-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Vivo Y28 5G by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-infinix-hot-40-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Infinix Hot 40 to PC? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-is-it-possible-to-use-miracast-with-apple-iphone-11-pro-drfone-by-drfone-ios/"><u>In 2024, Is it Possible to Use Miracast with Apple iPhone 11 Pro? | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/insightful-insights-into-why-apple-iphones-adjust-screen-brightness-on-their-own/"><u>Insightful Insights Into Why Apple iPhones Adjust Screen Brightness on Their Own</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721469690317-iphone-not-buzzing-when-you-expect-it-to-try-these-eight-effective-fixes-for-quiet-modes/"><u>IPhone Not Buzzing When You Expect It To? Try These Eight Effective Fixes for Quiet Modes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-screen-not-working-heres-what-to-do/"><u>IPhone Screen Not Working? Here's What to Do</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-fcpx-power-ups-10-free-plugins-you-need-now/"><u>New In 2024, FCPX Power Ups 10 Free Plugins You Need Now</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-integrating-audio-seamlessly-techniques-for-film-editors-using-magix-movie-editor-2023-for-2024/"><u>New Integrating Audio Seamlessly Techniques for Film Editors Using Magix Movie Editor 2023 for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-proven-7-audio-processors-to-peacefully-remove-populated-sounds-from-media/"><u>New Proven 7 Audio Processors to Peacefully Remove Populated Sounds From Media</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-imessage-authentication-problems-on-iphone-expert-tips-and-tricks/"><u>Overcoming iMessage Authentication Problems on iPhone – Expert Tips and Tricks</u></a></li>
+<li><a href="https://fox-that.techidaily.com/refine-your-apple-photo-collection-by-correcting-incorrectly-tagged-individuals/"><u>Refine Your Apple Photo Collection by Correcting Incorrectly Tagged Individuals</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolving-iphones-usb-c-liquid-detected-warning-a-step-by-step-guide/"><u>Resolving iPhone's USB-C 'Liquid Detected' Warning - A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolving-the-issue-of-gray-icloud-settings-on-your-iphone-or-ipad-a-step-by-step-guide/"><u>Resolving the Issue of Gray iCloud Settings on Your iPhone or iPad – A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolving-voice-recognition-problems-on-your-ios-device-5-fixes/"><u>Resolving Voice Recognition Problems on Your iOS Device: 5 Fixes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/speedy-iphone-screen-management-how-to-accelerate-the-black-out-process/"><u>Speedy iPhone Screen Management: How to Accelerate the Black Out Process!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/struggling-with-sms-on-iphone-uncover-1nnovative-ways-to-rectify-it-in-this-guide/"><u>Struggling With SMS on iPhone? Uncover 1Nnovative Ways to Rectify It in This Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/struggling-with-unresponsive-iphone-volume-buttons-here-are-seven-solutions/"><u>Struggling With Unresponsive iPhone Volume Buttons? Here Are Seven Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/struggling-with-your-iphones-vpn-access-here-are-7-fixes/"><u>Struggling with Your iPhone's VPN Access? Here Are 7 Fixes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/struggling-with-your-iphones-silence-unveil-vibration-fixes-for-both-ring-and-quiet-settings/"><u>Struggling with Your iPhones Silence? Unveil Vibration Fixes for Both Ring and Quiet Settings!</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ditors-journey-creating-impactful-videos-for-youtube-with-pc/"><u>The Editor's Journey  Creating Impactful Videos for YouTube with PC</u></a></li>
+<li><a href="https://fox-that.techidaily.com/the-mystery-of-disconnected-iphones-exploring-the-reasons-behind-offline-status/"><u>The Mystery of Disconnected iPhones: Exploring the Reasons Behind 'Offline' Status</u></a></li>
+<li><a href="https://fox-that.techidaily.com/the-truth-about-your-iphone-14-battery-issues-and-insights-unveiled/"><u>The Truth About Your iPhone 14 Battery - Issues and Insights Unveiled</u></a></li>
+<li><a href="https://fox-that.techidaily.com/the-ultimate-guide-locating-hidden-airpods-on-the-find-my-app-with-11-effective-fixes/"><u>The Ultimate Guide: Locating Hidden AirPods on the 'Find My' App with 11 Effective Fixes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-10-troubleshooting-steps-for-a-non-responsive-safari-on-ios-devices/"><u>Top 10 Troubleshooting Steps for a Non-Responsive Safari on iOS Devices</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-7-tricks-to-restart-your-iphone-from-constant-apple-emblem-display/"><u>Top 7 Tricks to Restart Your iPhone From Constant Apple Emblem Display</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/transform-clips-into-content-from-premiere-to-youtube-for-2024/"><u>Transform Clips Into Content  From Premiere to YouTube for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/trouble-with-your-iphones-hotspot-heres-how-to-restore-connectivity/"><u>Trouble with Your iPhone's Hotspot? Here’s How to Restore Connectivity</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-siri-solving-common-issues-on-your-iphoneipad/"><u>Troubleshooting Siri: Solving Common Issues on Your iPhone/iPad</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-the-7-most-frequent-iphone-display-faults/"><u>Troubleshooting the 7 Most Frequent iPhone Display Faults</u></a></li>
+<li><a href="https://fox-that.techidaily.com/ultimate-guide-steps-for-performing-a-hard-reset-on-iphoneipad/"><u>Ultimate Guide: Steps for Performing a Hard Reset on iPhone/iPad</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlocking-solutions-what-to-do-when-your-iphone-freezes-up/"><u>Unlocking Solutions: What to Do When Your iPhone Freezes Up</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlocking-the-mystery-making-your-iphone-visible-on-itunes-or-finder-again/"><u>Unlocking the Mystery: Making Your iPhone Visible on iTunes or Finder Again.</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unstuck-from-chatgpt-glitches-on-mobile-top-fixes-for-iphone-users/"><u>Unstuck From ChatGPT Glitches on Mobile? Top Fixes for iPhone Users</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-txt-to-srt-3-effective-ways-to-convert-txt-to-srt/"><u>Updated 2024 Approved TXT to SRT 3 Effective Ways to Convert TXT to SRT</u></a></li>
+<li><a href="https://fox-that.techidaily.com/why-does-my-iphone-display-stay-on-too-long-solutions-and-tricks/"><u>Why Does My iPhone Display Stay On Too Long? - Solutions & Tricks</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-tecno-camon-20-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Tecno Camon 20 | Dr.fone</u></a></li>
+</ul></div>

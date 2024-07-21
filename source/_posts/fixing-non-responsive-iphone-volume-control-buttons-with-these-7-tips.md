@@ -1,7 +1,7 @@
 ---
 title: Fixing Non-Responsive iPhone Volume Control Buttons with These 7 Tips
-date: 2024-07-17 20:41:18
-updated: 2024-07-20 12:25:38
+date: 2024-07-20T03:25:27.794Z
+updated: 2024-07-21T03:25:27.794Z
 tags:
   - iphone
   - apple
@@ -22,12 +22,18 @@ thumbnail: https://thmb.techidaily.com/749189d3cf96e07116b3345727ad3fbca6dd8d53d
 
  Some might not be aware of this, but there is a setting that turns your iPhone's volume buttons on and off. This setting is already enabled by default on all devices, but it's possible someone can turn it off without realizing it.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![iphone enable volume button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/iphone-enable-volume-button.jpg)
 
  To check this, head to**Settings > Sounds & Haptics** and toggle on**Change with Buttons** . If this isn't enabled, this could be why your volume buttons aren't working. If it's already enabled, proceed to the next fix.
 
 ## 2\. Remove Your iPhone From Its Case
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ![iPhone in a leather case](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/iphone-in-a-leather-case.jpg)
 
  iPhones are expensive, so it's likely that most of you use a case to protect them. In some instances, your case can interfere with your volume buttons. This is especially true with cases that have layers or have built-in screen protectors.
@@ -36,9 +42,12 @@ thumbnail: https://thmb.techidaily.com/749189d3cf96e07116b3345727ad3fbca6dd8d53d
 
  It's also possible that prolonged use of a case can cause your volume buttons to get dirty. If that's the case, proceed to the next step.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 3\. Clean Your iPhone's Volume Buttons Using Alcohol
 
-![iPhone Ring/Silent switch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-iphone-when-silent-switch-isn-t-working.jpg)
+![iPhone Ring/Silent switch](https://thmb.techidaily.com/14af88c4727edfc68754682f8d9e5a16b4632ead51b56f451896cf5d83dd52e4.jpg)
 
  We use our phones so much that dirt and grime can sometimes get under the buttons, especially when not using a case. So, press down on your buttons a few times to check if your buttons are stuck. You might need to clean them if they're stuck or don't seem to click down.
 
@@ -56,6 +65,9 @@ thumbnail: https://thmb.techidaily.com/749189d3cf96e07116b3345727ad3fbca6dd8d53d
 
  To do this, first, you'll need to [back up your iPhone](https://www.makeuseof.com/tag/how-to-backup-iphone-ipad/) . Then, go to **Settings > General > Transfer or Reset iPhone > Erase All Content and Settings** .
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![iphone erase settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/iphone-erase-settings.jpg)
 
  This will wipe your phone clean and essentially make it like new. Before restoring a backup, go into the device and test the volume buttons. If they work, restore your backup.
@@ -70,6 +82,9 @@ thumbnail: https://thmb.techidaily.com/749189d3cf96e07116b3345727ad3fbca6dd8d53d
 
  You can update it by heading to**Settings > General > Software Update** . Here, you can see if a new iOS version is available. If you're using a beta version of iOS, it might be time to switch back to the stable public build and report this issue to Apple.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 6\. Control Your iPhone's Volume Without Using Volume Buttons
 
 ![iphone screen volume control](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/iphone-screen-volume-control.jpg)
@@ -82,12 +97,19 @@ thumbnail: https://thmb.techidaily.com/749189d3cf96e07116b3345727ad3fbca6dd8d53d
 
  If you have AirPods, you can say, "Hey Siri, turn up the volume." Other Bluetooth headphones typically have built-in volume controls, which you can use as well. This means that you won't have to keep going to your phone when you want to change the volume.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Control the Volume With AssistiveTouch
 
  If you're looking for another way to control the volume, consider using AssistiveTouch. You can set the AssistiveTouch button to open a menu to control your volume on the screen or have it either turn up or down when tapped.
 
  To use it, go to**Settings > Accessibility > Touch > AssistiveTouch** . Here, you can set your device to turn the volume down with one tap and turn it up with two taps.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![assistive touch iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/IMG_2959.jpg)
 
 ## 7\. Get Your Volume Buttons Repaired
@@ -120,3 +142,38 @@ thumbnail: https://thmb.techidaily.com/749189d3cf96e07116b3345727ad3fbca6dd8d53d
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-cutting-edge-free-and-easy-top-11-youtube-title-inventors/"><u>[New] Cutting-Edge, Free, and Easy  Top 11 YouTube Title Inventors</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-choosing-the-best-a-dive-into-obs-and-twitch-streaming/"><u>[New] In 2024, Choosing the Best  A Dive Into OBS & Twitch Streaming</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-professional-tips-for-high-quality-video-disc-production-on-mac/"><u>[New] In 2024, Professional Tips for High-Quality Video Disc Production on Mac</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-leveraging-user-feedback-with-instagram-story-questions-for-2024/"><u>[New] Leveraging User Feedback with Instagram Story Questions for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-masterclass-in-management-2024s-top-business-game-reviews/"><u>[New] Masterclass in Management  2024'S Top Business Game Reviews</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-mastering-fading-techniques-for-less-intensity-in-logic-pro-tracks-for-2024/"><u>[New] Mastering Fading Techniques for Less Intensity in Logic Pro Tracks for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-unveiling-the-art-of-chromatic-mastery-in-video-editing-11-steps/"><u>2024 Approved  Unveiling the Art of Chromatic Mastery in Video Editing (11 Steps)</u></a></li>
+<li><a href="https://fox-that.techidaily.com/accelerate-your-iphones-safari-essential-tips-to-increase-browsing-speed/"><u>Accelerate Your iPhone's Safari: Essential Tips to Increase Browsing Speed</u></a></li>
+<li><a href="https://fox-that.techidaily.com/airplay-not-working-heres-how-you-can-fix-it/"><u>AirPlay Not Working? Here's How You Can Fix It!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/discover-ways-to-accelerate-your-phones-internet-a-guide-to-boosting-mobile-data-speed/"><u>Discover Ways to Accelerate Your Phone's Internet: A Guide to Boosting Mobile Data Speed</u></a></li>
+<li><a href="https://facebook.techidaily.com/facebook-quizzes-a-disguised-threat-to-security/"><u>Facebook Quizzes: A Disguised Threat to Security?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fix-your-iphones-wi-fi-woes-with-these-five-effective-strategies/"><u>Fix Your iPhone's Wi-Fi Woes with These Five Effective Strategies</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fix-your-quiet-phone-discover-8-ways-to-restore-vibrations-on-iphones-in-ringsilent-mode/"><u>Fix Your Quiet Phone! Discover 8 Ways to Restore Vibrations on iPhones in Ring/Silent Mode</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/full-guide-to-iphone-se-icloud-bypass-by-drfone-ios/"><u>Full guide to iPhone SE iCloud Bypass</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721467132142-how-to-find-an-iphone-app-thats-gone-missing-easy-steps-inside/"><u>How to Find an iPhone App That's Gone Missing - Easy Steps Inside</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-fix-a-disabled-iphone-or-ipad/"><u>How to Fix a Disabled iPhone or iPad</u></a></li>
+<li><a href="https://fox-that.techidaily.com/imessage-dilemma-how-to-tell-if-youre-on-someones-blacklist/"><u>IMessage Dilemma: How to Tell if You're on Someone's Blacklist</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-realme-narzo-60x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Realme Narzo 60x 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/is-your-iphone-sending-messages-as-text-indicating-that-you-have-been-blocked/"><u>Is Your iPhone Sending Messages as Text Indicating That You Have Been Blocked?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/lost-connection-understanding-why-find-my-iphone-displays-as-offline-plus-finding-solutions/"><u>Lost Connection: Understanding Why Find My iPhone Displays as Offline + Finding Solutions</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-from-script-to-screen-10-famous-movies-crafted-with-final-cut-pro-for-2024/"><u>New From Script to Screen 10 Famous Movies Crafted with Final Cut Pro for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-optimize-your-facebook-videos-a-beginners-guide-to-aspect-ratios-for-2024/"><u>New Optimize Your Facebook Videos A Beginners Guide to Aspect Ratios for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721477778265-quick-fixes-for-iphone-call-failures-get-connected-now/"><u>Quick Fixes for iPhone Call Failures – Get Connected Now</u></a></li>
+<li><a href="https://fox-that.techidaily.com/reboot-to-revive-how-restarting-your-phone-tackles-most-tech-troubles/"><u>Reboot to Revive: How Restarting Your Phone Tackles Most Tech Troubles</u></a></li>
+<li><a href="https://fox-that.techidaily.com/reviving-lost-icons-top-techniques-for-bringing-back-iphone-app-designations/"><u>Reviving Lost Icons: Top Techniques for Bringing Back iPhone App Designations</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-airpods-auto-switch-issues-across-multiple-apple-gadgets/"><u>Solving AirPods Auto-Switch Issues Across Multiple Apple Gadgets</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721449830266-struggling-with-find-my-iphone-heres-why-it-shows-offline-and-how-to-fix-it/"><u>Struggling with Find My iPhone? Here’s Why It Shows ‘Offline’ & How to Fix It!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-strategies-to-solve-continuous-airpod-connectivity-issues-with-iphone/"><u>Top Strategies to Solve Continuous AirPod Connectivity Issues with iPhone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/ultimate-guide-resolving-hey-siri-malfunctions-on-iphone/"><u>Ultimate Guide: Resolving 'Hey Siri' Malfunctions on iPhone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/ultimate-guide-resolving-issues-with-non-delivery-of-imessages-on-iphone-devices/"><u>Ultimate Guide: Resolving Issues with Non-Delivery of iMessages on iPhone Devices</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unblocked-now-why-your-iphone-might-not-receive-messages-from-an-android-and-what-you-can-do-about-it/"><u>Unblocked Now: Why Your iPhone Might Not Receive Messages From an Android and What You Can Do About It</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: 5 Critical Fixes for Overcoming Hurdles in Family Sharing Setups
-date: 2024-07-19 20:46:18
-updated: 2024-07-20 11:58:57
+date: 2024-07-20T03:25:58.464Z
+updated: 2024-07-21T03:25:58.464Z
 tags:
   - iphone
   - apple
@@ -24,6 +24,9 @@ thumbnail: https://thmb.techidaily.com/304e2f357860569a12cd2d51db7951faca7194234
 
  Go to [Apple's System Status page](https://www.apple.com/support/systemstatus/) and scan the list of Apple services to see if the one you're trying to share has a green dot next to it.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Apple's System Status page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/apple-s-system-status-page.jpeg)
 
  This will hardly be the culprit, but it's worth checking before going into the more detailed fixes.
@@ -41,10 +44,16 @@ Here's how to turn it on using an iPhone or iPad:
 5. Return to the Apple ID settings menu and tap**Subscriptions** .
 6. Toggle on**Share With Family** .
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
 ![Family menu on iOS 16 Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/1.jpeg)
 
 ![Family purchase sharing prompt screen on iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/2.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 ![Purchase Sharing menu displaying payment options and family members on iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/3-1.jpeg)
 
 Close
@@ -74,6 +83,9 @@ Here's a quick way to do it on your browser:
 
 ![Dreamchild's Apple ID personal information page on the Apple ID website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/dreamchild-s-apple-id-personal-information-page-on-the-apple-id-website.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ## 4\. Sign Out and Sign In to Media & Purchases
 
  First, you must ensure you're using the same Apple ID for Family Sharing and Media & Purchases. You can find it in**Settings** \>**Family** \>**Your Name** \>**Purchases** \>**Apple ID for Purchases** . Confirm that your Apple ID for purchases is the same as your regular Apple ID.
@@ -84,14 +96,32 @@ Here's a quick way to do it on your browser:
 2. Now, tap on**Media & Purchases** and choose**Sign Out** from the pop-up menu.
 3. Tap**Media & Purchases** again, and make sure you sign in with the same Apple ID you use for Family Sharing.
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Settings home screen on iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/1-1.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 ![Media & Purchases sub-settings in Apple ID menu on iOS Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/2-1.jpeg)
 
 ![Prompt to confirm Media & Purchases sign out on iOS Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/3-2.jpeg)
 
 Close
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## 5\. Sign Out, Restart, and Sign In
 
  A little Apple ID reset on the device that isn't receiving the shared subscription might do the trick.
@@ -104,6 +134,9 @@ Close
 
 ![iOS Apple ID menu in Settings displaying Sign Out button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/1-ios-apple-id-menu-in-settings-displaying-sign-out-button.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Prompt to enter Apple ID password](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/2-prompt-to-enter-apple-id-password.jpeg)
 
 ![iOS Settings with Apple ID signed out](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/ios-settings-with-apple-id-signed-out.jpeg)
@@ -121,6 +154,9 @@ If the problematic device is a Mac, do this instead:
 
  This should refresh the App Store and other apps, and it should now recognize that the signed-in Apple ID has access to the shared subscriptions.
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ## 6\. Add the Family Member Again
 
  As an extension of refreshing it all, you can re-organize the Family Sharing group by disbanding it and adding everyone back again.
@@ -131,6 +167,9 @@ Here's how to do it on iOS and iPadOS:
 2. Select individual family members and choose**Remove from Family** .
 3. Invite them back by tapping the icon at the top-right corner of the Family menu.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Family menu on iOS 16 Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/1.jpeg)
 
 ![Faizah's Family menu displaying option to Remove Faizah from Family](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/faizah-s-family-menu-displaying-option-to-remove-faizah-from-family.jpeg)
@@ -169,3 +208,39 @@ If you're on a Mac, follow these steps instead:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/ed-how-to-post-share-a-video-from-youtube-on-instagram/"><u>[Updated] How to Post /Share a Video From YouTube on Instagram</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-essential-guide-to-the-top-5-apple-compatible-podcast-tools/"><u>2024 Approved  Essential Guide to The Top 5 Apple-Compatible Podcast Tools</u></a></li>
+<li><a href="https://fox-that.techidaily.com/7-proven-techniques-for-resolving-iphones-vpn-connectivity-problems/"><u>7 Proven Techniques for Resolving iPhone's VPN Connectivity Problems</u></a></li>
+<li><a href="https://facebook.techidaily.com/achieving-an-unplugged-lifestyle-reducing-the-time-spent-on-social-networks/"><u>Achieving an Unplugged Lifestyle: Reducing the Time Spent on Social Networks</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/adding-sparkle-to-your-content-incorinasing-unique-story-emojis/"><u>Adding Sparkle to Your Content  Incorinasing Unique Story Emojis</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721458026803-diagnosing-the-issues-with-image-recognition-technology-in-iphones/"><u>Diagnosing the Issues with Image Recognition Technology in iPhones</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/exploring-the-hidden-gems-of-jazz-musics-fundamentals-for-2024/"><u>Exploring the Hidden Gems of Jazz Musics Fundamentals for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/finding-your-vanished-iphone-applications-a-step-by-step-troubleshooting-guide/"><u>Finding Your Vanished iPhone Applications: A Step-by-Step Troubleshooting Guide</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-itel-p55t-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Itel P55T Pattern Lock Screen</u></a></li>
+<li><a href="https://fox-that.techidaily.com/get-past-the-ios-update-blockade-discover-6-reliable-techniques-to-resume-downloads-successfully/"><u>Get Past the iOS Update Blockade: Discover 6 Reliable Techniques to Resume Downloads Successfully</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-fix-when-siri-stops-responding-on-your-apple-device/"><u>How to Fix When Siri Stops Responding on Your Apple Device</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721471561512-how-to-restore-auto-brightness-functionality-on-your-iphone-7-proven-strategies/"><u>How To Restore Auto-Brightness Functionality on Your iPhone: 7 Proven Strategies</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-nokia-c32-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Nokia C32 | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>In 2024, Reasons why Pokémon GPS does not Work On Apple iPhone 7? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-tips-for-flawless-green-screen-cinematography/"><u>In 2024, Top Tips for Flawless Green-Screen Cinematography</u></a></li>
+<li><a href="https://fox-that.techidaily.com/incoming-call-trouble-heres-how-to-fix-it-on-iphone/"><u>Incoming Call Trouble? Here's How to Fix It on iPhone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/locating-a-missing-iphone-effective-use-of-find-my-app/"><u>Locating a Missing iPhone: Effective Use of Find My App</u></a></li>
+<li><a href="https://fox-that.techidaily.com/mastering-iphone-13-repairs-tackling-the-six-biggest-tech-hurdles/"><u>Mastering iPhone 13 Repairs: Tackling the Six Biggest Tech Hurdles</u></a></li>
+<li><a href="https://fox-that.techidaily.com/missing-icons-in-all-iphone-apps-discover-effective-solutions-here/"><u>Missing Icons in All iPhone Apps? Discover Effective Solutions Here!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcome-iphone-contact-app-problems-3-proven-solutions-to-get-back-on-track/"><u>Overcome iPhone Contact App Problems: 3 Proven Solutions to Get Back on Track</u></a></li>
+<li><a href="https://fox-that.techidaily.com/quick-fixes-for-the-last-line-not-accessible-problem-in-iphones/"><u>Quick Fixes for the Last Line Not Accessible Problem in iPhones</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolving-iphone-startup-jams-seven-proven-techniques-for-bypassing-the-apple-emblem/"><u>Resolving iPhone Startup Jams: Seven Proven Techniques for Bypassing the Apple Emblem</u></a></li>
+<li><a href="https://fox-that.techidaily.com/step-by-step-solution-correcting-error-message-14-on-iphone-devices/"><u>Step-by-Step Solution: Correcting Error Message 14 on iPhone Devices</u></a></li>
+<li><a href="https://fox-that.techidaily.com/streamline-your-picture-collections-unifying-multiple-personal-album-shots-on-ios-and-macos/"><u>Streamline Your Picture Collections: Unifying Multiple Personal Album Shots on iOS & macOS</u></a></li>
+<li><a href="https://fox-that.techidaily.com/tablet-touchscreen-not-working-8-tips-to-fix-touch-problems/"><u>Tablet Touchscreen Not Working? 8 Tips to Fix Touch Problems</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-tips-to-restore-emoji-predictive-text-functionality-in-a-flash-on-iphoneipad/"><u>Top Tips to Restore Emoji Predictive Text Functionality in a Flash on iPhone/iPad</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-silent-messages-comprehensive-guide-to-reactivating-message-tones-and-alarms-on-iphone-20plus-solutions/"><u>Troubleshoot Silent Messages: Comprehensive Guide to Reactivating Message Tones and Alarms on iPhone (20+ Solutions)</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721477101911-troubleshoot-the-iphone-contacts-app-top-3-fixes-to-try-now/"><u>Troubleshoot the iPhone Contacts App - Top 3 Fixes to Try Now</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-steps-safari-crashes-or-freezes-on-iphones/"><u>Troubleshooting Steps: Safari Crashes or Freezes on iPhones</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-vanished-contacts-solutions-for-iphone-users/"><u>Troubleshooting Vanished Contacts: Solutions for iPhone Users</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-exploring-the-leading-free-audio-editors-a-comprehensive-guide-to-windows-based-software/"><u>Updated Exploring the Leading Free Audio Editors A Comprehensive Guide to Windows-Based Software</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-how-to-use-zoom-in-google-for-2024/"><u>Updated How to Use Zoom in Google for 2024</u></a></li>
+</ul></div>

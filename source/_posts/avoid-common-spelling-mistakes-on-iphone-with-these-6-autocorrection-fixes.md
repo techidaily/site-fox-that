@@ -1,7 +1,7 @@
 ---
 title: Avoid Common Spelling Mistakes on iPhone with These 6 AutoCorrection Fixes
-date: 2024-07-18 11:42:40
-updated: 2024-07-20 10:29:49
+date: 2024-07-20T03:15:00.167Z
+updated: 2024-07-21T03:15:00.167Z
 tags:
   - iphone
   - apple
@@ -30,8 +30,14 @@ thumbnail: https://thmb.techidaily.com/12e208bbd75085a265128c07333cb07b6d6f82e50
 
  You might find that it starts changing words that you don’t want changed. One such example is with changing words like “were” to “we’re” and “bit” to “but.”
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ![were to we're](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/were-to-were.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 ## 1\. Repeatedly Type Words to Fix Autocorrect
 
  Unfortunately, Apple doesn’t allow you to edit your dictionary directly. One way around this is to type the word that’s being erroneously corrected and dismiss the change before it takes place by tapping the**dismiss (x)** button beside the suggested spelling. You may need to repeat this numerous times before your iPhone stops “correcting” the word in question.
@@ -40,6 +46,9 @@ thumbnail: https://thmb.techidaily.com/12e208bbd75085a265128c07333cb07b6d6f82e50
 
  Some users suggest adding the words to your Contacts. However, this is a little unreliable and works best with proper nouns and company names.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. Reset Your iPhone Dictionary
 
  If your dictionary has become an unmanageable nightmare, you could always reset your iPhone dictionary. This sounds severe, but all you’re doing is removing the custom words and typing rules that your iPhone has picked up since you started using it. As your iPhone dictionary is often [backed up to iCloud](https://www.makeuseof.com/tag/how-to-backup-iphone-ipad/) when you change devices, it could be many years old.
@@ -48,6 +57,9 @@ thumbnail: https://thmb.techidaily.com/12e208bbd75085a265128c07333cb07b6d6f82e50
 
 ![General](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/General.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Transfer of Reset iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/Transfer-of-Reset-iPhone.jpeg)
 
 ![Reset Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/Reset-Options.jpeg)
@@ -64,8 +76,23 @@ Close
 
 ![General settings on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/Keyboard-in-iPhone-1.jpeg)
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Keyboards settings on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/Text-Replacement-in-Keyboard-Settings-1.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Text replacement example on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/omw-shortcut-for-on-my-way-1.jpeg)
 
 Close
@@ -80,6 +107,9 @@ Close
 
  If you’re wary about missing spelling errors, you can always turn on the spellchecker, which highlights spelling errors in red. To do this, just go back to**Keyboards** and toggle on**Check Spelling** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ## 5\. Turn On Predictive Text Instead
 
  Unlike autocorrect, which actively changes words as you type, Predictive Text works in a more passive manner. Instead of changing a word to its suggested correction, Predictive Text simply shows predictions above the keyboard and allows you to tap or ignore them. To enable the feature, just head back to the**Keyboards** settings, then toggle**Predictive** on.
@@ -100,6 +130,9 @@ Close
 
 **Download:** [Microsoft SwiftKey Keyboard](https://apps.apple.com/app/swiftkey-keyboard/id911813648) (Free, in-app purchases available)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 ### TypeWise
 
 ![TypeWise Home Page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/TypeWise-Home-Page.jpeg)
@@ -108,6 +141,9 @@ Close
 
 **Download:** [TypeWise](https://apps.apple.com/app/typewise-keyboard/id1470215025) (Free, subscription available)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Carefree Typing on Your iPhone
 
  The downside to well-polished messages is the tendency for our iPhones to misunderstand slang, informal phrases, and sometimes even uncommon names. This can be funny at best and frustrating at worst, and may even be a cause of embarrassment or upset.
@@ -128,3 +164,39 @@ Close
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-navigating-freezing-of-fb-video-ads/"><u>[New] 2024 Approved  Navigating Freezing of FB Video Ads</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-leading-brands-in-top-15-4k-recording/"><u>[New] Leading Brands in Top 15 4K Recording</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-the-simplest-way-to-understand-and-apply-discord-spoilers-for-2024/"><u>[New] The Simplest Way to Understand and Apply Discord Spoilers for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-from-frames-to-fun-youtube-gifs-creation-made-simple/"><u>[Updated] From Frames to Fun  YouTube GIFs Creation Made Simple</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-top-vocal-modification-devices-for-digital-creators/"><u>2024 Approved  Top Vocal Modification Devices for Digital Creators</u></a></li>
+<li><a href="https://fox-that.techidaily.com/9-effective-solutions-if-you-cant-access-chatgpt-on-your-iphone/"><u>9 Effective Solutions if You Can't Access ChatGPT on Your iPhone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/airpods-switch-off-techniques-for-single-device-usage-only/"><u>AirPods Switch-Off Techniques for Single Device Usage Only</u></a></li>
+<li><a href="https://fox-that.techidaily.com/boosting-ios-network-performance-a-guide-to-optimal-wi-fi-setup-for-your-iphone/"><u>Boosting iOS Network Performance: A Guide to Optimal Wi-Fi Setup for Your iPhone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/enhance-your-memories-overcoming-iphone-photo-album-challenges-in-8-steps/"><u>Enhance Your Memories: Overcoming iPhone Photo Album Challenges in 8 Steps</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721478537064-facilitating-recovery-mechanisms/"><u>Facilitating Recovery Mechanisms:</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-restore-missing-icon-graphics-on-your-ios-device-top-solutions/"><u>How to Restore Missing Icon Graphics on Your iOS Device: Top Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-successfully-unfreeze-your-iphone-from-constant-earbuds-detection/"><u>How to Successfully Unfreeze Your iPhone From Constant Earbuds Detection</u></a></li>
+<li><a href="https://fox-that.techidaily.com/improve-your-iphones-autocorrect-abilities-with-these-amazing-6-fixes-and-techniques/"><u>Improve Your iPhone's AutoCorrect Abilities with These Amazing 6 Fixes & Techniques</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-backup-problems-discover-9-effective-fixes-for-icloud-connectivity/"><u>IPhone Backup Problems? Discover 9 Effective Fixes for iCloud Connectivity</u></a></li>
+<li><a href="https://fox-that.techidaily.com/mastering-ipad-recovery-modes-a-comprehensive-tutorial/"><u>Mastering iPad Recovery Modes: A Comprehensive Tutorial</u></a></li>
+<li><a href="https://fox-that.techidaily.com/missing-from-sight-how-to-track-down-and-recover-your-disappeared-iphone-app/"><u>Missing From Sight: How to Track Down and Recover Your Disappeared iPhone App</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/navigating-hashtag-use-for-maximum-marketing-reach-for-2024/"><u>Navigating Hashtag Use for Maximum Marketing Reach for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-top-picks-5-premier-mp3-mixing-programs-tailored-for-mac-systems/"><u>New In 2024, Top Picks 5 Premier MP3 Mixing Programs Tailored for Mac Systems</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-updated-10-best-2d-animation-software-freepaid/"><u>New Updated 10 Best 2D Animation Software Free/Paid</u></a></li>
+<li><a href="https://fox-that.techidaily.com/quick-solutions-to-reactivate-your-iphoneipads-predictive-emoji-feature/"><u>Quick Solutions to Reactivate Your iPhone/iPad's Predictive Emoji Feature</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolving-imessage-issues-on-apple-products-a-step-by-step-guide/"><u>Resolving iMessage Issues on Apple Products: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/revive-your-iphones-missing-voice-mail-9-essential-solutions/"><u>Revive Your iPhone's Missing Voice Mail: 9 Essential Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/seven-strategies-for-resolving-iphone-notification-problems-easily/"><u>Seven Strategies for Resolving iPhone Notification Problems Easily</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solved-why-is-my-imessage-still-logged-out-an-iphone-troubleshooting-tutorial/"><u>Solved! Why Is My iMessage Still Logged Out? - An iPhone Troubleshooting Tutorial</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-boosting-virtualbox-version-70-on-windows-11/"><u>Step-by-Step Guide: Boosting VirtualBox Version 7.0 on Windows 11</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-8-solutions-how-to-get-your-iphone-out-of-persistent-headset-mode/"><u>Top 8 Solutions: How To Get Your iPhone Out Of Persistent Headset Mode</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-your-iphones-non-responsive-voicemail-with-these-9-tips/"><u>Troubleshoot Your iPhone's Non-Responsive Voicemail with These 9 Tips</u></a></li>
+<li><a href="https://fox-that.techidaily.com/ultimate-guide-to-restoring-hey-siri-command-responsiveness-in-ios/"><u>Ultimate Guide to Restoring 'Hey Siri' Command Responsiveness in iOS</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unilateral-earbud-error-how-to-rectify-for-2024/"><u>Unilateral Earbud Error  How to Rectify for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unstuck-from-stalled-image-loads-in-safari-on-iphone-solve-it-with-our-9-techniques/"><u>Unstuck From Stalled Image Loads in Safari on iPhone: Solve It With Our 9 Techniques</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-best-of-both-worlds-top-free-and-paid-android-video-editing-apps-2023/"><u>Updated 2024 Approved Best of Both Worlds Top Free and Paid Android Video Editing Apps 2023</u></a></li>
+<li><a href="https://fox-that.techidaily.com/what-to-do-when-your-iphone-displays-error-message-14-heres-how-to-fix-it/"><u>What to Do When Your iPhone Displays Error Message 14? Here's How to Fix It!</u></a></li>
+</ul></div>

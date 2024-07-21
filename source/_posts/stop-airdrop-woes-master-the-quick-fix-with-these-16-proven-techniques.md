@@ -1,7 +1,7 @@
 ---
 title: "Stop AirDrop Woes: Master the Quick Fix with These 16 Proven Techniques"
-date: 2024-07-19 21:49:51
-updated: 2024-07-20 12:47:39
+date: 2024-07-20T03:09:40.738Z
+updated: 2024-07-21T03:09:40.738Z
 tags:
   - iphone
   - apple
@@ -14,6 +14,9 @@ thumbnail: https://thmb.techidaily.com/2738dcb65655ca3023848f9ec7026a9cce211e708
 
 ## Stop AirDrop Woes: Master the Quick Fix with These 16 Proven Techniques
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [Change Your AirDrop Visibility Settings](https://www.makeuseof.com/tag/airdrop-not-working-troubleshoot-file-transfer-woes/#change-your-airdrop-visibility-settings)
@@ -35,38 +38,76 @@ thumbnail: https://thmb.techidaily.com/2738dcb65655ca3023848f9ec7026a9cce211e708
 
  AirDrop makes it easy to transfer data from one Apple device to another. But it's far from perfect, so you may occasionally face issues initiating or finishing an AirDrop transfer. Below, we list some troubleshooting steps to help you fix these problems.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ## 1\. Change Your AirDrop Visibility Settings
 
  AirDrop gives you three visibility options:**Everyone** ,**Contacts Only** , or**Receiving Off** . If your device isn't showing up on AirDrop, it might be on**Receiving Off** . Therefore, switch to**Everyone** or**Contacts Only** , depending on the recipient.
 
 [Open**Control Center** on your iPhone or iPad](https://www.makeuseof.com/how-to-use-customize-control-center-iphone/) , then tap and hold in the top-left section to reveal an**AirDrop** button. Choose your preferred option.
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ![iphone control center showing high screen brightness](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/iphone-control-center-showing-high-screen-brightness.JPEG)
 
 ![network options in iphone control center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/network-options-in-iphone-control-center.JPEG)
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![airdrop visibility options in iphone control center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/airdrop-visibility-options-in-iphone-control-center.JPEG)
 
 Close
 
  On a Mac, open**Control Center** and click**AirDrop** from the top-left section. In the window that pops up, choose**Everyone** or**Contacts Only** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![airdrop visibility settings on mac](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/airdrop-visibility-settings-on-mac.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. Prepare Both Devices to Receive an AirDrop Request
 
  Your device can't be discovered if it's locked and in sleep mode. You must prepare your device for incoming AirDrop transfers, making it more likely to show up on someone else's device without delay.
 
  Unlock your iPhone or iPad and leave it on the Home Screen to prepare it. On a Mac, open a new**Finder** window and select**Go > AirDrop** from the menu bar to prepare for an AirDrop request.
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![go tab in mac finder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/go-tab-in-mac-finder.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. Turn Off AirDrop Restrictions
 
  If AirDrop isn't showing up at all, you may have blocked it in your**Content & Privacy Restrictions** for Screen Time. On an iPhone or iPad, go to **Settings > Screen Time > Content & Privacy Restrictions > Allowed Apps** .
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
 ![iphone limit usage settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/iphone-limit-usage-settings.JPEG)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 ![iphone content and privacy restrictions settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/iphone-content-and-privacy-restrictions-settings.JPEG)
 
 ![allowed apps in iphone content and privacy restriction settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/allowed-apps-in-iphone-content-and-privacy-restriction-settings.JPEG)
@@ -93,6 +134,9 @@ Close
 
 Close
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 5\. Allow Sharing by Bringing Devices Together
 
  This particular fix is specific to NameDrop, a feature Apple introduced alongside iOS 17\. You can [use NameDrop to share contact information](https://www.makeuseof.com/how-to-share-contacts-namedrop-iphone/) by placing the top edge of two iPhones close to each other.
@@ -101,10 +145,16 @@ Close
 
  Note that NameDrop only lets you share new contact information. You can't update an existing contact with NameDrop.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 ## 6\. Turn Off Do Not Disturb Mode
 
  Your device may not receive transfer requests from AirDrop if Do Not Disturb or another Focus mode is enabled. Open**Control Center** and hit the**Focus** icon (the default is a**moon** icon) to turn it off on your iPhone, iPad, or Mac.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Control Center on Mac](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/Control-Center-on-Mac.jpg)
 
 ## 7\. Restart Wi-Fi and Bluetooth on Both Devices
@@ -135,6 +185,9 @@ Close
 
 ![Downloads folder in macOS Sonoma](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/downloads-folder-in-macos-sonoma.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 11\. Turn Off Your VPN for AirDrop to Work
 
  Some users found that AirDrop didn't work until they [turned off the VPN on their iPhone](https://www.makeuseof.com/how-to-turn-off-vpn-on-iphone/) or Mac. You might need to do this in the VPN app or your device settings.
@@ -157,6 +210,9 @@ Close
 
  It doesn't matter too much if you keep data on your device since you're planning to sign in to the same account again. After signing out, return to**Settings** or**System Settings** to sign in to your Apple ID again.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 14\. Update the Operating System
 
  Apple frequently releases iOS, iPadOS, and macOS updates to not only add new features but also fix software bugs and address security issues. If AirDrop still isn't working, install the latest updates for your devices to hopefully fix it.
@@ -165,6 +221,9 @@ Close
 
 ![iphone main settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/img_7705.JPEG)
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![iPhone General settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/iphone-general-settings.JPEG)
 
 Close
@@ -205,3 +264,36 @@ Close
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/new-interactive-horizinas-analyzing-the-triumvirate-of-tech-vr-ar-and-mr/"><u>[New] Interactive Horizinas  Analyzing the Triumvirate of Tech (VR, AR, & MR)</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-how-to-edit-vertical-videos-for-instagram-in-final-cut-pro-x-for-2024/"><u>[Updated] How to Edit Vertical Videos for Instagram in Final Cut Pro X for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/17-proven-methods-to-reactivate-hey-siri-functionality-on-your-ios-device/"><u>17 Proven Methods to Reactivate 'Hey Siri' Functionality on Your iOS Device</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-top-10-history-youtube-channels-for-students-and-history-lovers/"><u>2024 Approved  Top 10 History YouTube Channels for Students & History Lovers</u></a></li>
+<li><a href="https://fox-that.techidaily.com/9-effective-remedies-if-your-iphones-screen-appears-yellowish/"><u>9 Effective Remedies if Your iPhone's Screen Appears Yellowish</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/constructing-an-elegant-transition-for-decreasing-auditory-intensity/"><u>Constructing an Elegant Transition for Decreasing Auditory Intensity</u></a></li>
+<li><a href="https://fox-that.techidaily.com/dealing-with-error-14-a-comprehensive-guide-for-iphone-repair/"><u>Dealing with 'Error 14': A Comprehensive Guide for iPhone Repair</u></a></li>
+<li><a href="https://fox-that.techidaily.com/ensuring-smooth-iphone-app-downloads-explore-these-proven-fixes-and-strategies-for-a-seamless-experience/"><u>Ensuring Smooth iPhone App Downloads: Explore These Proven Fixes and Strategies for a Seamless Experience</u></a></li>
+<li><a href="https://fox-that.techidaily.com/expert-guide-getting-your-iphones-alarm-to-ring-on-time-again/"><u>Expert Guide: Getting Your iPhone's Alarm to Ring on Time Again</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fix-fast-solving-the-issue-of-non-responsive-predictive-emojis-on-iphoneipad/"><u>Fix Fast: Solving the Issue of Non-Responsive Predictive Emojis on iPhone/iPad</u></a></li>
+<li><a href="https://fox-that.techidaily.com/guide-halting-airpod-pairing-with-various-ios-devices-simultaneeously/"><u>Guide: Halting AirPod Pairing with Various iOS Devices Simultaneeously</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-resolve-recurring-connectivity-problems-with-apples-airpods-and-iphone-a-step-by-step-guide-11-methods/"><u>How to Resolve Recurring Connectivity Problems with Apple's AirPods & iPhone: A Step-by-Step Guide (11 Methods)</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-restore-rotation-on-your-iphone-when-it-wont-change-modes/"><u>How To Restore Rotation on Your iPhone When It Won't Change Modes</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/how-to-skip-the-slip-ups-the-8-must-avoid-mistakes-for-new-youtube-stars-for-2024/"><u>How to Skip the Slip-Ups  The 8 Must-Avoid Mistakes for New YouTube Stars for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-use-device-manager-to-update-your-hardware-drivers-on-windows-11-and-10-by-drivereasy-guide/"><u>How to use Device Manager to update your hardware drivers on Windows 11 & 10</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721473926097-iphone-trapped-in-audio-gear-cycle-beat-it-with-our-8-handy-remedies-today/"><u>IPhone Trapped in Audio Gear Cycle? Beat It with Our 8 Handy Remedies Today</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-the-cream-of-the-crop-top-android-apps/"><u>New In 2024, The Cream of the Crop Top Android Apps</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-premiere-pro-essentials-20-free-title-and-intro-templates-for-2024/"><u>New Premiere Pro Essentials 20 Free Title and Intro Templates for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/obs-not-recording-audio-solved/"><u>OBS Not Recording Audio [Solved]</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721476592880-overcome-mobile-connectivity-hiccups-10-ways-to-restore-iphone-calls/"><u>Overcome Mobile Connectivity Hiccups: 10 Ways to Restore iPhone Calls!</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/l-your-youtube-journey-breakthroughs-at-the-500-subscriber-mark/"><u>Propel Your YouTube Journey  Breakthroughs at the 500-Subscriber Mark</u></a></li>
+<li><a href="https://fox-that.techidaily.com/safari-lag-solutions-4-strategies-to-boost-browsing-speed-on-iphone/"><u>Safari Lag Solutions: 4 Strategies to Boost Browsing Speed on iPhone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-the-issue-why-wont-my-iphone-accept-callers/"><u>Solving the Issue: Why Won't My iPhone Accept Callers?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/speeding-up-your-lethargic-iphone-identifying-problems-and-implementing-quick-fixes/"><u>Speeding Up Your Lethargic iPhone: Identifying Problems & Implementing Quick Fixes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/streamlined-troubleshooting-the-top-ten-fixes-for-iphone-and-ipad-widget-problems/"><u>Streamlined Troubleshooting: The Top Ten Fixes for iPhone & iPad Widget Problems</u></a></li>
+<li><a href="https://fox-that.techidaily.com/tips-for-better-photos-overcoming-the-challenge-of-an-iphone-with-fewer-megapixels/"><u>Tips for Better Photos: Overcoming the Challenge of an iPhone with Fewer Megapixels</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-strategies-for-addressing-an-unresponsive-iphone-alarm/"><u>Top Strategies for Addressing an Unresponsive iPhone Alarm</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721477008959-troubleshoot-and-resolve-iphone-microphone-problems-today/"><u>Troubleshoot and Resolve iPhone Microphone Problems Today</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721468110154-why-isnt-my-iphone-receiving-texts-learn-quick-fixes-here/"><u>Why Isn't My iPhone Receiving Texts? Learn Quick Fixes Here!</u></a></li>
+</ul></div>

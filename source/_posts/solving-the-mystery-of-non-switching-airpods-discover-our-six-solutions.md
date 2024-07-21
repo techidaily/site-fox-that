@@ -1,7 +1,7 @@
 ---
 title: Solving the Mystery of Non-Switching AirPods - Discover Our Six Solutions
-date: 2024-07-18 22:35:14
-updated: 2024-07-20 10:30:47
+date: 2024-07-20T03:24:29.951Z
+updated: 2024-07-21T03:24:29.951Z
 tags:
   - iphone
   - apple
@@ -30,8 +30,14 @@ Here’s how:
 4. Tap the**i** icon next to your AirPods.
 5. Check the**Model Number** . If you see**A1523** or**A1722** listed next to it, you have a pair of first-generation AirPods that don’t support automatic audio switching.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![iPhone Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/01/1-iphone-settings.png)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Bluetooth Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/01/2-iphone-bluetooth.png)
 
 ![AirPods Model Number](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/01/3-airpods-model-number.png)
@@ -54,6 +60,9 @@ Close
 
 ![General Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/01/5-iphone-general.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![About iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/01/6-iphone-about.png)
 
 Close
@@ -66,28 +75,46 @@ Close
 
 ![Checking the system software version on Mac.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/1-macos-version.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. Confirm You’re Using the Same Apple ID on Each Device
 
  To use automatic AirPods switching, you must be signed in to the same Apple ID across all of your Apple devices. If not, your AirPods will not switch between them automatically.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
 ### How to Check Your Apple ID on an iPhone and iPad
 
  To confirm that you have the same Apple ID on your iPhone and iPad, open**Settings** and tap your profile at the top. You will see your Apple ID listed at the top of the following screen.
 
  If needed, use the**Sign Out** option to sign out and sign in with the same Apple ID as the rest of your devices. Check our guide on [how to reset your Apple ID password](https://www.makeuseof.com/tag/forgot-apple-id-icloud-password/) if you struggle to sign in.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![iPhone Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/01/8-iphone-settings.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![iPhone Apple ID](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/01/9-apple-id.png)
 
 ![Sign Out](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/01/10-apple-id-sign-out.png)
 
 Close
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 ### How to Check Your Apple ID on Mac
 
  On your Mac, open the**System Preferences** app and select**Apple ID** . If you notice a different Apple ID than what you expected, switch to the**Overview** tab and use the**Sign Out** option to sign out of the device. Then, sign back in with the correct Apple ID you’re using everywhere else.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ![Checking the Apple ID on a Mac.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/2-apple-id.png)
 
 ## 4\. Enable Automatic Audio Switching
@@ -104,6 +131,9 @@ Follow these steps to enable automatic switching on an iPhone or iPad:
 4. Select**Connect to This iPhone** .
 5. Select**Automatically** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Bluetooth Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/01/13-iphone-bluetooth.png)
 
 ![AirPods Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/01/14-airpods-settings.png)
@@ -123,6 +153,9 @@ Follow these steps to enable automatic switching on a Mac:
 5. Open the menu next to**Connect to This Mac** and select**Automatically** .
 6. Select**Done** to save your changes.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Checking the AirPods settings on Mac.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/3-airpods-settings.png)
 
 ## 5\. Upgrade Your AirPods Firmware
@@ -139,6 +172,9 @@ Follow these steps to enable automatic switching on a Mac:
 
 ![General Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/01/19-general-settings.png)
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![About iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/01/20-about-iphone.png)
 
 ![AirPods Firmware Version](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/01/21-firmware-version.png)
@@ -161,6 +197,9 @@ Here’s how to reset your AirPods:
 
 ![Connecting AirPods to Mac.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/4-connect-airpods.PNG)
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Connection in progress.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/5-airpods-connecting.PNG)
 
 ![Connection established.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/6-airpods-connected.PNG)
@@ -169,6 +208,9 @@ Close
 
  You don’t have to reconnect your AirPods to each of your Apple devices; they should pair automatically using your Apple ID after connecting to the first device.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Get Your AirPods Switching Automatically
 
  Automatic device switching is an amazing functionality that removes the hassle of connecting your AirPods manually to different Apple devices all the time. Hopefully, the troubleshooting methods above helped you get it working properly.
@@ -187,3 +229,48 @@ Close
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-clips.techidaily.com/updated-endless-entertainment-the-science-behind-youtube-loops/"><u>[Updated] Endless Entertainment  The Science Behind YouTube Loops</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-converters-cornerstone-for-srt-transformations/"><u>[Updated] The Converter's Cornerstone for SRT Transformations</u></a></li>
+<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-xiaomi-redmi-note-13-5g-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Xiaomi Redmi Note 13 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/beyond-button-repair-techniques-for-rebooting-iphones-with-malfunctioning-controls/"><u>Beyond Button Repair: Techniques for Rebooting iPhones with Malfunctioning Controls</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721451889474-common-iphone-screen-faults-here-are-7-ways-to-fix-them-efficiently/"><u>Common iPhone Screen Faults? Here Are 7 Ways to Fix Them Efficiently</u></a></li>
+<li><a href="https://fox-that.techidaily.com/diagnosing-iphone-detection-problems-with-itunes-or-finder-easy-fixes/"><u>Diagnosing iPhone Detection Problems with iTunes or Finder - Easy Fixes!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/easy-to-implement-fixes-tackle-these-5-iphone-troubles-using-deep-recovery-methods/"><u>Easy-to-Implement Fixes: Tackle These 5 iPhone Troubles Using Deep Recovery Methods</u></a></li>
+<li><a href="https://fox-that.techidaily.com/essential-troubleshooting-techniques-for-when-your-iphone-fails-to-deliver-text-messages-10-methods/"><u>Essential Troubleshooting Techniques for When Your iPhone Fails to Deliver Text Messages (10 Methods)</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fix-your-solo-misbehaving-airpod-with-these-steps/"><u>Fix Your Solo Misbehaving AirPod with These Steps</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-face-id-issues-common-reasons-for-iphone-recognition-failures/"><u>Fixing Face ID Issues: Common Reasons for iPhone Recognition Failures</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-imessage-7-effortless-methods-to-get-it-running-again-on-apple-devices/"><u>Fixing iMessage: 7 Effortless Methods to Get It Running Again on Apple Devices</u></a></li>
+<li><a href="https://fox-that.techidaily.com/get-your-airplay-up-and-running-a-guide-for-troubled-devices/"><u>Get Your AirPlay Up and Running: A Guide for Troubled Devices</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-fix-when-your-iphone-displays-just-phone-numbers-on-messages/"><u>How to Fix When Your iPhone Displays Just Phone Numbers on Messages</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-reconnect-and-retain-active-status-in-messages-a-guide-for-iphone-users-facing-signed-out-errors/"><u>How to Reconnect and Retain Active Status in Messages: A Guide for iPhone Users Facing Signed Out Errors</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-resolve-issues-with-apple-denying-your-payment-option/"><u>How to Resolve Issues with Apple Denying Your Payment Option</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-samsung-galaxy-m34-5g-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Samsung Galaxy M34 5G to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-realme-c55-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Realme C55 Without PUK Codes</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-comparative-content-crusade-analyzing-your-videos-against-others/"><u>In 2024, Comparative Content Crusade  Analyzing Your Videos Against Others'</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-mastering-multi-image-melding-on-computers/"><u>In 2024, Mastering Multi-Image Melding on Computers</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/innovative-fb-video-editors-for-high-impact-advertising-campaigns/"><u>Innovative Fb Video Editors for High-Impact Advertising Campaigns</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721456889000-iphoneipad-keyboard-malfunctioning-discover-top-6-fixes/"><u>IPhone/iPad Keyboard Malfunctioning? Discover Top 6 Fixes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/managing-your-digital-wellbeing-resetting-screen-time-security-on-apple-devices/"><u>Managing Your Digital Wellbeing: Resetting Screen Time Security on Apple Devices</u></a></li>
+<li><a href="https://fox-that.techidaily.com/mastering-the-full-format-of-your-iphoneipad-a-comprehensive-walkthrough/"><u>Mastering the Full Format of Your iPhone/iPad – A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-hey-siri-glitches-on-ios-devices-17-proven-strategies-for-smooth-operation/"><u>Overcoming 'Hey Siri' Glitches on iOS Devices - 17 Proven Strategies for Smooth Operation</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-siri-malfunctions-7-effective-strategies-to-reactivate-your-idevices-virtual-helper/"><u>Overcoming Siri Malfunctions – 7 Effective Strategies to Reactivate Your iDevice's Virtual Helper</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-siri-problems-a-step-by-step-guide-for-iphoneipad-owners/"><u>Overcoming Siri Problems: A Step-by-Step Guide for iPhone/iPad Owners</u></a></li>
+<li><a href="https://fox-that.techidaily.com/safari-wont-show-pictures-here-are-9-fixes-to-restore-them-on-your-iphone/"><u>Safari Won't Show Pictures? Here Are 9 Fixes to Restore Them on Your iPhone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/secure-your-iphone-airpods-link-top-11-fixes-to-stop-disconnections/"><u>Secure Your iPhone-AirPods Link: Top 11 Fixes to Stop Disconnections</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solutions-for-locating-missing-events-on-your-iphones-digital-agenda/"><u>Solutions for Locating Missing Events on Your iPhone's Digital Agenda</u></a></li>
+<li><a href="https://fox-that.techidaily.com/steps-to-conduct-an-iphone-hardware-test-via-apples-online-remote-service/"><u>Steps to Conduct an iPhone Hardware Test via Apple's Online Remote Service</u></a></li>
+<li><a href="https://fox-that.techidaily.com/tackle-mobile-problems-effectively-by-just-turning-it-off-and-on-again/"><u>Tackle Mobile Problems Effectively by Just Turning It Off and On Again</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-seventh-selection-of-aquatic-cameras-for-2024/"><u>The Ultimate Seventh Selection of Aquatic Cameras for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721468811781-trouble-linking-up-with-an-iphone-vpn-discover-7-effective-solutions/"><u>Trouble Linking Up with an iPhone VPN? Discover 7 Effective Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-iphone-face-id-issues-with-these-14-effective-solutions/"><u>Troubleshoot iPhone Face ID Issues with These 14 Effective Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-tips-for-finding-hidden-airpods-in-find-my-app/"><u>Troubleshooting Tips for Finding Hidden AirPods in 'Find My App'</u></a></li>
+<li><a href="https://fox-that.techidaily.com/ultimate-guide-complete-steps-to-restore-your-iphoneipad/"><u>Ultimate Guide: Complete Steps to Restore Your iPhone/iPad</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlock-essential-features-and-enhancements-the-critical-need-to-install-ios-153-today/"><u>Unlock Essential Features and Enhancements: The Critical Need to Install iOS 15.3 Today</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/unveiling-the-power-of-images-in-instagram-movies/"><u>Unveiling the Power of Images in Instagram Movies</u></a></li>
+<li><a href="https://apple-account.techidaily.com/why-apple-account-disabled-from-your-apple-iphone-14-how-to-fix-by-drfone-ios/"><u>Why Apple Account Disabled From your Apple iPhone 14? How to Fix</u></a></li>
+<li><a href="https://fox-that.techidaily.com/wi-fi-woes-discovering-the-7-main-reasons-for-slow-phone-internet-speeds/"><u>Wi-Fi Woes: Discovering the 7 Main Reasons for Slow Phone Internet Speeds</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721467470804-your-iphone-needs-checkup-discover-apples-rde-for-easy-hardware-testing/"><u>Your iPhone Needs Checkup? Discover Apple's RDE for Easy Hardware Testing</u></a></li>
+</ul></div>

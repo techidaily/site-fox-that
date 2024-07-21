@@ -1,7 +1,7 @@
 ---
 title: Trouble with iMessages Not Going Through on Your iPhone?
-date: 2024-07-18 15:21:52
-updated: 2024-07-20 11:20:26
+date: 2024-07-20T03:17:39.345Z
+updated: 2024-07-21T03:17:39.345Z
 tags:
   - iphone
   - apple
@@ -26,6 +26,9 @@ thumbnail: https://thmb.techidaily.com/99216a5fd24020f4e914206166919d3aff0939ed3
 
  Not everyone has this feature activated either. You can toggle read receipts for yourself by going to**Settings > Messages > Send Read Receipts** , where you can turn this function on or off. In fact, this subsection of Settings is essential if you have issues with iMessage.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Why Does iMessage Say "Delivered" When It's Not?
 
  Sometimes, a message will say it's Delivered, but the recipient will insist they never got it. Don't automatically think they're lying: there are many reasons this might happen. It could be a quirk of iMessage, but it could also be that the message was delivered to another device.
@@ -58,8 +61,14 @@ So, what does it mean when an iMessage doesn't say Delivered?
 
  Review the options at**Settings > Cellular** (or**Mobile Data**) if you're relying on roaming. If you do have service, you'll simply have to wait until the recipient connects too.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Do You Have iMessage Turned On?
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
 ![iphone imessages won't deliver if this is turned off](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/03/iMessages-off.jpg)
 
 ![turn imessages on if texts won't deliver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/03/iMessage.jpg)
@@ -78,6 +87,9 @@ Close
 
  You can resend a message via SMS if it reads Not Delivered by tapping on the exclamation point next to the message. Alternatively, switch to another popular messaging app. Major options like WhatsApp and Telegram work on all platforms and offer [secure (and sometimes encrypted) messaging](https://www.makeuseof.com/best-encrypted-messaging-apps-android-ios/) . Of course, the recipient has to have the same app installed...
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ### Try a Force Restart
 
  A forced restart reboots your iPhone, stopping any problematic processes running in the background. Crucially, it doesn't delete any data. Learn [how to force restart your iPhone](https://www.makeuseof.com/tag/restart-iphone-recovery-mode/) for full instructions.
@@ -90,10 +102,16 @@ Close
 
  This will automatically check if your software is updated and, if not, suggest an installation. You won't lose any photos or messages, although some apps may ask you to log in again after updating.
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Apple ID: Sign Out and Back In
 
  This is one of the most common fixes for iMessage troubles: you just need to sign out of your Apple ID and back in again. Go to**Settings > Messages > Send & Receive** and tap your ID. You should then**Sign Out** , after which all your details, except the phone number, will disappear. Select**Use your Apple ID for iMessage** and sign back in. This may take a few moments.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![iphone cell number and email address](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/03/iMessage-send-and-receive.jpg)
 
 ![send and receive from phone number and email address](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/03/Apple-ID.jpg)
@@ -114,6 +132,9 @@ Close
 
 ![hold sms imessage to delete](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/03/text-options.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ![mass delete sms imessages](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/03/select-text-messages.jpg)
 
 Close
@@ -128,6 +149,9 @@ Close
 
  They'll activate a new SIM and you'll have to wait until your old one has no service before swapping to the new card. Transferring between SIMs can take up to 24 hours. From personal experience, it rarely takes longer than an hour before carrier settings are restored.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Reset All Settings
 
  This should really be your last resort because you'll need to sign into accounts and set up network settings like Wi-Fi and VPNs again. Most importantly,**this does not delete your data** .
@@ -140,6 +164,9 @@ Close
 
  This thought will trouble you, but if you can contact that person elsewhere (on Facebook, Twitter, or Snapchat, for example), then they're unlikely to have blocked your phone number.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Why Is My iMessage Still Not Delivering?
 
  If you've tried everything above and iMessage still won't deliver, there are further possibilities to entertain. The first is that there's nothing wrong with your phone; the problem is with the recipient's device. This is likely if messages to your other contacts are delivered correctly, although that's not always the case.
@@ -160,3 +187,44 @@ Close
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-navigating-youtube-partnerships-successfully/"><u>[Updated] 2024 Approved  Navigating YouTube Partnerships Successfully</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-co-production-strategies-for-online-content-proliferation/"><u>[Updated] Co-Production Strategies for Online Content Proliferation</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-elevating-your-social-media-game-horizontal-videos-on-igtv/"><u>[Updated] Elevating Your Social Media Game  Horizontal Videos on IGTV</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-cut-to-clip-chaos-achieving-smoothness-with-inshot/"><u>[Updated] From Cut-to-Clip Chaos  Achieving Smoothness with Inshot</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-navigating-discords-streaming-features-desktopmobile-for-2024/"><u>[Updated] Navigating Discord's Streaming Features (Desktop/Mobile) for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/boost-safari-browsing-top-4-tips-for-enhancing-iphone-performance/"><u>Boost Safari Browsing: Top 4 Tips for Enhancing iPhone Performance</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721480118664-default-interface-implementation/"><u>Default Interface Implementation:</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/discover-how-to-get-high-quality-images-at-zero-cost/"><u>Discover How To Get High-Quality Images at Zero Cost</u></a></li>
+<li><a href="https://fox-that.techidaily.com/error-14-on-iphone-heres-how-you-can-fix-it-now/"><u>Error 14 on iPhone? Here's How You Can Fix It Now!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fix-guide-addressing-problems-when-your-iphones-guided-access-wont-start/"><u>Fix Guide: Addressing Problems When Your iPhone's Guided Access Won’t Start</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fix-the-mysterious-vanishing-of-app-icons-from-your-iphone-quick-solutions-inside/"><u>Fix the Mysterious Vanishing of App Icons From Your iPhone – Quick Solutions Inside!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-a-faulty-proximity-sensing-feature-on-your-ios-device/"><u>Fixing a Faulty Proximity Sensing Feature on Your iOS Device</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-idevice-software-update-problems-a-guide-to-9-effective-solutions/"><u>Fixing iDevice Software Update Problems: A Guide to 9 Effective Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/guide-fixing-wrong-people-identification-issues-within-apples-photo-library/"><u>Guide: Fixing Wrong People Identification Issues Within Apple's Photo Library</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-adjust-camera-settings-to-prevent-whatsapp-zoom-glitches/"><u>How to Adjust Camera Settings to Prevent WhatsApp Zoom Glitches</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-factory-reset-ipad-or-apple-iphone-14-plus-without-icloud-password-or-apple-id-by-drfone-ios/"><u>How to Factory Reset iPad or Apple iPhone 14 Plus without iCloud Password or Apple ID?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/icloud-woes-solving-the-problem-of-whatsapp-backup-failures/"><u>ICloud Woes: Solving the Problem of WhatsApp Backup Failures</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-samsung-galaxy-a24-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Samsung Galaxy A24 | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-transform-your-zoom-presentations-with-stunning-visuals/"><u>In 2024, Transform Your Zoom Presentations with Stunning Visuals</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-twitters-wild-ride-the-hottest-tweets-unveiled/"><u>In 2024, Twitter's Wild Ride  The Hottest Tweets Unveiled</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721453212409-iphone-screen-lags-before-turning-off-expert-tips-to-speed-things-up/"><u>IPhone Screen Lags Before Turning Off? Expert Tips to Speed Things Up</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcome-iphone-sos-only-status-bar-issue-using-these-proven-fixes/"><u>Overcome iPhone SOS-Only Status Bar Issue Using These Proven Fixes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-face-id-failures-effective-strategies-and-solutions-to-revive-your-iphones-facial-recognition-feature/"><u>Overcoming Face ID Failures: Effective Strategies and Solutions to Revive Your iPhone's Facial Recognition Feature</u></a></li>
+<li><a href="https://fox-that.techidaily.com/quick-fixes-to-accelerate-your-iphones-safari-experience/"><u>Quick Fixes to Accelerate Your iPhone's Safari Experience</u></a></li>
+<li><a href="https://fox-that.techidaily.com/recharge-your-iphone-wirelessly-again-with-these-7-helpful-tricks/"><u>Recharge Your iPhone Wirelessly Again with These 7 Helpful Tricks</u></a></li>
+<li><a href="https://fox-that.techidaily.com/safari-lags-on-ios-discover-these-4-strategies-for-swift-browsing/"><u>Safari Lags on iOS? Discover These 4 Strategies for Swift Browsing</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-iphone-auto-brightness-issues-discover-7-effective-fixes/"><u>Solving iPhone Auto-Brightness Issues: Discover 7 Effective Fixes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/step-by-step-guide-correcting-mobile-network-code-issues-on-your-device/"><u>Step-by-Step Guide: Correcting Mobile Network Code Issues on Your Device</u></a></li>
+<li><a href="https://fox-that.techidaily.com/struggling-with-iphones-auto-brightness-feature-discover-7-quick-fixes-here/"><u>Struggling With iPhone's Auto-Brightness Feature? Discover 7 Quick Fixes Here</u></a></li>
+<li><a href="https://fox-that.techidaily.com/tracking-down-apples-facetime-imagery-a-comprehensive-guide/"><u>Tracking Down Apple's FaceTime Imagery: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-guide-9-essential-steps-for-resolving-iphone-voicemail-issues/"><u>Troubleshooting Guide: 9 Essential Steps for Resolving iPhone Voicemail Issues</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-tips-how-to-forcefully-reset-your-iphone-and-reach-the-recovery-interface/"><u>Troubleshooting Tips: How to Forcefully Reset Your iPhone & Reach the Recovery Interface</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-whatsapp-solutions-for-failed-icloud-backups/"><u>Troubleshooting WhatsApp: Solutions for Failed iCloud Backups</u></a></li>
+<li><a href="https://fox-that.techidaily.com/ultimate-guide-step-by-step-process-to-master-your-iphoneipad-hardware-restore/"><u>Ultimate Guide: Step-by-Step Process to Master Your iPhone/iPad Hardware Restore</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlock-brightness-on-your-iphone-top-12-flashlight-repair-tips/"><u>Unlock Brightness on Your iPhone: Top 12 Flashlight Repair Tips</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlocking-high-speed-mobile-connections-expert-tips-for-improved-performance/"><u>Unlocking High-Speed Mobile Connections: Expert Tips for Improved Performance</u></a></li>
+<li><a href="https://fox-that.techidaily.com/what-you-need-to-know-about-retrieving-lost-notes-from-your-iphone/"><u>What You Need to Know About Retrieving Lost Notes From Your iPhone</u></a></li>
+</ul></div>

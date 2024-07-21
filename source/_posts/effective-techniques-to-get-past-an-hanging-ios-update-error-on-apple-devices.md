@@ -1,0 +1,210 @@
+---
+title: Effective Techniques to Get Past an Hanging iOS Update Error on Apple Devices
+date: 2024-07-20T03:34:25.826Z
+updated: 2024-07-21T03:34:25.826Z
+tags:
+  - iphone
+  - apple
+categories:
+  - iphone
+description: This Article Describes Effective Techniques to Get Past an Hanging iOS Update Error on Apple Devices
+excerpt: This Article Describes Effective Techniques to Get Past an Hanging iOS Update Error on Apple Devices
+thumbnail: https://thmb.techidaily.com/099f29eab2c71ad55d4343f08e03217de8a45609b98e37e8d331924ca8f4791a.jpg
+---
+
+## Effective Techniques to Get Past an Hanging iOS Update Error on Apple Devices
+
+ While it's normal for an iPhone to pause an update for a few minutes or so, you can sometimes get stuck in the middle of a download with no progress, which can be extremely frustrating. So, let's see what you can do if your iOS or iPadOS software update download gets stuck halfway through.
+
+## 1\. Charge Your iPhone
+
+ Apple requires your iPhone to have a battery percentage of at least 50 percent to download an iOS update. If you started a download at 55 percent, for example, it's highly likely the battery level will fall below this required percentage in the middle of an update.
+
+ Thus, this might be the reason why your iOS update is paused. To resolve this, simply charge your iPhone and leave it there until the download completes.
+
+## 2\. Reset Your Network Settings
+
+ One of the most common reasons for an interrupted iOS update is an unstable network. If you lose your internet connection while an update is downloading, your iPhone will automatically pause the iOS update. The same thing will happen if your connection is weak or fluctuating.
+
+ Typically, your iPhone will resume the update when your internet connection improves, but that is not always the case.
+
+ A sure indicator that your internet is the culprit of a paused iOS update is a grayed-out**Resume Download** option on the update screen.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
+![grayed out resume download button on iphone ios update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/muo-in-article-image-1200px-by-600px-21-ratio-35.jpg)
+
+ There are several fixes you can try to make your network conditions better and unpause your iOS update:
+
+* Try resetting your Wi-Fi connection by turning your iPhone's Wi-Fi off and back on.
+* Do a soft reset by [restarting your iPhone](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) .
+* Turn Airplane Mode on and off to restore your connections. You can access Airplane mode from your [iPhone's Control Center](https://www.makeuseof.com/how-to-use-customize-control-center-iphone/) .
+* [Reset all network settings on your iPhone](https://www.makeuseof.com/how-to-reset-network-settings-iphone/) to eliminate any underlying connectivity problems.
+* Restart or [reset your router](https://www.makeuseof.com/how-to-reset-router/) .
+
+ Also, avoid using your iPhone's cellular data to update iOS. Unless you have an active 5G plan on an iPhone 12 or later, Apple doesn't allow you to download a major iOS update on cellular data.
+
+ For example, if you intend to upgrade directly from iOS 16, you might face the issue where the iOS 17 download gets paused. It's best to use cellular data for minor updates only or rely on Wi-Fi if your cellular data connection is often slow, unstable, or has a limited quota.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
+## 3\. Clear More Storage Space
+
+ If you're running low on iPhone storage, your update may stop before it downloads completely. Before starting an update download, your iPhone indicates how large the file is. You can expect iOS updates to be anywhere from 1GB to 6GB in size. However, you'll need to make sure your device has twice the storage space to download and install the update.
+
+![iOS Software Update menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/ios-software-update-menu.jpg)
+
+ To confirm you have enough storage for an update, go to**Settings > General > iPhone Storage** . If you don't have enough space on your device, try deleting some media or offloading unused apps to [free up storage space on your iPhone](https://www.makeuseof.com/tag/iphone-storage-full-create-free-space-ios/) .
+
+ If you have insufficient space to download the update, try updating your iPhone with a Mac. This way, you don't need quite as much free space on your iOS device. Just follow these steps:
+
+1. Connect your iPhone and Mac via USB.
+2. Open**Finder** to locate your iPhone. You may need to trust your device to continue.
+3. Select your iPhone from the sidebar.
+4. Under the**General** tab, click**Check for Update** .
+
+![Mac Finder showing a connected iPhone with 'Check for Update' magnified](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/update-iPhone-with-Mac.jpg)
+
+ If you have a Windows PC, follow these steps using iTunes instead of Finder.
+
+ If you find that you have enough storage space for the update, then it's likely not the problem. Let's look at more fixes for your interrupted iOS update.
+
+## 4\. Remove Beta Software or Incomplete Updates
+
+ If you've previously downloaded an iOS beta or an incomplete update, it'll almost certainly cause your update to fail this time.
+
+ The way forward is to [uninstall the iOS beta](https://www.makeuseof.com/tag/install-ios-beta/) or remove the former update's installation package. To do the latter, open your iPhone's**Settings** , go to**General > iPhone Storage** , and scroll down the list of apps till you find**Software Update** . Tap it, then select**Delete Update** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![iPhone storage breakdown](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/IMG_8898.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
+![iPhone Storage breakdown](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/IMG_8899.jpg)
+
+Close
+
+ Once you've deleted the update file, you can head to**General > Software Update** to restart the update.
+
+## 5\. Turn Off Content and Privacy Restrictions
+
+ Most people turn on Content and Privacy restrictions to block themselves or someone else from installing and deleting apps. It's also a great feature for parents trying to restrict their children from accessing certain content.
+
+ If you previously turned on content restriction for iTunes and App Store purchases, your iOS update will not succeed.
+
+ To lift the restrictions, go to **Settings > Screen Time > Content and Privacy Restrictions** . You can turn off all restrictions by toggling off the switch at the top of the page or allow access for specific categories. For example, tap**iTunes & App Store Purchases** to create customized access rules for installing or deleting apps.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
+![iphone screen time settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/iphone-screen-time-settings.JPEG)
+
+![content and privacy restrictions in iphone screen time](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/content-privacy-restrictions.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![itunes and app store purchases settings in iphone screen time](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/itunes-and-app-store-purchases.jpg)
+
+Close
+
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 6\. Check Apple's System Status Page
+
+ When Apple releases a new iOS update, iPhone users all over the world rush to download it. This can cause Apple's servers to become overburdened, resulting in downtimes that will cause your iOS update to pause.
+
+![Screenshot of Apple's System Status website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/Screenshot-2022-04-15-at-19-57-48-Apple---Support---System-Status.jpg)
+
+ It's rarely the case, but we can't rule out the possibility that Apple's update servers have failed. To be sure, visit the [Apple System Status page](https://www.apple.com/support/systemstatus/) and check for a green circle for update-related services such as the App Store, iCloud Account, etc. If there isn't a green circle, that means there's a system problem, and you'll have to wait until Apple fixes it.
+
+## Unpause and Finish Your iOS Update
+
+ When your iOS update pauses for whatever reason, one of these fixes should help you resume your iOS update download and installation.
+
+ But if none of these tips work, you may have to try a DFU restore to completely erase and reinstall all the software and firmware on your iPhone. This step will also erase all your data, so make sure you have a backup first.
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-achieve-cinematic-gaming-with-advanced-steam-recordings-for-2024/"><u>[New] Achieve Cinematic Gaming with Advanced Steam Recordings for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-streaming-software-showdown-choosing-between-obs-and-streamlabs/"><u>[New] In 2024, Streaming Software Showdown  Choosing Between OBS and Streamlabs</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-innovative-fb-video-editors-the-best-20-tools-for-effective-ads/"><u>[New] Innovative FB Video Editors  The Best 20 Tools for Effective Ads</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-maximize-your-chat-experience-a-complete-guide-to-pinning-in-discord-for-2024/"><u>[New] Maximize Your Chat Experience  A Complete Guide to Pinning in Discord for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-opt-out-of-autoplayed-podcast-selection-by-spotify/"><u>[New] Opt-Out of Autoplayed Podcast Selection by Spotify</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-powering-up-your-action-footage-one-gadget-at-a-time/"><u>[New] Powering Up Your Action Footage, One Gadget at a Time</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-role-of-content-quality-in-youtube-rankings/"><u>[New] The Role of Content Quality in YouTube Rankings</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-twittervidstowebm-direct-media-conversion/"><u>[Updated] 2024 Approved  TwitterVidsToWebM  Direct Media Conversion</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-mastering-the-art-of-personalizing-video-covers-for-facebook-for-2024/"><u>[Updated] Mastering the Art of Personalizing Video Covers for Facebook for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/10-proven-methods-for-restoring-iphone-cellular-internet-service/"><u>10 Proven Methods for Restoring iPhone Cellular Internet Service</u></a></li>
+<li><a href="https://fox-that.techidaily.com/bring-back-my-vanished-iphone-contacts-an-ultimate-troubleshooting-handbook/"><u>Bring Back My Vanished iPhone Contacts: An Ultimate Troubleshooting Handbook</u></a></li>
+<li><a href="https://fox-that.techidaily.com/bypass-slow-mobile-connectivity-a-step-by-step-solution-for-faster-browsing/"><u>Bypass Slow Mobile Connectivity: A Step-by-Step Solution for Faster Browsing</u></a></li>
+<li><a href="https://fox-that.techidaily.com/bypassing-iphone-safari-glitches-effective-techniques-and-best-practices-in-10-steps/"><u>Bypassing iPhone Safari Glitches: Effective Techniques & Best Practices in 10 Steps</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721474325165-cant-use-facetime-discover-15-ways-to-get-it-up-and-running-again/"><u>Can't Use FaceTime? Discover 15 Ways to Get It Up and Running Again</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-oppo-a78-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Oppo A78 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/dealing-with-a-broken-proximity-function-on-your-iphone-diagnostic-steps/"><u>Dealing with a Broken Proximity Function on Your iPhone: Diagnostic Steps</u></a></li>
+<li><a href="https://fox-that.techidaily.com/detecting-moisture-damage-in-iphones-the-ultimate-list-of-9-red-flags/"><u>Detecting Moisture Damage in iPhones: The Ultimate List of 9 Red Flags</u></a></li>
+<li><a href="https://fox-that.techidaily.com/dont-delay-discover-the-must-have-features-in-latest-ios-update-153/"><u>Don’t Delay: Discover the Must-Have Features in Latest iOS Update, 15.3</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-face-id-errors-a-comprehensive-guide-with-14-handy-solutions-for-iphones/"><u>Fixing Face ID Errors: A Comprehensive Guide with 14 Handy Solutions for iPhones</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-iphone-connectivity-what-to-do-when-itunes-and-finder-ignore-your-device/"><u>Fixing iPhone Connectivity: What To Do When iTunes & Finder Ignore Your Device</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-iphone-status-bar-stop-incorrectly-showing-sos-alerts-now/"><u>Fixing iPhone Status Bar: Stop Incorrectly Showing SOS Alerts Now!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-prolonged-screen-timeout-issues-on-your-iphone-easily/"><u>Fixing Prolonged Screen Timeout Issues on Your iPhone Easily</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/how-to-record-online-tv-shows/"><u>How to Record Online TV Shows</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-repair-itunesfinder-when-it-wont-detect-your-iphone/"><u>How to Repair iTunes/Finder When It Won't Detect Your iPhone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-solve-your-iphones-persistent-portrait-only-display-problem/"><u>How to Solve Your iPhone's Persistent Portrait-Only Display Problem</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-navigating-instagrams-pathway-to-picture-posting/"><u>In 2024, Navigating Instagram's Pathway to Picture Posting</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/in-2024-wmv-video-splitting-made-easy-top-5-free-tools/"><u>In 2024, WMV Video Splitting Made Easy Top 5 Free Tools</u></a></li>
+<li><a href="https://fox-that.techidaily.com/missing-out-on-smsmms-bridge-your-iphone-and-android-for-perfect-communication/"><u>Missing Out on SMS/MMS? Bridge Your iPhone and Android for Perfect Communication</u></a></li>
+<li><a href="https://fox-that.techidaily.com/perfecting-spell-check-6-steps-for-better-typing-on-your-iphone-and-outsmarting-autocorrect/"><u>Perfecting Spell Check: 6 Steps for Better Typing on Your iPhone and Outsmarting Autocorrect</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/-queens-rising-youtubes-top-10-for-2024/"><u>Pixel Queens Rising  YouTube's #Top 10 for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/reactivate-and-restore-5-steps-for-resolving-unavailable-icloud-options-on-iphoneipad/"><u>Reactivate and Restore: 5 Steps for Resolving Unavailable iCloud Options on iPhone/iPad</u></a></li>
+<li><a href="https://fox-that.techidaily.com/retrieve-accidentally-erased-iphone-notes-a-comprehensive-guide/"><u>Retrieve Accidentally Erased iPhone Notes: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/safeguard-focus-prevent-ringtone-responses-between-ipad-and-iphone/"><u>Safeguard Focus: Prevent Ringtone Responses Between iPad & iPhone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/silencing-duplicate-alerts-keep-your-ipad-quiet-while-your-iphone-rings/"><u>Silencing Duplicate Alerts: Keep Your iPad Quiet While Your iPhone Rings</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/smooth-transition-uploading-imovie-films-into-vimeo/"><u>Smooth Transition  Uploading iMovie Films Into Vimeo</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-the-issue-why-your-airpods-arent-seamlessly-connecting-across-apple-gadgets/"><u>Solving the Issue: Why Your AirPods Aren't Seamlessly Connecting Across Apple Gadgets</u></a></li>
+<li><a href="https://fox-that.techidaily.com/speed-hacks-quickly-enhance-safari-performance-on-iphone-heres-how/"><u>Speed Hacks: Quickly Enhance Safari Performance on iPhone Here's How</u></a></li>
+<li><a href="https://fox-that.techidaily.com/step-by-step-guide-completely-restoring-your-iphoneipad/"><u>Step-by-Step Guide: Completely Restoring Your iPhone/iPad</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721470930546-tablet-touch-issues-demystified-follow-our-8-essential-fixes/"><u>Tablet Touch Issues Demystified: Follow Our 8 Essential Fixes</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/the-video-game-chroniclers-essential-checklist-for-2024/"><u>The Video Game Chronicler’s Essential Checklist for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/tips-and-tricks-for-apple-id-locked-issue-from-iphone-12-mini-by-drfone-ios/"><u>Tips and Tricks for Apple ID Locked Issue From iPhone 12 mini</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-six-strategies-for-correcting-autocorrect-mistakes-on-your-iphone/"><u>Top Six Strategies for Correcting AutoCorrect Mistakes on Your iPhone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-battery-degradation-in-apples-latest-iphone-model/"><u>Troubleshooting Battery Degradation in Apple's Latest iPhone Model</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-failed-imessages-solutions-for-iphone-users/"><u>Troubleshooting Failed iMessages: Solutions for iPhone Users</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-iphone-cant-switch-to-landscape-learn-how-to-resolve-screen-orientation-issues/"><u>Troubleshooting iPhone: Can't Switch to Landscape? Learn How to Resolve Screen Orientation Issues</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-steps-making-your-airpods-seamlessly-sync-with-multiple-iphonesipads/"><u>Troubleshooting Steps: Making Your AirPods Seamlessly Sync with Multiple iPhones/iPads</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-stuck-ios-updates-9-effective-solutions/"><u>Troubleshooting Stuck iOS Updates: 9 Effective Solutions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/turning-images-into-scenes-syncing-beats-for-2024/"><u>Turning Images Into Scenes, Syncing Beats for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/uncovering-the-signs-of-a-block-on-imessage-techniques-for-discovering-if-youve-been-cut-off-by-contact/"><u>Uncovering the Signs of a Block on iMessage: Techniques for Discovering If You've Been Cut Off by Contact</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlocking-the-secrets-to-fixing-major-glitches-by-restarting-your-mobile/"><u>Unlocking the Secrets to Fixing Major Glitches by Restarting Your Mobile</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unveiling-potential-issues-with-iphone-14s-battery-life-and-performance/"><u>Unveiling Potential Issues with iPhone 14'S Battery Life and Performance</u></a></li>
+</ul></div>

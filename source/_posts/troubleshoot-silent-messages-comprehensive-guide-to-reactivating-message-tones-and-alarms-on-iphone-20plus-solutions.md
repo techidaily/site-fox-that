@@ -1,7 +1,7 @@
 ---
 title: "Troubleshoot Silent Messages: Comprehensive Guide to Reactivating Message Tones and Alarms on iPhone (20+ Solutions)"
-date: 2024-07-19 13:38:15
-updated: 2024-07-20 12:56:25
+date: 2024-07-20T03:06:07.233Z
+updated: 2024-07-21T03:06:07.233Z
 tags:
   - iphone
   - apple
@@ -36,12 +36,18 @@ To do this, follow these simple instructions:
 
 ![Screenshot showing Tap Messages in iPhone Notifications](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/tap-messages-in-iphone-notifications.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ![Ensure all Messages app notification settings are enabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/ensure-all-messages-app-notification-settings-are-enabled.png)
 
 Close
 
  After following the above steps, new text messages via SMS and iMessage should show up on your iPhone and make a sound when the device is locked.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. Ensure the Person Isn't Muted
 
  If you're wondering why your iPhone is not notifying you when you receive a text from one person, you might have muted that person. Once you mute a person or group, your iPhone won't alert you when they send you a new text or iMessage. Below, you'll find out how to fix this:
@@ -50,8 +56,14 @@ Close
 2. Swipe left on the conversation that has a gray slashed bell icon.
 3. Now, tap the**bell icon** to unmute this message thread and get alerts.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![iPhone Messages app showing a muted conversation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/iphone-messages-app-showing-a-muted-conversation.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Swipe on muted conversation and tap bell icon to start alerts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/swipe-on-muted-conversation-and-tap-bell-icon-to-start-alerts.jpg)
 
 Close
@@ -72,6 +84,10 @@ Close
 
  After a few seconds, open this app again, and hopefully, this should smoothen the notification issues.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 5\. Ensure iMessage Is Enabled
 
  Before you move ahead, it's essential to check if [iMessage is activated](http://www.makeuseof.com/how-to-activate-imessage/) and switched on or not. To do that, go to**Settings** \>**Messages** and make sure**iMessage** is enabled.
@@ -84,6 +100,9 @@ Close
 
  To turn off your iPhone, use the physical buttons or go to**Settings** \>**General** and tap**Shut Down** . After a minute, turn on your iPhone either by using the power button or plugging in your charger.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 7\. Turn Off Filter Unknown Senders
 
  iPhone lets you automatically [filter spam and texts from unknown people](https://www.makeuseof.com/how-to-filter-iphone-messages/) . When you enable this, you might miss a few meaningful text notifications in rare cases. Plus, if someone who isn't in your contact list messages you, the Messages app will sort their text into a separate list and not notify you of it.
@@ -94,6 +113,9 @@ Close
 
 ![Tap Unknown and Spam in iPhone Messages Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/tap-unknown-and-spam-in-iphone-messages-settings.png)
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Turn off Filter Unknown Senders in iPhone Messages Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/turn-off-filter-unknown-senders-in-iphone-messages-settings.png)
 
 Close
@@ -116,10 +138,17 @@ Close
 
 ![Tap Unknown and Spam in iPhone Messages Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/tap-unknown-and-spam-in-iphone-messages-settings.png)
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Swipe left on blocked iPhone contact and tap Unblock](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/swipe-left-on-blocked-iphone-contact-and-tap-unblock.png)
 
 Close
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
 ## 10\. Ensure Custom Text Tone Isn't Set to "None"
 
  Did you ever set "None" as the alert tone for a particular contact and forget about it? If yes, here is how to revert that and have a proper tone for new texts from that person:
@@ -134,16 +163,28 @@ Close
 
 Close
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## 11\. Enable "Notify Me"
 
  Were you receiving too many group iMessage notifications that you muted the conversation when you were in a bad mood? If yes, go to**Settings** \>**Messages** and turn on**Notify Me** . Now, you'll receive notifications only when someone mentions you in a muted conversation. This way, you can limit unnecessary text notifications and still be aware of those where you're mentioned specially.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 12\. Disable Text Message Forwarding
 
  When you choose to receive texts on your Mac or iPad, at times, new text notifications may not show on your iPhone. To fix this, head to**Settings** \>**Messages** \>**Text Message Forwarding** and turn it off for your other Apple devices.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Tap Text Message Forwarding in iPhone Messages Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/tap-text-message-forwarding-in-iphone-messages-settings.png)
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Turn off Text Message Forwarding for all your other Apple devices](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/turn-off-text-message-forwarding-for-all-your-other-apple-devices.png)
 
 Close
@@ -184,3 +225,44 @@ If none of the solutions above help, don't worry—hope isn't lost yet.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-securing-your-ps4-adventures-with-advanced-recording/"><u>[New] 2024 Approved  Securing Your PS4 Adventures with Advanced Recording</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/-creators-guide-to-understanding-youtube-policies/"><u>[New] A Creator’s Guide to Understanding YouTube Policies</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-elite-conference-name-builder-for-2024/"><u>[New] Elite Conference Name Builder for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-the-law-of-lyrics-on-instagram-platforms-for-2024/"><u>[New] The Law of Lyrics on Instagram Platforms for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-the-most-budget-friendly-options-10-great-software-for-recording-discord-talk/"><u>[New] The Most Budget-Friendly Options  10 Great Software for Recording Discord Talk</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-sketch-up-your-ideas-an-essential-guide-to-the-top-8-drawing-tools-on-ios/"><u>2024 Approved  Sketch Up Your Ideas  An Essential Guide to the Top 8 Drawing Tools on iOS</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-nubia-red-magic-8s-pro-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Nubia Red Magic 8S Pro</u></a></li>
+<li><a href="https://fox-that.techidaily.com/dealing-with-phones-listing-numbers-not-names-tips-for-fixing-your-devices-messaging-glitch/"><u>Dealing with Phones Listing Numbers, Not Names - Tips for Fixing Your Device's Messaging Glitch</u></a></li>
+<li><a href="https://fox-that.techidaily.com/defrosting-dilemma-solved-unfreezing-your-iphone-easily/"><u>Defrosting Dilemma Solved: Unfreezing Your iPhone Easily</u></a></li>
+<li><a href="https://fox-that.techidaily.com/diy-iphone-hardware-assessment-with-apples-online-exam-services/"><u>DIY iPhone Hardware Assessment with Apple's Online Exam Services</u></a></li>
+<li><a href="https://fox-that.techidaily.com/escape-your-iphone-dilemma-7-strategies-to-resolve-apple-boot-loop-issues/"><u>Escape Your iPhone Dilemma: 7 Strategies to Resolve Apple Boot Loop Issues</u></a></li>
+<li><a href="https://fox-that.techidaily.com/essential-troubleshooting-steps-when-your-iphone-wont-progress-past-the-logo-sequence/"><u>Essential Troubleshooting Steps When Your iPhone Won't Progress Past the Logo Sequence</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fix-a-glitchy-airdrop-in-no-time-learn-from-our-ultimate-16-tips/"><u>Fix a Glitchy AirDrop in No Time - Learn From Our Ultimate 16 Tips</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-glitchy-airpod-audio-issues-the-ultimate-10-tips-for-quiet-and-crackling-free-sound/"><u>Fixing Glitchy AirPod Audio Issues: The Ultimate 10 Tips for Quiet and Crackling-Free Sound</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/free-top-10-vr-360-video-players-for-pc-for-2024/"><u>FREE Top 10 VR (360 Video) Players for PC for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/from-standard-definition-to-high-dynamic-range-mastery/"><u>From Standard Definition to High Dynamic Range Mastery</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-zte-nubia-z60-ultra-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On ZTE Nubia Z60 Ultra For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-fix-on-hold-charging-glitches-on-your-iphone-8-methods-explored/"><u>How to Fix 'On Hold' Charging Glitches on Your iPhone - 8 Methods Explored</u></a></li>
+<li><a href="https://fox-that.techidaily.com/identifying-and-repairing-common-iphone-display-defects/"><u>Identifying & Repairing Common iPhone Display Defects</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-3-ways-to-erase-iphone-11-pro-when-its-locked-within-seconds-drfone-by-drfone-ios/"><u>In 2024, 3 Ways to Erase iPhone 11 Pro When Its Locked Within Seconds | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/in-depth-look-at-the-most-frequent-issues-with-iphone-12-models-and-their-solutions/"><u>In-Depth Look at the Most Frequent Issues with iPhone 12 Models and Their Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-not-sendingreceiving-texts-try-these-7-tips-first/"><u>IPhone Not Sending/Receiving Texts? Try These 7 Tips First!</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/navigating-graphic-design-careers-successfully/"><u>Navigating Graphic Design Careers Successfully</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-virtualdub-the-go-to-tool-for-shrinking-mpeg2-file-sizes/"><u>New VirtualDub The Go-To Tool for Shrinking MPEG2 File Sizes</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-contacts-from-lava-agni-2-5g-by-fonelab-android-recover-contacts/"><u>Possible solutions to restore deleted contacts from Lava Agni 2 5G.</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolve-your-iphones-or-ipads-predictive-emoji-glitches-top-7-quick-fixes/"><u>Resolve Your iPhone's or iPad's Predictive Emoji Glitches: Top 7 Quick Fixes!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolving-location-unavailable-errors-on-your-iphone-a-step-by-step-guide/"><u>Resolving 'Location Unavailable' Errors on Your iPhone: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/revive-your-iphones-message-alerts-and-ringtones-with-these-expert-tips-and-tricks/"><u>Revive Your iPhone's Message Alerts & Ringtones with These Expert Tips and Tricks</u></a></li>
+<li><a href="https://fox-that.techidaily.com/step-by-step-process-on-securing-help-with-your-iphone-via-the-apple-support-application/"><u>Step-by-Step Process on Securing Help with Your iPhone via the Apple Support Application</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/tech-savvy-tips-for-lenovo-display-capture-for-2024/"><u>Tech-Savvy Tips for Lenovo Display Capture for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/the-seven-major-iphone-x-headaches-and-how-to-easily-resolve-them/"><u>The Seven Major iPhone X Headaches and How to Easily Resolve Them</u></a></li>
+<li><a href="https://fox-that.techidaily.com/the-ultimate-guide-conducting-an-apple-certified-hardware-analysis-online/"><u>The Ultimate Guide: Conducting an Apple-Certified Hardware Analysis Online</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-6-causes-of-a-sluggish-iphone-effective-solutions-inside/"><u>Top 6 Causes of a Sluggish iPhone: Effective Solutions Inside</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-6-solutions-when-family-sharing-subscription-links-fail/"><u>Top 6 Solutions When Family Sharing Subscription Links Fail</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-non-responsive-auto-brightness-7-solutions-for-iphones/"><u>Troubleshoot Non-Responsive Auto-Brightness: 7 Solutions for iPhones</u></a></li>
+<li><a href="https://techidaily.com/unlock-iphone-13-mini-screen-lock-without-password-by-drfone-ios-unlock-ios-unlock/"><u>Unlock iPhone 13 mini screen lock without password</u></a></li>
+<li><a href="https://fox-that.techidaily.com/why-does-my-iphone-preserve-images-post-deletion-discover-these-remedies/"><u>Why Does My iPhone Preserve Images Post-Deletion? Discover These Remedies!</u></a></li>
+</ul></div>

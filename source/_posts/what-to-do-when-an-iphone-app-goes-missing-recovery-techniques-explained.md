@@ -1,7 +1,7 @@
 ---
 title: "What to Do When an iPhone App Goes Missing: Recovery Techniques Explained"
-date: 2024-07-18 23:34:14
-updated: 2024-07-20 12:23:35
+date: 2024-07-20T03:13:20.329Z
+updated: 2024-07-21T03:13:20.329Z
 tags:
   - iphone
   - apple
@@ -22,12 +22,18 @@ thumbnail: https://thmb.techidaily.com/25dfc703be5473423edfc66113d30469d26da4408
 
  Your browser does not support the video tag.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. Find Your App in the App Library
 
  If an app is installed on your iPhone but not on your Home Screen, it's probably in the App Library, which places all your apps in proper categories. Swipe left on the last**Home Screen** page to reach**App Library** . Then, use the**Search** box to find your missing app quickly.
 
  Once you find the app you're looking for, long-press its app icon in the App Library, and if this app isn't on the Home Screen, you will see an option to**Add to Home Screen** . Alternatively, you can drag it left from the App Library onto the Home Screen.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![App Library on iPhone showing all apps in proper categories](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/app-library-on-iphone-showing-all-apps-in-proper-categories.png)
 
 ![App Library showing apps in alphabetical order](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/app-library-showing-apps-in-alphabetical-order.png)
@@ -50,6 +56,9 @@ Close
 
 ![iphone search screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/img_5639.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![use search to find an app in iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/img_5640.jpg)
 
 Close
@@ -66,6 +75,9 @@ Close
 
  If this is your situation, open all the app folders on your iPhone Home Screen and look for the missing app inside. Once you find it, you may want to drag the app icon out of the folder onto the Home Screen.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 5\. Check Screen Time to Unhide Restricted Apps
 
  You can use Screen Time to [hide and restrict iPhone apps](https://www.makeuseof.com/tag/hide-restrict-apps-iphone/) like Safari, Camera, FaceTime, Mail, and more. As a result, you won't find the app icons for these restricted apps on the Home Screen or the App Library. They won't even appear in Spotlight search results or be accessible via Siri.
@@ -74,14 +86,23 @@ Close
 
  After doing this, you should see the missing app icons on the Home Screen and App Library. If not, you'll have to use the Spotlight search method explained above to re-add them to the Home Screen.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![Tap Content & Privacy Restrictions in iPhone Screen Time Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/tap-content--privacy-restrictions-in-iphone-screen-time-settings.png)
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Tap Allowed Apps in iPhone Screen Time Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/tap-allowed-apps-in-iphone-screen-time-settings.png)
 
 ![Make Sure all iPhone apps are allowed and nothing is restricted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/make-sure-all-iphone-apps-are-allowed-and-nothing-is-restricted.png)
 
 Close
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 6\. Unhide Home Screen Pages to See All Your Apps
 
  iOS allows you to hide Home Screen pages for a cleaner look, but if you did that accidentally, you might get confused, wondering where your installed apps have gone.
@@ -102,6 +123,10 @@ Close
 
 ![Long press iOS App Store icon and tap Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/long-press-ios-app-store-icon-and-tap-search.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
 ![Search for app in App Store and tap Open](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/search-for-app-in-app-store-and-tap-open.png)
 
 Close
@@ -115,6 +140,9 @@ Here's how to reset your iPhone's Home Screen layout:
 1. Open**Settings** and tap**General** .
 2. Scroll to the bottom and tap**Transfer or Reset iPhone** \>**Reset** \>**Reset Home Screen Layout** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Tap General in iPhone Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/tap-general-in-iphone-settings-app.png)
 
 ![From the bottom tap Reset in iPhone Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/from-the-bottom-tap-reset-in-iphone-settings.png)
@@ -123,6 +151,9 @@ Here's how to reset your iPhone's Home Screen layout:
 
 Close
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ## 9\. Additional Fixes if You Still Can't Find an App
 
  Most of the methods we covered above involve unhiding an app and getting it back on the Home Screen again. But if those don't work, an app disappearing may be caused by a glitch.
@@ -151,3 +182,47 @@ Close
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-pc-sound-logging-simplified-install-x-recorder-app/"><u>[Updated] In 2024, Pc Sound Logging Simplified - Install X-Recorder App</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-stream-friendly-free-tunes-vault-fb/"><u>[Updated] Stream-Friendly Free Tunes Vault (FB)</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-watch-over-instagrams-friendship-shifts/"><u>[Updated] Watch Over Instagram's Friendship Shifts</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-how-to-capitalize-on-your-youtube-shorts-for-cash-flow/"><u>2024 Approved  How to Capitalize on Your YouTube Shorts for Cash Flow</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-optimizing-viewing-habits-the-ultimate-guide-to-youtube-save-and-playlists/"><u>2024 Approved  Optimizing Viewing Habits  The Ultimate Guide to YouTube Save and Playlists</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/2024-approved-cutting-edge-ai-methods-for-purifying-audio-recordings-from-background-noise/"><u>2024 Approved Cutting-Edge AI Methods for Purifying Audio Recordings From Background Noise</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/2024-approved-ways-to-export-audacity-to-mp3/"><u>2024 Approved Ways to Export Audacity to Mp3</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/beyond-the-screen-top-10-immersive-vr-gear-for-2024/"><u>Beyond The Screen  Top 10 Immersive VR Gear for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/cant-get-alerts-during-dnd-discover-these-easy-ways-to-keep-texts-and-calls-coming-on-your-iphone/"><u>Can't Get Alerts During DND? Discover These Easy Ways to Keep Texts & Calls Coming on Your iPhone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/comprehensive-tips-for-restoring-iphone-proximity-functionality-common-fixes-explored/"><u>Comprehensive Tips for Restoring iPhone Proximity Functionality: Common Fixes Explored</u></a></li>
+<li><a href="https://fox-that.techidaily.com/dealing-with-iphone-snapshots-dilemmas-expert-advice-on-management-and-correction/"><u>Dealing with iPhone Snapshots Dilemmas: Expert Advice on Management and Correction</u></a></li>
+<li><a href="https://fox-that.techidaily.com/essential-fixes-top-15-solutions-for-any-iphone-issue/"><u>Essential Fixes: Top 15 Solutions for Any iPhone Issue</u></a></li>
+<li><a href="https://fox-that.techidaily.com/essential-iphone-solutions-mastering-15-maintenance-tips-for-every-model/"><u>Essential iPhone Solutions: Mastering 15 Maintenance Tips for Every Model</u></a></li>
+<li><a href="https://fox-that.techidaily.com/faster-lock-screen-solution-why-your-iphone-takes-long-to-turn-off/"><u>Faster Lock Screen Solution: Why Your iPhone Takes Long to Turn Off?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-ghostly-touch-problems-in-ios-devices-a-comprehensive-troubleshooting-guide/"><u>Fixing Ghostly Touch Problems in iOS Devices: A Comprehensive Troubleshooting Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-iphone-error-14-heres-your-ultimate-guide-to-a-smooth-screen/"><u>Fixing iPhone Error 14? Here's Your Ultimate Guide to a Smooth Screen</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-enhancing-video-content-through-effective-use-of-cardsannotations/"><u>In 2024, Enhancing Video Content Through Effective Use of Cards/Annotations</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-activation-lock-on-iphone-7-or-ipad-by-drfone-ios/"><u>In 2024, How to Bypass Activation Lock on iPhone 7 or iPad?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721446783139-master-the-art-of-tiktok-content-creation/"><u>Master the Art of TikTok Content Creation:</u></a></li>
+<li><a href="https://fox-that.techidaily.com/mastering-the-factory-fresh-start-for-iphoneipad-a-comprehensive-guide/"><u>Mastering the Factory Fresh Start for iPhone/iPad: A Comprehensive Guide</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-ultimate-audio-enhancer-top-apps-for-clearer-sound-quality/"><u>New Ultimate Audio Enhancer Top Apps for Clearer Sound Quality</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-communication-barriers-fixing-iphones-inability-to-get-texts-from-android-phones/"><u>Overcoming Communication Barriers: Fixing iPhone's Inability to Get Texts From Android Phones</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-image-loading-hiccups-in-safari-9-proven-methods-for-iphones/"><u>Overcoming Image Loading Hiccups in Safari: 9 Proven Methods for iPhones</u></a></li>
+<li><a href="https://fox-that.techidaily.com/quick-fixes-for-your-iphone-issues-mastering-the-art-of-a-safe-soft-reset/"><u>Quick Fixes for Your iPhone Issues: Mastering the Art of a Safe, Soft Reset</u></a></li>
+<li><a href="https://fox-that.techidaily.com/revive-your-iphones-messaging-feature-with-these-7-essential-fixes/"><u>Revive Your iPhone's Messaging Feature with These 7 Essential Fixes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/silent-iphone-solve-the-no-sound-dilemma-with-these-easy-steps/"><u>Silent iPhone: Solve the No-Sound Dilemma with These Easy Steps</u></a></li>
+<li><a href="https://fox-that.techidaily.com/slow-mobile-data-woes-accelerate-with-these-simple-strategies/"><u>Slow Mobile Data Woes? Accelerate with These Simple Strategies</u></a></li>
+<li><a href="https://fox-that.techidaily.com/step-by-step-guide-to-troubleshooting-undelivered-messages-on-ios-devices/"><u>Step-by-Step Guide to Troubleshooting Undelivered Messages on iOS Devices</u></a></li>
+<li><a href="https://fox-that.techidaily.com/tablet-touch-issues-discover-8-reliable-fixes-to-restore-your-devices-sensitivity/"><u>Tablet Touch Issues? Discover 8 Reliable Fixes to Restore Your Device's Sensitivity</u></a></li>
+<li><a href="https://fox-that.techidaily.com/thought-you-lost-those-precious-iphone-photos-think-again-uncover-hidden-spaces-and-8-fixes/"><u>Thought You Lost Those Precious iPhone Photos? Think Again: Uncover Hidden Spaces and 8 Fixes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721456901622-time-sensitive-update-top-advantages-of-switching-to-ios-nnow-with-version-153/"><u>Time-Sensitive Update: Top Advantages of Switching to iOS Nnow with Version 15.3</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-and-fix-non-responsive-iphone-voicemail-with-these-easy-tips/"><u>Troubleshoot and Fix Non-Responsive iPhone Voicemail with These Easy Tips</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-made-simple-forcing-your-iphone-into-recovery-mode-step-by-step/"><u>Troubleshooting Made Simple: Forcing Your iPhone Into Recovery Mode Step by Step</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-tips-reviving-your-iphones-control-center/"><u>Troubleshooting Tips: Reviving Your iPhone's Control Center</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-your-iphone-display-lagg-quick-fixes-inside/"><u>Troubleshooting Your iPhone Display Lagg: Quick Fixes Inside</u></a></li>
+<li><a href="https://fox-that.techidaily.com/ultimate-guide-using-apple-support-app-for-iphone-technical-assistance/"><u>Ultimate Guide: Using Apple Support App for iPhone Technical Assistance</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlocking-the-potential-of-time-extension-for-2024/"><u>Unlocking the Potential of Time Extension for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlocking-the-secrets-understanding-limitations-of-ios-for-gift-transfers/"><u>Unlocking the Secrets: Understanding Limitations of iOS for Gift Transfers</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unraveling-misidentifications-enhancing-accuracy-in-apples-image-organization-tool/"><u>Unraveling Misidentifications: Enhancing Accuracy in Apple's Image Organization Tool</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-the-ultimate-list-top-gaming-sites-for-free-game-downloads/"><u>Updated The Ultimate List Top Gaming Sites for Free Game Downloads</u></a></li>
+</ul></div>

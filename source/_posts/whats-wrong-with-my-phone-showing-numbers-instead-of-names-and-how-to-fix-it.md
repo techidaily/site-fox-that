@@ -1,7 +1,7 @@
 ---
 title: What's Wrong with My Phone Showing Numbers Instead of Names – And How to Fix It?
-date: 2024-07-18 18:14:36
-updated: 2024-07-20 11:19:17
+date: 2024-07-20T03:08:26.449Z
+updated: 2024-07-21T03:08:26.449Z
 tags:
   - iphone
   - apple
@@ -36,6 +36,9 @@ thumbnail: https://thmb.techidaily.com/4b5562ff0db20c13529d0f69be32d5c21c69778a6
 
  In the case that this doesn't work and you are still facing the same issue, follow the fixes below.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Add or Remove the Country Code
 
  Sometimes the issue may be caused by Messages not associating phone numbers without a country code with their entries in your contact list. For example, the international dialing code for the UK is +44\. If Messages thought that +447981234532 was different from 07981234532, it would show the chat under a phone number.
@@ -47,8 +50,14 @@ thumbnail: https://thmb.techidaily.com/4b5562ff0db20c13529d0f69be32d5c21c69778a6
 3. Add the country code to the start of their phone number, using either the full format (0044) or the short format (+44). Make sure you get the right country code for their device, which should be what shows up in the Messages app.
 4. Click**Done** .
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Contact Edit menu in iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/contact-edit-menu-in-ios.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
 ![Add Country Code to Number](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Fix-Messages-Not-Showing-Contact-Number.jpg)
 
 Close
@@ -59,6 +68,9 @@ Close
 
  Once you fix a phone number, you'll see Messages will automatically merge the conversations split across different chats.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Toggle iCloud Contacts
 
  Some people have reported iCloud contacts being the reason behind this issue. If you are syncing your contacts with your iCloud account, it might be worth re-syncing them, which might fix the issue.
@@ -73,6 +85,9 @@ To do this, follow these steps on your iPhone:
 6. Wait for a few seconds and then turn**Contacts** back on. When you are asked, select**Merge** . This will merge all your contacts with your phone's contacts.
 7. Now, restart your device, and this should fix the issue.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ![Settings on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Fix-Messages-Not-Showing-iCloud.jpg)
 
 ![Password and Security in iPhone iCloud Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/2FA-iPhone-Password-and-Security.jpg)
@@ -81,6 +96,9 @@ To do this, follow these steps on your iPhone:
 
 Close
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Fix Messages Showing Phone Numbers Instead of Contact Names
 
  Hopefully, these three fixes should fix the issue of the Messages app showing phone numbers instead of contact names, and you'll be able to resume your normal conservation with your friends and loved ones. If none of these tips work, you may want to contact Apple support to help you get it fixed.
@@ -99,3 +117,57 @@ Close
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-twilight-tactics-a-complete-guide-to-nighttime-photography/"><u>[New] 2024 Approved  Twilight Tactics  A Complete Guide to Nighttime Photography</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-worldwide-top-earners-in-the-streaming-sphere/"><u>[New] 2024 Approved  Worldwide Top Earners in the Streaming Sphere</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-grasping-the-heart-of-narrative-design/"><u>[New] Grasping the Heart of Narrative Design</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-cost-effective-subscriber-growth-hundreds-at-a-bargain-price/"><u>[New] In 2024, Cost-Effective Subscriber Growth - Hundreds at a Bargain Price</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-explore-the-latest-in-picsart-a-comprehensive-guide-and-review/"><u>[New] In 2024, Explore the Latest in PicsArt - A Comprehensive Guide and Review</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-removing-unseen-frames-from-video-recordings/"><u>[New] Removing Unseen Frames From Video Recordings</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-mov-file-handling-best-practices-on-windows-10-systems/"><u>[Updated] .mov File Handling  Best Practices on Windows 10 Systems</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-recording-the-next-level-of-play/"><u>[Updated] In 2024, Recording the Next Level of Play</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-master-selections-top-editors-for-professional-content/"><u>[Updated] Master Selections  Top Editors For Professional Content</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-screen-capture-power-play-apowsort-reviewed-and-comparisons-made/"><u>[Updated] Screen Capture Power Play  Apowsort Reviewed & Comparisons Made</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721467704422-10-rapid-repairs-to-get-your-iphoneipad-widgets-working-again/"><u>10 Rapid Repairs to Get Your iPhone/iPad Widgets Working Again!</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/20-tips-to-transform-your-images-into-collages-for-2024/"><u>20 Tips to Transform Your Images Into Collages for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-from-beginner-to-pro-transforming-windows-videos-with-minimal-tools/"><u>2024 Approved  From Beginner to Pro  Transforming Windows Videos with Minimal Tools</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-newbies-ultimate-youtube-gear-handbook/"><u>2024 Approved  Newbies' Ultimate YouTube Gear Handbook</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721467767591-6-common-issues-leading-to-a-sluggish-iphone-fix-them-now/"><u>6 Common Issues Leading to a Sluggish iPhone: Fix Them Now</u></a></li>
+<li><a href="https://fox-that.techidaily.com/apple-pay-dilemmas-decoded-simple-strategies-for-the-top-10-common-errors/"><u>Apple Pay Dilemmas Decoded: Simple Strategies for the Top 10 Common Errors</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/aural-alchemy-transforming-imovie-videos-with-music-for-2024/"><u>Aural Alchemy  Transforming iMovie Videos with Music for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/bypassing-airdrop-hiccups-in-no-time-with-16-effective-techniques/"><u>Bypassing AirDrop Hiccups in No Time with 16 Effective Techniques</u></a></li>
+<li><a href="https://fox-that.techidaily.com/facing-challenges-with-your-apple-device-updates-use-our-9-top-tips/"><u>Facing Challenges with Your Apple Device Updates? Use Our 9 Top Tips</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fix-predictive-emoji-issues-swiftly-a-guide-for-iphone-and-ipad-users/"><u>Fix Predictive Emoji Issues Swiftly - A Guide for iPhone and iPad Users</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fix-your-malfunctioning-iphone-flashlight-top-12-solutions/"><u>Fix Your Malfunctioning iPhone Flashlight - Top 12 Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-can-you-tell-if-your-number-is-ignored-by-iphone-users/"><u>How Can You Tell If Your Number Is Ignored by iPhone Users?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-do-tecno-phantom-v-flip-screen-sharing-drfone-by-drfone-android/"><u>How To Do Tecno Phantom V Flip Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-retrieve-missing-events-from-your-iphone-schedule/"><u>How to Retrieve Missing Events From Your iPhone Schedule</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-oneplus-11-5g-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track OnePlus 11 5G without App | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-a-step-by-step-guide-to-forming-effective-youtube-partner-relationships/"><u>In 2024, A Step-by-Step Guide to Forming Effective YouTube Partner Relationships</u></a></li>
+<li><a href="https://fox-that.techidaily.com/master-the-process-of-activating-recovery-mode-on-an-ipad-device/"><u>Master the Process of Activating Recovery Mode on an iPad Device</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/master-video-editing-turn-your-avis-into-stylish-shareable-gifs-with-filmora-for-2024/"><u>Master Video Editing  Turn Your AVIs Into Stylish, Shareable GIFs with Filmora for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/maximize-mobile-browsing-eight-strategies-to-enhance-iphone-wi-fi-functionality/"><u>Maximize Mobile Browsing: Eight Strategies to Enhance iPhone Wi-Fi Functionality</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-having-gopro-accessories-is-easy-but-editing-on-gopro-quik-is-challenging-read-this-guide-and-stepwise-learn-to-use-gopro-slow-motion-for-perfect-shots./"><u>New Having GoPro Accessories Is Easy, but Editing on GoPro Quik Is Challenging. Read This Guide and, Stepwise, Learn to Use GoPro Slow-Motion for Perfect Shots</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-the-ultimate-guide-to-video-editing-for-kids-free-and-paid-apps/"><u>New In 2024, The Ultimate Guide to Video Editing for Kids Free and Paid Apps</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-the-ultimate-guide-to-free-online-glitch-effect-makers-2023-edition-for-2024/"><u>New The Ultimate Guide to Free Online Glitch Effect Makers (2023 Edition) for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/redefining-efficiency-the-latest-in-windows-10-tech/"><u>Redefining Efficiency  The Latest in Windows 10 Tech</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolving-iphones-usb-c-water-damage-warning-a-step-by-step-guide/"><u>Resolving iPhone's USB-C Water Damage Warning - A Step by Step Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/revive-your-iphones-light-with-these-12-essential-troubleshooting-steps/"><u>Revive Your iPhone's Light with These 12 Essential Troubleshooting Steps</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-your-iphoneipad-and-wi-fi-connection-woes-top-8-remedies/"><u>Solving Your iPhone/iPad and Wi-Fi Connection Woes: Top 8 Remedies</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-rog-phone-7-by-fonelab-android-recover-video/"><u>The way to get back lost videos from ROG Phone 7</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-11-solutions-for-missing-airpods-on-apples-find-my-application/"><u>Top 11 Solutions for Missing AirPods on Apple's 'Find My' Application</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-and-resolve-overzoomed-images-on-whatsapp-with-these-steps/"><u>Troubleshoot and Resolve Overzoomed Images on WhatsApp with These Steps</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-guide-7-effective-solutions-when-iphone-wireless-charge-fails/"><u>Troubleshooting Guide: 7 Effective Solutions When iPhone Wireless Charge Fails</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-tablet-touchscreen-issues-top-8-solutions/"><u>Troubleshooting Tablet Touchscreen Issues: Top 8 Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-tips-why-are-my-iphone-contacts-disappearing/"><u>Troubleshooting Tips: Why Are My iPhone Contacts Disappearing?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/uncover-hidden-iphone-contacts-restore-and-resolve-disappearances/"><u>Uncover Hidden iPhone Contacts: Restore and Resolve Disappearances</u></a></li>
+<li><a href="https://fox-that.techidaily.com/uncovering-the-cause-of-asymmetrical-volume-in-apple-earphones-and-fixes/"><u>Uncovering the Cause of Asymmetrical Volume in Apple Earphones and Fixes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlock-better-battery-efficiency-on-your-iphone-with-these-six-steps/"><u>Unlock Better Battery Efficiency on Your iPhone with These Six Steps!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlocking-your-iphones-full-potential-6-common-issues-causing-slowness/"><u>Unlocking Your iPhone's Full Potential: 6 Common Issues Causing Slowness</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-revolutionize-your-workflow-top-free-mac-dictation-apps/"><u>Updated 2024 Approved Revolutionize Your Workflow Top Free Mac Dictation Apps</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-step-into-the-future-converting-videos-for-virtual-reality-for-2024/"><u>Updated Step Into the Future Converting Videos for Virtual Reality for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/why-is-it-difficult-to-use-idevices-for-mail-gifting/"><u>Why Is It Difficult to Use iDevices for Mail Gifting?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/why-wont-my-iphone-touchscreen-respond-exploring-7-critical-factors/"><u>Why Won't My iPhone Touchscreen Respond? Exploring 7 Critical Factors</u></a></li>
+</ul></div>

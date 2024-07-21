@@ -1,7 +1,7 @@
 ---
 title: Stumped by Missing Notifications on iPhone? Here's How to Resolve It in 7 Ways
-date: 2024-07-17 16:26:53
-updated: 2024-07-20 10:58:18
+date: 2024-07-20T03:13:12.625Z
+updated: 2024-07-21T03:13:12.625Z
 tags:
   - iphone
   - apple
@@ -20,16 +20,25 @@ thumbnail: https://thmb.techidaily.com/222a89a5c83410b00a22c43d882a6db1215cf7d87
 
  Your browser does not support the video tag.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ## 1\. Unmute Your iPhone
 
  The first step is to check whether you have accidentally muted your iPhone. When Silent mode is turned on, you won't hear incoming notification alerts, and as a result, you may think that you're not receiving notifications as they arrive.
 
  The Silent switch is located on the side of your iPhone. If it's showing an orange strip, your iPhone is muted. Push the switch to unmute it.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![iphone silent switch and volume buttons](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/iphone-silent-switch.jpg)
 
  If you expected vibration alerts on Silent mode but did not receive them for incoming notifications, you'll need to review the relevant settings. In those cases, incorrect settings are the main reason [why your iPhone isn't vibrating on Silent Mode](https://www.makeuseof.com/iphone-not-vibrating-on-silent-or-ring-mode-fixes/) .
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. Restart Your iPhone
 
 ![fix notifications not showing on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/11/fix-notifications-not-showing-on-iphone.jpg)
@@ -54,18 +63,30 @@ thumbnail: https://thmb.techidaily.com/222a89a5c83410b00a22c43d882a6db1215cf7d87
 
  If the problem persists, see our [guide to speeding up a slow mobile data connection](https://www.makeuseof.com/tag/speed-up-slow-mobile-data/) . Make sure you still have an active data plan and haven't run out of data. Reach out to your cellular carrier for further support with this.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Troubleshoot Wi-Fi Connectivity Issues on Your iPhone
 
  When trying to fix an issue on a Wi-Fi connection, rebooting your router helps most of the time. However, if your iPhone's connection on a Wi-Fi network is still slow or unstable after a power cycle, see our [guide to fixing slow Wi-Fi connections](https://www.makeuseof.com/tag/4-reasons-wi-fi-slow-fix/) .
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Disabling Your VPN Could Help
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![fix notifications not showing on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/11/fix-notifications-not-showing-on-iphone-image-02.jpg)
 
  Since VPNs change both your cellular and Wi-Fi connections, they can interfere with notification delivery. For example, if you're using a [free VPN for your iPhone](https://www.makeuseof.com/best-free-vpn-iphone-ipad/) , try disabling it, then check if that fixes the notification issue.
 
  You can disable a VPN connection from the provider's app or go to **Settings > General > VPN & Device Management > VPN** to disconnect it.
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. Disable Focus Mode
 
  Focus modes, such as Do Not Disturb, Sleep, and Personal, helps to silence calls, notifications, and other alerts while enabled. When notifications don't show up on your iPhone, it's possible that you (or someone else—your kids, maybe) enabled a Focus mode by accident.
@@ -74,20 +95,34 @@ thumbnail: https://thmb.techidaily.com/222a89a5c83410b00a22c43d882a6db1215cf7d87
 
  Let's use Do Not Disturb as our example: note the color of the**crescent moon** icon. If it's violet (bluish-purple), that means Do Not Disturb is enabled; tap the icon to disable Do Not Disturb. That will change the crescent moon's color to white.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 ![iphone do not disturb mode enabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/img_6055.JPEG)
 
 ![disable iphone focus mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/img_6056.JPEG)
 
 Close
 
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 5\. Disable Driving Focus
 
  Driving Focus mutes notifications when your iPhone is connected to your car's Bluetooth or when your iPhone detects that you're in a moving vehicle. This Focus mode does what the name says—prevent a driver from getting distracted by notifications—but sometimes does so erroneously.
 
  For example, if you're a passenger in a taxi or a train, the feature assumes you're the driver and silences all calls and notifications on your iPhone. To disable the feature, go to**Settings > Focus > Driving** . Then, tap the option under the**Turn On Automatically** section. Set the feature to be activated**Manually** .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![iphone focus settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/img_6057.JPEG)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![iphone driving focus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/img_6058.JPEG)
 
 ![iphone driving focus settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/img_6059.JPEG)
@@ -106,6 +141,10 @@ Close
 
  In addition, make sure**Lock Screen** ,**Notification Center** , and**Banners** are enabled per your preferences. You should also enable**Sounds** and**Badges** for the app if you want those to fire for new notifications.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
 ![iPhone Settings Notifications](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/11/fix-notifications-not-showing-on-iphone-14.jpg)
 
 ![iphone notification settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/img_6061.JPEG)
@@ -124,6 +163,9 @@ Close
 
 ![iphone notification settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/img_6061.JPEG)
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![iphone scheduled summary](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/img_6063.JPEG)
 
 Close
@@ -158,12 +200,18 @@ Close
 
 ![type keyword to search for app in iphone app store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/app-store-search-2.JPEG)
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![update instagram in iphone app store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/app-store-search-3.JPEG)
 
 Close
 
  Even if there's no update available yet, you can try checking out the app's social media pages or website. Some app developers actively keep users up-to-date on the issues they've identified and are working on, so you'll just need to wait for the next update. If not, you can also contact them on the relevant channels to inform them about the issue.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 9\. Reset iPhone Settings
 
  Still not receiving notifications on your iPhone after all the above fixes? At this point, you should try resetting your device's settings. Doing this will restore your iPhone's notification preferences to factory defaults, hopefully fixing whatever is affecting notification delivery.
@@ -180,6 +228,9 @@ Close
 
  Remember that resetting your iPhone's settings puts all options back to the default. This means you'll have to connect to Wi-Fi networks again, re-configure Bluetooth devices, adjust your privacy settings, and more. However, your data isn't affected by this.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Get Timely Notifications on Your iPhone
 
  Chances are that at least one of the fixes mentioned above will resolve your iPhone's notification issues. It's more than likely an accidental setting blocking the notifications than a full-blown problem.
@@ -200,3 +251,44 @@ Close
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-learn-to-flip-videos-a-guide-for-instagram-users/"><u>[New] In 2024, Learn to Flip Videos  A Guide for Instagram Users</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-unraveling-the-mysteries-of-instagram-saved-stories/"><u>[New] Unraveling the Mysteries of Instagram Saved Stories</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-discovering-calmer-video-consumption-three-ways-to-pause-time-56-chars-slightly-over-but-a-minor-exception-due-to-title-length/"><u>[Updated] Discovering Calmer Video Consumption  Three Ways to Pause Time (56 Chars, Slightly over but a Minor Exception Due to Title Length)</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-from-obscurity-to-prominence-how-to-thrive-in-youtube-streaming-for-2024/"><u>[Updated] From Obscurity to Prominence  How to Thrive in Youtube Streaming for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-from-idea-to-income-a-comprehensive-instagram-guide/"><u>[Updated] In 2024, From Idea to Income  A Comprehensive Instagram Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unleashing-photography-potential-with-lightroom-hdrs/"><u>[Updated] Unleashing Photography Potential with Lightroom HDRs</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-flashback-filmmaking-essential-retro-vhs-techniques-for-modern-videos/"><u>2024 Approved  Flashback Filmmaking  Essential Retro VHS Techniques for Modern Videos</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-igtvs-top-picks-for-next-weeks-feed/"><u>2024 Approved  IGTV's Top Picks for Next Week's Feed</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-makeup-inspiration-videos/"><u>2024 Approved  Makeup Inspiration Videos</u></a></li>
+<li><a href="https://fox-that.techidaily.com/apple-pay-troubles-here-are-10-easy-remedies-for-common-issues-you-may-encounter/"><u>Apple Pay Troubles? Here Are 10 Easy Remedies for Common Issues You May Encounter</u></a></li>
+<li><a href="https://fox-that.techidaily.com/decoding-the-signs-when-an-imessage-becomes-a-text-message-and-the-blocking-question/"><u>Decoding the Signs: When an iMessage Becomes a Text Message and the Blocking Question</u></a></li>
+<li><a href="https://fox-that.techidaily.com/dont-delay-in-getting-your-texts-solve-iphone-message-latency-with-our-top-eight-fixes/"><u>Don't Delay in Getting Your Texts: Solve iPhone Message Latency with Our Top Eight Fixes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-rebooting-your-mobile-device-resolves-the-majority-of-issues/"><u>How Rebooting Your Mobile Device Resolves the Majority of Issues</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-resolve-instagram-slowdowns-top-6-fixes-for-android-and-ios/"><u>How to Resolve Instagram Slowdowns: Top 6 Fixes for Android & iOS</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-nubia-z50s-pro-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Nubia Z50S Pro Phone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721473497338-icloud-photostream-woes-here-are-7-effective-strategies-to-ensure-seamless-iphone-synchronization/"><u>ICloud Photostream Woes? Here Are 7 Effective Strategies to Ensure Seamless iPhone Synchronization!</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-fresh-inspirations-for-streaming-topics/"><u>In 2024, Fresh Inspirations for Streaming Topics</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-gmail-password-on-samsung-galaxy-m34-5g-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Samsung Galaxy M34 5G Devices</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-evolution-of-youtube-shorts-popularity-metrics/"><u>In 2024, The Evolution of YouTube Shorts Popularity Metrics</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-control-center-issues-discover-8-essential-solutions/"><u>IPhone Control Center Issues? Discover 8 Essential Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-not-rumbling-on-silent-or-ring-mode-discover-the-best-eight-remedies/"><u>IPhone Not Rumbling on Silent or Ring Mode? Discover the Best Eight Remedies</u></a></li>
+<li><a href="https://fox-that.techidaily.com/mastering-apple-remote-diagnostics-a-users-guide-to-iphone-hardware-assessment/"><u>Mastering Apple Remote Diagnostics: A User’s Guide to iPhone Hardware Assessment</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/mastering-timecode-alignment-and-text-modification-in-srt-using-macos-for-2024/"><u>Mastering Timecode Alignment & Text Modification in SRT Using macOS for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/missing-iphone-app-steps-to-recover-deleted-or-hidden-apps-on-your-device/"><u>Missing iPhone App: Steps to Recover Deleted or Hidden Apps on Your Device</u></a></li>
+<li><a href="https://fox-that.techidaily.com/missing-iphone-apps-uncover-strategies-for-finding-them-again/"><u>Missing iPhone Apps? Uncover Strategies for Finding Them Again</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-icloud-backup-issues-on-your-iphone-discover-9-proven-fixes/"><u>Overcoming iCloud Backup Issues on Your iPhone - Discover 9 Proven Fixes</u></a></li>
+<li><a href="https://win11.techidaily.com/revive-volume-control-preferences-in-your-windows-pc/"><u>Revive Volume Control Preferences in Your Windows PC</u></a></li>
+<li><a href="https://fox-that.techidaily.com/reviving-a-non-responsive-touchscreen-on-your-tablet-8-effective-tips/"><u>Reviving a Non-Responsive Touchscreen on Your Tablet: 8 Effective Tips</u></a></li>
+<li><a href="https://fox-that.techidaily.com/safari-full-screen-photo-woes-discover-these-quick-fixes-to-capture-content-whole/"><u>Safari Full Screen Photo Woes? Discover These Quick Fixes to Capture Content Whole</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-the-heating-issue-tips-for-preventing-your-apple-device-from-overheating/"><u>Solving the Heating Issue: Tips for Preventing Your Apple Device From Overheating</u></a></li>
+<li><a href="https://fox-that.techidaily.com/steps-to-resolve-issues-with-iphones-close-range-detection-feature/"><u>Steps to Resolve Issues with iPhone's Close-Range Detection Feature</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubled-by-airdrop-discover-16-reliable-tips-for-immediate-problem-solving/"><u>Troubled by AirDrop? Discover 16 Reliable Tips for Immediate Problem-Solving</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-why-arent-some-contacts-displayed-on-your-iphone/"><u>Troubleshooting: Why Aren't Some Contacts Displayed on Your iPhone?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/ultimate-guide-thawing-your-stuck-iphone-easy-solutions/"><u>Ultimate Guide: Thawing Your Stuck iPhone - Easy Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlocking-your-aol-mail-on-iphone-again-the-ultimate-guide-with-six-fixes/"><u>Unlocking Your AOL Mail on iPhone Again: The Ultimate Guide with Six Fixes</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-hunt-for-emotional-throat-clearing-audio/"><u>Updated 2024 Approved Hunt for Emotional Throat-Clearing Audio</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-title-design-made-easy-a-final-cut-pro-x-tutorial/"><u>Updated Title Design Made Easy A Final Cut Pro X Tutorial</u></a></li>
+</ul></div>

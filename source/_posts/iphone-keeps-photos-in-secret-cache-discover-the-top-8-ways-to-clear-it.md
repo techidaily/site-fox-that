@@ -1,7 +1,7 @@
 ---
 title: IPhone Keeps Photos in Secret Cache? Discover the Top 8 Ways to Clear It!
-date: 2024-07-19 20:18:38
-updated: 2024-07-20 10:20:54
+date: 2024-07-20T03:07:47.202Z
+updated: 2024-07-21T03:07:47.202Z
 tags:
   - iphone
   - apple
@@ -44,6 +44,9 @@ Close
 
  Rebooting the system is a conventional fix to numerous bugs and errors. After you've removed a huge chunk of media from your storage, it's important to [restart your iPhone](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) . This will hopefully clear out any temporary hiccups causing your available storage to show incorrectly.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 3\. Update to the Latest iOS Software
 
  More often than not, there may be a minor bug in the current version of iOS you're using that's causing the problem. Apple usually fixes this in the next version of iOS, so make sure you have updated your iPhone to the latest iOS. To update your software, follow these steps:
@@ -52,6 +55,9 @@ Close
 2. Tap on**Software Update** .
 3. If a new version is available, tap on**Download and Install** to begin.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![general in iPhone settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/general-in-iphone-settings-1.jpg)
 
 ![software update in general settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/software-update-in-general-settings-1.jpg)
@@ -60,6 +66,9 @@ Close
 
 Close
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. Modify the Date and Time to Reveal Old Photos
 
  The exact reasoning behind this fix isn't clear, but it often happens that media you deleted in the past returns as hidden files on your device. You won't know they exist, and you can't see them in the Recents album either.
@@ -73,6 +82,9 @@ Close
 5. After that, open the Photos app and check all your albums, including**Recents** and**Recently Deleted** .
 6. Select everything that has reappeared in your albums and delete them from your phone. If you don't see anything, try going back another year or two and check again.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ![iOS Settings General Page Open](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/ios-general-settings.jpeg)
 
 ![date & time general settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/date-time-general-settings.jpg)
@@ -99,6 +111,9 @@ Close
 
 ![iCloud options under Apple ID settings on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/icloud-options-under-apple-id-settings-on-iphone.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![sync this iPhone toggle in iCloud photos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/sync-this-iphone-toggle-in-icloud-photos-1.jpg)
 
 Close
@@ -113,12 +128,26 @@ Close
 2. In the Settings menu, scroll down and tap on**Photos** .
 3. Make sure the**Optimize iPhone Storage** option is selected.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
 ![photos in iPhone settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/photos-in-iphone-settings-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![optimise iPhone storage option in iCloud settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/optimise-iphone-storage-option-in-icloud-settings.JPG)
 
 Close
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 7\. Factory Reset Your iPhone
 
  If you've tried all the above steps and your storage is still taken up by photos that don't exist, you should next opt for a [full iPhone reset](https://www.makeuseof.com/tag/how-to-factory-reset-iphone-ipad/) . This is a drastic measure, but it will hopefully clear out any persistent issues causing the storage glitch.
@@ -135,6 +164,9 @@ To factory reset your iPhone, follow these steps:
 
 ![general in iPhone settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/general-in-iphone-settings-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![Settings on iOS 17 showing the Transfer or Reset iPhone option highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/apple-ios-17-settings-transfer-or-reset-iphone-highlighted.jpg)
 
 ![reset iPhone options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/reset-iphone-options.jpg)
@@ -147,6 +179,9 @@ Close
 
  You can do this online through**Apple Support** or [visit your nearest Apple Store](https://www.makeuseof.com/apple-store-appointment-genius-bar/) to talk with experts. A valid warranty will likely help your case in case of a major issue.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Better Manage iPhone Storage in the Future
 
  While this error was hopefully a one-time problem for you, there's a chance it could happen in the future. It's better to maintain your iPhone storage ahead of time to reduce the impact of such an issue, so you should consider ways to avoid filling up your storage.
@@ -160,6 +195,9 @@ Close
 * [Offload apps](https://www.makeuseof.com/tag/delete-offload-apps-save-space-iphone-ipad/) that take up a great amount of storage.
 * Disable iCloud Photos if you don't use it—consider backing up photos to another cloud service.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Your iPhone Storage Can Breathe Now
 
  This iPhone and iCloud storage error, experienced by many, is definitely a pain. Fortunately, there are some ways around it. Hopefully, the methods presented here let you get your photo storage usage back to normal.
@@ -180,3 +218,41 @@ Close
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-surprise-refresh-on-tiktok-can-i-see-old-videos/"><u>[New] Surprise Refresh on TikTok – Can I See Old Videos?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-tips-for-sharpened-scene-during-google-meet-calls/"><u>[New] Tips for Sharpened Scene During Google Meet Calls</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-strategies-for-improving-youtubefacebook-video-quality/"><u>[Updated] In 2024, Strategies for Improving YouTube/Facebook Video Quality</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-18-breakthrough-metaverse-models-for-enhanced-perspective/"><u>2024 Approved  18 Breakthrough Metaverse Models for Enhanced Perspective</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-is-screening-youtube-footage-illegal/"><u>2024 Approved  Is Screening YouTube Footage Illegal?</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/2024-approved-create-a-sense-of-anticipation-3-steps-to-add-a-countdown-timer-in-fcpx/"><u>2024 Approved Create a Sense of Anticipation 3 Steps to Add a Countdown Timer in FCPX</u></a></li>
+<li><a href="https://fox-that.techidaily.com/6-effective-ways-to-overcome-guided-access-malfunctions-on-your-iphone/"><u>6 Effective Ways to Overcome Guided Access Malfunctions on Your iPhone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/7-proven-methods-to-restore-and-improve-auto-brightness-on-your-iphone/"><u>7 Proven Methods to Restore and Improve Auto-Brightness on Your iPhone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721462457906-7-rapid-repairs-restore-predictive-emoji-feature-on-iphone-and-ipad-instantly/"><u>7 Rapid Repairs: Restore Predictive Emoji Feature on iPhone and iPad Instantly</u></a></li>
+<li><a href="https://fox-that.techidaily.com/airdrop-failing-to-connect-learn-how-to-resolve-it-using-these-16-tips/"><u>AirDrop Failing to Connect? Learn How to Resolve It Using These 16 Tips</u></a></li>
+<li><a href="https://fox-that.techidaily.com/bypassing-bugs-how-to-fix-an-iphones-inability-to-get-text-alerts/"><u>Bypassing Bugs: How to Fix an iPhone's Inability to Get Text Alerts</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/chime-into-chats-whatsapp-status-soundtracks-for-2024/"><u>Chime Into Chats  WhatsApp Status Soundtracks for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/diy-iphone-repair-how-to-eliminate-moisture-detected-warnings-from-your-devices-charger-port/"><u>DIY iPhone Repair: How to Eliminate Moisture Detected Warnings From Your Device's Charger Port</u></a></li>
+<li><a href="https://fox-that.techidaily.com/expert-advice-restoring-hey-siri-functionality-to-its-full-potential-on-ios/"><u>Expert Advice: Restoring 'Hey Siri' Functionality to Its Full Potential on iOS</u></a></li>
+<li><a href="https://fox-that.techidaily.com/facetime-photography-faqs-unveiling-the-destination-for-captured-images/"><u>FaceTime Photography FAQs: Unveiling the Destination for Captured Images</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-connectivity-problems-between-non-apple-peripherals-and-iphones/"><u>Fixing Connectivity Problems Between Non-Apple Peripherals and iPhones</u></a></li>
+<li><a href="https://fox-that.techidaily.com/guide-to-restoring-missing-events-functionality-on-iphone-calendars/"><u>Guide to Restoring Missing Events Functionality on iPhone Calendars</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-infinix-note-30-5g-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Infinix Note 30 5G Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-easily-fix-a-non-responsive-imessage-app-on-ios-and-macos/"><u>How to Easily Fix a Non-Responsive iMessage App on iOS and macOS</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-infinix-hot-30i-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Infinix Hot 30i | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-encore-list-top-pick-for-digital-music-tones/"><u>In 2024, The Encore List  Top Pick for Digital Music Tones</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-samsung-galaxy-s23plus-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Samsung Galaxy S23+? | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721454983333-iphone-wont-backup-to-icloud-attempt-these-easy-to-follow-9-fixes/"><u>IPhone Won't Backup to iCloud? Attempt These Easy-to-Follow 9 Fixes!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/navigating-iphone-photo-management-a-guide-to-resolving-pain-points/"><u>Navigating iPhone Photo Management: A Guide to Resolving Pain Points</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-windows-11-copypaste-anomalies/"><u>Overcoming Windows 11 Copy/Paste Anomalies</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/premier-hash-trackers-fb-tweet-instagram-edition/"><u>Premier Hash Trackers  FB, Tweet, Instagram Edition</u></a></li>
+<li><a href="https://fox-that.techidaily.com/revive-your-icloud-photo-library-a-step-by-step-guide-to-fixing-sync-problems-on-iphone/"><u>Revive Your iCloud Photo Library: A Step-by-Step Guide to Fixing Sync Problems on iPhone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/struggling-with-iphone-vpn-connections-discover-these-7-troubleshooting-tips/"><u>Struggling with iPhone VPN Connections? Discover These 7 Troubleshooting Tips!</u></a></li>
+<li><a href="https://fox-access.techidaily.com/the-path-to-subtle-iphone-shots-4-essential-techniques-discovered/"><u>The Path to Subtle iPhone Shots  4 Essential Techniques Discovered</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721459273566-top-10-solutions-for-iphone-app-download-issues-fixed/"><u>Top 10 Solutions For iPhone App Download Issues - Fixed!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721456659299-top-5-solutions-for-iphone-dictation-issues-get-it-running-smoothly-again/"><u>Top 5 Solutions for iPhone Dictation Issues: Get It Running Smoothly Again!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-6-causes-of-a-sluggish-iphone-and-simple-solutions/"><u>Top 6 Causes of a Sluggish iPhone & Simple Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-an-iphone-proximity-detector-that-wont-work-expert-tips-and-solutions/"><u>Troubleshooting an iPhone Proximity Detector That Won't Work: Expert Tips and Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unravel-the-mystery-addressing-unusual-appearances-of-phone-numbers-instead-of-names-in-messages/"><u>Unravel the Mystery: Addressing Unusual Appearances of Phone Numbers Instead of Names in Messages</u></a></li>
+</ul></div>

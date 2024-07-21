@@ -1,7 +1,7 @@
 ---
 title: Enhance Your iPhone's Visual Appeal – Overcome iOS 16'S Depth Effect Glitch with 7 Proven Tips
-date: 2024-07-19 15:26:21
-updated: 2024-07-20 11:32:53
+date: 2024-07-20T03:30:47.161Z
+updated: 2024-07-21T03:30:47.161Z
 tags:
   - iphone
   - apple
@@ -40,6 +40,9 @@ thumbnail: https://thmb.techidaily.com/e3cf30b4720656ba32f87d0a36d739d3e594003c9
 
  Depth Effect relies on A12 Bionic or newer iPhone processors to separate the foreground and background from the wallpaper. So, if you don't have a supported iPhone, Depth Effect simply won't work.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Troubleshooting Tips to Fix Depth Effect Not Working on iOS Lock Screen
 
  The Depth Effect feature primarily requires an iPhone with an A12 Bionic processor. If you have met all the Depth Effect's requirements and cannot get it to work, try these troubleshooting tips to ensure it works again.
@@ -58,6 +61,9 @@ thumbnail: https://thmb.techidaily.com/e3cf30b4720656ba32f87d0a36d739d3e594003c9
 
 ![Tap Software Update in iOS General Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/ios-general-settings.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Tap Download and Install when you get iOS Software Update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/ios-software-update.jpeg)
 
 Close
@@ -66,6 +72,9 @@ Close
 
  If there's no new update available on your iPhone, try the following fixes.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ### 2\. Enable Depth Effect on the Lock Screen
 
  You might have disabled the**Depth Effect** option even if you have set the suitable wallpaper on your Lock Screen. Depth Effect won't work if you have disabled the option. Here's how to turn it on:
@@ -75,6 +84,9 @@ Close
 3. Hit the**three-dot** menu on the bottom right and select**Depth Effect** from the context menu.
 4. Tap**Done** once enabled.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Select Wallpaper in iOS Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/ios-settings-wallpaper.jpeg)
 
 ![Select Customize in Wallpaper Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/ios-wallpaper-settings-customize.jpeg)
@@ -94,6 +106,9 @@ Close
 3. Tap on any widget and then the**minus (-)** icon to remove a widget on the Lock Screen.
 4. Hit**Done** once you've removed all the Lock Screen widgets.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![iOS 16 Lock Screen with Widgets and Depth Effect Not Working](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/ios-16-lock-screen-with-widgets.jpeg)
 
 ![Remove Lock Screen Widgets by Tapping on them](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/ios-16-remove-lock-screen-widgets.jpeg)
@@ -104,6 +119,9 @@ Close
 
  Removing the Lock Screen widgets should automatically enable the Depth Effect feature. If not, allow the**Depth Effect** option from the Lock Screen.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### 4\. Try a Different Lock Screen Wallpaper
 
  You'll need a wallpaper with a subject that can reach the clock on the Lock Screen. Also, the wallpaper should have an acceptable resolution for the Depth Effect feature to work.
@@ -116,6 +134,9 @@ Close
 
  Alternatively, you can search Google for some amazing Depth Effect wallpapers. However, check the [r/deptheffectwallpaper](https://www.reddit.com/r/deptheffectwallpaper/) Reddit community for some sure-shot wallpapers that work with Depth Effect.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 5\. Check the Wallpaper's File Format
 
  For some reason, the Depth Effect feature in iOS doesn't work well with PNG formats. It currently supports only the JPEG and HEIC formats without any issues. If you don't know how to check your wallpaper's file format, follow these instructions:
@@ -128,12 +149,23 @@ Close
 
 ![Tap the i button on the bottom of the photo](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/tap-the-i-button-on-the-bottom-of-the-photo.jpeg)
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Check the file format of the image under its metadata](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/check-the-file-format-of-the-image-under-its-metadata.jpeg)
 
 Close
 
  You'll find the file format right next to the metadata of the image under the**Adjust** option. If you see PNG as the file format, converting [the PNG image to JPG on your iPhone](https://www.makeuseof.com/how-to-batch-convert-png-images-to-jpeg-iphone/) would be ideal.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 6\. Reposition the Wallpaper Subject
 
  The wallpaper should automatically switch to Depth Effect once you pick a suitable wallpaper. However, it doesn't always work like that. iOS might fail to separate foreground from background, given that it's an AI algorithm.
@@ -148,12 +180,27 @@ Close
 
 ![Lock Screen Wallpaper Before Repositioning](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/lock-screen-wallpaper-before-repositioning.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ![Lock Screen Wallpaper After Repositioning](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/lock-screen-wallpaper-after-repositioning.jpeg)
 
 Close
 
  As a result, Depth Effect should start working itself. If not, you'll have to look for a better wallpaper for Depth Effect.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
 ### 7\. Restart Your iPhone
 
  Restarting or rebooting is the best way to fix a software bug on any device. As a last resort, you should restart your iPhone to see if it fixes the issue. Fortunately, there are ways to [restart your iPhone, even if the buttons aren't working](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) .
@@ -182,3 +229,47 @@ Close
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-step-by-step-guide-to-instagram-live-communication-for-2024/"><u>[New] Step-by-Step Guide to Instagram Live Communication for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-streamline-the-integration-of-youtube-playlists-into-a-sites-layout/"><u>[Updated] 2024 Approved  How To Streamline the Integration of YouTube Playlists Into a Site's Layout</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-podcast-tools-for-windows-8/"><u>2024 Approved  Ultimate Podcast Tools for Windows 8</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/2024-approved-free-image-libraries-for-commercial-use-a-beginners-guide/"><u>2024 Approved Free Image Libraries for Commercial Use A Beginners Guide</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/2024-approved-mac-users-download-splice-video-editor-now-and-edit-like-a-pro/"><u>2024 Approved Mac Users, Download Splice Video Editor Now and Edit Like a Pro</u></a></li>
+<li><a href="https://fox-that.techidaily.com/avoid-apple-anxiety-top-15-tips-for-fixing-your-iphone-swiftly/"><u>Avoid Apple Anxiety: Top 15 Tips for Fixing Your iPhone Swiftly</u></a></li>
+<li><a href="https://fox-that.techidaily.com/cant-access-your-iphones-control-center-here-are-8-reliable-repair-methods/"><u>Can't Access Your iPhone's Control Center? Here Are 8 Reliable Repair Methods</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/charting-the-differences-in-youtubes-ownership-and-cc-models/"><u>Charting the Differences in YouTube's Ownership and CC Models</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/dissecting-the-utility-of-sns-hdr-for-hdri-tasks/"><u>Dissecting the Utility of SNS HDR for HDRI Tasks</u></a></li>
+<li><a href="https://fox-that.techidaily.com/dual-device-disturbance-control-keeping-your-ipad-soundless-while-your-iphone-receives-a-call/"><u>Dual-Device Disturbance Control: Keeping Your iPad Soundless While Your iPhone Receives a Call</u></a></li>
+<li><a href="https://fox-that.techidaily.com/end-unwanted-airpod-switching-between-apple-devices-with-these-simple-steps/"><u>End Unwanted AirPod Switching Between Apple Devices with These Simple Steps</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fix-static-audio-issues-disabling-airpods-auto-tracking-technology/"><u>Fix Static Audio Issues: Disabling AirPods' Auto-Tracking Technology</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-common-issues-top-10-solutions-for-non-functional-widgets-on-ios-devices/"><u>Fixing Common Issues: Top 10 Solutions for Non-Functional Widgets on iOS Devices</u></a></li>
+<li><a href="https://fox-that.techidaily.com/guidelines-receiving-iphone-assistance-via-apples-support-application/"><u>Guidelines: Receiving iPhone Assistance via Apple's Support Application</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-ensure-your-iphone-imessages-reach-their-destination-a-comprehensive-guide/"><u>How to Ensure Your iPhone iMessages Reach Their Destination: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-regain-control-over-your-icloud-preferences-simple-solutions-for-iphone-and-ipad/"><u>How to Regain Control Over Your iCloud Preferences – Simple Solutions for iPhone & iPad</u></a></li>
+<li><a href="https://fox-that.techidaily.com/identifying-and-correcting-common-iphone-screen-issues-top-7-fixes/"><u>Identifying and Correcting Common iPhone Screen Issues – Top 7 Fixes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/improve-your-iphones-facial-id-accuracy-a-comprehensive-guide-to-fix-misidentified-persons-on-apple-photos/"><u>Improve Your iPhone's Facial ID Accuracy: A Comprehensive Guide to Fix Misidentified Persons on Apple Photos</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Nubia Z50 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-vivo-y78t-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Vivo Y78t to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-lava-yuva-3-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Lava Yuva 3? | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721466151514-iphone-screen-malfunction-uncover-simple-solutions-here/"><u>IPhone Screen Malfunction? Uncover Simple Solutions Here!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-pc-syncing-woes-expert-advice-for-seamless-connectivity/"><u>IPhone-PC Syncing Woes? Expert Advice for Seamless Connectivity</u></a></li>
+<li><a href="https://fox-that.techidaily.com/master-the-art-of-editing-incorrectly-tagged-individuals-in-your-apple-photos/"><u>Master the Art of Editing Incorrectly Tagged Individuals in Your Apple Photos</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/mastering-screen-capture-in-linux-with-these-tools/"><u>Mastering Screen Capture in Linux with These Tools</u></a></li>
+<li><a href="https://facebook.techidaily.com/prevent-data-theft-check-for-illicit-pcemail-usage/"><u>Prevent Data Theft: Check for Illicit PC/Email Usage</u></a></li>
+<li><a href="https://fox-that.techidaily.com/reviving-standby-top-4-solutions-when-iphones-sleep-mode-fails/"><u>Reviving Standby: Top 4 Solutions When iPhone's Sleep Mode Fails</u></a></li>
+<li><a href="https://extra-information.techidaily.com/simplifying-connection-combining-linkedin-profile-with-your-tiktok-bio/"><u>Simplifying Connection  Combining LinkedIn Profile with Your TikTok Bio</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solution-tips-for-iphone-users-unable-to-locate-scheduled-events/"><u>Solution Tips for iPhone Users Unable to Locate Scheduled Events</u></a></li>
+<li><a href="https://fox-that.techidaily.com/step-by-step-instructions-on-performing-a-gentle-reboot-for-your-ios-device/"><u>Step-by-Step Instructions on Performing a Gentle Reboot for Your iOS Device</u></a></li>
+<li><a href="https://fox-that.techidaily.com/the-ultimate-fix-it-list-reviving-sound-on-your-glitchy-airpods-in-10-steps/"><u>The Ultimate Fix-It List: Reviving Sound on Your Glitchy AirPods in 10 Steps</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-6-solutions-for-troubleshooting-guided-access-issues-on-ios-devices/"><u>Top 6 Solutions for Troubleshooting Guided Access Issues on iOS Devices</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-causes-for-look-up-app-failure-on-your-apple-device/"><u>Top Causes for Look Up App Failure on Your Apple Device</u></a></li>
+<li><a href="https://fox-that.techidaily.com/trouble-with-iphone-cloud-syncing-discover-9-solutions/"><u>Trouble with iPhone Cloud Syncing? Discover 9 Solutions!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721456130625-trouble-with-your-iphone-light-here-are-12-solutions-for-a-brighter-tomorrow/"><u>Trouble With Your iPhone Light? Here Are 12 Solutions for a Brighter Tomorrow!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-your-imessage-problems-for-iphone-ipad-and-mac-devices/"><u>Troubleshoot Your iMessage Problems for iPhone, iPad & Mac Devices</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-no-audio-issues-on-your-apple-device/"><u>Troubleshooting No Audio Issues on Your Apple Device</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-no-call-reception-on-your-ios-device/"><u>Troubleshooting No-Call Reception on Your iOS Device</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-how-to-get-your-iphone-and-pc-talking-again/"><u>Troubleshooting: How to Get Your iPhone and PC Talking Again</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/ultimate-list-of-top-15-gratis-pc-screen-captures-for-2024/"><u>Ultimate List of Top 15 Gratis PC Screen Captures for 2024</u></a></li>
+</ul></div>

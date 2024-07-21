@@ -1,0 +1,226 @@
+---
+title: "Fixing the Flicker: Top 7 Solutions for Unstable Phone Screens"
+date: 2024-07-20T03:33:22.290Z
+updated: 2024-07-21T03:33:22.290Z
+tags:
+  - iphone
+  - apple
+categories:
+  - iphone
+description: "This Article Describes Fixing the Flicker: Top 7 Solutions for Unstable Phone Screens"
+excerpt: "This Article Describes Fixing the Flicker: Top 7 Solutions for Unstable Phone Screens"
+thumbnail: https://thmb.techidaily.com/afa50b24e25ed08989c229ae73d3b233da6ab60b7cf21c80e9cb56c9f6856e1f.jpg
+---
+
+## Fixing the Flicker: Top 7 Solutions for Unstable Phone Screens
+
+ Is your phone's screen behaving oddly? Have you noticed your iPhone or Android phone's display glitching? It could be doing so for several reasons. From loose internal connections to buggy software, many issues can cause a smartphone screen to flicker.
+
+ You have more options for fixes for Android phones, as the operating system is more open to alterations. On iOS, you have fewer options to try and might have to visit a professional in case none of those work.
+
+ So, let's look at several fixes you can try if you face display problems on your phone.
+
+ Your browser does not support the video tag.
+
+## 1\. Reboot Your Phone
+
+ The first thing to do when trying to fix a glitching phone screen is restart your phone to ensure this isn't a temporary issue. Performing a restart kills any active third-party background services and processes that could be causing the display problem.
+
+ Restarting will also refresh your phone's memory components if any of them have crashed during a task. After rebooting, if the display is no longer flickering or glitching, you should review all the recent apps you've installed. If the problem comes back, try the next tip on this list.
+
+## 2\. Perform a Hard Reset
+
+![android settings home](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/11/android-settings-home.jpg)
+
+![android reset settings options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/11/android-reset-settings-options.jpg)
+
+![android factory reset options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/11/android-factory-reset-options.jpg)
+
+Close
+
+ Rebooting is the most basic troubleshooting step you can execute, and it does the trick for most problems. However, if it doesn't fix your flickering display, consider wiping your phone entirely by performing a hard reset. Doing so will restore your phone to its factory settings and clear the cache.
+
+ If any unprocessed data is hampering your phone's functions, a hard reset will immediately clear everything. However, before performing a factory reset, don't forget to [back up your Android phone](https://www.makeuseof.com/tag/back-android-phone-today-late/) or [your iPhone](https://www.makeuseof.com/tag/how-to-backup-iphone-ipad/) . Note that [backing up a Samsung phone](https://www.makeuseof.com/back-up-samsung-phone/) is slightly different since you need a Microsoft account to do so.
+
+On Android, you can reset your phone using these steps:
+
+1. Go to**Settings > System > Advanced** . Alternatively, search for**Reset Options.**
+2. Tap**Reset Options** and hit**Erase all data (factory reset)** .
+3. Select**Reset phone** . Enter your PIN if you use one.
+4. Finally, tap**Erase everything** .
+
+ For Galaxy users, refer to [this guide to factory reset your Samsung phone](https://www.makeuseof.com/factory-reset-samsung-galaxy/) .
+
+For Apple devices, iOS users should use these steps:
+
+1. Open**Settings > General > Transfer or Reset iPhone** .
+2. Tap**Erase All Content and Settings** .
+
+ Your phone will take a few minutes to reset, depending on how much data it houses.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 3\. Boot Into Safe Mode (Android Only)
+
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![android safe mode warning option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/11/android-safe-mode-warning-option.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
+![android power off options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/11/android-power-off-options.jpg)
+
+Close
+
+ If your Android screen is still flickering, try switching to Safe Mode for a couple of hours. Safe Mode lets you use your phone without third-party apps and services. Unlike a factory reset, Safe Mode retains your phone's data, and you can return to the regular experience anytime you want.
+
+ However, Safe Mode is merely a diagnostic tool and won't solve the problem. If your phone works fine in Safe Mode, the problem is caused by a third-party app, not your phone.
+
+To boot your phone in the Safe Mode on Android:
+
+1. Press and hold the power key.
+2. Long-press**Power Off** on the screen until you get the Safe Mode prompt.
+3. You'll see a small warning screen; tap the icon again to enter. Your phone will restart in Safe Mode, and the flickering should be gone.
+4. To exit Safe Mode, restart your device.  
+   * You can also exit Safe Mode via the notification panel. Tap**Safe Mode is on > Turn off** .
+
+ There's a chance the process might be a bit different on [different Android skins](https://www.makeuseof.com/tag/android-skins-explained-hardware-makers-change-stock-android/) . So, if the steps above don't work, try contacting your device manufacturer or head to their support website. Usually, a quick Google search along the lines of "How to boot X phone into safe mode" does the trick.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
+## 4\. Disable Auto-Brightness (Adaptive Brightness)
+
+![android adaptive brightness options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/11/android-adaptive-brightness-options.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
+![android adjust adaptive brightness options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/11/android-adjust-adaptive-brightness-options.jpg)
+
+Close
+
+ The auto-brightness (Adaptive brightness) setting constantly alters the screen's illumination based on light sensor data. But a software update or hardware defect could lead to unexpected snags, including display flickers. Therefore, another straightforward action you can take is to disable the option from the Settings menu.
+
+ This feature is under**Settings > Display > Adaptive brightness** on Android and**Settings > Display & Brightness** on iOS.
+
+ Alternatively, there's also the option to reset the Adaptive brightness on Android, which can come in handy if your phone struggles to adapt to new lighting conditions. To reset your phone brightness:
+
+1. Head to your phone**Settings** .
+2. Tap on**Apps & notifications** or**Apps** .
+3. Find and then select the app named**Device Health Services** .
+4. Tap**Manage storage > Clear all data** , then tap**OK** to confirm.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 5\. Disable Hardware Overlays (Android only)
+
+ When rendering graphics, your phone dynamically decides whether the CPU or the GPU will handle the job. While the transition is usually seamless, a damaged or aged phone can struggle with screen compositing (layering images).
+
+ There is a minor delay between tasks when the phone has nothing to display. Hence, the flickering. But disabling hardware overlays can help. To do so, you'll first need to enable Developer options.
+
+To unlock Developer options on Android:
+
+1. Go to**Settings > System > About phone** . On Samsung phones, go to**Software information** .
+2. Tap the**Build number** repeatedly (it should take around seven taps) until you see a message saying, "**You are now a developer!** "
+
+ Once in developer mode, head back to your phone settings and scroll to the bottom until you find**Developer options** . In it, scroll down to find**Disable HW overlays** and toggle it on. Note that this will consume extra power since disabling overlays forces the phone to use GPU rendering.
+
+## 6\. Check for Device Updates
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
+![iphone software update updated](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/iphone-software-update-1.jpg)
+
+ Your display problem might have spawned from a messy software build. Usually, a simple software update fixes the issue, so check if there's an update available for your device. To check your software version on Android, go to**Settings > System > System update** . For iOS, go to**Settings > General > Software Update** .
+
+ You can also consider checking in with the manufacturer for updates or scouring forums for a temporary solution. We don't recommend this, but you can also try [downgrading to an older Android version](https://www.makeuseof.com/downgrade-to-older-version-of-android/) to see if it fixes the issue.
+
+## 7\. Get Your Phone Checked by a Professional
+
+ Unfortunately, there's no guarantee that any of these steps will work. Sometimes, a glitching phone screen is due to a hardware failure, and there may be significant costs involved for repair or replacement. That's why it's worth giving each of these tricks a shot first.
+
+ That said, your last resort is to contact your device's manufacturer and have your phone screen checked by a professional. If none of these techniques worked, you might be facing a more complex issue. In these scenarios, sending your phone in for repair or replacement is the only option.
+
+## Fix Your Flickering Phone Screen
+
+ Since your phone plays such an active role in your life, you need everything to work correctly. Smartphones house many delicate and interconnected components, and the malfunctioning of any one can cause flickering displays.
+
+ Don't worry; a flickering phone screen is usually fixable, assuming it's a software issue. Even though mobile phones are complex and can be daunting to repair, trying these at-home tricks first can save you a lot of money versus buying a brand-new device.
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-broadcast-easily-3-steps-to-post-mp3-on-youtube-for-2024/"><u>[New] Broadcast Easily  3 Steps to Post MP3 on YouTube for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expert-tips-for-srt-enhanced-mp4-files/"><u>[New] Expert Tips for SRT-Enhanced MP4 Files</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-inside-instagrams-maximum-video-restriction-policy-for-2024/"><u>[New] Inside Instagram's Maximum Video Restriction Policy for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-mastering-the-use-of-custom-gifs-in-your-instagram-stories/"><u>[New] Mastering the Use of Custom GIFs in Your Instagram Stories</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-maximizing-team-output-8-excellent-facebook-planners-revealed-for-2024/"><u>[New] Maximizing Team Output  8 Excellent Facebook Planners Revealed for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-acclaimed-music-archives-for-visual-media/"><u>[Updated] Acclaimed Music Archives for Visual Media</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-visual-aesthetics-boost-integrating-black-bar-and-box-frame-for-social-media/"><u>[Updated] In 2024, Visual Aesthetics Boost  Integrating Black Bar & Box Frame for Social Media</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-slide-into-style-instagrams-secrets-to-upside-down-visual-content-for-2024/"><u>[Updated] Slide Into Style  Instagram's Secrets to Upside-Down Visual Content for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-augmented-reality-stickers-by-google-unveiled-and-compared/"><u>2024 Approved  Augmented Reality Stickers by Google Unveiled and Compared</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-frame-by-frame-verbalizer/"><u>2024 Approved  Frame by Frame Verbalizer</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-laughlens-quickly-create-social-memes-and-gifs/"><u>2024 Approved  LaughLens  Quickly Create Social Memes & Gifs</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-leading-action-cameras-for-thrill-seekers/"><u>2024 Approved  Leading Action Cameras for Thrill Seekers</u></a></li>
+<li><a href="https://fox-that.techidaily.com/cant-send-texts-on-your-iphone-discover-10-essential-fixes/"><u>Can't Send Texts on Your iPhone? Discover 10 Essential Fixes!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/cool-down-your-idevice-why-they-get-hot-and-how-to-fix-it-quickly/"><u>Cool Down Your iDevice: Why They Get Hot and How to Fix It Quickly</u></a></li>
+<li><a href="https://fox-that.techidaily.com/defeating-the-ghostly-fingers-of-your-iphone-screen-a-list-of-10-effective-fixes/"><u>Defeating the Ghostly Fingers of Your iPhone Screen: A List of 10 Effective Fixes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/diy-guide-how-to-extract-water-from-phone-speakers-fast/"><u>DIY Guide: How to Extract Water From Phone Speakers Fast</u></a></li>
+<li><a href="https://fox-that.techidaily.com/dont-delay-discover-how-ios-153-enhances-security-and-features-on-your-apple-device/"><u>Don't Delay! Discover How iOS 15.3 Enhances Security and Features on Your Apple Device</u></a></li>
+<li><a href="https://fox-that.techidaily.com/experience-static-sound-instead-of-shifting-audio-deactivating-airpods-dynamic-head-tracking/"><u>Experience Static Sound Instead of Shifting Audio: Deactivating AirPods' Dynamic Head Tracking</u></a></li>
+<li><a href="https://fox-that.techidaily.com/extended-iphones-sleep-time-troubleshooting-quick-fixes-to-try/"><u>Extended iPhones Sleep Time Troubleshooting - Quick Fixes to Try!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/first-steps-in-pairing-devices-a-comprehensive-guide-for-iphones/"><u>First Steps in Pairing Devices: A Comprehensive Guide for iPhones</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fix-common-iphone-issues-by-restoring-network-configuration-from-scratch/"><u>Fix Common iPhone Issues by Restoring Network Configuration From Scratch</u></a></li>
+<li><a href="https://fox-that.techidaily.com/get-a-lightning-fast-safari-browser-on-your-iphone-using-these-easy-4-techniques/"><u>Get a Lightning-Fast Safari Browser on Your iPhone Using These Easy 4 Techniques</u></a></li>
+<li><a href="https://fox-that.techidaily.com/guide-to-restoring-your-iphone-functionality-after-it-shows-emergency-signal-on-status-bar/"><u>Guide to Restoring Your iPhone Functionality After It Shows Emergency Signal on Status Bar</u></a></li>
+<li><a href="https://fox-that.techidaily.com/hack-the-lag-how-to-get-your-iphones-safari-up-to-speed-with-these-4-solutions/"><u>Hack the Lag - How to Get Your iPhone's Safari Up to Speed with These 4 Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-fix-incorrect-website-activity-reporting-in-your-iphones-screen-time/"><u>How to Fix Incorrect Website Activity Reporting in Your iPhone's Screen Time</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-fix-the-camera-zoomed-in-problem-on-whatsapp/"><u>How to Fix the Camera Zoomed-In Problem on WhatsApp</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-hevc-h265-video-on-samsung-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>How to play HEVC H.265 video on Samsung ?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-repair-your-iphones-malfunctioning-camera-top-er-7-troubleshooting-steps/"><u>How to Repair Your iPhone's Malfunctioning Camera - Top Er 7 Troubleshooting Steps</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-action-camera-mics-top-tier-selection-unveiled/"><u>In 2024, Action Camera Mics  Top-Tier Selection Unveiled</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/in-2024-make-it-shine-professional-video-editing-tips-for-creating-breathtaking-home-videos/"><u>In 2024, Make It Shine Professional Video Editing Tips for Creating Breathtaking Home Videos</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-spotifys-ad-landscape-a-comprehensive-guide/"><u>In 2024, Mastering Spotify's Ad Landscape  A Comprehensive Guide</u></a></li>
+<li><a href="https://facebook.techidaily.com/initiating-virtual-reunions-leveraging-your-facebook-portal-tv/"><u>Initiating Virtual Reunions: Leveraging Your Facebook Portal TV</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-icon-troubleshooter-recover-lost-application-graphics-with-these-easy-fixes/"><u>IPhone Icon Troubleshooter: Recover Lost Application Graphics with These Easy Fixes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-imessage-hiccups-fixing-messages-that-wont-send-or-deliver/"><u>IPhone iMessage Hiccups: Fixing Messages That Won't Send or Deliver</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/leading-discord-automated-friends/"><u>Leading Discord Automated Friends</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolving-persistent-wi-fi-issues-on-iphones-top-5-solutions/"><u>Resolving Persistent Wi-Fi Issues on iPhones: Top 5 Solutions</u></a></li>
+<li><a href="https://win11.techidaily.com/screen-notes-made-easy-winning-sticky-pad-solutions-for-pc/"><u>Screen Notes Made Easy: Winning Sticky Pad Solutions for PC</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-apple-pay-hiccups-top-10-simple-solutions/"><u>Solving Apple Pay Hiccups: Top 10 Simple Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-the-overzoom-issue-tips-for-adjusting-your-whatsapp-camera-settings/"><u>Solving the Overzoom Issue: Tips for Adjusting Your WhatsApp Camera Settings</u></a></li>
+<li><a href="https://fox-that.techidaily.com/struggling-with-iphone-app-downloads-discover-10-proven-fixes-now/"><u>Struggling with iPhone App Downloads? Discover 10 Proven Fixes Now!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/struggling-with-iphones-auto-brightness-try-these-7-methods/"><u>Struggling with iPhone's Auto-Brightness? Try These 7 Methods</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/superb-cyber-shops-for-handcrafted-gift-enclosures-for-2024/"><u>Superb Cyber Shops for Handcrafted Gift Enclosures for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/tech-trick-keeping-your-ipad-quiet-when-your-iphone-receives-a-call/"><u>Tech Trick: Keeping Your iPad Quiet When Your iPhone Receives a Call</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/top-5-tools-to-help-you-know-more-freeze-frame-video-editing-skills-for-2024/"><u>Top 5 Tools to Help You Know More Freeze-Frame Video Editing Skills for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/track-down-your-vanished-iphone-expert-tips-on-utilizing-find-my-feature/"><u>Track Down Your Vanished iPhone - Expert Tips on Utilizing Find My Feature</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-card-rejection-issues-6-steps-for-iphone-users/"><u>Troubleshoot Card Rejection Issues: 6 Steps for iPhone Users</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-gps-problems-making-the-location-services-work-again-on-an-iphone/"><u>Troubleshooting GPS Problems: Making the Location Services Work Again on an iPhone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/ultimate-list-best-asmr-on-smartphones-for-2024/"><u>Ultimate List  Best ASMR on Smartphones for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unveiling-moisture-mayhem-the-ultimate-guide-to-detecting-9-iphone-damage-symptoms/"><u>Unveiling Moisture Mayhem: The Ultimate Guide to Detecting 9 iPhone Damage Symptoms</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-overview-about-supported-iphone-video-formats-and-best-iphone-video-editor-and-converter/"><u>Updated 2024 Approved Overview About Supported iPhone Video Formats and Best iPhone Video Editor & Converter</u></a></li>
+<li><a href="https://fox-that.techidaily.com/why-arent-apps-installing-on-your-iphone-discover-10-effective-fixes/"><u>Why Aren't Apps Installing on Your iPhone? Discover 10 Effective Fixes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/widget-woes-here-are-10-quick-troubleshooting-tips-for-ios-users/"><u>Widget Woes? Here Are 10 Quick Troubleshooting Tips for iOS Users</u></a></li>
+<li><a href="https://fox-that.techidaily.com/your-iphones-vanished-app-effective-strategies-for-finding-whats-missing/"><u>Your iPhone's Vanished App: Effective Strategies for Finding What's Missing</u></a></li>
+</ul></div>

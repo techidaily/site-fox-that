@@ -1,7 +1,7 @@
 ---
 title: "Detecting Drenched Devices: Navigate Through These Pressure Points for a Waterlogged iPhone"
-date: 2024-07-17 21:52:54
-updated: 2024-07-20 10:35:13
+date: 2024-07-20T03:28:09.226Z
+updated: 2024-07-21T03:28:09.226Z
 tags:
   - iphone
   - apple
@@ -28,6 +28,9 @@ thumbnail: https://thmb.techidaily.com/12e343f93577f904ba5d5a8987a44f73ad92d6860
 
  If you use your iPhone's camera and your pictures look like they're from a low-budget movie from the 50s, then it might be water-damaged. If you see a photo like this, turn off your phone and dry it thoroughly.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 2\. Face ID or Touch ID Malfunctioning
 
 ![iPhone with Face ID is not available message on the lock screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/iphone-with-face-id-is-not-available-message-on-the-lock-screen.jpg)
@@ -38,12 +41,21 @@ thumbnail: https://thmb.techidaily.com/12e343f93577f904ba5d5a8987a44f73ad92d6860
 
  Likewise, Touch ID could also be negatively affected by water if it slips through the side of the Home button and gets into the sensors. This is less likely to happen if you use an iPhone 7 or 8, but it's still possible if the phone falls into extremely dirty water.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. Misbehaving Buttons
 
  Dirty water often contains all sorts of particles that can get into small gaps and block them. If you notice that the buttons on an iPhone feel stuck, make a grainy sound, or simply do not respond, then you could be holding a water-damaged iPhone.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. Patches on the Display
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 ![An iPhone X with a dark spot on its left bottom corner](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/05/an-iphone-x-with-a-dark-spot-on-its-left-bottom-corner.jpg)
 
  If you're unlucky, water could also affect your display and develop permanent patches. You might see signs of water under the display first before it slowly forms dark patches—making the affected area dimmer.
@@ -58,8 +70,15 @@ thumbnail: https://thmb.techidaily.com/12e343f93577f904ba5d5a8987a44f73ad92d6860
 
  The phone's display module may have been affected by water. You should return it to Apple or an Apple Authorized Service Provider to replace that part of the screen.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ## 6\. Muffled Speakers
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![iPhone 11 in the hands of a woman with volume control options on the screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/iphone-11-in-the-hands-of-a-woman-with-volume-control-options-on-the-screen.jpg)
 
  Another clear sign that an iPhone is water-damaged is muffled speakers. If you want to purchase a used phone, after checking the cameras, you should play some sounds on the speakers to see what it sounds like.
@@ -84,6 +103,18 @@ thumbnail: https://thmb.techidaily.com/12e343f93577f904ba5d5a8987a44f73ad92d6860
 
  If your phone falls in muddy water, try to remove mud from the charging port as quickly as possible. When your phone dries, give the charging port a thorough clean. You can check our guide on [how to clean your dirty iPhone](https://www.makeuseof.com/tag/clean-iphone-guide/) for better assistance with that.
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 9\. Strange Smells
 
  Dirty or salty water could also give your iPhone an odd smell, especially if it makes its way inside the phone, where it's harder to clean.
@@ -114,3 +145,46 @@ thumbnail: https://thmb.techidaily.com/12e343f93577f904ba5d5a8987a44f73ad92d6860
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-x-master-recorder-software-pc-edition/"><u>[New] 2024 Approved  X-Master Recorder Software, PC Edition</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-crafting-universal-streams-for-youtube-and-beyond-networks/"><u>[New] Crafting Universal Streams for YouTube & Beyond Networks</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-future-frameworks-exclusive-list-of-top-cameras/"><u>[New] Future Frameworks  Exclusive List of Top Cameras</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-captivate-and-convert-creating-high-roi-animated-ads-on-facebook/"><u>[Updated] 2024 Approved  Captivate and Convert  Creating High-ROI Animated Ads on Facebook</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-a-guide-to-profit-sharing-for-creators-of-video-clips-for-2024/"><u>[Updated] A Guide to Profit Sharing for Creators of Video Clips for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-capturing-the-heart-of-sims-4-games/"><u>[Updated] In 2024, Capturing the Heart of Sims 4 Games</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-instagrams-guide-to-intellectual-property-in-music/"><u>[Updated] Instagram's Guide to Intellectual Property in Music</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-xiaomi-redmi-note-12-4g-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Xiaomi Redmi Note 12 4G | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/boosting-the-resolution-of-your-pictures-despite-having-an-iphone-with-few-megapixels/"><u>Boosting the Resolution of Your Pictures Despite Having an iPhone with Few Megapixels</u></a></li>
+<li><a href="https://fox-that.techidaily.com/dont-miss-out-allowing-calls-and-messages-in-ios-do-not-disturb-mode-discover-8-strategies/"><u>Don't Miss Out: Allowing Calls and Messages in iOS Do Not Disturb Mode – Discover 8 Strategies</u></a></li>
+<li><a href="https://fox-that.techidaily.com/ensuring-seamless-whatsapp-backups-to-icloud-a-step-by-step-guide/"><u>Ensuring Seamless WhatsApp Backups to iCloud: A Step-by-Step Guide</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/fix-cannot-paste-the-data-error-in-microsoft-excel-2003-stellar-by-stellar-guide/"><u>Fix Cannot Paste the Data Error in Microsoft Excel 2003 | Stellar</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721481115349-fixing-iphone-status-bar-stop-incorrectly-showing-sos-alerts-now/"><u>Fixing iPhone Status Bar: Stop Incorrectly Showing SOS Alerts Now</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721475164704-fixing-the-iphone-contacts-problem-uncover-these-3-essential-solutions-today/"><u>Fixing the iPhone Contacts Problem: Uncover These 3 Essential Solutions Today!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-wi-fi-connection-issues-on-iphones-and-ipads-easy-guide-for-8-common-problems/"><u>Fixing Wi-Fi Connection Issues on iPhones and iPads - Easy Guide for 8 Common Problems</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-enable-sounds-on-an-iphone-when-theres-only-silence/"><u>How to Enable Sounds on an iPhone When There’s Only Silence</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-fix-common-problems-when-using-iphone-guided-access-mode/"><u>How to Fix Common Problems when Using iPhone Guided Access Mode</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-fix-your-iphoneipad-when-it-cant-connect-to-wi-fi-a-guide-with-8-key-fixes/"><u>How to Fix Your iPhone/iPad When It Can't Connect to Wi-Fi – A Guide with 8 Key Fixes</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-transform-your-content-essential-youtube-studio-editing-skills/"><u>In 2024, Transform Your Content  Essential YouTube Studio Editing Skills</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-transform-your-pics-high-quality-no-cost/"><u>In 2024, Transform Your Pics - High Quality, No Cost</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-users-rejoice-discover-these-9-quick-fixes-for-a-non-responsive-chatgpt-application/"><u>IPhone Users Rejoice! Discover These 9 Quick Fixes for a Non-Responsive ChatGPT Application</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721477142579-is-your-iphone-sending-mms-when-you-expected-an-imessage-find-out-why/"><u>Is Your iPhone Sending MMS When You Expected an iMessage? Find Out Why!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/lost-all-iconography-on-ios-device-heres-how-to-restore-them/"><u>Lost All Iconography on iOS Device? Here's How to Restore Them</u></a></li>
+<li><a href="https://fox-that.techidaily.com/master-the-art-of-fixing-face-id-blunders-in-your-apple-camera-roll-today/"><u>Master the Art of Fixing Face ID Blunders in Your Apple Camera Roll Today</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-tips-for-perfecting-your-talking-face-content-a-complete-guide/"><u>New In 2024, Tips for Perfecting Your Talking Face Content A Complete Guide</u></a></li>
+<li><a href="https://review-topics.techidaily.com/online-signatures-for-dotx-file-by-ldigisigner-sign-a-word-sign-a-word/"><u>Online signatures for .dotx file</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-compatibility-problems-making-aol-mail-functional-on-iphones/"><u>Overcoming Compatibility Problems: Making AOL Mail Functional on iPhones</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-email-setbacks-how-to-ensure-regular-iphone-message-updates/"><u>Overcoming Email Setbacks: How to Ensure Regular iPhone Message Updates</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-common-issues-with-non-responsive-iphones-screens/"><u>Solving Common Issues with Non-Responsive iPhones Screens</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-uneven-sound-discover-how-to-fix-asymmetrical-volume-in-your-airpods/"><u>Solving Uneven Sound: Discover How to Fix Asymmetrical Volume in Your AirPods</u></a></li>
+<li><a href="https://fox-that.techidaily.com/stop-airdrop-woes-master-the-quick-fix-with-these-16-proven-techniques/"><u>Stop AirDrop Woes: Master the Quick Fix with These 16 Proven Techniques</u></a></li>
+<li><a href="https://fox-that.techidaily.com/stop-airpods-from-swapping-connections-tips-for-single-device-pairings-with-apple-products/"><u>Stop AirPods From Swapping Connections: Tips for Single Device Pairings with Apple Products</u></a></li>
+<li><a href="https://fox-that.techidaily.com/tackling-typical-icloud-troubleshooting-for-your-iphone-or-ipad-learn-here/"><u>Tackling Typical iCloud Troubleshooting for Your iPhone or iPad - Learn Here</u></a></li>
+<li><a href="https://fox-that.techidaily.com/the-lowdown-on-apples-latest-addressing-iphone-14s-power-problems/"><u>The Lowdown on Apple's Latest: Addressing iPhone 14'S Power Problems</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-10-solutions-for-iphone-calling-issues-get-connected/"><u>Top 10 Solutions for iPhone Calling Issues: Get Connected!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-guide-how-to-repair-facetime-when-it-stops-responding/"><u>Troubleshooting Guide: How to Repair FaceTime When It Stops Responding</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-guide-making-incompatible-iphone-accessories-work/"><u>Troubleshooting Guide: Making Incompatible iPhone Accessories Work</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721457446100-unsticking-images-in-safari-on-ios-devices-9-handy-fixes-for-you/"><u>Unsticking Images in Safari on iOS Devices: 9 Handy Fixes for You</u></a></li>
+<li><a href="https://fox-that.techidaily.com/why-isnt-siri-responding-top-7-fixes-for-your-ios-device/"><u>Why Isn't Siri Responding? Top 7 Fixes for Your iOS Device</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "Solving the Mystery of Gone iPhone Applications: Discover Where They Went and How to Retrieve Them"
-date: 2024-07-18 22:42:12
-updated: 2024-07-20 12:10:15
+date: 2024-07-20T03:24:50.730Z
+updated: 2024-07-21T03:24:50.730Z
 tags:
   - iphone
   - apple
@@ -22,6 +22,9 @@ thumbnail: https://thmb.techidaily.com/4d3965d206c3e8f9b4a9da6d71e7e79363ab237dd
 
  Your browser does not support the video tag.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. Find Your App in the App Library
 
  If an app is installed on your iPhone but not on your Home Screen, it's probably in the App Library, which places all your apps in proper categories. Swipe left on the last**Home Screen** page to reach**App Library** . Then, use the**Search** box to find your missing app quickly.
@@ -48,8 +51,18 @@ Close
 
 ![iphone home screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/img_5638.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![iphone search screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/img_5639.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
 ![use search to find an app in iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/img_5640.jpg)
 
 Close
@@ -76,6 +89,9 @@ Close
 
 ![Tap Content & Privacy Restrictions in iPhone Screen Time Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/tap-content--privacy-restrictions-in-iphone-screen-time-settings.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Tap Allowed Apps in iPhone Screen Time Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/tap-allowed-apps-in-iphone-screen-time-settings.png)
 
 ![Make Sure all iPhone apps are allowed and nothing is restricted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/make-sure-all-iphone-apps-are-allowed-and-nothing-is-restricted.png)
@@ -90,6 +106,9 @@ Close
 
  To avoid confusion in the future, learn more about [hiding and unhiding the Home Screen pages](https://www.makeuseof.com/hide-iphone-home-screen-pages/) .
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ## 7\. Use App Store to Check If an App Is Installed or Not
 
  When an app is downloaded on your iPhone, the App Store page says**Open** (or**Update**). If the app is not downloaded, it says**Get** (or shows the**Download** cloud icon).
@@ -100,12 +119,26 @@ Close
 2. Type the name of the missing app.
 3. In the search results, if the app says**Open** , tap it. If it says**Get** or shows a cloud icon, download it.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 ![Long press iOS App Store icon and tap Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/long-press-ios-app-store-icon-and-tap-search.png)
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ![Search for app in App Store and tap Open](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/search-for-app-in-app-store-and-tap-open.png)
 
 Close
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 8\. Reset the Home Screen Layout to View All Apps Alphabetically
 
  If you want every app listed alphabetically to be sure not to miss anything, you can reset the Home Screen and Dock layout. After this, the Home Screen will show all the Apple apps (just like a new iPhone). And the apps you have downloaded will be placed alphabetically in order.
@@ -117,12 +150,18 @@ Here's how to reset your iPhone's Home Screen layout:
 
 ![Tap General in iPhone Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/tap-general-in-iphone-settings-app.png)
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 ![From the bottom tap Reset in iPhone Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/from-the-bottom-tap-reset-in-iphone-settings.png)
 
 ![Tap Reset Home Screen Layout in iPhone Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/tap-reset-home-screen-layout-in-iphone-settings.png)
 
 Close
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ## 9\. Additional Fixes if You Still Can't Find an App
 
  Most of the methods we covered above involve unhiding an app and getting it back on the Home Screen again. But if those don't work, an app disappearing may be caused by a glitch.
@@ -151,3 +190,64 @@ Close
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-self-viewer-alert-on-facebook-chats-steps-to-resolve/"><u>[New] Self-Viewer Alert on Facebook Chats  Steps to Resolve</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-select-best-tiktok-video-apps-reviewed/"><u>[Updated] 2024 Approved  Select Best TikTok Video Apps Reviewed</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-step-by-step-guide-to-creating-popular-youtube-openings/"><u>[Updated] 2024 Approved  Step-by-Step Guide to Creating Popular YouTube Openings</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-leading-edge-technology-in-capturing-virtual-meetings-5-top-picks-for-2024/"><u>[Updated] Leading Edge Technology in Capturing Virtual Meetings (5 Top Picks) for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-use-your-social-media-app-and-make-slow-motion-videos-by-reading-this-guide-besides-learning-slow-motion-snapchat-get-useful-apps-serving-the-/"><u>2024 Approved Use Your Social Media App and Make Slow-Motion Videos by Reading This Guide. Besides Learning Slow-Motion Snapchat, Get Useful Apps Serving the Same Purposes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/avoid-these-7-common-iphone-display-problems-with-easy-fixes/"><u>Avoid These 7 Common iPhone Display Problems with Easy Fixes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/bring-back-the-missing-pieces-a-guide-to-restoring-all-icons-on-your-iphone/"><u>Bring Back the Missing Pieces: A Guide to Restoring All Icons on Your iPhone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721453827116-cant-see-your-iphone-app-discover-the-steps-to-retrieve-deleted-programs/"><u>Can't See Your iPhone App? Discover the Steps to Retrieve Deleted Programs!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/complete-guide-how-to-solve-iphone-black-display-problems/"><u>Complete Guide: How To Solve iPhone Black Display Problems</u></a></li>
+<li><a href="https://fox-that.techidaily.com/consolidating-identical-images-across-multiple-apple-photography-collections/"><u>Consolidating Identical Images Across Multiple Apple Photography Collections</u></a></li>
+<li><a href="https://fox-that.techidaily.com/dealing-with-restless-noise-changes-in-your-airpods-try-disabling-audio-tracking-technology/"><u>Dealing With Restless Noise Changes In Your AirPods? Try Disabling Audio Tracking Technology</u></a></li>
+<li><a href="https://fox-that.techidaily.com/diy-iphone-reset-methods-no-itunes-required/"><u>DIY iPhone Reset Methods - No iTunes Required</u></a></li>
+<li><a href="https://fox-that.techidaily.com/easy-solution-for-when-apples-itunes-and-finder-cant-find-your-iphone/"><u>Easy Solution for When Apple's iTunes and Finder Can't Find Your iPhone!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/essential-tips-to-repair-keyboard-issues-on-iphones-and-ipads-a-step-by-hemisphere-approach/"><u>Essential Tips to Repair Keyboard Issues on iPhones & iPads: A Step-by-Hemisphere Approach</u></a></li>
+<li><a href="https://fox-that.techidaily.com/five-swift-solutions-reviving-your-malfunctioning-iphone-home-button/"><u>Five Swift Solutions: Reviving Your Malfunctioning iPhone Home Button</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721458458567-fixing-iphones-extended-screen-time-before-power-off-expert-advice/"><u>Fixing iPhone's Extended Screen Time Before Power Off - Expert Advice!</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-can-i-unlock-my-apple-iphone-15-plus-after-forgetting-my-pin-code-drfone-by-drfone-ios/"><u>How Can I Unlock My Apple iPhone 15 Plus After Forgetting my PIN Code? | Dr.fone</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/how-to-find-discord-server-for-2024/"><u>How to Find Discord Server for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-fix-a-non-responsive-facetime-discover-15-tips-and-tricks/"><u>How to Fix a Non-Responsive FaceTime - Discover 15 Tips & Tricks</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-handle-when-your-iphone-displays-phone-numbers-rather-than-contact-names/"><u>How to Handle When Your iPhone Displays Phone Numbers Rather Than Contact Names</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-restore-your-imessage-connection-tips-for-iphone-users/"><u>How to Restore Your iMessage Connection: Tips for iPhone Users</u></a></li>
+<li><a href="https://fox-that.techidaily.com/identifying-liquid-impact-the-ultimate-list-of-9-signs-for-a-damaged-iphone/"><u>Identifying Liquid Impact: The Ultimate List of 9 Signs for a Damaged iPhone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/improve-your-iphones-autocorrect-skills-in-six-easy-steps-for-better-texting-precision/"><u>Improve Your iPhone's Autocorrect Skills in Six Easy Steps for Better Texting Precision</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-chromeandroidios-the-ultimate-guide-to-tiktok-video-uploads/"><u>In 2024, Chrome/Android/iOS  The Ultimate Guide to TikTok Video Uploads</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-effortless-playlist-pivot-the-top-5-spotify-to-youtube-tools/"><u>In 2024, Effortless Playlist Pivot  The Top 5 Spotify-to-YouTube Tools</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-oppo-a1-5g-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Oppo A1 5G Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-realme-narzo-60-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Realme Narzo 60 5G | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/insta-popularity-boost-mastering-the-25-essential-hashtags/"><u>Insta-Popularity Boost  Mastering the 25 Essential Hashtags</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-recognition-issues-heres-what-to-do-if-itunes-or-finder-wont-see-it/"><u>IPhone Recognition Issues? Here's What to Do If iTunes or Finder Won’t See It</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-restoration-guide-no-itunes-required/"><u>IPhone Restoration Guide: No iTunes Required</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721477366152-navigating-iphone-13-difficulties-discover-these-6-and-their-quick-fixes/"><u>Navigating iPhone 13 Difficulties? Discover These 6 & Their Quick Fixes</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-edit-videos-like-a-pro-microsoft-video-editor-for-windows-1087/"><u>New 2024 Approved Edit Videos Like a Pro Microsoft Video Editor for Windows 10/8/7</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-silencing-skew-advanced-tactics-for-rectifying-audio-anomalies-and-enhancing-clarity/"><u>New 2024 Approved Silencing Skew Advanced Tactics for Rectifying Audio Anomalies and Enhancing Clarity</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-top-simple-video-editing-tools-for-everyone/"><u>New In 2024, Top Simple Video Editing Tools for Everyone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-on-charge-hold-alerts-on-your-iphone-discover-8-effective-fixes/"><u>Overcoming 'On Charge Hold Alerts' On Your iPhone - Discover 8 Effective Fixes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-challenges-restoring-functionality-to-a-broken-iphone-tethering-feature/"><u>Overcoming Challenges: Restoring Functionality to a Broken iPhone Tethering Feature</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-icloud-integration-hurdles-a-step-by-step-guide-to-restoring-sync-functionality/"><u>Overcoming iCloud Integration Hurdles: A Step-by-Step Guide to Restoring Sync Functionality</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-the-challenge-of-unrecognized-iphones-in-itunes-and-finder/"><u>Overcoming the Challenge of Unrecognized iPhones in iTunes and Finder</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-vpn-connection-problems-on-iphone-a-comprehensive-list-of-asterixes/"><u>Overcoming VPN Connection Problems on iPhone: A Comprehensive List of Asterixes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/quick-fixes-for-10-typical-apple-pay-troubles/"><u>Quick Fixes for 10 Typical Apple Pay Troubles</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolve-your-iphone-wake-up-woes-fix-notifications-that-dont-sound/"><u>Resolve Your iPhone Wake-Up Woes: Fix Notifications That Don't Sound</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolving-incorrect-person-tagging-issues-on-apples-photo-library/"><u>Resolving Incorrect Person Tagging Issues on Apple's Photo Library</u></a></li>
+<li><a href="https://fox-that.techidaily.com/restoring-access-to-grayed-out-icloud-settings-on-ios-gadgets/"><u>Restoring Access to Grayed-Out iCloud Settings on iOS Gadgets</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/six-innovative-approaches-for-recording-and-storing-mov-files-on-windows-11-for-2024/"><u>Six Innovative Approaches for Recording and Storing MOV Files on Windows 11 for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/smooth-transition-to-sierra-essential-tech-steps-for-2024/"><u>Smooth Transition to Sierra  Essential Tech Steps for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/step-by-step-tutorial-rectifying-person-identification-mistakes-on-apple-camera-roll/"><u>Step-by-Step Tutorial: Rectifying Person Identification Mistakes on Apple Camera Roll</u></a></li>
+<li><a href="https://fox-that.techidaily.com/tips-and-tricks-to-optimize-photo-quality-on-low-megapixel-iphone-devices/"><u>Tips & Tricks to Optimize Photo Quality on Low-Megapixel iPhone Devices</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-12-common-problems-with-iphone-12-solutions-and-workarounds/"><u>Top 12 Common Problems with iPhone 12: Solutions & Workarounds</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-and-repair-an-unresponsive-iphone-light-top-twelve-solutions/"><u>Troubleshoot and Repair an Unresponsive iPhone Light: Top Twelve Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-at-its-best-learn-the-gentle-reboot-technique-for-iphones-here/"><u>Troubleshooting at Its Best: Learn the Gentle Reboot Technique for iPhones Here!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-face-id-top-14-solutions-when-it-fails-on-iphones/"><u>Troubleshooting Face ID: Top 14 Solutions When It Fails on iPhones</u></a></li>
+<li><a href="https://fox-that.techidaily.com/ultimate-guide-changing-apple-device-screen-lock-code/"><u>Ultimate Guide: Changing Apple Device Screen Lock Code</u></a></li>
+<li><a href="https://fox-that.techidaily.com/uncover-hidden-or-deleted-iphone-apps-a-comprehensive-guide-to-retrieving-them/"><u>Uncover Hidden or Deleted iPhone Apps: A Comprehensive Guide to Retrieving Them</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-effortless-mkv-trimming-on-mac-the-best-tools/"><u>Updated Effortless MKV Trimming on Mac The Best Tools</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-free-film-production-integrating-soundtracks-into-your-workflow-for-2024/"><u>Updated Free Film Production Integrating Soundtracks Into Your Workflow for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/ways-to-overcome-apples-refusal-of-your-creditdebit-card/"><u>Ways to Overcome Apple's Refusal of Your Credit/Debit Card</u></a></li>
+<li><a href="https://fox-that.techidaily.com/why-arent-siri-suggestions-appearing-on-your-iphone-troubleshooting-steps-inside/"><u>Why Aren't Siri Suggestions Appearing on Your iPhone? Troubleshooting Steps Inside</u></a></li>
+</ul></div>

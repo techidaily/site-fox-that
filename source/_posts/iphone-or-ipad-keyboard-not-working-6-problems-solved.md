@@ -1,7 +1,7 @@
 ---
 title: IPhone or iPad Keyboard Not Working? 6 Problems Solved
-date: 2024-07-19 18:47:16
-updated: 2024-07-20 12:59:48
+date: 2024-07-20T03:07:56.053Z
+updated: 2024-07-21T03:07:56.053Z
 tags:
   - iphone
   - apple
@@ -14,6 +14,9 @@ thumbnail: https://thmb.techidaily.com/b65bf539ad3bc7b67798ef76b0171c5880f30454a
 
 ## IPhone or iPad Keyboard Not Working? 6 Problems Solved
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [iPhone or iPad Keyboard Isn't Showing Up](https://www.makeuseof.com/iphone-ipad-keyboard-not-working-solutions/#iphone-or-ipad-keyboard-isn-39-t-showing-up)
@@ -31,6 +34,9 @@ thumbnail: https://thmb.techidaily.com/b65bf539ad3bc7b67798ef76b0171c5880f30454a
 
 ![spendee app add a transaction menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/spendee-app.PNG)
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![spendee app with cursor in notes field](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/spendee-app-with-cursor-in-notes-field.jpeg)
 
 Close
@@ -41,16 +47,25 @@ Close
 
 ![expanded iphone keyboards setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/expanded-iphone-keyboards-setting.PNG)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 ![iphone keyboard language list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/iphone-keyboard-language-list.PNG)
 
 ![keyboard language list on iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/keyboard-language-list-on-iphone.PNG)
 
 Close
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. iPhone or iPad Keyboard Typing the Wrong Letters and Words
 
  Almost everyone has had a text message needlessly autocorrected by their iPhone or iPad. But if this happens too frequently, and there are more mistakes than accurate corrections, here's what you should do.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
 ### Test Your iPhone or iPad Screen
 
  If the on-screen keyboard seems to type on its own and input the wrong letters and words, the issue may lie with your iPhone screen. Test to see if your iPhone works normally when you're not using the keyboard.
@@ -67,10 +82,16 @@ Close
 
  Go to**Settings > General > Keyboard > Text Replacement** . If there's an unwanted phrase in the list, swipe left on it and tap**Delete** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ![expanded iphone keyboards setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/expanded-iphone-keyboards-setting.PNG)
 
 ![iphone text replacement setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/iphone-text-replacement-setting.PNG)
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![removal of preset text in iphone text replacement setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/removal-of-preset-text-in-iphone-text-replacement-setting.PNG)
 
 Close
@@ -85,6 +106,9 @@ Close
 
  You can try resetting the keyboard dictionary if your iPhone or iPad keyboard has been lagging frequently. Go to **Settings > General > Transfer or Reset iPhone > Reset > Reset Keyboard Dictionary** to do so.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ![iphone general settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_7383.JPEG)
 
 ![transfer or reset iphone settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_7384.JPEG)
@@ -101,12 +125,22 @@ Close
 
 ![iphone accessibility setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/iphone-accessibility-setting.PNG)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![ipohne touch setting with touch accommodations toggled on](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/ipohne-touch-setting-with-touch-accommodations-toggled-on.PNG)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![iphone touch accommodations setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/iphone-touch-accommodations-setting.PNG)
 
 Close
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 4\. No Sound or Vibration When Typing on the Keyboard
 
  By default, when you type on your iPhone or iPad keyboard, there should be a soft tapping sound. However, you can customize it to include haptic feedback for each key press in the Settings app. And if you don't hear a sound while typing, you can check if it's enabled here.
@@ -117,6 +151,9 @@ Close
 
 ![iphone sounds and haptics settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/iphone-sounds-and-haptics-settings.PNG)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 ![iphone keyboard feedback setting with sound and haptic enabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/iphone-keyboard-feedback-setting-with-sound-and-haptic-enabled.PNG)
 
 Close
@@ -133,18 +170,27 @@ Close
 
  All the fixes above focus on your iPhone or iPad's on-screen keyboard. However, given the larger screen on iPads, people often connect a physical keyboard to use it as a laptop substitute. Here's what you can do if the physical keyboard isn't working.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Check the Keyboard Compatibility With Your iPad Model
 
  If the keyboard connected to your iPad isn't working, it may be because it isn't compatible with your iPad model or the iPadOS version installed on your device.
 
  For example, Apple's Magic Keyboard for iPad accessory only works with selected iPad Pro and iPad Air models. You can refer to [Apple's iPad Keyboards page](https://www.apple.com/ipad-keyboards/) to identify the right keyboard case for your iPad.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Disconnect and Reconnect Your iPad Keyboard
 
  Once you're certain you have [the right keyboard case for your iPad](https://www.makeuseof.com/which-ipad-keyboard-case-right-for-you/) , you can try disconnecting and reconnecting the keyboard to see if that resolves the issue. If the physical keyboard is magnetically attached to your iPad, simply remove and reattach it.
 
  However, if you're using a third-party keyboard that's connected to your iPad via Bluetooth, toggle off Bluetooth on your iPad, wait for a few moments, then toggle it on and connect your keyboard again.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 6\. General Fixes When Your iPhone or iPad Keyboard Doesn't Work
 
  If your iPhone or iPad keyboard is still not working after going through the above troubleshooting methods, you can try a few generic solutions. First,[restart your iPhone](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) or iPad by turning it off and on again. However, if the on-screen keyboard is frozen, you may need to [force restart your iPhone](https://www.makeuseof.com/iphone-soft-reset/) or iPad instead.
@@ -177,3 +223,37 @@ Close
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-elevate-your-content-top-reasons-and-solutions-for-gaining-video-views-for-2024/"><u>[New] Elevate Your Content  Top Reasons and Solutions for Gaining Video Views for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-inside-virtuality-metaverse-vs-omniverse-in-focus/"><u>[New] Inside Virtuality  Metaverse Vs. Omniverse in Focus</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-linux-users-guide-best-8-screenshot-apps-for-2024/"><u>[New] Linux Users Guide  Best 8 Screenshot Apps for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-creating-accessibility-your-guide-to-an-intuitive-youtube-signup/"><u>[Updated] 2024 Approved  Creating Accessibility  Your Guide to an Intuitive YouTube Signup</u></a></li>
+<li><a href="https://fox-that.techidaily.com/11-fixes-for-when-your-airpods-dont-show-up-in-the-find-my-app/"><u>11 Fixes for When Your AirPods Don’t Show Up in the Find My App</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-fuse-video-narratives-with-acoustic-elements-in-premiere-pro/"><u>2024 Approved  Fuse Video Narratives with Acoustic Elements in Premiere Pro</u></a></li>
+<li><a href="https://fox-that.techidaily.com/5-essential-solutions-if-the-chatgpt-ios-application-fails-to-work-correctly/"><u>5 Essential Solutions if the ChatGPT iOS Application Fails to Work Correctly</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Oppo Find X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/dual-device-alert-control-how-to-keep-your-ipad-silent-if-your-iphone-is-ringing/"><u>Dual-Device Alert Control: How to Keep Your iPad Silent If Your iPhone Is Ringing</u></a></li>
+<li><a href="https://fox-that.techidaily.com/expert-advice-enabling-a-locked-idevice-with-ease/"><u>Expert Advice: Enabling a Locked iDevice with Ease</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-erase-all-data-and-return-your-idevice-to-its-original-state/"><u>How to Erase All Data and Return Your iDevice to Its Original State</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-overcome-unrecognized-accessory-errors-on-iphone-devices/"><u>How to Overcome Unrecognized Accessory Errors on iPhone Devices</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-nokia-c32-bootloader-easily-by-drfone-android/"><u>How to Unlock Nokia C32 Bootloader Easily</u></a></li>
+<li><a href="https://fox-that.techidaily.com/imessage-to-sms-alert-does-this-indicate-someone-has-blocked-you-on-their-phone/"><u>IMessage to SMS Alert! Does This Indicate Someone Has Blocked You on Their Phone?</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-new-face-of-collaboration-video-events-post-vidcon/"><u>In 2024, The New Face of Collaboration  Video Events Post-VidCon</u></a></li>
+<li><a href="https://fox-that.techidaily.com/issue-with-non-appearing-iphone-notifications-resolve-it-using-these-eight-solutions/"><u>Issue with Non-Appearing iPhone Notifications? Resolve It Using These Eight Solutions!</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-vn-video-editor-on-mac-download-install-or-explore-alternatives/"><u>New 2024 Approved VN Video Editor on Mac Download, Install, or Explore Alternatives</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcome-your-iphones-control-center-problem-with-8-proven-fixes/"><u>Overcome Your iPhone's Control Center Problem with 8 Proven Fixes!</u></a></li>
+<li><a href="https://extra-support.techidaily.com/pinnacle-creation-hub-synopsis-studio-assessment-2023-for-2024/"><u>Pinnacle Creation Hub Synopsis, Studio Assessment 2023 for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/quick-fixes-to-reactivate-your-icloud-options-on-iphone-or-ipad/"><u>Quick Fixes to Reactivate Your iCloud Options on iPhone or iPad</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solve-iphones-silent-messages-problem-discover-16-effective-tips/"><u>Solve iPhone's Silent Messages Problem: Discover 16 Effective Tips</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solve-your-iphones-phantom-touch-issue-with-these-10-effective-strategies/"><u>Solve Your iPhone's Phantom Touch Issue with These 10 Effective Strategies</u></a></li>
+<li><a href="https://fox-that.techidaily.com/step-by-step-guide-to-fix-your-phones-unprovisioned-sim-card-problem/"><u>Step-by-Step Guide to Fix Your Phone’s Unprovisioned SIM Card Problem</u></a></li>
+<li><a href="https://fox-that.techidaily.com/struggling-with-contacts-display-issue-in-ios-heres-how-you-can-repair-it/"><u>Struggling with Contacts Display Issue in iOS? Here's How You Can Repair It!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721446205316-struggling-with-iphone-vpn-connections-discover-these-7-troubleshooting-tips/"><u>Struggling with iPhone VPN Connections? Discover These 7 Troubleshooting Tips</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-your-stuck-iphone-home-button-with-these-5-easy-fixes/"><u>Troubleshoot Your Stuck iPhone Home Button with These 5 Easy Fixes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-qr-code-scanner-issues-10-solutions-for-iphones/"><u>Troubleshooting QR Code Scanner Issues: 10 Solutions for iPhones</u></a></li>
+<li><a href="https://fox-that.techidaily.com/ultimate-troubleshooting-guide-15-steps-for-your-iphone/"><u>Ultimate Troubleshooting Guide: 15 Steps for Your iPhone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlocking-iphones-do-not-disturb-feature-receiving-communications-with-these-8-methods/"><u>Unlocking iPhone's Do Not Disturb Feature: Receiving Communications with These 8 Methods</u></a></li>
+<li><a href="https://fox-that.techidaily.com/whatsapp-and-icloud-making-sure-your-conversations-are-securely-saved-in-the-cloud/"><u>WhatsApp & iCloud: Making Sure Your Conversations Are Securely Saved in the Cloud</u></a></li>
+</ul></div>

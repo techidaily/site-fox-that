@@ -1,7 +1,7 @@
 ---
 title: "What to Do When iPhone Contacts Go Missing: Practical Fixes for Users"
-date: 2024-07-17 19:34:41
-updated: 2024-07-20 11:59:14
+date: 2024-07-20T03:23:15.665Z
+updated: 2024-07-21T03:23:15.665Z
 tags:
   - iphone
   - apple
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/4413b601ad195439beff9581253d1c8f619535fc7
 
  One of the first steps you should try is restarting your iPhone. Sometimes when mobile devices run for a while, they may run into issues. Restarting your iPhone will help give it a fresh start and thus may help fix minor issues you’re facing, including contacts not showing up, sluggish performance, app crashes, and so on.
 
-![Person using iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/how-to-restart-any-iphone-even-if-the-buttons-are-broken.jpg)
+![Person using iPhone](https://thmb.techidaily.com/f4c650853e8507f493dd5a4da625f53ce5ecb8f26fcbb71888c8a6af3708b00c.jpg)
 
 [Restarting can fix most smartphone problems](https://www.makeuseof.com/why-restarting-smartphone-fixes-most-problems/) , and that’s why the first question a tech support agent asks is, "Have you tried turning it off and on again?"
 
@@ -40,8 +40,14 @@ thumbnail: https://thmb.techidaily.com/4413b601ad195439beff9581253d1c8f619535fc7
 4. Select**Keep on My iPhone** to save copies of synced contacts to your iPhone. You can also select**Delete from My iPhone** if you want. Don’t worry; this option doesn’t make your contacts disappear.
 5. Re-enable**Contacts** again. And if your iPhone asks to merge existing contacts, select**Merge** .
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![iPhone Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/Settings-iPhone.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ![iCloud settings in iOS 16](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/icloud-page-ios-16.jpg)
 
 ![Disabling Contacts sync in iOS 16](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/disabling-contacts-sync-ios-16.jpg)
@@ -60,8 +66,14 @@ So, follow these steps to show hidden contact groups:
 2. Tap**Lists** in the top left.
 3. On the**Lists** page, tap**All Contacts** at the top to view all your saved contacts.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Contacts app in iOS 16](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/contacts-app-ios-16.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![All Accounts option in iOS 16](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/accounts-options-contacts-app.jpg)
 
 Close
@@ -77,6 +89,9 @@ Close
 3. Tap**Add Account** , select the type of account, and log in using your credentials.
 4. After successful login, the account will appear under**Settings > Contacts > Accounts** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ![Contacts settings page in iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/01-contacts-settings-ios.jpg)
 
 ![Accounts page in iOS settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/02-accounts-ios-settings.jpg)
@@ -87,6 +102,10 @@ Close
 
  If you don't see any contacts from the newly added account, follow the steps in the next tip to ensure contact visibility.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## 5\. Modify Your Contact Account Settings
 
  Your**Accounts** settings also affect the visibility of your contacts. You need to ensure that all your connected accounts have Contacts sync enabled. To do this, follow these steps:
@@ -97,6 +116,9 @@ Close
 
 ![Screenshot of iOS Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/iOS-Settings-app.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Contacts settings in iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/Contacts-option-in-iOS-settings-app.jpg)
 
 ![Individual account settings in iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/Individual-account-settings-iOS.jpg)
@@ -107,6 +129,9 @@ Close
 
  Additionally, you can try disabling and enabling Short Name on your iPhone. While this feature is handy to ensure more names fit on the screen, it can sometimes be problematic. To do this, go to**Settings > Contacts > Short Name** . Disable**Short Name** , then wait for some time and turn it on.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 6\. Rebuild Your iPhone Contacts
 
  Another way to troubleshoot iPhone contacts not showing up is by force rebuilding them. To do this, you’ll have to edit one of your contacts first, then restart your iPhone. Here’s how:
@@ -119,6 +144,10 @@ Close
 
 ![Editing contact details on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/02-editing-contact-details-iphone.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![An edited contact on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/edited-contact-ios.jpg)
 
 Close
@@ -135,6 +164,10 @@ Close
 
  If that doesn’t work, you can try using third-party [data recovery tools](https://www.makeuseof.com/tag/data-recovery-work/) to restore your contacts. There are a variety of affordable tools on the market for the job. A good example is [PhoneRescue by iMobie](https://www.imobie.com/phonerescue/buy-ios-data-recovery.htm) , which is highly reputable and works with many iOS versions, including iOS 16\. However, you’ll have to spend some cash to get it.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
 ## 8\. Seek the Help of Apple Support
 
  If all else fails or you don’t want to spend money on third-party data recovery tools, you can [get tech support with the Apple Support app](http://www.makeuseof.com/how-to-get-iphone-support-apple-support-app/) for more assistance.
@@ -161,3 +194,41 @@ Close
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-socialvideo-saver-messenger-edition/"><u>[New] 2024 Approved  SocialVideo Saver – Messenger Edition</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-spacious-mini-cities-with-oriental-flair/"><u>[New] In 2024, Spacious Mini Cities with Oriental Flair</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-the-complete-guide-to-crafting-perfect-instagram-stories/"><u>[New] In 2024, The Complete Guide to Crafting Perfect Instagram Stories</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-latest-tech-insights-on-sonys-s3700-blu-ray/"><u>[New] Latest Tech Insights on Sony's S3700 Blu-Ray</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-the-essential-guide-to-live-broadcasts-optimizing-with-obs-for-youtube-and-twitch/"><u>[Updated] In 2024, The Essential Guide to Live Broadcasts  Optimizing with OBS for YouTube & Twitch</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-tactical-multitasking-a-guide-to-co-watching-on-yt/"><u>2024 Approved  Tactical Multitasking  A Guide to Co-Watching on YT</u></a></li>
+<li><a href="https://fox-that.techidaily.com/baffled-by-balanced-bass-5-solutions-for-unequal-loudness-between-airpods/"><u>Baffled by Balanced Bass? 5 Solutions for Unequal Loudness Between AirPods!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/essential-steps-to-resolve-iphones-guided-access-problems/"><u>Essential Steps to Resolve iPhone's Guided Access Problems</u></a></li>
+<li><a href="https://fox-that.techidaily.com/facetime-stuck-here-are-15-possible-repairs-for-a-smoother-call-experience/"><u>FaceTime Stuck? Here Are 15 Possible Repairs for a Smoother Call Experience</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fix-your-iphones-voicemail-problem-a-step-by-step-strategy-with-9-tips/"><u>Fix Your iPhone's Voicemail Problem: A Step-by-Step Strategy (with 9 Tips)</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-outdated-email-on-ios-devices-tips-and-tricks-for-iphone-users/"><u>Fixing Outdated Email on iOS Devices: Tips and Tricks for iPhone Users</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-receive-messages-and-phone-calls-with-dnd-active-top-8-solutions/"><u>How to Receive Messages and Phone Calls with DND Active: Top 8 Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-resolve-itunes-and-finder-issues-with-non-recognized-iphones-easy-troubleshooting-tips/"><u>How to Resolve iTunes and Finder Issues with Non-Recognized iPhones - Easy Troubleshooting Tips</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-restore-auto-brightness-functionality-on-iphones-with-these-7-tips/"><u>How to Restore Auto-Brightness Functionality on iPhones with These 7 Tips</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-restore-stable-connections-between-your-airpods-and-iphone-in-11-steps/"><u>How to Restore Stable Connections Between Your AirPods and iPhone in 11 Steps</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-oppo-reno-11f-5g-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Oppo Reno 11F 5G Phones</u></a></li>
+<li><a href="https://fox-that.techidaily.com/instagram-performance-problems-fix-them-here-with-these-6-handy-hacks-for-iosandroid/"><u>Instagram Performance Problems? Fix Them Here With These 6 Handy Hacks for iOS/Android</u></a></li>
+<li><a href="https://extra-support.techidaily.com/instant-photographic-display-in-11-os-for-2024/"><u>Instant Photographic Display in 11 OS for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-troubleshooting-guide-how-to-get-past-the-apple-icon-glitch-with-7-easy-fixes/"><u>IPhone Troubleshooting Guide: How to Get Past the Apple Icon Glitch with 7 Easy Fixes!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphones-wi-fi-woes-discover-these-5-troubleshooting-strategies/"><u>Iphone's Wi-Fi Woes? Discover These 5 Troubleshooting Strategies</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/leveraging-facebooks-autoplay-technology-for-smooth-video-playback/"><u>Leveraging Facebook's Autoplay Technology for Smooth Video Playback</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-the-ultimate-guide-to-audio-recorders-for-windows-pcs-top-10-picks-for-2024/"><u>New The Ultimate Guide to Audio Recorders for Windows PCs Top 10 Picks for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-unresponsive-touch-screens-top-10-tactics-for-iphone-users/"><u>Overcoming Unresponsive Touch Screens: Top 10 Tactics for iPhone Users</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/prevent-video-playback-issues-in-android-apps/"><u>Prevent Video Playback Issues in Android Apps</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolving-undelivered-messages-solutions-for-imessage-issues-on-iphone/"><u>Resolving Undelivered Messages: Solutions for iMessage Issues on iPhone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolving-your-icloud-sync-difficulties-expert-tips-and-techniques/"><u>Resolving Your iCloud Sync Difficulties - Expert Tips and Techniques</u></a></li>
+<li><a href="https://fox-that.techidaily.com/step-by-step-tips-for-getting-your-iphones-speakers-water-free/"><u>Step-by-Step Tips for Getting Your iPhone's Speakers Water-Free</u></a></li>
+<li><a href="https://fox-that.techidaily.com/tame-your-gadgets-how-to-ensure-your-ipad-stays-silent-when-your-iphone-rings/"><u>Tame Your Gadgets: How to Ensure Your iPad Stays Silent When Your iPhone Rings</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-10-solutions-overcoming-issues-with-making-calls-from-your-iphone/"><u>Top 10 Solutions: Overcoming Issues with Making Calls From Your iPhone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-6-solutions-when-apple-rejects-your-card-avoidance-tactics/"><u>Top 6 Solutions When Apple Rejects Your Card: Avoidance Tactics</u></a></li>
+<li><a href="https://fox-that.techidaily.com/ultimate-guide-resolving-iphone-call-silence-issues-with-11-effective-solutions/"><u>Ultimate Guide: Resolving iPhone Call Silence Issues with 11 Effective Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721477656197-unexpected-number-show-ups-on-messages-heres-what-you-can-do/"><u>Unexpected Number Show-Ups on Messages? Here’s What You Can Do</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unfreeze-your-iphone-effective-methods-to-revive-it-quickly/"><u>Unfreeze Your iPhone: Effective Methods to Revive It Quickly</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721467225950-why-is-my-iphone-running-slow-discover-6-key-factors-and-quick-fixes/"><u>Why Is My iPhone Running Slow? - Discover 6 Key Factors & Quick Fixes</u></a></li>
+</ul></div>

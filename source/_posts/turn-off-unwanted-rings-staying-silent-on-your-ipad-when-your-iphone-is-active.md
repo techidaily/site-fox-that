@@ -1,7 +1,7 @@
 ---
 title: "Turn Off Unwanted Rings: Staying Silent on Your iPad When Your iPhone Is Active"
-date: 2024-07-19 21:50:57
-updated: 2024-07-20 12:13:42
+date: 2024-07-20T03:12:14.488Z
+updated: 2024-07-21T03:12:14.488Z
 tags:
   - iphone
   - apple
@@ -24,6 +24,9 @@ thumbnail: https://thmb.techidaily.com/4da656e102eb836f477dac6315553143e22711c58
 
  To turn off the ringer on your iPad, open Settings and tap on**Sounds** . At the top of the screen, you'll see a slider under the section labeled "Ringtone and Alert Volume." Bring this slider all the way to the left and make sure the toggle for**Change with Buttons** is disabled.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Turning down ringer and alerts volume on iPad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/how-to-stop-ipad-ringing-turn-off-ringer.jpg)
 
  Now, you've turned off your ringer and alert notifications. This could be a positive if you only want notifications from your iPhone or Apple Watch. On the other hand, if you count on Mail alerts on your iPad, this option won't work for you.
@@ -34,6 +37,9 @@ thumbnail: https://thmb.techidaily.com/4da656e102eb836f477dac6315553143e22711c58
 
  To do this, open Settings and tap on the**Phone** section. Underneath the slider in the "Ringtone and Alert Volumes" section, enable the toggle for**Change with Buttons** . Now, the volume buttons control your ringer and alerts.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
 ![Enabling adjusting volume with the buttons on iPad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/how-to-stop-ipad-ringing-turn-down-volume.jpg)
 
  There's a reason this is disabled by default, as many people prefer to find a volume they like and stick with it. You may also accidentally change your ringer volume if you press the buttons while listening to music or watching a video.
@@ -50,6 +56,10 @@ thumbnail: https://thmb.techidaily.com/4da656e102eb836f477dac6315553143e22711c58
 
  Tap the**plus (+)** button in the top-right to add a new Focus mode, then tap**Custom** at the top. Choose a name, color, and icon for the Focus mode. Then, tap**Customize Focus** .
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 ![Creating a Focus Mode on iPadOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/how-to-stop-ipad-ringing-create-focus.jpg)
 
  On this screen, you can select the people and apps you want to manage notifications from. Select**Choose Apps** , then select**Allow Notifications From** at the top of the list. The list below will populate with a few apps, but you can add more.
@@ -60,6 +70,9 @@ thumbnail: https://thmb.techidaily.com/4da656e102eb836f477dac6315553143e22711c58
 
  After you've created your custom Focus mode, you need to enable it from the Control Center. Pull down from the top-right of the iPad's screen, then long-press on**Focus** and choose your custom Focus Mode. ​​​​​​
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Enabling a Focus Mode on iPadOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/how-to-stop-ipad-ringing-turn-focus-on.jpg)
 
  When you want to disable it, you can tap the**Focus** toggle.
@@ -74,12 +87,18 @@ thumbnail: https://thmb.techidaily.com/4da656e102eb836f477dac6315553143e22711c58
 
 ![allow calls on other devices iPhone setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/allow-calls-on-other-devices-iphone-setting.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Choosing which devices to ring when your iPhone rings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/how-to-stop-ipad-ringing-iphone-calls-on-other-devices-custom.jpg)
 
 Close
 
  If you want to disable calls everywhere but on your iPhone, disable the**Allow Calls on Other Devices** toggle. But if you only want to disable calls ringing on your iPad, leave this toggle enabled but look for your iPad under the "Allow Calls On" section further down on the screen, and then disable the slider next to it.
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Plenty of Ways to Silence iPad Calls
 
  For most people, the best way to silence calls ringing on your iPad is to disable the "Calls on Other Devices" setting on your iPhone, as it leaves the rest of the notifications on your iPad untouched. This lets you manage which devices do and don't ring when you receive an incoming call.
@@ -100,3 +119,40 @@ Close
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-first-steps-into-filmmaking-the-ultimate-guide-for-making-your-first-10-youtube-videos/"><u>[New] 2024 Approved  First Steps Into Filmmaking  The Ultimate Guide for Making Your First 10 YouTube Videos</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-audiovisual-synchronization-your-path-to-perfect-fb-videos/"><u>[New] Audiovisual Synchronization  Your Path to Perfect FB Videos</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-download-harmony-free-music-from-fb/"><u>[New] In 2024, Download Harmony  Free Music From FB</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-the-complete-cheat-sheet-for-negative-snap-playback-for-2024/"><u>[New] The Complete Cheat Sheet for Negative Snap Playback for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-the-art-of-precision-introducing-an-obs-countdown-timer/"><u>[Updated] In 2024, The Art of Precision  Introducing an OBS Countdown Timer</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-cut-to-the-chase-efficient-screen-recording-methods-for-hp-users/"><u>2024 Approved  Cut to the Chase  Efficient Screen Recording Methods for HP Users</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-instas-friendship-breakdown-detect-it-fast/"><u>2024 Approved  Insta's Friendship Breakdown  Detect It Fast</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/cutting-through-the-differences-final-cut-pro-vs-express-for-2024/"><u>Cutting Through the Differences Final Cut Pro vs Express for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/defogging-your-iphone-lens-a-step-by-step-fix-for-blurry-pics/"><u>Defogging Your iPhone Lens: A Step-by-Step Fix for Blurry Pics</u></a></li>
+<li><a href="https://fox-that.techidaily.com/experiencing-delayed-text-messages-on-your-iphone-try-these-9-fixes/"><u>Experiencing Delayed Text Messages on Your iPhone? Try These 9 Fixes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fix-disconnect-dilemmas-strategies-to-synchronize-airpods-with-iphone-smoothly/"><u>Fix Disconnect Dilemmas: Strategies to Synchronize AirPods with iPhone Smoothly</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721440626592-fix-iphones-charge-while-on-call-problem-discover-these-8-tips/"><u>Fix iPhone's 'Charge While On Call' Problem - Discover These 8 Tips</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721475634264-fix-your-facetime-woes-a-comprehensive-list-of-15-tips-to-restore-service/"><u>Fix Your FaceTime Woes: A Comprehensive List of 15 Tips to Restore Service</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-an-unresponsive-airpod-steps-to-get-both-working-again/"><u>Fixing an Unresponsive AirPod: Steps to Get Both Working Again</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-remove-the-unwanted-yellow-hue-from-your-iphone-screen-a-step-by-step-guide/"><u>How to Remove the Unwanted Yellow Hue From Your iPhone Screen: A Step-by-Step Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-x50iplus-by-fonelab-android-recover-data/"><u>How to retrieve lost files from X50i+?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/identifying-the-top-9-signs-your-iphone-suffered-water-damage/"><u>Identifying the Top 9 Signs Your iPhone Suffered Water Damage</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-leading-list-optimal-tiktok-downloaders-without-watermark/"><u>In 2024, Leading List  Optimal TikTok Downloaders Without Watermark</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-transform-gameplay-into-a-masterpiece-using-fbx/"><u>In 2024, Transform Gameplay Into a Masterpiece Using FBX</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-icloud-hiccups-4-methods-for-iphoneipad-users/"><u>Overcoming iCloud Hiccups: 4 Methods for iPhone/iPad Users</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-moisture-detection-alerts-in-iphone-charging-ports-effective-solutions-and-tips/"><u>Overcoming Moisture Detection Alerts in iPhone Charging Ports: Effective Solutions and Tips</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolve-your-iphones-missing-app-icons-issue-with-these-proven-techniques/"><u>Resolve Your iPhone's Missing App Icons Issue with These Proven Techniques</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolving-sim-card-not-activated-tackling-the-mini-mobile-mm-issue/"><u>Resolving 'SIM Card Not Activated' - Tackling the Mini-Mobile (MM) Issue</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-your-iphones-silent-volume-knobs-7-proven-repair-methods/"><u>Solving Your iPhone's Silent Volume Knobs: 7 Proven Repair Methods</u></a></li>
+<li><a href="https://fox-that.techidaily.com/stop-unwanted-airpod-connection-switches-among-various-apple-devices-a-step-by-step-guide/"><u>Stop Unwanted AirPod Connection Switches Among Various Apple Devices - A Step-By-Step Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/strategies-for-enhancing-image-clarity-on-iphones-with-lower-megapixels/"><u>Strategies for Enhancing Image Clarity on iPhones with Lower Megapixels</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-and-tame-your-ios-devices-keyboard-woes-with-these-6-effective-fixes/"><u>Troubleshoot & Tame Your iOS Device's Keyboard Woes with These 6 Effective Fixes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-and-organizing-your-iphotos-fixes-for-common-issues/"><u>Troubleshooting and Organizing Your iPhotos: Fixes for Common Issues</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-iphone-charge-pause-problems-top-8-solutions/"><u>Troubleshooting iPhone Charge Pause Problems: Top 8 Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-non-vibrating-iphones-in-quiet-and-regular-modes-with-8-diy-fixes/"><u>Troubleshooting Non-Vibrating iPhones in Quiet and Regular Modes with 8 DIY Fixes</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-craft-professional-looking-video-invites-with-these-iphone-and-android-apps/"><u>Updated In 2024, Craft Professional-Looking Video Invites with These iPhone and Android Apps</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-mastering-youtube-to-mp3-conversion-a-beginners-guide-for-2024/"><u>Updated Mastering YouTube to MP3 Conversion A Beginners Guide for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/where-can-i-find-glass-breaking-sound-effect-in-2024/"><u>Where Can I Find Glass Breaking Sound Effect, In 2024</u></a></li>
+</ul></div>

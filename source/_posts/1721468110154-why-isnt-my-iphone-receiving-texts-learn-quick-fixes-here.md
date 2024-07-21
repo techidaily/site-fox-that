@@ -1,7 +1,7 @@
 ---
 title: Why Isn't My iPhone Receiving Texts? Learn Quick Fixes Here!
-date: 2024-07-17 12:45:43
-updated: 2024-07-20 12:20:59
+date: 2024-07-20T03:24:54.427Z
+updated: 2024-07-21T03:24:54.427Z
 tags:
   - iphone
   - apple
@@ -20,6 +20,9 @@ thumbnail: https://thmb.techidaily.com/fb708f6b02bb2770894398e8943ab9eb4326fec35
 
  Your browser does not support the video tag.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 1\. Make Sure Messaging Is Enabled
 
  If you've just set up your iPhone or completed an iOS update, there is a chance iMessage isn't enabled. If not enabled, you won't receive texts from other iPhones. To turn this on, head to**Settings > Messages > iMessage** .
@@ -34,12 +37,22 @@ thumbnail: https://thmb.techidaily.com/fb708f6b02bb2770894398e8943ab9eb4326fec35
 
  If you're receiving messages from other iPhones but not Android phones, this could be the reason. If that still doesn't help, but you are receiving iMessage texts, you can learn more about what to do if you're [not receiving texts from Android](https://www.makeuseof.com/iphone-not-receiving-android-texts/) .
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. Edit Send & Receive Settings
 
 ![iOS settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/messages-settings-ios16.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![iphone messages settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/iphone-messages-settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![selecting email address for imessage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/apple-imessage-settings.jpg)
 
 Close
@@ -50,6 +63,9 @@ Close
 
  Some people might be sending you messages to your email address unknowingly, so changing this particular setting will make it possible to receive these messages.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. Make Sure You Have Cellular or Wi-Fi for iMessage
 
  If you are waiting for an iMessage from another iPhone user and aren't getting it, you could have a bad connection. iMessage requires Wi-Fi or cellular data to work.
@@ -86,6 +102,9 @@ Close
 
  To do this, head to **Settings > General > Transfer or Reset iPhone > Reset > Reset Network Settings** .
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![reset network settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/reset-network-settings.jpg)
 
  After resetting your network settings, get someone to send you another text message. If you still can't receive it, you can always try [resetting your iPhone entirely](https://www.makeuseof.com/tag/how-to-factory-reset-iphone-ipad/) . However, that is time-consuming and might not work.
@@ -98,6 +117,9 @@ Close
 
  When calling your carrier, just let them know you aren't receiving text messages. If the carrier can't help you, consider switching to a different network provider unless you have a [carrier-locked phone](https://www.makeuseof.com/unlocked-vs-locked-phone/) .
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## iPhone Not Receiving Texts? There Are Things You Can Do
 
  You could miss important events or updates if you're not receiving text messages on your iPhone. This can be difficult for anybody. Because of this, you'll want to get this fixed as soon as possible. After all, you might have already missed some important messages and don't want to miss them anymore.
@@ -120,3 +142,54 @@ Close
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-perfecting-the-art-of-interviews-iphone-and-ipad-recording-techniques/"><u>[New] 2024 Approved  Perfecting the Art of Interviews  IPhone & iPad Recording Techniques</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-reactivate-your-photo-viewer-in-win-11-proactively/"><u>[New] How to Reactivate Your Photo Viewer in Win 11 Proactively</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-become-a-pro-with-our-instagram-story-insights/"><u>[New] In 2024, Become a Pro with Our Instagram Story Insights</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-syncing-scores-and-screenplays-top-tunes-for-video-unboxing/"><u>[New] Syncing Scores and Screenplays  Top Tunes for Video Unboxing</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-crafting-youtube-video-trailers-with-filmoras-guide/"><u>[Updated] 2024 Approved  Crafting YouTube Video Trailers with Filmora's Guide</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-proven-strategies-for-smooth-recording-in-google-meethangouts-platforms/"><u>[Updated] Proven Strategies for Smooth Recording in Google Meet/Hangouts Platforms</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-simplified-guide-to-creating-movies-in-windows-8-movie-maker/"><u>[Updated] Simplified Guide to Creating Movies in Windows 8 Movie Maker</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-capturing-tiktok-videos-saving-on-modern-smartphones/"><u>2024 Approved  Capturing TikTok Videos  Saving on Modern Smartphones</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-the-ultimate-list-of-serene-pc-gaming/"><u>2024 Approved  The Ultimate List of Serene PC Gaming</u></a></li>
+<li><a href="https://fox-that.techidaily.com/8-proven-ways-to-reconnect-your-apple-tablet-or-phone-to-a-stable-wi-fi-network/"><u>8 Proven Ways to Reconnect Your Apple Tablet or Phone to a Stable Wi-Fi Network</u></a></li>
+<li><a href="https://fox-that.techidaily.com/airpod-troubles-here-are-11-fixes-when-they-disappear-from-find-my/"><u>AirPod Troubles? Here Are 11 Fixes When They Disappear From 'Find My'</u></a></li>
+<li><a href="https://fox-that.techidaily.com/beating-the-bug-mastering-error-4013-fixes-on-your-iphone/"><u>Beating the Bug: Mastering Error 4013 Fixes on Your iPhone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-google-pixel-8-pro-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On Google Pixel 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/demystifying-apples-glitches-fixing-error-14-for-a-smooth-iphone-experience/"><u>Demystifying Apple’s Glitches: Fixing Error 14 for a Smooth iPhone Experience</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721459249641-diagnosing-iphone-detection-problems-with-itunes-or-finder-easy-fixes/"><u>Diagnosing iPhone Detection Problems with iTunes or Finder - Easy Fixes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/effective-techniques-for-restoring-normal-functionality-from-an-iphones-blackout-state/"><u>Effective Techniques for Restoring Normal Functionality From an iPhone's Blackout State</u></a></li>
+<li><a href="https://fox-that.techidaily.com/extended-display-time-on-iphones-how-to-restore-normal-sleep-functionality/"><u>Extended Display Time on iPhones – How to Restore Normal Sleep Functionality</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Vivo Y55s 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fix-iphones-with-defective-silence-switch-alternatives-to-the-traditional-mute-functionality/"><u>Fix iPhones with Defective Silence Switch: Alternatives to the Traditional Mute Functionality</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-a-broken-facial-recognition-top-14-tips-for-reactivating-iphones-face-id/"><u>Fixing a Broken Facial Recognition: Top 14 Tips for Reactivating iPhone's Face ID</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Oppo Reno 8T? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-samsung-galaxy-a24-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Samsung Galaxy A24 | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On OnePlus Ace 2 Pro? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-ispoofer-on-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Samsung Galaxy F54 5G? | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721478266244-icloud-backup-failures-on-iphone-top-9-remedies/"><u>ICloud Backup Failures on iPhone - Top 9 Remedies</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-xiaomi-civi-3-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Xiaomi Civi 3 to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-infinix-hot-30i-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Infinix Hot 30i Phone Without Password?</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-jump-into-the-moment-with-these-8-trendy-videos-on-fb/"><u>In 2024, Jump Into the Moment with These 8 Trendy Videos on FB</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/in-2024-splice-video-editor-mac-version-free-download/"><u>In 2024, Splice Video Editor Mac Version Free Download</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-top-2-secrets-to-convert-instagram-videos-into-premium-mp4/"><u>In 2024, Top 2 Secrets to Convert Instagram Videos Into Premium MP4</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-auto-dim-feature-unveiling-the-top-ten-reasons-behind-it/"><u>IPhone Auto-Dim Feature: Unveiling the Top Ten Reasons Behind It</u></a></li>
+<li><a href="https://fox-that.techidaily.com/is-your-iphone-ignoring-the-wireless-charger-solve-it-with-these-7-methods/"><u>Is Your iPhone Ignoring the Wireless Charger? Solve It With These 7 Methods!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-iphone-memory-challenges-with-roblox-essential-solutions/"><u>Overcoming iPhone Memory Challenges with Roblox - Essential Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/release-your-iphone-from-stubborn-headset-lock-discover-these-eight-troubleshooting-tips/"><u>Release Your iPhone From Stubborn Headset Lock: Discover These Eight Troubleshooting Tips</u></a></li>
+<li><a href="https://fox-that.techidaily.com/reviving-hey-siri-ultimate-troubleshooting-steps-for-enhanced-voice-control-on-your-device/"><u>Reviving 'Hey Siri': Ultimate Troubleshooting Steps for Enhanced Voice Control on Your Device</u></a></li>
+<li><a href="https://fox-that.techidaily.com/seamless-iphone-usage-unveiling-15-must-know-fixes-for-every-generation-of-the-device/"><u>Seamless iPhone Usage: Unveiling 15 Must-Know Fixes for Every Generation of the Device</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solve-your-iphone-connection-woes-expert-tips-for-pairing-with-a-pc/"><u>Solve Your iPhone Connection Woes: Expert Tips for Pairing with a PC</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solve-your-iphoneipads-wi-fi-connection-issues-with-these-8-effective-solutions/"><u>Solve Your iPhone/iPad's Wi-Fi Connection Issues with These 8 Effective Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-the-issue-why-does-spotify-keep-closing-on-iphone-lock-what-can-you-do/"><u>Solving the Issue: Why Does Spotify Keep Closing on iPhone Lock? What Can You Do?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/the-ultimate-guide-to-recovering-your-vanished-iphone-apps-with-ease/"><u>The Ultimate Guide to Recovering Your Vanished iPhone Apps with Ease</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-your-iphones-text-message-problem-with-these-7-fixes/"><u>Troubleshoot Your iPhone's Text Message Problem with These 7 Fixes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-hold-time-charge-issues-on-your-iphone-with-easy-fixes/"><u>Troubleshooting Hold Time Charge Issues on Your iPhone with Easy Fixes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-quieted-notifications-15plus-solutions-to-restore-your-iphone-text-sounds/"><u>Troubleshooting Quieted Notifications: 15+ Solutions to Restore Your iPhone Text Sounds</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-tips-for-fixing-failed-message-deliveries-via-imessage-on-your-iphone/"><u>Troubleshooting Tips for Fixing Failed Message Deliveries via iMessage on Your iPhone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/understanding-iphones-visual-look-up-issues-top-6-causes/"><u>Understanding iPhone's Visual Look Up Issues - Top 6 Causes</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-off-the-radar-top-mac-speech-recognition-tools-you-should-be-using/"><u>Updated 2024 Approved Off the Radar Top Mac Speech Recognition Tools You Should Be Using</u></a></li>
+<li><a href="https://fox-that.techidaily.com/urgent-update-the-essential-reasons-to-upgrade-your-device-to-ios-153-immediately/"><u>Urgent Update: The Essential Reasons to Upgrade Your Device to iOS 15.3 Immediately!</u></a></li>
+</ul></div>

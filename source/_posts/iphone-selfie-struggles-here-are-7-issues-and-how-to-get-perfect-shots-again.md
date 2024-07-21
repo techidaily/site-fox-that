@@ -1,7 +1,7 @@
 ---
 title: IPhone Selfie Struggles? Here Are 7 Issues and How to Get Perfect Shots Again
-date: 2024-07-18 18:29:12
-updated: 2024-07-20 12:56:26
+date: 2024-07-20T03:21:59.448Z
+updated: 2024-07-21T03:21:59.448Z
 tags:
   - iphone
   - apple
@@ -18,8 +18,14 @@ thumbnail: https://thmb.techidaily.com/bc2c99a15767970445b720991bfe6049016a7b421
 
  Here are the most common problems you might come across with your iPhone camera, along with everything you can do to fix them.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 ## 1\. iPhone Camera Shows a Black Screen
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![iPhone Camera not working, showing black screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/01/iPhone-Camera-not-working-showing-black-screen.jpg)
 
 ![iPhone Camera not working close apps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/01/iPhone-Camera-app-from-App-Switcher-view.jpg)
@@ -63,6 +69,9 @@ Close
 
 ![iPhone photo flipped the wrong way](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/01/iPhone-photo-flipped-the-wrong-way.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![iPhone photo rotated in edit screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/01/iPhone-photo-rotated-in-edit-screen.jpg)
 
 Close
@@ -75,8 +84,14 @@ Close
 3. You can always edit your pictures later from the Photos app, or other [third-party iPhone image editing apps](https://www.makeuseof.com/tag/best-free-photo-editing-apps-iphone/) .
 4. If you're wondering why your selfies always appear mirrored, that's simply how Apple designed the front-facing camera. The camera works like a mirror, but the photo flips over as if someone took it for you.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ## 5\. The Camera App Is Missing or Keeps Freezing
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Screen Time settings on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/01/Screen-Time-settings-on-iPhone.jpg)
 
 ![Allowed Apps in Screen Time restrictions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/01/Allowed-Apps-in-Screen-Time-restrictions.jpg)
@@ -101,8 +116,14 @@ Close
 4. Go to**Settings > General > Reset > Reset All Settings** . This doesn't delete any of your content---such as photos or apps---but it does reset all your iPhone settings.
 5. Finally,[factory reset your iPhone](https://www.makeuseof.com/tag/how-to-factory-reset-iphone-ipad/) and set it up as a new device. This erases everything and is the last resort, but should resolve any software issues that stop your iPhone camera from working.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 7\. General iPhone Camera Hardware Fixes
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ![iPhone 11 camera](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/01/iPhone-11-camera.jpg)
 
  If you've tried everything above and your front or back iPhone camera is still not working, you might have a hardware problem instead. Try the troubleshooting steps below to fix it:
@@ -111,6 +132,9 @@ Close
 2. Make sure there are no smudges, dirt, or debris on the camera lens. Smudges and fingerprints should wipe away easily with a microfiber cloth.
 3. [Contact Apple Support](https://getsupport.apple.com/) to arrange a hardware repair at the Apple Store or at an Apple Authorized Service Provider. If your iPhone is out of warranty, you may need to pay for this repair yourself.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
 ## Get Back to Taking Great Photos With Your iPhone
 
  These tips cover the most common reasons your iPhone camera might not be working. If you didn't see your exact issue, hopefully the general tips helped you fix the camera anyway. Otherwise, you may need to speak to Apple about a hardware repair.
@@ -133,3 +157,43 @@ Close
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-audio-adventures-begin-top-10-melodies-for-podcast-intros/"><u>[New] Audio Adventures Begin  Top 10 Melodies for Podcast Intros</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-haute-couture-at-home-makeup-tools-and-techniques/"><u>[New] In 2024, Haute Couture at Home  Makeup, Tools & Techniques</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-ultimate-conversion-guide-sdr-to-stunning-hdr-visuals/"><u>[New] In 2024, Ultimate Conversion Guide  SDR to Stunning HDR Visuals</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-best-multiplayer-game-communities/"><u>[Updated] 2024 Approved  Best Multiplayer Game Communities</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-revamped-look-at-sonys-s6500-bdp/"><u>[Updated] In 2024, Revamped Look at Sony's S6500 BDP</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-8-engaging-exercise-routines-for-active-viewership/"><u>2024 Approved  8 Engaging Exercise Routines for Active Viewership</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-find-the-best-luts-for-lightroom/"><u>2024 Approved Find The Best LUTs for Lightroom</u></a></li>
+<li><a href="https://fox-that.techidaily.com/beating-iphone-error-14-effective-strategies-and-solutions-revealed/"><u>Beating iPhone Error 14: Effective Strategies & Solutions Revealed</u></a></li>
+<li><a href="https://fox-that.techidaily.com/bypassing-itunes-how-to-refresh-your-iphones-system/"><u>Bypassing iTunes: How To Refresh Your iPhone's System</u></a></li>
+<li><a href="https://fox-that.techidaily.com/calendar-crisis-heres-how-to-find-missing-dates-and-appointments-on-iphone/"><u>Calendar Crisis? Here's How to Find Missing Dates and Appointments on iPhone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/effortless-iphone-battery-optimization-learn-the-essential-6-step-calibration-strategy/"><u>Effortless iPhone Battery Optimization: Learn the Essential 6-Step Calibration Strategy</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-character-limit-exceeded-message-on-your-iphones-quick-solutions/"><u>Fixing 'Character Limit Exceeded' Message on Your iPhones - Quick Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/get-back-online-the-ultimate-guide-to-repairing-your-airdrop-in-just-16-moves/"><u>Get Back Online: The Ultimate Guide to Repairing Your Airdrop in Just 16 Moves</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-recover-unintentionally-erased-notes-from-your-iphone-expert-methods/"><u>How to Recover Unintentionally Erased Notes From Your iPhone: Expert Methods</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-resolve-icloud-photos-not-syncing-with-your-iphone-in-7-easy-ways/"><u>How to Resolve iCloud Photos Not Syncing with Your iPhone in 7 Easy Ways</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-restore-access-to-disabled-icloud-preferences-on-iphoneipad/"><u>How to Restore Access to Disabled iCloud Preferences on iPhone/iPad</u></a></li>
+<li><a href="https://fox-that.techidaily.com/idevice-cant-update-discover-these-9-troubleshooting-tactics/"><u>IDevice Can't Update? Discover These 9 Troubleshooting Tactics!</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-discover-the-best-audio-conversion-solutions/"><u>In 2024, Discover the Best Audio Conversion Solutions</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-obs-mastered-functioning-camera-now/"><u>In 2024, OBS Mastered  Functioning Camera Now</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-not-showing-up-on-itunesfinder-discover-how-to-fix-it-now/"><u>IPhone Not Showing Up on iTunes/Finder? Discover How to Fix It Now!</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-10-best-voice-recorder-for-pc/"><u>New 2024 Approved 10 Best Voice Recorder for PC</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-put-music-over-a-video/"><u>New Put Music Over a Video</u></a></li>
+<li><a href="https://fox-that.techidaily.com/rescue-your-vanished-apple-device-with-ease-a-guide-to-the-find-my-tool/"><u>Rescue Your Vanished Apple Device with Ease – A Guide to the Find My Tool</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolving-silent-iphones-11-essential-steps-for-incoming-calls/"><u>Resolving Silent iPhones: 11 Essential Steps for Incoming Calls</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solve-your-tablets-touchscreen-malfunction-with-these-8-effective-tips/"><u>Solve Your Tablet's Touchscreen Malfunction with These 8 Effective Tips</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-for-altering-file-deletion-alerts-in-win/"><u>Steps for Altering File Deletion Alerts in Win</u></a></li>
+<li><a href="https://techidaily.com/the-best-electronic-signature-way-to-sign-word-2000-documents-online-by-ldigisigner-sign-a-word-sign-a-word/"><u>The best electronic signature way to sign Word 2000 documents online</u></a></li>
+<li><a href="https://fox-that.techidaily.com/the-ultimate-fix-9-methods-for-restoring-your-iphones-voicemail-service/"><u>The Ultimate Fix: 9 Methods for Restoring Your iPhone's Voicemail Service</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-14-ways-to-get-your-iphones-face-id-working-perfectly-again/"><u>Top 14 Ways to Get Your iPhone's Face ID Working Perfectly Again</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-5-solutions-resolving-iphone-dictation-issues-effectively/"><u>Top 5 Solutions: Resolving iPhone Dictation Issues Effectively</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-5-swift-solutions-reviving-a-non-responsive-iphone-home-button/"><u>Top 5 Swift Solutions: Reviving a Non-Responsive iPhone Home Button</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-the-imessage-user-has-been-signed-out-error-on-your-iphone/"><u>Troubleshooting the 'iMessage: User Has Been Signed Out' Error on Your iPhone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/understanding-overheating-in-apple-devices-tips-for-keeping-your-ipad-or-iphone-cool/"><u>Understanding Overheating in Apple Devices: Tips for Keeping Your iPad or iPhone Cool</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlocking-and-fixing-icloud-features-when-they-appear-gray-on-apples-mobile-tech/"><u>Unlocking and Fixing iCloud Features When They Appear Gray on Apple's Mobile Tech</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-best-video-collage-apps-for-iphone-and-ipad/"><u>Updated Best Video Collage Apps for iPhone and iPad</u></a></li>
+<li><a href="https://ai-video.techidaily.com/updated-in-2024-netflix-subtitle-translation-methods-comprehensive-guide/"><u>updated In 2024, Netflix Subtitle Translation Methods Comprehensive Guide</u></a></li>
+</ul></div>

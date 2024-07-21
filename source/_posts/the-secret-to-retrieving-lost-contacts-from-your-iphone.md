@@ -1,7 +1,7 @@
 ---
 title: The Secret to Retrieving Lost Contacts From Your iPhone
-date: 2024-07-19 13:23:23
-updated: 2024-07-20 10:41:38
+date: 2024-07-20T03:24:45.486Z
+updated: 2024-07-21T03:24:45.486Z
 tags:
   - iphone
   - apple
@@ -20,11 +20,14 @@ thumbnail: https://thmb.techidaily.com/81bdcc97eef551e0f3a9b3144d7c585e9e69ed512
 
  And therefore, there are various solutions that you can use to fix it. So, try each of these methods and see which one helps to restore contacts on your iPhone.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ## 1\. Restart Your iPhone
 
  One of the first steps you should try is restarting your iPhone. Sometimes when mobile devices run for a while, they may run into issues. Restarting your iPhone will help give it a fresh start and thus may help fix minor issues you’re facing, including contacts not showing up, sluggish performance, app crashes, and so on.
 
-![Person using iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/how-to-restart-any-iphone-even-if-the-buttons-are-broken.jpg)
+![Person using iPhone](https://thmb.techidaily.com/f4c650853e8507f493dd5a4da625f53ce5ecb8f26fcbb71888c8a6af3708b00c.jpg)
 
 [Restarting can fix most smartphone problems](https://www.makeuseof.com/why-restarting-smartphone-fixes-most-problems/) , and that’s why the first question a tech support agent asks is, "Have you tried turning it off and on again?"
 
@@ -40,6 +43,10 @@ thumbnail: https://thmb.techidaily.com/81bdcc97eef551e0f3a9b3144d7c585e9e69ed512
 4. Select**Keep on My iPhone** to save copies of synced contacts to your iPhone. You can also select**Delete from My iPhone** if you want. Don’t worry; this option doesn’t make your contacts disappear.
 5. Re-enable**Contacts** again. And if your iPhone asks to merge existing contacts, select**Merge** .
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
 ![iPhone Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/Settings-iPhone.jpg)
 
 ![iCloud settings in iOS 16](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/icloud-page-ios-16.jpg)
@@ -50,6 +57,9 @@ Close
 
  After that, give your device a few minutes, then check to see if your contacts have been restored. If you’re still facing problems, read on for more solutions.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ## 3\. Show All Contacts in Your Phone App
 
  Your iPhone contacts might not show up because you have hidden some of them. You may not know this, but your iPhone usually places your contacts in groups based on your connected accounts. To see all your contacts, no matter their group, you need to ensure all groups are visible.
@@ -68,6 +78,14 @@ Close
 
  If some contacts from a particular account weren’t showing up on your iPhone, this should fix the issue. However, read on if you still don’t see all your contacts.
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. Add All Your Accounts to Your iPhone
 
  If you have several accounts that you use, chances are contacts might be saved across them. To fix this, you need to add all your accounts to your iPhone to ensure you have access to all your contacts. So, follow these steps to add an account to your iPhone:
@@ -77,6 +95,9 @@ Close
 3. Tap**Add Account** , select the type of account, and log in using your credentials.
 4. After successful login, the account will appear under**Settings > Contacts > Accounts** .
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Contacts settings page in iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/01-contacts-settings-ios.jpg)
 
 ![Accounts page in iOS settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/02-accounts-ios-settings.jpg)
@@ -99,6 +120,9 @@ Close
 
 ![Contacts settings in iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/Contacts-option-in-iOS-settings-app.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Individual account settings in iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/Individual-account-settings-iOS.jpg)
 
 Close
@@ -107,6 +131,18 @@ Close
 
  Additionally, you can try disabling and enabling Short Name on your iPhone. While this feature is handy to ensure more names fit on the screen, it can sometimes be problematic. To do this, go to**Settings > Contacts > Short Name** . Disable**Short Name** , then wait for some time and turn it on.
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 6\. Rebuild Your iPhone Contacts
 
  Another way to troubleshoot iPhone contacts not showing up is by force rebuilding them. To do this, you’ll have to edit one of your contacts first, then restart your iPhone. Here’s how:
@@ -117,8 +153,14 @@ Close
 
 ![Editing contact details on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/01-edit-iphone-contact.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Editing contact details on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/02-editing-contact-details-iphone.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
 ![An edited contact on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/edited-contact-ios.jpg)
 
 Close
@@ -135,6 +177,9 @@ Close
 
  If that doesn’t work, you can try using third-party [data recovery tools](https://www.makeuseof.com/tag/data-recovery-work/) to restore your contacts. There are a variety of affordable tools on the market for the job. A good example is [PhoneRescue by iMobie](https://www.imobie.com/phonerescue/buy-ios-data-recovery.htm) , which is highly reputable and works with many iOS versions, including iOS 16\. However, you’ll have to spend some cash to get it.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 8\. Seek the Help of Apple Support
 
  If all else fails or you don’t want to spend money on third-party data recovery tools, you can [get tech support with the Apple Support app](http://www.makeuseof.com/how-to-get-iphone-support-apple-support-app/) for more assistance.
@@ -161,3 +206,43 @@ Close
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-does-immediate-subscription-enhance-user-engagement-on-youtube/"><u>[New] In 2024, Does Immediate Subscription Enhance User Engagement on Youtube?</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-mastering-quick-play-tiktok-speed-skipping-guide/"><u>[New] Mastering Quick Play  TikTok Speed Skipping Guide</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-creating-impressive-3d-beginnings-on-youtube/"><u>[Updated] 2024 Approved  Creating Impressive 3D Beginnings on YouTube</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-best-video-format-for-youtube-uploading/"><u>[Updated] Best Video Format for YouTube Uploading</u></a></li>
+<li><a href="https://fox-that.techidaily.com/a-comprehensive-tutorial-on-fixing-iphone-black-screen-malfunction/"><u>A Comprehensive Tutorial on Fixing iPhone Black Screen Malfunction</u></a></li>
+<li><a href="https://fox-that.techidaily.com/best-ways-to-resolve-the-most-frequent-iphone-display-difficulties/"><u>Best Ways to Resolve the Most Frequent iPhone Display Difficulties</u></a></li>
+<li><a href="https://fox-that.techidaily.com/breeze-through-troubleshooting-the-ultimate-guide-to-common-apple-pay-fixes/"><u>Breeze Through Troubleshooting: The Ultimate Guide to Common Apple Pay Fixes</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/crafting-a-compelling-storyline-for-linkedin-articles/"><u>Crafting a Compelling Storyline for LinkedIn Articles</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721468869423-experiencing-tardy-sms-notifications-on-iphone-discover-9-reliable-remedies-now/"><u>Experiencing Tardy SMS Notifications on iPhone? Discover 9 Reliable Remedies Now!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721460052462-fixing-subscription-share-problems-in-family-sharing-top-6-tips/"><u>Fixing Subscription Share Problems in Family Sharing - Top 6 Tips</u></a></li>
+<li><a href="https://fox-that.techidaily.com/four-easy-solutions-to-restore-active-icloud-settings-on-iphoneipad/"><u>Four Easy Solutions to Restore Active iCloud Settings on iPhone/iPad</u></a></li>
+<li><a href="https://fox-that.techidaily.com/get-it-right-proven-tricks-to-make-your-airpods-switch-smoothly-amongst-your-entire-apple-ecosystem/"><u>Get It Right: Proven Tricks to Make Your AirPods Switch Smoothly Amongst Your Entire Apple Ecosystem</u></a></li>
+<li><a href="https://fox-that.techidaily.com/guide-to-apples-remote-device-evaluation-testing-your-iphone-at-home/"><u>Guide to Apple's Remote Device Evaluation: Testing Your iPhone at Home</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-vivo-s18-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Vivo S18 Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-prevent-autocorrect-slip-ups-and-improve-spelling-accuracy-on-iphones-6-key-methods/"><u>How to Prevent Autocorrect Slip-Ups & Improve Spelling Accuracy on iPhones, 6 Key Methods</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-solve-no-more-characters-left-message-on-iphone/"><u>How to Solve ‘No More Characters Left’ Message on iPhone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-use-life360-on-windows-pc-for-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>How to Use Life360 on Windows PC For Apple iPhone 15 Plus? | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721474170629-icloud-sync-errors-demystified-effective-solutions-inside/"><u>ICloud Sync Errors Demystified - Effective Solutions Inside</u></a></li>
+<li><a href="https://fox-that.techidaily.com/identifying-and-fixing-event-disappearance-problems-within-apples-calendar-app/"><u>Identifying and Fixing Event Disappearance Problems Within Apple's Calendar App</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-global-leaders-in-digital-education-beyond-udemy/"><u>In 2024, Global Leaders in Digital Education  Beyond Udemy</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-any-poco-m6-pro-4g-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Poco M6 Pro 4G Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-and-ipad-gift-sending-hurdles-uncover-the-top-five-restrictions-explained/"><u>IPhone & iPad Gift-Sending Hurdles: Uncover the Top Five Restrictions Explained</u></a></li>
+<li><a href="https://fox-that.techidaily.com/quick-solutions-for-iphone-users-facing-guided-access-glitches/"><u>Quick Solutions for iPhone Users Facing Guided Access Glitches</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolving-issues-with-non-appearing-calendar-entries-on-iphones/"><u>Resolving Issues with Non-Appearing Calendar Entries on iPhones</u></a></li>
+<li><a href="https://fox-that.techidaily.com/restart-reset-repair-mastering-the-art-of-iphoneipad-recovery/"><u>Restart, Reset, Repair: Mastering the Art of iPhone/iPad Recovery</u></a></li>
+<li><a href="https://fox-that.techidaily.com/say-goodbye-to-iphone-wi-fi-issues-discover-the-ultimate-5-fixing-tactics/"><u>Say Goodbye to iPhone Wi-Fi Issues: Discover the Ultimate 5 Fixing Tactics</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solutions-for-accessing-texts-and-calls-during-ios-do-not-disturb-settings-top-8-tips/"><u>Solutions for Accessing Texts and Calls During iOS Do Not Disturb Settings - Top 8 Tips</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-tech-hiccups-the-surprising-benefits-of-restarting-your-mobile-device/"><u>Solving Tech Hiccups: The Surprising Benefits of Restarting Your Mobile Device</u></a></li>
+<li><a href="https://fox-that.techidaily.com/speeding-up-your-slow-iphone-uncovering-the-top-6-troubleshooting-tactics/"><u>Speeding up Your Slow iPhone: Uncovering the Top 6 Troubleshooting Tactics</u></a></li>
+<li><a href="https://fox-that.techidaily.com/step-by-step-troubleshooting-for-iphone-water-infiltration-and-audio-issues/"><u>Step-by-Step Troubleshooting for iPhone Water Infiltration and Audio Issues</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-9-issues-with-icloud-on-ios-devices-solutions-unveiled/"><u>Top 9 Issues with iCloud on iOS Devices: Solutions Unveiled</u></a></li>
+<li><a href="https://fox-that.techidaily.com/trouble-installing-iphone-applications-here-are-10-effective-remedies/"><u>Trouble Installing iPhone Applications? Here Are 10 Effective Remedies</u></a></li>
+<li><a href="https://fox-that.techidaily.com/trouble-with-imessage-here-are-7-tips-for-restoring-text-functionality-on-iphone/"><u>Trouble with iMessage? Here Are 7 Tips for Restoring Text Functionality on iPhone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unbalanced-sound-in-apple-airpods-diagnose-and-correct-loudness-discrepancies/"><u>Unbalanced Sound in Apple AirPods - Diagnose and Correct Loudness Discrepancies</u></a></li>
+<li><a href="https://fox-that.techidaily.com/uncomfortable-sound-fluctuations-in-airpods-fix-it-by-deactivating-dynamic-ear-movement-sensors/"><u>Uncomfortable Sound Fluctuations in AirPods? Fix It by Deactivating Dynamic Ear Movement Sensors</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-creative-freedom-at-no-cost-top-free-audio-engineering-tools-of-the-year/"><u>Updated 2024 Approved Creative Freedom at No Cost Top Free Audio Engineering Tools of the Year</u></a></li>
+</ul></div>

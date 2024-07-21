@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Resolving 'Hey Siri' Malfunctions on iPhone"
-date: 2024-07-19 14:16:16
-updated: 2024-07-20 10:40:51
+date: 2024-07-20T03:20:40.707Z
+updated: 2024-07-21T03:20:40.707Z
 tags:
   - iphone
   - apple
@@ -18,6 +18,9 @@ thumbnail: https://thmb.techidaily.com/5cabd8afae51f2d610c40e7b3e5f30c80fd0a554c
 
  If "Hey Siri" isn't working on your iPhone, the solutions mentioned below will help fix it.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Not All iPhones Are Compatible With "Hey Siri"
 
  On an iPhone 6s or later, "Hey Siri" works even when the iPhone isn't charging. That means if you have an iPhone model released in 2015 or later, you are good to go. These iPhones have low-power, always-on microphones that listen for the "Hey Siri" hot word and jump to action when you say those words.
@@ -53,14 +56,23 @@ Close
 
  This is required because when you say "Hey Siri" around several supported devices, they all use Bluetooth to communicate with one another and decide which device should respond to your request. Usually, the device that heard your words the clearest, or the one that was most recently used, raised, or unlocked, responds to your "Hey Siri" query.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 4\. Review the Settings for Siri Responses
 
  By default, Siri will speak its responses to you. So, if Siri responses have been set to silent, it may appear that "Hey Siri" isn't working on your iPhone if you expected a verbal response after you gave a command from a distance.
 
  To correct this, go to**Settings > Siri & Search > Siri Responses** . Select**Prefer Spoken Responses** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
 ![siri & search settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/img_6967.JPEG)
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![siri responses settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/img_6968.JPEG)
 
 Close
@@ -103,14 +115,23 @@ Close
 2. Tap**Language** and choose the appropriate language from the list.
 3. Restart your iPhone, and now "Hey Siri" should work fine.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![iPhone Settings showing Siri & Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/11/iphone-settings-showing-siri-and-search.PNG)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ![siri & search settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/img_6967.JPEG)
 
 ![List of Siri languages on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/11/list-of-siri-languages.PNG)
 
 Close
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 10\. Turn Off Low Power Mode
 
  "Hey Siri" works even when your iPhone is in [Low Power Mode](http://www.makeuseof.com/iphone-low-power-mode/) . But at times, due to extremely low battery or bugs, Low Power Mode may cause other problems. To fix this, go to**Settings > Battery** and turn off**Low Power Mode** . Hopefully, this will mean "Hey Siri" starts working again.
@@ -145,12 +166,18 @@ Close
 
  Go to**Settings > General > Software Update** on your device to see if one is available.
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ## 14\. Make Sure Your iPhone Isn't Stuck in Headphone Mode
 
  In rare situations, your iPhone may think it's connected to headphones even though it isn't. When this happens, the on-device speakers and microphones may not work because your iPhone is trying to use your non-existent headphone speakers and microphones instead.
 
  Here's [how to fix an iPhone stuck in headphone mode](https://www.makeuseof.com/tag/how-to-fix-iphone-stuck-in-headphone-mode/) . After getting out of headphone mode, "Hey Siri" should start working again.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 15\. Reset All Your iPhone Settings
 
  When you reset your iPhone settings, personal data like music, apps, videos, and photos remain untouched, but all the settings you have ever changed, like VPN configuration, Wi-Fi passwords, Home Screen layouts, Keyboard settings, and more, return to default.
@@ -165,18 +192,39 @@ Close
 
 ![Transfer or Reset iPhone in iOS 15](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/transfer-or-reset-iphone-in-ios-15.PNG)
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ![All Reset Options in iPhone Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/all-reset-options-in-iphone-settings.PNG)
 
 Close
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 16\. Ensure "Hey Siri" Is Available in Your Country
 
  Even though Siri can be enabled no matter where you are, "Hey Siri" isn't available in all countries and regions. If you still can't use "Hey Siri" or don't see the option in Settings, head over to the official [Apple Support](https://www.apple.com/ios/feature-availability/#siri) page to check Siri's availability in your country.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 17\. Contact Apple Support
 
  Finally, if nothing else helps, contact Apple Support and get your device inspected. You can [get tech support for your iPhone with the Apple Support app](https://www.makeuseof.com/how-to-get-iphone-support-apple-support-app/) , or if you have an Apple Store nearby, you can [book an appointment at a Genius Bar](https://www.makeuseof.com/apple-store-appointment-genius-bar/) .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 ## Get Siri Working on Your iPhone Again
 
  Virtual assistants like Siri have changed how we interact with our tech gadgets. It has become easier to set reminders, start alarms, skip tracks, and do more without raising a finger.
@@ -197,3 +245,46 @@ Close
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-express-windows-file-audit-procedure/"><u>[New] Express Windows File Audit Procedure</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-unveiling-the-secrets-of-swift-youtube-subtitle-insertion/"><u>[New] Unveiling the Secrets of Swift YouTube Subtitle Insertion</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-newfrontiersincameratech/"><u>[Updated] NewFrontiersInCameraTech</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/2024-approved-bite-sized-entertainment-top-10-food-vlogs-on-tiktok/"><u>2024 Approved  Bite-Sized Entertainment  Top 10 Food Vlogs on TikTok</u></a></li>
+<li><a href="https://fox-that.techidaily.com/a-comprehensive-guide-to-fixing-accurate-apple-screen-time-records-for-your-iphone/"><u>A Comprehensive Guide to Fixing Accurate Apple Screen Time Records for Your iPhone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/battling-roblox-memory-shortage-warnings-on-iphones-effective-solutions-revealed/"><u>Battling Roblox Memory Shortage Warnings on iPhones: Effective Solutions Revealed</u></a></li>
+<li><a href="https://fox-that.techidaily.com/bypass-airdrop-glitches-expert-advice-on-quick-fixes-with-16-effective-solutions/"><u>Bypass AirDrop Glitches: Expert Advice on Quick Fixes with 16 Effective Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721461149676-cant-capture-memories-on-your-iphone-fix-these-common-camera-issues-now/"><u>Can’t Capture Memories on Your iPhone? Fix These Common Camera Issues Now!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/consequently-as-the-channel-narrows-the-ids-the-drain-source-current-decreases-since-there-are-fewer-paths-for-the-carriers-to-flow-through/"><u>Consequently, as the Channel Narrows, the IDS (the Drain-Source Current) Decreases Since There Are Fewer Paths for the Carriers to Flow Through</u></a></li>
+<li><a href="https://fox-that.techidaily.com/dealing-with-a-hot-iphone-or-ipad-heres-why-it-happens-and-how-to-cool-down/"><u>Dealing with a Hot iPhone or iPad? Here's Why It Happens & How to Cool Down</u></a></li>
+<li><a href="https://fox-that.techidaily.com/get-your-iphones-auto-brightness-back-to-normal-with-our-top-er-7-advice/"><u>Get Your iPhone's Auto-Brightness Back to Normal with Our Top Er 7 Advice</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-fix-an-iphone-when-it-wont-accept-callers/"><u>How to Fix an iPhone When It Won't Accept Callers</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-manually-retry-and-complete-a-paused-ios-device-firmware-update/"><u>How to Manually Retry and Complete a Paused iOS Device Firmware Update</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-overcome-common-icloud-hurdles-for-iphone-and-ipad-users/"><u>How to Overcome Common iCloud Hurdles for iPhone and iPad Users</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-nokia-c210-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Nokia C210? | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/improve-your-iphones-wireless-connection-the-ultimate-guide-to-8-wi-fi-fixes/"><u>Improve Your iPhone's Wireless Connection: The Ultimate Guide to 8 Wi-Fi Fixes</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-unlocking-real-time-sharing-streaming-old-video-to-facebook-audiences/"><u>In 2024, Unlocking Real-Time Sharing  Streaming Old Video to Facebook Audiences</u></a></li>
+<li><a href="https://fox-that.techidaily.com/ipad-recovery-troubleshooting-how-to-reset-and-restore-your-device/"><u>IPad Recovery Troubleshooting: How to Reset and Restore Your Device</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721480610243-iphone-keeps-photos-in-secret-cache-discover-the-top-8-ways-to-clear-it/"><u>IPhone Keeps Photos in Secret Cache? Discover the Top 8 Ways to Clear It</u></a></li>
+<li><a href="https://fox-that.techidaily.com/mastering-ipad-maintenance-a-beginners-guide-to-recovery-mode-setup/"><u>Mastering iPad Maintenance: A Beginner's Guide to Recovery Mode Setup</u></a></li>
+<li><a href="https://fox-that.techidaily.com/navigating-through-common-icloud-challenges-for-apple-products-and-their-resolutions/"><u>Navigating Through Common iCloud Challenges for Apple Products and Their Resolutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/navigating-with-ease-8-iphone-accessibility-options-for-low-vision-users/"><u>Navigating with Ease: 8 iPhone Accessibility Options for Low Vision Users</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcome-ios-installation-issues-explore-9-proven-methods-for-a-successful-update/"><u>Overcome iOS Installation Issues: Explore 9 Proven Methods for a Successful Update</u></a></li>
+<li><a href="https://howto.techidaily.com/quick-fixes-for-why-is-my-tecno-pop-7-pro-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Tecno Pop 7 Pro Black and White | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-itel-a70-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of Itel A70 on Mac</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolve-your-iphones-volume-button-issues-with-these-7-effective-fixes/"><u>Resolve Your iPhones Volume Button Issues with These 7 Effective Fixes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-the-mystery-why-arent-my-contacts-displayed-on-my-iphone/"><u>Solving the Mystery: Why Aren't My Contacts Displayed on My iPhone?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/struggling-with-dnd-on-your-iphone-uncover-8-solutions-for-missing-messages-and-calls/"><u>Struggling with DND on Your iPhone? Uncover 8 Solutions for Missing Messages & Calls</u></a></li>
+<li><a href="https://fox-that.techidaily.com/the-app-blocked-bouquet-5-reasons-for-restricted-gift-sending-on-mac-and-iphones/"><u>The App-Blocked Bouquet: 5 Reasons for Restricted Gift Sending on Mac and iPhones</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-6-solutions-when-apple-rejects-your-card-immediate-actions/"><u>Top 6 Solutions When Apple Rejects Your Card - Immediate Actions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-failed-iphone-computer-pairing-quick-solutions/"><u>Troubleshoot Failed iPhone-Computer Pairing - Quick Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-wi-fi-problems-on-your-ios-devices-using-our-top-8-tips-and-tricks/"><u>Troubleshoot Wi-Fi Problems on Your iOS Devices Using Our Top 8 Tips and Tricks</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-missing-iphone-applications-tips-and-tricks-for-finding-them-again/"><u>Troubleshooting Missing iPhone Applications - Tips and Tricks for Finding Them Again</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-tips-when-events-are-not-visible-on-iphone-calendar/"><u>Troubleshooting Tips When Events Are Not Visible on iPhone Calendar</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unstick-your-iphone-screen-effective-solutions-for-a-responsive-touch/"><u>Unstick Your iPhone Screen: Effective Solutions for a Responsive Touch</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-samsung-galaxy-a25-5g-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Samsung Galaxy A25 5G? | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/why-your-iphoneipad-is-overheating-causes-and-solutions/"><u>Why Your iPhone/iPad Is Overheating: Causes & Solutions</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/women-in-warfare-youtubes-elite-ten/"><u>Women in Warfare  YouTube’s Elite Ten</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/your-2024-guide-to-the-leading-cloud-storage-champions/"><u>Your 2024 Guide to the Leading Cloud Storage Champions</u></a></li>
+</ul></div>

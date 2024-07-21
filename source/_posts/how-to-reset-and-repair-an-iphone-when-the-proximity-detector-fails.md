@@ -1,7 +1,7 @@
 ---
 title: How To Reset and Repair an iPhone When the Proximity Detector Fails
-date: 2024-07-18 22:50:48
-updated: 2024-07-20 11:32:10
+date: 2024-07-20T03:04:15.304Z
+updated: 2024-07-21T03:04:15.304Z
 tags:
   - iphone
   - apple
@@ -20,6 +20,9 @@ thumbnail: https://thmb.techidaily.com/4740430244a268b3ae9a4b1e15c683b234a7cf8bd
 
 ## How to Test the Proximity Sensor on an iPhone
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ![A gray iPhone 6 on a woman's ear](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/a-gray-iphone-6-on-a-woman-s-ear.jpg)
 
  The iPhone's proximity sensor uses infrared light from an emitter at the top of your screen. The sensor measures how long it takes for the rays to reflect off a surface to determine the distance.
@@ -47,6 +50,9 @@ Here are some things you could do to check if it's working:
 
  Be careful not to use rubbing alcohol, window cleaners, vinegar, or any similar grease-cutting products, as they could eat away your screen's coating.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ### 2\. Restart the Target Application or Your iPhone
 
  If you notice that your proximity sensor is still not working after cleaning your screen, it could be the app (like WhatsApp or the Phone app) or iOS misbehaving.
@@ -59,16 +65,25 @@ Here are some things you could do to check if it's working:
 
  Head to**Settings > General > Software Update** and let the phone scan for updates. If any update appears, select**Download and Install** .
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![iPhone searching for updates in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-searching-for-updates-in-settings.jpeg)
 
 ![Software update information on iOS for iOS 16.6](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/software-update-information-on-ios-for-ios-16-6.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Update terms and conditions on iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/update-terms-and-conditions-on-ios.jpeg)
 
 Close
 
  Your phone will restart a couple of times, but it will stabilize when it's finished. Test the proximity sensor again using our steps above.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4\. Remove the Screen Protector
 
 ![man applying screen protector to smartphone feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/man-applying-screen-protector-to-smartphone-feature.jpg)
@@ -88,6 +103,9 @@ Here's a brief rundown of how to do it:
 
  Give the proximity sensor a test to see if that helped. But if you're still out of luck, you have a last-resort option.
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 5\. Take Your Phone Back to Apple or an Authorized Service Provider
 
  Sometimes, the issue could be bigger than software bugs or something blocking the sensor. It's officially beyond your pay grade, and it's time to take your phone to someone who could open it up if need be.
@@ -116,3 +134,49 @@ Here's a brief rundown of how to do it:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-enhance-your-shorts-appeal-with-personalized-thumbnails/"><u>[New] 2024 Approved  Enhance Your Shorts' Appeal with Personalized Thumbnails</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-expert-tactics-optimizing-freefire-video-content/"><u>[New] 2024 Approved  Expert Tactics  Optimizing FreeFire Video Content</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-explore-laughter-tears-fusion-the-best-ig-accounts-ever/"><u>[New] 2024 Approved  Explore Laughter-Tears Fusion  The Best IG Accounts Ever</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-avoiding-content-id-alerts-strategies-on-youtube-for-2024/"><u>[New] Avoiding Content ID Alerts  Strategies on YouTube for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-exploring-free-screencast-software-options-on-mac/"><u>[New] In 2024, Exploring Free Screencast Software Options on Mac</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-crafting-the-perfect-tiktok-image-with-simple-hacks/"><u>[Updated] 2024 Approved  Crafting the Perfect TikTok Image with Simple Hacks</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-ranked-5-excellent-webcams-with-professional-microphones/"><u>[Updated] 2024 Approved  Ranked 5 Excellent Webcams With Professional Microphones</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-superior-choice-of-8-free-uhd-software-for-pc-and-macos/"><u>[Updated] 2024 Approved  Superior Choice of 8 Free UHD Software for PC & MacOS</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-speedy-strategies-for-crafting-a-facebook-visual-narrative/"><u>[Updated] Speedy Strategies for Crafting a Facebook Visual Narrative</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-pro-tips-for-productive-dialogues-on-google-meet/"><u>2024 Approved  Pro Tips for Productive Dialogues on Google Meet</u></a></li>
+<li><a href="https://fox-that.techidaily.com/6-effective-methods-to-resolve-aol-email-issues-on-your-iphone/"><u>6 Effective Methods to Resolve AOL Email Issues on Your iPhone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/breaking-down-barriers-adding-chapters-to-create-cohesive-youtube-lessons/"><u>Breaking Down Barriers  Adding Chapters to Create Cohesive YouTube Lessons</u></a></li>
+<li><a href="https://fox-that.techidaily.com/bust-through-the-glitch-free-yourself-and-your-iphone-from-endless-audiojack-loop-try-these-8-tricks/"><u>Bust Through the Glitch: Free Yourself and Your iPhone From Endless Audiojack Loop – Try These 8 Tricks!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/cant-locate-app-on-iphone-a-guide-to-finding-missing-mobile-programs/"><u>Can't Locate App on iPhone? A Guide to Finding Missing Mobile Programs</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/chucklecrafts-create-meme-delight/"><u>ChuckleCrafts  Create Meme Delight</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/crafting-captivating-content-uploading-h-videos-for-igtv-success/"><u>Crafting Captivating Content  Uploading H-Videos for IGTV Success</u></a></li>
+<li><a href="https://fox-that.techidaily.com/elevate-your-iphones-battery-life-with-this-6-step-optimization-routine/"><u>Elevate Your iPhone’s Battery Life with This 6-Step Optimization Routine</u></a></li>
+<li><a href="https://fox-that.techidaily.com/expert-advice-how-to-get-back-deleted-memos-on-apple-iphones/"><u>Expert Advice: How to Get Back Deleted Memos on Apple iPhones</u></a></li>
+<li><a href="https://fox-that.techidaily.com/for-vgs-constant-and-less-negative-than-pinch-off-as-vds-increases-from-zero-id-initially-increases-linearly-with-vds-until-it-approaches-a-maximum-value-kn28/"><u>For VGS Constant and Less Negative than Pinch-Off, as VDS Increases From Zero, ID Initially Increases Linearly with VDS Until It Approaches a Maximum Value Known as Saturation Current.</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-correctly-handle-iphones-error-4013-when-attempting-an-update-or-restore/"><u>How to Correctly Handle iPhone's Error 4013 When Attempting an Update or Restore</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-retrieve-and-locate-saved-pictures-from-apples-facetime-app/"><u>How to Retrieve and Locate Saved Pictures From Apple's FaceTime App</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphones-without-a-signal-discover-these-10-methods-to-restore-cellular-data-functionality/"><u>IPhones Without a Signal? Discover These 10 Methods to Restore Cellular Data Functionality</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Samsung Galaxy A14 4G | Dr.fone</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-unleash-your-creativity-top-video-collage-apps-for-ios-devices/"><u>New In 2024, Unleash Your Creativity Top Video Collage Apps for iOS Devices</u></a></li>
+<li><a href="https://howto.techidaily.com/play-store-not-working-on-lava-blaze-2-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Lava Blaze 2? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/probing-the-capabilities-of-ffmpeg-in-maintaining-audible-formats/"><u>Probing the Capabilities of FFmpeg in Maintaining Audible Formats</u></a></li>
+<li><a href="https://fox-that.techidaily.com/quick-solutions-stop-airpods-from-dropping-out-when-connected-to-iphone/"><u>Quick Solutions: Stop AirPods From Dropping Out When Connected to iPhone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolving-unexpected-website-appearances-in-iphones-screen-time/"><u>Resolving Unexpected Website Appearances in iPhone's Screen Time</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-the-issue-of-unanswered-calls-on-your-iphone-a-comprehensive-guide/"><u>Solving the Issue of Unanswered Calls on Your iPhone: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/spotify-on-ios-addressing-app-stability-concerns-prevent-it-from-shutting-down-while-your-phone-is-locked/"><u>Spotify on iOS: Addressing App Stability Concerns – Prevent It From Shutting Down While Your Phone Is Locked</u></a></li>
+<li><a href="https://fox-that.techidaily.com/stuck-in-portrait-here-are-fixes-for-iphone-not-rotating-screen-settings/"><u>Stuck in Portrait? Here Are Fixes for iPhone Not Rotating Screen Settings</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/thriving-in-youtube-commercial-creation/"><u>Thriving in YouTube Commercial Creation</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-7-solutions-get-your-predictive-emojis-running-again-on-iphoneipad/"><u>Top 7 Solutions: Get Your Predictive Emojis Running Again on iPhone/iPad</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-music-choices-for-captivating-video-experiences-for-2024/"><u>Top Music Choices for Captivating Video Experiences for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-and-enhance-your-iphones-cellular-connectivity-top-10-tips/"><u>Troubleshoot and Enhance Your iPhone’s Cellular Connectivity – Top 10 Tips</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721469030456-unable-to-upgrade-your-apple-device-here-are-9-tips-for-success/"><u>Unable to Upgrade Your Apple Device? Here Are 9 Tips for Success.</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721481275313-unblock-stuck-images-in-safari-proven-techniques-to-restore-image-loading-on-iphones/"><u>Unblock Stuck Images in Safari: Proven Techniques to Restore Image Loading on iPhones</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721471481283-unlocking-the-secrets-how-to-restore-depth-effect-on-your-ios-16-device-learn-from-these-7-tips/"><u>Unlocking the Secrets: How to Restore Depth Effect on Your iOS 16 Device - Learn From These 7 Tips</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unseen-push-alerts-on-iphone-try-these-7-quick-fixes-to-restore-them/"><u>Unseen Push Alerts on iPhone? Try These 7 Quick Fixes to Restore Them</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unveiling-9-key-indicators-of-liquid-intrusion-in-iphones/"><u>Unveiling 9 Key Indicators of Liquid Intrusion in iPhones</u></a></li>
+<li><a href="https://fox-that.techidaily.com/what-to-do-when-only-one-of-your-airpods-wont-work/"><u>What To Do When Only One of Your AirPods Won't Work?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/why-power-cycling-helps-resolve-common-smartphone-glitches-quickly/"><u>Why Power Cycling Helps Resolve Common Smartphone Glitches Quickly</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: IPhone Ring or Silent and Not Shaking? Here Are 8 Tips to Restore Vibration Functionality
-date: 2024-07-19 16:19:31
-updated: 2024-07-20 11:43:25
+date: 2024-07-20T03:14:48.903Z
+updated: 2024-07-21T03:14:48.903Z
 tags:
   - iphone
   - apple
@@ -20,12 +20,18 @@ thumbnail: https://thmb.techidaily.com/d4b0aeca5fbcd6a1a79d8f267934da7fc9e25344d
 
  Your browser does not support the video tag.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. Check Your iPhone's Current Mode
 
  Before proceeding to tweak your iPhone's sound settings, check if your iPhone is in the mode you want. Look at the side of your iPhone for the Ring/Silent switch.
 
  If you can see the orange strip, your iPhone is in Silent mode. Push the switch (so that the orange strip is no longer showing) to put your iPhone back in Ring mode.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![iphone silent switch and volume buttons](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/iphone-silent-switch.jpg)
 
 ## 2\. Turn On System Haptics
@@ -36,6 +42,9 @@ thumbnail: https://thmb.techidaily.com/d4b0aeca5fbcd6a1a79d8f267934da7fc9e25344d
 
 ![iphone settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/img_6668.JPEG)
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![iphone sounds and haptics settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/img_6667.JPEG)
 
 Close
@@ -48,8 +57,15 @@ Close
 
 ![iPhone Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/settings-general.JPEG)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
 ![iphone accessibility settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/accessibility-settings.JPEG)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![touch settings in iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/touch-settings.JPEG)
 
 Close
@@ -72,6 +88,9 @@ Close
 
  Check that you have**Synchronized** or one of the Standard vibration patterns selected, such as**Accent** or**Alert** . If you have**Custom** selected, tap on it to play the vibration recording and make sure it's not just an accidental replica of**None** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![sounds & haptics settings on iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/sounds--haptics-2.JPEG)
 
 ![iphone ringtone settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/ringtone-settings.JPEG)
@@ -82,12 +101,18 @@ Close
 
  After you select a valid vibration pattern for**Ringtone** , go back to the**Sounds and Haptics Pattern** list. Repeat these steps for**Text Tone** ,**New Voicemail** ,**New Mail** , and so on.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ## 6\. Update Your iPhone
 
  Apple's iOS software updates often come with bug fixes and performance improvements. So, if the above methods don't work for you, it may simply be a bug in the software itself.
 
  Therefore,[updating your iPhone](https://www.makeuseof.com/tag/update-iphone-ios-apps-data/) may be the solution when your device doesn't vibrate on Silent or Ring mode.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 7\. Restart Your iPhone
 
  Software glitches can sometimes prevent your iPhone from vibrating, whether it's on Ring or Silent mode. In such cases, simply restarting your iPhone will resolve the problem, making this troubleshooting step worth trying. Note that different steps may be required to [restart your iPhone](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) , depending on the model you own.
@@ -110,6 +135,9 @@ Close
 
 Close
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Can You Enable Vibration for Calls and Texts Only on Your iPhone?
 
  If the solutions above worked and your iPhone can vibrate on Silent and Ring mode again, there's still a dilemma—what if you want your iPhone to only vibrate for incoming calls and texts, but not system haptics?
@@ -122,6 +150,9 @@ Close
 2. Toggle off**Play Haptics in Ring Mode** , then toggle on**Play Haptics in Silent Mode** .
 3. Toggle on**Vibration** in**Accessibility > Touch** .
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![turn on play haptics in silent mode and system haptics](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/IMG_4013.JPEG)
 
 ![touch settings in iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/touch-settings.JPEG)
@@ -132,6 +163,9 @@ Close
 
 ![iphone keyboard feedback settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/img_6645.JPEG)
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Use Your iPhone's Vibrations to Be Aware of Alerts
 
  We hope this list of fixes helped you solve the problem if your iPhone wasn't vibrating in Silent or Ring mode. Since the old days of Nokia phones, vibrations have always helped us make sure we don't miss out on a call or text.
@@ -152,3 +186,56 @@ Close
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-android-audio-archive-a-curated-list-of-top-6-free-music-downloading-apps/"><u>[New] 2024 Approved  Android Audio Archive  A Curated List of Top 6 Free Music Downloading Apps</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-cutting-edge-creativity-on-tiktok-mastering-video-designs-in-minutes/"><u>[New] Cutting-Edge Creativity on TikTok  Mastering Video Designs in Minutes</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-dial-in-the-perfect-moment-youtube-optimal-posting/"><u>[New] In 2024, Dial in the Perfect Moment  YouTube Optimal Posting</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-best-imagery-capturing-drones-in-10-selection/"><u>[Updated] Best Imagery-Capturing Drones in #10 Selection</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-top-15-activities-for-podcast-enthusiasts/"><u>[Updated] In 2024, Top 15 Activities for Podcast Enthusiasts</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-overcoming-windows-10-photo-viewer-challenges-quick-fixes/"><u>[Updated] Overcoming Windows 10 Photo Viewer Challenges  Quick Fixes</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-uncharted-mmo-adventures-ranking-the-10-best-free-games/"><u>[Updated] Uncharted MMO Adventures  Ranking the 10 Best Free Games</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-breezy-setup-for-podcast-broadcasts/"><u>2024 Approved  Breezy Setup for Podcast Broadcasts</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-render-your-social-media-footage/"><u>2024 Approved  Render Your Social Media Footage</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-visual-branding-on-youtubes-iconography-and-images/"><u>2024 Approved  Visual Branding on YouTubes  Iconography and Images</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/2024-approved-harmonious-humans-cutting-out-clamor-from-your-compiled-charts-digitally/"><u>2024 Approved Harmonious Humans Cutting Out Clamor From Your Compiled Charts Digitally</u></a></li>
+<li><a href="https://fox-that.techidaily.com/8-fixes-to-improve-wi-fi-performance-on-your-iphone/"><u>8 Fixes to Improve Wi-Fi Performance on Your iPhone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/avoiding-confusion-the-ultimate-trick-for-rectifying-wrongly-tagged-people-on-your-iphones-camera-roll/"><u>Avoiding Confusion: The Ultimate Trick for Rectifying Wrongly Tagged People on Your iPhone's Camera Roll</u></a></li>
+<li><a href="https://fox-that.techidaily.com/does-heshe-just-ignore-or-have-i-been-blocked-uncovering-imessage-secrets/"><u>Does He/She Just Ignore or Have I Been Blocked? Uncovering iMessage Secrets</u></a></li>
+<li><a href="https://fox-that.techidaily.com/eliminate-distortion-essential-tips-for-clarifying-your-iphones-blurry-snaps-in-7-steps/"><u>Eliminate Distortion: Essential Tips for Clarifying Your iPhone's Blurry Snaps in 7 Steps</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fix-why-are-you-seeing-phone-numbers-instead-of-names-on-your-messages/"><u>Fix: Why Are You Seeing Phone Numbers Instead of Names on Your Messages?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-a-non-responsive-iphone-home-button-top-5-solutions/"><u>Fixing a Non-Responsive iPhone Home Button – Top 5 Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-iphone-vibration-issues-in-silent-and-ring-modes-8-effective-tips/"><u>Fixing iPhone Vibration Issues in Silent and Ring Modes: 8 Effective Tips</u></a></li>
+<li><a href="https://video-capture.techidaily.com/handsonguide-to-yourwebcamrecord/"><u>HandsOnGuide to YourWebcamRecord</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-rebooting-your-phone-can-resolve-many-issues/"><u>How Rebooting Your Phone Can Resolve Many Issues</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/in-2024-the-best-tools-for-crafting-unforgettable-highlight-reels/"><u>In 2024, The Best Tools for Crafting Unforgettable Highlight Reels</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/innovative-audio-tools-crafting-perfect-virtual-performances-for-2024/"><u>Innovative Audio Tools  Crafting Perfect Virtual Performances for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/innovative-methods-for-effective-image-pairing/"><u>Innovative Methods for Effective Image Pairing</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721450709418-iphone-charge-paused-warning-here-are-8-effective-fixes/"><u>IPhone Charge Paused Warning? Here Are 8 Effective Fixes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-notification-problem-solved-uncover-7-quick-fixes-for-better-alerts/"><u>IPhone Notification Problem Solved: Uncover 7 Quick Fixes for Better Alerts</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721477637783-iphone-silentring-mode-vibration-issue-try-these-8-proven-methods-to-resolve-it-now/"><u>IPhone Silent/Ring Mode Vibration Issue? Try These 8 Proven Methods to Resolve It Now!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721444994418-iphone-text-delays-frustrating-you-solve-it-in-just-9-easy-steps/"><u>IPhone Text Delays Frustrating You? Solve It in Just 9 Easy Steps</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-volume-buttons-failing-to-respond-apply-these-7-quick-repair-techniques/"><u>IPhone Volume Buttons Failing to Respond? Apply These 7 Quick Repair Techniques</u></a></li>
+<li><a href="https://fox-that.techidaily.com/mastering-mobile-repair-how-to-access-and-utilize-apples-support-services-via-their-official-app/"><u>Mastering Mobile Repair: How to Access and Utilize Apple's Support Services via Their Official App</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-blur-faces-like-a-pro-best-free-apps-for-anonymous-media/"><u>New In 2024, Blur Faces Like a Pro Best Free Apps for Anonymous Media</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcome-mobile-connectivity-hiccups-10-ways-to-restore-iphone-calls/"><u>Overcome Mobile Connectivity Hiccups: 10 Ways to Restore iPhone Calls</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-iphone-typographical-hurdles-ending-line-unavailable-errors/"><u>Overcoming iPhone Typographical Hurdles: Ending 'Line Unavailable' Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/refreshing-windows-icon-arrangement-easily/"><u>Refreshing Windows Icon Arrangement Easily</u></a></li>
+<li><a href="https://fox-that.techidaily.com/removing-liquid-from-inside-smartphone-speakers-a-step-by-step-guide/"><u>Removing Liquid From Inside Smartphone Speakers: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolving-siri-malfunctions-in-ios-a-step-by-step-guide-with-7-fixes/"><u>Resolving Siri Malfunctions in iOS: A Step-by-Step Guide (with 7 Fixes)</u></a></li>
+<li><a href="https://fox-that.techidaily.com/restoring-lost-iphone-notes-a-step-by-step-guide/"><u>Restoring Lost iPhone Notes: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/reviving-your-iphone-a-guide-to-recovery-and-factory-resets-without-itunes/"><u>Reviving Your iPhone: A Guide to Recovery and Factory Resets without iTunes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/seamlessly-accessing-tech-aid-for-your-iphone-with-the-apple-support-app/"><u>Seamlessly Accessing Tech Aid for Your iPhone with the Apple Support App</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/skys-best-hd-pics-top-website-guide/"><u>Sky's Best HD Pics  Top Website Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solve-emoji-glitches-instantly-a-guide-for-iphone-and-ipad-users-7-tips/"><u>Solve Emoji Glitches Instantly - A Guide for iPhone and iPad Users (7 Tips)</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-non-responsive-iphone-screens-with-easy-diy-methods/"><u>Solving Non-Responsive iPhone Screens with Easy DIY Methods</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-the-mystery-of-missing-contacts-on-iphone-a-step-by-step-guide/"><u>Solving the Mystery of Missing Contacts on iPhone: A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/streamlining-video-sharing-zoom-and-tiktok-harmony-for-2024/"><u>Streamlining Video Sharing  Zoom and TikTok Harmony for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721449856838-struggling-with-iphone-to-icloud-transfer-apply-these-9-methods-now/"><u>Struggling with iPhone-to-iCloud Transfer? Apply These 9 Methods Now</u></a></li>
+<li><a href="https://fox-that.techidaily.com/the-journey-of-facetime-snapshots-how-to-retrieve-and-store-them-safely/"><u>The Journey of FaceTime Snapshots: How to Retrieve and Store Them Safely</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-false-identifications-in-apple-photos-for-easy-management/"><u>Troubleshoot False Identifications in Apple Photos for Easy Management</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-guide-fixing-a-single-malfunctioning-airpod/"><u>Troubleshooting Guide: Fixing a Single Malfunctioning AirPod</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-safaris-photo-problem-essential-tips-and-tricks-for-iphone-users/"><u>Troubleshooting Safari's Photo Problem: Essential Tips & Tricks for iPhone Users</u></a></li>
+<li><a href="https://fox-that.techidaily.com/why-wont-my-iphone-touchscreen-work-exploring-7-possible-reasons/"><u>Why Won't My iPhone Touchscreen Work? Exploring 7 Possible Reasons</u></a></li>
+</ul></div>

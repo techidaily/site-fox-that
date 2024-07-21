@@ -1,7 +1,7 @@
 ---
 title: "Missing From Sight: How to Track Down and Recover Your Disappeared iPhone App"
-date: 2024-07-19 16:41:42
-updated: 2024-07-20 11:29:52
+date: 2024-07-20T03:07:00.261Z
+updated: 2024-07-21T03:07:00.261Z
 tags:
   - iphone
   - apple
@@ -22,14 +22,32 @@ thumbnail: https://thmb.techidaily.com/0cc5faa4648feed06dc36c6c4e0b5955761ab929b
 
  Your browser does not support the video tag.
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. Find Your App in the App Library
 
  If an app is installed on your iPhone but not on your Home Screen, it's probably in the App Library, which places all your apps in proper categories. Swipe left on the last**Home Screen** page to reach**App Library** . Then, use the**Search** box to find your missing app quickly.
 
  Once you find the app you're looking for, long-press its app icon in the App Library, and if this app isn't on the Home Screen, you will see an option to**Add to Home Screen** . Alternatively, you can drag it left from the App Library onto the Home Screen.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ![App Library on iPhone showing all apps in proper categories](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/app-library-on-iphone-showing-all-apps-in-proper-categories.png)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![App Library showing apps in alphabetical order](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/app-library-showing-apps-in-alphabetical-order.png)
 
 ![Long-press app in App Library and tap Add to Home Screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/long-press-app-in-app-library-and-tap-add-to-home-screen.png)
@@ -48,12 +66,32 @@ Close
 
 ![iphone home screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/img_5638.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![iphone search screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/img_5639.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 ![use search to find an app in iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/img_5640.jpg)
 
 Close
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. Ask Siri to Open the Missing App
 
  You can use Siri to open downloaded apps that have disappeared from the Home Screen. If you have already [set up Siri on your iPhone](https://www.makeuseof.com/how-to-set-up-and-use-siri-iphone/) , simply activate the voice assistant and ask it to "Open \[app name\]."
@@ -76,6 +114,9 @@ Close
 
 ![Tap Content & Privacy Restrictions in iPhone Screen Time Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/tap-content--privacy-restrictions-in-iphone-screen-time-settings.png)
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Tap Allowed Apps in iPhone Screen Time Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/tap-allowed-apps-in-iphone-screen-time-settings.png)
 
 ![Make Sure all iPhone apps are allowed and nothing is restricted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/make-sure-all-iphone-apps-are-allowed-and-nothing-is-restricted.png)
@@ -90,6 +131,9 @@ Close
 
  To avoid confusion in the future, learn more about [hiding and unhiding the Home Screen pages](https://www.makeuseof.com/hide-iphone-home-screen-pages/) .
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 7\. Use App Store to Check If an App Is Installed or Not
 
  When an app is downloaded on your iPhone, the App Store page says**Open** (or**Update**). If the app is not downloaded, it says**Get** (or shows the**Download** cloud icon).
@@ -102,6 +146,9 @@ Close
 
 ![Long press iOS App Store icon and tap Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/long-press-ios-app-store-icon-and-tap-search.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Search for app in App Store and tap Open](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/search-for-app-in-app-store-and-tap-open.png)
 
 Close
@@ -117,6 +164,9 @@ Here's how to reset your iPhone's Home Screen layout:
 
 ![Tap General in iPhone Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/tap-general-in-iphone-settings-app.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
 ![From the bottom tap Reset in iPhone Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/from-the-bottom-tap-reset-in-iphone-settings.png)
 
 ![Tap Reset Home Screen Layout in iPhone Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/tap-reset-home-screen-layout-in-iphone-settings.png)
@@ -151,3 +201,49 @@ Close
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-unlocking-igtv-potential-converting-and-curating-horizontal-videos/"><u>[New] 2024 Approved  Unlocking IGTV Potential  Converting and Curating Horizontal Videos</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-3-unconventional-tactics-for-subscriber-growth/"><u>[New] 3 Unconventional Tactics for Subscriber Growth</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-efficient-techniques-for-capturing-google-voice-calls-for-2024/"><u>[Updated] Efficient Techniques for Capturing Google Voice Calls for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-enhancing-facebook-audience-via-tiktok-sharing/"><u>[Updated] In 2024, Enhancing Facebook Audience via TikTok Sharing</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-strategies-for-clearer-facebook-live-footage-viewing-for-2024/"><u>[Updated] Strategies for Clearer Facebook Live Footage Viewing for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-perfect-pairing-10-films-for-fun-filled-family-nights/"><u>2024 Approved  Perfect Pairing  10 Films for Fun-Filled Family Nights</u></a></li>
+<li><a href="https://fox-that.techidaily.com/as-vgs-becomes-more-negative-approaching-pinch-off-these-curves-move-closer-to-each-other-and-become-flatter-at-high-values-of-vds-indicating-lower-current-10/"><u>As VGS Becomes More Negative (Approaching Pinch-Off), These Curves Move Closer to Each Other and Become Flatter at High Values of VDS, Indicating Lower Current Levels.</u></a></li>
+<li><a href="https://fox-that.techidaily.com/cant-get-texts-on-your-iphone-fix-apples-cross-platform-sms-problem-with-ease/"><u>Can't Get Texts on Your iPhone? Fix Apple's Cross-Platform SMS Problem with Ease</u></a></li>
+<li><a href="https://fox-that.techidaily.com/complete-guide-steps-to-perform-a-full-restoration-on-your-iphoneipad/"><u>Complete Guide: Steps to Perform a Full Restoration on Your iPhone/iPad</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721455342656-contacts-not-responding-on-ios-three-tips-for-a-smooth-solution/"><u>Contacts Not Responding on iOS? Three Tips for a Smooth Solution.</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721466085305-discover-8-ways-your-iphone-saves-pictures-to-icloud-despite-deletions-unraveling-the-mystery/"><u>Discover 8 Ways Your iPhone Saves Pictures to iCloud Despite Deletions: Unraveling the Mystery</u></a></li>
+<li><a href="https://fox-that.techidaily.com/expert-tips-activating-ipads-recovery-mode-easily/"><u>Expert Tips: Activating iPad's Recovery Mode Easily</u></a></li>
+<li><a href="https://fox-that.techidaily.com/five-fast-solutions-for-a-non-responsive-iphone-home-button/"><u>Five Fast Solutions for a Non-Responsive iPhone Home Button</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fix-your-iphones-display-a-comprehensive-walkthrough-of-7-widespread-problems-and-remedies/"><u>Fix Your iPhone's Display: A Comprehensive Walkthrough of 7 Widespread Problems and Remedies</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-ipadiphone-and-wi-fi-disconnect-problem-unveil-these-similar-problem-for-story-themes/"><u>Fixing iPad/iPhone and Wi-Fi Disconnect Problem: Unveil These # Similar Problem for Story Themes</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Samsung Galaxy A05s | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/innovative-image-integration-software-for-visual-enthusiasts/"><u>Innovative Image Integration Software for Visual Enthusiasts</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-app-installation-issues-top-1n-10-fixes-for-a-smooth-download-experience/"><u>IPhone App Installation Issues: Top 1N 10 Fixes for a Smooth Download Experience</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721459006085-iphone-missing-push-messages-resolve-with-these-7-quick-fixes/"><u>IPhone Missing Push Messages? Resolve with These 7 Quick Fixes!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721452874679-iphone-photos-stuck-correct-icloud-sync-issues-with-these-vehicle-maintenance-and-the-importance-of-regular-inspections-to-ensure-safety-on-the-road/"><u>IPhone Photos Stuck? Correct iCloud Sync Issues with These Vehicle Maintenance, and the Importance of Regular Inspections to Ensure Safety on the Road.</u></a></li>
+<li><a href="https://fox-that.techidaily.com/keep-data-members-private-or-protected/"><u>Keep Data Members Private or Protected.</u></a></li>
+<li><a href="https://fox-that.techidaily.com/keyboard-not-responding-on-iphone-or-ipad-discover-the-6-best-solutions/"><u>Keyboard Not Responding on iPhone or iPad? Discover the 6 Best Solutions</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-essential-mp3-transcription-solutions-a-compilation/"><u>New 2024 Approved Essential MP3 Transcription Solutions A Compilation</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-iphone-audio-hurdles-a-comprehensive-guide-to-mending-the-microphone/"><u>Overcoming iPhone Audio Hurdles: A Comprehensive Guide to Mending the Microphone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-location-services-problems-in-ios-essential-fixes-for-iphones/"><u>Overcoming Location Services Problems in iOS - Essential Fixes for iPhones</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-google-pixel-8-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Google Pixel 8 | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/remove-moisture-from-iphone-speakers-a-comprehensive-guide/"><u>Remove Moisture From iPhone Speakers: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolve-hey-siri-malfunctions-comprehensive-solutions-for-iphones-a-detailed-guide/"><u>Resolve Hey Siri Malfunctions: Comprehensive Solutions For iPhones – A Detailed Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/revitalize-disabled-icloud-features-a-step-by-step-guide/"><u>Revitalize Disabled iCloud Features: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-the-problem-of-spotify-app-failures-during-iphone-sleep-mode/"><u>Solving the Problem of Spotify App Failures During iPhone Sleep Mode</u></a></li>
+<li><a href="https://fox-that.techidaily.com/step-by-step-process-performing-a-total-system-reset-on-your-ios-gadget/"><u>Step-by-Step Process: Performing a Total System Reset on Your iOS Gadget</u></a></li>
+<li><a href="https://fox-that.techidaily.com/steps-to-resolve-accessory-not-supported-errors-on-your-iphone-device/"><u>Steps to Resolve 'Accessory Not Supported' Errors on Your iPhone Device</u></a></li>
+<li><a href="https://fox-that.techidaily.com/steps-to-stop-spotify-crashing-on-your-iphone-once-its-locked/"><u>Steps to Stop Spotify Crashing on Your iPhone Once It's Locked</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-10-hassle-free-tips-to-resolve-your-apple-pay-difficulties/"><u>Top 10 Hassle-Free Tips to Resolve Your Apple Pay Difficulties</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-5-methods-to-resurrect-your-broken-iphone-home-button/"><u>Top 5 Methods to Resurrect Your Broken iPhone Home Button</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-6-frequent-challenges-with-the-iphone-13-solutions-inside/"><u>Top 6 Frequent Challenges with the iPhone 13: Solutions Inside</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-6-solutions-when-apple-rejects-your-card/"><u>Top 6 Solutions When Apple Rejects Your Card</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-iphone-standby-issues-top-four-fixes-you-need/"><u>Troubleshoot iPhone Standby Issues: Top Four Fixes You Need</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-chatgpt-iphone-application-top-9-solutions-when-it-wont-work/"><u>Troubleshooting ChatGPT iPhone Application: Top 9 Solutions When It Won't Work</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-iphone-connectivity-glitches-by-reinitializing-network-settings/"><u>Troubleshooting iPhone Connectivity Glitches by Reinitializing Network Settings</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721450502071-unable-to-link-up-with-an-iphone-vpn-try-these-7-fixes/"><u>Unable to Link Up with an iPhone VPN? Try These 7 Fixes!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlock-your-frozen-device-7-methods-for-clearing-the-apple-logo-glitch/"><u>Unlock Your Frozen Device: 7 Methods for Clearing the Apple Logo Glitch</u></a></li>
+</ul></div>

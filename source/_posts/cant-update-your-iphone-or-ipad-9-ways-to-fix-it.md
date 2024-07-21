@@ -1,7 +1,7 @@
 ---
 title: Can't Update Your iPhone or iPad? 9 Ways to Fix It
-date: 2024-07-19 21:52:31
-updated: 2024-07-20 12:35:27
+date: 2024-07-20T03:28:20.164Z
+updated: 2024-07-21T03:28:20.164Z
 tags:
   - iphone
   - apple
@@ -18,10 +18,16 @@ thumbnail: https://thmb.techidaily.com/ba715f0751b3e95d85d54c2de37214787de2fc86e
 
  Let's look at some fixes that will help you get the latest system software running on your device properly. Here's how to fix your iPhone or iPad when it won't let you update iOS or iPadOS.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. Charge Your iPhone or iPad
 
  Let's start with some basics before diving into more advanced troubleshooting. As you probably know, your iPhone won't let you upgrade if you don't have enough battery power. This is to prevent your device from shutting off in the middle of an update, which can cause serious problems.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Photo of iPhone charging](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/iphone-on-charge.jpg)
 
  Make sure you plug in your iPhone or iPad and have plenty of battery charge before starting the OS update. It's a good idea to leave it on the charger while the process runs, too. That way, if it takes longer than expected, your phone won't run out of power.
@@ -34,6 +40,9 @@ thumbnail: https://thmb.techidaily.com/ba715f0751b3e95d85d54c2de37214787de2fc86e
 
  Look for your device name here. If you don't see it, your phone or tablet is too old to get the latest version. This is a [sign it's time to upgrade your iPhone](https://www.makeuseof.com/7-signs-its-time-to-upgrade-your-iphone/) .
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. Wait a While Before Updating
 
  If you try to update to the latest version of iOS as soon as it comes out, you might run into trouble. Apple's servers go under heavy load when many thousands of people are trying to update all at once.
@@ -44,7 +53,7 @@ thumbnail: https://thmb.techidaily.com/ba715f0751b3e95d85d54c2de37214787de2fc86e
 
 ## 4\. Force-Restart Your Device
 
-![iPhone in hand with Recovery Mode prompt showing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2018/03/iphone-force-restart-recovery.jpg)
+![iPhone in hand with Recovery Mode prompt showing](https://thmb.techidaily.com/f0b667ebcfe4598116d4b6654429dec8091fa0451fb3d4865d8f30f7e5a361bf.jpg)
 
  A one-off bug can prevent you from updating your iPhone. Restarting your phone will restart its processes and hopefully clear up any temporary glitches. If a normal shutdown and reboot of your phone doesn't work, follow our [guide to force-restarting your iPhone](https://www.makeuseof.com/tag/restart-iphone-recovery-mode/) to learn how to escalate this process on your specific device.
 
@@ -58,6 +67,9 @@ thumbnail: https://thmb.techidaily.com/ba715f0751b3e95d85d54c2de37214787de2fc86e
 2. Scroll down and tap**General** .
 3. Tap**iPhone Storage** or**iPad Storage** .
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
 ![Tap iPhone Storage.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/10-select-iphone-storage.png)
 
 ![iPhone Storage App List](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/08/04a-iPhone-Storage-App-List.png)
@@ -83,6 +95,9 @@ Let's look at what these do.
 
  Once you've increased your free space, try the iOS update again. See [more ways to free up space on your iPhone](https://www.makeuseof.com/tag/iphone-storage-full-create-free-space-ios/) if needed.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 6\. Run the Update via iTunes or Finder
 
  While most people are used to updating iOS right on their iPhone, you can still run a system update through your computer with iTunes or Finder. It's not quite as convenient, but can come in handy if the over-the-air update isn't working for you. This is also a solution if you can't create enough free space on your device.
@@ -128,6 +143,9 @@ To reset network settings on your iPhone or iPad:
 
 ![iOS 15 General Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/01a-iOS-15-General-Settings.png)
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![iOS 15 Reset Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/01b-iOS-15-Reset-Menu.png)
 
 ![iOS 15 Reset Network Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/01c-iOS-15-Reset-Network-Settings.png)
@@ -136,6 +154,9 @@ Close
 
  Once you reset your Wi-Fi configuration, reconnect to a strong Wi-Fi network and try the iOS update again.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 9\. Reset All Settings, Then Factory Reset
 
  If none of the above has fixed your problem, you should consider completely wiping your device. In the same**Reset** menu mentioned above, you can either reset all settings on your device or perform a factory reset to erase everything.
@@ -158,6 +179,9 @@ Here's how to factory reset your device:
 3. Select**Erase All Content and Settings** from the bottom of the page.
 4. Walk through the steps, including entering your passcode to confirm.
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![iOS 15 Reset Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/01b-iOS-15-Reset-Menu.png)
 
 ![iOS 15 Erase All](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/02a-iOS-15-Erase-All.png)
@@ -166,6 +190,9 @@ Close
 
  Your device will now revert back to its factory state. Because everything is fresh again, you'll hopefully be able to update without issue. You can [restore your iPhone backup](https://www.makeuseof.com/tag/restore-iphone-ipad-from-backup/) during the setup process.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ## iPhone Updating Troubles: Fixed
 
  It's frustrating when your phone won't let you update. Hopefully, one of these fixes solved your problem and you can now enjoy the latest version of iOS.
@@ -186,3 +213,62 @@ Close
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-chase-laughter-and-tears-on-instagram-with-these-10-feeds/"><u>[New] 2024 Approved  Chase Laughter & Tears on Instagram with These 10 Feeds</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-effortlessly-add-youtube-videos-to-google-slate-decks/"><u>[New] 2024 Approved  Effortlessly Add YouTube Videos to Google Slate Decks</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-social-stardom-awaits-add-1k-to-your-insta-profile-each-month/"><u>[New] 2024 Approved  Social Stardom Awaits  Add 1K to Your Insta Profile Each Month</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-transform-your-social-media-experience-livestream-fb-flawlessly/"><u>[New] 2024 Approved  Transform Your Social Media Experience  Livestream FB Flawlessly</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-best-bites-outside-the-box-new-film-favorites/"><u>[New] In 2024, Best Bites Outside the Box  New Film Favorites</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-best-instagram-highlight-cover-maker-online/"><u>[New] In 2024, Best Instagram Highlight Cover Maker Online</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mastering-chrono-translocation-techniques/"><u>[New] Mastering Chrono-Translocation Techniques</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-mastering-cross-platform-media-engines-a-buyers-guide/"><u>[New] Mastering Cross-Platform Media Engines  A Buyer's Guide</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-premium-top-11-list-audio-recording-essentials/"><u>[New] Premium Top 11 List - Audio Recording Essentials</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-step-into-a-world-of-magic-expert-led-guide-to-snapchat-edits/"><u>[New] Step Into a World of Magic  Expert-Led Guide to Snapchat Edits</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-best-price-to-performance-tablets-with-gaming-capabilities-for-2024/"><u>[Updated] Best Price-to-Performance Tablets with Gaming Capabilities for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-how-to-create-engaging-screencasts-a-practical-guide/"><u>[Updated] In 2024, How to Create Engaging Screencasts  A Practical Guide</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-optimizing-techniques-broadcasting-via-obs-to-facebook/"><u>[Updated] Optimizing Techniques  Broadcasting via OBS to Facebook</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-step-by-step-process-for-crafting-a-unique-discord-avatar-pcmobile/"><u>[Updated] Step-by-Step Process for Crafting a Unique Discord Avatar (PC/Mobile)</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-expert-pathway-for-webp-to-jpg-transformation/"><u>2024 Approved  Expert Pathway for WebP-to-JPG Transformation</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-top-8-ar-apps-for-android-and-ios-help-you-see-the-world-of-ar/"><u>2024 Approved Top 8 AR Apps for Android and iOS | Help You See the World of AR</u></a></li>
+<li><a href="https://fox-that.techidaily.com/cant-locate-your-airpods-try-these-11-troubleshooting-steps-with-apples-find-my/"><u>Can't Locate Your AirPods? Try These 11 Troubleshooting Steps with Apple’s 'Find My'</u></a></li>
+<li><a href="https://fox-that.techidaily.com/cant-use-face-id-on-your-iphone-explore-these-14-proven-techniques-for-a-quick-fix/"><u>Can't Use Face ID on Your iPhone? Explore These 14 Proven Techniques for a Quick Fix</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/vate-creativity-20plus-inspiring-youtube-concepts/"><u>Cultivate Creativity  20+ Inspiring YouTube Concepts</u></a></li>
+<li><a href="https://fox-that.techidaily.com/effortless-fixes-for-a-broken-imessage-connection-on-your-ios-and-macos-devices/"><u>Effortless Fixes for a Broken iMessage Connection on Your iOS and macOS Devices</u></a></li>
+<li><a href="https://fox-that.techidaily.com/eight-quick-fixes-when-your-iphones-control-center-wont-respond-get-it-running-smoothly-again/"><u>Eight Quick Fixes When Your iPhone's Control Center Won't Respond – Get It Running Smoothly Again!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/enhancing-your-iphones-spell-check-functionality-six-proven-methods/"><u>Enhancing Your iPhone's Spell Check Functionality: Six Proven Methods</u></a></li>
+<li><a href="https://fox-that.techidaily.com/escape-the-apple-logo-dilemma-proven-steps-to-unstick-your-iphone/"><u>Escape the Apple Logo Dilemma: Proven Steps to Unstick Your iPhone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721462166796-experiencing-audio-fluctuations-with-your-airpods-its-time-to-deactivate-dynamic-head-movement-feature/"><u>Experiencing Audio Fluctuations with Your AirPods? It's Time to Deactivate Dynamic Head Movement Feature</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-a-non-responsive-iphone-home-button-top-5-tips/"><u>Fixing a Non-Responsive iPhone Home Button: Top 5 Tips</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-on-google-pixel-8-by-drfone-android/"><u>How to Bypass FRP on Google Pixel 8?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-get-tech-support-for-your-iphone-with-the-apple-support-app/"><u>How to Get Tech Support for Your iPhone With the Apple Support App</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-tell-if-your-iphone-is-suffering-from-liquid-exposure-top-signs/"><u>How to Tell if Your iPhone Is Suffering From Liquid Exposure: Top Signs</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-poco-x5-by-drfone-android-unlock-android-unlock/"><u>How to unlock Poco X5</u></a></li>
+<li><a href="https://fox-that.techidaily.com/immediate-repairs-needed-troubleshooting-non-responsive-emoji-suggestions-on-ios-devices/"><u>Immediate Repairs Needed: Troubleshooting Non-Responsive Emoji Suggestions on iOS Devices</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-revolutionizing-patient-engagement-with-creative-fb-strategies/"><u>In 2024, Revolutionizing Patient Engagement with Creative FB Strategies</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-home-button-troubles-here-are-5-fast-solutions/"><u>IPhone Home Button Troubles? Here Are 5 Fast Solutions!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/navigating-iphone-photo-storage-difficulties-with-expert-solutions/"><u>Navigating iPhone Photo Storage Difficulties with Expert Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/navigating-the-challenges-of-iphone-photography-tips-and-fixes-for-better-results/"><u>Navigating the Challenges of iPhone Photography: Tips & Fixes for Better Results</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-14-top-rated-free-video-editing-tools-without-watermarks-for-2024/"><u>New 14 Top-Rated Free Video Editing Tools Without Watermarks for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-iphone-nightmare-tackling-the-deadly-black-screen-problem/"><u>Overcoming iPhone Nightmare: Tackling the Deadly Black Screen Problem</u></a></li>
+<li><a href="https://fox-that.techidaily.com/quick-repairs-for-malfunctioning-widgets-in-just-minutes-ios-edition/"><u>Quick Repairs for Malfunctioning Widgets in Just Minutes – iOS Edition</u></a></li>
+<li><a href="https://fox-that.techidaily.com/reviving-your-idevices-siri-functionality-clear-solutions-for-7-typical-challenges/"><u>Reviving Your iDevice's Siri Functionality: Clear Solutions for 7 Typical Challenges</u></a></li>
+<li><a href="https://fox-that.techidaily.com/reviving-your-iphone-without-button-access-a-step-by-step-guide/"><u>Reviving Your iPhone Without Button Access: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/say-goodbye-to-fuzzy-snapshots-top-7-fixes-for-a-crisp-iphone-photography-experience/"><u>Say Goodbye to Fuzzy Snapshots: Top 7 Fixes for a Crisp iPhone Photography Experience</u></a></li>
+<li><a href="https://fox-that.techidaily.com/secure-and-recover-your-disappearing-iphone-unlocking-the-potential-of-apples-find-my-services/"><u>Secure and Recover Your Disappearing iPhone: Unlocking the Potential of Apple's Find My Services</u></a></li>
+<li><a href="https://fox-that.techidaily.com/silent-earbuds-not-for-long-discover-10-fixes-for-airpods-with-no-sound-or-erratic-audio-quality/"><u>Silent Earbuds? Not for Long! Discover 10 Fixes for AirPods with No Sound or Erratic Audio Quality</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/skyline-your-content-with-these-11-seo-strategies-for-2024/"><u>Skyline Your Content with These 11 SEO Strategies for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/steps-to-take-when-your-iphones-nearby-detection-tool-fails/"><u>Steps to Take When Your iPhone's Nearby Detection Tool Fails</u></a></li>
+<li><a href="https://fox-that.techidaily.com/the-dos-and-donts-avoid-these-5-problems-when-choosing-an-apple-device-for-present-delivery/"><u>The Do's and Don'ts: Avoid These 5 Problems When Choosing an Apple Device for Present Delivery</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-quintessential-quest-for-quality-storytellers-top-8-institutions/"><u>The Quintessential Quest for Quality Storytellers – Top 8 Institutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721462983229-trouble-with-wireless-charge-on-iphone-discover-7-solutions/"><u>Trouble with Wireless Charge on iPhone? Discover 7 Solutions!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-iphone-sound-control-top-7-solutions-for-malfunctioning-volume-buttons/"><u>Troubleshoot iPhone Sound Control: Top 7 Solutions for Malfunctioning Volume Buttons</u></a></li>
+<li><a href="https://fox-that.techidaily.com/understanding-block-alerts-cant-reach-via-imessage-what-next/"><u>Understanding Block Alerts: Can't Reach via iMessage – What Next?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/undoing-the-unintentional-getting-back-your-lost-iphone-notes/"><u>Undoing the Unintentional: Getting Back Your Lost iPhone Notes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unraveling-iphone-ghost-touch-troubles-explore-ten-proven-methods-to-fix-it/"><u>Unraveling iPhone Ghost Touch Troubles: Explore Ten Proven Methods to Fix It</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unraveling-the-mystery-of-iphoneipad-heat-ups-diagnosis-and-remedies-explained/"><u>Unraveling the Mystery of iPhone/iPad Heat-Ups: Diagnosis & Remedies Explained</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-live-shopping-in-china-major-changes-in-the-industry/"><u>Updated In 2024, Live Shopping in China Major Changes in the Industry</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-the-future-of-soundscape-engineering-navigating-through-film-and-video-to-uncover-audio/"><u>Updated The Future of Soundscape Engineering Navigating Through Film and Video to Uncover Audio</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/-your-content-mastering-youtube-ads-for-earnings/"><u>Yield Your Content  Mastering YouTube Ads for Earnings</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "How To: Resolving No Sound During Calls on an iPhone"
-date: 2024-07-17 12:55:58
-updated: 2024-07-20 10:13:12
+date: 2024-07-20T03:14:46.000Z
+updated: 2024-07-21T03:14:46.000Z
 tags:
   - iphone
   - apple
@@ -28,7 +28,7 @@ thumbnail: https://thmb.techidaily.com/50a0e21454dc02c593e958f3f8488f7e3d42941b9
 
 ## 2\. Turn Off Silent Mode
 
-![iPhone Ring/Silent switch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-iphone-when-silent-switch-isn-t-working.jpg)
+![iPhone Ring/Silent switch](https://thmb.techidaily.com/14af88c4727edfc68754682f8d9e5a16b4632ead51b56f451896cf5d83dd52e4.jpg)
 
  If your iPhone is set to Silent mode, it won't ring when you get a call. To fix this, put your phone back in Ring mode by pressing the Ring/Silent switch towards the screen. You'll find this switch on the top-left side of your iPhone, above the volume buttons.
 
@@ -42,6 +42,9 @@ thumbnail: https://thmb.techidaily.com/50a0e21454dc02c593e958f3f8488f7e3d42941b9
 
 ![bluetooth enabled in iphone control center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_7377.JPEG)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
 ![bluetooth disabled in iphone control center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_7378.JPEG)
 
 Close
@@ -73,8 +76,14 @@ Follow these steps to change your iPhone's ringtone:
 2. Tap**Ringtone** .
 3. From here, tap to hear the different tones. When you've found one that suits you, hit**Back** .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Tap Sound & Haptics in iPhone Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/tap-sound--haptics-in-iphone-settings.JPEG)
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Tap Ringtone inside Sound & Haptics iPhone Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/tap-ringtone-inside-sound--haptics-iphone-settings.JPEG)
 
 ![Choose a ringtone in iPhone Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/choose-a-ringtone-in-iphone-settings.JPEG)
@@ -89,10 +98,20 @@ Close
 2. Tap the contact's name.
 3. If you see the**Ringtone** section, you have added a custom tone for this person. Tap**Ringtone** , choose a different tone for them, and tap**Done** when satisfied.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![Tap a contact in iPhone Phone or Contacts app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/tap-a-contact-in-iphone-phone-or-contacts-app.JPEG)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Tap Ringtone inside a Contact Card](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/tap-ringtone-inside-a-contact-card.JPEG)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Choose a Loud Ringtone for the Contact](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/choose-a-loud-ringtone-for-the-contact.JPEG)
 
 Close
@@ -113,6 +132,9 @@ Close
 
 ![enable mobile data in iphone control center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_7380.JPEG)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![iphone settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_7382.JPEG)
 
 ![iphone wifi settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_7379.JPEG)
@@ -135,8 +157,15 @@ Close
 
 ![Tap Calls on Other Devices in iPhone Phone Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/tap-calls-on-other-devices-in-iphone-phone-settings.JPEG)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 ![Calls on Other Devices Screen in iPhone Phone Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/calls-on-other-devices-screen-in-iphone-phone-settings.JPEG)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Calls on Other Devices turned off in iPhone Phone Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/calls-on-other-devices-turned-off-in-iphone-phone-settings.JPEG)
 
 Close
@@ -147,8 +176,14 @@ Close
 
  Go to**Settings > General > Software Update** to see if a new iOS version is available for your device. Additionally,[update your iPhone apps](https://www.makeuseof.com/how-to-manually-or-automatically-update-apps-iphone/) like WhatsApp, Skype, and Zoom to ensure app-specific bugs aren't causing the issue.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 ![iphone settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/img_6668.JPEG)
 
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
 ![iphone general settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/img_6731.JPEG)
 
 Close
@@ -157,14 +192,23 @@ Close
 
 ![iphone general settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_7383.JPEG)
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![transfer or reset iphone settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_7384.JPEG)
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ![transfer or reset iphone settings confirmation window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_7385.JPEG)
 
 Close
 
  It's a bit of a hassle, but it confirms that no settings prevent your iPhone from ringing when you get a call or text.
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Hopefully, Your iPhone Rings Perfectly Now
 
  The problem with your iPhone not ringing should be fixed by now, ensuring you don't miss any future calls or texts. To check, ask a friend or family member to call you, or try calling yourself from a Google Voice number instead.
@@ -185,3 +229,46 @@ Close
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/updated-exclusive-mp4-uploader-to-facebook-platform-for-2024/"><u>[Updated] Exclusive MP4 Uploader to Facebook Platform for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-podcasters-guide-to-premium-recorders-for-2024/"><u>[Updated] Podcaster's Guide to Premium Recorders for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-unlock-the-potential-of-mac-for-top-tier-ootd-tiktoks-for-2024/"><u>[Updated] Unlock the Potential of Mac for Top-Tier OOTD TikToks for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/11-effective-solutions-for-continuous-airpod-connection-stability-with-iphone/"><u>11 Effective Solutions for Continuous AirPod Connection Stability with iPhone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-comprequad-video-captioning-techniques-for-youtube/"><u>2024 Approved  The Comprequad Video Captioning Techniques for YouTube</u></a></li>
+<li><a href="https://fox-that.techidaily.com/a-comprehensive-tutorial-on-fixing-iphone-black-screen-malfunction/"><u>A Comprehensive Tutorial on Fixing iPhone Black Screen Malfunction</u></a></li>
+<li><a href="https://fox-that.techidaily.com/get-imessage-working-again-easy-fixes-for-ios-and-mac-users/"><u>Get iMessage Working Again: Easy Fixes for iOS & Mac Users</u></a></li>
+<li><a href="https://fox-that.techidaily.com/get-it-right-proven-tricks-to-make-your-airpods-switch-smoothly-amongst-your-entire-apple-ecosystem/"><u>Get It Right: Proven Tricks to Make Your AirPods Switch Smoothly Amongst Your Entire Apple Ecosystem</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-prevent-autocorrect-slip-ups-and-improve-spelling-accuracy-on-iphones-6-key-methods/"><u>How to Prevent Autocorrect Slip-Ups & Improve Spelling Accuracy on iPhones, 6 Key Methods</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-solve-no-more-characters-left-message-on-iphone/"><u>How to Solve ‘No More Characters Left’ Message on iPhone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/identifying-and-fixing-event-disappearance-problems-within-apples-calendar-app/"><u>Identifying and Fixing Event Disappearance Problems Within Apple's Calendar App</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-nokia-g22-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Nokia G22 to iPhone | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-guard-your-gallery-with-gratis-cloud-and-paid-storage-tiers/"><u>In 2024, Guard Your Gallery with Gratis Cloud & Paid Storage Tiers</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-sky-drones-their-genres/"><u>In 2024, Sky Drones  Their Genres</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-still-using-pattern-locks-with-vivo-t2-pro-5g-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Vivo T2 Pro 5G? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-and-ipad-gift-sending-hurdles-uncover-the-top-five-restrictions-explained/"><u>IPhone & iPad Gift-Sending Hurdles: Uncover the Top Five Restrictions Explained</u></a></li>
+<li><a href="https://fox-that.techidaily.com/mastering-iphone-photo-organization-and-troubleshooting-comprehensive-guide/"><u>Mastering iPhone Photo Organization & Troubleshooting: Comprehensive Guide</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-lost-data-from-samsung-galaxy-m14-5g-by-fonelab-android-recover-data/"><u>Recover lost data from Samsung Galaxy M14 5G</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/removing-advertisements-from-youtube-videos-on-chromefirefox-for-2024/"><u>Removing Advertisements From YouTube Videos on Chrome/Firefox for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolving-issues-with-non-appearing-calendar-entries-on-iphones/"><u>Resolving Issues with Non-Appearing Calendar Entries on iPhones</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolving-mislabelled-faces-a-guide-to-correcting-apple-photos-identifications/"><u>Resolving Mislabelled Faces: A Guide to Correcting Apple Photos Identifications</u></a></li>
+<li><a href="https://fox-that.techidaily.com/restart-reset-repair-mastering-the-art-of-iphoneipad-recovery/"><u>Restart, Reset, Repair: Mastering the Art of iPhone/iPad Recovery</u></a></li>
+<li><a href="https://fox-that.techidaily.com/say-goodbye-to-iphone-wi-fi-issues-discover-the-ultimate-5-fixing-tactics/"><u>Say Goodbye to iPhone Wi-Fi Issues: Discover the Ultimate 5 Fixing Tactics</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solutions-for-accessing-texts-and-calls-during-ios-do-not-disturb-settings-top-8-tips/"><u>Solutions for Accessing Texts and Calls During iOS Do Not Disturb Settings - Top 8 Tips</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solve-iphone-standby-problems-using-our-proven-4-step-method/"><u>Solve iPhone StandBy Problems Using Our Proven 4-Step Method</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-tech-hiccups-the-surprising-benefits-of-restarting-your-mobile-device/"><u>Solving Tech Hiccups: The Surprising Benefits of Restarting Your Mobile Device</u></a></li>
+<li><a href="https://fox-that.techidaily.com/speeding-up-your-slow-iphone-uncovering-the-top-6-troubleshooting-tactics/"><u>Speeding up Your Slow iPhone: Uncovering the Top 6 Troubleshooting Tactics</u></a></li>
+<li><a href="https://fox-http.techidaily.com/srt-playback-guide-on-different-os-platforms/"><u>SRT Playback Guide on Different OS Platforms</u></a></li>
+<li><a href="https://fox-that.techidaily.com/step-by-step-troubleshooting-for-iphone-water-infiltration-and-audio-issues/"><u>Step-by-Step Troubleshooting for iPhone Water Infiltration and Audio Issues</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/the-dynamic-world-of-digital-gifts-a-complete-guide-to-snapchat-gifs/"><u>The Dynamic World of Digital Gifts  A Complete Guide to Snapchat Gifs</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-xiaomi-14-ultra-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Xiaomi 14 Ultra for Streaming | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-9-issues-with-icloud-on-ios-devices-solutions-unveiled/"><u>Top 9 Issues with iCloud on iOS Devices: Solutions Unveiled</u></a></li>
+<li><a href="https://fox-that.techidaily.com/trouble-with-imessage-here-are-7-tips-for-restoring-text-functionality-on-iphone/"><u>Trouble with iMessage? Here Are 7 Tips for Restoring Text Functionality on iPhone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-guide-update-stuck-on-your-iphone-email/"><u>Troubleshooting Guide: Update Stuck on Your iPhone Email</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unbalanced-sound-in-apple-airpods-diagnose-and-correct-loudness-discrepancies/"><u>Unbalanced Sound in Apple AirPods - Diagnose and Correct Loudness Discrepancies</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-best-free-subtitle-makers-online/"><u>Updated 2024 Approved Best Free Subtitle Makers Online</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-from-still-to-motion-the-top-animated-photo-makers-for-2024/"><u>Updated From Still to Motion The Top Animated Photo Makers for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-the-ultimate-virtualdub-alternative-guide-features-and-pricing-for-2024/"><u>Updated The Ultimate Virtualdub Alternative Guide Features and Pricing for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-unlimited-free-face-creation-top-online-resources/"><u>Updated Unlimited Free Face Creation Top Online Resources</u></a></li>
+</ul></div>

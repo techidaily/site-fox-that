@@ -1,7 +1,7 @@
 ---
 title: IDevice Can't Update? Discover These 9 Troubleshooting Tactics!
-date: 2024-07-19 18:43:15
-updated: 2024-07-20 12:55:16
+date: 2024-07-20T03:06:27.968Z
+updated: 2024-07-21T03:06:27.968Z
 tags:
   - iphone
   - apple
@@ -18,6 +18,9 @@ thumbnail: https://thmb.techidaily.com/7699e975f70df77aaaff1f7ff850c80f5528a8664
 
  Let's look at some fixes that will help you get the latest system software running on your device properly. Here's how to fix your iPhone or iPad when it won't let you update iOS or iPadOS.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. Charge Your iPhone or iPad
 
  Let's start with some basics before diving into more advanced troubleshooting. As you probably know, your iPhone won't let you upgrade if you don't have enough battery power. This is to prevent your device from shutting off in the middle of an update, which can cause serious problems.
@@ -26,14 +29,24 @@ thumbnail: https://thmb.techidaily.com/7699e975f70df77aaaff1f7ff850c80f5528a8664
 
  Make sure you plug in your iPhone or iPad and have plenty of battery charge before starting the OS update. It's a good idea to leave it on the charger while the process runs, too. That way, if it takes longer than expected, your phone won't run out of power.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
 ## 2\. Make Sure Your Device Is Eligible for the Update
 
  Over time, Apple drops support for older devices, so not all iPhone and iPad models can update to the latest iOS version. To make sure your device can get the latest release of Apple's mobile operating system, scroll down to the bottom of [Apple's iOS info page](https://www.apple.com/ios/) or [iPadOS info page](https://www.apple.com/ipados/) , where you'll see a box that says**iOS is compatible with these devices** .
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![iOS 16 Compatibility List](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/ios-16-compatibility-list.jpg)
 
  Look for your device name here. If you don't see it, your phone or tablet is too old to get the latest version. This is a [sign it's time to upgrade your iPhone](https://www.makeuseof.com/7-signs-its-time-to-upgrade-your-iphone/) .
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ## 3\. Wait a While Before Updating
 
  If you try to update to the latest version of iOS as soon as it comes out, you might run into trouble. Apple's servers go under heavy load when many thousands of people are trying to update all at once.
@@ -44,12 +57,15 @@ thumbnail: https://thmb.techidaily.com/7699e975f70df77aaaff1f7ff850c80f5528a8664
 
 ## 4\. Force-Restart Your Device
 
-![iPhone in hand with Recovery Mode prompt showing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2018/03/iphone-force-restart-recovery.jpg)
+![iPhone in hand with Recovery Mode prompt showing](https://thmb.techidaily.com/f0b667ebcfe4598116d4b6654429dec8091fa0451fb3d4865d8f30f7e5a361bf.jpg)
 
  A one-off bug can prevent you from updating your iPhone. Restarting your phone will restart its processes and hopefully clear up any temporary glitches. If a normal shutdown and reboot of your phone doesn't work, follow our [guide to force-restarting your iPhone](https://www.makeuseof.com/tag/restart-iphone-recovery-mode/) to learn how to escalate this process on your specific device.
 
  Once you've done this successfully, you'll see your screen turn black. Afterward, an Apple logo will appear and you'll be greeted by your lock screen. Your device is now fully refreshed, so you can go ahead and try to update again.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## 5\. Free Up Space on Your Device
 
  A lack of device storage is a common culprit for a faulty update process. Luckily, modern versions of iOS and iPadOS help you free up space easily. Here's how:
@@ -83,6 +99,9 @@ Let's look at what these do.
 
  Once you've increased your free space, try the iOS update again. See [more ways to free up space on your iPhone](https://www.makeuseof.com/tag/iphone-storage-full-create-free-space-ios/) if needed.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 6\. Run the Update via iTunes or Finder
 
  While most people are used to updating iOS right on their iPhone, you can still run a system update through your computer with iTunes or Finder. It's not quite as convenient, but can come in handy if the over-the-air update isn't working for you. This is also a solution if you can't create enough free space on your device.
@@ -97,6 +116,10 @@ Let's look at what these do.
 6. Click**Download** .
 7. Once the download is finished, select**Update** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![iPhone Back Up to iTunes 2021](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/iPhone-Back-Up-to-iTunes-2021.png)
 
  Since Apple retired iTunes for Mac starting with macOS Catalina, you'll need to do this through Finder instead. Connect your device to your Mac, open Finder, and click your device's name on the left sidebar. This will bring you to a panel similar to the old iTunes interface, where you can follow the steps above (the necessary controls appear under the**General** tab).
@@ -130,6 +153,9 @@ To reset network settings on your iPhone or iPad:
 
 ![iOS 15 Reset Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/01b-iOS-15-Reset-Menu.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
 ![iOS 15 Reset Network Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/01c-iOS-15-Reset-Network-Settings.png)
 
 Close
@@ -166,6 +192,9 @@ Close
 
  Your device will now revert back to its factory state. Because everything is fresh again, you'll hopefully be able to update without issue. You can [restore your iPhone backup](https://www.makeuseof.com/tag/restore-iphone-ipad-from-backup/) during the setup process.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ## iPhone Updating Troubles: Fixed
 
  It's frustrating when your phone won't let you update. Hopefully, one of these fixes solved your problem and you can now enjoy the latest version of iOS.
@@ -186,3 +215,37 @@ Close
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-ultimate-windows-webcam-compilation/"><u>[New] 2024 Approved  Ultimate Windows Webcam Compilation</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-expert-tips-for-ios-downloading-podcasts-on-iphone/"><u>2024 Approved  Expert Tips for iOS  Downloading Podcasts on iPhone</u></a></li>
+<li><a href="https://change-location.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/6-proven-fixes-to-address-the-resume-downloading-error-during-an-ipod-update-process/"><u>6 Proven Fixes to Address the 'Resume Downloading' Error During an iPod Update Process</u></a></li>
+<li><a href="https://fox-that.techidaily.com/balancing-out-earbud-audio-find-out-why-youre-hearing-more-from-one-airpod-than-the-other/"><u>Balancing Out EarBud Audio: Find Out Why You're Hearing More From One AirPod Than the Other</u></a></li>
+<li><a href="https://fox-that.techidaily.com/effective-solutions-to-handle-roblox-memory-warnings-on-iphone/"><u>Effective Solutions to Handle Roblox Memory Warnings on iPhone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-lava-by-fonelab-android-recover-call-logs/"><u>How To  Restore Missing Call Logs from Lava</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-boot-up-your-broken-iphone-without-pressing-any-button/"><u>How to Boot Up Your Broken iPhone Without Pressing Any Button?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-improve-image-quality-when-iphone-captures-lower-mp-shots/"><u>How to Improve Image Quality When iPhone Captures Lower MP Shots?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-locate-missing-events-on-your-iphones-calendar-app/"><u>How to Locate Missing Events on Your iPhone's Calendar App</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-prevent-frequent-iphone-app-crashes-a-step-by-step-guide/"><u>How to Prevent Frequent iPhone App Crashes: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-resolve-common-iphone-x-problems-a-guide-to-smoother-operation/"><u>How to Resolve Common iPhone X Problems: A Guide to Smoother Operation</u></a></li>
+<li><a href="https://fox-that.techidaily.com/icloud-troubleshooting-for-iphoneipad-restore-functionality-to-your-settings-menu/"><u>ICloud Troubleshooting for iPhone/iPad: Restore Functionality to Your Settings Menu</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-samsung-galaxy-s23-ultra-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Samsung Galaxy S23 Ultra to iPhone | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-tecno-spark-20-proplus-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Tecno Spark 20 Pro+ Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-vivo-x100-pro-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Vivo X100 Pro? | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-icon-mystery-solved-effective-methods-for-bringing-them-back/"><u>IPhone Icon Mystery Solved: Effective Methods for Bringing Them Back</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-touchscreen-failure-identifying-7-common-reasons/"><u>IPhone Touchscreen Failure: Identifying 7 Common Reasons</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721464428076-iphoneipad-keyboard-malfunctions-here-are-six-fixes-you-need-to-try/"><u>IPhone/iPad Keyboard Malfunctions? Here Are Six Fixes You Need to Try!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/lost-volume-control-revive-the-soundscape-of-your-apple-device/"><u>Lost Volume Control: Revive the Soundscape of Your Apple Device</u></a></li>
+<li><a href="https://extra-information.techidaily.com/motorcycles-viewfinder-gems-top-5-helmets-with-hats-for-the-modern-rider/"><u>Motorcycle's Viewfinder Gems – Top 5 Helmets with Hats for the Modern Rider</u></a></li>
+<li><a href="https://fox-that.techidaily.com/revive-your-iphone-solo-expert-techniques-to-reset-without-itunes/"><u>Revive Your iPhone Solo: Expert Techniques to Reset without iTunes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/starting-out-with-iphone-bluetooth-a-step-by-step-tutorial/"><u>Starting Out with iPhone Bluetooth: A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/streamlined-approaches-for-efficient-gif-design-for-2024/"><u>Streamlined Approaches for Efficient GIF Design for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/the-science-behind-automatic-screen-dimming-on-your-iphone-insights-and-tips/"><u>The Science Behind Automatic Screen Dimming on Your iPhone: Insights and Tips</u></a></li>
+<li><a href="https://fox-that.techidaily.com/the-ultimate-guide-solving-hey-siri-problems-for-a-smoother-iphone-experience/"><u>The Ultimate Guide: Solving 'Hey Siri' Problems for a Smoother iPhone Experience</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-apple-devices-solving-itunes-and-finder-iphone-recognition-issues/"><u>Troubleshoot Apple Devices: Solving iTunes and Finder iPhone Recognition Issues</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721465941460-troubleshoot-your-stuck-iphone-home-push-5-effective-remedies/"><u>Troubleshoot Your Stuck iPhone Home Push - 5 Effective Remedies</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unofficial-guide-bypassing-itunes-to-rejuvenate-your-iphone/"><u>Unofficial Guide: Bypassing iTunes to Rejuvenate Your iPhone</u></a></li>
+</ul></div>

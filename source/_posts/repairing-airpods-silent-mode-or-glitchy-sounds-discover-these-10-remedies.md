@@ -1,7 +1,7 @@
 ---
 title: "Repairing AirPods' Silent Mode or Glitchy Sounds: Discover These 10 Remedies"
-date: 2024-07-18 14:35:21
-updated: 2024-07-20 12:38:19
+date: 2024-07-20T03:17:32.660Z
+updated: 2024-07-21T03:17:32.660Z
 tags:
   - iphone
   - apple
@@ -30,6 +30,9 @@ thumbnail: https://thmb.techidaily.com/4e313b1018e0c2499cbd20182728d1887cb747f9b
 * [Update an Android device](https://www.makeuseof.com/how-to-update-your-android-phone/)
 * [Update a Windows PC](https://www.makeuseof.com/tag/update-windows-software-guide/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 ## 2\. Update Your AirPods Firmware
 
  After updating your paired device, you should also update the firmware on your AirPods. This is a little trickier to do because there's no "Update Firmware" button. Instead, follow our guide to [update the firmware on your AirPods](https://www.makeuseof.com/how-to-update-airpods/) . In short, return your AirPods to the Charging Case, connect your paired device to the internet over Wi-Fi, and wait.
@@ -46,8 +49,14 @@ thumbnail: https://thmb.techidaily.com/4e313b1018e0c2499cbd20182728d1887cb747f9b
 
 ![General settings on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/General-settings-on-iPhone.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Accssibility settings on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/Accssibility-settings-on-iPhone.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Audio:Visual settings on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/AudioVisual-settings-on-iPhone.jpg)
 
 Close
@@ -58,14 +67,24 @@ Close
 
  So, return your AirPods to the case and connect it to a charging cable until it's fully charged. Then try using your AirPods again to see if the sound issues are fixed.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ## 5\. Reset the Volume and Re-Pair Your AirPods
 
  You can fix various problems, like when [the audio is too quiet on AirPods](https://www.makeuseof.com/how-to-make-airpods-louder/) , by unpairing and re-pairing the headphones. But before you do that, try turning the audio all the way down. Make sure you're playing some audio through your AirPods while you adjust the volume to make sure you aren't changing the ringer volume instead.
 
  After turning your AirPods all the way down, unpair them from your device and forget the Bluetooth connection. On an iPhone or iPad, you do this by going to **Settings > Bluetooth > \[Your AirPods\] > Forget This Device** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ![iPhone settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/iPhone-settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ![Bluetooth devices on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/Bluetooth-devices-on-iPhone.jpg)
 
 ![Forget device option on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/Forget-device-option-on-iPhone.jpg)
@@ -78,6 +97,9 @@ Close
 
  If your AirPods audio is still not working properly, you may need to reset them completely. This is easy to do—just return your AirPods to the Charging Case and hold the**Setup** button until the light flashes white. We've got a full guide on [how to reset your AirPods](https://www.makeuseof.com/how-to-reset-airpods/) in case you want more detailed instructions.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 7\. Clean the AirPods Microphone and Speaker Grills
 
  It's possible your AirPods don't sound very good because earwax, dirt, or debris is clogging the speaker mesh. Similarly, AirPods Pro may sound glitchy if dirty microphones are causing problems with the active noise cancellation.
@@ -100,6 +122,9 @@ Close
 
 ## 9\. Troubleshoot Your Wi-Fi Connection
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![best long range routers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/best-long-range-routers.jpg)
 
  Image Credit: Aquarius Studio/[Shutterstock](https://www.shutterstock.com/image-photo/modern-wifi-router-on-light-commode-1299587899)
@@ -132,3 +157,54 @@ Close
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-minecraft-masterpieces-creative-buildings-guide-for-2024/"><u>[New] Minecraft Masterpieces  Creative Buildings Guide for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-unlocking-the-power-of-voice-transcription-in-whatsapp-recording/"><u>[Updated] In 2024, Unlocking the Power of Voice Transcription in WhatsApp Recording</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-top-5-free-screen-recorders-on-windows-10-for-2024/"><u>[Updated] Top 5 Free Screen Recorders on Windows 10 for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-connected-platforms-sharing-videos-between-twitter-and-tumblr/"><u>2024 Approved  Connected Platforms  Sharing Videos Between Twitter & Tumblr</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-pro-gopro-filming-techniques-unveiled/"><u>2024 Approved  Pro-Gopro Filming Techniques Unveiled</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/automatic-cycling-of-videos-on-iphone-ease/"><u>Automatic Cycling of Videos on iPhone Ease</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/complete-guide-to-using-google-docs-for-speech-recognition/"><u>Complete Guide to Using Google Docs for Speech Recognition</u></a></li>
+<li><a href="https://fox-that.techidaily.com/discover-the-fate-of-your-facetime-images-tips-on-locating-them/"><u>Discover the Fate of Your FaceTime Images: Tips on Locating Them</u></a></li>
+<li><a href="https://fox-that.techidaily.com/diy-remedies-how-to-remove-liquid-from-iphone-speaker-grills/"><u>DIY Remedies: How to Remove Liquid From iPhone Speaker Grills</u></a></li>
+<li><a href="https://fox-that.techidaily.com/enhancing-your-photography-experience-on-an-iphones-lower-mp-camera/"><u>Enhancing Your Photography Experience on an iPhone's Lower MP Camera</u></a></li>
+<li><a href="https://fox-that.techidaily.com/experiencing-late-text-alerts-on-ios-devices-discover-our-9-key-fixes/"><u>Experiencing Late Text Alerts on iOS Devices? Discover Our 9 Key Fixes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721467995146-fix-misnamed-faces-on-your-macbook-pro-using-simple-steps-learn-how-now/"><u>Fix Misnamed Faces on Your MacBook Pro Using Simple Steps – Learn How Now</u></a></li>
+<li><a href="https://fox-that.techidaily.com/from-black-out-to-bright-insight-fixing-your-iphones-unexpected-screen-problem/"><u>From Black Out to Bright Insight: Fixing Your iPhone's Unexpected Screen Problem</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721468447250-get-your-ios-up-to-date-overcome-update-problems-with-these-9-handy-fixes-for-iphones-and-ipads/"><u>Get Your iOS Up-to-Date: Overcome Update Problems With These 9 Handy Fixes For iPhones and iPads.</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/gigglegrid-generate-visual-jokes-in-minutes/"><u>GiggleGrid  Generate Visual Jokes in Minutes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/hazardous-materials/"><u>Hazardous Materials</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-fix-sim-not-ready-with-message-mmdd-expert-advice-and-solutions/"><u>How To Fix 'SIM Not Ready' With Message (MM/DD) - Expert Advice & Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721453957370-how-to-fix-audio-problems-stop-dynamic-head-tracking-on-your-airpods/"><u>How to Fix Audio Problems: Stop Dynamic Head Tracking on Your AirPods</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-resolve-unsupported-status-of-your-iphone-attachment/"><u>How to Resolve 'Unsupported' Status of Your iPhone Attachment</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-samsung-galaxy-a54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For Samsung Galaxy A54 5G | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/1714082115393-in-2024-best-free-video-cutting-tools-our-expert-picks/"><u>In 2024, Best Free Video Cutting Tools Our Expert Picks</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-elevate-your-videos-start-with-top-youtube-intro-tips/"><u>In 2024, Elevate Your Video's Start with Top YouTube Intro Tips</u></a></li>
+<li><a href="https://fox-that.techidaily.com/ipad-resetting-made-simple-accessing-and-using-device-recovery-mode/"><u>IPad Resetting Made Simple: Accessing and Using Device Recovery Mode</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721470335502-iphone-alerts-missing-discover-7-effective-solutions/"><u>IPhone Alerts Missing? Discover 7 Effective Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-hotspot-not-working-how-to-fix-iphone-tethering/"><u>IPhone Hotspot Not Working? How to Fix iPhone Tethering</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-users-how-to-deal-with-slow-message-alerts-uncover-9-tips-for-faster-texting/"><u>Iphone Users: How to Deal With Slow Message Alerts - Uncover 9 Tips for Faster Texting</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphoneipad-overheating-understand-the-reasons-behind-it-and-fix-them-now/"><u>IPhone/iPad Overheating? Understand the Reasons Behind It & Fix Them Now!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/mastering-iphone-troubleshooting-with-help-from-apples-dedicated-support-app/"><u>Mastering iPhone Troubleshooting with Help From Apple's Dedicated Support App</u></a></li>
+<li><a href="https://fox-that.techidaily.com/navigating-common-iphone-13-difficulties-fixing-top-6-problems/"><u>Navigating Common iPhone 13 Difficulties – Fixing Top 6 Problems</u></a></li>
+<li><a href="https://fox-that.techidaily.com/one-airpod-not-working-heres-what-to-do/"><u>One AirPod Not Working? Here's What to Do</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-iphone-x-irritations-a-guide-to-troubleshooting-the-biggest-issues/"><u>Overcoming iPhone X Irritations: A Guide to Troubleshooting the Biggest Issues</u></a></li>
+<li><a href="https://fox-that.techidaily.com/ready-to-follow-fixes-for-when-your-iphone-mic-stops-working-correctly/"><u>Ready-to-Follow Fixes for When Your iPhone Mic Stops Working Correctly</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolving-the-iphone-blackout-a-step-by-step-guide-for-a-functioning-device/"><u>Resolving the iPhone 'Blackout': A Step-by-Step Guide for a Functioning Device</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolving-the-problem-of-no-siri-suggestions-in-ios-step-by-step-instructions/"><u>Resolving the Problem of No Siri Suggestions in iOS – Step-by-Step Instructions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solutions-when-iphone-iconography-goes-missing-top-troubleshooting-tips/"><u>Solutions When iPhone Iconography Goes Missing: Top Troubleshooting Tips</u></a></li>
+<li><a href="https://fox-that.techidaily.com/step-by-step-guide-repairing-the-dark-screen-glitch-on-iphones/"><u>Step-by-Step Guide: Repairing the Dark Screen Glitch on iPhones</u></a></li>
+<li><a href="https://fox-that.techidaily.com/still-want-to-silence-that-noise-fix-an-iphones-broken-mute-feature-here/"><u>Still Want to Silence That Noise? Fix an iPhone's Broken Mute Feature Here</u></a></li>
+<li><a href="https://fox-that.techidaily.com/struggling-with-delayed-texts-on-iphone-here-are-9-proven-ways-to-get-them-on-time/"><u>Struggling with Delayed Texts on iPhone? Here Are 9 Proven Ways to Get Them On Time</u></a></li>
+<li><a href="https://fox-that.techidaily.com/the-ultimate-cheat-sheet-for-eliminating-ghost-touch-glitch-in-iphones-top-10-tips-and-solutions/"><u>The Ultimate Cheat Sheet for Eliminating Ghost Touch Glitch in iPhones: Top 10 Tips and Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/the-ultimate-trick-to-resetting-your-iphone-without-itunes-dependency/"><u>The Ultimate Trick to Resetting Your iPhone Without iTunes Dependency</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-9-frequent-issues-with-icloud-on-ios-devices-and-solutions/"><u>Top 9 Frequent Issues with iCloud on iOS Devices & Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-siri-issues-top-7-fixes-for-non-responsive-siri-on-iphoneipad/"><u>Troubleshoot Siri Issues: Top 7 Fixes for Non-Responsive Siri on iPhone/iPad</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-icloud-effective-fixes-for-sync-problems/"><u>Troubleshooting iCloud: Effective Fixes for Sync Problems</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-iphone-solutions-when-your-phone-display-wont-turn-off-quickly/"><u>Troubleshooting iPhone: Solutions When Your Phone Display Won't Turn Off Quickly</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/understanding-windows-8s-safety-sequence-how-to-remove-graphics-drivers/"><u>Understanding Windows 8'S Safety Sequence: How to Remove Graphics Drivers</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlocking-full-potential-of-your-iphone-the-ultimate-guide-to-resetting-network-settings/"><u>Unlocking Full Potential of Your iPhone: The Ultimate Guide to Resetting Network Settings</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/virtual-reality-awaits-discovering-top-10-pc-headsets-for-360-videos/"><u>Virtual Reality Awaits  Discovering Top 10 PC Headsets for 360 Videos</u></a></li>
+</ul></div>

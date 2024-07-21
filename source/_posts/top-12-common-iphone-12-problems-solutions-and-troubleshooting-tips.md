@@ -1,7 +1,7 @@
 ---
 title: "Top 12 Common iPhone 12 Problems: Solutions & Troubleshooting Tips"
-date: 2024-07-18 17:48:31
-updated: 2024-07-20 10:37:37
+date: 2024-07-20T03:29:56.694Z
+updated: 2024-07-21T03:29:56.694Z
 tags:
   - iphone
   - apple
@@ -18,6 +18,9 @@ thumbnail: https://thmb.techidaily.com/087d4c396676b014d9cc5b7a27f2781bb19d17612
 
  However, you may experience some issues with iPhone 12 at some point in life. Fortunately, most of these issues are fixable. So, before you consider investing in a new phone, let's dig deeper into the biggest iPhone 12 issues and see how to fix them.
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. No SIM or Invalid SIM Error on iPhone 12
 
  Thanks to Wi-Fi, many people forget the existence of SIM cards. What's the point of dialing from your phone if you are getting facilities to call and message people without extra charges?
@@ -26,6 +29,9 @@ thumbnail: https://thmb.techidaily.com/087d4c396676b014d9cc5b7a27f2781bb19d17612
 
 Before taking it to the nearest Apple Store, try these steps:
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Airplane mode on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Airplane-mode-on-iPhone-1.JPG)
 
 ![Airplane mode off](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Airplane-mode-off-1.JPG)
@@ -45,6 +51,9 @@ Close
 
 ![Software update of iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Software-update-of-iPhone-1.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Update iPhone to the latest OS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Update-iPhone-to-the-latest-OS-1.JPG)
 
 Close
@@ -76,10 +85,16 @@ Close
 
  Usually, it is just a permission-related issue, but you have the option to reset it if needed.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 ## 3\. iPhone 12 Audio Issues
 
  Some iPhone 12 users might come across audio issues. Remember that it's a temporary problem and super easy to fix within a couple of steps. Press the**Ringer** button (left of the iPhone above the Volume buttons) upwards to activate sounds.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Ringer button of iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Ringer-button-of-iPhone.jpg)
 
  Once the ringer is turned ON, here's what you need to do on your iPhone:
@@ -98,6 +113,9 @@ Close
 
 ## 4\. iPhone 12 Bluetooth Issues
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Bluetooth off](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Bluetooth-off.JPG)
 
 ![Bluetooth on](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Bluetooth-on.JPG)
@@ -114,6 +132,9 @@ Close
 
 To fix the Wi-Fi problem, you can try the following steps:
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![General iPhone settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/General-iPhone-Settings-1.JPG)
 
 ![Go to Wi-Fi](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Go-to-Wi-Fi-1.JPG)
@@ -133,14 +154,23 @@ Close
 * Connecting your iPhone 12 to any other available Wi-Fi network.
 * Contacting your internet service provider if nothing seems to work.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 6\. Personal Hotspot Issues on iPhone 12
 
  Your iPhone 12 might have a Personal Hotspot issue where the network keeps dropping. The first step will be to check if Personal Hotspot is still active. Also,[disable Low Data Mode](https://www.makeuseof.com/disable-low-data-mode-iphone/) .
 
 To disconnect and reconnect to the hotspot, here's what you need to do:
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![Personal hotspot off](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Personal-hotspot-off.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Personal hotspot on](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Personal-hotspot-on.JPG)
 
 Close
@@ -157,6 +187,9 @@ Close
 
  Additionally, you can try resetting the network settings. Follow the simple instructions below to do so:
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![General iPhone settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/General-iPhone-Settings-1.JPG)
 
 ![Transfer or reset iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Transfer-or-reset-iPhone.JPG)
@@ -174,6 +207,9 @@ Close
 
  Also, feel free to check out these details if [cellular data is not working on your iPhone](https://www.makeuseof.com/iphone-cellular-data-not-working-fixes/) .
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 8\. iCloud Issues on the iPhone 12
 
  There are [multiple iCloud issues](https://www.makeuseof.com/tag/common-icloud-problems/) that iPhone users might experience. The most common problems include data sync, authentication, storage, and verification.
@@ -182,14 +218,23 @@ Close
 
  When nothing seems to work, troubleshoot your iCloud or seek iCloud support from the official Apple Store.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 9\. Discoloration of the iPhone's Body
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Different iPhone color variants](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Different-iPhone-color-variants.jpg)
 
  The exciting part about iPhone 12 is its color variants. You get several options from red to blue, green, standard black, and many more. However, some users might see discoloration, despite taking relevant measures.
 
  Exposure to sunlight, poor-quality cover, and water contact are the leading causes of discoloration. If your iPhone 12 is discolored but is still under warranty,[book a Genius Bar appointment](https://www.makeuseof.com/apple-store-appointment-genius-bar/) and get professional support from Apple.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 10\. iTunes and App Store Problems
 
  Both the iTunes Store and App Store can sometimes have trouble functioning properly on iPhones, including the iPhone 12\. This can be due to outdated iOS, weak internet connection, or app glitches. Consider the following steps to restore your connection with Apple's servers:
@@ -200,9 +245,12 @@ Close
 
  If that doesn't help, you should browse relevant forums on Reddit to see if others are facing similar issues or start a discussion in [Apple Support Community](https://discussions.apple.com/welcome) .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 11\. Fast Battery Drainage on the iPhone 12
 
-![iPhone 13 MagSafe charging](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/iPhone-13-MagSafe-charging.jpg)
+![iPhone 13 MagSafe charging](https://thmb.techidaily.com/1f2f4c22410ca8169af4ae6d02cdc0eba714608bc6ab4df470b116ebdad1c1fb.jpg)
 
  Over time and constant use, the battery inside your iPhone 12 may start to deteriorate, and that's just unstoppable. However, excessive usage might lead to faster battery drainage. So, change your iPhone charger if you feel your phone isn't holding up the charge as before, especially if you use a third-party one.
 
@@ -238,3 +286,48 @@ Close
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-device-based-access-commence-google-meet-chat/"><u>[New] 2024 Approved  Device-Based Access  Commence Google Meet Chat</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-creating-illusionary-settings-with-instagrams-chroma-key-for-2024/"><u>[New] Creating Illusionary Settings with Instagram’s Chroma Key for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-disableremove-youtube-shorts-permanently-in-2024/"><u>[New] How to Disable/Remove YouTube Shorts Permanently, In 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-strategies-for-retrieving-private-chat-photos/"><u>[New] In 2024, Strategies for Retrieving Private Chat Photos</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-top-social-network-sites-for-youtube-growth/"><u>[New] In 2024, Top Social Network Sites for YouTube Growth</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-optimizing-screen-captures-expert-techniques-for-hp-laptops/"><u>[Updated] 2024 Approved  Optimizing Screen Captures  Expert Techniques for HP Laptops</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/2024-approved-the-updated-list-of-video-sharing-apps-to-consider-over-tiktok/"><u>2024 Approved  The Updated List of Video Sharing Apps to Consider Over TikTok</u></a></li>
+<li><a href="https://fox-that.techidaily.com/7-common-culprsits-to-weak-mobile-internet-via-wi-fi-know-them-inside-out/"><u>7 Common Culprsits to Weak Mobile Internet Via Wi-Fi: Know Them Inside Out</u></a></li>
+<li><a href="https://fox-that.techidaily.com/7-proven-tips-to-fix-texting-issues-on-your-iphone/"><u>7 Proven Tips to Fix Texting Issues on Your iPhone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/addressing-location-not-available-errors-a-step-by-step-guide-to-get-your-iphone-back-online/"><u>Addressing 'Location Not Available' Errors: A Step-by-Step Guide to Get Your iPhone Back Online</u></a></li>
+<li><a href="https://fox-that.techidaily.com/cant-get-new-apps-on-your-iphone-10-quick-wins-to-resolve-the-problem/"><u>Can't Get New Apps on Your iPhone? 10 Quick Wins to Resolve the Problem</u></a></li>
+<li><a href="https://fox-that.techidaily.com/comprehensive-solution-to-iphone-usb-c-liquid-sensor-error/"><u>Comprehensive Solution to iPhone USB-C Liquid Sensor Error</u></a></li>
+<li><a href="https://fox-that.techidaily.com/detecting-when-youve-been-blocked-on-imessage-a-step-by-step-guide/"><u>Detecting When You've Been Blocked on iMessage – A Step-by-Step Guide</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-photos-from-infinix-smart-8-by-fonelab-android-recover-photos/"><u>Easy steps to recover deleted photos from Infinix Smart 8.</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/elevate-your-content-with-advanced-tiktok-symbol-knowledge/"><u>Elevate Your Content with Advanced TikTok Symbol Knowledge</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fix-a-broken-face-id-on-your-iphone-with-this-list-of-14-quick-solutions/"><u>Fix a Broken Face ID on Your iPhone with This List of 14 Quick Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-call-reception-problems-for-iphones-what-steps-to-take-when-no-one-gets-through/"><u>Fixing Call Reception Problems for iPhones – What Steps To Take When No One Gets Through?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-iphone-woes-start-with-a-network-settings-restore/"><u>Fixing iPhone Woes? Start with a Network Settings Restore</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-persistent-issues-the-top-4-solutions-for-iphones-stuck-in-standby-mode/"><u>Fixing Persistent Issues: The Top 4 Solutions for iPhones Stuck in Standby Mode</u></a></li>
+<li><a href="https://fox-that.techidaily.com/get-back-in-synch-7-essential-steps-to-fix-icloud-photo-sync-problems-on-iphone/"><u>Get Back in Synch: 7 Essential Steps to Fix iCloud Photo Sync Problems on iPhone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-location-on-facebook-dating-for-your-honor-x9a-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Honor X9a | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/in-2024-quick-paths-to-expanding-your-tiktok-clans-reach/"><u>In 2024, Quick Paths to Expanding Your TikTok Clan's Reach</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-deleted-images-that-wont-disappear-uncover-the-reasons-and-repairs/"><u>IPhone Deleted Images That Won't Disappear: Uncover the Reasons & Repairs</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-touchscreen-troubleshooting-discover-the-seven-reasons-for-lack-of-response/"><u>IPhone Touchscreen Troubleshooting: Discover the Seven Reasons for Lack of Response</u></a></li>
+<li><a href="https://fox-that.techidaily.com/navigate-through-these-easiest-fixes-addressing-9-predominant-icloud-problems-in-ios/"><u>Navigate Through These Easiest Fixes: Addressing 9 Predominant iCloud Problems in iOS</u></a></li>
+<li><a href="https://fox-that.techidaily.com/proximity-sensor-problems-on-iphones-what-you-need-to-know-and-how-to-repair-them/"><u>Proximity Sensor Problems on iPhones: What You Need to Know and How to Repair Them</u></a></li>
+<li><a href="https://fox-that.techidaily.com/qr-codes-not-reading-properly-on-your-iphone-attempt-these-10-remedies/"><u>QR Codes Not Reading Properly on Your iPhone? Attempt These 10 Remedies</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolve-iphone-control-center-problems-with-these-8-easy-steps/"><u>Resolve iPhone Control Center Problems with These 8 Easy Steps</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolving-iphones-black-screen-issue-a-step-by-step-guide/"><u>Resolving iPhone's Black Screen Issue: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/retrieve-accidentally-erased-iphone-reminders-with-these-simple-steps/"><u>Retrieve Accidentally Erased iPhone Reminders with These Simple Steps</u></a></li>
+<li><a href="https://fox-that.techidaily.com/revitalize-your-iphone-how-restoring-network-preferences-can-resolve-various-problems/"><u>Revitalize Your iPhone: How Restoring Network Preferences Can Resolve Various Problems</u></a></li>
+<li><a href="https://fox-that.techidaily.com/say-goodbye-to-fluctuating-screens-uncover-these-7-remedies-for-your-flickering-smartphone-display/"><u>Say Goodbye to Fluctuating Screens: Uncover These 7 Remedies for Your Flickering Smartphone Display</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-the-issue-preventing-spotify-app-from-closing-on-iphone-lock/"><u>Solving the Issue: Preventing Spotify App From Closing on iPhone Lock</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-the-problem-of-missing-texts-from-android-on-your-iphone-a-step-by-step-guide/"><u>Solving the Problem of Missing Texts From Android on Your iPhone – A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/step-by-step-guide-to-disable-cross-device-connection-for-airpods-on-apple-ecosystem/"><u>Step-by-Step Guide to Disable Cross-Device Connection for AirPods on Apple Ecosystem</u></a></li>
+<li><a href="https://fox-that.techidaily.com/struggling-to-store-your-data-in-icloud-from-iphone-try-these-9-fixes/"><u>Struggling to Store Your Data in iCloud From iPhone? Try These 9 Fixes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721456613199-struggling-with-your-iphones-home-button-try-our-5-swift-repairs/"><u>Struggling with Your iPhone's Home Button? Try Our 5 Swift Repairs</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/the-art-of-mastering-funimate-for-2024/"><u>The Art of Mastering Funimate for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-guide-solving-your-facetime-connectivity-issues-with-top-15-remedies/"><u>Troubleshooting Guide: Solving Your FaceTime Connectivity Issues with Top 15 Remedies</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-wi-fi-issues-top-8-solutions-for-iphoneipad-connection-woes/"><u>Troubleshooting Wi-Fi Issues: Top 8 Solutions for iPhone/iPad Connection Woes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/ultimate-guide-resolving-issues-with-non-functional-airplay/"><u>Ultimate Guide: Resolving Issues with Non-Functional AirPlay</u></a></li>
+</ul></div>

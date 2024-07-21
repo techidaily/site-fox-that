@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Fixing a Non-Responsive Proximity Sensor on an iPhone"
-date: 2024-07-18 19:58:53
-updated: 2024-07-20 12:26:14
+date: 2024-07-20T03:07:48.766Z
+updated: 2024-07-21T03:07:48.766Z
 tags:
   - iphone
   - apple
@@ -18,8 +18,15 @@ thumbnail: https://thmb.techidaily.com/8ce47f0b6f9813f5bc22a10ae1035723a396d6df9
 
  iPhones are no different, and just like other phones, your iPhone's proximity sensor could get damaged or become unresponsive. If you run into this issue, there are some actions you could take to isolate the problem and fix it.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ## How to Test the Proximity Sensor on an iPhone
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![A gray iPhone 6 on a woman's ear](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/a-gray-iphone-6-on-a-woman-s-ear.jpg)
 
  The iPhone's proximity sensor uses infrared light from an emitter at the top of your screen. The sensor measures how long it takes for the rays to reflect off a surface to determine the distance.
@@ -59,8 +66,14 @@ Here are some things you could do to check if it's working:
 
  Head to**Settings > General > Software Update** and let the phone scan for updates. If any update appears, select**Download and Install** .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![iPhone searching for updates in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-searching-for-updates-in-settings.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Software update information on iOS for iOS 16.6](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/software-update-information-on-ios-for-ios-16-6.jpeg)
 
 ![Update terms and conditions on iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/update-terms-and-conditions-on-ios.jpeg)
@@ -69,8 +82,18 @@ Close
 
  Your phone will restart a couple of times, but it will stabilize when it's finished. Test the proximity sensor again using our steps above.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
 ### 4\. Remove the Screen Protector
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 ![man applying screen protector to smartphone feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/man-applying-screen-protector-to-smartphone-feature.jpg)
 
  Image Credit: Nor Gal/[Shutterstock](https://www.shutterstock.com/image-photo/man-replacing-broken-tempered-glass-screen-1106925758)
@@ -116,3 +139,37 @@ Here's a brief rundown of how to do it:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-screenflow-mastery-for-mac-users-a-critical-look/"><u>[New] 2024 Approved  ScreenFlow Mastery for Mac Users – A Critical Look</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-conversion-wizards-turning-vids-into-audible-files-on-pinterest-for-2024/"><u>[New] Conversion Wizards  Turning Vids Into Audible Files on Pinterest for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-gaming-galaxys-wackiest-titles-tiktok-edition/"><u>[New] Gaming Galaxy's Wackiest Titles - TikTok Edition</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-navigating-youtube-shorts-investments/"><u>[Updated] Navigating YouTube Shorts Investments</u></a></li>
+<li><a href="https://fox-that.techidaily.com/comprehensive-guide-to-fixing-iphones-inability-to-upload-data-to-icloud-a-closer-look-at-9-techniques/"><u>Comprehensive Guide to Fixing iPhone's Inability to Upload Data to iCloud: A Closer Look at 9 Techniques</u></a></li>
+<li><a href="https://fox-that.techidaily.com/diagnosing-and-repairing-your-iphones-black-display-error/"><u>Diagnosing and Repairing Your iPhone’s Black Display Error</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-the-issue-of-phone-number-display-errors-in-imessage-conversations/"><u>Fixing the Issue of Phone Number Display Errors in iMessage Conversations</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-improve-image-quality-on-iphones-with-lower-megapixel-cameras/"><u>How to Improve Image Quality on iPhones with Lower Megapixel Cameras</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-turning-off-two-factor-authentication-on-iphone-15-plus-5-tips-you-must-know-by-drfone-ios/"><u>In 2024, Turning Off Two Factor Authentication On iPhone 15 Plus? 5 Tips You Must Know</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphoneipad-cloud-woes-uncover-the-9-most-frequent-icloud-problems-and-their-fixes/"><u>IPhone/iPad Cloud Woes? Uncover the 9 Most Frequent iCloud Problems and Their Fixes</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/key-approaches-to-building-effective-youtube-collaborations/"><u>Key Approaches to Building Effective YouTube Collaborations</u></a></li>
+<li><a href="https://fox-that.techidaily.com/master-the-art-of-keeping-your-iphones-inbox-fresh-and-updated/"><u>Master the Art of Keeping Your iPhone's Inbox Fresh and Updated</u></a></li>
+<li><a href="https://fox-that.techidaily.com/mastering-imessage-restoration-a-users-guide-to-fixing-it-on-iphoneipadmac/"><u>Mastering iMessage Restoration: A User's Guide to Fixing It on iPhone/iPad/Mac</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/maximize-views-with-these-14-premier-youtube-gaming-videos-for-2024/"><u>Maximize Views with These 14 Premier YouTube Gaming Videos for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-web-wonders-discovering-the-top-10-online-havens-to-unwind-and-relax-this-year/"><u>New 2024 Approved Web Wonders Discovering the Top 10 Online Havens to Unwind and Relax This Year</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcome-locked-screens-a-guide-to-activating-iphones-landscape-mode-feature/"><u>Overcome Locked Screens: A Guide to Activating iPhone's Landscape Mode Feature</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-iphone-text-disruptions-7-essential-troubleshooting-steps/"><u>Overcoming iPhone Text Disruptions: 7 Essential Troubleshooting Steps</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/pro-level-hdr-mastery-your-compre-point-of-entry/"><u>Pro Level HDR Mastery  Your Compre Point of Entry</u></a></li>
+<li><a href="https://fox-that.techidaily.com/six-proven-methods-to-resume-or-complete-a-frozen-ios-software-installation/"><u>Six Proven Methods to Resume or Complete a Frozen iOS Software Installation</u></a></li>
+<li><a href="https://fox-that.techidaily.com/sluggish-iphone-discover-6-reasons-and-quick-remedies/"><u>Sluggish iPhone? Discover 6 Reasons and Quick Remedies</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solve-unwanted-sound-movement-turn-off-head-tracking-feature-for-airpods/"><u>Solve Unwanted Sound Movement: Turn Off Head-Tracking Feature for AirPods</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-common-iphone-issues-with-easy-dfu-mode-fixes/"><u>Solving Common iPhone Issues with Easy DFU Mode Fixes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/strategies-for-better-photography-on-iphones-with-smaller-sensors/"><u>Strategies for Better Photography on iPhones with Smaller Sensors</u></a></li>
+<li><a href="https://fox-that.techidaily.com/the-inside-scoop-on-the-iphone-14s-battery-lifespan-and-potential-problems/"><u>The Inside Scoop on the iPhone 14'S Battery Lifespan and Potential Problems</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-17-fixes-for-restoring-hey-siri-feature-when-it-stops-responding-on-your-iphone/"><u>Top 17 Fixes for Restoring 'Hey Siri' Feature When It Stops Responding On Your iPhone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-7-frustrating-issues-with-iphone-x-solutions-inside/"><u>Top 7 Frustrating Issues with iPhone X: Solutions Inside</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-chatgpt-how-to-resolve-iphone-app-issues-with-9-proven-solutions/"><u>Troubleshooting ChatGPT: How to Resolve iPhone App Issues with 9 Proven Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/tutorial-ensuring-your-airpods-stay-connected-with-only-one-iphoneipad/"><u>Tutorial: Ensuring Your AirPods Stay Connected with Only One iPhone/iPad</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unlock-your-video-potential-nine-superior-stream-filters/"><u>Unlock Your Video Potential  Nine Superior Stream Filters</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unstick-your-iphones-voice-assistant-effective-fixes-for-dictation-woes/"><u>Unstick Your iPhone's Voice Assistant: Effective Fixes for Dictation Woes</u></a></li>
+</ul></div>

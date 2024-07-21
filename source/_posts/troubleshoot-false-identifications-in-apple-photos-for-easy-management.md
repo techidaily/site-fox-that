@@ -1,7 +1,7 @@
 ---
 title: Troubleshoot False Identifications in Apple Photos for Easy Management
-date: 2024-07-17 22:36:46
-updated: 2024-07-20 10:57:57
+date: 2024-07-20T03:30:29.253Z
+updated: 2024-07-21T03:30:29.253Z
 tags:
   - iphone
   - apple
@@ -18,6 +18,13 @@ thumbnail: https://thmb.techidaily.com/b47fd0e753c3df7e85d7c99e9dd6f25592469353c
 
  Here's how you can review photos of identified people in the Photos app and fix any cases of mistaken identity, where your iPhone has tagged one person as someone else.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
 ## How to Review People in Photos on an iPhone or iPad
 
  To search for any misidentified photos of someone, you should first review your confirmed and uncategorized photos for that person to help your device learn what each person is supposed to look like. Here's how to do that:
@@ -27,16 +34,28 @@ thumbnail: https://thmb.techidaily.com/b47fd0e753c3df7e85d7c99e9dd6f25592469353c
 3. You should now see photos of this person. Tap on any picture of someone else to deselect it and press**Done** . If you don't see any, tap**Review More Photos** .
 4. A popup will appear with a photo, asking**Is This X?** Tap**Yes** or**No** . Your device will automatically take you through all the photos for review. If you get tired at any point, just tap**Done** and you will go back to your previous page.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ![review confirmed photos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/review-confirmed-photos.PNG)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![review more photos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/review-more-photos.PNG)
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![confirm person](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/confirm-person.PNG)
 
 Close
 
  Read More:[Tips That Will Help You Master the People Album in Photos](https://www.makeuseof.com/tips-to-master-people-album-photos-iphone/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ## How to Fix Misidentified People in Photos on iPhone or iPad
 
  If your iPhone has misidentified someone in a photo, they won't show up when you search for them and instead Photos will save pictures of them in someone else's album. What's more, that person—who might be a stranger—will show up in the People album for whoever your iPhone thinks they are! Here's how to fix it:
@@ -46,6 +65,9 @@ Close
 3. Hit the**Share** button in the bottom-left corner of your screen.
 4. Choose**This is Not X** , and the selected photos will be removed from that album.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![select photos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/select-photos.PNG)
 
 ![this is not X option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/this-is-not-X-option.PNG)
@@ -85,3 +107,42 @@ Close
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/fficiently-upload-and-render-youtube-videos-with-precision-for-2024/"><u>[New] Efficiently Upload and Render YouTube Videos with Precision for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-prime-pixels-selecting-cameras-for-quality-slow-videos/"><u>[New] Prime Pixels  Selecting Cameras for Quality Slow Videos</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-prime-time-video-capture-for-windows-users-10-best/"><u>[Updated] 2024 Approved  Prime Time Video Capture for Windows Users - 10 Best</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-elevating-your-tiktok-presence-the-essential-20-caption-list/"><u>[Updated] In 2024, Elevating Your TikTok Presence  The Essential 20 Caption List</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-ultimate-guide-to-free-and-premium-short-video-clips/"><u>[Updated] Ultimate Guide to Free & Premium Short Video Clips</u></a></li>
+<li><a href="https://fox-that.techidaily.com/4-effective-methods-to-restore-iphone-standby-functionality/"><u>4 Effective Methods to Restore iPhone Standby Functionality</u></a></li>
+<li><a href="https://fox-that.techidaily.com/6-key-tips-to-get-your-airpods-to-auto-switch-between-apple-gadgets-flawlessly/"><u>6 Key Tips to Get Your AirPods to Auto-Switch Between Apple Gadgets Flawlessly</u></a></li>
+<li><a href="https://fox-that.techidaily.com/chatgpt-not-working-here-are-9-fixes-for-your-iphone-problems/"><u>ChatGPT Not Working? Here Are 9 Fixes for Your iPhone Problems</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-iphones-silent-volume-buttons-made-easy-with-7-diy-fixes/"><u>Fixing iPhones' Silent Volume Buttons Made Easy with 7 DIY Fixes</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-oneplus-12r-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your OnePlus 12R to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Vivo Y78 5G? | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-restore-siri-suggestions-on-your-iphone-when-they-disappear-unexpectedly/"><u>How to Restore Siri Suggestions on Your iPhone When They Disappear Unexpectedly</u></a></li>
+<li><a href="https://fox-that.techidaily.com/identifying-and-repairing-your-iphones-display-difficulties-a-guide/"><u>Identifying and Repairing Your iPhone's Display Difficulties: A Guide</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-easy-ways-to-factory-reset-a-locked-iphone-12-pro-max-without-itunes-by-drfone-ios/"><u>In 2024, 3 Easy Ways to Factory Reset a Locked iPhone 12 Pro Max Without iTunes</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-a-deep-dive-into-youtube-app-features-on-smartphones/"><u>In 2024, A Deep Dive Into YouTube App Features on Smartphones</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-samsung-galaxy-s23-fe-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Samsung Galaxy S23 FE Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-step-into-a-world-of-eye-catching-imagery-at-pexels/"><u>In 2024, Step Into a World of Eye-Catching Imagery at Pexels</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-oppo-a58-4g-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Oppo A58 4G? | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-control-center-malfunctioning-discover-these-8-effective-solutions/"><u>IPhone Control Center Malfunctioning? Discover These 8 Effective Solutions</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/listeners-lens-sound-study-for-2024/"><u>Listener's Lens  Sound Study for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcome-your-safari-full-page-snapshot-woes-with-these-effective-techniques/"><u>Overcome Your Safari Full-Page Snapshot Woes with These Effective Techniques</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solution-for-handling-multiple-shots-of-the-same-person-in-your-gallery-on-iphone-or-mac/"><u>Solution for Handling Multiple Shots of the Same Person in Your Gallery on iPhone or Mac</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solve-airdrop-issues-quickly-discover-the-top-16-remedies/"><u>Solve AirDrop Issues Quickly: Discover the Top 16 Remedies!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solve-iphone-stagnation-effective-techniques-when-its-frozen-on-the-apple-icon/"><u>Solve iPhone Stagnation: Effective Techniques When It's Frozen on the Apple Icon</u></a></li>
+<li><a href="https://fox-that.techidaily.com/step-by-step-fix-for-no-more-lines-available-message-on-your-iphone-screen/"><u>Step-by-Step Fix for 'No More Lines Available' Message on Your iPhone Screen</u></a></li>
+<li><a href="https://fox-that.techidaily.com/struggle-no-more-10-essential-fixes-when-iphones-fail-to-download-new-applications/"><u>Struggle No More: 10 Essential Fixes When iPhones Fail To Download New Applications</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721470655963-struggling-with-iphones-vpn-connection-issues-here-are-7-quick-fixes/"><u>Struggling with iPhone's VPN Connection Issues? Here Are 7 Quick Fixes.</u></a></li>
+<li><a href="https://fox-that.techidaily.com/thawing-out-your-iphone-expert-tips-for-defrosting-the-screen/"><u>Thawing Out Your iPhone: Expert Tips for Defrosting the Screen</u></a></li>
+<li><a href="https://fox-that.techidaily.com/the-journey-of-facetime-snaps-discover-their-hidden-location/"><u>The Journey of FaceTime Snaps: Discover Their Hidden Location</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/the-ultimate-mix-of-youtube-and-instagram-feeds/"><u>The Ultimate Mix of YouTube & Instagram Feeds</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-7-prevalent-iphone-screen-problems-and-their-solutions/"><u>Top 7 Prevalent iPhone Screen Problems and Their Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-8-iphone-accessibility-options-for-users-with-visual-impairments/"><u>Top 8 iPhone Accessibility Options for Users with Visual Impairments</u></a></li>
+<li><a href="https://fox-that.techidaily.com/ultimate-iphone-assistance-discovering-15-crucial-tips-for-troubleshooting-across-models/"><u>Ultimate iPhone Assistance: Discovering 15 Crucial Tips for Troubleshooting Across Models</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlocking-the-mystery-14-tips-for-troubleshooting-iphones-unresponsive-face-id-feature/"><u>Unlocking the Mystery: 14 Tips for Troubleshooting iPhone's Unresponsive Face ID Feature</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721446042202-why-arent-siris-smart-tips-appearing-resolve-this-iphone-issue-now/"><u>Why Aren’t Siri's Smart Tips Appearing? Resolve This iPhone Issue Now.</u></a></li>
+</ul></div>

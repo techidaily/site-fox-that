@@ -1,7 +1,7 @@
 ---
 title: "WhatsApp & iCloud: Making Sure Your Conversations Are Securely Saved in the Cloud"
-date: 2024-07-19 19:57:10
-updated: 2024-07-20 10:56:40
+date: 2024-07-20T03:29:55.934Z
+updated: 2024-07-21T03:29:55.934Z
 tags:
   - iphone
   - apple
@@ -20,10 +20,16 @@ thumbnail: https://thmb.techidaily.com/6a865e452463a91a0991eeba9d7367cf47a6e9f95
 
 ## 1\. Check if WhatsApp Is Enabled for iCloud Backup
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ![name in iphone settings-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/name-in-iphone-settings-1.jpg)
 
 ![icloud settings in iphone settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/icloud-settings-in-iphone-settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![show all option in icloud iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/show-all-option-in-icloud-iphone.jpg)
 
 ![apps using icloud in iphone settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/apps-using-icloud-in-iphone-settings.jpg)
@@ -40,8 +46,19 @@ Close
 
 ![chat backup option in whatsapp](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/chat-backup-option-in-whatsapp.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![chats section in whatsapp](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/chats-section-in-whatsapp.jpg)
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Whatsapp chat backup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/whatsapp-chat-backup.jpg)
 
 Close
@@ -58,14 +75,24 @@ To check your available iCloud storage space:
 2. The information regarding the used and**available iCloud space** will be available at the top.
 3. If the backup size is larger than the space available on your iCloud, go to**Manage Account Storage** . Here you can review any large files and delete them. You can even [upgrade your iCloud storage](https://www.makeuseof.com/how-to-upgrade-icloud-storage/) if additional space is required.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![icloud settings in iphone settings-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/icloud-settings-in-iphone-settings-1.jpg)
 
 ![manage account storage option in iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/manage-account-storage-option-in-iphone.jpg)
 
 Close
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. Perform a Manual Backup on WhatsApp
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
 ![chat backup option in whatsapp-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/chat-backup-option-in-whatsapp-1.jpg)
 
 ![Backing up now in Whatsapp](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/backing-up-now-in-whatsapp.jpg)
@@ -81,6 +108,9 @@ Here's how you can do that:
 
  While not necessary, consider keeping WhatsApp open during this manual backup. This means not swiping the WhatsApp page up in the app switcher. You may use other apps or put your iPhone to sleep during this time though.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. Check the iCloud Server Status
 
 ![Apple server status](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/apple-server-status.jpeg)
@@ -89,6 +119,9 @@ Here's how you can do that:
 
  If the circle beside**iCloud Backup** isn't green, consider backing up WhatsApp once it is working again.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ## 5\. Restart Your iPhone
 
  Restarting your iPhone will fix a number of software-related issues, including those involving iCloud backups.
@@ -104,6 +137,9 @@ To restart your device:
 
 ![General Section in iPhone Setttings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/general-section-in-iphone-setttings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Software Update in iPhone General Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/software-update-in-iphone-general-settings.jpg)
 
 Close
@@ -133,6 +169,9 @@ To do this, follow these steps:
 
 ![whatsapp messenger section in icloud settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/whatsapp-messenger-section-in-icloud-settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![whatsapp data in icloud](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/whatsapp-data-in-icloud.jpg)
 
 Close
@@ -164,3 +203,47 @@ Close
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-advanced-techniques-in-removing-tiktok-brand-images-for-2024/"><u>[New] Advanced Techniques in Removing TikTok Brand Images for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-how-to-change-name-in-google-meet-in-2024/"><u>[New] How to Change Name in Google Meet, In 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-freshest-facelets-on-the-net-moving-graphics/"><u>[New] In 2024, Freshest Facelets on the Net  Moving Graphics</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-pro-converter-mp4-videos-for-social-media-fb-focus/"><u>[New] Pro Converter  MP4 Videos for Social Media (FB Focus)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-20-zero-cost-pubg-visual-anthologies/"><u>[New] Top 20 Zero-Cost PUBG Visual Anthologies</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-transform-your-movies-tips-for-amazing-slow-motion-on-android-phones/"><u>[New] Transform Your Movies  Tips for Amazing Slow Motion on Android Phones</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-retro-yet-current-top-10-songs-from-tiktok-that-never-end/"><u>[Updated] Retro Yet Current  Top 10 Songs From TikTok That Never End</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-zooming-ahead-with-the-best-audio-to-text-applications-freepaid/"><u>[Updated] Zooming Ahead with the Best Audio to Text Applications (Free/Paid)</u></a></li>
+<li><a href="https://fox-that.techidaily.com/8-key-ios-tweaks-for-improving-smartphone-navigation-with-impaired-sight/"><u>8 Key iOS Tweaks for Improving Smartphone Navigation with Impaired Sight</u></a></li>
+<li><a href="https://fox-that.techidaily.com/cant-adjust-your-iphones-volume-try-our-effective-guide-and-7-problem-solving-steps/"><u>Can't Adjust Your iPhone's Volume? Try Our Effective Guide and 7 Problem-Solving Steps</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721476781818-cant-upgrade-your-iphone-or-ipad-os-unblock-the-pathway-with-these-9-methods/"><u>Can't Upgrade Your iPhone or iPad OS? Unblock the Pathway with These #9 Methods.</u></a></li>
+<li><a href="https://fox-that.techidaily.com/expert-tips-activating-ipads-recovery-mode-easily/"><u>Expert Tips: Activating iPad's Recovery Mode Easily</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/explore-the-advanced-tools-to-help-you-reshape-the-art-of-sky-replacement-in-digital-imagery-discover-methods-to-enhance-your-visual-narratives-through-ai.m/"><u>Explore the Advanced Tools to Help You Reshape the Art of Sky Replacement in Digital Imagery. Discover Methods to Enhance Your Visual Narratives Through AI</u></a></li>
+<li><a href="https://fox-that.techidaily.com/five-fast-solutions-for-a-non-responsive-iphone-home-button/"><u>Five Fast Solutions for a Non-Responsive iPhone Home Button</u></a></li>
+<li><a href="https://fox-that.techidaily.com/get-back-on-track-correct-five-major-iphone-faults-using-dfu-method/"><u>Get Back on Track: Correct Five Major iPhone Faults Using DFU Method</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-zte-nubia-z60-ultra-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an ZTE Nubia Z60 Ultra Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-fix-incoming-calls-with-numbers-instead-of-name-display-on-your-iphone/"><u>How to Fix Incoming Calls with Numbers Instead of Name Display on Your iPhone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-after-format-on-oppo-a78-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery after format on Oppo A78 5G</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-oppo-find-x6-pro-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Oppo Find X6 Pro</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-restore-cellular-connectivity-on-your-iphone-10-effective-solutions/"><u>How To Restore Cellular Connectivity on Your iPhone: 10 Effective Solutions</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-lenovo-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Lenovo online without jailbreak</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-the-complete-guide-to-itunes-podcast-upload/"><u>In 2024, The Complete Guide to iTunes Podcast Upload</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-charged-paused-learn-how-to-overcome-this-problem-in-8-ways/"><u>IPhone Charged Paused? Learn How to Overcome This Problem in 8 Ways</u></a></li>
+<li><a href="https://fox-that.techidaily.com/keep-data-members-private-or-protected/"><u>Keep Data Members Private or Protected.</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-xiaomi-redmi-note-13-pro-5g-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Xiaomi Redmi Note 13 Pro 5G</u></a></li>
+<li><a href="https://review-topics.techidaily.com/oppo-data-retrieval-tool-restore-lost-data-from-oppo-a1-5g-by-fonelab-android-recover-data/"><u>Oppo Data Retrieval tool – restore lost data from Oppo A1 5G</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-delivery-failures-quick-fixes-for-your-iphones-imessage-woes/"><u>Overcoming Delivery Failures: Quick Fixes for Your iPhone's iMessage Woes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-iphone-audio-hurdles-a-comprehensive-guide-to-mending-the-microphone/"><u>Overcoming iPhone Audio Hurdles: A Comprehensive Guide to Mending the Microphone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-iphone-mail-delays-strategies-to-ensure-updated-inboxes/"><u>Overcoming iPhone Mail Delays: Strategies to Ensure Updated Inboxes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-locked-icloud-features-on-your-apple-device-with-simple-fixes/"><u>Overcoming Locked iCloud Features on Your Apple Device with Simple Fixes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/revitalize-disabled-icloud-features-a-step-by-step-guide/"><u>Revitalize Disabled iCloud Features: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/silencing-your-ipad-tutorial-on-halting-ringtone-activation-from-iphone-alerts/"><u>Silencing Your iPad: Tutorial on Halting Ringtone Activation From iPhone Alerts</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solve-your-iphones-depth-effect-problem-on-ios-16-with-these-7-handy-fixes/"><u>Solve Your iPhone's Depth Effect Problem on iOS 16 with These 7 Handy Fixes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/struggling-with-your-iphones-contacts-app-tackle-this-common-issue-in-just-3-steps/"><u>Struggling with Your iPhone's Contacts App? Tackle This Common Issue in Just 3 Steps</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ltimate-list-lovers-handbook-for-crafting-youtube-music-selections-for-2024/"><u>The Ultimate List Lover's Handbook for Crafting YouTube Music Selections for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-your-airdrop-problems-in-no-time-discover-the-top-16-hacks/"><u>Troubleshoot Your AirDrop Problems in No Time - Discover the Top 16 Hacks!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-a-non-responsive-tablet-screen-top-8-solutions/"><u>Troubleshooting a Non-Responsive Tablet Screen: Top 8 Solutions</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Apple iPhone XS | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlock-your-frozen-device-7-methods-for-clearing-the-apple-logo-glitch/"><u>Unlock Your Frozen Device: 7 Methods for Clearing the Apple Logo Glitch</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-free-voice-synthesis-convert-your-written-words-into-audio-speech/"><u>Updated 2024 Approved Free Voice Synthesis Convert Your Written Words Into Audio Speech</u></a></li>
+</ul></div>
