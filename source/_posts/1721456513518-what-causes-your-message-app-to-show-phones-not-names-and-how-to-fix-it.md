@@ -1,0 +1,160 @@
+---
+title: What Causes Your Message App to Show Phones, Not Names – And How to Fix It.
+date: 2024-08-03T02:42:49.908Z
+updated: 2024-08-04T02:42:49.908Z
+tags:
+  - iphone
+  - apple
+categories:
+  - iphone
+description: This Article Describes What Causes Your Message App to Show Phones, Not Names – And How to Fix It.
+excerpt: This Article Describes What Causes Your Message App to Show Phones, Not Names – And How to Fix It.
+thumbnail: https://thmb.techidaily.com/526c473a4f2f84c7776ce16d41fe4812db866e7d193a0f319769e26791470115.jpg
+---
+
+## What Causes Your Message App to Show Phones, Not Names – And How to Fix It
+
+ You may have faced an issue on your iPhone where whenever you receive a message, the Messages app shows it as coming from a phone number instead of the saved contact name.
+
+ This can be quite annoying, as you can't see who has actually tried messaging you, even if you've got their number saved on your phone.
+
+ Fortunately, this is a common issue and can be easily fixed! We'll show you what to do below.
+
+ Your browser does not support the video tag.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Why Does Your Contact Name Disappear?
+
+ When you initially see the Messages app showing a phone number instead of a contact name, you may think someone random has messaged you.
+
+ This may look even weirder when you have a [conversation pinned to the top of your Messages](https://www.makeuseof.com/how-to-pin-conversations-apples-messages-app-iphone-mac/) screen for easier access, and that's the one showing a phone number.
+
+ However, this is usually a temporary issue and should fix itself. If this isn't the case, you can try a few quick fixes to get things back to normal quickly.
+
+## Restart Your iPhone
+
+ A quick fix to getting your contact names back instead of phone numbers is to [restart your iPhone](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) . As with many other issues, a quick reboot usually does the trick, and you should be able to see your contact names instead of phone numbers in Messages.
+
+ In the case that this doesn't work and you are still facing the same issue, follow the fixes below.
+
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
+## Add or Remove the Country Code
+
+ Sometimes the issue may be caused by Messages not associating phone numbers without a country code with their entries in your contact list. For example, the international dialing code for the UK is +44\. If Messages thought that +447981234532 was different from 07981234532, it would show the chat under a phone number.
+
+ The solution to this is simple. Just add the country code to the phone numbers that are showing this behavior:
+
+1. Open up**Contacts** on your iPhone, and select the person who's showing up incorrectly in Messages.
+2. Tap**Edit** .
+3. Add the country code to the start of their phone number, using either the full format (0044) or the short format (+44). Make sure you get the right country code for their device, which should be what shows up in the Messages app.
+4. Click**Done** .
+
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Contact Edit menu in iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/contact-edit-menu-in-ios.jpg)
+
+![Add Country Code to Number](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Fix-Messages-Not-Showing-Contact-Number.jpg)
+
+Close
+
+ You'll have to do this directly from the Contacts app because Messages doesn't recognize the phone number as a contact and hence won't make the change.
+
+ Alternatively, if you choose to add a new contact from the phone number, you can add it to an existing contact. But then you'll have two numbers saved for that person.
+
+ Once you fix a phone number, you'll see Messages will automatically merge the conversations split across different chats.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
+## Toggle iCloud Contacts
+
+ Some people have reported iCloud contacts being the reason behind this issue. If you are syncing your contacts with your iCloud account, it might be worth re-syncing them, which might fix the issue.
+
+To do this, follow these steps on your iPhone:
+
+1. Open up the**Settings** app.
+2. Tap on**\[Your Name\] > iCloud** .
+3. Click on**Show All** underneath the**Apps Using iCloud** section.
+4. From the list, turn off**Contacts** .
+5. When prompted what to do with the previously synced iCloud contacts on your device, choose**Delete** . Don't worry because they'll still be saved in iCloud.
+6. Wait for a few seconds and then turn**Contacts** back on. When you are asked, select**Merge** . This will merge all your contacts with your phone's contacts.
+7. Now, restart your device, and this should fix the issue.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
+![Settings on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Fix-Messages-Not-Showing-iCloud.jpg)
+
+![Password and Security in iPhone iCloud Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/2FA-iPhone-Password-and-Security.jpg)
+
+![Contacts in iCloud Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Fix-Messages-Not-Showing-iCloud-Contacts.jpg)
+
+Close
+
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
+## Fix Messages Showing Phone Numbers Instead of Contact Names
+
+ Hopefully, these three fixes should fix the issue of the Messages app showing phone numbers instead of contact names, and you'll be able to resume your normal conservation with your friends and loved ones. If none of these tips work, you may want to contact Apple support to help you get it fixed.
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-amass-a-thousand-tactics-for-monthly-instagram-following-for-2024/"><u>[New] Amass a Thousand  Tactics for Monthly Instagram Following for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-simplified-steps-for-backdrop-elimination-in-photoshop-like-affinity-photo/"><u>[New] Simplified Steps for Backdrop Elimination in Photoshop-Like Affinity Photo</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-fb-livestream-success-on-television-four-pathways-for-2024/"><u>[Updated] FB Livestream Success on Television  Four Pathways for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-strategizing-live-broadcasts-turn-your-recordings-into-facebook-hits/"><u>[Updated] In 2024, Strategizing Live Broadcasts  Turn Your Recordings Into Facebook Hits</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-top-10-sci-fi-vr-adventures-new-realms-unveiled/"><u>[Updated] In 2024, Top 10 Sci-Fi VR Adventures  New Realms Unveiled</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-streamline-your-music-library-mp3s-direct-to-youtube-playlist/"><u>[Updated] Streamline Your Music Library  MP3s Direct to YouTube Playlist</u></a></li>
+<li><a href="https://fox-that.techidaily.com/7-reasons-why-your-iphones-touchscreen-has-stopped-responding/"><u>7 Reasons Why Your iPhone's Touchscreen Has Stopped Responding</u></a></li>
+<li><a href="https://fox-that.techidaily.com/8-fixes-to-improve-wi-fi-performance-on-your-iphone/"><u>8 Fixes to Improve Wi-Fi Performance on Your iPhone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/boosting-safaris-performance-top-4-tips-for-a-faster-iphone-browsing-experience/"><u>Boosting Safari's Performance: Top 4 Tips for a Faster iPhone Browsing Experience</u></a></li>
+<li><a href="https://fox-that.techidaily.com/combat-instagram-lags-with-these-easy-fixes-for-your-android-and-ios-device/"><u>Combat Instagram Lags with These Easy Fixes for Your Android and iOS Device</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/exploring-advanced-recording-alternatives-to-fbx-frameworks/"><u>Exploring Advanced Recording Alternatives to FBX Frameworks</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-an-unresponsive-iphone-microphone-easy-fixes-for-better-sound-quality/"><u>Fixing an Unresponsive iPhone Microphone – Easy Fixes for Better Sound Quality</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-iphone-vibration-issues-in-silent-and-ring-modes-8-effective-tips/"><u>Fixing iPhone Vibration Issues in Silent and Ring Modes: 8 Effective Tips</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-rebooting-your-phone-can-resolve-many-issues/"><u>How Rebooting Your Phone Can Resolve Many Issues</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-y100-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Vivo Y100 Phone without Any Data Loss</u></a></li>
+<li><a href="https://fox-that.techidaily.com/identifying-and-repairing-the-most-prevalent-iphone-screen-faults-a-step-by-step-guide/"><u>Identifying & Repairing the Most Prevalent iPhone Screen Faults: A Step-by-Step Guide</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-locked-vivo-v29e-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Vivo V29e Phone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721450709418-iphone-charge-paused-warning-here-are-8-effective-fixes/"><u>IPhone Charge Paused Warning? Here Are 8 Effective Fixes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-notification-problem-solved-uncover-7-quick-fixes-for-better-alerts/"><u>IPhone Notification Problem Solved: Uncover 7 Quick Fixes for Better Alerts</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721477637783-iphone-silentring-mode-vibration-issue-try-these-8-proven-methods-to-resolve-it-now/"><u>IPhone Silent/Ring Mode Vibration Issue? Try These 8 Proven Methods to Resolve It Now!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721444994418-iphone-text-delays-frustrating-you-solve-it-in-just-9-easy-steps/"><u>IPhone Text Delays Frustrating You? Solve It in Just 9 Easy Steps</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-volume-buttons-failing-to-respond-apply-these-7-quick-repair-techniques/"><u>IPhone Volume Buttons Failing to Respond? Apply These 7 Quick Repair Techniques</u></a></li>
+<li><a href="https://fox-that.techidaily.com/reactivate-your-tablets-touch-display-with-these-8-proven-remedies-and-tips/"><u>Reactivate Your Tablet's Touch Display with These 8 Proven Remedies and Tips</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolving-siri-malfunctions-in-ios-a-step-by-step-guide-with-7-fixes/"><u>Resolving Siri Malfunctions in iOS: A Step-by-Step Guide (with 7 Fixes)</u></a></li>
+<li><a href="https://fox-that.techidaily.com/seamlessly-accessing-tech-aid-for-your-iphone-with-the-apple-support-app/"><u>Seamlessly Accessing Tech Aid for Your iPhone with the Apple Support App</u></a></li>
+<li><a href="https://fox-that.techidaily.com/simplify-your-life-with-these-10-hassle-free-fixes-for-apple-pay-glitches/"><u>Simplify Your Life with These 10 Hassle-Free Fixes for Apple Pay Glitches</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solve-emoji-glitches-instantly-a-guide-for-iphone-and-ipad-users-7-tips/"><u>Solve Emoji Glitches Instantly - A Guide for iPhone and iPad Users (7 Tips)</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solve-your-icloud-woes-essential-fixes-for-iphoneipad-users-most-frequent-problems/"><u>Solve Your iCloud Woes: Essential Fixes for iPhone/iPad Users' Most Frequent Problems</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-non-responsive-iphone-screens-with-easy-diy-methods/"><u>Solving Non-Responsive iPhone Screens with Easy DIY Methods</u></a></li>
+<li><a href="https://fox-that.techidaily.com/step-by-step-instructions-for-softly-rebooting-your-apple-device/"><u>Step-by-Step Instructions for Softly Rebooting Your Apple Device</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721449856838-struggling-with-iphone-to-icloud-transfer-apply-these-9-methods-now/"><u>Struggling with iPhone-to-iCloud Transfer? Apply These 9 Methods Now</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-contacts-on-12plus-5g-without-backup-by-fonelab-android-recover-contacts/"><u>The way to recover deleted contacts on 12+ 5G without backup.</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-false-identifications-in-apple-photos-for-easy-management/"><u>Troubleshoot False Identifications in Apple Photos for Easy Management</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-your-airpods-audio-issues-with-these-10-proven-fixes/"><u>Troubleshoot Your AirPods Audio Issues with These 10 Proven Fixes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-guide-fixing-a-single-malfunctioning-airpod/"><u>Troubleshooting Guide: Fixing a Single Malfunctioning AirPod</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-safaris-photo-problem-essential-tips-and-tricks-for-iphone-users/"><u>Troubleshooting Safari's Photo Problem: Essential Tips & Tricks for iPhone Users</u></a></li>
+<li><a href="https://fox-that.techidaily.com/where-did-my-iphone-app-go-methods-for-tracking-down-and-finding-lost-programs/"><u>Where Did My iPhone App Go? Methods for Tracking Down and Finding Lost Programs</u></a></li>
+</ul></div>
