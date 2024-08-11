@@ -1,0 +1,218 @@
+---
+title: How to Factory Reset Your iPhone or iPad
+date: 2024-08-10T03:43:09.437Z
+updated: 2024-08-11T03:43:09.437Z
+tags:
+  - iphone
+  - apple
+categories:
+  - iphone
+description: This Article Describes How to Factory Reset Your iPhone or iPad
+excerpt: This Article Describes How to Factory Reset Your iPhone or iPad
+thumbnail: https://thmb.techidaily.com/c8505bae3e314a2b381005e22ef6317da32419f0b4525c4f54b2150317447813.jpg
+---
+
+## How to Factory Reset Your iPhone or iPad
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Quick Links
+
+* [Preparing Your iPhone or iPad for a Factory Reset](https://www.makeuseof.com/tag/how-to-factory-reset-iphone-ipad/#preparing-your-iphone-or-ipad-for-a-factory-reset)
+* [How to Reset Your iPhone or iPad to Factory Settings](https://www.makeuseof.com/tag/how-to-factory-reset-iphone-ipad/#how-to-reset-your-iphone-or-ipad-to-factory-settings)
+* [How to Reset Your iPhone or iPad Using a Computer](https://www.makeuseof.com/tag/how-to-factory-reset-iphone-ipad/#how-to-reset-your-iphone-or-ipad-using-a-computer)
+* [After Resetting Your iPhone: Shut Down or Restore](https://www.makeuseof.com/tag/how-to-factory-reset-iphone-ipad/#after-resetting-your-iphone-shut-down-or-restore)
+
+### Key Takeaways
+
+* Back up your iPhone or iPad before resetting to avoid losing data and settings.
+* Check your two-factor authentication settings to avoid locking yourself out of your account.
+* Reset your device through the Settings menu or using a computer if needed. The prompts will guide you through the process.
+
+ Whether you need to erase your iPhone because you're selling it or are trying a reset to fix a problem, it's not difficult to do. Here's a complete guide on how to factory reset your iPhone or iPad.
+
+## Preparing Your iPhone or iPad for a Factory Reset
+
+ Modern versions of iOS and iPadOS simplify the factory reset process because they handle several important steps at once, rather than requiring you to do them beforehand. Still, there are a few important points to be aware of before you jump into the reset.
+
+ Make sure you know your device's passcode and your Apple ID login before continuing. You can [reset your Apple ID password](https://www.makeuseof.com/tag/forgot-apple-id-icloud-password/) if needed.
+
+### Back Up Your iPhone or iPad
+
+ The most important preliminary step before a reset is backing up your iPhone or iPad. A backup allows you to restore almost everything on your phone to the way it was, so you don't have to start from nothing. This is vital whether you're upgrading to a new phone or resetting yours as a troubleshooting step.
+
+ See our [guide to backing up your iPhone](https://www.makeuseof.com/tag/how-to-backup-iphone-ipad/) for complete instructions on backing up to iCloud or your computer.
+
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Check Two-Factor Authentication Settings
+
+ Another important consideration is making sure you don't lock yourself out of your account.[Apple's two-factor authentication (2FA) requires a code](https://www.makeuseof.com/tag/apple-two-factor-authentication/) sent to your trusted Apple devices or phone numbers when you log into your Apple ID. This can pose a problem if the device you're resetting is your only 2FA option.
+
+ If you have another Apple device where you're already signed into your account with 2FA, you can use that to get a code after resetting your iPhone/iPad. Otherwise, make sure you have a secondary trusted phone number or security key registered to your account.
+
+ To check this, head to**Settings** on your iPhone/iPad and tap your name at the top of the list to open your Apple ID settings. Choose**Sign-In & Security > Two-Factor Authentication** to check your**Trusted Phone Number(s)** and**Security Keys** . If you need to add one, do so here.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
+![iCloud Settings on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/01a-icloud-settings-iphone.png)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
+![iPhone Security Settings iCloud](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/01a-iphone-security-settings-icloud.png)
+
+![iPhone 2FA Settings iCloud](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/01b-iphone-2fa-settings-icloud.png)
+
+Close
+
+### If You're Not Keeping Your Device
+
+ In case you're factory resetting your iPhone or iPad to sell it, give it away, or trade it in, you should take some extra steps to ensure a smooth transfer to your next device and avoid problems for the new owner of your old one. This includes potential extra steps like unpairing your Apple Watch or AirPods, signing out of iMessage, and removing your SIM card. We've explained [what to do before selling your iPhone](https://www.makeuseof.com/things-to-do-before-selling-iphone/) if this applies to you.
+
+ When you're performing a factory reset to troubleshoot issues, you don't need to worry about these steps since you're keeping the device.
+
+## How to Reset Your iPhone or iPad to Factory Settings
+
+ Just like backing up your device, there are two ways you can erase your iPhone or iPad: on the device itself or using a computer. We recommend resetting using Settings on your device unless you need to use the computer method for some reason.
+
+ On your iPhone or iPad, go to**Settings** \>**General** \>**Transfer or Reset iPhone/iPad** . If you're resetting this device because you're moving to a new iPhone, tab**Get Started** under**Prepare for New iPhone/iPad** here and follow the instructions. Otherwise, tap**Erase All Content and Settings** .
+
+ The**Reset** menu allows you to set various other options to their defaults without fully erasing your iPhone.
+
+ Once you tap this, you'll see an**Erase This iPhone** page with a summary of what will happen when you continue. Importantly, erasing your iPhone turns off Find My and Activation Lock as part of the process. Unlike older versions of iOS, you don't need to sign out of your Apple ID separately to avoid Activation Lock preventing the new owner from using the phone.
+
+![iPhone General Bottom of Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/02a-iphone-general-bottom-of-menu.png)
+
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![iPhone Transfer or Reset Page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/02b-iphone-transfer-or-reset-page.png)
+
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
+![iPhone Transfer or Reset Summary](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/02c-iphone-transfer-or-reset-summary.png)
+
+Close
+
+ When you tap**Continue** , you'll see an option to**Keep** or**Delete** any eSIMs on your phone. If you're keeping this phone, keep them; if you're selling it or trading it in, erase them. Consult your carrier for guidance on how to move your eSIM to your new phone.
+
+ The next steps will prompt you to create a backup, which you can skip if you've already done so.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
+![Screenshot of the confirmation box when resetting your iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/04/Reset-Confirmation.jpg)
+
+ Finally, you'll need to enter your iPhone's passcode (and Screen Time passcode if applicable), then enter your Apple ID password to sign out of your account. Provide final confirmation with the last**Erase iPhone/iPad** prompt, and your device will start the factory reset process. There's no going back once you've tapped this.
+
+ As your phone resets, you'll see an Apple logo with a progress bar. Once your data has been wiped, your iPhone or iPad will restart.
+
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## How to Reset Your iPhone or iPad Using a Computer
+
+ In case you need to factory reset your iPhone and the convenient on-device method doesn't work, you can use Finder (on a Mac) or the [Apple Devices app](https://apps.microsoft.com/detail/9NP83LWLPZ9K) (on Windows) to reset.
+
+ When using this method, you'll first need to sign out of Find My on your device to disable Activation Lock. To do this, go to**Settings** , tap your name at the top, then choose**Find My** . Select**Find My iPhone/iPad** , then turn off the slider on the following page. Confirm your Apple ID password, then you're ready to reset using a Windows PC or Mac.
+
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
+![Find My Settings iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/03a-find-my-settings-iphone.png)
+
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Find My iPhone Disable Slider](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/03b-find-my-iphone-disable-slider.png)
+
+Close
+
+ Connect your iPhone to your computer using a USB cable. You may need to approve the connection on your iPhone/iPad if you've never used it with this computer before.
+
+ On a Mac, open**Finder** and select your device from**Locations** in the sidebar. Make sure you're on the**General** tab and hit the**Restore iPhone/iPad** button under the**Software** section.
+
+![The option to reset your iPhone on Mac](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/04/Reset-iPhone-Mac.png)
+
+ On Windows, open the Apple Devices app, expand the panel with your device's name on the left side, and make sure you're on the**General** tab. In the top box under**Software** , click**Restore iPhone/iPad** .
+
+![Apple Devices app iPhone General Tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/apple-devices-iphone-general-tab.png)
+
+ If you didn't turn Find My off, you'll see a warning that you must do this before proceeding. Assuming that's done, click**Restore** (or**Restore and Update** if there's a new OS update available) to confirm. This will start the reset process on your device.
+
+## After Resetting Your iPhone: Shut Down or Restore
+
+ Once the reset finishes, when you see the**Hello** screen, you're clear to turn off the device if you're not keeping it. It's ready for the next owner to set up.
+
+ If you're keeping your phone or tablet, go through the steps of setting up the device again. During this process,[restore your iPhone backup](https://www.makeuseof.com/tag/restore-iphone-ipad-from-backup/) to pick up where you left off.
+
+ That's all it takes to factory reset your iPhone or iPad. With a backup, you don't have to worry about moving to a new phone or resetting yours to fix problems.
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-99plus-million-view-snapshot-amusing-emoji-lore/"><u>[New] 2024 Approved  99+ Million View Snapshot  Amusing Emoji Lore</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-determining-the-perfect-orientation-for-fb-videos/"><u>[New] 2024 Approved  Determining the Perfect Orientation for FB Videos</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-top-10-stock-image-memes-real-life-narratives/"><u>[New] 2024 Approved  Top 10 Stock Image Memes  Real Life Narratives</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-guide-to-mastering-windows-movie-maker-in-w11-for-beginners/"><u>[New] Guide to Mastering Windows Movie Maker in W11 for Beginners</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-instagram-acclaim-the-easy-guide-for-followers/"><u>[New] Instagram Acclaim  The Easy Guide for Followers</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-strategic-approaches-to-metaverse-promotion/"><u>[New] Strategic Approaches to Metaverse Promotion</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-enhance-engagement-mastering-template-based-video-description-writing/"><u>[Updated] 2024 Approved  Enhance Engagement  Mastering Template-Based Video Description Writing</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-capturing-the-extremes-adobes-hdr-creation-in-lightroom/"><u>2024 Approved  Capturing the Extremes  Adobe's HDR Creation in Lightroom</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-experts-pathway-to-purchasing-an-immaculate-4k-display/"><u>2024 Approved  The Expert's Pathway to Purchasing an Immaculate 4K Display</u></a></li>
+<li><a href="https://fox-that.techidaily.com/avoid-common-spelling-mistakes-on-iphone-with-these-6-autocorrection-fixes/"><u>Avoid Common Spelling Mistakes on iPhone with These 6 AutoCorrection Fixes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/complete-guide-to-reactivate-and-complete-ios-update-processes-that-wont-continue/"><u>Complete Guide to Reactivate and Complete iOS Update Processes that Won't Continue</u></a></li>
+<li><a href="https://fox-that.techidaily.com/eight-effective-ways-to-get-the-control-center-running-smoothly-on-iphones-again/"><u>Eight Effective Ways to Get the Control Center Running Smoothly on iPhones Again</u></a></li>
+<li><a href="https://fox-that.techidaily.com/ensuring-your-airpods-stay-loyal-avoiding-unwanted-auto-switching-between-iphones-and-macs/"><u>Ensuring Your AirPods Stay Loyal: Avoiding Unwanted Auto-Switching Between iPhones & Macs</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-the-not-provisioned-by-mobile-manager-mm-2-error-on-your-phone/"><u>Fixing the 'Not Provisioned by Mobile Manager (MM 2)' Error on Your Phone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/gtx-950-code-43-error-on-windows-11-solved/"><u>GTX 950 Code 43 Error on Windows 11 [Solved]</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721478571507-guide-to-easily-repairing-frequent-issues-with-apple-pay-learn-these-10-tips/"><u>Guide to Easily Repairing Frequent Issues with Apple Pay – Learn These 10 Tips</u></a></li>
+<li><a href="https://fox-that.techidaily.com/guide-to-retrieving-lost-iphone-application-icons-with-simple-tips/"><u>Guide to Retrieving Lost iPhone Application Icons with Simple Tips</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-enter-and-utilize-dfu-mode-on-iphones-explained/"><u>How to Enter and Utilize DFU Mode on iPhones Explained</u></a></li>
+<li><a href="https://fox-that.techidaily.com/icloud-not-updating-heres-how-to-fix-sync-issues-easily/"><u>ICloud Not Updating? Here's How to Fix Sync Issues Easily</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-app-download-issues-here-are-10-tips-for-a-smooth-solution/"><u>IPhone App Download Issues? Here Are 10 Tips for a Smooth Solution</u></a></li>
+<li><a href="https://fox-that.techidaily.com/issue-solved-reconnecting-an-unresponsive-iphone-to-your-desktop-or-laptop/"><u>Issue Solved: Reconnecting an Unresponsive iPhone to Your Desktop or Laptop</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-infinix-hot-30-5g-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Infinix Hot 30 5G</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-iphone-tethering-troubles-effective-ways-to-restore-connection/"><u>Overcoming iPhone Tethering Troubles: Effective Ways to Restore Connection</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resetting-your-apple-screen-time-lock-with-ease-tips-for-all-users/"><u>Resetting Your Apple Screen Time Lock with Ease – Tips for All Users</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolve-this-issue-how-to-spot-your-airpods-using-the-find-my-feature/"><u>Resolve This Issue! How to Spot Your AirPods Using the 'Find My' Feature</u></a></li>
+<li><a href="https://fox-that.techidaily.com/safari-cant-take-full-page-screen-shots-follow-these-steps-for-a-quick-solution/"><u>Safari Can't Take Full Page Screen Shots? Follow These Steps for a Quick Solution</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solve-the-problem-of-an-unresponsive-airpod-now/"><u>Solve the Problem of an Unresponsive AirPod Now!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-7-causes-behind-a-non-responsive-iphone-screen-troubleshooting-guide/"><u>Top 7 Causes Behind a Non-Responsive iPhone Screen: Troubleshooting Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-why-cant-i-access-mass-effect-legendary-edition/"><u>Troubleshooting: Why Can't I Access Mass Effect Legendary Edition?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlocking-icloud-settings-top-strategies-for-iphone-and-ipad-users/"><u>Unlocking iCloud Settings: Top Strategies for iPhone and iPad Users</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unstick-your-idevices-ios-patch-a-guide-with-six-tips-for-successful-downloads/"><u>Unstick Your iDevice's iOS Patch: A Guide with Six Tips for Successful Downloads</u></a></li>
+<li><a href="https://fox-that.techidaily.com/what-to-do-if-you-encounter-problems-with-only-one-working-airpod/"><u>What To Do If You Encounter Problems With Only One Working AirPod</u></a></li>
+</ul></div>

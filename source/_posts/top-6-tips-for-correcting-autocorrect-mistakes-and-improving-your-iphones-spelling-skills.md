@@ -1,0 +1,207 @@
+---
+title: Top 6 Tips for Correcting AutoCorrect Mistakes & Improving Your iPhone's Spelling Skills
+date: 2024-08-10T03:41:27.665Z
+updated: 2024-08-11T03:41:27.665Z
+tags:
+  - iphone
+  - apple
+categories:
+  - iphone
+description: This Article Describes Top 6 Tips for Correcting AutoCorrect Mistakes & Improving Your iPhone's Spelling Skills
+excerpt: This Article Describes Top 6 Tips for Correcting AutoCorrect Mistakes & Improving Your iPhone's Spelling Skills
+thumbnail: https://thmb.techidaily.com/4b0cf62f8598176374094f1d5008db55cda943f9c34511f05e37067a05b873ab.jpg
+---
+
+## Top 6 Tips for Correcting AutoCorrect Mistakes & Improving Your iPhone's Spelling Skills
+
+ Autocorrect is a pretty neat feature that automatically checks and polishes your spelling as you type on your iPhone. However, it can be more than a little annoying when autocorrect begins to type the wrong words or replace what you wrote with words that don’t make sense at all.
+
+ Fortunately, it’s possible to reset your iPhone’s vocabulary and teach autocorrect to spell properly again. Here’s how.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## How the iPhone’s Autocorrect Goes Wrong
+
+ When you’re typing on your iPhone, iPad, or iPod’s default keyboard and you misspell a word, you’ll likely see a bubble above your error with, showing the correct spelling.
+
+![Spelling Error](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/Spelling-Error.jpeg)
+
+ The wonder of autocorrect means you only need to continue typing—either by hitting**Space** , tapping**Return** , or adding punctuation—to accept the change. But this becomes a problem when your iPhone starts correcting words you don’t want to be changed.
+
+ Your Apple devices correct the spelling of the words you type based on the built-in dictionary and your previously typed words. They can learn incorrectly spelled words if you typed them too many times, which can lead autocorrect to start “fixing” the actual spelling.
+
+ You might find that it starts changing words that you don’t want changed. One such example is with changing words like “were” to “we’re” and “bit” to “but.”
+
+![were to we're](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/were-to-were.jpeg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
+## 1\. Repeatedly Type Words to Fix Autocorrect
+
+ Unfortunately, Apple doesn’t allow you to edit your dictionary directly. One way around this is to type the word that’s being erroneously corrected and dismiss the change before it takes place by tapping the**dismiss (x)** button beside the suggested spelling. You may need to repeat this numerous times before your iPhone stops “correcting” the word in question.
+
+ If you automatically accept a change by mistake, hit**Delete** and your previously-typed word will appear in a bubble. Tap it, and your change will be reverted. This may also teach your iPhone that it is unnecessary to correct this word, encouraging it to add the word you just typed in its dictionary.
+
+ Some users suggest adding the words to your Contacts. However, this is a little unreliable and works best with proper nouns and company names.
+
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 2\. Reset Your iPhone Dictionary
+
+ If your dictionary has become an unmanageable nightmare, you could always reset your iPhone dictionary. This sounds severe, but all you’re doing is removing the custom words and typing rules that your iPhone has picked up since you started using it. As your iPhone dictionary is often [backed up to iCloud](https://www.makeuseof.com/tag/how-to-backup-iphone-ipad/) when you change devices, it could be many years old.
+
+ To reset your dictionary head to **Settings > General > Transfer or Rest iPhone > Reset > Reset Keyboard Dictionary** . You’ll also be asked to input your iPhone’s passcode to complete the erase.
+
+![General](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/General.jpeg)
+
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<!-- affiliate ads end -->
+![Transfer of Reset iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/Transfer-of-Reset-iPhone.jpeg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
+![Reset Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/Reset-Options.jpeg)
+
+Close
+
+ Once you’ve done this, you’ll have to train your iPhone to spell your favorite words properly again. Remember all that you’ve learned about accepting erroneous corrections before you end up in the same position you were in before.
+
+## 3\. Teach Your iPhone New Words With Text Replacement
+
+ Aside from teaching your iPhone manually, you can also add new words using text replacement. This feature basically allows you to create shortcuts for commonly used words, like typing “omw” as a shortcut for “on my way.” Your iPhone will automatically substitute the shortcut with the expanded word or phrase.
+
+ Head to**Settings > General > Keyboards > Text Replacement** to add as many text replacements as you like. Your new additions will adhere to capitalization when added in lowercase, but if you add capital letters (e.g., iPod or Apple), these will be reflected in the correction.
+
+![General settings on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/Keyboard-in-iPhone-1.jpeg)
+
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
+![Keyboards settings on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/Text-Replacement-in-Keyboard-Settings-1.jpeg)
+
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
+![Text replacement example on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/omw-shortcut-for-on-my-way-1.jpeg)
+
+Close
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 4\. Turn Autocorrect Off
+
+ If autocorrect has become overly irritating, it might be time to turn it off. To do this:
+
+1. Head to**Settings > General** .
+2. Select**Keyboards** .
+3. Toggle**Auto-Correction** off.
+
+ If you’re wary about missing spelling errors, you can always turn on the spellchecker, which highlights spelling errors in red. To do this, just go back to**Keyboards** and toggle on**Check Spelling** .
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
+## 5\. Turn On Predictive Text Instead
+
+ Unlike autocorrect, which actively changes words as you type, Predictive Text works in a more passive manner. Instead of changing a word to its suggested correction, Predictive Text simply shows predictions above the keyboard and allows you to tap or ignore them. To enable the feature, just head back to the**Keyboards** settings, then toggle**Predictive** on.
+
+ Now, when you’ve typed a word that you think your iPhone will mistakenly “correct”, just tap the correct spelling in the top left box above the keyboard.
+
+## 6\. Use a Third-Party Keyboard
+
+ With iOS 8, Apple allowed app developers to [replace the built-in iPhone keyboard](https://www.makeuseof.com/how-to-add-use-remove-third-party-keyboard-iphone/) with third-party alternatives instead. These keyboards do not use Apple’s dictionary, and only Apple’s keyboard can make changes to the system-wide custom word list. As a result, many third-party keyboards come with their own dictionaries, which you can often sync with other devices (including Android).
+
+ These keyboards will require you to provide “full access” to your keystrokes. You should be wary of allowing any old keyboard full access to everything you type.
+
+### Swiftkey
+
+![Microsoft SwiftKey Home Page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/Microsoft-SwiftKey-Home-Page.jpeg)
+
+ SwiftKey is one of our most-recommended keyboards for the Android platform—and for good reason. The app learns based on your typing habits, includes a full custom dictionary, and even syncs with its Android version when you sign in.
+
+**Download:** [Microsoft SwiftKey Keyboard](https://apps.apple.com/app/swiftkey-keyboard/id911813648) (Free, in-app purchases available)
+
+### TypeWise
+
+![TypeWise Home Page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/TypeWise-Home-Page.jpeg)
+
+ TypeWise is another third-party keyboard option, especially if you prefer to add some customization to your keyboard. It has larger keys and allows you to type a lot faster than the default iOS keyboard. It also doesn’t ask for suspicious permissions.
+
+**Download:** [TypeWise](https://apps.apple.com/app/typewise-keyboard/id1470215025) (Free, subscription available)
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Carefree Typing on Your iPhone
+
+ The downside to well-polished messages is the tendency for our iPhones to misunderstand slang, informal phrases, and sometimes even uncommon names. This can be funny at best and frustrating at worst, and may even be a cause of embarrassment or upset.
+
+ What’s good is that there are several solutions to autocorrect problems, or alternative keyboards you can switch to. If teaching your iPhone to relearn the words seem like a hassle, you can always reset your dictionary or turn off the autocorrect feature for a more carefree typing experience.
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-instagram-influencer-marketing-5-steps-to-conquer-it/"><u>[New] Instagram Influencer Marketing  5 Steps to Conquer It</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-uncovering-average-earnings-podcaster-edition-for-2024/"><u>[New] Uncovering Average Earnings  Podcaster Edition for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-unmasking-falsified-follower-fabrications-on-feeds-for-2024/"><u>[New] Unmasking Falsified Follower Fabrications on Feeds for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-navigating-the-auditory-waves-of-iphones-podcast-streaming/"><u>[Updated] Navigating the Auditory Waves of iPhone's Podcast Streaming</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-complete-overview-the-ultimate-video-editors-review-for-vivocut/"><u>2024 Approved  Complete Overview  The Ultimate Video Editor's Review for VivoCut</u></a></li>
+<li><a href="https://fox-that.techidaily.com/5-fixes-if-your-iphone-keeps-disconnecting-from-wi-fi/"><u>5 Fixes if Your iPhone Keeps Disconnecting From Wi-Fi</u></a></li>
+<li><a href="https://fox-that.techidaily.com/bandwidth-blues-unlock-faster-mobile-data-with-our-step-by-step-guide/"><u>Bandwidth Blues? Unlock Faster Mobile Data with Our Step-by-Step Guide</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/compiling-the-top-windows-11-video-capture-tools-for-2024/"><u>Compiling the Top Windows 11 Video Capture Tools for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/comprehensive-solutions-to-enable-text-tone-notifications-when-iphone-fails-to-alert/"><u>Comprehensive Solutions to Enable Text Tone Notifications When iPhone Fails To Alert</u></a></li>
+<li><a href="https://fox-that.techidaily.com/cure-5-common-iphone-issues-with-the-powerful-dfu-reset-technique/"><u>Cure 5 Common iPhone Issues with the Powerful DFU Reset Technique</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/decoding-snapchats-emoji-language-a-comprehensive-guide-for-everyone/"><u>Decoding Snapchat's Emoji Language: A Comprehensive Guide for Everyone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/detecting-moisture-harm-a-guide-to-the-9-most-common-clues-on-iphones/"><u>Detecting Moisture Harm: A Guide to the 9 Most Common Clues on iPhones</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-oppo-a38-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Oppo A38 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/effective-strategies-to-overcome-your-iphones-deadly-black-pixels/"><u>Effective Strategies to Overcome Your iPhone's Deadly Black Pixels</u></a></li>
+<li><a href="https://fox-that.techidaily.com/essential-iphone-fixes-top-15-solutions-for-any-model/"><u>Essential iPhone Fixes: Top 15 Solutions for Any Model</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fast-solutions-resolving-issues-with-widget-functionality-on-ios-devices/"><u>Fast Solutions: Resolving Issues with Widget Functionality on iOS Devices</u></a></li>
+<li><a href="https://fox-that.techidaily.com/get-back-on-track-correct-five-major-iphone-faults-using-dfu-method/"><u>Get Back on Track: Correct Five Major iPhone Faults Using DFU Method</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-fix-iphone-camera-failures-learn-about-the-7-most-typical-problems-and-solutions/"><u>How To Fix iPhone Camera Failures? Learn About The 7 Most Typical Problems & Solutions</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-14-pro-max-without-swiping-up-6-ways-drfone-by-drfone-ios/"><u>How To Unlock Apple iPhone 14 Pro Max Without Swiping Up? 6 Ways | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-bypass-activation-lock-from-iphone-14-pro-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Bypass Activation Lock from iPhone 14 Pro</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Vivo Y200e 5G | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-tailored-strategies-for-free-clock-usage-optimization/"><u>In 2024, Tailored Strategies for FREE Clock Usage Optimization</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-unleashing-creativity-in-tiktok-intros-your-ultimate-macguide/"><u>In 2024, Unleashing Creativity in TikTok Intros  Your Ultimate MacGuide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-charged-paused-learn-how-to-overcome-this-problem-in-8-ways/"><u>IPhone Charged Paused? Learn How to Overcome This Problem in 8 Ways</u></a></li>
+<li><a href="https://fox-that.techidaily.com/managing-device-notifications-keeping-your-ipad-silent-even-if-your-iphone-rings/"><u>Managing Device Notifications: Keeping Your iPad Silent, Even If Your iPhone Rings</u></a></li>
+<li><a href="https://fox-that.techidaily.com/master-misidentification-fixes-in-your-apple-gallery-with-these-simple-steps/"><u>Master Misidentification Fixes in Your Apple Gallery with These Simple Steps</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-camera-hiccups-in-ios-visual-search-technology/"><u>Overcoming Camera Hiccups in iOS Visual Search Technology</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-iphone-mail-delays-strategies-to-ensure-updated-inboxes/"><u>Overcoming iPhone Mail Delays: Strategies to Ensure Updated Inboxes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/release-your-iphone-from-persistent-earpiece-mode-with-these-eight-fixes/"><u>Release Your iPhone From Persistent Earpiece Mode with These Eight Fixes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/retrieve-accidentally-deleted-reminders-and-memos-on-your-ios-device/"><u>Retrieve Accidentally Deleted Reminders & Memos on Your iOS Device</u></a></li>
+<li><a href="https://fox-that.techidaily.com/revitalize-your-iphone-top-10-fixes-for-non-functioning-safari-browser/"><u>Revitalize Your iPhone: Top 10 Fixes for Non-Functioning Safari Browser</u></a></li>
+<li><a href="https://fox-that.techidaily.com/revitalize-your-iphones-power-source-in-only-6-straightforward-steps/"><u>Revitalize Your iPhone's Power Source in Only 6 Straightforward Steps!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/silencing-your-ipad-tutorial-on-halting-ringtone-activation-from-iphone-alerts/"><u>Silencing Your iPad: Tutorial on Halting Ringtone Activation From iPhone Alerts</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solve-your-iphones-outdated-email-problem-with-these-easy-fixes/"><u>Solve Your iPhone's Outdated Email Problem With These Easy Fixes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/step-by-step-solution-to-updating-issues-in-your-iphones-email-app/"><u>Step-by-Step Solution to Updating Issues in Your iPhone's Email App</u></a></li>
+<li><a href="https://fox-that.techidaily.com/step-by-step-solution-resolving-mobile-network-problems-sim-not-provisioned-message/"><u>Step-by-Step Solution: Resolving Mobile Network Problems - SIM Not Provisioned Message</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-a-non-responsive-tablet-screen-top-8-solutions/"><u>Troubleshooting a Non-Responsive Tablet Screen: Top 8 Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-your-iphones-tethering-why-your-hotspot-might-not-work-and-solutions/"><u>Troubleshooting Your iPhone's Tethering: Why Your Hotspot Might Not Work & Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlocking-the-solution-to-safaris-full-screenshot-glitch-tips-and-tricks-inside/"><u>Unlocking the Solution to Safari's Full Screenshot Glitch – Tips and Tricks Inside!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlocking-your-iphones-hidden-picture-analysis-tool-overcoming-common-visual-lookup-glitches/"><u>Unlocking Your iPhone's Hidden Picture Analysis Tool: Overcoming Common Visual Lookup Glitches</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unsticking-iphone-from-headphones-mode-a-guide-with-8-proven-fixes/"><u>Unsticking iPhone From Headphones Mode: A Guide with 8 Proven Fixes</u></a></li>
+</ul></div>

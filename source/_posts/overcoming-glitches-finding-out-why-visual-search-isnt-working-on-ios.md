@@ -1,0 +1,210 @@
+---
+title: "Overcoming Glitches: Finding Out Why Visual Search Isn’t Working on iOS"
+date: 2024-08-10T03:46:53.946Z
+updated: 2024-08-11T03:46:53.946Z
+tags:
+  - iphone
+  - apple
+categories:
+  - iphone
+description: "This Article Describes Overcoming Glitches: Finding Out Why Visual Search Isn’t Working on iOS"
+excerpt: "This Article Describes Overcoming Glitches: Finding Out Why Visual Search Isn’t Working on iOS"
+thumbnail: https://thmb.techidaily.com/38756237f1a95b3c76d41533fd8000c05356e390c0fb9057cc8a7e8588aba830.jpg
+---
+
+## Overcoming Glitches: Finding Out Why Visual Search Isn’t Working on iOS
+
+ Visual Look Up allows your device to recognize objects found in photos and gives you additional information about them. Although it's a handy feature, it doesn't always work, and if you have an old device, it might not work at all.
+
+ So, if you're having trouble using the Visual Look Up feature on your iPhone, here are some reasons why it might not be working and what you can do to fix it.
+
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## iPhone Models Supporting Visual Look Up
+
+ First off, be sure to check if your device is running iOS 15 or iPadOS 15.1 (and later). To check, head to**Settings > General > About** , then check the iOS or iPadOS version. To download and install the latest firmware available, go to**Settings > General > Software Update** .
+
+ If your device's software is up to date and Visual Look Up still isn't working, it may be because your device doesn't support the feature. Visual Look Up only works on devices with the A12 Bionic chip or later, meaning only the following models support Visual Look Up:
+
+* iPad mini, 5th generation, and later
+* iPad, 8th generation, and later
+* iPad Air, 3rd generation and later
+* iPad Pro 11-inch, all generations
+* iPad Pro 12.9-inch, 3rd generation and later
+* iPhone SE (2020 and 2022 models)
+* iPhone XS, iPhone XS Max, and iPhone XR
+* iPhone 11, iPhone 11 Pro, and iPhone 11 Pro Max
+* iPhone 12, iPhone 12 mini, iPhone 12 Pro, and iPhone 12 Pro Max
+* iPhone 13, iPhone 13 mini, iPhone 13 Pro, and iPhone 13 Pro Max
+* iPhone 14, iPhone 14 Plus, iPhone 14 Pro, and iPhone 14 Pro Max
+
+ If you have a compatible device but Visual Look Up is still not working, here are some possible reasons and workarounds.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
+## 1\. You're Using an Unsupported Language
+
+ Whether Visual Look Up will work or not depends upon the language set on your iPhone. So, if you're using an unsupported language, the feature will not work as intended. To make sure you're able to use the feature, change your primary iPhone language to one of the currently supported languages.
+
+Here's how to change the primary language on your iPhone:
+
+1. Go to**Settings** \>**General** \>**Language & Region** .
+2. Tap**Add Language** , then select any one of the six supported languages—English, French, German, Italian, Japanese, or Spanish—and set it as the primary language.
+
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Main Screen in iPhone Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/steps-to-change-iphone-language-1.jpeg)
+
+![An image showing the Language & Region Option between Fonts and Dictionary sections within the General section](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/steps-to-change-iphone-language-2.jpeg)
+
+![Menu that lets you add another language to your iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/steps-to-change-iphone-language-3.jpeg)
+
+Close
+
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
+## 2\. Siri Look Up Is Not Enabled
+
+ Visual Look Up is much like a new skill your virtual assistant Siri has learned. No content will show up if you don't allow Siri to use on-device learning to suggest relevant information based on your device usage. To enable this, here's what you need to do:
+
+1. Head to**Settings** , then scroll down to**Siri & Search** .
+2. Under**Content From Apple** , toggle the switch on for**Show in Look Up** .
+
+![Siri & Search Under Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/Siri--Search-Under-Settings.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
+![Show in Look Up, in Siri & Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/Show-in-Look-Up-in-Siri--Search.jpg)
+
+Close
+
+## 3\. There Is a Problem With the Image
+
+ Visual Look Up doesn't work well when there are too many objects in the picture, but it usually works fine when only a single object is in the photo. Hence, when you take a photo, try to ensure it's centered and focusing on a single object.
+
+ Although Visual Look Up requires an ideal image to function at its best, it's still one of the powerful [hidden iOS features](https://www.makeuseof.com/tag/hidden-iphone-features-make-productive/) . Sometimes, you may be able to detect an object even with an obstructed view—as shown in the example below:
+
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
+![Obscured Image Still Showing Visual Look Up Icon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/Obscured-Image-Still-Showing-Visual-Look-Up-Icon.PNG)
+
+![Obscured Image Not Showing Visual Look Up Icon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/Obscured-Image-Not-Showing-Visual-Look-Up-Icon.PNG)
+
+Close
+
+ In some cases, Visual Look Up may detect more than one object in the photo, causing an error in retrieving results. You can see this in the example below.
+
+![Visual Look Up Detecting Two Objects](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/Visual-Look-Up-Detecting-Two-Objects.PNG)
+
+![Visual Look Up Showing No results for two objects](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/Visual-Look-Up-Showing-No-results-for-two-objects.PNG)
+
+Close
+
+ If you've taken a photo of the object on its own and your device still can't detect the object, the quality of the image may be a culprit. Check for lighting issues and glare before taking a photo, as you can greatly improve the accuracy of Visual Look Up if you [master how to take photos on an iPhone](https://www.makeuseof.com/tag/iphone-camera-settings/) .
+
+## 4\. You Aren't Connected to the Internet
+
+ Siri requires an internet connection to fetch relevant data whenever you tap the**Visual Look Up** icon. You'll know your issue is a lack of internet connection when your device shows a Visual Look Up icon, but you get a**No Content Found** displayed in the results.
+
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
+![Visual Look Up icon Showing for an Image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/Visual-Look-Up-icon-Showing-for-an-Image.PNG)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Content Not Found after tapping Visual Look Up icon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/Content-Not-Found-after-tapping-Visual-Look-Up-icon.PNG)
+
+Close
+
+## 5\. The Object Isn't Supported Yet
+
+ Despite the constant updates the feature has received since its introduction alongside iOS 15, Visual Look Up is still largely dependent on [machine learning algorithms](https://www.makeuseof.com/tag/machine-learning-algorithms/) . It means that while the feature does get better over time, there's a chance it won't recognize the object you want to learn more about.
+
+ So, if you know that the item you're trying to learn about is supported, ensure that you try a different image from the internet because—as mentioned earlier—the first image you chose could also pose an issue, not letting Visual Look Up work.
+
+## 6\. There May Be a Software Glitch
+
+ Like other features on the iPhone, Visual Look Up may not work due to random errors. If none of the steps listed above help,[restart your iPhone](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) and check for new iOS updates to clear up the software bugs and other glitches that may be causing an error.
+
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Ready to Look Up Some Photos?
+
+ Visual Look Up is a simple feature that makes it easier to learn about the various things around you, be it a pet, plant, or more. So make sure to try out each of the suggested workarounds, as various reasons can prevent the Visual Look Up feature from working as intended.
+
+ Apple has continuously improved Visual Look Up since its introduction alongside iOS 15, so if your initial impressions weren't great, it's worth giving it a shot again, especially if you're a power user who often uses the many unique features of an iPhone—like Live Text, for example.
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-videos.techidaily.com/new-a-guide-to-the-8-truly-effective-youtube-marketing-methods/"><u>[New] A Guide to the 8 Truly Effective Youtube Marketing Methods</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-mastering-webcam-use-for-professional-meeting-records-for-2024/"><u>[New] Mastering Webcam Use for Professional Meeting Records for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-nft-mastermakers-essential-tools-for-digital-artists/"><u>[New] NFT Mastermakers  Essential Tools for Digital Artists</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-shotchrome-intrinsic-recorder-for-os-x-for-2024/"><u>[New] ShotChrome  Intrinsic Recorder for OS X for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-step-by-step-guide-to-store-instagram-photosvideos-on-iphones/"><u>[Updated] In 2024, Step-by-Step Guide to Store Instagram Photos/Videos on iPhones</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-the-complete-manual-of-adding-captions-on-vimeo/"><u>[Updated] The Complete Manual of Adding Captions on Vimeo</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/assembling-an-elite-home-studio-pc-for-cutting-edge-edits/"><u>Assembling an Elite Home Studio PC for Cutting-Edge Edits</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/assessing-djis-flight-vision-tx-headset-performance-for-2024/"><u>Assessing DJI's Flight Vision TX Headset Performance for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-music-files-on-infinix-gt-10-pro-by-fonelab-android-recover-music/"><u>Complete guide for recovering music files on Infinix GT 10 Pro</u></a></li>
+<li><a href="https://fox-that.techidaily.com/comprehensive-tips-to-correct-hey-siri-problems-encountered-on-iphones/"><u>Comprehensive Tips to Correct 'Hey Siri' Problems Encountered on iPhones</u></a></li>
+<li><a href="https://fox-that.techidaily.com/conquer-frustrating-iphone-x-hiccups-expert-advice-for-easy-solutions/"><u>Conquer Frustrating iPhone X Hiccups: Expert Advice for Easy Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/defeating-the-iphone-black-screen-of-death-expert-repair-techniques/"><u>Defeating the iPhone 'Black Screen of Death': Expert Repair Techniques</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-insights-at-toms-hardware-hub-your-source-for-gadget-wisdom/"><u>Expert Insights at Tom's Hardware Hub - Your Source for Gadget Wisdom</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-ios-16s-missing-depth-effect-on-lock-screen-discover-7-key-strategies/"><u>Fixing iOS 16'S Missing Depth Effect on Lock Screen: Discover 7 Key Strategies</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/go-underwater-without-compromise-discover-the-unveiling-of-frores-waterproof-fanless-sport-cooling-device-with-advanced-active-technology/"><u>Go Underwater Without Compromise: Discover the Unveiling of Frore’s Waterproof, Fanless Sport Cooling Device with Advanced Active Technology</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-nokia-g310-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Nokia G310 Without PUK Codes</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-best-green-screen-recorders-how-to-use-them/"><u>In 2024, Best Green Screen Recorders  How to Use Them?</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-foremost-zooid-beginnings-guide/"><u>In 2024, Foremost Zooid Beginnings Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-gradual-sound-reduction-for-computers-mac-and-windows/"><u>In 2024, Gradual Sound Reduction for Computers (Mac & Windows)</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-realme-v30t-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Realme V30T? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-learn-to-master-character-voice-customization-the-ultimate-guide-to-transforming-in-game-speech-free/"><u>In 2024, Learn to Master Character Voice Customization  The Ultimate Guide to Transforming In-Game Speech (Free)</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-qr-scanner-issues-discover-these-5-quick-fixes/"><u>IPhone QR Scanner Issues? Discover These 5 Quick Fixes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/mastering-the-art-of-iphone-photo-management-8-insider-fixes-and-tweaks-to-try-now/"><u>Mastering the Art of iPhone Photo Management: 8 Insider Fixes & Tweaks to Try Now</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mellow-mixdowns-lowlighting-with-ease-in-garageband-for-2024/"><u>Mellow Mixdowns  Lowlighting with Ease in Garageband for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-sim-not-provisioned-mmi-errors-on-your-device-easily/"><u>Overcoming 'SIM Not Provisioned MMI' Errors on Your Device Easily</u></a></li>
+<li><a href="https://fox-that.techidaily.com/revive-missing-iphone-apps-easy-to-follow-tips-for-finding-and-restoring-deleted-programs/"><u>Revive Missing iPhone Apps: Easy-to-Follow Tips for Finding and Restoring Deleted Programs</u></a></li>
+<li><a href="https://extra-support.techidaily.com/revolutionary-strategy-mac-opening-with-wearable-for-2024/"><u>Revolutionary Strategy  Mac Opening With Wearable for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/say-goodbye-to-the-blinky-phone-dilemamo-with-our-expert-fix-1-through-7/"><u>Say Goodbye to the Blinky Phone Dilemamo with Our Expert Fix #1 Through #7</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solve-connectivity-problems-on-your-ios-device-with-a-complete-network-settings-reset/"><u>Solve Connectivity Problems on Your iOS Device with a Complete Network Settings Reset</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solve-your-single-airpod-issue-with-these-simple-fixes/"><u>Solve Your Single AirPod Issue with These Simple Fixes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-silent-siri-a-step-by-step-guide-to-restoring-audio-on-your-iphone/"><u>Solving Silent Siri: A Step-by-Step Guide to Restoring Audio on Your iPhone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-solutions-what-to-do-if-your-airpods-are-missing-from-find-my/"><u>Top Solutions: What To Do If Your AirPods Are Missing From 'Find My'</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721467579508-troubleshoot-iphone-notification-issues-with-7-proven-tips/"><u>Troubleshoot iPhone Notification Issues with 7 Proven Tips.</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-steps-why-your-iphone-isnt-getting-texts-from-android-devices-and-how-to-resolve-this-issue/"><u>Troubleshooting Steps: Why Your iPhone Isn't Getting Texts From Android Devices & How to Resolve This Issue</u></a></li>
+<li><a href="https://fox-that.techidaily.com/ultimate-guide-solving-apples-iphone-black-screen-issue/"><u>Ultimate Guide: Solving Apple's iPhone Black Screen Issue</u></a></li>
+<li><a href="https://fox-that.techidaily.com/understanding-and-solving-iphoneipad-overheating-a-comprehvew-guide/"><u>Understanding & Solving iPhone/iPad Overheating – A Comprehvew Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/understanding-the-causes-when-does-find-my-iphone-go-offline/"><u>Understanding the Causes: When Does Find My iPhone Go Offline?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/why-wont-my-iphone-buzz-on-silent-or-ring-explore-these-8-fixes-for-non-vibrating-problems/"><u>Why Won't My iPhone Buzz on Silent or Ring? Explore These 8 Fixes for Non-Vibrating Problems</u></a></li>
+</ul></div>
