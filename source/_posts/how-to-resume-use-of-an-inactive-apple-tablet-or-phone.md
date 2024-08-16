@@ -1,0 +1,192 @@
+---
+title: How To Resume Use Of An Inactive Apple Tablet or Phone
+date: 2024-08-15T12:00:35.914Z
+updated: 2024-08-16T12:00:35.914Z
+tags:
+  - iphone
+  - apple
+categories:
+  - iphone
+description: This Article Describes How To Resume Use Of An Inactive Apple Tablet or Phone
+excerpt: This Article Describes How To Resume Use Of An Inactive Apple Tablet or Phone
+thumbnail: https://thmb.techidaily.com/39056fd18de68ad167dab8918139616b0085a3cc76b52ba12d66889ac85fb462.jpg
+---
+
+## How To Resume Use Of An Inactive Apple Tablet or Phone
+
+ Is your iPad or iPhone disabled? Looking at your iOS device and seeing that it is disabled can be gut wrenching. Many might not know what happened or how it became disabled or what to do next.
+
+ Luckily, there are a few ways to restore your iPhone or iPad and prevent it getting disabled happening again. Even if you don’t fully understand what happened, this guide will show you how it became disabled and what to do next.
+
+## How Do iPhones and iPads Get Disabled?
+
+![disabled iphone message](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/11/disabled-iphone-message.png)
+
+ Most iPhones and iPads become disabled after too many failed unlock attempts. If you enter your password wrong six times in a row, for example, you will get a message saying that your iPhone has been disabled for one minute.
+
+ Once that one minute is up, another failed attempt will disable the iPhone for five minutes, then 15 minutes, then 30, and lastly one hour. Sometimes, this can happen without you realizing it, if your device is in a bag and getting knocked around.
+
+ If your iPhone becomes disabled after one hour, one more failed attempt will make the iPhone disabled with no time limit, unless you had set up your iPhone to be erased after 10 failed login attempts. If that is the case, a tenth failed attempt will erase your device. If not, you will need to either restore or erase your device to access it again.
+
+ There are also some instances where you might not log into an iPhone or iPad for a long time and an older iOS version will disable the device.
+
+ While a disabled iPhone or iPad be annoying, there are several things you can do to get back in and start using your device again. They mostly involve erasing your device and restoring the latest backup.
+
+## Restore a Disabled iPhone or iPad Backup With a Computer
+
+ One of the easiest ways to fix a disabled device is with Finder on a Mac (or iTunes on a Windows PC). If you use your iPhone or iPad with a computer frequently, you might have a backup on file and can quickly restore your device and get it running correctly again.
+
+ To restore your iPhone or iPad with a computer, simply connect your device to your computer using the USB cable. Then open up Finder or iTunes and you will see your device in the sidebar or upper left-hand corner. Click**Summary > Restore Backup** .
+
+![iphone restore backup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/11/iphone-restore-backup.png)
+
+**Note:** Some users will be automatically asked to restore after plugging in a disabled device. Some users will also only see a**Restore iPhone** or**Restore iPad** option if they don’t have a backup on file.
+
+ If you don’t have a backup on file on your computer, there are other places you might have a backup, like on iCloud. However, you will need to restore your device first before you can restore the backup.
+
+## Restore a Disabled iPhone or iPad Using iCloud
+
+ If you don’t have access to a computer, there are ways to erase your iPhone without having to plug it in. This option also works for those who don’t have any backups available anyway and just want to reset their phone quickly.
+
+ Related:[How to Factory Reset Your iPhone or iPad](https://www.makeuseof.com/tag/how-to-factory-reset-iphone-ipad/)
+
+ If you use iCloud, you can log in and erase your iPhone or iPad there. Simply head to [icloud.com/find](http://www.icloud.com/find/) and log in to your account. On the Find My iPhone page, select**Erase iPhone** .
+
+![find iphone erase](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/11/find-iphone-erase.png)
+
+ Once this is done, you can use your iPhone or iPad again immediately, but you’ll need to restore a backup to get all your data back. Since iCloud is frequently used, your contacts and photos will automatically restore. Once you sign in to your iCloud account again, your device will take care of the rest.
+
+After this, your device is ready to use again.
+
+ If you had an iCloud backup saved, when you set up your device and log in with your Apple ID, you will see an option to restore using an iCloud backup. This will make your iPhone or iPad exactly the way it was when the backup was saved.
+
+## Restore an iPad or iPhone Using Recovery Mode
+
+ If you don’t use a computer or iCloud to back up your device, you will need to put your iOS device into Recovery Mode to use it again. This should be tried last, as it will erase everything on your iPhone and you won’t be able to get anything back.
+
+ Related:[How to Force Restart an iPhone and Enter Recovery Mode](https://www.makeuseof.com/tag/restart-iphone-recovery-mode/)
+
+ Recovery Mode is essentially a way to erase your iPhone and start over. You will need a computer to do this.
+
+ First, you will need to plug your device into your computer with a USB cable and open Finder or iTunes on your computer. Once this is done, depending on your device, there are three ways to force your device to enter Recovery Mode.
+
+**If your iPhone or iPad has a Home button** , hold the power and Home button simultaneously. Do not let go of the buttons. Your device will shut off or turn back on, and you will see the Apple logo and, eventually, your device will enter Recovery Mode. When this happens, you will see a computer icon on your device, at which point you can let go.
+
+**If you have an iPhone 7 or 7 Plus,** you need to hold down the power button and both volume buttons at the same time. Once you see the Apple logo, keep holding these buttons and your device will enter Recovery Mode. You will be notified with a computer icon on the screen that will indicate the device is in Recovery Mode, at which point you can let go.
+
+**For all other devices (including iPads)** , to enter Recovery Mode, you need to press the volume up button, followed by the volume down button, and then hold the Side or Top button until the device enters Recovery Mode. Remember to keep holding the button when the logo appears. Just like with earlier models, you will see a computer icon, indicating that your device is in recovery mode. Once this appears, you can let go.
+
+ Please remember that the device must be plugged in for this to work. Some users might also get a notification saying that a device has been detected but could not be identified. If this comes up, keep holding the button, and eventually it will enter Recovery Mode.
+
+ Once your device is in Recovery Mode, it will appear on your computer and you will get a notification saying that there is a problem with the device and it needs to be updated or restored.
+
+![iphone recovery mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/11/iphone-recovery-mode.png)
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
+
+ When this appears, hit**Restore** and your device will be wiped. It may take a long time for it to restore (sometimes a few hours), but once it is done, your device will be ready to use again.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
+## Contact Apple for More Support
+
+ If for some reason your device can’t be restored using any of the methods above, or if you have a broken button that won’t allow you to put it in Recovery Mode, the last resort would be to contact Apple.
+
+ To do this, head over to [Apple Support](https://getsupport.apple.com/) and enter**Forgotten passcode or disabled device** to get assistance. While it can be difficult for Apple to assist in these cases, Apple does offer this support link for these very instances and rarely can help you recover your device if you can prove you own it.
+
+ This option usually only works for those who purchased an iPhone directly from Apple, but it is worth a try.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
+## Preventing Future Issues
+
+ The simplest way to prevent your iPad or iPhone from becoming disabled is by using a password that is easy to remember. Also, take advantage of other security features such as Touch ID or Face ID to make it easy to unlock your phone.
+
+ If you’re finding that your device is frequently becoming disabled in a pocket or backpack, consider turning on Auto-Lock. With Auto-Lock on, your device screen will lock after 30 seconds, and previously entered digits on the pin pad will be erased.
+
+ By using iCloud, you can back up your device frequently and prevent having to lose everything when you do need to reset your device. This is very simple to set up. Open the**Settings** and at the very top, you can sign in to iCloud using your Apple ID.
+
+![icloud backups](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/11/icloud-backups.PNG)
+
+![icloud setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/11/icloud-setting.jpg)
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
+
+Close
+
+ If you already have an Apple ID, be sure to head to the iCloud settings to make sure Photos and iCloud Backup are on.
+
+ You can also set up your device to be erased after 10 failed login attempts. Simply go to**Face ID & Passcode** (or Touch ID & Passcode for older models) and enter your password. At the very bottom, you will see a setting called**Erase Data** . Tap this to enable this feature. Just be sure you have backups ready to go!
+
+![iphone erase data](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/11/iphone-erase-data.PNG)
+
+![iphone settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/11/iphone-settings.PNG)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
+
+Close
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
+## Unlocking Your iPhone or iPad
+
+ Having one of your devices disabled can be annoying at first, but thankfully there are many ways to recover your device and restore it. While some data might be lost, you will gain access to your phone or tablet again, having learned a lesson to make sure this won’t happen in the future. After all, a wiped device is better than no device.
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-brevity-in-action-the-process-of-shortening-youtube-videos/"><u>[New] 2024 Approved  Brevity in Action  The Process of Shortening YouTube Videos</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-pcs-best-vr-top-10-immersive-360-video-players/"><u>[New] In 2024, PC's Best VR  Top 10 Immersive 360 Video Players</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-visualstreamerw11-capture-and-record-your-desktop-for-2024/"><u>[Updated] VisualStreamerW11  Capture and Record Your Desktop for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/7-proven-methods-to-restore-and-improve-auto-brightness-on-your-iphone/"><u>7 Proven Methods to Restore and Improve Auto-Brightness on Your iPhone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/7-rapid-repairs-troubleshooting-stuck-predictive-emojis-on-iphones-and-ipads/"><u>7 Rapid Repairs: Troubleshooting Stuck Predictive Emojis on iPhones & iPads</u></a></li>
+<li><a href="https://fox-that.techidaily.com/airdrop-failing-to-connect-learn-how-to-resolve-it-using-these-16-tips/"><u>AirDrop Failing to Connect? Learn How to Resolve It Using These 16 Tips</u></a></li>
+<li><a href="https://fox-that.techidaily.com/cant-upload-photos-to-icloud-from-iphone-try-these-9-fixes/"><u>Can't Upload Photos to iCloud From iPhone? Try These 9 Fixes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/cant-use-silent-switch-on-iphone-discover-other-ways-to-control-sound-settings/"><u>Can't Use Silent Switch on iPhone? Discover Other Ways to Control Sound Settings</u></a></li>
+<li><a href="https://windows11.techidaily.com/dealing-with-non-selectable-items-in-win11-setup/"><u>Dealing with Non-Selectable Items in Win11 Setup</u></a></li>
+<li><a href="https://fox-that.techidaily.com/expert-advice-restoring-hey-siri-functionality-to-its-full-potential-on-ios/"><u>Expert Advice: Restoring 'Hey Siri' Functionality to Its Full Potential on iOS</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-easily-fix-a-non-responsive-imessage-app-on-ios-and-macos/"><u>How to Easily Fix a Non-Responsive iMessage App on iOS and macOS</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-xiaomi-mix-fold-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Xiaomi Mix Fold 3 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-iphone-14-pro-max-ios-system-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iPhone 14 Pro Max iOS System? | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-restore-your-iphones-volume-buttons-top-7-tips-and-tricks/"><u>How to Restore Your iPhone's Volume Buttons - Top 7 Tips and Tricks</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-x-to-other-iphone-12-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone X To Other iPhone 12 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-troubleshoot-and-repair-iphone-standby-malfunction-in-4-steps/"><u>How to Troubleshoot and Repair iPhone Standby Malfunction in 4 Steps</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-turn-off-motion-following-sound-feature-on-your-apple-airpods/"><u>How to Turn Off Motion-Following Sound Feature on Your Apple AirPods</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-infinix-smart-8-plus-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Infinix Smart 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-screen-malfunctioning-effective-methods-to-restore-functionality/"><u>IPhone Screen Malfunctioning: Effective Methods to Restore Functionality</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-screen-woes-recover-lost-or-missing-app-icons-with-these-fixes/"><u>IPhone Screen Woes: Recover Lost or Missing App Icons with These Fixes!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/navigating-iphone-photo-management-a-guide-to-resolving-pain-points/"><u>Navigating iPhone Photo Management: A Guide to Resolving Pain Points</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-mastering-fcpx-tips-and-tricks-for-overcoming-common-obstacles/"><u>New 2024 Approved Mastering FCPX Tips and Tricks for Overcoming Common Obstacles</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcome-face-id-failures-on-your-iphone-with-our-comprehensive-list-of-14-remedies/"><u>Overcome Face ID Failures on Your iPhone with Our Comprehensive List of 14 Remedies</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-whatsapps-overzoom-issue-a-step-by-step-guide/"><u>Solving WhatsApp's Overzoom Issue: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/struggling-with-iphone-vpn-connections-discover-these-7-troubleshooting-tips/"><u>Struggling with iPhone VPN Connections? Discover These 7 Troubleshooting Tips!</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-google-pixel-8-pro-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Google Pixel 8 Pro? | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlock-effective-voice-typing-on-your-iphone-with-these-5-essential-troubleshooting-steps/"><u>Unlock Effective Voice Typing on Your iPhone with These 5 Essential Troubleshooting Steps</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unstick-your-iphones-voicemail-functionality-a-guide-to-9-quick-fixes/"><u>Unstick Your iPhone's Voicemail Functionality: A Guide to 9 Quick Fixes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/usb-c-liquid-warning-on-iphone-understanding-and-resolution-steps/"><u>USB-C Liquid Warning on iPhone: Understanding and Resolution Steps</u></a></li>
+<li><a href="https://fox-that.techidaily.com/why-is-an-imessage-showing-up-as-a-regular-sms-could-you-be-blocked/"><u>Why Is an iMessage Showing Up As a Regular SMS?: Could You Be Blocked?</u></a></li>
+</ul></div>

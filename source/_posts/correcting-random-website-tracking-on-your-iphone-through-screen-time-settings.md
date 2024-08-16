@@ -1,0 +1,155 @@
+---
+title: Correcting Random Website Tracking on Your iPhone Through Screen Time Settings
+date: 2024-08-15T11:57:57.008Z
+updated: 2024-08-16T11:57:57.008Z
+tags:
+  - iphone
+  - apple
+categories:
+  - iphone
+description: This Article Describes Correcting Random Website Tracking on Your iPhone Through Screen Time Settings
+excerpt: This Article Describes Correcting Random Website Tracking on Your iPhone Through Screen Time Settings
+thumbnail: https://thmb.techidaily.com/c58560aeeed11adb8f42f4b9530bfd82fdd84e9fa587d943a5752e4b0c3cb2b6.jpg
+---
+
+## Correcting Random Website Tracking on Your iPhone Through Screen Time Settings
+
+ It's always informative to confront how much time you've spent on the different-sized screens that you stare at every day. In fact, Apple users have the option to see exactly how much time they spend across their various iOS and Mac devices with Screen Time.
+
+ Unfortunately, some Apple users have faced an iPhone Screen Time glitch and are shocked to see unexpected websites in their Screen Time settings, for hours at a time, without ever having viewed them.
+
+ So, why are random websites taking up your Screen Time, and how do you fix it? Let's find out below.
+
+## Why Is Your iPhone Screen Time Showing Random Websites?
+
+ According to hundreds of users from online forums, Screen Time has a bug where a website you have previously visited continues to appear in its settings.
+
+ If you exited the Screen Time menu but still have the websites running in the background on your iPhone, it may also continue to falsely track app usage. In some cases, you may even see an unknown app or website in Screen Time.
+
+ While there are no official reasons why this happens, users suspect that it has something to do with an API error. To learn more about APIs, check out our article on [what API stands for and how it is used](https://www.makeuseof.com/what-does-api-stand-for/) .
+
+ Now, to continue to use Screen Time to [cut down on your iPhone usage](https://www.makeuseof.com/tag/ios-screen-time/) , let's look at how to fix this iPhone Screen Time glitch.
+
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
+## How to Fix Random Websites Showing Up in Screen Time
+
+ To resolve the Screen Time glitch and stop those websites from taking up your screen time, the simplest way to do so without losing any data is to [force restart your iPhone](https://www.makeuseof.com/tag/restart-iphone-recovery-mode/) . If you haven't, you should also [install the latest iOS on your iPhone](https://www.makeuseof.com/tag/update-iphone-ios-apps-data/) because Apple updates often come with bug fixes.
+
+ But if the first two solutions don't work, your next steps would be to clear your Safari website data and history on all your iCloud-linked devices. You may also need to reset the Screen Time feature.
+
+### How to Clear the History and Website Data on Your iPhone
+
+ On your iPhone, go to**Settings > Safari** . Then, select**Clear History and Website Data** . Lastly, tap**Clear History and Data** to confirm.
+
+![iPhone Settings Safari](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/IMG_8806.PNG)
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+![Safari Clear Website History](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/IMG_8807.PNG)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+![Safari Clear Website History](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/IMG_8808.PNG)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
+
+Close
+
+ Bear in mind that clearing your history and website data will also affect every other website you have visited. For example, you will be logged out of your online accounts and need to log into those websites again. However, rest assured that this procedure will not remove other Safari information you have saved, such as your Favorites, Reading List, and Bookmarks.
+
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### How to Reset Your iPhone's Screen Time Feature
+
+ If the Screen Time feature is still not working properly, you can also turn Screen Time off and on to reset it. However, this method will delete all your previous Screen Time data.
+
+ To achieve this, go to**Settings > Screen Time** . Next, select**Turn Off Screen Time** . In the popup, tap**Turn Off Screen Time** again to confirm.
+
+![iPhone Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/IMG_8811.PNG)
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+![Screen Time Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/IMG_8810.PNG)
+
+![Turn Off Screen Time](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/IMG_8809.PNG)
+
+Close
+
+ If you encounter some issues with this step, you can refer to our guide on [how to turn off Screen Time on your iPhone](https://www.makeuseof.com/turn-off-screen-time/) for more details.
+
+## Fixing the Screen Time Glitch on Your iPhone
+
+ While this iPhone Screen Time glitch doesn't seem like a big deal, it can be an annoying experience for people actively trying to reduce their overall smartphone usage.
+
+ For avid checkers of the Screen Time feature, the odd numbers can mess with their data, which can make it difficult to tell if you're sticking to your goals. Thankfully, it's possible to stop those random websites from showing up in Screen Time and fix the issue in just a few steps.
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-light-up-the-screen-techniques-for-stunning-youtube-visuals/"><u>[New] 2024 Approved  Light Up the Screen  Techniques for Stunning YouTube Visuals</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-cutting-edge-optics-top-recommendations-for-best-4k-cinematography-for-2024/"><u>[New] Cutting-Edge Optics  Top Recommendations for Best 4K Cinematography for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-ephemeral-clip-creator/"><u>[New] In 2024, Ephemeral Clip Creator</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-stay-up-to-date-with-facebooks-latest-watched-content/"><u>[Updated] 2024 Approved  Stay Up-to-Date with Facebook's Latest Watched Content</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-tricks-to-simulate-historical-alterations/"><u>[Updated] Tricks to Simulate Historical Alterations</u></a></li>
+<li><a href="https://fox-that.techidaily.com/10-essential-remedies-for-constant-crashes-in-your-iphones-favorite-apps/"><u>10 Essential Remedies for Constant Crashes in Your iPhone's Favorite Apps</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-mastering-desktopmobile-adjust-youtube-video-pace/"><u>2024 Approved  Mastering Desktop/Mobile  Adjust YouTube Video Pace</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721476193860-6-effective-fixes-for-an-iphone-stuck-showing-sos-in-the-status-bar-restore-full-use/"><u>6 Effective Fixes for an iPhone Stuck Showing SOS in the Status Bar - Restore Full Use</u></a></li>
+<li><a href="https://fox-that.techidaily.com/bring-back-my-vanished-iphone-contacts-an-ultimate-troubleshooting-handbook/"><u>Bring Back My Vanished iPhone Contacts: An Ultimate Troubleshooting Handbook</u></a></li>
+<li><a href="https://fox-that.techidaily.com/defeating-the-ghostly-fingers-of-your-iphone-screen-a-list-of-10-effective-fixes/"><u>Defeating the Ghostly Fingers of Your iPhone Screen: A List of 10 Effective Fixes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fix-common-iphone-issues-by-restoring-network-configuration-from-scratch/"><u>Fix Common iPhone Issues by Restoring Network Configuration From Scratch</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fix-your-prediction-failures-swift-solutions-for-non-responsive-emoji-predictions-on-ios/"><u>Fix Your Prediction Failures: Swift Solutions for Non-Responsive Emoji Predictions on iOS</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721458609353-flickering-phone-display-discover-these-7-quick-fixes/"><u>Flickering Phone Display? Discover These 7 Quick Fixes!</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/from-red-planet-ruins-to-spiraling-fun-accidental-marvels-of-martian-citycrafting/"><u>From Red Planet Ruins to Spiraling Fun: Accidental Marvels of Martian Citycrafting</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/gamers-guide-to-free-game-recording-tools/"><u>Gamers' Guide to Free Game Recording Tools</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-recover-lost-event-entries-in-the-ios-calendar-app/"><u>How to Recover Lost Event Entries in the iOS Calendar App</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-wont-back-up-to-icloud-9-fixes-to-try/"><u>IPhone Won't Back Up to iCloud? 9 Fixes to Try</u></a></li>
+<li><a href="https://fox-that.techidaily.com/is-your-iphone-really-offline-or-just-hiding-uncovering-the-truth-and-solutions-with-find-my-iphone/"><u>Is Your iPhone Really Offline or Just Hiding? Uncovering the Truth & Solutions with Find My iPhone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/mbox2-windows-drivers-easy-download-and-latest-version-update-solutions/"><u>MBox2 Windows Drivers - Easy Download & Latest Version Update Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-iphone-app-download-hurdles-a-comprehensive-list-of-10-reliable-remedies/"><u>Overcoming iPhone App Download Hurdles: A Comprehensive List of 10 Reliable Remedies</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolving-undelivered-messages-in-imessage-on-ios-devices/"><u>Resolving Undelivered Messages in iMessage on iOS Devices</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-the-puzzle-of-icloud-desynchronization-a-guide/"><u>Solving the Puzzle of iCloud Desynchronization: A Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/step-by-step-guide-removing-liquid-from-inside-your-phone-speakers/"><u>Step-by-Step Guide: Removing Liquid From Inside Your Phone Speakers</u></a></li>
+<li><a href="https://fox-that.techidaily.com/struggling-with-wireless-charging-on-iphone-try-out-these-7-fixes-to-resolve-the-issue/"><u>Struggling with Wireless Charging on iPhone? Try Out These 7 Fixes to Resolve the Issue</u></a></li>
+<li><a href="https://fox-that.techidaily.com/struggling-with-your-iphones-contact-list-correct-it-with-these-3-methods/"><u>Struggling with Your iPhone's Contact List? Correct It With These 3 Methods!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/the-ultimate-fix-it-guide-15-proven-troubleshooting-steps-for-iphones-from-a-to-z/"><u>The Ultimate Fix-It Guide: 15 Proven Troubleshooting Steps for iPhones From A to Z</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-8-solutions-how-to-get-your-iphone-out-of-sticky-headphone-mode/"><u>Top 8 Solutions: How to Get Your iPhone Out of Sticky Headphone Mode</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-your-iphones-phantom-tap-problem-top-10-techniques-for-a-cure/"><u>Troubleshoot Your iPhone's Phantom Tap Problem - Top 10 Techniques for a Cure</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-full-screen-captures-in-safari-a-comprehensive-guide/"><u>Troubleshooting Full-Screen Captures in Safari: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-roblox-crashes-and-low-memory-alerts-on-iphone-devices/"><u>Troubleshooting Roblox Crashes and Low Memory Alerts on iPhone Devices</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-how-to-get-your-iphone-apps-to-download-successfully/"><u>Troubleshooting: How To Get Your iPhone Apps To Download Successfully</u></a></li>
+<li><a href="https://common-error.techidaily.com/understanding-and-resolving-volume-is-dirty-error-0x80071ac3/"><u>Understanding and Resolving 'Volume Is Dirty' Error (0X80071AC3)</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlocking-communication-options-in-apples-do-not-disturb-mode-for-iphones-eight-effective-fixes-to-try/"><u>Unlocking Communication Options in Apple's Do Not Disturb Mode for iPhones: Eight Effective Fixes to Try</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlocking-trouble-overcome-your-iphones-face-id-glitches-using-our-top-cuhre-14-tips/"><u>Unlocking Trouble: Overcome Your iPhone's Face ID Glitches Using Our Top Cuhre 14 Tips</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unsticking-iphone-display-a-step-by-step-guide-for-switching-between-portrait-and-landscape/"><u>Unsticking iPhone Display: A Step-by-Step Guide for Switching Between Portrait and Landscape</u></a></li>
+</ul></div>

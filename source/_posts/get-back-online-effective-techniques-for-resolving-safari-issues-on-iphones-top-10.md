@@ -1,0 +1,208 @@
+---
+title: "Get Back Online: Effective Techniques for Resolving Safari Issues on iPhones (Top 10)"
+date: 2024-08-15T11:57:09.094Z
+updated: 2024-08-16T11:57:09.094Z
+tags:
+  - iphone
+  - apple
+categories:
+  - iphone
+description: "This Article Describes Get Back Online: Effective Techniques for Resolving Safari Issues on iPhones (Top 10)"
+excerpt: "This Article Describes Get Back Online: Effective Techniques for Resolving Safari Issues on iPhones (Top 10)"
+thumbnail: https://thmb.techidaily.com/7031118575fc7c4b871e9bc0318e22904e8a5da64ff2c87df07fed7ddfd21d40.jpg
+---
+
+## Get Back Online: Effective Techniques for Resolving Safari Issues on iPhones (Top 10)
+
+ Safari is the native browser for iPhones, iPads, and MacBooks. It comes pre-installed on almost every Apple device, and it's designed to be fast and efficient for them. However, there are times when Safari doesn't work.
+
+ When this happens, it usually means there's a setting or software issue. There are even cases where you might not be able to access the internet at all on your iPhone or iPad. Luckily, there are a variety of things you can try to get Safari working again.
+
+## 1\. Restart Your Device
+
+ You hear it all the time—turn your device off and on again. While this may sound too simple to work, restarting your iPhone or iPad has been known to clear your usable memory, which can speed up Safari.
+
+ If Safari is frozen or just a blank white screen, restarting your iPhone or iPad can also fix these problems. Before you try anything else, just make sure you cover the basics.
+
+ If you're new to Safari or Apple devices, you might want to check out our [beginner's guide to Safari for iPhone and iPad users](https://www.makeuseof.com/safari-beginners-guide-iphone/) .
+
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
+## 2\. Turn Off Safari Suggestions
+
+ Turning off Safari Suggestions is one of the simplest and most common fixes for Safari not loading or crashing on an Apple device. While we aren't sure why this works, many users have reported that turning this off fixes the problem.
+
+ To turn off suggestions, head to**Settings** \>**Safari** \>**Safari Suggestions** and turn this off. You can also turn off**Search Engine Suggestions** while you're there too, as some users reported this also fixes the issue.
+
+![safari suggestions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/safari-suggestions.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
+
+ Some users have also said that [blocking Safari popups on your iPhone](https://www.makeuseof.com/allow-or-block-browser-pop-ups-on-iphone/) can improve the memory usage of Safari. So, you may also want to give this a try.
+
+ If this fixes your issue, then you're all set. If not, try the following steps.
+
+## 3\. Turn On Cellular Data for Safari
+
+ If you're frequently connected to Wi-Fi, you may have cellular data off for Safari to save internet data. While helpful, if your Wi-Fi isn't functioning right, connecting to cellular data could fix your issue.
+
+ To do this, head to**Settings** \>**Cellular** \>**Safari** and turn this on. If it was off, this was most likely the cause of your issue. Alternatively, you can turn off Wi-Fi if you're connected and just connect with cellular data. If you can connect this way, that means there's a network issue with your Wi-Fi network.
+
+![safari cellular data](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/safari-cellular-data.jpg)
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## 4\. Edit Your Screen Time Settings
+
+ If you've ever changed your Screen Time settings or blocked certain websites through Screen Time, try turning these settings off. To block websites, you need to enable**Content Restrictions** which can inadvertently block websites you still want to use. If you can't load a link from an email or text message, this could also be a sign that content restrictions are on.
+
+ To fix this issue, head to**Settings** \>**Screen Time** \>**Content & Privacy Restrictions** and turn this option off. If it was on, then this was most likely your issue. If it was off already, proceed to the next fix.
+
+![screentime content privacy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/screentime-content-privacy.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
+## 5\. Clear All Safari's Data
+
+ If you frequently use Safari, you might have a lot of data stored within the app, making it fail to load correctly. This is especially true if you're using an iPhone or iPad with a lower storage capacity. If you get low storage notifications, this fix could resolve your issue.
+
+ To clear Safari's data, head to**Settings** \>**Safari** \>**Clear History and Website Data** . This will erase all extra data in the Safari app. Some users report this works, but you'll need to do it often if you can't eliminate storage space elsewhere on your iPhone.
+
+![clear safari history](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/clear-safari-history.jpg)
+
+## 6\. Update iOS to the Latest Version
+
+ Some users have reported that updating iOS resolves issues with Safari. Whether Safari isn't loading, is crashing, or just isn't connecting to websites, try [updating iOS on your iPhone](http://www.makeuseof.com/reasons-you-need-to-update-ios/) .
+
+ Apple does a great job of fixing widespread issues with iOS updates. So, if there is an issue that Apple is aware of, it could get fixed by a subsequent update.
+
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 7\. Reset Your Network Settings
+
+ If you've had issues with your network before, like not getting service or pages timing out, resetting your Network Settings could help.
+
+ To reset the Network Settings on your iPhone or iPad, head to**Settings > General** \>**Transfer or Reset iPhone (iPad)** \>**Reset** \>**Reset Network Settings** . This will reset only your Network Settings and won't erase any other data on your iPhone.
+
+![reset iphone network settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/reset-network-settings-1.jpg)
+
+ After you finish this, try opening Safari to see if it's working again. If not, proceed to the next fix.
+
+## 8\. Reset to Factory Default Settings
+
+ If all else fails, you can try resetting your iPhone to the default settings. This will erase all the data on your iPhone, and you'll have to set it up from scratch. However, this is also a very effective way to resolve all kinds of software problems. To do this, head to**Settings** \>**General** \>**Transfer or Reset iPhone (iPad)** \>**Erase All Content and Settings** .
+
+![erase all content and settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/erase-all-content-1.jpg)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+ After resetting to the default settings, test out the Safari app before you install your usual apps. If Safari is working then but stops working when a certain app is installed, that means the app installed is interfering with Safari.
+
+ If Safari isn't working when you have a fresh install, make sure you didn't [restore a backup of your iPhone or iPad](https://www.makeuseof.com/tag/restore-iphone-ipad-from-backup/) . If you restored a backup, there could be something interfering with Safari that transferred over. If you reset your device without a backup and Safari still doesn't work, you can try one of the two last troubleshooting steps.
+
+## 9\. Turn On JavaScript
+
+![Safari settings in iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/safari-settings.jpg)
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
+
+![Safari Advanced settings in iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/safari-advanced.jpg)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+![Safari JavaScript settings in iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/safari-javascript.jpg)
+
+Close
+
+ JavaScript is on by default on most iOS devices. However, if you're having issues with Safari, it's likely that JavaScript is off. Sometimes, one might turn JavsScript off as some websites might not support it.
+
+ If you've turned JavaScript off or want to check if it's off and turn it back on, head to**Settings > Safari > Advanced** on your iOS or iPadOS device.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
+## 10\. Use an Alternative Browser
+
+![firefox app icon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/firefox-app-icon.jpg)
+
+ If the above fixes didn't work, then unfortunately, there might be an iOS bug with Safari, and you'll need to wait for the next update and hope it's patched. Until then, you can try using an alternative browser to access the internet on your device. There are many great browsers available in the App Store that can cater to your needs.
+
+ Be sure to check back for iOS updates and see if Apple has addressed the bug. You can also start a new discussion in the [Apple Discussions Community](https://discussions.apple.com/welcome) to see if anyone else is experiencing the same issue.
+
+## Safari Not Working on Your iPhone or iPad? It's Most Likely a Software Issue
+
+ Cracked screens and broken buttons are easy to diagnose as we can instantly see what's wrong. But when Safari or other apps on your iPhone stop working, that usually means a software issue is at play.
+
+ You can usually fix these issues by updating iOS, changing your settings, or resetting your device. However, if the issue still isn't fixed after trying everything above, you might need to post in the Apple forum about your issue for more help.
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-trackingcast-synopsis/"><u>[New] 2024 Approved  TrackingCast Synopsis</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-epicentertainment-eyeview-for-2024/"><u>[Updated] EpicEntertainment EyeView for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-instant-access-to-top-notch-hd-footage-on-fb/"><u>[Updated] In 2024, Instant Access to Top-Notch HD Footage on FB</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-crescendo-of-creativity-adding-audio-to-ig-stories/"><u>2024 Approved  Crescendo of Creativity  Adding Audio to IG Stories</u></a></li>
+<li><a href="https://fox-that.techidaily.com/6-common-problems-with-iphones-visual-look-up-feature/"><u>6 Common Problems with iPhone's Visual Look Up Feature</u></a></li>
+<li><a href="https://fox-that.techidaily.com/6-effective-ways-to-overcome-guided-access-malfunctions-on-your-iphone/"><u>6 Effective Ways to Overcome Guided Access Malfunctions on Your iPhone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721462457906-7-rapid-repairs-restore-predictive-emoji-feature-on-iphone-and-ipad-instantly/"><u>7 Rapid Repairs: Restore Predictive Emoji Feature on iPhone and iPad Instantly</u></a></li>
+<li><a href="https://fox-that.techidaily.com/diy-iphone-repair-how-to-eliminate-moisture-detected-warnings-from-your-devices-charger-port/"><u>DIY iPhone Repair: How to Eliminate Moisture Detected Warnings From Your Device's Charger Port</u></a></li>
+<li><a href="https://fox-that.techidaily.com/easy-guide-step-by-step-process-on-performing-a-gentle-restart-of-your-iphone/"><u>Easy Guide: Step-by-Step Process on Performing a Gentle Restart of Your iPhone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/efficiently-organizing-your-iphone-images-overcoming-common-challenges/"><u>Efficiently Organizing Your iPhone Images: Overcoming Common Challenges</u></a></li>
+<li><a href="https://fox-that.techidaily.com/facetime-photography-faqs-unveiling-the-destination-for-captured-images/"><u>FaceTime Photography FAQs: Unveiling the Destination for Captured Images</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fix-your-iphone-dealing-with-the-notorious-black-screen-of-death/"><u>Fix Your iPhone: Dealing with the Notorious 'Black Screen of Death'</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-a-broken-home-button-on-your-iphone-speedy-troubleshooting-tips/"><u>Fixing a Broken Home Button on Your IPhone - Speedy Troubleshooting Tips!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-a-broken-keyboard-on-iphone-or-ipad-here-are-6-ways-that-work/"><u>Fixing a Broken Keyboard on iPhone or iPad - Here Are 6 Ways That Work</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-connectivity-problems-between-non-apple-peripherals-and-iphones/"><u>Fixing Connectivity Problems Between Non-Apple Peripherals and iPhones</u></a></li>
+<li><a href="https://fox-that.techidaily.com/get-your-airdrop-up-and-running-again-with-these-essential-16-troubleshooting-steps/"><u>Get Your AirDrop Up and Running Again with These Essential 16 Troubleshooting Steps</u></a></li>
+<li><a href="https://fox-that.techidaily.com/guide-to-restoring-missing-events-functionality-on-iphone-calendars/"><u>Guide to Restoring Missing Events Functionality on iPhone Calendars</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-ensure-your-airpods-appear-in-the-find-my-application-11-tips-and-tricks/"><u>How To Ensure Your AirPods Appear in the 'Find My' Application: 11 Tips and Tricks</u></a></li>
+<li><a href="https://fox-that.techidaily.com/illuminating-factors-behind-your-iphones-dimming-display-explore-these-10-key-reasons-today/"><u>Illuminating Factors Behind Your iPhone's Dimming Display - Explore These 10 Key Reasons Today</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expertly-convert-videos-on-your-device-with-the-most-trusted-apps-8/"><u>In 2024, Expertly Convert Videos on Your Device with the Most Trusted Apps #8</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-new-horizons-in-video-codecs-comparing-av1-and-vp9/"><u>In 2024, New Horizons in Video Codecs  Comparing Av1 and VP9</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-icon-troubles-here-are-proven-solutions-when-all-icons-vanish/"><u>IPhone Icon Troubles? Here Are Proven Solutions When All Icons Vanish</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721454983333-iphone-wont-backup-to-icloud-attempt-these-easy-to-follow-9-fixes/"><u>IPhone Won't Backup to iCloud? Attempt These Easy-to-Follow 9 Fixes!</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/mastering-mac-basic-sound-recording-in-audacity/"><u>Mastering Mac  Basic Sound Recording in Audacity</u></a></li>
+<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-honor-magic-6-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of Honor Magic 6</u></a></li>
+<li><a href="https://fox-that.techidaily.com/revive-your-icloud-photo-library-a-step-by-step-guide-to-fixing-sync-problems-on-iphone/"><u>Revive Your iCloud Photo Library: A Step-by-Step Guide to Fixing Sync Problems on iPhone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/silencing-your-ipad-solutions-for-preventing-automatic-ringing-with-your-iphone/"><u>Silencing Your iPad: Solutions for Preventing Automatic Ringing with Your iPhone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-iphone-vpn-connection-issues-top-7-solutions/"><u>Solving iPhone VPN Connection Issues: Top 7 Solutions</u></a></li>
+<li><a href="https://android-frp.techidaily.com/the-updated-method-to-bypass-oppo-find-x6-frp-by-drfone-android/"><u>The Updated Method to Bypass Oppo Find X6 FRP</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721459273566-top-10-solutions-for-iphone-app-download-issues-fixed/"><u>Top 10 Solutions For iPhone App Download Issues - Fixed!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721456659299-top-5-solutions-for-iphone-dictation-issues-get-it-running-smoothly-again/"><u>Top 5 Solutions for iPhone Dictation Issues: Get It Running Smoothly Again!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-6-causes-of-a-sluggish-iphone-and-simple-solutions/"><u>Top 6 Causes of a Sluggish iPhone & Simple Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-an-iphone-proximity-detector-that-wont-work-expert-tips-and-solutions/"><u>Troubleshooting an iPhone Proximity Detector That Won't Work: Expert Tips and Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-tips-resolving-non-updating-email-issues-on-your-iphone/"><u>Troubleshooting Tips: Resolving Non-Updating Email Issues on Your iPhone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/ultimate-slomo-recording-tool-analysis-2024-insights/"><u>Ultimate SloMo Recording Tool Analysis - 2024 Insights</u></a></li>
+<li><a href="https://fox-that.techidaily.com/understanding-the-seven-factors-behind-poor-iphoneandroid-wi-fi-speed/"><u>Understanding the Seven Factors Behind Poor iPhone/Android Wi-Fi Speed</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlocking-communication-overcoming-iphone-do-not-disturb-for-texts-and-voice-calls/"><u>Unlocking Communication: Overcoming iPhone Do Not Disturb for Texts and Voice Calls</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlocking-iphone-standby-top-eight-fixes-for-a-smoother-experience/"><u>Unlocking iPhone Standby: Top Eight Fixes for a Smoother Experience</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unravel-the-mystery-addressing-unusual-appearances-of-phone-numbers-instead-of-names-in-messages/"><u>Unravel the Mystery: Addressing Unusual Appearances of Phone Numbers Instead of Names in Messages</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-streamlining-your-audio-setup-efficiently-manage-m4a-files-on-android-for-2024/"><u>Updated Streamlining Your Audio Setup Efficiently Manage M4A Files on Android for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/why-does-my-iphones-screen-keep-going-dark-uncover-these-10-causes/"><u>Why Does My iPhone's Screen Keep Going Dark? Uncover These 10 Causes!</u></a></li>
+</ul></div>

@@ -1,0 +1,255 @@
+---
+title: "Easy Fixes: Resolving Common Problems in Shared Media Access"
+date: 2024-08-15T12:07:17.755Z
+updated: 2024-08-16T12:07:17.755Z
+tags:
+  - iphone
+  - apple
+categories:
+  - iphone
+description: "This Article Describes Easy Fixes: Resolving Common Problems in Shared Media Access"
+excerpt: "This Article Describes Easy Fixes: Resolving Common Problems in Shared Media Access"
+thumbnail: https://thmb.techidaily.com/6739390ee0fc340b9fd97277963ee8c4fb9d6425e2a9f2aebfeaf1a00361bc20.jpg
+---
+
+## Easy Fixes: Resolving Common Problems in Shared Media Access
+
+ Apple's Family Sharing feature is a really neat way to save money with your friends and family. You can split costs by having just one person pay for services like Apple TV+, Apple Arcade, Apple Music, etc., for five other people.
+
+ However, some people have tried to make this feature work and failed. So, if you're sure you've paid for a subscription service and you notice that it's not shared among family members, we have listed a few troubleshooting steps to resolve the problem.
+
+## 1\. Check Apple's System Status Page
+
+ Before logging out of your Apple ID, removing and adding family members, and sifting through your payment details, you might save some time by checking if the service you seemingly can't share is online in the first place.
+
+ Go to [Apple's System Status page](https://www.apple.com/support/systemstatus/) and scan the list of Apple services to see if the one you're trying to share has a green dot next to it.
+
+![Apple's System Status page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/apple-s-system-status-page.jpeg)
+
+ This will hardly be the culprit, but it's worth checking before going into the more detailed fixes.
+
+## 2\. Turn on Purchase Sharing and Share With Family
+
+ Purchase Sharing is a feature that allows family members to share apps, movies, TV shows, songs, and books they bought with each other. The family organizer will pay for it using a shared payment method, but all the family members will get to download it if they want. You can learn more about it in [our guide on Apple Family Sharing](https://www.makeuseof.com/tag/set-family-sharing-share-apps-music-itunes-purchases/) .
+
+Here's how to turn it on using an iPhone or iPad:
+
+1. Open**Settings** on your iPhone and tap your**Apple ID name** at the top.
+2. Next, select**Family Sharing** in the Apple ID settings menu.
+3. Now, tap on**Purchase Sharing** , wait for it to load up, and tap**Continue** .
+4. Select**Turn On** , and you can choose if you want your family to know by sending them a message.
+5. Return to the Apple ID settings menu and tap**Subscriptions** .
+6. Toggle on**Share With Family** .
+
+![Family menu on iOS 16 Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/1.jpeg)
+
+![Family purchase sharing prompt screen on iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/2.jpeg)
+
+![Purchase Sharing menu displaying payment options and family members on iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/3-1.jpeg)
+
+Close
+
+And here's how to do the same on a Mac:
+
+1. Launch**System Settings** and click**Family** .
+2. Select**Purchase Sharing** from the menu.
+3. Follow the on-screen prompts by clicking**Continue,** then**Turn On Purchase Sharing.**
+
+![Purchase Sharing prompt in System Settings on macOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/purchase-sharing-prompt-in-system-settings-on-macos.png)
+
+This might fix your issue, but try the next step if it doesn't.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
+## 3\. Change Apple ID Region
+
+ This may not be immediately obvious, but regions matter a lot for apps and media purchases. If your family members are using different Apple ID regions, they won't be able to access the same subscriptions.
+
+ The best way to change your region is to visit the Apple ID website and change it from there. However, there are some [things you need to know before changing your App Store country](https://www.makeuseof.com/tag/dont-switch-international-itunes-media-app-store-youve-read/) .
+
+Here's a quick way to do it on your browser:
+
+1. Cancel all your subscriptions and make sure you have no money left in your Apple Account balance.
+2. Visit the [Apple ID Personal Information page](https://appleid.apple.com/account/manage/section/information) and click**Country/Region** .
+3. Follow the instructions and enter a valid payment method for your new country or region.
+4. Now, as long as you and your family members are in the same region, you will all enjoy access to shared subscriptions.
+
+![Dreamchild's Apple ID personal information page on the Apple ID website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/dreamchild-s-apple-id-personal-information-page-on-the-apple-id-website.jpeg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
+
+## 4\. Sign Out and Sign In to Media & Purchases
+
+ First, you must ensure you're using the same Apple ID for Family Sharing and Media & Purchases. You can find it in**Settings** \>**Family** \>**Your Name** \>**Purchases** \>**Apple ID for Purchases** . Confirm that your Apple ID for purchases is the same as your regular Apple ID.
+
+ Sign out and into Media & Purchases by doing the following on your iPhone or iPad:
+
+1. Open**Settings** and tap your Apple ID name.
+2. Now, tap on**Media & Purchases** and choose**Sign Out** from the pop-up menu.
+3. Tap**Media & Purchases** again, and make sure you sign in with the same Apple ID you use for Family Sharing.
+
+![Settings home screen on iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/1-1.jpeg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
+
+![Media & Purchases sub-settings in Apple ID menu on iOS Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/2-1.jpeg)
+
+![Prompt to confirm Media & Purchases sign out on iOS Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/3-2.jpeg)
+
+Close
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
+VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
+
+Key features:
+
+•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
+•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
+•	Visual effects, advanced color correction and trendy Instagram-like filters   
+•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
+•	Non-linear editing: edit several files with simultaneously 
+•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
+•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
+•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
+•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+</a>
+<!-- affiliate ads end -->
+## 5\. Sign Out, Restart, and Sign In
+
+ A little Apple ID reset on the device that isn't receiving the shared subscription might do the trick.
+
+ So, follow these steps to sign in again with your Apple ID on an iPhone or iPad:
+
+1. Open**Settings** and tap on your**Apple ID name** .
+2. Scroll to the bottom and**Sign Out** (marked in red).
+3. Now, restart your iPhone, go back to**Settings** , and select**Sign Into Your iPhone** .
+
+![iOS Apple ID menu in Settings displaying Sign Out button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/1-ios-apple-id-menu-in-settings-displaying-sign-out-button.jpeg)
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+![Prompt to enter Apple ID password](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/2-prompt-to-enter-apple-id-password.jpeg)
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<!-- affiliate ads end -->
+
+![iOS Settings with Apple ID signed out](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/ios-settings-with-apple-id-signed-out.jpeg)
+
+Close
+
+If the problematic device is a Mac, do this instead:
+
+1. Launch**System Settings** and select your Apple ID name.
+2. Scroll to the bottom and select the**Sign Out** button.
+3. Restart your Mac (**Apple Menu** \>**Restart**).
+4. Go back to**System Settings** and choose**Sign In** .
+
+![System Settings Apple ID page displaying sign out button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/system-settings-apple-id-page-displaying-sign-out-button.jpeg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
+
+ This should refresh the App Store and other apps, and it should now recognize that the signed-in Apple ID has access to the shared subscriptions.
+
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
+## 6\. Add the Family Member Again
+
+ As an extension of refreshing it all, you can re-organize the Family Sharing group by disbanding it and adding everyone back again.
+
+Here's how to do it on iOS and iPadOS:
+
+1. Open**Settings** and tap**Family** .
+2. Select individual family members and choose**Remove from Family** .
+3. Invite them back by tapping the icon at the top-right corner of the Family menu.
+
+![Family menu on iOS 16 Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/1.jpeg)
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
+
+![Faizah's Family menu displaying option to Remove Faizah from Family](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/faizah-s-family-menu-displaying-option-to-remove-faizah-from-family.jpeg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
+
+Close
+
+If you're on a Mac, follow these steps instead:
+
+1. Launch**System Settings** and click**Family**
+2. Select the family member and choose**Remove from Family** .
+3. Invite them back by clicking**Add Member** in the Family menu and following the on-screen instructions.
+
+![Family member sub-window in System Settings on macOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/family-member-sub-window-in-system-settings-on-macos.jpeg)
+
+ If you want to learn more about managing your family members, you can read our guide on [how to stop using Apple Family](https://www.makeuseof.com/how-to-stop-apple-family-sharing-or-remove-members/) .
+
+## Check Payments if All Else Fails
+
+ If you tried all these troubleshooting steps and still can't share your subscription, you can try contacting Apple Support for guidance.
+
+ However, the only related issues short of the ones listed here that could stop you from sharing a subscription with family members are payment issues. So, you should probably check if your payment information is correct and if you actually have access to the subscriptions yourself.
+
+ Hopefully, one of these fixes works for you, and your family and friends can enjoy all the goodies that come with sharing digital content purchases and subscriptions.
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-beneath-the-spotlight-top-youtube-events-after-vidcon-for-2024/"><u>[New] Beneath the Spotlight  Top YouTube Events After VidCon for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-achieve-clear-communication-on-zoo-conferencing/"><u>[Updated] Achieve Clear Communication on Zoo Conferencing</u></a></li>
+<li><a href="https://fox-that.techidaily.com/8-effective-tips-to-get-your-iphones-control-center-running-smoothly-again/"><u>8 Effective Tips to Get Your iPhone's Control Center Running Smoothly Again</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/amplify-your-influence-on-ig-how-to-gain-1k-followers-monthly/"><u>Amplify Your Influence on IG  How to Gain 1K Followers Monthly</u></a></li>
+<li><a href="https://fox-that.techidaily.com/battling-roblox-memory-shortage-warnings-on-iphones-effective-solutions-revealed/"><u>Battling Roblox Memory Shortage Warnings on iPhones: Effective Solutions Revealed</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721479624232-boosting-mobile-data-speeds-top-10-tips-to-surf-faster/"><u>Boosting Mobile Data Speeds: Top 10 Tips to Surf Faster!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/bypassing-glitches-10-rapid-remedies-for-malfunctioning-widgets-on-apples-mobile-platforms/"><u>Bypassing Glitches: 10 Rapid Remedies for Malfunctioning Widgets on Apple's Mobile Platforms</u></a></li>
+<li><a href="https://fox-that.techidaily.com/combat-lagging-instagram-effective-fixes-for-both-mobile-and-tablet-devices/"><u>Combat Lagging Instagram: Effective Fixes for Both Mobile and Tablet Devices</u></a></li>
+<li><a href="https://fox-that.techidaily.com/cracking-the-code-to-common-icloud-dilemmas-in-apple-ecosystem-9-key-points/"><u>Cracking the Code to Common iCloud Dilemmas in Apple Ecosystem (9 Key Points)</u></a></li>
+<li><a href="https://fox-that.techidaily.com/dealing-with-ghost-touch-problems-on-iphones-a-guide-to-10-practical-remedies/"><u>Dealing with Ghost Touch Problems on iPhones: A Guide to 10 Practical Remedies</u></a></li>
+<li><a href="https://fox-that.techidaily.com/decoding-icloud-dilemmas-on-apple-devices-the-top-9-challenges-and-how-to-overcome-them/"><u>Decoding iCloud Dilemmas on Apple Devices: The Top 9 Challenges & How to Overcome Them</u></a></li>
+<li><a href="https://fox-that.techidaily.com/disappeared-from-my-iphone-the-ultimate-guide-to-finding-missing-apps/"><u>Disappeared From My iPhone - The Ultimate Guide to Finding Missing Apps</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/discover-exceptional-performance-with-the-msi-pro-mp161-e2-portable-monitor/"><u>Discover Exceptional Performance with the MSI PRO MP161 E2 Portable Monitor</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-oppo-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Oppo Pattern Lock Screen</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-frp-on-realme-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass FRP on Realme</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-xs-to-an-older-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone XS to an Older Version? | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-resolve-on-hold-charging-issue-on-iphone-top-8-solutions/"><u>How to Resolve 'On-Hold Charging' Issue on iPhone: Top 8 Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/important-alert-why-you-should-install-ios-153-without-delay/"><u>Important Alert: Why You Should Install iOS 15.3 Without Delay</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-discover-the-most-popular-screen-recorders-free-version/"><u>In 2024, Discover the Most Popular Screen Recorders - Free Version</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-lava-yuva-3-pro-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Lava Yuva 3 Pro Android SIM Unlock APK</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/in-2024-unbiased-review-sony-vegas-vs-adobe-premiere-pro-which-one-is-right-for-you/"><u>In 2024, Unbiased Review Sony Vegas vs Adobe Premiere Pro - Which One Is Right for You?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-universal-unlock-pattern-for-vivo-s18e-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Vivo S18e</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721471400933-iphone-contact-app-error-resolve-it-now-follow-this-3-point-fix-process/"><u>IPhone Contact App Error? Resolve It Now - Follow This 3-Point Fix Process!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/mastering-the-art-of-iphone-dfu-mode-tips-and-tricks-for-successful-use/"><u>Mastering the Art of iPhone DFU Mode: Tips & Tricks for Successful Use</u></a></li>
+<li><a href="https://fox-that.techidaily.com/navigating-through-common-icloud-challenges-for-apple-products-and-their-resolutions/"><u>Navigating Through Common iCloud Challenges for Apple Products and Their Resolutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overheating-iphoneipad-explained-identify-the-reasons-and-implement-repairs/"><u>Overheating iPhone/iPad Explained: Identify the Reasons & Implement Repairs</u></a></li>
+<li><a href="https://fox-that.techidaily.com/price-optimization-strategies/"><u>Price Optimization Strategies</u></a></li>
+<li><a href="https://fox-that.techidaily.com/smooth-operations-handling-10-common-apple-pay-setbacks-with-ease/"><u>Smooth Operations: Handling 10 Common Apple Pay Setbacks with Ease</u></a></li>
+<li><a href="https://fox-that.techidaily.com/struggling-with-app-downloads-on-ios-devices-try-these-10-proven-fixes/"><u>Struggling with App Downloads on iOS Devices? Try These 10 Proven Fixes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/struggling-with-dnd-on-your-iphone-uncover-8-solutions-for-missing-messages-and-calls/"><u>Struggling with DND on Your iPhone? Uncover 8 Solutions for Missing Messages & Calls</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-5-challenges-in-sending-presents-using-an-iphone-or-ipad/"><u>Top 5 Challenges in Sending Presents Using an iPhone or iPad</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-and-resolve-airpods-issues-silent-mode-to-crystal-clear-audio/"><u>Troubleshoot and Resolve AirPods Issues - Silent Mode to Crystal Clear Audio</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-chatgpt-ios-app-issues-top-9-solutions/"><u>Troubleshooting ChatGPT iOS App Issues: Top 9 Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-non-rotatable-iphone-screens-swift-solutions-for-landscape-accessibility/"><u>Troubleshooting Non-Rotatable iPhone Screens – Swift Solutions for Landscape Accessibility</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-silent-messages-on-iphone-discover-15plus-methods-to-get-alerts-working-again/"><u>Troubleshooting Silent Messages on iPhone: Discover 15+ Methods to Get Alerts Working Again</u></a></li>
+</ul></div>

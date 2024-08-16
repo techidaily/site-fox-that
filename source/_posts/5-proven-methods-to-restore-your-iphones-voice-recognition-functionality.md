@@ -1,0 +1,207 @@
+---
+title: 5 Proven Methods to Restore Your iPhone's Voice Recognition Functionality
+date: 2024-08-15T12:09:50.934Z
+updated: 2024-08-16T12:09:50.934Z
+tags:
+  - iphone
+  - apple
+categories:
+  - iphone
+description: This Article Describes 5 Proven Methods to Restore Your iPhone's Voice Recognition Functionality
+excerpt: This Article Describes 5 Proven Methods to Restore Your iPhone's Voice Recognition Functionality
+thumbnail: https://thmb.techidaily.com/22aa5877473f7aef18423fbe77d7ea5e7e2937ae2cb99e9b5ca8066747f3813d.jpg
+---
+
+## 5 Proven Methods to Restore Your iPhone's Voice Recognition Functionality
+
+### Quick Links
+
+* [Check if Dictation Is Enabled on Your iPhone](https://www.makeuseof.com/fixes-dictation-not-working-on-iphone/#check-if-dictation-is-enabled-on-your-iphone)
+* [Add the Dictation Language to Your iPhone Keyboard](https://www.makeuseof.com/fixes-dictation-not-working-on-iphone/#add-the-dictation-language-to-your-iphone-keyboard)
+* [Allow Siri & Dictation in Your iPhone's Screen Time Settings](https://www.makeuseof.com/fixes-dictation-not-working-on-iphone/#allow-siri-amp-dictation-in-your-iphone-39-s-screen-time-settings)
+* [Test Your iPhone's Microphone](https://www.makeuseof.com/fixes-dictation-not-working-on-iphone/#test-your-iphone-39-s-microphone)
+* [General Fixes: Restart, Update, or Reset Your iPhone](https://www.makeuseof.com/fixes-dictation-not-working-on-iphone/#general-fixes-restart-update-or-reset-your-iphone)
+
+ Having issues converting voice to text on your iPhone? Or perhaps the dictation icon is nowhere to be found at all? Don't worry; these are several simple troubleshooting steps you can follow when dictation isn't working on your iPhone.
+
+## 1\. Check if Dictation Is Enabled on Your iPhone
+
+ The dictation feature is represented by a microphone icon at the bottom of your iPhone's on-screen keyboard. While dictation is enabled by default, you'll need to turn it on in Settings first if you don't see the microphone icon on the keyboard.
+
+ Go to**Settings > General > Keyboard** and toggle on**Enable Dictation** . Tap**Enable Dictation** again to confirm. The**microphone** icon will now appear on the iOS keyboard; tap it to begin dictating.
+
+![iPhone General settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/iphone-general-settings.JPEG)
+
+![iphone keyboards setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/iphone-keyboards-setting.jpeg)
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+![enable dictation confirmation popup on iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/enable-dictation-confirmation-popup-on-iphone.PNG)
+
+Close
+
+ If dictation is already enabled, but the icon is still missing, try disabling and re-enabling the feature. In the same**Keyboards** setting page, toggle off**Enable Dictation** , tap**Turn Off Dictation** to confirm, then toggle on**Enable Dictation** again.
+
+![iphone keyboard dictation setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/iphone-keyboard-dictation-setting.PNG)
+
+![turn off dictation confirmation popup on iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/turn-off-dictation-confirmation-popup-on-iphone.PNG)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+Close
+
+## 2\. Add the Dictation Language to Your iPhone Keyboard
+
+ Let's say you typically type in English on your iPhone but want to dictate something in Chinese. The iPhone's dictation feature won't recognize what you're saying if Chinese hasn't been added to the keyboard yet.
+
+ In this case, go to **Settings > General > Keyboard > Keyboards > Add New Keyboard** . From the list, choose**Chinese** (or your preferred language), select the keyboard input method, and tap**Done** .
+
+![expanded iphone keyboards setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/expanded-iphone-keyboards-setting.PNG)
+
+![iphone keyboard language list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/iphone-keyboard-language-list.PNG)
+
+![keyboard language list on iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/keyboard-language-list-on-iphone.PNG)
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
+
+Close
+
+ If you intend to dictate text in a Chinese dialect, there's an additional setting you need to do. In the**Keyboards** setting page, go to**Dictation Languages** . From the list, select one of the language variations in addition to**Mandarin** .
+
+![iphone keyboard dictation setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/iphone-keyboard-dictation-setting.PNG)
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
+
+![iphone dictation languages setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/iphone-dictation-languages-setting.PNG)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+Close
+
+ Now, when it comes to dictating your text, remember to switch the dictation language too. Tap the**microphone** icon, tap**EN** (which stands for English), and choose your new preferred dictation language.
+
+![dictation button in iphone notes app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/dictation-button-in-iphone-notes-app.PNG)
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
+
+![change dictation language in iphone notes app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/change-dictation-language-in-iphone-notes-app.PNG)
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
+
+Close
+
+ Dictation isn't available for all languages. You can check [Apple's site](http://www.apple.com/ios/feature-availability/#quicktype-keyboard-dictation) for a list of dictation languages available for the iPhone.
+
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
+## 3\. Allow Siri & Dictation in Your iPhone's Screen Time Settings
+
+ If dictation still isn't working on your iPhone, it may be due to your iPhone's Screen Time settings, which can restrict the dictation feature on your device.
+
+ To check this, go to **Settings > Screen Time > Content & Privacy Restrictions > Allowed Apps** . If**Siri & Dictation** is toggled off, toggle it on so your iPhone will let you use the dictation function again.
+
+![iphone screen time setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/iphone-screen-time-setting.PNG)
+
+![iphone content and privacy restrictions setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/iphone-content-and-privacy-restrictions-setting.PNG)
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<!-- affiliate ads end -->
+
+![allowed apps on iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/allowed-apps-on-iphone.PNG)
+
+Close
+
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
+## 4\. Test Your iPhone's Microphone
+
+ If you have all the correct settings in place, yet dictation isn't working, the issue may lie with your iPhone's microphone.
+
+ A quick way to test it is to record a short audio clip [using your iPhone's Voice Memos app](https://www.makeuseof.com/voice-memos-app-guide-iphone/) . If it's a software issue, there are [solutions to fix your iPhone's microphone](https://www.makeuseof.com/iphone-microphone-fixes/) quickly.
+
+ But if it's a hardware problem, you'll likely need to contact Apple Support or an Apple Authorized Service Provider.
+
+## 5\. General Fixes: Restart, Update, or Reset Your iPhone
+
+ If the above solutions fail, as a last attempt, there are a few general fixes you can try. First,[restart your iPhone](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) , which simply involves turning off your device and turning it on again.
+
+ Also, go to**Settings > General > Software Update** to see if an iOS update is available for your device. Updates carry performance improvements and bug fixes, so try to update your iPhone to see if it resolves the dictation issue.
+
+ Lastly, you can opt to reset all settings on your iPhone. This process returns all your iPhone settings to their default state without deleting your valuable data.
+
+ Go to **Settings > General > Transfer or Reset iPhone > Reset > Reset All Settings** . The process takes some time, so it's best to attempt it only when you don't need to use your iPhone for a while.
+
+![General settings showing Transfer or Reset option in iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/general-settings-showing-transfer-or-reset-option-in-ios.jpeg)
+
+![transfer or reset iphone settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_7384.JPEG)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
+
+![transfer or reset iphone settings confirmation window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_7385.JPEG)
+
+Close
+
+ To sum up, you'll need to ensure that dictation is enabled in your iPhone's Settings app first. Then, add the right languages to the keyboard and switch between your preferred languages before dictating.
+
+ Also, try restarting, updating, or resetting your iPhone. If you suspect the root cause is hardware, it's best to contact Apple Support or an Apple Authorized Service Provider for further assistance. In the meantime, you can also try out some [iPhone dictation apps](https://www.makeuseof.com/best-dictation-apps-iphone/) on the App Store.
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-streamlined-sharing-the-best-shortened-link-apps-for-youtubers/"><u>[New] 2024 Approved  Streamlined Sharing  The Best Shortened Link Apps for Youtubers</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-techniques-for-text-overlays-in-video-platforms-vimeo/"><u>[New] 2024 Approved  Techniques for Text Overlays in Video Platforms (Vimeo)</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-examining-the-efficacy-of-dji-mavic-mini-fpv-technology/"><u>[New] Examining the Efficacy of DJi Mavic Mini FPV Technology</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-framefinder-pro-a-treasure-trove-for-every-twitterscape-enthusiast/"><u>[Updated] FrameFinder Pro  A Treasure Trove for Every Twitterscape Enthusiast</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-10-fastest-growing-youtube-channels-to-inspire-you/"><u>[Updated] In 2024, 10 Fastest Growing YouTube Channels to Inspire You</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-strategic-boxes-opened-marketing-excellence/"><u>2024 Approved  Strategic Boxes Opened  Marketing Excellence</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-top-valheim-seeds-and-growth-techniques/"><u>2024 Approved  Top Valheim Seeds & Growth Techniques</u></a></li>
+<li><a href="https://fox-that.techidaily.com/effective-ways-to-access-apples-technical-help-using-the-ios-support-application/"><u>Effective Ways to Access Apple's Technical Help Using the iOS Support Application</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-water-damage-alerts-steps-to-clear-liquid-warning-messages-from-your-ios-devices-charger-connection/"><u>Fixing Water Damage Alerts: Steps to Clear Liquid Warning Messages From Your iOS Device's Charger Connection</u></a></li>
+<li><a href="https://fox-that.techidaily.com/guide-to-restoring-iphone-flashlight-functionality-discover-12-repair-techniques/"><u>Guide to Restoring iPhone Flashlight Functionality - Discover 12 Repair Techniques</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Vivo T2x 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-the-transformation-of-video-on-facebook/"><u>In 2024, The Transformation of Video on Facebook</u></a></li>
+<li><a href="https://fox-that.techidaily.com/mastering-ios-key-strategies-to-troubleshoot-iphones-effectively/"><u>Mastering iOS: Key Strategies to Troubleshoot iPhones Effectively</u></a></li>
+<li><a href="https://fox-that.techidaily.com/product-bundling/"><u>Product Bundling</u></a></li>
+<li><a href="https://fox-that.techidaily.com/quickly-resolve-widget-woes-top-troubleshooting-techniques-for-iphoneipad-users-in-need/"><u>Quickly Resolve Widget Woes: Top Troubleshooting Techniques for iPhone/iPad Users in Need</u></a></li>
+<li><a href="https://fox-that.techidaily.com/repairing-airpods-silent-mode-or-glitchy-sounds-discover-these-10-remedies/"><u>Repairing AirPods' Silent Mode or Glitchy Sounds: Discover These 10 Remedies</u></a></li>
+<li><a href="https://fox-that.techidaily.com/restore-your-accidentally-erased-iphone-notes-with-these-simple-steps/"><u>Restore Your Accidentally Erased iPhone Notes with These Simple Steps</u></a></li>
+<li><a href="https://fox-that.techidaily.com/revive-unresponsive-widgets-on-iphones-and-ipads-with-these-quick-fixes/"><u>Revive Unresponsive Widgets on iPhones & iPads with These Quick Fixes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/revive-your-icloud-photo-stream-discover-7-effective-fixes-for-iphone-sync-problems/"><u>Revive Your iCloud Photo Stream: Discover 7 Effective Fixes for iPhone Sync Problems</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/scaling-up-your-social-media-presence-with-effective-strategies-for-2024/"><u>Scaling Up Your Social Media Presence with Effective Strategies for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721460202863-soundless-airpod-woes-discover-these-essential-fixes/"><u>Soundless AirPod Woes? Discover These Essential Fixes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/struggling-with-iphones-vpn-connection-issues-here-are-7-quick-fixes/"><u>Struggling with iPhone's VPN Connection Issues? Here Are 7 Quick Fixes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721476886005-struggling-with-slow-message-delivery-here-are-pertinent-steps-to-resolve-your-iphones-timing-troubles-fixed-in-nine-ways/"><u>Struggling with Slow Message Delivery? Here Are Pertinent Steps to Resolve Your iPhone's Timing Troubles, Fixed in Nine Ways!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/struggling-with-sms-timing-on-your-iphone-here-are-nine-prompt-action-steps-for-improvement/"><u>Struggling with SMS Timing on Your iPhone? Here Are Nine Prompt-Action Steps for Improvement</u></a></li>
+<li><a href="https://fox-that.techidaily.com/tablet-touch-problems-discover-these-8-remedies-to-revitalize-your-screens-sensitivity/"><u>Tablet Touch Problems? Discover These 8 Remedies to Revitalize Your Screen's Sensitivity</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-global-communicators-guide-to-the-best-19-translation-apps/"><u>The Global Communicator’s Guide to the Best 19 Translation Apps</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-your-iphone-for-better-performance-with-network-resets/"><u>Troubleshoot Your iPhone for Better Performance with Network Resets</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-steps-to-reactivate-your-disabled-ios-device/"><u>Troubleshooting Steps to Reactivate Your Disabled iOS Device</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-stuck-iphone-sound-controls-top-7-tips-and-tricks/"><u>Troubleshooting Stuck iPhone Sound Controls: Top 7 Tips & Tricks</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-fix-an-iphones-malfunctioning-silent-button/"><u>Troubleshooting: Fix an iPhone's Malfunctioning Silent Button</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/unlocking-top-five-transformative-facebook-traits-for-2024/"><u>Unlocking Top Five Transformative Facebook Traits for 2024</u></a></li>
+</ul></div>

@@ -1,0 +1,201 @@
+---
+title: "Troubleshoot in a Flash: Resolving iOS Device's Predictive Emoji Glitches"
+date: 2024-08-15T12:10:00.719Z
+updated: 2024-08-16T12:10:00.719Z
+tags:
+  - iphone
+  - apple
+categories:
+  - iphone
+description: "This Article Describes Troubleshoot in a Flash: Resolving iOS Device's Predictive Emoji Glitches"
+excerpt: "This Article Describes Troubleshoot in a Flash: Resolving iOS Device's Predictive Emoji Glitches"
+thumbnail: https://thmb.techidaily.com/1d7a3c5b577ddb7940a6a2457c0bee5c40f1807e21452ed2f6065cb51e5a9f16.jpg
+---
+
+## Troubleshoot in a Flash: Resolving iOS Device's Predictive Emoji Glitches
+
+ Predictive emoji is a valuable iPhone and iPad feature that uses machine learning to give you emoji suggestions above your keyboard. It can make your life so much easier that when the feature stops working, you will really feel the burden of needing to go looking for emojis manually again.
+
+ If your iPhone or iPad has stopped predicting emojis for you to use, here are several fixes you can try to make predictive emoji work again.
+
+## What Is the Predictive Emoji Feature on an iPhone?
+
+ When it's working,[Apple's Predictive Emoji feature](https://www.makeuseof.com/how-to-use-predictive-emojis-iphone/) will suggest different emoji to insert to text as you're typing. It should work in any app, allowing you to tap the emoji suggestion above the keyboard to instantly replace your text with it.
+
+![Predictive Emoji on an iPhone showing puppy emoji.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/1-predictive-emoji-on-an-iphone-showing-puppy-emoji.jpg)
+
+ Not only does this make it easy to spice up your conversation with colorful emojis, but it can also be one of the quickest ways to search for and insert your favorite emojis.
+
+ If Predictive Emoji isn't working, you might just see a blank space on the right side of Apple's predictions. Luckily, this is easy to fix with the quick steps below.
+
+![Predictive Emoji not working on an iPhone with blank space instead of emoji.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/2-predictive-emoji-not-working-on-an-iphone-with-blank-space-instead-of-emoji.jpg)
+
+## 1\. Make Sure Predictive Emojis Are Turned On
+
+ First, check if you have the Emoji keyboard enabled on your device. Head to **Settings > General > Keyboard > Keyboards > Add a New Keyboard** , then find and select**Emoji** .
+
+![Add New Keyboard in iPhone General Settings.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/3-add-new-keyboard-in-iphone-general-settings.jpg)
+
+ Now, make sure the**Predictive** function is enabled. Go back to**Settings > General > Keyboard** , then scroll down and enable the**Predictive** toggle.
+
+![Predictive option enabled in iPhone settings.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/4-predictive-option-enabled-in-iphone-settings.jpg)
+
+## 2\. Switch to Apple's English Keyboard
+
+ There are tons of [cool third-party iPhone or iPad keyboards](https://www.makeuseof.com/tag/5-ios-8-keyboards-support-gifs-fancy-fonts-themes/) you can use, but not all of them have a Predictive Emoji feature. If you're using a third-party keyboard, try switching back to the official Apple one.
+
+ To do this, tap and hold the**Emoji** or**Globe** icon in the bottom-left corner of your keyboard, then select the**English** keyboard.
+
+![Selecting English keyboard on an iPhone.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/5-selecting-english-keyboard-on-an-iphone.jpg)
+
+ Make sure the keyboard language matches what you're typing, otherwise it won't know which emojis to predict.
+
+## 3\. Feed Your Device With Emojis
+
+ Your iPhone or iPad feeds on the information you give it and makes suggestions based on your typing style and past usage. If you don't use emojis much in a certain app, that may be the reason you're not getting any predictive emoji suggestions in it.
+
+ You need to let your iPhone or iPad know that you like using emojis for it to start predicting them. To do that, open the app that doesn't show you predictive emojis and tap the**Emoji** icon in the bottom-left corner to select the**Emoji** keyboard.
+
+![Emoji keyboard on an iPhone.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/6-emoji-keyboard-on-an-iphone.jpg)
+
+ Now start typing random emojis. They don't need to make sense, but you need to add enough of them to teach your device that you like using emojis in this app. It could take 20 or more emojis.
+
+![Typing random emojis on an iPhone.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/7-typing-random-emojis-on-an-iphone.jpg)
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+ Now delete all the content you just typed and check if Predictive Emoji is working by typing a word like "puppy," "candy," or "haha." You should see emoji suggestions above the keyboard.
+
+![Predictive Emoji showing laughing options.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/8-predictive-emoji-showing-laughing-options.jpg)
+
+ You should repeat this process for every app where predictive emoji is not working.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
+## 4\. Reset Your Keyboard Dictionary
+
+ If predictive emojis still aren't working, you should try resetting your keyboard dictionary. This will make your iPhone or iPad forget any words you've taught it, so you may need to [fix autocorrect errors on your Apple devices](https://www.makeuseof.com/tag/fix-bad-autocorrect-entries-train-iphone-spell-properly/) again. But it will also give you a clean slate to teach your device that you like using emojis again.
+
+ To do this, go to**Settings > General** , then scroll down and select**Transfer or Reset iPhone** . Now tap**Reset > Reset Keyboard Dictionary** . You'll need to enter your passcode, then confirm you want to**Reset Dictionary** .
+
+![Reset option in iPhone settings.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/9-reset-option-in-iphone-settings.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
+
+ Now go back to the previous step and teach your iPhone or iPad that you like using emojis in all the relevant apps again.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 5\. Delete Your Emoji Keyboard
+
+ You can also reset your emoji keyboard by removing it and adding it again. To do this go to**Settings > General > Keyboard** . Tap**Keyboards** , then swipe left on the**Emoji** option and hit**Delete** .
+
+![Deleting Emoji keyboard on an iPhone.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/10-deleting-emoji-keyboard-on-an-iphone.jpg)
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<!-- affiliate ads end -->
+
+ Tap**Add New Keyboard** , then select**Emoji** to add it again.
+
+## 6\. Restart Your iPhone or iPad
+
+ If everything else seems to fail, you should try [restarting your iPhone](http://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) or iPad. Sometimes, a simple reboot can clear up issues and bugs, which may be enough to solve the problem.
+
+![Slide to power off option on iPhone.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/11-slide-to-power-off-option-on-iphone.jpg)
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
+## 7\. Update Your Software
+
+ Apple does its best to improve your iPhone and iPad software with every update. These updates include fixing common bugs that pester users, like when the Predictive Emoji feature stops working. To update your software to the latest version of iOS or iPadOS, head to**Settings > General > Software Update** .
+
+![Checking for update on iPhone.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/12-checking-for-update-on-iphone.jpg)
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+ If your software is out of date, you'll see a**Download and Install** button at the bottom of the screen. Tap it and follow the prompts to complete the update.
+
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
+## Emojis Are a Necessity for Modern Communication
+
+ In this digital age, emojis have become a regular part of our communication. Apple's Predictive Emoji feature is a handy tool that intuitively suggests emojis that you can seamlessly insert into your conversations. So it's a big loss to easy texting when that feature stops working. Hopefully these suggestions fixed that for you.
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-apowersoft-examined-a-full-review-of-its-capabilities/"><u>[New] 2024 Approved  Apowersoft Examined  A Full Review of Its Capabilities</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-mastering-memory-allocation-elevating-minecraft-experience/"><u>[New] In 2024, Mastering Memory Allocation  Elevating Minecraft Experience</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-the-ultimate-guide-to-producing-hysterical-youtube-video-reactions-3-key-techniques/"><u>[New] In 2024, The Ultimate Guide to Producing Hysterical YouTube Video Reactions (3 Key Techniques)</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-master-the-art-of-livestream-recession-with-these-24-dynamic-tips/"><u>[New] Master the Art of Livestream Recession with These 24 Dynamic Tips</u></a></li>
+<li><a href="https://fox-that.techidaily.com/10-rapid-repairs-to-get-your-iphoneipad-widgets-working-again/"><u>10 Rapid Repairs to Get Your iPhone/iPad Widgets Working Again</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-offline-android-delights-9-most-addictive-mobile-games/"><u>2024 Approved  Offline Android Delights  9 Most Addictive Mobile Games</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-optimizing-tiktok-content-via-zoom-tools/"><u>2024 Approved  Optimizing TikTok Content via Zoom Tools</u></a></li>
+<li><a href="https://app-tips.techidaily.com/adobe-full-voice-booster-evaluation-techniques-for-superior-sound-quality/"><u>Adobe Full Voice Booster Evaluation: Techniques for Superior Sound Quality</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721460985599-cant-read-qr-codes-with-iphone-camera-here-are-5-effective-ways-to-fix-it/"><u>Can't Read QR Codes with iPhone Camera? Here Are 5 Effective Ways to Fix It</u></a></li>
+<li><a href="https://win-dash.techidaily.com/diagnosing-and-resolving-issues-with-a-samsung-dvdbd-player/"><u>Diagnosing and Resolving Issues with a Samsung DVD/BD Player</u></a></li>
+<li><a href="https://fox-that.techidaily.com/easy-steps-to-correct-camera-distortion-in-whatsapp-video-calls/"><u>Easy Steps to Correct Camera Distortion in WhatsApp Video Calls</u></a></li>
+<li><a href="https://fox-that.techidaily.com/elevating-your-smartphone-photography-despite-having-a-lower-megapixel-iphone-camera/"><u>Elevating Your Smartphone Photography Despite Having a Lower Megapixel iPhone Camera</u></a></li>
+<li><a href="https://fox-that.techidaily.com/ending-iphone-app-annoyances-a-step-by-step-guide-to-keeping-them-running-smoothly/"><u>Ending iPhone App Annoyances: A Step-by-Step Guide to Keeping Them Running Smoothly</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/evolutionary-advantages/"><u>Evolutionary Advantages</u></a></li>
+<li><a href="https://fox-that.techidaily.com/expert-guide-resolving-iphone-app-crash-issues-with-effective-fixes-9-17/"><u>Expert Guide: Resolving iPhone App Crash Issues with Effective Fixes #9-#17</u></a></li>
+<li><a href="https://fox-that.techidaily.com/find-my-app-mastery-how-to-track-down-your-vanished-iphone/"><u>Find My App Mastery: How to Track Down Your Vanished iPhone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-auto-brightness-glitches-on-iphones-made-easy-with-our-top-7-fixes/"><u>Fixing Auto-Brightness Glitches on iPhones Made Easy with Our Top 7 Fixes</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-recover-from-an-iphone-that-shows-sos-but-no-other-signal-indicators/"><u>How to Recover From an iPhone that Shows SOS But No Other Signal Indicators</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-forgotten-pin-of-your-samsung-galaxy-s24plus-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Samsung Galaxy S24+</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-poco-m6-pro-4g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Poco M6 Pro 4G without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-iphone-11-pro-max-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade iPhone 11 Pro Max without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-nokia-130-music-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Nokia 130 Music | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-and-ipad-sync-settings-how-to-disable-auto-ring-feature-on-ipad/"><u>IPhone & iPad Sync Settings: How To Disable Auto-Ring Feature on iPad</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-app-icon-error-heres-how-you-can-fix-them-back/"><u>IPhone App Icon Error? Here's How You Can Fix Them Back</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721479241195-iphone-control-panel-malfunction-discover-these-8-effective-fixes/"><u>IPhone Control Panel Malfunction? Discover These 8 Effective Fixes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/is-your-find-my-iphone-not-working-discover-why-and-fix-it-here/"><u>Is Your Find My iPhone Not Working? Discover Why and Fix It Here!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-multilingualism-with-chatgpt-premium-tools/"><u>Navigating Multilingualism with ChatGPT Premium Tools</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-idevice-typing-troubles-a-guide-to-fixing-your-ios-keyboard-in-6-steps/"><u>Overcoming iDevice Typing Troubles: A Guide to Fixing Your iOS Keyboard in 6 Steps</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-iphone-photo-processing-hurdles-practical-tips-and-solutions/"><u>Overcoming iPhone Photo Processing Hurdles: Practical Tips & Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/quick-fixes-for-when-your-iphone-wont-sync-with-your-computer/"><u>Quick FIXES for When Your iPhone Won't Sync with Your Computer</u></a></li>
+<li><a href="https://fox-that.techidaily.com/quick-troubleshooting-tips-for-broken-widgets-on-apples-mobile-devices/"><u>Quick Troubleshooting Tips for Broken Widgets on Apple's Mobile Devices</u></a></li>
+<li><a href="https://fox-that.techidaily.com/reactivating-your-iphones-wi-fi-sharing-feature-expert-advice/"><u>Reactivating Your iPhone's Wi-Fi Sharing Feature: Expert Advice</u></a></li>
+<li><a href="https://fox-that.techidaily.com/revamp-your-iphones-browser-fast-track-tips-for-a-quick-safari-experience/"><u>Revamp Your iPhone's Browser: Fast Track Tips for a Quick Safari Experience</u></a></li>
+<li><a href="https://fox-that.techidaily.com/reviving-connectivity-resetting-your-ios-devices-network-preferences-for-trouble-free-functionality/"><u>Reviving Connectivity: Resetting Your iOS Device's Network Preferences for Trouble-Free Functionality</u></a></li>
+<li><a href="https://fox-that.techidaily.com/secrets-to-retrieving-deleted-iphone-photos-that-appear-lost-learn-these-8-tricks/"><u>Secrets to Retrieving Deleted iPhone Photos That Appear Lost - Learn These 8 Tricks</u></a></li>
+<li><a href="https://fox-that.techidaily.com/trouble-with-your-iphone-and-vpn-fix-it-now-with-7-proven-strategies/"><u>Trouble With Your iPhone and VPN? Fix It Now with 7 Proven Strategies</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-iphone-not-answering-phone-calls/"><u>Troubleshooting: IPhone Not Answering Phone Calls</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721475477207-ultimate-guide-fix-your-iphone-apps-crash-issues-with-these-tips/"><u>Ultimate Guide - Fix Your iPhone Apps' Crash Issues with These Tips</u></a></li>
+<li><a href="https://fox-that.techidaily.com/understanding-and-fixing-random-website-appearances-on-your-iphone-screen-time-tracker/"><u>Understanding and Fixing Random Website Appearances on Your iPhone' Screen Time Tracker</u></a></li>
+<li><a href="https://fox-that.techidaily.com/why-your-iphone-ignores-silentring-modes-for-vibration-explore-these-8-effective-solutions/"><u>Why Your iPhone Ignores Silent/Ring Modes for Vibration? Explore These 8 Effective Solutions</u></a></li>
+</ul></div>
