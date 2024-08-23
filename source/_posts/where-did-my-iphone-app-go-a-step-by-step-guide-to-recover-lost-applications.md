@@ -1,0 +1,231 @@
+---
+title: Where Did My iPhone App Go? A Step-by-Step Guide to Recover Lost Applications
+date: 2024-08-22T23:05:16.866Z
+updated: 2024-08-23T23:05:16.866Z
+tags:
+  - iphone
+  - apple
+categories:
+  - iphone
+description: This Article Describes Where Did My iPhone App Go? A Step-by-Step Guide to Recover Lost Applications
+excerpt: This Article Describes Where Did My iPhone App Go? A Step-by-Step Guide to Recover Lost Applications
+thumbnail: https://thmb.techidaily.com/d156dc661c6f6baa9eb3b5c3ab4152f8f8f4fcdc0dbe084557e36eab0ab2db64.jpeg
+---
+
+## Where Did My iPhone App Go? A Step-by-Step Guide to Recover Lost Applications
+
+ Are you trying to open an app on your iPhone but can't find it anywhere? It can be worrying if it's a vital app you use for finance, productivity, or work.
+
+ Sometimes, we may intentionally hide an app, forget about it, and then struggle to locate it when needed, whereas other times, the app seems to have disappeared from the Home Screen of your iPhone.
+
+ Whatever the case, if you can't unhide apps or notice that some apps are missing from your iPhone's Home Screen, here's how to find them.
+
+ Your browser does not support the video tag.
+
+## 1\. Find Your App in the App Library
+
+ If an app is installed on your iPhone but not on your Home Screen, it's probably in the App Library, which places all your apps in proper categories. Swipe left on the last**Home Screen** page to reach**App Library** . Then, use the**Search** box to find your missing app quickly.
+
+ Once you find the app you're looking for, long-press its app icon in the App Library, and if this app isn't on the Home Screen, you will see an option to**Add to Home Screen** . Alternatively, you can drag it left from the App Library onto the Home Screen.
+
+![App Library on iPhone showing all apps in proper categories](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/app-library-on-iphone-showing-all-apps-in-proper-categories.png)
+
+![App Library showing apps in alphabetical order](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/app-library-showing-apps-in-alphabetical-order.png)
+
+![Long-press app in App Library and tap Add to Home Screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/long-press-app-in-app-library-and-tap-add-to-home-screen.png)
+
+Close
+
+ In the future, if you want all the new apps you download to show on the iPhone Home Screen, open**Settings** \>**Home Screen** and select**Add to Home Screen** . This will put an end to new apps not appearing on the Home Screen.
+
+## 2\. Use Spotlight to Find the Missing App
+
+ The second method is to use Spotlight search, which helps you find files and apps stored anywhere on your device.
+
+ If your iPhone is updated to iOS 16 or later, just tap the**Search** button above the**Dock** to access this feature. If not, swipe down on the center of your Home Screen to bring up Spotlight search.
+
+ Now, type the app name to find it. Once you do, you can also long-press the app icon and select the**Add to Home Screen** option or manually drag it onto the Home Screen.
+
+![iphone home screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/img_5638.jpg)
+
+![iphone search screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/img_5639.jpg)
+
+![use search to find an app in iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/img_5640.jpg)
+
+Close
+
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 3\. Ask Siri to Open the Missing App
+
+ You can use Siri to open downloaded apps that have disappeared from the Home Screen. If you have already [set up Siri on your iPhone](https://www.makeuseof.com/how-to-set-up-and-use-siri-iphone/) , simply activate the voice assistant and ask it to "Open \[app name\]."
+
+ To activate Siri, you can say "Hey Siri" or press and hold the**Side** button (on iPhones with Face ID) or**Home** button (on iPhones with Touch ID). Besides opening apps, there are many other [tasks you can ask Siri to carry out for you](https://www.makeuseof.com/tag/8-things-you-probably-didnt-realize-siri-could-do/) .
+
+## 4\. Look Inside Folders to Find Hidden Apps
+
+ Sometimes we put apps inside folders to hide them or keep them away from plain sight in case those apps aren't used frequently. After a while, it's possible to forget about them.
+
+ If this is your situation, open all the app folders on your iPhone Home Screen and look for the missing app inside. Once you find it, you may want to drag the app icon out of the folder onto the Home Screen.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
+## 5\. Check Screen Time to Unhide Restricted Apps
+
+ You can use Screen Time to [hide and restrict iPhone apps](https://www.makeuseof.com/tag/hide-restrict-apps-iphone/) like Safari, Camera, FaceTime, Mail, and more. As a result, you won't find the app icons for these restricted apps on the Home Screen or the App Library. They won't even appear in Spotlight search results or be accessible via Siri.
+
+ To unhide these apps, open**Settings** \>**Screen Time** \>**Content & Privacy Restrictions** \>**Allowed Apps** and ensure all the apps are allowed. Next, tap**Back** , go to**Content Restrictions** \>**Apps** , and select**Allow All Apps** . Alternatively, you can also [turn off Screen Time on your iPhone and iPad](http://www.makeuseof.com/turn-off-screen-time/) to remove all the restrictions at once.
+
+ After doing this, you should see the missing app icons on the Home Screen and App Library. If not, you'll have to use the Spotlight search method explained above to re-add them to the Home Screen.
+
+![Tap Content & Privacy Restrictions in iPhone Screen Time Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/tap-content--privacy-restrictions-in-iphone-screen-time-settings.png)
+
+![Tap Allowed Apps in iPhone Screen Time Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/tap-allowed-apps-in-iphone-screen-time-settings.png)
+
+![Make Sure all iPhone apps are allowed and nothing is restricted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/make-sure-all-iphone-apps-are-allowed-and-nothing-is-restricted.png)
+
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
+Close
+
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
+## 6\. Unhide Home Screen Pages to See All Your Apps
+
+ iOS allows you to hide Home Screen pages for a cleaner look, but if you did that accidentally, you might get confused, wondering where your installed apps have gone.
+
+ Worry not! If you want to continue retaining a minimalist Home Screen, you can access the downloaded apps in the App Library or restore your Home Screen pages by unhiding them.
+
+ To avoid confusion in the future, learn more about [hiding and unhiding the Home Screen pages](https://www.makeuseof.com/hide-iphone-home-screen-pages/) .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 7\. Use App Store to Check If an App Is Installed or Not
+
+ When an app is downloaded on your iPhone, the App Store page says**Open** (or**Update**). If the app is not downloaded, it says**Get** (or shows the**Download** cloud icon).
+
+ Using this information, here's how to find a missing app on your iPhone:
+
+1. Long press the**App Store** icon and tap**Search** .
+2. Type the name of the missing app.
+3. In the search results, if the app says**Open** , tap it. If it says**Get** or shows a cloud icon, download it.
+
+![Long press iOS App Store icon and tap Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/long-press-ios-app-store-icon-and-tap-search.png)
+
+![Search for app in App Store and tap Open](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/search-for-app-in-app-store-and-tap-open.png)
+
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<!-- affiliate ads end -->
+Close
+
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 8\. Reset the Home Screen Layout to View All Apps Alphabetically
+
+ If you want every app listed alphabetically to be sure not to miss anything, you can reset the Home Screen and Dock layout. After this, the Home Screen will show all the Apple apps (just like a new iPhone). And the apps you have downloaded will be placed alphabetically in order.
+
+Here's how to reset your iPhone's Home Screen layout:
+
+1. Open**Settings** and tap**General** .
+2. Scroll to the bottom and tap**Transfer or Reset iPhone** \>**Reset** \>**Reset Home Screen Layout** .
+
+![Tap General in iPhone Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/tap-general-in-iphone-settings-app.png)
+
+![From the bottom tap Reset in iPhone Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/from-the-bottom-tap-reset-in-iphone-settings.png)
+
+![Tap Reset Home Screen Layout in iPhone Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/tap-reset-home-screen-layout-in-iphone-settings.png)
+
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
+Close
+
+## 9\. Additional Fixes if You Still Can't Find an App
+
+ Most of the methods we covered above involve unhiding an app and getting it back on the Home Screen again. But if those don't work, an app disappearing may be caused by a glitch.
+
+ In this case, you can use generic (but frequently effective) solutions such as [restarting your iPhone](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) . You should also update your iPhone to ensure your device receives bug fixes from the latest version of iOS. Go to**Settings > General > Software Update** to check if an iOS update is available.
+
+## Hopefully, You Found the Missing iPhone App
+
+ These were the quick ways to find any missing or hidden apps on iPhone. Sometimes if you can't find an app, you likely deleted it. In this case, re-download it from the App Store.
+
+ Additionally, it's possible that the app was removed from the App Store by the developer or Apple (as was the case with Flappy Bird and Fortnite, respectively). In such situations, you will have to use one of its alternatives.
+
+ If it's often difficult to find apps or open them quickly, it might be worth allocating some time to organize your iPhone's Home Screen layout to help with that.
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-dive-into-action-footage-selecting-top-notch-cams-addons/"><u>[New] 2024 Approved  Dive Into Action Footage  Selecting Top-Notch Cams Addons</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-haunting-scenes-next-gen-cam-tech/"><u>[New] Haunting Scenes  Next-Gen Cam Tech</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-essential-youtube-video-editing-techniques/"><u>[New] In 2024, Essential YouTube Video Editing Techniques</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-perfecting-narrative-scripts-dialogue-excellence/"><u>[New] Perfecting Narrative Scripts  Dialogue Excellence</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-top-converter-mp4-to-facebook-social-media-pro/"><u>[New] Top Converter  MP4 to Facebook (Social Media Pro)</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-what-is-the-difference-between-youtube-and-dailymotion-for-2024/"><u>[Updated] What Is the Difference Between YouTube and Dailymotion for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-nikon-j5-unleashed-embracing-4k-camera-technology/"><u>2024 Approved  Nikon J5 Unleashed  Embracing 4K Camera Technology</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-samsung-galaxy-m34-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Samsung Galaxy M34 Phone Using PC | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-motorola-moto-e13-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Motorola Moto E13 | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/5-essential-fixes-for-successful-shared-subscriptions-under-family-group-settings/"><u>5 Essential Fixes for Successful Shared Subscriptions Under Family Group Settings</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-quick-guide-to-itel-p40-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Itel P40 FRP Bypass Instantly</u></a></li>
+<li><a href="https://change-location.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-vivo-v27-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Vivo V27 | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/beating-the-silence-reachable-messages-and-calls-on-iphones-do-not-disturb-with-8-tricks/"><u>Beating the Silence: Reachable Messages and Calls on iPhone's Do Not Disturb with 8 Tricks</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/creating-the-ultimate-home-pc-for-professional-video-editors/"><u>Creating the Ultimate Home PC for Professional Video Editors</u></a></li>
+<li><a href="https://fox-that.techidaily.com/essential-fixes-for-iphones-that-dont-ring-expert-tips-and-solutions-unveiled/"><u>Essential Fixes for iPhones That Don't Ring: Expert Tips and Solutions Unveiled</u></a></li>
+<li><a href="https://fox-that.techidaily.com/get-your-siri-back-7-tips-to-restore-voice-assistant-functionality-on-ios-gadgets/"><u>Get Your Siri Back: 7 Tips to Restore Voice Assistant Functionality on iOS Gadgets</u></a></li>
+<li><a href="https://fox-that.techidaily.com/getting-the-best-out-of-smartphone-photography-with-lower-mp-iphones/"><u>Getting the Best Out of Smartphone Photography with Lower MP iPhones</u></a></li>
+<li><a href="https://fox-that.techidaily.com/guide-correcting-mistaken-identity-in-your-apple-photos-collection/"><u>Guide: Correcting Mistaken Identity in Your Apple Photos Collection</u></a></li>
+<li><a href="https://fox-that.techidaily.com/handling-ios-restoration-problems-overcoming-error-4013-with-ease/"><u>Handling iOS Restoration Problems: Overcoming Error 4013 with Ease</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-boot-your-iphone-in-dfu-mode-for-device-recovery/"><u>How to Boot Your iPhone in DFU Mode for Device Recovery</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-correctly-reconnect-imessage-after-an-unintended-logout-on-your-iphone/"><u>How to Correctly Reconnect iMessage After an Unintended Logout on Your iPhone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-fix-situations-when-your-iphone-cant-answer-calls/"><u>How to Fix Situations When Your iPhone Can’t Answer Calls</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-restore-location-services-when-they-disappear-from-your-iphone-screen/"><u>How to Restore Location Services When They Disappear From Your iPhone Screen</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-excel-2019-by-digital-signature-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to sign Excel 2019 by digital signature</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-tiktoks-toptwitter-tweets-amassing-views/"><u>In 2024, TikTok's #TopTwitter Tweets Amassing Views</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-huawei-p60-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Huawei P60 | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-htc-u23-pro-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On HTC U23 Pro Device</u></a></li>
+<li><a href="https://fox-that.techidaily.com/is-this-an-error-or-have-i-been-blocked-on-imessage-after-receiving-a-text-instead/"><u>Is This an Error or Have I Been Blocked on iMessage After Receiving a Text Instead?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/mastering-the-factory-reset-process-for-ios-devices-iphone-ipad/"><u>Mastering the Factory Reset Process for iOS Devices (iPhone, iPad)</u></a></li>
+<li><a href="https://fox-that.techidaily.com/reasons-behind-hot-iphones-and-ipads-fixing-them-effectively-a-comprehensive-guide/"><u>Reasons Behind Hot iPhones and iPads, Fixing Them Effectively: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/refine-your-iphone-visuals-with-these-7-expert-camera-fixes/"><u>Refine Your iPhone Visuals with These 7 Expert Camera Fixes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/retrieval-tactics-for-missing-iphone-memos-and-notes-how-to/"><u>Retrieval Tactics for Missing iPhone Memos and Notes – How To</u></a></li>
+<li><a href="https://techtrends.techidaily.com/secrets-unveiled-a-guide-on-landing-a-free-netflix-subscription/"><u>Secrets Unveiled: A Guide on Landing a Free Netflix Subscription</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-the-issue-of-phantom-touches-on-your-iphone-top-10-effective-solutions/"><u>Solving the Issue of Phantom Touches on Your iPhone: Top 10 Effective Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/speed-up-your-iphone-now-with-these-6-troubleshooting-steps/"><u>Speed Up Your iPhone Now with These 6 Troubleshooting Steps</u></a></li>
+<li><a href="https://fox-that.techidaily.com/the-winter-edition-of-soundbot-sb210-delivering-high-fidelity-audio-with-exceptional-quality/"><u>The Winter Edition of Soundbot SB210 - Delivering High Fidelity Audio with Exceptional Quality</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-6-tips-to-correct-autocorrect-errors-and-improve-your-iphones-typing-accuracy/"><u>Top 6 Tips to Correct AutoCorrect Errors & Improve Your iPhone's Typing Accuracy</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-stuck-auto-brightness-settings-on-iphone-with-these-7-effective-solutions/"><u>Troubleshoot Stuck Auto-Brightness Settings on iPhone with These 7 Effective Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-camera-distortion-in-whatsapp-video-calls/"><u>Troubleshooting Camera Distortion in WhatsApp Video Calls</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-solving-the-relink-issue-in-granblue-fantasy/"><u>Troubleshooting Guide: Solving the 'Relink' Issue in Granblue Fantasy</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-iphone-app-installation-issues-top-10-solutions/"><u>Troubleshooting iPhone App Installation Issues: Top 10 Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/ultimate-technique-for-booting-your-ipad-into-recovery-mode-safely/"><u>Ultimate Technique for Booting Your iPad Into Recovery Mode Safely</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlocking-the-secrets-to-reviving-a-disabled-apple-device/"><u>Unlocking the Secrets to Reviving a Disabled Apple Device</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723207172245-usb-peripherals-failure-in-windows-7-heres-how-you-can-repair-them/"><u>USB Peripherals Failure in Windows 7? Here's How You Can Repair Them</u></a></li>
+<li><a href="https://fox-that.techidaily.com/why-isnt-my-iphone-volume-button-responding-here-are-7-fixes-that-work/"><u>Why Isn't My iPhone Volume Button Responding? Here Are 7 Fixes That Work</u></a></li>
+</ul></div>

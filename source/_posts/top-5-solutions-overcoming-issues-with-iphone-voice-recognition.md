@@ -1,0 +1,214 @@
+---
+title: "Top 5 Solutions: Overcoming Issues with iPhone Voice Recognition"
+date: 2024-08-22T23:04:51.730Z
+updated: 2024-08-23T23:04:51.730Z
+tags:
+  - iphone
+  - apple
+categories:
+  - iphone
+description: "This Article Describes Top 5 Solutions: Overcoming Issues with iPhone Voice Recognition"
+excerpt: "This Article Describes Top 5 Solutions: Overcoming Issues with iPhone Voice Recognition"
+thumbnail: https://thmb.techidaily.com/2944d63225d253c3279f8dae40efe484858639ea552fbe04c95a0ccb48d7f545.jpg
+---
+
+## Top 5 Solutions: Overcoming Issues with iPhone Voice Recognition
+
+### Quick Links
+
+* [Check if Dictation Is Enabled on Your iPhone](https://www.makeuseof.com/fixes-dictation-not-working-on-iphone/#check-if-dictation-is-enabled-on-your-iphone)
+* [Add the Dictation Language to Your iPhone Keyboard](https://www.makeuseof.com/fixes-dictation-not-working-on-iphone/#add-the-dictation-language-to-your-iphone-keyboard)
+* [Allow Siri & Dictation in Your iPhone's Screen Time Settings](https://www.makeuseof.com/fixes-dictation-not-working-on-iphone/#allow-siri-amp-dictation-in-your-iphone-39-s-screen-time-settings)
+* [Test Your iPhone's Microphone](https://www.makeuseof.com/fixes-dictation-not-working-on-iphone/#test-your-iphone-39-s-microphone)
+* [General Fixes: Restart, Update, or Reset Your iPhone](https://www.makeuseof.com/fixes-dictation-not-working-on-iphone/#general-fixes-restart-update-or-reset-your-iphone)
+
+ Having issues converting voice to text on your iPhone? Or perhaps the dictation icon is nowhere to be found at all? Don't worry; these are several simple troubleshooting steps you can follow when dictation isn't working on your iPhone.
+
+## 1\. Check if Dictation Is Enabled on Your iPhone
+
+ The dictation feature is represented by a microphone icon at the bottom of your iPhone's on-screen keyboard. While dictation is enabled by default, you'll need to turn it on in Settings first if you don't see the microphone icon on the keyboard.
+
+ Go to**Settings > General > Keyboard** and toggle on**Enable Dictation** . Tap**Enable Dictation** again to confirm. The**microphone** icon will now appear on the iOS keyboard; tap it to begin dictating.
+
+![iPhone General settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/iphone-general-settings.JPEG)
+
+![iphone keyboards setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/iphone-keyboards-setting.jpeg)
+
+![enable dictation confirmation popup on iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/enable-dictation-confirmation-popup-on-iphone.PNG)
+
+Close
+
+ If dictation is already enabled, but the icon is still missing, try disabling and re-enabling the feature. In the same**Keyboards** setting page, toggle off**Enable Dictation** , tap**Turn Off Dictation** to confirm, then toggle on**Enable Dictation** again.
+
+![iphone keyboard dictation setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/iphone-keyboard-dictation-setting.PNG)
+
+![turn off dictation confirmation popup on iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/turn-off-dictation-confirmation-popup-on-iphone.PNG)
+
+Close
+
+## 2\. Add the Dictation Language to Your iPhone Keyboard
+
+ Let's say you typically type in English on your iPhone but want to dictate something in Chinese. The iPhone's dictation feature won't recognize what you're saying if Chinese hasn't been added to the keyboard yet.
+
+ In this case, go to **Settings > General > Keyboard > Keyboards > Add New Keyboard** . From the list, choose**Chinese** (or your preferred language), select the keyboard input method, and tap**Done** .
+
+![expanded iphone keyboards setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/expanded-iphone-keyboards-setting.PNG)
+
+![iphone keyboard language list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/iphone-keyboard-language-list.PNG)
+
+![keyboard language list on iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/keyboard-language-list-on-iphone.PNG)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
+Close
+
+ If you intend to dictate text in a Chinese dialect, there's an additional setting you need to do. In the**Keyboards** setting page, go to**Dictation Languages** . From the list, select one of the language variations in addition to**Mandarin** .
+
+![iphone keyboard dictation setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/iphone-keyboard-dictation-setting.PNG)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
+![iphone dictation languages setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/iphone-dictation-languages-setting.PNG)
+
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+Close
+
+ Now, when it comes to dictating your text, remember to switch the dictation language too. Tap the**microphone** icon, tap**EN** (which stands for English), and choose your new preferred dictation language.
+
+![dictation button in iphone notes app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/dictation-button-in-iphone-notes-app.PNG)
+
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
+![change dictation language in iphone notes app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/change-dictation-language-in-iphone-notes-app.PNG)
+
+Close
+
+ Dictation isn't available for all languages. You can check [Apple's site](http://www.apple.com/ios/feature-availability/#quicktype-keyboard-dictation) for a list of dictation languages available for the iPhone.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<!-- affiliate ads end -->
+## 3\. Allow Siri & Dictation in Your iPhone's Screen Time Settings
+
+ If dictation still isn't working on your iPhone, it may be due to your iPhone's Screen Time settings, which can restrict the dictation feature on your device.
+
+ To check this, go to **Settings > Screen Time > Content & Privacy Restrictions > Allowed Apps** . If**Siri & Dictation** is toggled off, toggle it on so your iPhone will let you use the dictation function again.
+
+![iphone screen time setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/iphone-screen-time-setting.PNG)
+
+![iphone content and privacy restrictions setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/iphone-content-and-privacy-restrictions-setting.PNG)
+
+![allowed apps on iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/allowed-apps-on-iphone.PNG)
+
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
+Close
+
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
+## 4\. Test Your iPhone's Microphone
+
+ If you have all the correct settings in place, yet dictation isn't working, the issue may lie with your iPhone's microphone.
+
+ A quick way to test it is to record a short audio clip [using your iPhone's Voice Memos app](https://www.makeuseof.com/voice-memos-app-guide-iphone/) . If it's a software issue, there are [solutions to fix your iPhone's microphone](https://www.makeuseof.com/iphone-microphone-fixes/) quickly.
+
+ But if it's a hardware problem, you'll likely need to contact Apple Support or an Apple Authorized Service Provider.
+
+## 5\. General Fixes: Restart, Update, or Reset Your iPhone
+
+ If the above solutions fail, as a last attempt, there are a few general fixes you can try. First,[restart your iPhone](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) , which simply involves turning off your device and turning it on again.
+
+ Also, go to**Settings > General > Software Update** to see if an iOS update is available for your device. Updates carry performance improvements and bug fixes, so try to update your iPhone to see if it resolves the dictation issue.
+
+ Lastly, you can opt to reset all settings on your iPhone. This process returns all your iPhone settings to their default state without deleting your valuable data.
+
+ Go to **Settings > General > Transfer or Reset iPhone > Reset > Reset All Settings** . The process takes some time, so it's best to attempt it only when you don't need to use your iPhone for a while.
+
+![General settings showing Transfer or Reset option in iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/general-settings-showing-transfer-or-reset-option-in-ios.jpeg)
+
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
+![transfer or reset iphone settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_7384.JPEG)
+
+![transfer or reset iphone settings confirmation window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_7385.JPEG)
+
+Close
+
+ To sum up, you'll need to ensure that dictation is enabled in your iPhone's Settings app first. Then, add the right languages to the keyboard and switch between your preferred languages before dictating.
+
+ Also, try restarting, updating, or resetting your iPhone. If you suspect the root cause is hardware, it's best to contact Apple Support or an Apple Authorized Service Provider for further assistance. In the meantime, you can also try out some [iPhone dictation apps](https://www.makeuseof.com/best-dictation-apps-iphone/) on the App Store.
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-practical-steps-for-saving-real-time-chat-sessions/"><u>[New] 2024 Approved  Practical Steps for Saving Real-Time Chat Sessions</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-monitor-guide-transform-your-xbox-series-x-experience-today/"><u>[New] The Ultimate Monitor Guide  Transform Your Xbox Series X Experience Today</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-utilizing-instagram-filters-to-elevate-your-photos-for-2024/"><u>[New] Utilizing Instagram Filters to Elevate Your Photos for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-essential-tips-and-tricks-for-creating-killer-short-videos-on-yt-for-2024/"><u>[Updated] Essential Tips and Tricks for Creating Killer Short Videos on YT for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-capture-movies-with-ease-cross-platform-techniques-and-tips/"><u>[Updated] In 2024, Capture Movies with Ease  Cross-Platform Techniques & Tips</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-which-is-superior-gopro-v5-edge-or-keymission/"><u>[Updated] In 2024, Which Is Superior, GoPro V5 Edge or Keymission?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/8-essential-fixes-for-when-your-ios-device-cant-connect-to-wi-fi/"><u>8 Essential Fixes for When Your iOS Device Can't Connect to Wi-Fi</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721479702768-beta-blockers-can-be-used-in-treating-a-variety-of-conditions-including-hypertension-angina-heart-failure-atrial-fibrillation-and-anxiety/"><u>Beta Blockers Can Be Used in Treating a Variety of Conditions Including Hypertension, Angina, Heart Failure, Atrial Fibrillation, and Anxiety</u></a></li>
+<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-motorola-moto-g84-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Motorola Moto G84 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/delayed-texts-on-ios-here-are-9-ways-to-get-them-flowing-smoothly/"><u>Delayed Texts on iOS? Here Are 9 Ways to Get Them Flowing Smoothly</u></a></li>
+<li><a href="https://fox-that.techidaily.com/easy-ways-to-overcome-challenges-with-family-sharing-subscriptions-on-ios-devices/"><u>Easy Ways to Overcome Challenges with Family Sharing Subscriptions on iOS Devices</u></a></li>
+<li><a href="https://fox-that.techidaily.com/endless-playlists-a-guide-to-preventing-your-streaming-music-from-crashing-when-iphone-is-locked/"><u>Endless Playlists: A Guide to Preventing Your Streaming Music From Crashing When iPhone Is Locked</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/experience-the-magic-of-free-voice-change-for-valorant-gaming-for-2024/"><u>Experience the Magic of Free Voice Change for Valorant Gaming for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/experts-choice-top-8-proven-video-marketing-actions/"><u>Expert's Choice  Top 8 Proven Video Marketing Actions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fix-your-iphones-hey-siri-problem-with-these-17-essential-steps/"><u>Fix Your iPhone’s Hey Siri Problem with These 17 Essential Steps</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-phone-display-issues-top-7-solutions-to-stop-screen-flickering-now/"><u>Fixing Phone Display Issues: Top 7 Solutions to Stop Screen Flickering Now</u></a></li>
+<li><a href="https://fox-that.techidaily.com/get-your-iphone-light-back-on-track-12-problem-solving-methods/"><u>Get Your iPhone Light Back on Track: 12 Problem-Solving Methods</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-motorola-razr-40-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Motorola Razr 40 Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-samsung-galaxy-xcover-7-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Samsung Galaxy XCover 7 to New Phone | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/imessage-disappearing-act-heres-what-it-means-and-how-to-check-for-a-block/"><u>IMessage Disappearing Act? Here’s What It Means and How to Check for a Block</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ios-users-rejoice-the-latest-chatgpt-application-is-here/"><u>IOS Users Rejoice: The Latest ChatGPT Application Is Here!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-contact-app-error-resolve-it-now-follow-this-3-point-fix-process/"><u>IPhone Contact App Error? Resolve It Now - Follow This 3-Point Fix Process</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-control-center-not-responding-discover-8-fixes-that-work/"><u>IPhone Control Center Not Responding? Discover 8 Fixes That Work!</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/lightning-timelapses-on-iphone-reducing-delay-for-2024/"><u>Lightning Timelapses on iPhone  Reducing Delay for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/master-the-art-of-perfect-spelling-on-your-iphone-fixing-6-common-autocorrect-faults/"><u>Master the Art of Perfect Spelling on Your iPhone – Fixing 6 Common Autocorrect Faults!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/mastering-the-art-of-fixing-iphones-tackling-7-common-camera-challenges/"><u>Mastering the Art of Fixing iPhones: Tackling 7 Common Camera Challenges</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/next-gen-android-headphones-samsungs-buds-pro/"><u>Next-Gen Android Headphones: Samsung's Buds Pro</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/one-stop-solution-mastering-gif-downloads-across-all-devices-and-systems-for-2024/"><u>One-Stop Solution  Mastering GIF Downloads Across All Devices & Systems for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolve-airdrop-connectivity-errors-fast-a-guide-to-16-proven-techniques/"><u>Resolve AirDrop Connectivity Errors Fast: A Guide to 16 Proven Techniques</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolve-common-iphone-problems-a-step-by-step-guide-to-adjusting-network-preferences/"><u>Resolve Common iPhone Problems: A Step-by-Step Guide to Adjusting Network Preferences</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolving-the-issue-what-to-do-when-you-encounter-error-4013-on-ios-updaterestore/"><u>Resolving the Issue: What to Do When You Encounter Error 4013 on iOS Update/Restore</u></a></li>
+<li><a href="https://fox-that.techidaily.com/revitalize-your-iphone-a-step-by-step-guide-to-perfecting-battery-calibration/"><u>Revitalize Your iPhone: A Step-by-Step Guide to Perfecting Battery Calibration</u></a></li>
+<li><a href="https://fox-that.techidaily.com/revitalize-your-iphone-how-a-complete-network-reset-can-solve-common-connectivity-glitches/"><u>Revitalize Your iPhone: How a Complete Network Reset Can Solve Common Connectivity Glitches</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-ipad-and-iphone-keyboard-issues-effective-remedies-for-smooth-typing/"><u>Solving iPad and iPhone Keyboard Issues – Effective Remedies for Smooth Typing</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-roblox-memory-errors-on-iphone-a-step-by-step-guide/"><u>Solving Roblox Memory Errors on iPhone: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/stay-ahead-with-the-complete-samsung-unpacked-2n25-coverage-schedule-news-highlights-and-expert-predictions/"><u>Stay Ahead with the Complete Samsung Unpacked 2N25 Coverage: Schedule, News Highlights & Expert Predictions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-process-setup-and-sync-disneyplus-for-chromecast-viewing-comfortably-at-home/"><u>Step-by-Step Process: Setup and Sync Disney+ for Chromecast Viewing Comfortably at Home</u></a></li>
+<li><a href="https://fox-that.techidaily.com/tackling-iphone-13-glitches-head-on-strategies-for-resolving-its-top-6-faults/"><u>Tackling iPhone 13 Glitches Head-On: Strategies for Resolving Its Top 6 Faults</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/the-ultimate-free-screenshot-tool-showdown/"><u>The Ultimate Free Screenshot Tool Showdown</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-when-safari-doesnt-load-pictures-on-iphones-solutions-uncovered/"><u>Troubleshooting: When Safari Doesn't Load Pictures on iPhones – Solutions Uncovered</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unblock-your-iphone-phone-calls-discover-these-1-troubleshooting-iphone-call-failures-top-10-tips/"><u>Unblock Your iPhone Phone Calls: Discover These 1#. Troubleshooting iPhone Call Failures: Top 10 Tips</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlocking-the-mystery-11-ways-to-restore-missing-ringtones-on-iphones/"><u>Unlocking the Mystery: 11 Ways to Restore Missing Ringtones on iPhones</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlocking-the-secrets-how-to-restore-a-disabled-ipad-or-iphone/"><u>Unlocking the Secrets: How to Restore a Disabled iPad or iPhone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/untouched-live-visual-recorders-for-2024/"><u>Untouched Live Visual Recorders for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/use-of-analytics-for-2024/"><u>Use of Analytics for 2024</u></a></li>
+</ul></div>
