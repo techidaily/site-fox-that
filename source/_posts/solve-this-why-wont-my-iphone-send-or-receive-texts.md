@@ -1,0 +1,183 @@
+---
+title: "Solve This: Why Won't My iPhone Send or Receive Texts?"
+date: 2024-08-27T14:42:06.776Z
+updated: 2024-08-28T14:42:06.776Z
+tags:
+  - iphone
+  - apple
+categories:
+  - iphone
+description: "This Article Describes Solve This: Why Won't My iPhone Send or Receive Texts?"
+excerpt: "This Article Describes Solve This: Why Won't My iPhone Send or Receive Texts?"
+thumbnail: https://thmb.techidaily.com/92ce41ef8b05767b09e5cccf1de47f0c1a1c9c1b0cd1ef1d90d54872beba93f1.jpg
+---
+
+## Solve This: Why Won't My iPhone Send or Receive Texts?
+
+ If your iPhone isn't receiving text messages, it can feel like a big problem. After all, you could be missing out on something important. With most people communicating by text nowadays, not getting a text can be a big deal. If you've missed out on a text before, you know exactly what this feels like.
+
+ There are many reasons why your iPhone might not be receiving text messages—from incorrect settings to poor internet connection. So, try the troubleshooting steps below, and you'll receive texts again in no time!
+
+ Your browser does not support the video tag.
+
+## 1\. Make Sure Messaging Is Enabled
+
+ If you've just set up your iPhone or completed an iOS update, there is a chance iMessage isn't enabled. If not enabled, you won't receive texts from other iPhones. To turn this on, head to**Settings > Messages > iMessage** .
+
+![imessage settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/imessage-settings.jpg)
+
+ Below iMessage, you will also see a setting for**Send & Receive** . Make sure you have an address enabled to receive iMessages. While you're here, be sure to also enable**MMS** and**Group Messaging** . If you scroll down, you will see the options for these.
+
+![mms group messages](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/mms-group-messages.jpg)
+
+ Sometimes, certain emojis will be sent as an MMS message. If you have this off, you won't receive the text. There are also cases where someone might tag another person in the text and make it a group text. If this option was off, you wouldn't have received that text either.
+
+ If you're receiving messages from other iPhones but not Android phones, this could be the reason. If that still doesn't help, but you are receiving iMessage texts, you can learn more about what to do if you're [not receiving texts from Android](https://www.makeuseof.com/iphone-not-receiving-android-texts/) .
+
+## 2\. Edit Send & Receive Settings
+
+![iOS settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/messages-settings-ios16.jpg)
+
+![iphone messages settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/iphone-messages-settings.jpg)
+
+![selecting email address for imessage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/apple-imessage-settings.jpg)
+
+Close
+
+ If your iPhone isn't receiving picture messages from other iOS devices, or if you're having an issue with iMessage, there is a simple solution. The solution is to edit your Send & Receive settings to include your email.
+
+ To do this, open Settings, head to**Messages > Send & Receive** , and select your Apple ID email address. This will allow you to send or receive messages over the internet using this email address.
+
+ Some people might be sending you messages to your email address unknowingly, so changing this particular setting will make it possible to receive these messages.
+
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
+## 3\. Make Sure You Have Cellular or Wi-Fi for iMessage
+
+ If you are waiting for an iMessage from another iPhone user and aren't getting it, you could have a bad connection. iMessage requires Wi-Fi or cellular data to work.
+
+ If you have cellular data turned off or aren't connected to Wi-Fi, you won't receive iMessage texts until you reconnect. Also, if you are getting texts from some people and not others, you might be having [issues with iMessage in general](https://www.makeuseof.com/tag/imessage-not-working-on-mac-iphone-ipad/) .
+
+ To solve this issue, reconnect to Wi-Fi or cellular data. And if you don't have a good connection, you can try the next step.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
+## 4\. Bad Connection? Turn on Send as SMS
+
+ If you don't have access to a stable internet connection, consider turning on the Send as SMS feature. This will enable you to send regular SMS texts instead of iMessage texts when you don't have service.
+
+ If you have this off, your iPhone will wait until you have a stable connection before it sends a message. That means your recipient won't receive the messages immediately and might not text back because they didn't get your message yet. This might lead you to believe you aren't getting texts when, in reality, they didn't get your initial message.
+
+ To turn this on, head to**Settings > Messages** and tap**Send as SMS** . This will enable SMS messaging in the future.
+
+![send as sms](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/send-as-sms.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 5\. Turn Off Message Filtering
+
+[iPhones allow you to filter text messages](https://www.makeuseof.com/how-to-filter-iphone-messages/) from unknown senders. While this is off by default, you may have accidentally turned it on. If that's the case, you could be missing text messages from numbers you don't have saved on your phone.
+
+ To resolve this, turn off message filtering on your device. You can do this by heading to**Settings > Messages** and disabling**Filter Unknown Senders** . You should start receiving text messages again if it was enabled all this time.
+
+![filter unknown senders](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/filter-unknown-senders.jpg)
+
+ Once you turn it off, head to the Messages app to find any unread messages that the filter hid. Filtered messages don't get deleted. Instead, they get stored in another folder. Once you turn off Message Filtering, you'll see them in the**Messages** app.
+
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
+## 6\. Reset Your Network Settings
+
+ Sometimes, third-party apps, updates, and bugs can cause your network settings to malfunction. If this happens, you might not receive iMessages or even text messages in general.
+
+ Before proceeding to more time-consuming fixes, you should try resetting your network settings. Some users reported that this does fix many issues related to your iPhone not receiving texts.
+
+ To do this, head to **Settings > General > Transfer or Reset iPhone > Reset > Reset Network Settings** .
+
+![reset network settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/reset-network-settings.jpg)
+
+ After resetting your network settings, get someone to send you another text message. If you still can't receive it, you can always try [resetting your iPhone entirely](https://www.makeuseof.com/tag/how-to-factory-reset-iphone-ipad/) . However, that is time-consuming and might not work.
+
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 7\. Contact Your Carrier
+
+ If you tried the above fixes and still aren't receiving text messages on your iPhone, it's time to call your carrier. After all, there are many other ways your carrier can help you. For example, there could be a cell tower outage near you that they can inform you of, or you could have an issue with your account.
+
+ If you pay your carrier for service and aren't receiving text messages, the carrier is responsible for restoring your text messaging. The carrier can verify your plan, check for outages, and try resetting your account if necessary. You may also want to consider trying a new SIM card and see if that helps.
+
+ When calling your carrier, just let them know you aren't receiving text messages. If the carrier can't help you, consider switching to a different network provider unless you have a [carrier-locked phone](https://www.makeuseof.com/unlocked-vs-locked-phone/) .
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
+## iPhone Not Receiving Texts? There Are Things You Can Do
+
+ You could miss important events or updates if you're not receiving text messages on your iPhone. This can be difficult for anybody. Because of this, you'll want to get this fixed as soon as possible. After all, you might have already missed some important messages and don't want to miss them anymore.
+
+ Luckily, there are several things you can try before contacting your carrier. Sometimes, a simple setting can change whether you receive messages. There are also cases when resetting your network settings fixes your carrier issues, so you don't need to call and wait.
+
+ No matter what the issue with your iPhone is, you have several steps to try, and hopefully, you can get it fixed and start receiving messages again.
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-how-to-manual-for-creating-an-inclusive-and-productive-skype-chat-room-accessible-by-both-windows-and-mac-users/"><u>[New] 2024 Approved  How-To Manual for Creating an Inclusive and Productive Skype Chat Room Accessible by Both Windows & Mac Users</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-harness-social-blade-for-profound-youtube-stats-analysis/"><u>[New] In 2024, Harness Social Blade for Profound YouTube Stats Analysis</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-the-ultimate-guide-to-crafting-mc-village-dwellings/"><u>[New] In 2024, The Ultimate Guide to Crafting MC Village Dwellings</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-macs-2023-update-youtube-audio-to-mp3-step-by-step/"><u>[New] Mac's 2023 Update  YouTube Audio to MP3 Step-by-Step</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-how-to-create-awesome-instagram-videos/"><u>[Updated] In 2024, How to Create Awesome Instagram Videos</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-instagram-reels-slow-motion-techniques-unveiled-for-2024/"><u>[Updated] Instagram Reels Slow-Motion Techniques Unveiled for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-facetune-a-thorough-app-guide/"><u>2024 Approved  Mastering Facetune   A Thorough App Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/6-crucial-fixes-for-seamless-family-sharing-of-subscriptions/"><u>6 Crucial Fixes for Seamless Family Sharing of Subscriptions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-as-therapy-the-unseen-risks-you-should-know/"><u>AI as Therapy: The Unseen Risks You Should Know</u></a></li>
+<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-vivo-y100t-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Vivo Y100t | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/calibrate-your-iphones-power-unit-in-just-6-quick-guidelines/"><u>Calibrate Your iPhone's Power Unit in Just 6 Quick Guidelines</u></a></li>
+<li><a href="https://fox-that.techidaily.com/cant-get-hey-siri-working/"><u>Can't Get Hey Siri Working</u></a></li>
+<li><a href="https://fox-that.techidaily.com/clear-focus-strategies-correcting-the-unclear-iphone-photos-with-7-simple-steps/"><u>Clear Focus Strategies: Correcting the Unclear iPhone Photos with 7 Simple Steps</u></a></li>
+<li><a href="https://fox-that.techidaily.com/complete-instructions-for-booting-ipads-into-recovery-mode-effortlessly/"><u>Complete Instructions for Booting iPads Into Recovery Mode Effortlessly</u></a></li>
+<li><a href="https://fox-that.techidaily.com/delayed-imessages-troubleshooting-uncover-9-proven-solutions-to-sendreceive-promptly/"><u>Delayed iMessages Troubleshooting: Uncover 9 Proven Solutions to Send/Receive Promptly</u></a></li>
+<li><a href="https://fox-that.techidaily.com/discover-10-factors-causing-your-iphone-display-to-dim-automatically/"><u>Discover 10 Factors Causing Your iPhone Display to Dim Automatically</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/easy-guide-to-honor-x7b-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Honor X7b FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://fox-that.techidaily.com/enhance-iphone-connectivity-and-performance-with-a-simple-network-settings-reset-tutorial/"><u>Enhance iPhone Connectivity & Performance with a Simple Network Settings Reset Tutorial</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-a-broken-airplay-link-between-apple-devices-quick-guide/"><u>Fixing a Broken AirPlay Link Between Apple Devices Quick Guide</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-poco-f5-5g-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Poco F5 5G Pattern Lock Screen</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-infinix-note-30-vip-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Infinix Note 30 VIP | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-oneplus-ace-2-pro-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from OnePlus Ace 2 Pro to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-honor-magic-5-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My Honor Magic 5 | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/installing-auto-gpt-made-easy-follow-these-simple-steps-for-a-smooth-process/"><u>Installing Auto-GPT Made Easy: Follow These Simple Steps for a Smooth Process</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-refresh-hacks-reviving-your-device-sans-itunes/"><u>IPhone Refresh Hacks: Reviving Your Device Sans iTunes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-iphone-13-challenges-the-ultimate-guide-to-troubleshooting-the-6-biggest-issues/"><u>Overcoming iPhone 13 Challenges: The Ultimate Guide to Troubleshooting the 6 Biggest Issues</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/seeking-outno-cost-clip-art-deposits-for-2024/"><u>Seeking Outno-Cost Clip Art Deposits for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/simple-steps-to-protect-and-backup-whatsapp-conversations-on-iphones-a-comprehveiled-approach/"><u>Simple Steps to Protect and Backup WhatsApp Conversations on iPhones – A Comprehveiled Approach</u></a></li>
+<li><a href="https://fox-that.techidaily.com/six-strategies-to-speed-up-your-instagram-on-smartphones-iosandroid/"><u>Six Strategies to Speed Up Your Instagram on Smartphones (iOS/Android)</u></a></li>
+<li><a href="https://fox-that.techidaily.com/slow-mobile-connection-woes-learn-how-to-supercharge-your-data-pace-with-these-simple-steps/"><u>Slow Mobile Connection Woes? Learn How to Supercharge Your Data Pace with These Simple Steps</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solve-your-tablets-touchscreen-troubles-with-these-8-proven-tips/"><u>Solve Your Tablet's Touchscreen Troubles with These 8 Proven Tips</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-the-issue-why-does-my-iphones-screen-time-reflect-unfamiliar-sites/"><u>Solving the Issue: Why Does My iPhone's Screen Time Reflect Unfamiliar Sites?</u></a></li>
+<li><a href="https://games-able.techidaily.com/sonic-boom-rom-gaming-classic-classics-on-iphone/"><u>Sonic Boom ROM Gaming: Classic Classics on iPhone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/tablet-touch-issues-here-are-8-fixes-that-could-save-your-day/"><u>Tablet Touch Issues? Here Are 8 Fixes That Could Save Your Day</u></a></li>
+<li><a href="https://fox-that.techidaily.com/the-ultimate-beginners-guide-to-mastering-bluetooth-functionality-on-iphones/"><u>The Ultimate Beginner's Guide to Mastering Bluetooth Functionality on iPhones</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-8-remedies-for-an-iphone-that-isnt-vibrating-on-silent-or-ring-mode-discover-them-here/"><u>Top 8 Remedies for an iPhone That Isn't Vibrating on Silent or Ring Mode – Discover Them Here!</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/1722451017501-top-recommended-external-optical-discs-readers-find-your-perfect-match/"><u>Top Recommended External Optical Discs Readers – Find Your Perfect Match!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-iphones-delayed-message-reception-with-these-9-effective-tips/"><u>Troubleshooting iPhone's Delayed Message Reception with These 9 Effective Tips</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-your-iphone-imessage-connection-issues/"><u>Troubleshooting Your iPhone iMessage Connection Issues</u></a></li>
+</ul></div>

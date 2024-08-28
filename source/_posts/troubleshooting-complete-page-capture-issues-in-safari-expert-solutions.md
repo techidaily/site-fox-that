@@ -1,0 +1,138 @@
+---
+title: "Troubleshooting Complete Page Capture Issues in Safari: Expert Solutions"
+date: 2024-08-27T14:36:44.413Z
+updated: 2024-08-28T14:36:44.413Z
+tags:
+  - iphone
+  - apple
+categories:
+  - iphone
+description: "This Article Describes Troubleshooting Complete Page Capture Issues in Safari: Expert Solutions"
+excerpt: "This Article Describes Troubleshooting Complete Page Capture Issues in Safari: Expert Solutions"
+thumbnail: https://thmb.techidaily.com/7f563c6cc49d9e48b9aa551214712c5134f2db5185be39a48c0e895d012e0af9.jpg
+---
+
+## Troubleshooting Complete Page Capture Issues in Safari: Expert Solutions
+
+ Safari is a wonderful browser that allows you to browse the internet with minimal distractions. It even allows you to take full-page screenshots of webpages, documents, or emails that exceed your iPhone screen, allowing you to save these long files as a PDF.
+
+ Unfortunately, full-page screenshots don't always work how they're supposed to. But we'll show you how to fix that below.
+
+## How to Take a Full-Page Screenshot
+
+ To take a full-page, scrolling screenshot of a webpage, take a screenshot as you normally would while on Safari, then tap the preview and select**Full Page** at the top. You can then choose**Save PDF to Files** or the Share icon to send it elsewhere.
+
+ Related:[How to Take Full-Page Screenshots in Safari on iOS](https://www.makeuseof.com/how-to-screenshot-full-webpage-safari-ios/)
+
+## What to Do When Full-Page Screenshots Aren't Working
+
+Try these tips if you can't take full-page screenshots in Safari.
+
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
+### 1\. Check Your iOS Version
+
+ Full-page screenshots are available for iPhone users running on iOS 13 and later. First, make sure that your iPhone is running an iOS version that supports the feature by going to**Settings > General > About** .
+
+ If your OS is not the problem, make sure to check the app you’re using when attempting to take a full-page screenshot. It only works with Safari.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### 2\. Make Sure You're in Safari
+
+ There are times that, depending on what you’re browsing, Safari will redirect you to another built-in app, like Apple Books, Files, or Messages. Full-page screenshots are not available in other apps or browsers.
+
+![Full-page screenshots](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/08/Full-page-screenshots.PNG)
+
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Save Full-page screenshots](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/08/Save-Full-page-screenshots.PNG)
+
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
+Close
+
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<!-- affiliate ads end -->
+### 3\. Remove Safari From Any Home Screen Folders
+
+ A recent update may have a bug where full-page screenshots aren't accessible if you open Safari from a folder.
+
+ If your Safari is grouped with other apps in a folder on your Home Screen, first remove Safari from the folder and just place it somewhere on the Home Screen itself. Then launch the app and try to take a screenshot. You should see the Full-Page option again.
+
+ However, if you don’t like a cluttered Home Screen, you can also launch Safari from the App Library.
+
+ Related:[What Is the iPhone App Library and How Do I Use It?](https://www.makeuseof.com/iphone-app-library-use/)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
+## Take Screenshots Again
+
+ Full-page screenshots are a handy way to save whole web pages for later offline reading or other purposes. With these easy troubleshooting tips, you can make use of this simple hack again.
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-elevating-customer-engagement-with-snapkit-tools/"><u>[New] Elevating Customer Engagement with SnapKit Tools</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-enhance-snapchat-media-with-smart-zooming-hacks-for-2024/"><u>[New] Enhance Snapchat Media with Smart Zooming Hacks for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-boosting-views-a-guide-to-effective-facebook-video-advertising-techniques/"><u>[New] In 2024, Boosting Views  A Guide to Effective Facebook Video Advertising Techniques</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-munching-masterpieces-top-food-trends-on-social-media/"><u>[New] In 2024, Munching Masterpieces  Top Food Trends on Social Media</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-focusing-attention-with-eye-catching-intros-in-imovie/"><u>[Updated] 2024 Approved  Focusing Attention with Eye-Catching Intros in iMovie</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-step-by-step-guide-to-creating-engaging-trendy-fb-reels/"><u>[Updated] In 2024, Step-by-Step Guide to Creating Engaging, Trendy FB Reels</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-streamlined-shots-in-the-sea-7-easy-to-follow-steps/"><u>[Updated] In 2024, Streamlined Shots in the Sea  7 Easy-to-Follow Steps</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-simplifying-avi-gif-conversion-with-filmora-on-windowsmac/"><u>2024 Approved  Simplifying AVI-GIF Conversion with Filmora on Windows/Mac</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-infinix-note-30-vip-racing-edition-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From Infinix Note 30 VIP Racing Edition to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/8-effective-solutions-for-enabling-smscall-alerts-in-iphones-do-not-disturb-mode/"><u>8 Effective Solutions for Enabling SMS/Call Alerts in iPhone's Do Not Disturb Mode</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/adjusting-default-screen-saver-in-windows-11/"><u>Adjusting Default Screen Saver in Windows 11</u></a></li>
+<li><a href="https://fox-that.techidaily.com/bypassing-bug-1-7-in-your-iphone-x-quick-fix-guides-revealed/"><u>Bypassing Bug #1-#7 in Your iPhone X - Quick Fix Guides Revealed!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/bypassing-liquid-sensors-tips-for-resolving-moisture-alerts-on-iphone-connections/"><u>Bypassing Liquid Sensors: Tips for Resolving Moisture Alerts on iPhone Connections</u></a></li>
+<li><a href="https://driver-install.techidaily.com/device-driver-installation-basics/"><u>Device Driver Installation Basics</u></a></li>
+<li><a href="https://fox-that.techidaily.com/finding-deleted-iphones-pictures-are-they-actually-still-there-unlock-the-mystery-with-8-fixes/"><u>Finding Deleted iPhones Pictures: Are They Actually Still There? Unlock the Mystery With 8 Fixes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fix-face-mix-ups-in-your-images-with-these-simple-tips-for-apple-photos-users/"><u>Fix Face Mix-Ups in Your Images with These Simple Tips for Apple Photos Users</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-stagnant-ios-mailboxes-a-comprehensive-fix-for-non-updating-emails-on-iphone/"><u>Fixing Stagnant iOS Mailboxes - A Comprehensive Fix for Non-Updating Emails on iPhone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/getting-icloud-photos-back-in-line-essential-troubleshooting-steps-for-iphone-users/"><u>Getting iCloud Photos Back in Line: Essential Troubleshooting Steps for iPhone Users</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-restore-functionality-to-grayed-out-icloud-configurations-on-iphoneipad/"><u>How to Restore Functionality to Grayed Out iCloud Configurations on iPhone/iPad</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-zte-nubia-z60-ultra-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked ZTE Nubia Z60 Ultra in Minutes | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/improving-instagram-speed-effective-techniques-to-boost-performance-on-ios-and-android-phones/"><u>Improving Instagram Speed: Effective Techniques to Boost Performance on iOS & Android Phones</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-realme-12plus-5g-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Realme 12+ 5G Fingerprint Lock</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-light-dilemma-solve-your-non-functioning-flashlight-with-these-12-fixes/"><u>IPhone Light Dilemma? Solve Your Non-Functioning Flashlight with These 12 Fixes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-recovery-made-easy-steps-to-rebuild-your-device-without-using-itunes/"><u>IPhone Recovery Made Easy: Steps to Rebuild Your Device without Using iTunes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-volume-buttons-not-working-try-these-7-fixes/"><u>IPhone Volume Buttons Not Working? Try These 7 Fixes</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/1715701049372-leading-12-screen-recorders-no-time-limit/"><u>Leading 12 Screen Recorders, No Time Limit!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/navigating-your-iphone-easily-features-to-assist-those-with-vision-challenges-8/"><u>Navigating Your iPhone Easily: Features to Assist Those with Vision Challenges (8)</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-your-iphones-text-message-dilemma-with-10-expert-tips/"><u>Solving Your iPhone's Text Message Dilemma with 10 Expert Tips</u></a></li>
+<li><a href="https://fox-that.techidaily.com/steps-to-take-if-your-iphone-denies-payment-authentication/"><u>Steps to Take If Your iPhone Denies Payment Authentication</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/streamlined-process-secure-your-microsoft-wireless-mouse-5000-driver-download-now/"><u>Streamlined Process: Secure Your Microsoft Wireless Mouse 5000 Driver Download Now</u></a></li>
+<li><a href="https://fox-that.techidaily.com/the-ultimate-guide-to-clearing-up-iphone-troubles-with-a-network-settings-reset/"><u>The Ultimate Guide to Clearing Up iPhone Troubles with a Network Settings Reset</u></a></li>
+<li><a href="https://fox-that.techidaily.com/the-ultimate-list-of-prevalent-iphone-display-troubles-fixes-inside/"><u>The Ultimate List of Prevalent iPhone Display Troubles - Fixes Inside</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-mislabelled-memories-how-to-amend-incorrectly-identified-subjects-in-the-iphones-photos-application/"><u>Troubleshoot Mislabelled Memories: How to Amend Incorrectly Identified Subjects in the iPhone's Photos Application</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-nonfunctional-auto-brightness-on-iphone-with-these-effective-7-methods/"><u>Troubleshoot Nonfunctional Auto-Brightness on iPhone with These Effective 7 Methods</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-when-your-iphone-displays-sos-on-screen-with-these-6-fixes/"><u>Troubleshoot When Your iPhone Displays SOS on Screen with These 6 Fixes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-audio-problems-in-airpods-deactivating-head-movement-sync/"><u>Troubleshooting Audio Problems in AirPods: Deactivating Head Movement Sync</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-guide-8-solutions-when-iphone-control-center-fails/"><u>Troubleshooting Guide: 8 Solutions When iPhone Control Center Fails</u></a></li>
+<li><a href="https://fox-that.techidaily.com/ultimate-guide-repairing-your-iphone-frozen-at-apples-signature-emblem/"><u>Ultimate Guide: Repairing Your iPhone Frozen at Apple's Signature Emblem</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unsticking-standby-mode-a-comprehensive-guide-with-four-essential-tips-for-iphone-users/"><u>Unsticking Standby Mode: A Comprehensive Guide with Four Essential Tips for iPhone Users</u></a></li>
+<li><a href="https://fox-that.techidaily.com/what-is-device-firmware-update-dfu-mode-on-your-iphone-and-its-usage-tutorial/"><u>What Is Device Firmware Update (DFU) Mode on Your iPhone and Its Usage Tutorial</u></a></li>
+</ul></div>

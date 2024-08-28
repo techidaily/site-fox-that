@@ -1,0 +1,144 @@
+---
+title: Why Does My iPhone's Display Stay On Too Long? Solutions Inside
+date: 2024-08-27T14:32:41.340Z
+updated: 2024-08-28T14:32:41.340Z
+tags:
+  - iphone
+  - apple
+categories:
+  - iphone
+description: This Article Describes Why Does My iPhone's Display Stay On Too Long? Solutions Inside
+excerpt: This Article Describes Why Does My iPhone's Display Stay On Too Long? Solutions Inside
+thumbnail: https://thmb.techidaily.com/6aaf83c5a09999402e25379b87750585dedbdeb12f25c6a6196a672ab852e088.jpg
+---
+
+## Why Does My iPhone's Display Stay On Too Long? Solutions Inside
+
+ Is your iPhone slow to turn off the screen when you press the Side button? Well, it turns out you're not the only one!
+
+ Delayed screen locking is a common problem on iPhones with Face ID. It induces a noticeable delay between pressing the Side button and your iPhone going to sleep, which makes you wait an extra second for the screen to go black.
+
+ Surprisingly, many iPhone users aren't aware of it, and some are unwilling to seek a solution. However, if this bothers you, here's a guide explaining what causes this delay and the steps to eliminate it.
+
+## Why Does Your iPhone Screen Take a While to Turn Off?
+
+![Turned off iPhone 12 Pro Max laid facedown on green tablecloth, showing a blank screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/iphone-12-pro-max-sierra-blue-green-tablecloth.jpg)
+
+ Ideally, when you press the Side button on your iPhone, it should go to sleep immediately, i.e., the screen should go black. However, if your iPhone screen takes longer than normal to turn off, it's possible some feature on your iPhone is keeping it awake. Wallet, Guided Access, and Accessibility Shortcut are three iPhone features known to cause this issue.
+
+[Guided Access](https://www.makeuseof.com/tag/guided-access-iphone/) is an iOS feature that allows you to restrict access to your iPhone to a single app or task. Accessibility Shortcut, on the other hand, gives you access to [various accessibility features](http://www.makeuseof.com/overview-of-all-accessibility-features-iphone/) on your iPhone. Meanwhile, Wallet is a digital wallet from Apple that lets you store all your loyalty cards, boarding passes, event tickets, and credit or debit cards (for Apple Pay payments) so that you can carry them conveniently wherever you go.
+
+ For those unaware, Apple allows you to assign Side button shortcuts for Wallet & Apple Pay, Guided Access, and Accessibility Shortcut on iPhones with Face ID to a double-click or triple-click action, respectively, to facilitate their quick access. As such, if you've enabled either feature on your iPhone—and press the Side button once—your iPhone waits for a double-click or triple-click input to activate it, which ultimately induces the sleep delay.
+
+ Although this delay isn't detrimental to iPhone's performance, it can make the experience sluggish, as it requires you to wait for a second or so after pressing the Side button just to be sure the screen is off so that there are no accidental taps on the screen when you put your iPhone in your pocket.
+
+## How to Turn Off Your iPhone Screen Faster
+
+ Since the anticipation of a double-click or triple-click is what prevents your iPhone's display from going to sleep instantly, disabling the Wallet & Apple Pay, Guided Access, and Accessibility Shortcut triggers is a surefire way to alleviate this sleep delay.
+
+### Disable Wallet & Apple Pay Shortcut Trigger
+
+ Apple Pay is currently only available in select countries, but if you live in one where it's supported, and you've set it to launch with a double-click of the Side button, you can disable it using these steps:
+
+1. Head to**Settings** on your iPhone.
+2. Scroll down and select**Wallet & Apple Pay** .
+3. Toggle off the**Double-Click Side Button** option.
+
+![Wallet and Apple Pay in iOS Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/disable-apple-pay-shortcut-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
+![Wallet and Apple Pay settings in iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/disable-apple-pay-shortcut-2.jpg)
+
+Close
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Disable Guided Access and Accessibility Shortcut Trigger
+
+ If you've enabled Guided Access or Accessibility Shortcut on your iPhone, follow these steps to disable it and eliminate the sleep delay:
+
+1. Open**Settings** on your iPhone.
+2. Scroll down the page and select**Accessibility** .
+3. Scroll down to the**General** section at the bottom, tap on**Guided Access** if it's on, and then use the toggle to disable it.
+4. Now, head back to the Accessibility settings menu, tap on**Accessibility Shortcut** if that's on, and uncheck the accessibility features you've assigned.
+
+![Accessibility in the iOS Settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/disable-guided-access-accessibility-shortcut-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Guided Access in iOS Accessibility settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/disable-guided-access-accessibility-shortcut-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Disabling Guided Access from Accessibility Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/disable-guided-access-accessibility-shortcut-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
+Close
+
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
+## Never Wait for Your iPhone Screen to Turn Off Again
+
+ Once you've disabled these Side button shortcuts on your iPhone, you'll no longer need to wait for your iPhone screen to turn off. Simply press the Side button once, and your iPhone should sleep immediately.
+
+ Going forward, if you ever need to use Apple Pay, Guided Access, or any Accessibility Shortcut again, you can re-enable it from Settings. Naturally, you'll have to sacrifice quick screen locking to benefit from it, but it may be worth it if you need that convenience.
+
+ Fixing the sleep delay can help you reclaim faster locking on your iPhone. However, if your device still seems to perform slowly, it could be due to many other factors.
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-non-gta-narratives-exploring-alternative-stories/"><u>[New] 2024 Approved  Non-GTA Narratives  Exploring Alternative Stories</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-best-free-tool-your-android-unhindered/"><u>[Updated] 2024 Approved  Best Free Tool  Your Android, Unhindered</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-standard-to-spectacular-the-transformative-power-of-high-dynamic-range/"><u>[Updated] From Standard to Spectacular  The Transformative Power of High Dynamic Range</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-google-account-integration-for-private-youtube-video-sharing/"><u>2024 Approved  Google Account Integration for Private YouTube Video Sharing</u></a></li>
+<li><a href="https://fox-that.techidaily.com/9-effective-solutions-for-when-your-iphone-refuses-to-sync-with-icloud/"><u>9 Effective Solutions for When Your iPhone Refuses to Sync with iCloud</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/challenging-the-status-quo-embracing-individuality-in-restricted-settings/"><u>Challenging the Status Quo: Embracing Individuality in Restricted Settings</u></a></li>
+<li><a href="https://fox-that.techidaily.com/dealing-with-insufficient-memory-errors-in-roblox-for-iphone-users/"><u>Dealing with 'Insufficient Memory' Errors in Roblox for iPhone Users</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-locked-iphone-screens-unlock-portrait-mode/"><u>Fixing Locked iPhone Screens: Unlock Portrait Mode</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-network-locked-vivo-v30-pro-phone-by-drfone-android/"><u>How to Unlock a Network Locked Vivo V30 Pro Phone?</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-innovating-your-gaming-experience-capturing-ps3-playthroughs/"><u>In 2024, Innovating Your Gaming Experience  Capturing PS3 Playthroughs</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-6-best-sim-unlock-services-that-actually-work-on-your-xiaomi-redmi-k70-pro-device-by-drfone-android/"><u>In 2024, The 6 Best SIM Unlock Services That Actually Work On Your Xiaomi Redmi K70 Pro Device</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-losing-mobile-service-discover-these-10-essential-fixes-to-restore-data-connectivity/"><u>IPhone Losing Mobile Service? Discover These 10 Essential Fixes to Restore Data Connectivity</u></a></li>
+<li><a href="https://fox-that.techidaily.com/mastering-iphone-repairs-navigating-apples-online-support-and-testing-services/"><u>Mastering iPhone Repairs: Navigating Apple's Online Support and Testing Services</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/navigating-the-digital-realm-uploading-with-premiere-and-youtube/"><u>Navigating the Digital Realm  Uploading with Premiere & YouTube</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/overcome-issues-with-windows-11s-search-feature-using-these-proven-fixes/"><u>Overcome Issues with Windows 11'S Search Feature Using These Proven Fixes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/problems-with-non-appearing-siri-suggestions-heres-how-to-make-them-pop-up-again-on-your-iphone/"><u>Problems with Non-Appearing Siri Suggestions? Here's How to Make Them Pop Up Again on Your iPhone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721478024010-quick-fixes-for-when-your-iphone-wont-sync-with-your-computer/"><u>Quick FIXES for When Your iPhone Won't Sync with Your Computer!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/recognizing-the-top-9-signs-your-iphone-has-suffered-liquid-damage/"><u>Recognizing the Top 9 Signs Your iPhone Has Suffered Liquid Damage</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolving-erratic-screen-time-reports-hiding-unwanted-sites-from-iphone-tracking/"><u>Resolving Erratic Screen Time Reports: Hiding Unwanted Sites From iPhone Tracking</u></a></li>
+<li><a href="https://fox-that.techidaily.com/reviving-iphone-vibrations-handy-fixes-for-when-your-device-stays-silent-on-ring-or-silent-mode/"><u>Reviving iPhone Vibrations: Handy Fixes for When Your Device Stays Silent on Ring or Silent Mode</u></a></li>
+<li><a href="https://fox-that.techidaily.com/say-goodbye-to-flicker-unveiling-7-techniques-to-stabilize-your-phones-erratic-display/"><u>Say Goodbye to Flicker: Unveiling 7 Techniques to Stabilize Your Phone's Erratic Display</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solve-your-smartphone-screens-rapid-fluctuations-with-top-7-effective-solutions/"><u>Solve Your Smartphone Screen's Rapid Fluctuations with Top 7 Effective Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-the-mystery-of-an-inoperative-lone-airpod/"><u>Solving the Mystery of an Inoperative Lone AirPod</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-the-mystery-of-overheating-iphoneipad-causes-and-remedies/"><u>Solving the Mystery of Overheating iPhone/iPad: Causes & Remedies</u></a></li>
+<li><a href="https://fox-that.techidaily.com/step-by-step-fixes-to-get-the-chatgpt-app-running-smoothly-on-ios/"><u>Step-by-Step Fixes to Get the ChatGPT App Running Smoothly on iOS</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-11-fixes-to-restore-ringtones-on-missing-call-alerts-for-iphones/"><u>Top 11 Fixes to Restore Ringtones on Missing Call Alerts for iPhones</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-to-resolve-2024-updates-in-rainbow-six-siege-voice-chat-issues/"><u>Troubleshooting Steps to Resolve 2024 Updates in Rainbow Six Siege Voice Chat Issues</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlock-the-solution-to-your-iphones-imessage-continuous-disconnection-woes/"><u>Unlock the Solution to Your iPhone's iMessage Continuous Disconnection Woes</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/unraveling-post-upload-functionality-in-youtube-videos/"><u>Unraveling Post-Upload Functionality in YouTube Videos</u></a></li>
+<li><a href="https://fox-that.techidaily.com/what-to-do-if-messages-starts-showing-phone-numbers-instead-of-contact-names/"><u>What to Do if Messages Starts Showing Phone Numbers Instead of Contact Names</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721476912000-why-doesnt-my-iphone-alarm-go-off-a-step-by-step-guide-to-fix-it/"><u>Why Doesn't My iPhone Alarm Go Off? A Step-by-Step Guide to Fix It</u></a></li>
+</ul></div>
