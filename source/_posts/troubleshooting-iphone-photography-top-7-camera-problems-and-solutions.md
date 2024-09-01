@@ -1,0 +1,207 @@
+---
+title: "Troubleshooting iPhone Photography: Top 7 Camera Problems & Solutions"
+date: 2024-08-31T21:08:36.815Z
+updated: 2024-09-01T21:08:36.815Z
+tags:
+  - iphone
+  - apple
+categories:
+  - iphone
+description: "This Article Describes Troubleshooting iPhone Photography: Top 7 Camera Problems & Solutions"
+excerpt: "This Article Describes Troubleshooting iPhone Photography: Top 7 Camera Problems & Solutions"
+thumbnail: https://thmb.techidaily.com/ecfcd073ace7d18c0661d93194869f4c69c9a93b7f7e0b0c3bf6cf212d7d6071.jpg
+---
+
+## Troubleshooting iPhone Photography: Top 7 Camera Problems & Solutions
+
+ You wouldn't buy a new smartphone if it didn't have a camera on it. So what good is your iPhone when the camera isn't working?
+
+ Here are the most common problems you might come across with your iPhone camera, along with everything you can do to fix them.
+
+## 1\. iPhone Camera Shows a Black Screen
+
+![iPhone Camera not working, showing black screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/01/iPhone-Camera-not-working-showing-black-screen.jpg)
+
+![iPhone Camera not working close apps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/01/iPhone-Camera-app-from-App-Switcher-view.jpg)
+
+Close
+
+ If you launch the Camera app and see a black screen, try the following steps to fix it:
+
+1. Make sure nothing is blocking the camera lens. You may have put the case on incorrectly or there may be something stuck to the back of your iPhone.
+2. Try using the official iPhone Camera app, rather than any third-party alternatives. This app is more reliable than the alternatives and more likely to work properly.
+3. In the Camera app, switch between the front and back cameras to see if both of them are working or not. To do this, tap the camera flip icon on the right side of the screen. If only one camera works, that might indicate a hardware problem.
+4. Restart the Camera app. To do so, swipe up to the middle of the screen on an iPhone X or later, or double-click the Home button on an iPhone 8 or earlier. Then close the Camera app by sliding it off the top of the screen.
+5. Turn off your iPhone by holding the Side button (along with either Volume button on the iPhone X and later), then slide to power off. Wait 30 seconds before pressing the Side button again to restart your iPhone. If that doesn't work,[force restart your iPhone](https://www.makeuseof.com/tag/restart-iphone-recovery-mode/) instead.
+
+## 2\. iPhone Photos Are Blurry or Out of Focus
+
+![iPhone camera blurry close up](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/01/iPhone-camera-blurry-close-up.jpg)
+
+![iPhone camera in focus close up](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/01/iPhone-camera-in-focus-close-up.jpg)
+
+Close
+
+ If the photos you take with your iPhone camera are blurry or out of focus, try these fixes:
+
+1. Make sure both the front and back camera lenses are clean. Wipe away smudges or fingerprints using a dry microfiber cloth. If you see dirt or debris behind the glass, take your iPhone to an Apple Store or Authorized Service Provider for a repair.
+2. Remove any metallic or magnetic iPhone cases and camera accessories. They can interfere with the optical image stabilization on an iPhone 6S Plus, iPhone 7, iPhone X, or later iPhones. This might explain why the camera isn't working.
+3. If the Camera app says**AE/AF Lock** at the top of the screen, tap on a blank space to turn auto-focus back on. You may have accidentally locked the focus by tapping and holding in the Camera app.
+4. Keep your hand steady while tapping the shutter button. Sometimes it's easier to press one of the Volume buttons to take steady pictures instead. Be careful in the dark when the shutter needs to stay open for longer.
+
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
+## 3\. iPhone Camera Flash Isn't Working
+
+![iPhone Flashlight Control Center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2018/06/ios-control-center.png)
+
+ Although most photos look better without a flash, sometimes you need that extra light for dark environments. When your iPhone flash isn't working, try these tips:
+
+1. Test the LED on your iPhone by [turning on the flashlight](https://www.makeuseof.com/tag/turn-on-flashlight-turn-off-flashlight/) from the Control Center.
+2. Make sure you set the flash to**On** or**Auto** in the Camera app. To do this, tap the lightning bolt icon on the left side of the screen to see your flash options (you can't use the flash for panoramic photographs or time-lapse videos).
+3. Be careful when using the flash for long videos or in hot environments. If your iPhone gets too hot, it might disable the flash entirely until it has cooled down again.
+
+## 4\. iPhone Photos Are Flipped the Wrong Way
+
+![iPhone photo flipped the wrong way](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/01/iPhone-photo-flipped-the-wrong-way.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
+![iPhone photo rotated in edit screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/01/iPhone-photo-rotated-in-edit-screen.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
+Close
+
+ This problem can often happen when you turn your iPhone horizontally to take a landscape-oriented photo. After snapping the picture, it flips back to portrait orientation in your photo library. Try these tips to fix it:
+
+1. Open Control Center on your iPhone and tap the lock icon with a circle around it to turn off Rotation Lock.  
+   1. To open Control Center, swipe down from the top-right corner on an iPhone X or later, or swipe up from the bottom of the screen on an iPhone 8 or earlier.
+2. Before snapping a photo, take a moment to make sure that the icons in the Camera app have rotated to their new horizontal orientation. If not, rotate your iPhone back and forth until they do so.
+3. You can always edit your pictures later from the Photos app, or other [third-party iPhone image editing apps](https://www.makeuseof.com/tag/best-free-photo-editing-apps-iphone/) .
+4. If you're wondering why your selfies always appear mirrored, that's simply how Apple designed the front-facing camera. The camera works like a mirror, but the photo flips over as if someone took it for you.
+
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
+## 5\. The Camera App Is Missing or Keeps Freezing
+
+![Screen Time settings on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/01/Screen-Time-settings-on-iPhone.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
+![Allowed Apps in Screen Time restrictions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/01/Allowed-Apps-in-Screen-Time-restrictions.jpg)
+
+Close
+
+ If you can't find the Camera app on your Home screen, or if the app freezes when you switch between cameras, it may be due to your iPhone restrictions. You can check this out from the Screen Time settings:
+
+1. Go to **Settings > Screen Time > Content & Privacy Restrictions** .
+2. Tap on**Allowed Apps** and enter your Screen Time passcode if you have one.
+3. Make sure you turn the**Camera** app on; the toggle should be green.
+
+## 6\. General iPhone Camera Software Fixes
+
+![Reset All Settings iPhone confirmation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/01/Reset-All-Settings-iPhone-confirmation.jpg)
+
+ If you experience any other oddities with your iPhone camera not working, it's a good idea to try some general software troubleshooting tips. Test your iPhone camera again after each of the tips below.
+
+1. Close all the apps on your iPhone.
+2. Restart your device.
+3. Update iOS by going to**Settings > General > Software Update** .
+4. Go to**Settings > General > Reset > Reset All Settings** . This doesn't delete any of your content---such as photos or apps---but it does reset all your iPhone settings.
+5. Finally,[factory reset your iPhone](https://www.makeuseof.com/tag/how-to-factory-reset-iphone-ipad/) and set it up as a new device. This erases everything and is the last resort, but should resolve any software issues that stop your iPhone camera from working.
+
+## 7\. General iPhone Camera Hardware Fixes
+
+![iPhone 11 camera](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/01/iPhone-11-camera.jpg)
+
+ If you've tried everything above and your front or back iPhone camera is still not working, you might have a hardware problem instead. Try the troubleshooting steps below to fix it:
+
+1. Double-check that the camera is not obstructed by a case or sticker.
+2. Make sure there are no smudges, dirt, or debris on the camera lens. Smudges and fingerprints should wipe away easily with a microfiber cloth.
+3. [Contact Apple Support](https://getsupport.apple.com/) to arrange a hardware repair at the Apple Store or at an Apple Authorized Service Provider. If your iPhone is out of warranty, you may need to pay for this repair yourself.
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Get Back to Taking Great Photos With Your iPhone
+
+ These tips cover the most common reasons your iPhone camera might not be working. If you didn't see your exact issue, hopefully the general tips helped you fix the camera anyway. Otherwise, you may need to speak to Apple about a hardware repair.
+
+ Once your camera is back up and running, find out how to [master your iPhone camera settings](https://www.makeuseof.com/tag/iphone-camera-settings/) to start taking better photos. That way you can make sure each picture is perfectly exposed and beautifully composed.
+
+ You might also like to learn about [how under-screen front-facing cameras work](https://www.makeuseof.com/how-under-screen-camera-works/) .
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-how-to-get-tiktok-working-again-after-a-crash/"><u>[New] 2024 Approved  How to Get TikTok Working Again After a Crash</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-multiplatform-iptv-encoding-for-2024/"><u>[New] Multiplatform IPTV Encoding for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-achieving-visual-excellence-aspect-ratio-mastery-on-youtube/"><u>[Updated] 2024 Approved  Achieving Visual Excellence  ASPECT RATIO Mastery on YOUTUBE</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-commanding-voice-performance-analysis-edition-8-for-2024/"><u>[Updated] Commanding Voice Performance Analysis, Edition 8 for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-leading-firefox-recording-software/"><u>[Updated] In 2024, Leading Firefox Recording Software</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-top-10-scriptural-ringtone-selections-for-faith/"><u>[Updated] Top 10 Scriptural Ringtone Selections for Faith</u></a></li>
+<li><a href="https://fox-that.techidaily.com/addressing-the-most-persistent-iphone-12-problems-with-proven-fixes-and-strategies/"><u>Addressing the Most Persistent iPhone 12 Problems with Proven Fixes and Strategies</u></a></li>
+<li><a href="https://fox-that.techidaily.com/bring-back-the-sound-a-guide-to-fixing-iphone-audio-problems/"><u>Bring Back the Sound: A Guide to Fixing iPhone Audio Problems</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721447353957-cant-link-up-with-vpn-on-ios-discover-these-7-quick-fixes/"><u>Can't Link Up with VPN on iOS? Discover These 7 Quick Fixes</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-review-of-the-stellar-samsung-qn55q60rafxza-tv-hdr10plus-and-more-unveiled/"><u>Comprehensive Review of the Stellar Samsung QN55Q60RAFXZA TV: HDR10+ and More Unveiled</u></a></li>
+<li><a href="https://change-location.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On Samsung Galaxy A14 4G | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/discovering-your-missing-facetime-photographs-on-iphone-or-ipad/"><u>Discovering Your Missing FaceTime Photographs on iPhone or iPad</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-photos-from-vivo-x100-pro-by-fonelab-android-recover-photos/"><u>Easy steps to recover deleted photos from Vivo X100 Pro.</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/eliminating-dcom-errors-in-directinputdll-techniques-and-best-practices/"><u>Eliminating DCOM Errors in Directinput.dll: Techniques and Best Practices</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/elite-narratives-from-cinemas-broad-spectrum/"><u>Elite Narratives From Cinema's Broad Spectrum</u></a></li>
+<li><a href="https://fox-that.techidaily.com/enhance-performance-the-remarkable-impact-of-restarting-your-mobile-for-problem-free-use/"><u>Enhance Performance: The Remarkable Impact of Restarting Your Mobile for Problem-Free Use</u></a></li>
+<li><a href="https://fox-that.techidaily.com/facilitating-recovery-mechanisms/"><u>Facilitating Recovery Mechanisms</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721463007159-fix-the-mysterious-vanishing-of-app-icons-from-your-iphone-quick-solutions-inside/"><u>Fix the Mysterious Vanishing of App Icons From Your iPhone – Quick Solutions Inside</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721473258603-fixing-a-non-responsive-tablet-screen-discover-these-8-helpful-tips/"><u>Fixing a Non-Responsive Tablet Screen? Discover These 8 Helpful Tips!</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/guide-to-ios-screen-recording-essentials-for-2024/"><u>Guide to iOS Screen Recording Essentials for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721478432898-hear-it-once-more-resolve-your-iphones-sound-problems-here/"><u>Hear It Once More: Resolve Your iPhone's Sound Problems Here!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-eliminate-lags-in-instagram-best-practices-for-users-of-android-phones-and-iphones/"><u>How to Eliminate Lags in Instagram: Best Practices for Users of Android Phones & iPhones</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-speed-up-your-iphones-sleep-cycle-and-fix-display-hangs/"><u>How to Speed Up Your iPhones Sleep Cycle and Fix Display Hangs</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-honor-x50i-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Honor X50i To Phone | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-vivo-y02t-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Vivo Y02T without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-tips-to-nail-every-green-screen-scene/"><u>In 2024, Top Tips to Nail Every Green Screen Scene</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-trouble-with-iphone-11-swipe-up-try-these-11-solutions-by-drfone-ios/"><u>In 2024, Trouble with iPhone 11 Swipe-Up? Try These 11 Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721475672495-iphones-wi-fi-charge-woes-discover-7-effective-fixes/"><u>IPhone's Wi-Fi Charge Woes? Discover 7 Effective Fixes!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721456760270-iphoneipad-typing-troubles-heres-a-solution-for-6-prevalent-keyboard-glitches/"><u>IPhone/iPad Typing Troubles? Here's a Solution for 6 Prevalent Keyboard Glitches</u></a></li>
+<li><a href="https://fox-that.techidaily.com/keep-calm-and-avoid-heat-expert-advice-on-preventing-your-idevice-from-warming-up/"><u>Keep Calm & Avoid Heat: Expert Advice on Preventing Your iDevice From Warming Up</u></a></li>
+<li><a href="https://extra-support.techidaily.com/leading-5-online-title-masters-revealed-for-2024/"><u>Leading 5 Online Title Masters Revealed for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/momentary-motion-picture-manuscript-for-2024/"><u>Momentary Motion Picture Manuscript for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcome-slow-mobile-data-woes-with-this-quick-10-step-fix/"><u>Overcome Slow Mobile Data Woes with This Quick 10-Step Fix!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-iphones-last-line-disappeared-obstacle-tips-and-techniques-for-success/"><u>Overcoming iPhone's 'Last Line Disappeared' Obstacle - Tips and Techniques for Success</u></a></li>
+<li><a href="https://common-error.techidaily.com/repair-steps-for-resolving-the-non-present-device-message-code-24-widows-os-xyz-series/"><u>Repair Steps for Resolving the Non-Present Device Message (Code #24) - Widows OS XYZ Series</u></a></li>
+<li><a href="https://fox-that.techidaily.com/revamp-your-iphone-experience-four-strategies-to-accelerate-safari-browser-efficiency/"><u>Revamp Your iPhone Experience: Four Strategies to Accelerate Safari Browser Efficiency</u></a></li>
+<li><a href="https://fox-that.techidaily.com/revive-your-iphones-snapshots-tackling-the-7-most-prevalent-camera-glitches/"><u>Revive Your iPhone's Snapshots: Tackling the 7 Most Prevalent Camera Glitches</u></a></li>
+<li><a href="https://fox-that.techidaily.com/simplify-smartphone-interaction-discovering-the-best-iphone-tools-to-assist-those-struggling-with-eyesight/"><u>Simplify Smartphone Interaction: Discovering the Best iPhone Tools to Assist Those Struggling with Eyesight</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-iphone-silent-messages-top-15-fixes-for-restoring-text-tones/"><u>Solving iPhone Silent Messages: Top 15 Fixes for Restoring Text Tones</u></a></li>
+<li><a href="https://fox-that.techidaily.com/step-by-step-strategies-for-addressing-sim-card-provisioning-issue-mmi-mm2-errors/"><u>Step-by-Step Strategies for Addressing SIM Card Provisioning Issue MMI (MM2) Errors</u></a></li>
+<li><a href="https://fox-that.techidaily.com/struggling-with-an-unresponsive-face-id-on-iphone-try-out-these-14-fixes/"><u>Struggling with an Unresponsive Face ID on iPhone? Try Out These 14 Fixes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/the-critical-need-for-instant-installation-of-ios-153-heres-why/"><u>The Critical Need for Instant Installation of iOS 15.3 – Here's Why</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-next-wave-of-innovation-exploring-the-future-of-generative-ai-and-advanced-chatbots/"><u>The Next Wave of Innovation: Exploring the Future of Generative AI & Advanced Chatbots</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-eleven-solutions-resolving-airpods-not-detected-on-find-my/"><u>Top Eleven Solutions: Resolving 'AirPods Not Detected' On Find My</u></a></li>
+<li><a href="https://fox-that.techidaily.com/track-down-a-missing-iphone-effective-strategies-with-apples-find-my/"><u>Track Down a Missing iPhone: Effective Strategies with Apple's 'Find My'</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-and-repair-non-receiving-calls-on-iphones-using-our-top-11-methods/"><u>Troubleshoot and Repair Non-Receiving Calls on iPhones Using Our Top 11 Methods</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-iphones-sound-recording-issues-effective-solutions/"><u>Troubleshooting iPhone's Sound Recording Issues: Effective Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-siri-suggestions-when-they-wont-appear-on-your-iphone/"><u>Troubleshooting Siri Suggestions When They Won't Appear on Your iPhone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721463528417-unlocking-the-solution-to-safaris-full-screenshot-glitch-tips-and-tricks-inside/"><u>Unlocking the Solution to Safari's Full Screenshot Glitch – Tips and Tricks Inside</u></a></li>
+</ul></div>

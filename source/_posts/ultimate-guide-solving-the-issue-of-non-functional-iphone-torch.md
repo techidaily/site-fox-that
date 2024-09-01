@@ -1,0 +1,223 @@
+---
+title: "Ultimate Guide: Solving the Issue of Non-Functional iPhone Torch"
+date: 2024-08-31T21:10:52.049Z
+updated: 2024-09-01T21:10:52.049Z
+tags:
+  - iphone
+  - apple
+categories:
+  - iphone
+description: "This Article Describes Ultimate Guide: Solving the Issue of Non-Functional iPhone Torch"
+excerpt: "This Article Describes Ultimate Guide: Solving the Issue of Non-Functional iPhone Torch"
+thumbnail: https://thmb.techidaily.com/7258b8f35a232c1cea7c283f6887f95e75da539c920d4016d7e29b378f6c7841.jpg
+---
+
+## Ultimate Guide: Solving the Issue of Non-Functional iPhone Torch
+
+ Long gone are the days when you need to search for a flashlight in some forgotten drawer or storage box, worry whether you still have the correct batteries to turn it on, or groan in frustration when it's not bright enough anyway. Nowadays, you can just turn to the multi-functional iPhone you have in your hand. That is, provided your iPhone's flashlight is working.
+
+ It's a massive hindrance when your iPhone's flashlight stops working and you see a grayed-out flashlight icon. So, let's look at the various solutions you can try to get your iPhone torch working again.
+
+ Your browser does not support the video tag.
+
+## 1\. Turn Off Low Power Mode
+
+ Low Power Mode disables some features on your iPhone to conserve battery power. When it's activated, the color of your battery level appears yellow instead of green.
+
+ The Low Power Mode prompt automatically comes up when your battery percentage falls below 20 percent. If you want to save battery life, you may also choose to [keep your iPhone in Low Power Mode all the time](https://www.makeuseof.com/how-to-permanently-turn-on-low-power-mode-iphone/) .
+
+ But your iPhone's flashlight is often one of those features that get disabled by this mode. To turn off Low Power Mode, go to the**Settings** app, select**Battery** , and tap to toggle off**Low Power Mode** .
+
+![iphone settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/iphone-settings-1.JPG)
+
+![turn off low power mode in iphone settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/iphone-settings-2.JPG)
+
+Close
+
+## 2\. Charge Your iPhone
+
+ Even after you turn off Low Power Mode, you may find that your iPhone's flashlight still doesn't work. This may be simply because your device doesn't have enough battery power left to support the feature at that moment. Therefore, you should plug your iPhone into a power source and start charging it.
+
+ The flashlight feature should start working again once your iPhone has sufficient power.
+
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 3\. Check Your iPhone Isn't Too Hot
+
+ When your iPhone gets too hot, the flashlight may stop working. It's not advisable to continue using an overheating iPhone. If your device exceeds a particular temperature limit, it will eventually shut down until it cools off. You'll also see a warning appear on your screen if the temperature gets too high.
+
+![blue iphone pro on white surface](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/blue-iphone-pro.jpg)
+
+ To allow your device's temperature to drop naturally, place your iPhone in a cool, dry place away from direct sunlight. Do not attempt to put your device into the fridge, though, as this will cause damage to it. Just find somewhere that's naturally cool and shady. Once your device cools down, your iPhone's flashlight should start working again.
+
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 4\. Remove the Flashlight From the Control Center
+
+ If your iPhone's torch still isn't working, another potential fix is to remove the flashlight option from the Control Center and then add it back again. Here's how:
+
+1. Go to the**Settings** app. Select**Control Center** .
+2. Under**Included Controls** , tap the red**minus (–)** icon for**Flashlight** (or**Torch** , in some regions). Tap**Remove** to confirm.
+3. To add the flashlight back, scroll down to the**More Controls** section.
+4. Tap the**plus (+)** icon for**Flashlight** (or**Torch**).
+
+![iphone settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/iphone-settings-1.JPG)
+
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<!-- affiliate ads end -->
+![customize iphone control center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/iphone-settings-3.JPG)
+
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![customize iphone control center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/iphone-settings-4.JPG)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
+Close
+
+## 5\. Close Your iPhone's Camera App
+
+ Your iPhone's camera's flash function uses the same light as the flashlight. If you have the**Camera** app opened, it's normal to see the Control Center's flashlight icon grayed out. This is because you can't use both features at the same time.
+
+ To solve this, just exit the**Camera** app and access your**Control Center** again. You should see that the flashlight button can once more be selected as usual.
+
+## 6\. Turn On Your Flashlight Using the Camera Flash
+
+ If you can't turn on your iPhone's flashlight from the Control Center, a workaround is to turn it on in the**Camera** app by activating the flash function. Here's how:
+
+1. In the**Camera** app, go to**Video** mode.
+2. Swipe up from the bottom menu (on the word,**Video**) to bring up more options.
+3. Tap the**Flash** icon. Select**On** .
+
+![iphone camera video mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/video-mode-1.JPG)
+
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![iphone camera video mode options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/video-mode-2.JPG)
+
+![turn on iphone camera flash](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/video-mode-3.JPG)
+
+Close
+
+## 7\. Toggle the Flash in Your iPhone's Camera App
+
+ To get rid of glitches that stop your iPhone's flashlight from working, you can also try turning your camera flash on and off. The steps are the same as the workaround to turn on your iPhone's camera flash, as discussed in the previous solution. But instead of leaving the**Flash** set to**On** , toggle between**On** and**Off** a few times.
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 8\. Ask Siri to Turn On Your iPhone's Flashlight
+
+ If your camera flash doesn't seem to be working either, there's another way to enable your iPhone's flashlight: Siri. Unless your device is absolutely low on battery, Siri can help you turn on your iPhone's flashlight even if the icon is grayed out.
+
+ First,[set up Siri on your iPhone](https://www.makeuseof.com/how-to-set-up-and-use-siri-iphone/) . Next, long-press the Side button on your iPhone or say, "Hey Siri." When the**Siri** icon pops up on your iPhone screen, say, "Turn on the flashlight." Your flashlight should turn on instantly, and Siri will also say that it's on now.
+
+![siri icon on iphone screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/img_7829.JPEG)
+
+![siri response after turning on iphone flashlight](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/img_7830.JPEG)
+
+Close
+
+## 9\. Update Your iPhone's iOS
+
+ iOS updates usually come with fixes for performance bugs and various glitches. So, perhaps all you need to do to fix your iPhone's flashlight is to [update your iPhone to the latest version of iOS](https://www.makeuseof.com/tag/update-iphone-ios-apps-data/) .
+
+ Go to**Settings > General > Software Update** to see if an update is available for your iPhone. Make sure your iPhone is charging or has more than 50% battery before you proceed with the update process.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
+## 10\. Restart Your iPhone
+
+ If the above methods don't solve the problem and your iPhone's flashlight still isn't working, the next step you should try is [restarting your iPhone](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) .
+
+![iphone on wooden surface showing hello welcome screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/iphone-hello-screen-1.jpg)
+
+ The method you need to follow varies depending on the iPhone model you have. But in general, you can go to **Settings > General > Shut Down > Slide to power off** . Then, hold the**Side** button to restart your iPhone once it powers off.
+
+## 11\. Restore Your iPhone to a Previous Backup
+
+ Besides updating and restarting your iPhone, you can also try [restoring your iPhone to a previous backup](https://www.makeuseof.com/tag/restore-iphone-ipad-from-backup/) from when the flashlight was still working as usual. However, when you use this method, keep in mind that you will also lose any new data that was added to your device since you made that backup.
+
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
+## 12\. Reset All Settings on Your iPhone
+
+ If all else fails, the last solution you can attempt is to reset your iPhone's settings by going to**Settings > General > Transfer or Reset iPhone** . Tap**Reset** and choose**Reset All Settings** from the pop-up menu. You won't lose any data from your iPhone; all this does is revert your iPhone's settings to factory default values.
+
+ Take note that the reset process can take a long time, especially if you have a lot of data on your iPhone. So, if you're stuck in the dark and urgently need a flashlight, don't rely on resetting your iPhone right there and then!
+
+ Make sure you don't accidentally choose**Erase All Content and Settings** from the**Reset** menu. Doing that would delete all the data on your device.
+
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
+## Effective Solutions When Your iPhone's Flashlight Is Not Working
+
+ If you've been stuck wondering why the flashlight won't work on your iPhone, we hope this list of fixes has helped you resolve the problem effectively.
+
+ However, if the issue persists, it's best for you to contact an Apple Authorized Service Provider. A technician will then examine your device and determine the potential hardware repairs that are needed.
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-explore-best-selections-for-youtube-ringtone-downloads/"><u>[Updated] 2024 Approved  Explore Best Selections for YouTube Ringtone Downloads</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-myspace-gurus-gabbing-via-snapchat/"><u>[Updated] 2024 Approved  MySpace Gurus Gabbing via Snapchat</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-the-ultimate-checklist-for-movie-maker-videos-on-vimeo/"><u>2024 Approved  The Ultimate Checklist for Movie Maker Videos on Vimeo</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/bringing-back-the-glitter-integrating-instagram-effects-to-past-media/"><u>Bringing Back the Glitter  Integrating Instagram Effects to Past Media</u></a></li>
+<li><a href="https://fox-that.techidaily.com/dual-device-alert-control-how-to-keep-your-ipad-silent-if-your-iphone-is-ringing/"><u>Dual-Device Alert Control: How to Keep Your iPad Silent If Your iPhone Is Ringing</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-data-from-nokia-c110-by-fonelab-android-recover-data/"><u>Easy steps to recover deleted data from Nokia C110</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-the-iphone-out-of-characters-error-with-ease/"><u>Fixing the ‘iPhone Out Of Characters Error’ with Ease</u></a></li>
+<li><a href="https://fox-that.techidaily.com/get-your-iphone-voicemail-back-on-track-with-these-9-proven-tips/"><u>Get Your iPhone Voicemail Back on Track with These 9 Proven Tips</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-erase-all-data-and-return-your-idevice-to-its-original-state/"><u>How to Erase All Data and Return Your iDevice to Its Original State</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-overcome-unrecognized-accessory-errors-on-iphone-devices/"><u>How to Overcome Unrecognized Accessory Errors on iPhone Devices</u></a></li>
+<li><a href="https://fox-that.techidaily.com/imessage-to-sms-alert-does-this-indicate-someone-has-blocked-you-on-their-phone/"><u>IMessage to SMS Alert! Does This Indicate Someone Has Blocked You on Their Phone?</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-quintessential-quests-and-thrills-top-10-games/"><u>In 2024, Quintessential Quests & Thrills – Top 10 Games</u></a></li>
+<li><a href="https://fox-that.techidaily.com/issue-with-non-appearing-iphone-notifications-resolve-it-using-these-eight-solutions/"><u>Issue with Non-Appearing iPhone Notifications? Resolve It Using These Eight Solutions!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/navigating-iphone-12-complications-unveiling-twelve-critical-concerns-and-how-to-address-them/"><u>Navigating iPhone 12 Complications: Unveiling Twelve Critical Concerns & How To Address Them</u></a></li>
+<li><a href="https://fox-that.techidaily.com/optimize-apples-power-source-the-ultimate-battery-calibration-tutorial-for-iphones/"><u>Optimize Apple's Power Source: The Ultimate Battery Calibration Tutorial for iPhones</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721470373054-phone-screen-glimmer-discover-7-effective-remedies/"><u>Phone Screen Glimmer? Discover 7 Effective Remedies</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solve-iphones-silent-messages-problem-discover-16-effective-tips/"><u>Solve iPhone's Silent Messages Problem: Discover 16 Effective Tips</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solve-your-iphones-phantom-touch-issue-with-these-10-effective-strategies/"><u>Solve Your iPhone's Phantom Touch Issue with These 10 Effective Strategies</u></a></li>
+<li><a href="https://fox-that.techidaily.com/step-by-step-guide-to-fix-your-phones-unprovisioned-sim-card-problem/"><u>Step-by-Step Guide to Fix Your Phone’s Unprovisioned SIM Card Problem</u></a></li>
+<li><a href="https://fox-that.techidaily.com/struggling-with-contacts-display-issue-in-ios-heres-how-you-can-repair-it/"><u>Struggling with Contacts Display Issue in iOS? Here's How You Can Repair It!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721446205316-struggling-with-iphone-vpn-connections-discover-these-7-troubleshooting-tips/"><u>Struggling with iPhone VPN Connections? Discover These 7 Troubleshooting Tips</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-10-strategies-how-using-chatgpt-can-boost-your-linkedin-employment-success/"><u>Top 10 Strategies: How Using ChatGPT Can Boost Your LinkedIn Employment Success</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-12-common-iphone-12-problems-solutions-and-troubleshooting-tips/"><u>Top 12 Common iPhone 12 Problems: Solutions & Troubleshooting Tips</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-qr-code-scanner-issues-10-solutions-for-iphones/"><u>Troubleshooting QR Code Scanner Issues: 10 Solutions for iPhones</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-tips-how-to-solve-iphones-guidedowntime-issues/"><u>Troubleshooting Tips: How to Solve iPhone's GuideDowntime Issues</u></a></li>
+<li><a href="https://fox-that.techidaily.com/ultimate-troubleshooting-guide-15-steps-for-your-iphone/"><u>Ultimate Troubleshooting Guide: 15 Steps for Your iPhone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlock-the-secret-to-easier-mobile-troubleshooting-with-just-a-restart/"><u>Unlock the Secret to Easier Mobile Troubleshooting with Just a Restart</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlocking-iphones-do-not-disturb-feature-receiving-communications-with-these-8-methods/"><u>Unlocking iPhone's Do Not Disturb Feature: Receiving Communications with These 8 Methods</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unveiling-the-dji-mavic-3-a-new-era-of-drone-photography/"><u>Unveiling the DJI Mavic 3: A New Era of Drone Photography</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-the-best-video-editing-apps-for-vloggers-top-picks-for-ios-and-android-for-2024/"><u>Updated The Best Video Editing Apps for Vloggers Top Picks for iOS & Android for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/virtuatongue-speaking-beyond-borders-in-virtual-reality/"><u>VirtuaTongue: Speaking Beyond Borders in Virtual Reality</u></a></li>
+<li><a href="https://fox-that.techidaily.com/whatsapp-and-icloud-making-sure-your-conversations-are-securely-saved-in-the-cloud/"><u>WhatsApp & iCloud: Making Sure Your Conversations Are Securely Saved in the Cloud</u></a></li>
+</ul></div>

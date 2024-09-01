@@ -1,0 +1,191 @@
+---
+title: Struggling with iPhone's Locked Screen Orientation? Here’s How to Unlock It!
+date: 2024-08-31T21:04:28.233Z
+updated: 2024-09-01T21:04:28.233Z
+tags:
+  - iphone
+  - apple
+categories:
+  - iphone
+description: This Article Describes Struggling with iPhone's Locked Screen Orientation? Here’s How to Unlock It!
+excerpt: This Article Describes Struggling with iPhone's Locked Screen Orientation? Here’s How to Unlock It!
+thumbnail: https://thmb.techidaily.com/9ad9147e4fbb8c24ccda197a0486be5c1d9c044a46c11534bd2a1352ab33e591.png
+---
+
+## Struggling with iPhone's Locked Screen Orientation? Here’s How to Unlock It
+
+ Most of us have been frustrated by how our phones handle auto-rotation at some point. Occasionally, your iPhone might not recognize that you've rotated it, leaving you with a less-than-optimal viewing experience.
+
+ If you're turning your iPhone and it's not going into landscape mode, there are several possible issues that we will go over. You might also want to know whether it's possible to force your iPhone into landscape mode, as you can do this with some iPhones but not others. So, let's get started.
+
+## Troubleshooting iPhone Landscape Mode Problems
+
+ Remember, although all the methods below will let you change the screen orientation on an iPhone, your phone should theoretically adjust itself whenever you physically rotate it. If it doesn't, here are a few troubleshooting tips to try:
+
+### 1\. Check the Portrait Orientation Lock
+
+ Are you sure that you haven't accidentally enabled the Portrait Orientation Lock? You'll find this toggle in the Control Center, which many iPhone users accidentally enable but realize much later when landscape mode isn't working.
+
+ On an iPhone with a Home button, swipe up from the bottom of the screen to access it. On an iPhone without a Home button, swipe down from the top-right corner of the screen instead.
+
+ Here, tap on the Portrait Orientation Lock toggle (which looks like a lock with a circular arrow) to turn it on or off. The lock will remain in place until you disable it again.
+
+![iphone portrait lock](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/iphone-portrait-lock.jpg)
+
+### 2\. Toggle Display Zoom
+
+ As we already mentioned, owners of an iPhone 6 Plus, 6S Plus, 7 Plus, or 8 Plus can rotate their Home Screen. If you have one of these models and it's not rotating, the Display Zoom feature might be to blame. To disable Display Zoom, follow the steps below:
+
+1. Open the**Settings** app.
+2. Go to**Display and Brightness** .
+3. Scroll down to**Display Zoom** .
+4. Go to**View > Default** .
+
+![Settings Screenshot iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/Settings-Screenshot-1.jpg)
+
+![iPhone Display Settings Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/iPhone-Display-Settings-Screenshot.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
+![Display Zoom Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/Display-Zoom-Screenshot.jpg)
+
+Close
+
+## Force Landscape Mode Using AssistiveTouch
+
+ You can use AssistiveTouch, an iOS feature that comes in handy [when your iPhone's Home button isn't working](https://www.makeuseof.com/tag/iphone-home-button-working-fix/) , to force rotate your iPhone's screen into landscape mode, even if you're using the device in portrait mode. This is the only built-in way to force-rotate your iPhone screen.
+
+ To use AssistiveTouch, you first need to activate it in your iPhone's Settings:
+
+1. Open the**Settings** app.
+2. Go to**Accessibility > Touch > AssistiveTouch** .
+3. Make sure the toggle at the top of the screen is in the**On** position.
+4. Tap one of the three options (**Single Tap** ,**Double Tap** , or**Long Press**) and set it to**Open Menu** .
+5. Return to your iPhone's Home Screen.
+
+![Settings Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/Settings-Screenshot.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
+![Accessibility Settings Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/Accessibility-Settings-Screenshot.jpg)
+
+![AssistiveTouch Settings Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/AssistiveTouch-Settings-Screenshot.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<!-- affiliate ads end -->
+![AssistiveTouch Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/AssistiveTouch-Screenshot.jpg)
+
+Close
+
+ You should now see a new floating Home button on the screen. Perform whichever action you set to**Open Menu** in the above steps, then go to**Device > Rotate Screen** . You can force-rotate left, right, or upside down.
+
+ If you're concerned about the new onscreen icon being distracting, don't worry. It will fade when not in use, and you can tap and drag it to move it around your screen. In case you're new to AssistiveTouch, you may want to learn [how to use the virtual iPhone Home button](http://www.makeuseof.com/create-virtual-iphone-home-button-with-assistivetouch/) .
+
+ Unfortunately, if you force iOS into landscape mode and then move your phone, the landscape setting will be overridden. So, you'll have to use this option each time it resets.
+
+ The force rotate feature will not work on apps that do not support landscape view. Only the iPhone 6 Plus, 6S Plus, 7 Plus, and 8 Plus can rotate the iOS Home Screen. Therefore, there's no possibility of a landscape Home Screen on iPhone X or later, likely due to the Face ID camera position.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Use a Video Rotation App
+
+ One of the main reasons people want to rotate the screen on their iPhones is to watch videos in the correct format. Of course, videos are naturally better in landscape mode, but the nature of smartphones means many people record their videos in portrait instead.
+
+ It's easy to rotate videos from the**Edit** option in the**Photos** app on your iPhone. But not everyone keeps their videos in this app. Thankfully, some third-party apps on the App Store allow you to rotate your iPhone videos from portrait to landscape and vice-versa. One of the best video rotation apps on iOS is Video Rotate + Flip. It's free to use with ads, which you can remove with a one-time fee of .99 cents.
+
+![Screenshot of the Video Rotate + Flip app on the App Store.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/07/Video-Rotate-Screenshot.png)
+
+ Once you've converted your video from portrait to landscape in the app, it will export a copy to your iPhone's Camera Roll. You can force-rotate videos of any length, and the app does not leave watermarks. It also works with videos in your Files app or those you download from Google Drive.
+
+ Lastly, because the videos get rotated at the frame level, the output is compatible with all video players on your Mac or Windows PC. Since these videos are saved to your Photos app, you can access them from iCloud.
+
+**Download:** [Video Rotate + Flip](https://apps.apple.com/app/video-rotate-flip-video-easy/id1071677375?platform=iphone) (Free, premium version available)
+
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<!-- affiliate ads end -->
+## Is Your iPhone's Accelerometer Broken?
+
+ If you've checked all the solutions above but still can't rotate your iPhone into landscape mode, it's possible your iPhone has a broken accelerometer. The accelerometer is what tells your device that it's been rotated and then rotates the screen to match.
+
+ The best way to check if your accelerometer is broken is to open an app that rotates like Notes and rotate it. If that doesn't switch to landscape mode as it should, and Rotation Lock is off, then you might have an accelerometer issue.
+
+ It's a possibility if you've eliminated every other probable cause. If you suspect this, you can [make an Apple Store appointment at a Genius Bar](https://www.makeuseof.com/apple-store-appointment-genius-bar/) to get it handled by experts. However, if you don't have an Apple Store nearby, you'll have to take your device to an Apple Authorized Service Provider.
+
+ If your iPhone is covered by Apple's one-year limited warranty or you [pay for AppleCare+](https://www.makeuseof.com/reasons-to-purchase-applecare-for-mac/) , you can get its accelerometer repaired for free.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
+## Is There Any Other Way to Rotate Your iPhone Screen?
+
+ Unfortunately, there is no other way to rotate your iPhone screen into landscape mode. This is Apple's choice, as it discontinued landscape mode on several devices.
+
+ Because of this, many apps won't support rotating screens either. While some do, if you're trying to rotate the screen in an app and it's not rotating, the app most likely doesn't support it.
+
+ While some potential fixes exist, like removing the Portrait Orientation Lock and using Assistive Touch, if you've tried all the methods here and your screen isn't rotating, a broken accelerometer might be the culprit.
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-conquer-and-cease-the-unremovable-guide-to-youtube-shorts-for-2024/"><u>[New] Conquer & Cease  The Unremovable Guide to Youtube Shorts for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-effective-ways-to-archive-and-record-youtube-events/"><u>[New] In 2024, Effective Ways to Archive and Record Youtube Events</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-optimal-no-cost-android-video-maker/"><u>[New] Optimal No-Cost Android Video Maker</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-tweettube-ios-devices-go-to-twitter-video-grabber/"><u>[Updated] 2024 Approved  TweetTube  IOS Device's Go-To Twitter Video Grabber</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-mastering-the-art-of-screen-recording-best-software-guide/"><u>[Updated] Mastering the Art of Screen Recording  Best Software Guide</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-quick-save-techniques-for-snapchat-memories/"><u>[Updated] Quick Save Techniques for Snapchat Memories</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-step-by-step-perfectly-inserting-songs-on-instagram-stories/"><u>[Updated] Step-by-Step  Perfectly Inserting Songs on Instagram Stories</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-amd-radeon-hd-7700-drivers-latest-updates-and-installation-guide/"><u>Download AMD Radeon HD 7700 Drivers - Latest Updates & Installation Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/expert-tips-for-draining-moisture-from-your-iphone-audio-ports/"><u>Expert Tips for Draining Moisture From Your iPhone Audio Ports</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-iphones-non-compatible-peripheral-devices-a-step-by-step-guide/"><u>Fixing iPhone's Non-Compatible Peripheral Devices – A Step by Step Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-6s-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 6s without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-asus-rog-phone-8-drfone-by-drfone-virtual-android/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Asus ROG Phone 8 | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-advanced-audio-alliance-for-podcasters/"><u>In 2024, Advanced Audio Alliance for Podcasters</u></a></li>
+<li><a href="https://fox-that.techidaily.com/ios-16-home-screen-depth-illusion-errors-discover-7-solutions/"><u>IOS 16 Home Screen Depth Illusion Errors: Discover 7 Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-tips-resolving-the-issue-of-missed-calls-and-no-rings/"><u>IPhone Tips: Resolving the Issue of Missed Calls and No Rings</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-usb-c-maintenance-correcting-false-alarms-from-liquid-detection-notifications/"><u>IPhone USB-C Maintenance: Correcting False Alarms From Liquid Detection Notifications</u></a></li>
+<li><a href="https://fox-that.techidaily.com/is-it-possible-that-i-am-blocked-if-my-imessage-converts-to-sms-on-ios-devices/"><u>Is It Possible That I Am Blocked If My iMessage Converts to SMS on iOS Devices?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/lost-iphone-found-solutions-explaining-offline-issues-with-find-my-and-fixing-them/"><u>Lost iPhone, Found Solutions: Explaining Offline Issues with 'Find My' And Fixing Them</u></a></li>
+<li><a href="https://fox-that.techidaily.com/no-need-for-buttons-heres-how-to-restart-your-iphone-anytime-anywhere/"><u>No Need for Buttons? Here's How to Restart Your iPhone Anytime, Anywhere!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-iphone-silence-effective-solutions-to-activate-vibration-when-needed/"><u>Overcoming iPhone Silence: Effective Solutions to Activate Vibration When Needed</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-slow-text-notifications-9-helpful-fixes-for-iphones/"><u>Overcoming Slow Text Notifications: 9 Helpful Fixes for iPhones</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/perfecting-youtube-videos-with-angle-rotation-mastery-for-2024/"><u>Perfecting YouTube Videos with Angle Rotation Mastery for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/recognizing-imessage-blocks-tips-and-signs/"><u>Recognizing iMessage Blocks: Tips and Signs</u></a></li>
+<li><a href="https://fox-that.techidaily.com/seamless-syncing-secrets-overcome-your-airpods-connection-issues-between-apple-products/"><u>Seamless Syncing Secrets: Overcome Your AirPods' Connection Issues Between Apple Products</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-the-issue-how-to-turn-off-headtracking-on-your-airpods/"><u>Solving the Issue: How to Turn Off Headtracking on Your AirPods</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721478470111-solving-the-problem-of-audio-movement-in-airpods-turn-off-automatic-head-tracking-now/"><u>Solving the Problem of Audio Movement in AirPods - Turn Off Automatic Head Tracking Now</u></a></li>
+<li><a href="https://fox-that.techidaily.com/step-by-step-guide-initiating-a-hard-reboot-on-your-iphone-and-accessing-recovery-mode/"><u>Step-by-Step Guide: Initiating a Hard Reboot on Your iPhone & Accessing Recovery Mode</u></a></li>
+<li><a href="https://fox-that.techidaily.com/struggling-with-depth-effect-on-ios-16-here-are-7-methods-to-get-it-working-again/"><u>Struggling with Depth Effect on iOS 16? Here Are 7 Methods to Get It Working Again</u></a></li>
+<li><a href="https://fox-that.techidaily.com/struggling-with-wi-fi-on-ios-devices-discover-5-troubleshooting-steps-here/"><u>Struggling With Wi-Fi on iOS Devices? Discover 5 Troubleshooting Steps Here</u></a></li>
+<li><a href="https://fox-that.techidaily.com/tackling-the-mystery-of-ghost-touch-on-iphone-screens-discover-10-useful-fixes-to-try-right-now/"><u>Tackling the Mystery of Ghost Touch on iPhone Screens – Discover 10 Useful Fixes to Try Right Now</u></a></li>
+<li><a href="https://fox-that.techidaily.com/the-complete-guide-to-dealing-with-iphone-14s-battery-life-concerns/"><u>The Complete Guide to Dealing with iPhone 14'S Battery Life Concerns</u></a></li>
+<li><a href="https://fox-that.techidaily.com/the-journey-of-facetime-photos-finding-their-destination-on-ios-devices/"><u>The Journey of FaceTime Photos - Finding Their Destination on iOS Devices</u></a></li>
+<li><a href="https://fox-that.techidaily.com/the-magic-of-refreshing-how-rebooting-your-phone-solves-many-glitches/"><u>The Magic of Refreshing: How Rebooting Your Phone Solves Many Glitches</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-7-solutions-for-resolving-iphones-apple-logo-screen-issue/"><u>Top 7 Solutions for Resolving iPhone's Apple Logo Screen Issue</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-8-solutions-how-to-get-your-iphone-out-of-stubborn-headphone-loop/"><u>Top 8 Solutions: How to Get Your iPhone Out of Stubborn Headphone Loop</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-chatgpt-ios-app-top-9-solutions-for-connection-issues/"><u>Troubleshooting ChatGPT iOS App: Top 9 Solutions for Connection Issues</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-error-6-issues-for-players-of-battlefield-vision-modern-warfare-on-pc/"><u>Troubleshooting Error 6 Issues for Players of Battlefield Vision: Modern Warfare on PC</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-siri-issues-top-7-fixes-for-iphoneipad/"><u>Troubleshooting Siri Issues: Top 7 Fixes for iPhone/iPad</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlock-the-solution-to-ios-16-depth-effect-problems-learn-from-our-7-step-guide/"><u>Unlock the Solution to iOS 16 Depth Effect Problems - Learn From Our 7-Step Guide</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/what-you-want-to-know-about-two-factor-authentication-for-icloud-on-your-apple-iphone-7-by-drfone-ios/"><u>What You Want To Know About Two-Factor Authentication for iCloud On your Apple iPhone 7</u></a></li>
+<li><a href="https://fox-that.techidaily.com/wireless-charging-not-working-on-your-iphone-7-fixes-to-try/"><u>Wireless Charging Not Working on Your iPhone? 7 Fixes to Try</u></a></li>
+</ul></div>

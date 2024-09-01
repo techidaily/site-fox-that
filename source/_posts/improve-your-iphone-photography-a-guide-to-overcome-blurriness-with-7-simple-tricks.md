@@ -1,0 +1,177 @@
+---
+title: "Improve Your iPhone Photography: A Guide to Overcome Blurriness with 7 Simple Tricks"
+date: 2024-08-31T20:58:46.232Z
+updated: 2024-09-01T20:58:46.232Z
+tags:
+  - iphone
+  - apple
+categories:
+  - iphone
+description: "This Article Describes Improve Your iPhone Photography: A Guide to Overcome Blurriness with 7 Simple Tricks"
+excerpt: "This Article Describes Improve Your iPhone Photography: A Guide to Overcome Blurriness with 7 Simple Tricks"
+thumbnail: https://thmb.techidaily.com/80c8f2832769bf50662b01ca1e988a4c71933b23ed7117cea801b49e429b370c.jpg
+---
+
+## Improve Your iPhone Photography: A Guide to Overcome Blurriness with 7 Simple Tricks
+
+ When new, your iPhone works perfectly without any problems, and the chances of facing issues are lower. However, as time goes by, issues may start to surface, and that's okay. One of the common issues that can affect your iPhone camera is blurry images. With this, images shot from your iPhone won't be clear and crisp.
+
+ If you're facing this issue, various factors could be causing your iPhone's camera to be blurry. But before rushing to a nearby repair shop, here are different solutions to help you fix your blurry iPhone camera.
+
+## 1\. Remove the Protective Film From Your Camera Lens
+
+ You might have installed a protective film on the camera glass to prevent your iPhone camera lens from being damaged if you accidentally drop your device. Such a move is done in good faith to [extend your iPhone's lifespan](https://www.makeuseof.com/precautions-tips-to-extend-iphone-lifespan/) .
+
+ However, a protective film might obstruct the light entering your lens if not installed correctly, leading your iPhone to shoot blurry images. This might also be the case if the protective film is scratched. Thankfully, fixing this is easy.
+
+ Remove the protective film, and your problem will be fixed. If the front-facing camera is affected, ensure that your screen protector (if you have one installed) is not obstructing the lens.
+
+## 2\. Clean Your Camera Lens
+
+![iPhone 14 Pro's big camera module](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/iphone-14-pro-camera.jpg)
+
+ Cameras are allergic to dust, fingerprints, smudges, and other debris. If there are smudges, dust, or any debris on your iPhone's camera lenses, images won't be clear because of the obstruction. You can fix this by cleaning your camera lenses.[Apple recommends](https://support.apple.com/en-us/HT203040) you use a dry microfiber cloth to clean your camera lens.
+
+ However, even so, there are cases where this might not work. For example, if there's debris inside the lens, you have no option but to take your device to an Apple Store or an Apple Authorized Service Provider. You should also do the same if you notice damage to your camera's protector glass (the glass covering the camera lens).
+
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
+## 3\. Keep Your Hands Steady While Shooting
+
+ Shooting clear images also requires you to be steady. Even if everything else works fine, but your hands are shaky while shooting, your photos will look blurry because of the motion. And camera lenses are specifically sensitive to movement. Keep your hands steady while pressing the Shutter button for the best results.
+
+ You can achieve this by not holding your breath while shooting and ensuring that you press the capture button at the end of exhaling. Using volume buttons instead of the Shutter button to capture can also improve stability.
+
+![Person taking a photo with an iPhone Pro](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/how-to-keep-iphone-camera-night-mode-always-off-in-ios-15.jpg)
+
+ If you struggle with this, you can place your iPhone on a surface, or if you're ready to spend a few bucks, you can invest in a tripod stand for your iPhone.
+
+ For expert recommendations, check out our roundup of [the best phone tripods](https://www.makeuseof.com/tag/whats-best-phone-tripod/) . If you're the DIY type and are willing to invest time in making your own, here are [cheap and easy DIY smartphone tripod stands](https://www.makeuseof.com/tag/3-cheap-easy-diy-smartphone-tripod-mounts-made-tested-si-x3/) that will keep you engaged this weekend.
+
+## 4\. Disable the AE/AF Lock
+
+ Auto-exposure (AE) and Auto-focus (AF) features on your iPhone camera are important for setting fixed focus and exposure values. AE/AF ensures that your device always retains the exposure and focus on the subject. Even if you change the distance between you and the subject by either walking towards or away from it, your device will not refocus.
+
+ This is perfect as long as you remain in the same position. But if the distance between your device and the subject changes, the AE/AF lock will cause your images to look blurry. If the feature is enabled, you'll see a yellow box with**AE/AF Lock** in your camera's view.
+
+![AE/AF Lock enabled on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/aeaf-lock-enabled-iphone.jpg)
+
+![AE/AF Lock disabled on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/aeaf-lock-disabled-ios.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+Close
+
+ You can turn it off by tapping anywhere in the camera preview. This will ensure that your iPhone automatically refocuses when you or the subject moves. You should also explore more [iPhone camera settings for taking better photos](https://www.makeuseof.com/tag/iphone-camera-settings/) .
+
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 5\. Reduce Zoom Levels
+
+ Another reason that could lead to blurry photos on iPhone is if you've zoomed in. Depending on your iPhone model, you may have access to different zoom levels. If, for example, you have the iPhone 15 Pro, you have access to 5x optical zoom and 25x digital zoom. For the iPhone 14 Pro, optical zoom is capped at 3x, whereas digital zoom is capped at 15x.
+
+ But the more you zoom in, the more your images lose details. Images will lose their sharpness and become blurry at maximum zoom levels. If you've zoomed in, reduce the zoom until you can capture the image without quality degradation.
+
+![Zoomed-in view in iOS Camera app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/zoomed-in-view-iphone-camera.jpg)
+
+![Standard view in iOS Camera app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/standard-view-iphone-camera.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
+Close
+
+ We recommend using optical zoom instead of digital zoom to get the best results. You can see this by tapping the number at the bottom of your image preview with the Camera app open. You can pinch out with two fingers to slightly increase the level to a point where the image still looks detailed. However, just remember that while digital zoom gives you a better range, the quality won't be nearly as good.
+
+## 6\. Remove Accessories From Your iPhone
+
+ If you have magnetic or metallic accessories on your iPhone, they might interfere with your camera's ability to focus. Common culprits include phone cases and camera accessories like a magnetic lens mount or a lens converter.
+
+![iPhone covered in case with moment macro lens attached](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/iphone-with-moment-lens-case.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ These accessories commonly cause motion blur in low-light situations, according to Apple. So, remove the accessories and try taking a photo, then see if the issue has been fixed. If this fixes your blurry iPhone camera, remove the accessory whenever you want to shoot.
+
+## 7\. Restart Your iPhone
+
+ As a last resort, you should [restart your iPhone](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) . iOS, despite its refinement, is never perfect; you'll occasionally encounter glitches and bugs. So, if none of the solutions above have fixed your problem, try restarting your device.
+
+ You might not be a believer in this catch-all solution, but it's been proven that [restarting fixes most smartphone problems](https://www.makeuseof.com/why-restarting-smartphone-fixes-most-problems/) . Go ahead and do it, then [open your iPhone's Camera app](https://www.makeuseof.com/alternate-ways-to-open-iphone-camera/) again and check if your problem is fixed.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Take Clear Pictures on Your iPhone
+
+ Taking clear images on your iPhone requires the software and hardware to be in great condition or set up correctly. If your iPhone's camera has been taking blurry pictures, try all the solutions above.
+
+ If all else fails and you're confident you haven't damaged your iPhone's camera, you should contact Apple support. An expert should be able to provide a concrete answer for your troubles. They might even recommend a camera repair or replacement if it's a factory defect.
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-detailed-breakdown-of-camstudio-screencapture-pro-for-2024/"><u>[New] Detailed Breakdown of CamStudio ScreenCapture Pro for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-essential-lol-live-stream-setups-3-strategies/"><u>[New] In 2024, Essential LOL Live Stream Setups - 3 Strategies</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-growth-and-profitability-in-the-digital-marketplace-explore-these-top-15-facebook-insights/"><u>[Updated] 2024 Approved  Growth & Profitability in the Digital Marketplace  Explore These Top 15 Facebook Insights</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-techniques-to-surpass-instagrams-typical-video-limits/"><u>[Updated] In 2024, Techniques to Surpass Instagram's Typical Video Limits</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-from-pilot-to-producer-editing-mastery-in-drone-filmmaking/"><u>2024 Approved  From Pilot to Producer  Editing Mastery in Drone Filmmaking</u></a></li>
+<li><a href="https://fox-that.techidaily.com/7-quick-fixes-for-predictive-emoji-not-working-on-an-iphone-or-ipad/"><u>7 Quick Fixes for Predictive Emoji Not Working on an iPhone or iPad</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-motorola-moto-g-5g-2023-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Motorola Moto G 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/consolidating-repeated-individuals-photographs-across-different-albums-a-guide-for-ios-and-macos-users/"><u>Consolidating Repeated Individuals' Photographs Across Different Albums: A Guide for iOS & macOS Users</u></a></li>
+<li><a href="https://fox-that.techidaily.com/correcting-person-identification-errors-in-apples-photos-application-a-step-by-step-guide/"><u>Correcting Person Identification Errors in Apple's Photos Application: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/easy-instructions-for-rebooting-your-ios-device-to-its-original-settings/"><u>Easy Instructions for Rebooting Your iOS Device to Its Original Settings</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/elite-economical-countdown-companions/"><u>Elite Economical Countdown Companions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/facetime-wont-start-here-are-the-15-most-effective-solutions-to-test-out-now/"><u>FaceTime Won't Start? Here Are the 15 Most Effective Solutions to Test Out Now.</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-iphone-flashlight-failures-a-comprehensive-guide-to-12-remedies/"><u>Fixing iPhone Flashlight Failures: A Comprehensive Guide to 12 Remedies</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-safaricide-10-steps-to-restore-your-iphones-browser/"><u>Fixing Safaricide: 10 Steps to Restore Your iPhone's Browser</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-the-issue-of-malfunctioning-volume-buttons-on-your-iphone/"><u>Fixing the Issue of Malfunctioning Volume Buttons on Your iPhone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-adjust-your-iphone-settings-when-random-websites-show-up-in-screen-time/"><u>How to Adjust Your iPhone Settings When Random Websites Show Up in Screen Time</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-disable-the-liquid-sensor-alarm-in-iphones-with-usb-c-chargers/"><u>How to Disable the Liquid Sensor Alarm in iPhones with USB-C Chargers</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721478831458-how-to-fix-an-iphone-that-wont-update-to-icloud-explore-nine-remedies/"><u>How to Fix an iPhone That Won't Update to iCloud - Explore Nine Remedies!</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-xiaomi-redmi-13c-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Xiaomi Redmi 13C | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-stop-that-irritating-flickering-on-your-phones-display-7-effective-ways/"><u>How To Stop That Irritating Flickering On Your Phone's Display – 7 Effective Ways</u></a></li>
+<li><a href="https://fox-that.techidaily.com/icloud-woes-a-step-by-step-solution-for-sync-troubles/"><u>ICloud Woes? A Step-by-Step Solution for Sync Troubles</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-honor-90-gt-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Honor 90 GT to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-gourmet-gurus-who-you-should-subscribe-to/"><u>In 2024, Gourmet Gurus  Who You Should Subscribe To</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-itel-p55-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Itel P55 | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-control-center-malfunction-here-are-8-solutions-you-need/"><u>IPhone Control Center Malfunction? Here Are 8 Solutions You Need</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-losing-cell-connection-discover-these-10-quick-fixes/"><u>IPhone Losing Cell Connection? Discover These 10 Quick Fixes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-text-message-woes-fix-incoming-mms-from-android-devices-now/"><u>IPhone Text Message Woes? Fix Incoming MMS From Android Devices Now</u></a></li>
+<li><a href="https://fox-that.techidaily.com/market-segmentation/"><u>Market Segmentation</u></a></li>
+<li><a href="https://fox-that.techidaily.com/mastering-your-iphone-camera-roll-pro-tips-and-quick-fixes/"><u>Mastering Your iPhone Camera Roll: Pro Tips & Quick Fixes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/recovering-your-disappearing-apple-memos-quickly-and-easily/"><u>Recovering Your Disappearing Apple Memos Quickly and Easily</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolving-issues-with-missed-calls-on-ios-devices/"><u>Resolving Issues with Missed Calls on iOS Devices</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolving-your-imessage-signed-out-issue-a-step-by-step-guide/"><u>Resolving Your iMessage: 'Signed Out' Issue - A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/reviving-iphones-silent-siri-guides-fixing-why-predictions-dont-pop-up/"><u>Reviving iPhone's Silent Siri Guides: Fixing Why Predictions Don't Pop Up</u></a></li>
+<li><a href="https://fox-that.techidaily.com/single-airpod-problem-discover-the-best-methods-for-repair/"><u>Single AirPod Problem? Discover the Best Methods for Repair</u></a></li>
+<li><a href="https://fox-that.techidaily.com/stop-missing-your-appointments-fix-your-iphone-alarm-problems/"><u>Stop Missing Your Appointments: Fix Your iPhone Alarm Problems</u></a></li>
+<li><a href="https://fox-that.techidaily.com/tablet-touch-malfunction-discover-these-8-quick-fixes/"><u>Tablet Touch Malfunction? Discover These 8 Quick Fixes</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-elder-scrolls-v-skyrim-on-the-nintendo-switch-an-unparalleled-rpg-journey/"><u>The Elder Scrolls V: Skyrim on the Nintendo Switch – An Unparalleled RPG Journey</u></a></li>
+<li><a href="https://fox-that.techidaily.com/the-five-hurdles-of-shipping-gifts-from-your-apple-device-explained/"><u>The Five Hurdles of Shipping Gifts From Your Apple Device Explained</u></a></li>
+<li><a href="https://fox-that.techidaily.com/time-saving-tips-getting-your-ipad-or-iphone-emoji-predictions-up-and-running/"><u>Time-Saving Tips: Getting Your iPad or iPhone Emoji Predictions Up & Running</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-tips-to-compensate-for-a-lower-megapixel-iphone-camera/"><u>Top Tips to Compensate for a Lower Megapixel iPhone Camera</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-liquid-detected-on-your-iphones-usb-c-port-expert-advice/"><u>Troubleshooting 'Liquid Detected' On Your iPhone's USB-C Port: Expert Advice</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-iphone-display-issues-expert-fixes-and-tips/"><u>Troubleshooting iPhone Display Issues: Expert Fixes & Tips</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unblocked-or-ignored-figuring-out-missed-connections-with-iphone-chat-apps/"><u>Unblocked or Ignored? Figuring Out Missed Connections with iPhone Chat Apps</u></a></li>
+<li><a href="https://fox-that.techidaily.com/understanding-potential-risks-with-the-iphone-14s-battery-life/"><u>Understanding Potential Risks with the iPhone 14'S Battery Life</u></a></li>
+<li><a href="https://fox-that.techidaily.com/understanding-the-factors-behind-poor-iphone-wi-fi-performance-a-7-point-guide/"><u>Understanding the Factors Behind Poor iPhone Wi-Fi Performance: A 7-Point Guide</u></a></li>
+</ul></div>
