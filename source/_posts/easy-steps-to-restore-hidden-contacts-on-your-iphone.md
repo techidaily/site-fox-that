@@ -1,0 +1,268 @@
+---
+title: Easy Steps to Restore Hidden Contacts on Your iPhone
+date: 2024-09-05T02:43:50.408Z
+updated: 2024-09-06T02:43:50.408Z
+tags:
+  - iphone
+  - apple
+categories:
+  - iphone
+description: This Article Describes Easy Steps to Restore Hidden Contacts on Your iPhone
+excerpt: This Article Describes Easy Steps to Restore Hidden Contacts on Your iPhone
+thumbnail: https://thmb.techidaily.com/d44c84cbf0699642eded061365e62aa884811112a5aa8ff88c8335f623b0d0e8.jpg
+---
+
+## Easy Steps to Restore Hidden Contacts on Your iPhone
+
+ Every time you want to contact someone in your contact list, a simple search should show their number. However, there are instances when some or all of your contact names don’t show up on your iPhone.
+
+ If contacts aren’t showing up on your iPhone, you can use this guide as a fix. But before we dive into the different options, remember that various problems can make your iPhone contacts disappear.
+
+ And therefore, there are various solutions that you can use to fix it. So, try each of these methods and see which one helps to restore contacts on your iPhone.
+
+## 1\. Restart Your iPhone
+
+ One of the first steps you should try is restarting your iPhone. Sometimes when mobile devices run for a while, they may run into issues. Restarting your iPhone will help give it a fresh start and thus may help fix minor issues you’re facing, including contacts not showing up, sluggish performance, app crashes, and so on.
+
+![Person using iPhone](https://thmb.techidaily.com/f4c650853e8507f493dd5a4da625f53ce5ecb8f26fcbb71888c8a6af3708b00c.jpg)
+
+[Restarting can fix most smartphone problems](https://www.makeuseof.com/why-restarting-smartphone-fixes-most-problems/) , and that’s why the first question a tech support agent asks is, "Have you tried turning it off and on again?"
+
+ There are different ways to restart your iPhone, depending on the model. Read our dedicated guide on [how to restart any iPhone](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) for step-by-step instructions. Once your iPhone is back up and running, confirm if your contacts have been restored. If not, move on to step number two.
+
+## 2\. Resync Your Contacts With iCloud
+
+ You could also fix this issue by resyncing your Contacts app with iCloud. We’ll do this by disabling iCloud access to Contacts and then re-enabling it again. Here’s how:
+
+1. Open**Settings** and tap on your name.
+2. Next, select**iCloud > Show All** .
+3. Under the Apps using iCloud page, toggle off**Contacts** .
+4. Select**Keep on My iPhone** to save copies of synced contacts to your iPhone. You can also select**Delete from My iPhone** if you want. Don’t worry; this option doesn’t make your contacts disappear.
+5. Re-enable**Contacts** again. And if your iPhone asks to merge existing contacts, select**Merge** .
+
+![iPhone Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/Settings-iPhone.jpg)
+
+![iCloud settings in iOS 16](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/icloud-page-ios-16.jpg)
+
+![Disabling Contacts sync in iOS 16](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/disabling-contacts-sync-ios-16.jpg)
+
+Close
+
+ After that, give your device a few minutes, then check to see if your contacts have been restored. If you’re still facing problems, read on for more solutions.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 3\. Show All Contacts in Your Phone App
+
+ Your iPhone contacts might not show up because you have hidden some of them. You may not know this, but your iPhone usually places your contacts in groups based on your connected accounts. To see all your contacts, no matter their group, you need to ensure all groups are visible.
+
+So, follow these steps to show hidden contact groups:
+
+1. Open the**Phone** app and tap the**Contacts** tab.
+2. Tap**Lists** in the top left.
+3. On the**Lists** page, tap**All Contacts** at the top to view all your saved contacts.
+
+![Contacts app in iOS 16](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/contacts-app-ios-16.jpg)
+
+![All Accounts option in iOS 16](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/accounts-options-contacts-app.jpg)
+
+Close
+
+ If some contacts from a particular account weren’t showing up on your iPhone, this should fix the issue. However, read on if you still don’t see all your contacts.
+
+## 4\. Add All Your Accounts to Your iPhone
+
+ If you have several accounts that you use, chances are contacts might be saved across them. To fix this, you need to add all your accounts to your iPhone to ensure you have access to all your contacts. So, follow these steps to add an account to your iPhone:
+
+1. Open**Settings** , then scroll down and select**Contacts** .
+2. Now, tap**Accounts** . You'll see all accounts that are currently added to your iPhone.
+3. Tap**Add Account** , select the type of account, and log in using your credentials.
+4. After successful login, the account will appear under**Settings > Contacts > Accounts** .
+
+![Contacts settings page in iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/01-contacts-settings-ios.jpg)
+
+![Accounts page in iOS settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/02-accounts-ios-settings.jpg)
+
+![Adding a new account in iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/03-add-account-ios.jpg)
+
+Close
+
+ If you don't see any contacts from the newly added account, follow the steps in the next tip to ensure contact visibility.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 5\. Modify Your Contact Account Settings
+
+ Your**Accounts** settings also affect the visibility of your contacts. You need to ensure that all your connected accounts have Contacts sync enabled. To do this, follow these steps:
+
+1. Launch**Settings > Contacts** .
+2. Under Contacts, select**Accounts** . You will see all your connected accounts listed here.
+3. Tap each account and ensure**Contacts** is toggled on.
+
+![Screenshot of iOS Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/iOS-Settings-app.jpg)
+
+![Contacts settings in iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/Contacts-option-in-iOS-settings-app.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Individual account settings in iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/Individual-account-settings-iOS.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+Close
+
+ If contacts from one of your connected accounts weren’t showing up on your iPhone, this should help fix the issue.
+
+ Additionally, you can try disabling and enabling Short Name on your iPhone. While this feature is handy to ensure more names fit on the screen, it can sometimes be problematic. To do this, go to**Settings > Contacts > Short Name** . Disable**Short Name** , then wait for some time and turn it on.
+
+## 6\. Rebuild Your iPhone Contacts
+
+ Another way to troubleshoot iPhone contacts not showing up is by force rebuilding them. To do this, you’ll have to edit one of your contacts first, then restart your iPhone. Here’s how:
+
+1. First, select any visible contact from the**Phone** app and select**Edit** in the top right.
+2. Add some new details—they don’t have to be accurate. You can add a fake email, address, note, or anything.
+3. Once done, tap**Done** in the top right and then restart your iPhone.
+
+![Editing contact details on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/01-edit-iphone-contact.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Editing contact details on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/02-editing-contact-details-iphone.jpg)
+
+![An edited contact on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/edited-contact-ios.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+Close
+
+ When your iPhone powers on, it will have to rebuild all the contact names and details. Once your iPhone restores all the contacts, you can delete the fake information you added to the contact above. Check if your contacts have been restored after a few minutes. If this doesn’t solve your issue, try data recovery tools.
+
+<!-- affiliate ads begin -->
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 7\. Recover Lost Data Using iCloud or Data Recovery Tools
+
+ Before you try third-party data recovery tools, we advise using iCloud first. You can do this by going to the [iCloud website](https://www.icloud.com/) . Click the card with your account name, then select the**Data Recovery** option at the top of the page.
+
+ If you're accessing the website on mobile, tap the hamburger menu in the top-left first, then choose**Data Recovery** from the context menu. Next, select**Restore Contacts** . You'll then have to select an archive to restore.
+
+ You need to have an archive of your contacts that you can restore. If you've never archived your contacts in the past, there won't be any to restore.
+
+ If that doesn’t work, you can try using third-party [data recovery tools](https://www.makeuseof.com/tag/data-recovery-work/) to restore your contacts. There are a variety of affordable tools on the market for the job. A good example is [PhoneRescue by iMobie](https://www.imobie.com/phonerescue/buy-ios-data-recovery.htm) , which is highly reputable and works with many iOS versions, including iOS 16\. However, you’ll have to spend some cash to get it.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 8\. Seek the Help of Apple Support
+
+ If all else fails or you don’t want to spend money on third-party data recovery tools, you can [get tech support with the Apple Support app](http://www.makeuseof.com/how-to-get-iphone-support-apple-support-app/) for more assistance.
+
+ Alternatively, you can reach out to them via [Apple’s support website](https://getsupport.apple.com/) . Either way, a certified expert should help sort out the issue in more ways than we could.
+
+<!-- affiliate ads begin -->
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Restore Your Missing iPhone Contacts
+
+ Contacts not showing up on an iPhone isn’t something new. It can happen to you, but when it does, don’t panic. There are a variety of ways to fix the problem. In summary, you could restart your iPhone, resync with iCloud, show all contacts in your Phone app, add all accounts to your iPhone, modify account settings, or force rebuild your contacts.
+
+ If none of these solutions work for you, you can try restoring lost contacts from your iCloud backups. If that fails, make sure to contact Apple’s support team. Using third-party data recovery tools should be your last resort, as you will certainly have to pay for it. Hopefully, one of the free methods works for you.
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-unlock-seamless-video-conversion-youtube-to-dailymotion/"><u>[New] Unlock Seamless Video Conversion  YouTube to Dailymotion</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unlocking-screen-clarity-advanced-zoom-techniques/"><u>2024 Approved  Unlocking Screen Clarity  Advanced Zoom Techniques</u></a></li>
+<li><a href="https://fox-that.techidaily.com/addressing-and-fixing-imessage-authentication-errors-for-a-seamless-iphone-chat-experience/"><u>Addressing and Fixing iMessage Authentication Errors for a Seamless iPhone Chat Experience</u></a></li>
+<li><a href="https://fox-that.techidaily.com/contact-name-replacement-error-what-to-do-when-phone-numbers-display-on-ios-chat-apps/"><u>Contact Name Replacement Error: What to Do When Phone Numbers Display on iOS Chat Apps</u></a></li>
+<li><a href="https://fox-that.techidaily.com/diy-troubleshooting-fix-five-prevalent-iphone-glitches-using-dfu-method/"><u>DIY Troubleshooting: Fix Five Prevalent iPhone Glitches Using DFU Method</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-chatgpts-potential-to-innovate-in-health-services/"><u>Exploring ChatGPT's Potential to Innovate in Health Services</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fix-your-iphones-text-messaging-problem-using-our-proven-10-step-guide/"><u>Fix Your iPhone's Text Messaging Problem Using Our Proven 10-Step Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-a-non-functional-iphone-microphone-expert-tips-and-tricks-for-restoration/"><u>Fixing a Non-Functional iPhone Microphone: Expert Tips and Tricks for Restoration</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-update-your-iphone-emails-overcoming-sync-and-update-problems/"><u>How to Update Your iPhone Emails: Overcoming Sync and Update Problems</u></a></li>
+<li><a href="https://fox-that.techidaily.com/icloud-backup-failures-on-iphone-top-9-remedies/"><u>ICloud Backup Failures on iPhone - Top 9 Remedies!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/icons-vanish-from-every-mobile-app-on-your-iphone-explore-fixes-and-restore-them/"><u>Icons Vanish From Every Mobile App on Your iPhone? Explore Fixes and Restore Them!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/improve-your-mobile-experience-increase-iphones-wi-fi-performance-now/"><u>Improve Your Mobile Experience: Increase iPhone's Wi-Fi Performance Now</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-full-fledged-vsco-editing-encyclopedia/"><u>In 2024, Full Fledged VSCO Editing Encyclopedia</u></a></li>
+<li><a href="https://fox-that.techidaily.com/mastering-iphone-maintenance-15-vital-troubleshooting-strategies/"><u>Mastering iPhone Maintenance: 15 Vital Troubleshooting Strategies</u></a></li>
+<li><a href="https://fox-that.techidaily.com/mastering-iphone-troubleshooting-force-reboot-steps-to-reach-the-recovery-menu/"><u>Mastering iPhone Troubleshooting: Force Reboot Steps to Reach the Recovery Menu</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-no-imovie-no-problem-top-5-free-online-video-editors/"><u>New In 2024, No iMovie? No Problem! Top 5 Free Online Video Editors</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/all-inclusive-free-holiday-movies-streamed-on-youtube-for-2024/"><u>Nine All-Inclusive Free Holiday Movies Streamed on YouTube for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/no-more-password-worries-learn-to-change-your-ios-and-mac-screen-time-passcode-today/"><u>No More Password Worries: Learn to Change Your iOS & Mac Screen Time Passcode Today</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-tablet-touchscreen-malfunctions-a-guide-to-8-key-solutions-for-enhanced-performance/"><u>Overcoming Tablet Touchscreen Malfunctions: A Guide to 8 Key Solutions for Enhanced Performance</u></a></li>
+<li><a href="https://win-blog.techidaily.com/pc-players-rejoice-ending-the-frustration-of-horizon-zero-dawn-game-crashes/"><u>PC Players Rejoice: Ending the Frustration of Horizon Zero Dawn Game Crashes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/quick-fixes-for-a-nonfunctional-imessage-on-iphoneipadmac-7-essential-tips/"><u>Quick Fixes for a Nonfunctional iMessage on iPhone/iPad/Mac - 7 Essential Tips</u></a></li>
+<li><a href="https://fox-that.techidaily.com/recovering-a-missing-or-pilfered-iphone-a-step-by-step-guide-with-the-find-my-app/"><u>Recovering a Missing or Pilfered iPhone: A Step-by-Step Guide with the Find My App</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-apple-phone-display-problems-a-users-guide-to-a-working-screen/"><u>Solving Apple Phone Display Problems: A User's Guide to a Working Screen</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-silent-messages-top-15-techniques-to-restore-notifications-and-ringtones-on-your-iphone/"><u>Solving Silent Messages: Top 15 Techniques to Restore Notifications and Ringtones on Your iPhone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721477467006-stuck-at-installing-apps-on-your-iphone-here-are-10-quick-fixes-to-get-them-working-again/"><u>Stuck at Installing Apps on Your iPhone? Here Are 10 Quick Fixes to Get Them Working Again</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721478288697-tablet-not-responding-to-touch-fix-it-with-these-8-effective-hacks/"><u>Tablet Not Responding to Touch? Fix It with These 8 Effective Hacks!</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-pip-blueprint-crafting-compelling-video-presentations-on-macos/"><u>The PIP Blueprint  Crafting Compelling Video Presentations on macOS</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-guide-top-15-solutions-when-facetime-fails/"><u>Troubleshooting Guide: Top 15 Solutions When FaceTime Fails</u></a></li>
+<li><a href="https://fox-that.techidaily.com/ultimate-iphone-repair-techniques-a-list-of-15-must-know-tips/"><u>Ultimate iPhone Repair Techniques: A List of 15 Must-Know Tips</u></a></li>
+<li><a href="https://fox-that.techidaily.com/uncover-hidden-events-a-step-by-step-fix-for-apple-calendar-glitches/"><u>Uncover Hidden Events: A Step by Step Fix for Apple Calendar Glitches</u></a></li>
+<li><a href="https://fox-that.techidaily.com/understanding-the-limitations-5-barriers-to-gift-sending-on-iphones-and-ipads/"><u>Understanding the Limitations: 5 Barriers to Gift-Sending on iPhones and iPads</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Apple iPhone 12 | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unresponsive-ios-display-discover-these-7-reasons-why-your-iphone-screen-may-not-be-working/"><u>Unresponsive iOS Display? Discover These 7 Reasons Why Your iPhone Screen May Not Be Working</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-ai-voice-manipulation-techniques-for-authentic-and-natural-sound-replication/"><u>Updated AI Voice Manipulation Techniques for Authentic and Natural Sound Replication</u></a></li>
+<li><a href="https://fox-that.techidaily.com/why-wont-the-picture-analysis-function-work-on-your-iphone-camera/"><u>Why Won't the Picture Analysis Function Work on Your iPhone Camera?</u></a></li>
+</ul></div>

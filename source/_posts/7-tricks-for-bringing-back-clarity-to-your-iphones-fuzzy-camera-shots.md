@@ -1,7 +1,7 @@
 ---
 title: 7 Tricks for Bringing Back Clarity to Your iPhone's Fuzzy Camera Shots
-date: 2024-08-31T21:12:26.515Z
-updated: 2024-09-01T21:12:26.515Z
+date: 2024-09-05T02:40:41.533Z
+updated: 2024-09-06T02:40:41.533Z
 tags:
   - iphone
   - apple
@@ -43,15 +43,15 @@ thumbnail: https://thmb.techidaily.com/73c8aa7288a20e6cbaea75d2d69b895c345ae8292
 ![Person taking a photo with an iPhone Pro](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/how-to-keep-iphone-camera-night-mode-always-off-in-ios-15.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  If you struggle with this, you can place your iPhone on a surface, or if you're ready to spend a few bucks, you can invest in a tripod stand for your iPhone.
 
  For expert recommendations, check out our roundup of [the best phone tripods](https://www.makeuseof.com/tag/whats-best-phone-tripod/) . If you're the DIY type and are willing to invest time in making your own, here are [cheap and easy DIY smartphone tripod stands](https://www.makeuseof.com/tag/3-cheap-easy-diy-smartphone-tripod-mounts-made-tested-si-x3/) that will keep you engaged this weekend.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Disable the AE/AF Lock
 
  Auto-exposure (AE) and Auto-focus (AF) features on your iPhone camera are important for setting fixed focus and exposure values. AE/AF ensures that your device always retains the exposure and focus on the subject. Even if you change the distance between you and the subject by either walking towards or away from it, your device will not refocus.
@@ -61,12 +61,18 @@ thumbnail: https://thmb.techidaily.com/73c8aa7288a20e6cbaea75d2d69b895c345ae8292
 ![AE/AF Lock enabled on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/aeaf-lock-enabled-iphone.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ![AE/AF Lock disabled on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/aeaf-lock-disabled-ios.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Close
 
@@ -82,12 +88,21 @@ Close
 
 ![Standard view in iOS Camera app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/standard-view-iphone-camera.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Close
 
  We recommend using optical zoom instead of digital zoom to get the best results. You can see this by tapping the number at the bottom of your image preview with the Camera app open. You can pinch out with two fingers to slightly increase the level to a point where the image still looks detailed. However, just remember that while digital zoom gives you a better range, the quality won't be nearly as good.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 6\. Remove Accessories From Your iPhone
 
@@ -97,15 +112,18 @@ Close
 
  These accessories commonly cause motion blur in low-light situations, according to Apple. So, remove the accessories and try taking a photo, then see if the issue has been fixed. If this fixes your blurry iPhone camera, remove the accessory whenever you want to shoot.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ## 7\. Restart Your iPhone
 
  As a last resort, you should [restart your iPhone](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) . iOS, despite its refinement, is never perfect; you'll occasionally encounter glitches and bugs. So, if none of the solutions above have fixed your problem, try restarting your device.
 
  You might not be a believer in this catch-all solution, but it's been proven that [restarting fixes most smartphone problems](https://www.makeuseof.com/why-restarting-smartphone-fixes-most-problems/) . Go ahead and do it, then [open your iPhone's Camera app](https://www.makeuseof.com/alternate-ways-to-open-iphone-camera/) again and check if your problem is fixed.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Take Clear Pictures on Your iPhone
 
  Taking clear images on your iPhone requires the software and hardware to be in great condition or set up correctly. If your iPhone's camera has been taking blurry pictures, try all the solutions above.

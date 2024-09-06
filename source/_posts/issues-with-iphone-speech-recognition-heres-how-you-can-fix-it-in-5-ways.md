@@ -1,7 +1,7 @@
 ---
 title: Issues With iPhone Speech Recognition? Here's How You Can Fix It in 5 Ways
-date: 2024-07-20T03:24:08.082Z
-updated: 2024-07-21T03:24:08.082Z
+date: 2024-09-05T02:29:58.711Z
+updated: 2024-09-06T02:29:58.711Z
 tags:
   - iphone
   - apple
@@ -24,11 +24,6 @@ thumbnail: https://thmb.techidaily.com/bcbbbb17c516407e41023c9df84564d9e208249f4
 
  Having issues converting voice to text on your iPhone? Or perhaps the dictation icon is nowhere to be found at all? Don't worry; these are several simple troubleshooting steps you can follow when dictation isn't working on your iPhone.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ## 1\. Check if Dictation Is Enabled on Your iPhone
 
  The dictation feature is represented by a microphone icon at the bottom of your iPhone's on-screen keyboard. While dictation is enabled by default, you'll need to turn it on in Settings first if you don't see the microphone icon on the keyboard.
@@ -47,40 +42,58 @@ Close
 
 ![iphone keyboard dictation setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/iphone-keyboard-dictation-setting.PNG)
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![turn off dictation confirmation popup on iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/turn-off-dictation-confirmation-popup-on-iphone.PNG)
 
 Close
 
+<!-- affiliate ads begin -->
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. Add the Dictation Language to Your iPhone Keyboard
 
  Let's say you typically type in English on your iPhone but want to dictate something in Chinese. The iPhone's dictation feature won't recognize what you're saying if Chinese hasn't been added to the keyboard yet.
 
  In this case, go to **Settings > General > Keyboard > Keyboards > Add New Keyboard** . From the list, choose**Chinese** (or your preferred language), select the keyboard input method, and tap**Done** .
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![expanded iphone keyboards setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/expanded-iphone-keyboards-setting.PNG)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ![iphone keyboard language list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/iphone-keyboard-language-list.PNG)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![keyboard language list on iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/keyboard-language-list-on-iphone.PNG)
 
 Close
 
  If you intend to dictate text in a Chinese dialect, there's an additional setting you need to do. In the**Keyboards** setting page, go to**Dictation Languages** . From the list, select one of the language variations in addition to**Mandarin** .
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ![iphone keyboard dictation setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/iphone-keyboard-dictation-setting.PNG)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![iphone dictation languages setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/iphone-dictation-languages-setting.PNG)
 
 Close
@@ -95,36 +108,36 @@ Close
 
  Dictation isn't available for all languages. You can check [Apple's site](http://www.apple.com/ios/feature-availability/#quicktype-keyboard-dictation) for a list of dictation languages available for the iPhone.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ## 3\. Allow Siri & Dictation in Your iPhone's Screen Time Settings
 
  If dictation still isn't working on your iPhone, it may be due to your iPhone's Screen Time settings, which can restrict the dictation feature on your device.
 
  To check this, go to **Settings > Screen Time > Content & Privacy Restrictions > Allowed Apps** . If**Siri & Dictation** is toggled off, toggle it on so your iPhone will let you use the dictation function again.
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![iphone screen time setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/iphone-screen-time-setting.PNG)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ![iphone content and privacy restrictions setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/iphone-content-and-privacy-restrictions-setting.PNG)
 
 ![allowed apps on iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/allowed-apps-on-iphone.PNG)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Close
 
 ## 4\. Test Your iPhone's Microphone
@@ -136,7 +149,10 @@ Close
  But if it's a hardware problem, you'll likely need to contact Apple Support or an Apple Authorized Service Provider.
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 5\. General Fixes: Restart, Update, or Reset Your iPhone
 
@@ -151,7 +167,10 @@ Close
 ![General settings showing Transfer or Reset option in iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/general-settings-showing-transfer-or-reset-option-in-ios.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ![transfer or reset iphone settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_7384.JPEG)
 
@@ -179,3 +198,42 @@ Close
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-capturing-virtual-conversations-in-real-time/"><u>[New] In 2024, Capturing Virtual Conversations in Real Time</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-ultimate-guide-to-sharper-meeting-experience-with-google/"><u>[New] In 2024, Ultimate Guide to Sharper Meeting Experience with Google</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-lgs-monitor-revolution-the-complete-examination-of-a-4k-screen/"><u>[New] LG's Monitor Revolution  The Complete Examination of a 4K Screen</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-dare-greatly-with-these-10-movies-that-matter-most/"><u>[Updated] Dare Greatly with These 10 Movies That Matter Most</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-evaluating-acid-pro-open-source-rivals-explored/"><u>[Updated] In 2024, Evaluating ACID Pro  Open-Source Rivals Explored</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-streamlined-process-for-upgrading-macos-sierra/"><u>2024 Approved  Streamlined Process for Upgrading macOS Sierra</u></a></li>
+<li><a href="https://fox-that.techidaily.com/apples-restrictions-a-closer-look-at-why-sending-presents-is-troublesome/"><u>Apple's Restrictions: A Closer Look at Why Sending Presents Is Troublesome</u></a></li>
+<li><a href="https://fox-that.techidaily.com/dealing-with-a-non-functioning-iphone-screen-top-recommendations/"><u>Dealing with a Non-Functioning iPhone Screen - Top Recommendations</u></a></li>
+<li><a href="https://fox-that.techidaily.com/dont-panic-a-comprehensive-method-to-restore-deleted-iphone-notepad-entries/"><u>Don't Panic! A Comprehensive Method to Restore Deleted iPhone Notepad Entries</u></a></li>
+<li><a href="https://fox-that.techidaily.com/easy-instructions-how-to-perform-a-full-reset-on-iphoneipad/"><u>Easy Instructions: How to Perform a Full Reset on iPhone/iPad</u></a></li>
+<li><a href="https://fox-that.techidaily.com/essential-tricks-and-repairs-for-the-iphone-gallery-navigate-through-8-persistent-challenges/"><u>Essential Tricks & Repairs for the iPhone Gallery: Navigate Through 8 Persistent Challenges</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fix-it-a-step-by-step-approach-to-overcome-icloud-connectivity-and-sync-errors/"><u>Fix It: A Step-by-Step Approach to Overcome iCloud Connectivity and Sync Errors</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-non-deliverable-text-alerts-on-iphone-step-by-step-instructions/"><u>Fixing Non-Deliverable Text Alerts on iPhone: Step-by-Step Instructions</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/free-official-dvd-ripper-and-hd-video-converter-ultimate-winx-download-center/"><u>Free Official DVD Ripper & HD Video Converter: Ultimate WinX Download Center</u></a></li>
+<li><a href="https://fox-that.techidaily.com/getting-iphone-text-messages-working-again-a-guide-to-10-key-solutions/"><u>Getting iPhone Text Messages Working Again: A Guide to 10 Key Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-boost-picture-clarity-on-an-iphone-with-low-megapixels/"><u>How to Boost Picture Clarity on an iPhone with Low Megapixels?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-fix-a-broken-qr-code-reader-on-your-iphone-a-step-by-step-guide/"><u>How to Fix a Broken QR Code Reader on Your iPhone - A Step-by-Step Guide</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-xiaomi-redmi-note-13-5g-easily-by-drfone-android/"><u>How To Unlock a Xiaomi Redmi Note 13 5G Easily?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/identifying-and-correcting-wrong-persons-in-applecuestamislabrephotos-app-a-quick-guide/"><u>Identifying and Correcting Wrong Persons in Apple'cuestamislabrephotos App: A Quick Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/identifying-and-repairing-the-typical-iphone-screen-malfunctions/"><u>Identifying and Repairing the Typical iPhone Screen Malfunctions</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-5-best-hd-hunting-recorders-reviewed/"><u>In 2024, 5 Best HD Hunting Recorders Reviewed</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-samsung-galaxy-a54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Samsung Galaxy A54 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721480331108-iphone-recognition-issues-heres-what-to-do-if-itunes-or-finder-wont-see-it/"><u>IPhone Recognition Issues? Here's What to Do If iTunes or Finder Won’t See It.</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-volume-button-malfunction-discover-7-ways-to-fix-it-easily-and-quickly/"><u>IPhone Volume Button Malfunction? Discover 7 Ways to Fix It Easily and Quickly</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/navigating-the-world-of-video-capturing-on-diverse-devices-for-2024/"><u>Navigating the World of Video Capturing on Diverse Devices for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-iphone-x-frustrations-the-ultimate-guide-to-fixing-common-issues/"><u>Overcoming iPhone X Frustrations: The Ultimate Guide to Fixing Common Issues</u></a></li>
+<li><a href="https://fox-that.techidaily.com/say-goodbye-to-airdrop-problems-swiftly-solve-them-using-these-16-key-guides/"><u>Say Goodbye to AirDrop Problems – Swiftly Solve Them Using These 16 Key Guides!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/secure-communication-gateway-gpt-plus-vpn/"><u>Secure Communication Gateway: GPT + VPN?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-uneven-volume-how-to-fix-when-your-airpods-sound-different/"><u>Solving Uneven Volume: How to Fix When Your AirPods Sound Different</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-6-solutions-when-your-airpods-wont-seamlessly-swap-between-ios-gadgets/"><u>Top 6 Solutions When Your AirPods Won't Seamlessly Swap Between iOS Gadgets</u></a></li>
+<li><a href="https://review-topics.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Tecno Spark 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-complete-lack-of-sound-on-your-iphone-effective-methods-inside/"><u>Troubleshooting Complete Lack of Sound on Your iPhone - Effective Methods Inside</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlock-better-battery-health-for-your-iphone-6-effortless-calibration-tips/"><u>Unlock Better Battery Health for Your iPhone: 6 Effortless Calibration Tips</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlock-better-performance-the-ultimate-6-step-battery-calibration-guide-for-iphones/"><u>Unlock Better Performance: The Ultimate 6 Step Battery Calibration Guide for iPhones</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unresponsive-iphone-vibration-on-silentring-settings-try-out-these-8-tricks/"><u>Unresponsive iPhone Vibration on Silent/Ring Settings? Try Out These 8 Tricks</u></a></li>
+</ul></div>

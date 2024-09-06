@@ -1,7 +1,7 @@
 ---
 title: "Clear as Day: 7 Strategies for Fixing a Foggy iPhone Lens Capture"
-date: 2024-08-31T21:13:24.880Z
-updated: 2024-09-01T21:13:24.880Z
+date: 2024-09-05T02:40:40.608Z
+updated: 2024-09-06T02:40:40.608Z
 tags:
   - iphone
   - apple
@@ -35,7 +35,10 @@ thumbnail: https://thmb.techidaily.com/7b81e5a1677e5963f8851410568bf197590afb572
  However, even so, there are cases where this might not work. For example, if there's debris inside the lens, you have no option but to take your device to an Apple Store or an Apple Authorized Service Provider. You should also do the same if you notice damage to your camera's protector glass (the glass covering the camera lens).
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 3\. Keep Your Hands Steady While Shooting
 
@@ -45,10 +48,28 @@ thumbnail: https://thmb.techidaily.com/7b81e5a1677e5963f8851410568bf197590afb572
 
 ![Person taking a photo with an iPhone Pro](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/how-to-keep-iphone-camera-night-mode-always-off-in-ios-15.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  If you struggle with this, you can place your iPhone on a surface, or if you're ready to spend a few bucks, you can invest in a tripod stand for your iPhone.
 
  For expert recommendations, check out our roundup of [the best phone tripods](https://www.makeuseof.com/tag/whats-best-phone-tripod/) . If you're the DIY type and are willing to invest time in making your own, here are [cheap and easy DIY smartphone tripod stands](https://www.makeuseof.com/tag/3-cheap-easy-diy-smartphone-tripod-mounts-made-tested-si-x3/) that will keep you engaged this weekend.
 
+<!-- affiliate ads begin -->
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. Disable the AE/AF Lock
 
  Auto-exposure (AE) and Auto-focus (AF) features on your iPhone camera are important for setting fixed focus and exposure values. AE/AF ensures that your device always retains the exposure and focus on the subject. Even if you change the distance between you and the subject by either walking towards or away from it, your device will not refocus.
@@ -57,11 +78,25 @@ thumbnail: https://thmb.techidaily.com/7b81e5a1677e5963f8851410568bf197590afb572
 
 ![AE/AF Lock enabled on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/aeaf-lock-enabled-iphone.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![AE/AF Lock disabled on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/aeaf-lock-disabled-ios.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Close
 
@@ -75,9 +110,6 @@ Close
 
 ![Zoomed-in view in iOS Camera app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/zoomed-in-view-iphone-camera.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![Standard view in iOS Camera app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/standard-view-iphone-camera.jpg)
 
 Close
@@ -90,14 +122,8 @@ Close
 
 ![iPhone covered in case with moment macro lens attached](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/iphone-with-moment-lens-case.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  These accessories commonly cause motion blur in low-light situations, according to Apple. So, remove the accessories and try taking a photo, then see if the issue has been fixed. If this fixes your blurry iPhone camera, remove the accessory whenever you want to shoot.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. Restart Your iPhone
 
  As a last resort, you should [restart your iPhone](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) . iOS, despite its refinement, is never perfect; you'll occasionally encounter glitches and bugs. So, if none of the solutions above have fixed your problem, try restarting your device.
@@ -105,7 +131,10 @@ Close
  You might not be a believer in this catch-all solution, but it's been proven that [restarting fixes most smartphone problems](https://www.makeuseof.com/why-restarting-smartphone-fixes-most-problems/) . Go ahead and do it, then [open your iPhone's Camera app](https://www.makeuseof.com/alternate-ways-to-open-iphone-camera/) again and check if your problem is fixed.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Take Clear Pictures on Your iPhone
 

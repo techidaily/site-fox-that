@@ -1,7 +1,7 @@
 ---
 title: Top 7 Solutions When Your iPhone Won't Get Messages
-date: 2024-07-20T03:22:21.587Z
-updated: 2024-07-21T03:22:21.587Z
+date: 2024-09-05T02:37:06.591Z
+updated: 2024-09-06T02:37:06.591Z
 tags:
   - iphone
   - apple
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/96b0dc304ed2f0b22e595834a3c54ad2566287334
 
  Your browser does not support the video tag.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 1\. Make Sure Messaging Is Enabled
 
  If you've just set up your iPhone or completed an iOS update, there is a chance iMessage isn't enabled. If not enabled, you won't receive texts from other iPhones. To turn this on, head to**Settings > Messages > iMessage** .
@@ -31,9 +28,6 @@ thumbnail: https://thmb.techidaily.com/96b0dc304ed2f0b22e595834a3c54ad2566287334
 
  Below iMessage, you will also see a setting for**Send & Receive** . Make sure you have an address enabled to receive iMessages. While you're here, be sure to also enable**MMS** and**Group Messaging** . If you scroll down, you will see the options for these.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![mms group messages](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/mms-group-messages.jpg)
 
  Sometimes, certain emojis will be sent as an MMS message. If you have this off, you won't receive the text. There are also cases where someone might tag another person in the text and make it a group text. If this option was off, you wouldn't have received that text either.
@@ -42,9 +36,6 @@ thumbnail: https://thmb.techidaily.com/96b0dc304ed2f0b22e595834a3c54ad2566287334
 
 ## 2\. Edit Send & Receive Settings
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ![iOS settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/messages-settings-ios16.jpg)
 
 ![iphone messages settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/iphone-messages-settings.jpg)
@@ -60,7 +51,10 @@ Close
  Some people might be sending you messages to your email address unknowingly, so changing this particular setting will make it possible to receive these messages.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 3\. Make Sure You Have Cellular or Wi-Fi for iMessage
 
@@ -81,7 +75,22 @@ Close
 ![send as sms](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/send-as-sms.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 5\. Turn Off Message Filtering
 
@@ -91,19 +100,31 @@ Close
 
 ![filter unknown senders](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/filter-unknown-senders.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Once you turn it off, head to the Messages app to find any unread messages that the filter hid. Filtered messages don't get deleted. Instead, they get stored in another folder. Once you turn off Message Filtering, you'll see them in the**Messages** app.
 
 <!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 6\. Reset Your Network Settings
 
@@ -113,16 +134,14 @@ Close
 
  To do this, head to **Settings > General > Transfer or Reset iPhone > Reset > Reset Network Settings** .
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![reset network settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/reset-network-settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  After resetting your network settings, get someone to send you another text message. If you still can't receive it, you can always try [resetting your iPhone entirely](https://www.makeuseof.com/tag/how-to-factory-reset-iphone-ipad/) . However, that is time-consuming and might not work.
 
 ## 7\. Contact Your Carrier
@@ -157,3 +176,47 @@ Close
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-essential-tips-for-basic-color-correction/"><u>[New] 2024 Approved  Essential Tips for Basic Color Correction</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-best-5-quick-filming-diy-hacks-to-try-at-home/"><u>[New] Best 5 Quick Filming DIY Hacks to Try at Home</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-fire-up-your-dreams-with-these-10-movie-gems/"><u>[Updated] 2024 Approved  Fire Up Your Dreams with These 10 Movie Gems</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-a-beginners-strategy-boosting-business-via-telegram-marketing/"><u>[Updated] A Beginner’s Strategy  Boosting Business via Telegram Marketing</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-achieve-the-perfect-selfie-with-top-8-gear/"><u>[Updated] Achieve the Perfect Selfie with Top 8 Gear</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-explore-the-finest-moba-games-for-android/"><u>[Updated] Explore the Finest MOBA Games for Android</u></a></li>
+<li><a href="https://fox-that.techidaily.com/9-proven-strategies-to-resolve-amber-screen-anomalies-on-your-ios-device/"><u>9 Proven Strategies to Resolve Amber Screen Anomalies on Your iOS Device</u></a></li>
+<li><a href="https://fox-that.techidaily.com/achieve-hassle-free-solutions-for-your-iphone-by-using-the-apple-support-mobile-application/"><u>Achieve Hassle-Free Solutions for Your iPhone by Using the Apple Support Mobile Application</u></a></li>
+<li><a href="https://fox-that.techidaily.com/airpods-dynamic-sound-movement-problem-heres-how-you-can-disable-that/"><u>AirPods' Dynamic Sound Movement Problem? Here’s How You Can Disable That</u></a></li>
+<li><a href="https://fox-that.techidaily.com/baffled-by-missing-airpods-on-find-my-app-try-these-11-tips/"><u>Baffled by Missing AirPods on Find My App? Try These 11 Tips</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721478529608-beat-iphone-x-irritations-discover-your-fixes-here/"><u>Beat iPhone X Irritations: Discover Your Fixes Here!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/busting-myths-and-fixing-flaws-the-iphone-13s-top-six-trouble-spots/"><u>Busting Myths & Fixing Flaws: The iPhone 13'S Top Six Trouble Spots</u></a></li>
+<li><a href="https://fox-that.techidaily.com/bypassing-iphone-boot-loop-woes-essential-steps-to-revive-your-device-from-the-apple-symbol-hangup/"><u>Bypassing iPhone Boot Loop Woes: Essential Steps to Revive Your Device From the Apple Symbol Hangup</u></a></li>
+<li><a href="https://fox-that.techidaily.com/cant-hear-anything-from-your-iphone-expert-tips-for-solving-audio-issues/"><u>Can't Hear Anything From Your iPhone? Expert Tips for Solving Audio Issues</u></a></li>
+<li><a href="https://fox-that.techidaily.com/dfu-mode-demystified-techniques-and-tips-for-iphone-users/"><u>DFU Mode Demystified: Techniques and Tips for iPhone Users</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721480855929-diagnosing-your-device-from-afar-leveraging-apples-remote-diagnostics-for-iphones/"><u>Diagnosing Your Device From Afar - Leveraging Apple's Remote Diagnostics for iPhones.</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/distinguishing-ipad-from-ipad-air-understanding-key-contrasts/"><u>Distinguishing iPad From iPad Air: Understanding Key Contrasts</u></a></li>
+<li><a href="https://fox-that.techidaily.com/enhancing-the-iphone-experience-8-essential-features-for-vision-challenges/"><u>Enhancing the iPhone Experience: 8 Essential Features for Vision Challenges</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-persistent-sos-mode-on-iphone-6-proven-techniques-for-restoring-normal-operation/"><u>Fixing Persistent SOS Mode on iPhone - 6 Proven Techniques for Restoring Normal Operation</u></a></li>
+<li><a href="https://fox-that.techidaily.com/getting-icloud-back-on-track-steps-for-sync-issues-fixes/"><u>Getting iCloud Back on Track: Steps for Sync Issues Fixes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-solve-the-hold-charging-issue-8-effective-methods/"><u>How to Solve the 'Hold Charging' Issue: 8 Effective Methods</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-6-to-other-iphone-13-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 6 to other iPhone 13 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-realme-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Realme 12 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-ultimate-audio-capture-guide-best-ten-for-spotify-enthusiasts/"><u>In 2024, Ultimate Audio Capture Guide  Best Ten for Spotify Enthusiasts</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-safari-woes-how-to-solve-unexpected-image-failures/"><u>IPhone Safari Woes: How to Solve Unexpected Image Failures</u></a></li>
+<li><a href="https://fox-that.techidaily.com/maximizing-iphones-internet-speed-8-key-improvements-for-stellar-wi-fi-results/"><u>Maximizing iPhone's Internet Speed: 8 Key Improvements for Stellar Wi-Fi Results</u></a></li>
+<li><a href="https://fox-that.techidaily.com/navigating-through-icloud-finding-deleted-or-hidden-facetime-images/"><u>Navigating Through iCloud: Finding Deleted or Hidden FaceTime Images</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcome-these-9-frequent-icloud-setbacks-on-your-ios-devices-effortlessly/"><u>Overcome These 9 Frequent iCloud Setbacks on Your iOS Devices Effortlessly</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/quick-fix-for-background-removal-in-figma-projects/"><u>Quick Fix for Background Removal in Figma Projects</u></a></li>
+<li><a href="https://fox-that.techidaily.com/simple-techniques-for-softly-rebooting-your-iphone-without-data-loss/"><u>Simple Techniques for Softly Rebooting Your iPhone Without Data Loss</u></a></li>
+<li><a href="https://fox-that.techidaily.com/stop-the-glitch-top-7-ways-to-fix-your-phones-display-shimmering/"><u>Stop the Glitch - Top 7 Ways to Fix Your Phone's Display Shimmering</u></a></li>
+<li><a href="https://fox-that.techidaily.com/struggling-with-iphones-locked-screen-orientation-heres-how-to-unlock-it/"><u>Struggling with iPhone's Locked Screen Orientation? Here’s How to Unlock It!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/trouble-with-airdrop-here-are-16-fast-fixes-to-get-it-running-smoothly-again/"><u>Trouble With AirDrop? Here Are 16 Fast Fixes to Get It Running Smoothly Again</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-a-yellow-tinted-iphone-display-try-out-these-9-successful-techniques/"><u>Troubleshooting a Yellow-Tinted iPhone Display? Try Out These 9 Successful Techniques</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-wi-fi-problems-on-your-apple-device-a-guide-with-eight-methods/"><u>Troubleshooting Wi-Fi Problems on Your Apple Device: A Guide with Eight Methods</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-how-to-resolve-contacts-app-issues-on-your-iphone/"><u>Troubleshooting: How to Resolve Contacts App Issues on Your iPhone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/ultimate-tutorial-master-the-art-of-iphone-and-ipad-hardware-resets/"><u>Ultimate Tutorial: Master the Art of iPhone and iPad Hardware Resets</u></a></li>
+<li><a href="https://fox-that.techidaily.com/understanding-and-fixing-the-location-not-found-problem-on-an-ios-device/"><u>Understanding and Fixing the 'Location Not Found' Problem on an iOS Device</u></a></li>
+<li><a href="https://fox-that.techidaily.com/understanding-the-limits-gifting-from-apple-products-explained/"><u>Understanding the Limits: Gifting From Apple Products Explained</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unveiling-the-mystery-behind-automatic-screen-dimming-on-iphones-top-10-causes/"><u>Unveiling the Mystery Behind Automatic Screen Dimming on iPhones: Top 10 Causes</u></a></li>
+</ul></div>

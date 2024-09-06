@@ -1,7 +1,7 @@
 ---
 title: Solve 'iPhone Can't Send/Receive Texts' With These 7 Tips
-date: 2024-07-20T03:23:30.734Z
-updated: 2024-07-21T03:23:30.734Z
+date: 2024-09-05T02:32:20.129Z
+updated: 2024-09-06T02:32:20.129Z
 tags:
   - iphone
   - apple
@@ -34,19 +34,10 @@ thumbnail: https://thmb.techidaily.com/a688e86ffbdc3e471be20f57f8c10af5824b74763
 
  If you're receiving messages from other iPhones but not Android phones, this could be the reason. If that still doesn't help, but you are receiving iMessage texts, you can learn more about what to do if you're [not receiving texts from Android](https://www.makeuseof.com/iphone-not-receiving-android-texts/) .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## 2\. Edit Send & Receive Settings
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![iOS settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/messages-settings-ios16.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![iphone messages settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/iphone-messages-settings.jpg)
 
 ![selecting email address for imessage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/apple-imessage-settings.jpg)
@@ -67,6 +58,12 @@ Close
 
  To solve this issue, reconnect to Wi-Fi or cellular data. And if you don't have a good connection, you can try the next step.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. Bad Connection? Turn on Send as SMS
 
  If you don't have access to a stable internet connection, consider turning on the Send as SMS feature. This will enable you to send regular SMS texts instead of iMessage texts when you don't have service.
@@ -77,19 +74,34 @@ Close
 
 ![send as sms](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/send-as-sms.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5\. Turn Off Message Filtering
 
 [iPhones allow you to filter text messages](https://www.makeuseof.com/how-to-filter-iphone-messages/) from unknown senders. While this is off by default, you may have accidentally turned it on. If that's the case, you could be missing text messages from numbers you don't have saved on your phone.
 
  To resolve this, turn off message filtering on your device. You can do this by heading to**Settings > Messages** and disabling**Filter Unknown Senders** . You should start receiving text messages again if it was enabled all this time.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![filter unknown senders](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/filter-unknown-senders.jpg)
 
  Once you turn it off, head to the Messages app to find any unread messages that the filter hid. Filtered messages don't get deleted. Instead, they get stored in another folder. Once you turn off Message Filtering, you'll see them in the**Messages** app.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 6\. Reset Your Network Settings
 
  Sometimes, third-party apps, updates, and bugs can cause your network settings to malfunction. If this happens, you might not receive iMessages or even text messages in general.
@@ -98,15 +110,15 @@ Close
 
  To do this, head to **Settings > General > Transfer or Reset iPhone > Reset > Reset Network Settings** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![reset network settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/reset-network-settings.jpg)
 
  After resetting your network settings, get someone to send you another text message. If you still can't receive it, you can always try [resetting your iPhone entirely](https://www.makeuseof.com/tag/how-to-factory-reset-iphone-ipad/) . However, that is time-consuming and might not work.
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 7\. Contact Your Carrier
 
@@ -117,7 +129,16 @@ Close
  When calling your carrier, just let them know you aren't receiving text messages. If the carrier can't help you, consider switching to a different network provider unless you have a [carrier-locked phone](https://www.makeuseof.com/unlocked-vs-locked-phone/) .
 
 <!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## iPhone Not Receiving Texts? There Are Things You Can Do
 
@@ -143,3 +164,45 @@ Close
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-step-by-step-guide-downloading-and-installing-obs-for-macos/"><u>[New] 2024 Approved  Step-by-Step Guide  Downloading & Installing OBS for macOS</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-capturing-photos-from-moving-frames-on-windows-11/"><u>[Updated] 2024 Approved  Capturing Photos From Moving Frames on Windows 11</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-monetization-magic-geek-channels-for-2024/"><u>[Updated] Monetization Magic  Geek Channels for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-tailoring-teammate-backgrounds-on-teams-chat/"><u>2024 Approved  Tailoring Teammate Backgrounds on Teams Chat</u></a></li>
+<li><a href="https://fox-that.techidaily.com/7-tricks-for-bringing-back-clarity-to-your-iphones-fuzzy-camera-shots/"><u>7 Tricks for Bringing Back Clarity to Your iPhone's Fuzzy Camera Shots</u></a></li>
+<li><a href="https://fox-that.techidaily.com/addressing-calendar-anomalies-retrieving-lost-events-on-iphones/"><u>Addressing Calendar Anomalies: Retrieving Lost Events on iPhones</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-zte-blade-a73-5g-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On ZTE Blade A73 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/combat-iphones-yellow-cast-with-these-9-proven-fixes/"><u>Combat iPhone's Yellow Cast with These 9 Proven Fixes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/empowering-visual-impairment-through-technology-discover-8-helpful-iphone-features/"><u>Empowering Visual Impairment Through Technology: Discover 8 Helpful iPhone Features</u></a></li>
+<li><a href="https://fox-that.techidaily.com/essential-upgrade-alert-unveiling-five-compelling-reasons-to-adopt-ios-n-153-right-this-moment/"><u>Essential Upgrade Alert: Unveiling Five Compelling Reasons to Adopt iOS N 15.3 Right This Moment</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/experience-android-at-its-finest-with-our-expert-google-pixel-3-evaluation/"><u>Experience Android at Its Finest with Our Expert Google Pixel 3 Evaluation</u></a></li>
+<li><a href="https://fox-that.techidaily.com/experience-seamless-wireless-power-transfer-on-your-iphone-with-these-eriority-of-these-solutions-is-often-based-on-their-simplicity-effectiveness-and-ease-7/"><u>Experience Seamless Wireless Power Transfer On Your iPhone With These Eriority of These Solutions Is Often Based on Their Simplicity, Effectiveness, and Ease of Execution for the Average User.</u></a></li>
+<li><a href="https://fox-that.techidaily.com/expert-advice-on-handling-and-editing-your-iphone-photos-efficiently/"><u>Expert Advice on Handling & Editing Your iPhone Photos Efficiently</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-emojis-asap-top-7-solutions-when-your-iphoneipads-predictions-fail/"><u>Fixing Emojis ASAP: Top 7 Solutions When Your iPhone/iPad's Predictions Fail</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-frozen-icloud-settings-a-user-friendly-approach-for-iphoneipad-owners/"><u>Fixing Frozen iCloud Settings: A User-Friendly Approach for iPhone/iPad Owners</u></a></li>
+<li><a href="https://fox-that.techidaily.com/guide-to-overcome-mmi-208-not-provisioned-by-mobile-manager-issue/"><u>Guide to Overcome MMI-208 Not Provisioned by Mobile Manager Issue</u></a></li>
+<li><a href="https://fox-that.techidaily.com/guided-access-woes-on-ios-devices-here-are-6-solutions/"><u>Guided Access Woes on iOS Devices? Here Are 6 Solutions!</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-samsung-galaxy-s23-fe-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Samsung Galaxy S23 FE Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-boost-your-iphones-performance-a-look-at-the-eading-6-causes-and-fixes/"><u>How to Boost Your iPhone's Performance: A Look at the Ⅼeading 6 Causes & Fixes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-rectify-person-recognition-blunders-with-ease-on-your-iphoneipad/"><u>How to Rectify Person Recognition Blunders with Ease on Your iPhone/iPad</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-revitalize-your-lagging-iphone-a-guide-to-diagnosing-and-remedying-the-issues/"><u>How To Revitalize Your Lagging iPhone: A Guide to Diagnosing And Remedying The Issues</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Vivo V30 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/issue-with-iphone-and-vpn-not-working-discover-7-quick-fixes/"><u>Issue with iPhone and VPN Not Working? Discover 7 Quick Fixes!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/keep-your-airpods-connected-to-just-one-apple-device-easy-fixes-inside/"><u>Keep Your AirPods Connected to Just One Apple Device – Easy Fixes Inside</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-art-of-enhancing-gameplay-with-amd-tweaks/"><u>Mastering the Art of Enhancing Gameplay with AMD Tweaks</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-common-problems-with-the-chatgpt-mobile-app-for-ios-devices/"><u>Overcoming Common Problems with the ChatGPT Mobile App for iOS Devices</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-do-not-disturb-restrictions-on-your-iphone-get-alerted-to-crucial-messages-and-calls/"><u>Overcoming Do Not Disturb Restrictions on Your iPhone – Get Alerted to Crucial Messages & Calls!</u></a></li>
+<li><a href="https://howto.techidaily.com/reliable-user-guide-to-fix-oneplus-nord-ce-3-5g-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix OnePlus Nord CE 3 5G Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolve-your-imessage-issues-in-7-simple-steps-iphone-ipad-and-mac-edition/"><u>Resolve Your iMessage Issues in 7 Simple Steps – iPhone, iPad & Mac Edition</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolved-troubleshooting-steps-when-your-outlook-wont-sync/"><u>Resolved: Troubleshooting Steps When Your Outlook Won't Sync</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolving-freeze-issues-on-iphones-step-by-step-troubleshooting-tips/"><u>Resolving Freeze Issues on iPhones: Step-by-Step Troubleshooting Tips</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolving-your-iphones-imessage-steps-to-correct-sync-issues/"><u>Resolving Your iPhone's iMessage: Steps to Correct Sync Issues</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solutions-for-restoring-airplay-connectivity-when-facing-glitches/"><u>Solutions for Restoring AirPlay Connectivity when Facing Glitches</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721480941562-unlock-immediate-advantages-with-ios-153-update-without-delay/"><u>Unlock Immediate Advantages with iOS 15.3 - Update Without Delay!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlocking-better-voice-control-essential-troubleshooting-for-your-iphones-dictation-feature/"><u>Unlocking Better Voice Control: Essential Troubleshooting for Your iPhone's Dictation Feature</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unstuck-iphone-solutions-how-to-perform-a-reboot-even-when-the-physical-buttons-fail/"><u>Unstuck iPhone Solutions: How to Perform a Reboot Even When the Physical Buttons Fail</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unstuck-iphone-mastering-the-art-of-starting-a-device-with-nonfunctional-buttons/"><u>Unstuck iPhone: Mastering the Art of Starting a Device with Nonfunctional Buttons</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-your-nokia-105-classic-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Nokia 105 Classic Auto Does Not Work | Dr.fone</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: One Dead AirPod in Pair? Here's the Ultimate Guide to Diagnosing and Repairing
-date: 2024-07-20T03:24:18.301Z
-updated: 2024-07-21T03:24:18.301Z
+date: 2024-09-05T02:30:01.229Z
+updated: 2024-09-06T02:30:01.229Z
 tags:
   - iphone
   - apple
@@ -14,9 +14,6 @@ thumbnail: https://thmb.techidaily.com/c9af2386c6798b3575f6d66e9544981a45984b6b6
 
 ## One Dead AirPod in Pair? Here's the Ultimate Guide to Diagnosing and Repairing
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Quick Links
 
 * [Check Your AirPods Battery](https://www.makeuseof.com/one-airpod-not-working/#check-your-airpods-battery)
@@ -27,9 +24,6 @@ thumbnail: https://thmb.techidaily.com/c9af2386c6798b3575f6d66e9544981a45984b6b6
 * [Reset Your AirPods to Factory Settings](https://www.makeuseof.com/one-airpod-not-working/#reset-your-airpods-to-factory-settings)
 * [Reset Your Phone's Network Settings](https://www.makeuseof.com/one-airpod-not-working/#reset-your-phone-39-s-network-settings)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Don't be quick to assume your AirPod is faulty because software bugs, depleted battery, and misconfigured settings could cause this issue.
@@ -48,6 +42,12 @@ thumbnail: https://thmb.techidaily.com/c9af2386c6798b3575f6d66e9544981a45984b6b6
 
 Close
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. Restart the Connected Device
 
  Once you've checked your AirPods' battery levels and made sure they're charged, it's time to reboot the device you use your AirPods with.
@@ -56,6 +56,18 @@ Close
 
 [Reboot your iPhone](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) , Windows computer, Android device, or Mac—whatever it is that you use with your AirPods. Once your device is powered on and Bluetooth is enabled, check if both your AirPods connect and work properly again.
 
+<!-- affiliate ads begin -->
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. Adjust the Audio Balance on Your Devices
 
  Most devices allow you to set the volume level for each AirPod individually. If you or someone else has tweaked this adjustment and routed the audio to only one of the AirPods, that may be why you're not hearing any sound from the other. It could also be [why one AirPod sounds louder than the other](https://www.makeuseof.com/why-one-airpod-louder-than-other-fixes/) when they're both working.
@@ -70,18 +82,24 @@ Close
 
  On a Mac, you can adjust the AirPods audio balance by opening**System Settings > Sound** and selecting the**Output** tab. Then, make sure your AirPods are selected and set the**Balance** slider to the middle.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![mac sound system settings airpods balance](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/mac-sound-system-settings-airpods-balance.png)
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  You can adjust the AirPods audio balance on Windows 11 by opening**Settings > System > Sound** . Then, select your AirPods from the list of output devices and adjust the**Left channel** and**Right channel** sliders so that they're equal.
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ![Windows Sound Settings for AirPods Pro](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/windows-sound-settings-for-airpods-pro.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. Try Your AirPods With Other Devices
 
  It isn't always your AirPods that have issues. Sometimes, one of your AirPods stops working because of a problem with your smartphone or your computer.
@@ -91,7 +109,10 @@ Close
  If both AirPods work just fine on any other device, you know the issue is with your primary device, and you'll need to fix it instead. Read [our AirPods troubleshooting guide](https://www.makeuseof.com/tag/apple-airpods-problems-fix/) for your specific device to see if one of the suggested fixes can rectify your problem.
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 5\. Forget Your AirPods From Your Devices
 
@@ -111,9 +132,6 @@ Close
 
  After unpairing, you need to [re-pair your AirPods to your device](https://www.makeuseof.com/tag/how-to-connect-airpods-mac-iphone-pc-android/) . Then, see if both your AirPods work.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 6\. Reset Your AirPods to Factory Settings
 
  If your AirPods still don't work after unpairing and re-pairing them, try resetting them to their factory settings. Once they're unpaired, put your AirPods in their charging case, but don't close the lid.
@@ -122,6 +140,12 @@ Close
 
  Your iPhone will prompt you to set them up. If you're using another device, follow the standard Bluetooth setup steps.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 7\. Reset Your Phone's Network Settings
 
  Your phone's network settings define how it connects to various other devices. It's worth changing back to the default settings to see if this fixes the AirPod that's not working.
@@ -156,3 +180,63 @@ Close
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-overcoming-the-challenge-of-hidden-youtube-shorts-thumbnails/"><u>[New] 2024 Approved  Overcoming the Challenge of Hidden YouTube Shorts Thumbnails</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-cutting-edge-approaches-to-virtual-reality-gaming-documentation-for-2024/"><u>[New] Cutting-Edge Approaches to Virtual Reality Gaming Documentation for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-goovision-promax-high-res-os-capturer-for-2024/"><u>[New] GooVision ProMax  High-Res OS Capturer for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-mastering-vimeo-uploads-with-imovie-videos/"><u>[New] In 2024, Mastering Vimeo Uploads with iMovie Videos</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-groundbreaking-action-adventure-masterpieces-top-10-for-2024/"><u>[Updated] Groundbreaking Action-Adventure Masterpieces (Top 10) for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-infuse-your-tiktok-with-popular-anime-themes-and-styles/"><u>[Updated] Infuse Your TikTok with Popular Anime Themes & Styles</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-sail-through-smooth-sharing-with-instagram-troubleshooting-for-2024/"><u>[Updated] Sail Through Smooth Sharing with Instagram Troubleshooting for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-essential-techniques-for-procuring-facebook-vids/"><u>2024 Approved  Essential Techniques for Procuring Facebook Vids</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-how-to-use-zoom-in-gmail/"><u>2024 Approved  How to Use Zoom in Gmail</u></a></li>
+<li><a href="https://fox-that.techidaily.com/4-steps-to-restore-functionality-of-disabled-icloud-settings-on-your-apple-device/"><u>4 Steps to Restore Functionality of Disabled iCloud Settings on Your Apple Device</u></a></li>
+<li><a href="https://fox-that.techidaily.com/6-quick-solutions-for-unsticking-your-iphone-at-the-apple-icon-screen/"><u>6 Quick Solutions for Unsticking Your iPhone at the Apple Icon Screen</u></a></li>
+<li><a href="https://fox-that.techidaily.com/7-must-try-fixes-for-blurry-snapshots-on-your-iphone/"><u>7 Must-Try Fixes for Blurry Snapshots on Your iPhone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/autofocus-plus-next-gen-hdr-image-processing-explained/"><u>Autofocus Plus  Next-Gen HDR Image Processing Explained</u></a></li>
+<li><a href="https://fox-that.techidaily.com/avoid-auto-correction-blunders-6-tips-for-perfect-iphone-typing-skills/"><u>Avoid Auto-Correction Blunders: 6 Tips for Perfect iPhone Typing Skills</u></a></li>
+<li><a href="https://fox-that.techidaily.com/baffled-by-text-message-glitches-on-your-iphone-here-are-ten-solutions-that-work/"><u>Baffled by Text Message Glitches on Your iPhone? Here Are Ten Solutions That Work!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/breakthrough-techniques-to-revive-a-frozen-iphone-device/"><u>Breakthrough Techniques to Revive a Frozen iPhone Device</u></a></li>
+<li><a href="https://fox-that.techidaily.com/dealing-with-iphone-touchscreen-issues-here-are-effective-fixes/"><u>Dealing with iPhone Touchscreen Issues? Here Are Effective Fixes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/effortless-battery-boosting-techniques-for-iphones-learn-our-6-step-process/"><u>Effortless Battery Boosting Techniques for iPhones – Learn Our 6-Step Process</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/effortless-learning-of-swedish-letters-and-tones/"><u>Effortless Learning of Swedish Letters & Tones</u></a></li>
+<li><a href="https://fox-that.techidaily.com/enhance-your-iphone-wi-fi-connection-eight-effective-solutions-for-faster-internet/"><u>Enhance Your iPhone Wi-Fi Connection: Eight Effective Solutions for Faster Internet</u></a></li>
+<li><a href="https://fox-that.techidaily.com/ensuring-accurate-location-tracking-on-your-iphone-a-comprehensive-guide/"><u>Ensuring Accurate Location Tracking on Your iPhone: A Comprehensive Guide</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/farm-tastic-gaming-best-trio-of-agricultural-games/"><u>Farm-Tastic Gaming  Best Trio of Agricultural Games</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fix-various-iphone-issues-by-resetting-wifi-bluetooth-and-cellular-a-step-by-step-guide/"><u>Fix Various iPhone Issues by Resetting WiFi, Bluetooth & Cellular - A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-iphone-lock-related-issues-preventing-spotify-from-closing/"><u>Fixing iPhone Lock-Related Issues: Preventing Spotify From Closing</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-iphone-wireless-charger-issues-top-7-solutions/"><u>Fixing iPhone Wireless Charger Issues: Top 7 Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-the-elusive-error-14-on-your-iphone-an-expert-walkthrough/"><u>Fixing the Elusive Error 14 on Your iPhone - An Expert Walkthrough</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/free-video-intros-for-professionals-and-amateurs-for-2024/"><u>Free Video Intros for Professionals & Amateurs for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-does-windows-10s-system-restore-feature-work/"><u>How Does Windows 10'S System Restore Feature Work?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-address-and-remove-liquid-detected-notifications-from-your-iphone-charger-port/"><u>How to Address and Remove 'Liquid Detected' Notifications From Your iPhone Charger Port</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-restore-functionality-of-broken-iphone-volume-buttons-with-these-7-solutions/"><u>How To Restore Functionality of Broken iPhone Volume Buttons With These 7 Solutions</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-poco-m6-pro-4g-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Poco M6 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-realme-12-proplus-5g-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your Realme 12 Pro+ 5G in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-fiery-friendship-keeping-your-snapstreak-hot-and-steady/"><u>In 2024, Fiery Friendship  Keeping Your Snapstreak Hot and Steady</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Hacks to do pokemon go trainer battles For Apple iPhone 12 Pro | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-locked-apple-id-on-iphone-15-plus-by-drfone-ios/"><u>In 2024, How to Fix Locked Apple ID on iPhone 15 Plus</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-xiaomi-mix-fold-3-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Xiaomi Mix Fold 3 to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-in-depth-look-at-vsdc-plus-top-competitors/"><u>In 2024, In-Depth Look at VSDC, Plus Top Competitors</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-sprint-showcase-short-track-22-glory/"><u>In 2024, Sprint Showcase  Short Track '22 Glory</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-twitter-archive-navigation-made-simple/"><u>In 2024, Twitter Archive Navigation Made Simple</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/inside-movavis-video-editor-plus-features/"><u>Inside Movavi's Video Editor Plus Features</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-photography-troubleshooting-solve-these-top-7-camera-malfunctions/"><u>IPhone Photography Troubleshooting: Solve These Top 7 Camera Malfunctions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphoneipad-keyboard-malfunctions-here-are-six-fixes-you-need-to-try/"><u>IPhone/iPad Keyboard Malfunctions? Here Are Six Fixes You Need to Try</u></a></li>
+<li><a href="https://fox-that.techidaily.com/mastering-iphone-battery-health-through-a-quick-calibration-process/"><u>Mastering iPhone Battery Health Through a Quick Calibration Process</u></a></li>
+<li><a href="https://fox-that.techidaily.com/mastering-stability-10-proven-fixes-when-your-iphone-apps-keep-collapsing/"><u>Mastering Stability: 10 Proven Fixes When Your iPhone Apps Keep Collapsing</u></a></li>
+<li><a href="https://fox-that.techidaily.com/quick-fixes-for-making-your-airpods-recognize-and-switch-between-different-apple-devices/"><u>Quick Fixes for Making Your AirPods Recognize and Switch Between Different Apple Devices</u></a></li>
+<li><a href="https://fox-that.techidaily.com/quick-fixes-for-non-functioning-apple-airplay-feature/"><u>Quick Fixes for Non-Functioning Apple AirPlay Feature</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/review-of-zte-blade-a3y-quality-performance-meets-budget-pricing/"><u>Review of ZTE Blade A3Y: Quality Performance Meets Budget Pricing</u></a></li>
+<li><a href="https://fox-that.techidaily.com/reviving-the-sleepwake-button-a-guide-to-fixing-your-iphones-standby-problem/"><u>Reviving the Sleep/Wake Button: A Guide to Fixing Your iPhone's Standby Problem</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-liquid-detected-errors-in-your-iphones-usb-c-connection/"><u>Solving 'Liquid Detected' Errors in Your iPhone's USB-C Connection</u></a></li>
+<li><a href="https://fox-that.techidaily.com/the-essential-guide-why-upgrading-to-ios-153-is-crucial-for-your-device/"><u>The Essential Guide: Why Upgrading to iOS 15.3 Is Crucial for Your Device</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/tips-for-superior-sound-recordings-without-a-microphone-for-2024/"><u>Tips for Superior Sound Recordings Without a Microphone for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-game-screens-for-ps5-and-xbox-series-x-revealed/"><u>Top Game Screens for PS5 and Xbox Series X Revealed</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-guide-solve-your-facetime-issues-with-these-15-tips/"><u>Troubleshooting Guide: Solve Your FaceTime Issues with These 15 Tips</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-your-iphones-continual-emergency-call-alert-sos-icon-appearance/"><u>Troubleshooting Your iPhone's Continual Emergency Call Alert (SOS) Icon Appearance</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unveiling-the-mysteries-of-laggy-phone-wifi-connections-discover-why/"><u>Unveiling the Mysteries of Laggy Phone Wifi Connections – Discover Why</u></a></li>
+<li><a href="https://fox-that.techidaily.com/why-arent-siri-suggestions-appearing-on-my-iphone-solutions-and-troubleshooting-steps/"><u>Why Aren't Siri Suggestions Appearing on My iPhone? Solutions & Troubleshooting Steps</u></a></li>
+</ul></div>

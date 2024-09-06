@@ -1,0 +1,188 @@
+---
+title: "Step-by-Step Guide: Getting Help with Your iPhone Through the Apple Support Application"
+date: 2024-09-05T02:47:57.736Z
+updated: 2024-09-06T02:47:57.736Z
+tags:
+  - iphone
+  - apple
+categories:
+  - iphone
+description: "This Article Describes Step-by-Step Guide: Getting Help with Your iPhone Through the Apple Support Application"
+excerpt: "This Article Describes Step-by-Step Guide: Getting Help with Your iPhone Through the Apple Support Application"
+thumbnail: https://thmb.techidaily.com/88c6b83c6e65598f301ec5b1e8fb9b13fd16a0c81d9ff03972a4b84d06ac7c03.jpg
+---
+
+## Step-by-Step Guide: Getting Help with Your iPhone Through the Apple Support Application
+
+ Smartphones like iPhones are designed to be an all-in-one device for your needs, even if those needs relate to the iPhone itself. So if you need help with your iPhone, you don’t need to go searching the internet for a solution, just open the Apple Support app instead.
+
+ Discover what the Apple Support app is below and how it can help you with your iPhone woes.
+
+## What Is the Apple Support App?
+
+ Apple Support is a dedicated app that provides all the support you might need for your Apple devices. It comes built-in on iPhones and iPads. However, unlike Messages and Safari, you can delete this pre-installed app. If you removed yours, you can easily download it again for free on the [App Store](https://apps.apple.com/app/apple-support/id1130498044) .
+
+ For you to be able to use the app, you need to be running iOS 14 or later.
+
+ The app lists all the devices registered to your Apple account and keeps a record of your model, warranty, and OS for each of them. This can be beneficial for people who need to [check their iOS version](https://www.makeuseof.com/how-to-check-iphone-ios-version/) .
+
+ The devices you own are listed at the top, under**My Devices** .
+
+![List of Products in My Devices on Apple Support Group](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/List-of-Products-in-My-Devices-on-Apple-Support-Group.PNG)
+
+![iPhone listed in Apple Support App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/iPhone-listed-in-Apple-Support-App.PNG)
+
+Close
+
+ You’ll also see personalized content based on the devices you own to make it easier to find the support you need. The app offers a wide range of guides on how to use various features and instructions on how to troubleshoot common problems.
+
+ Related:[Apple Launches Self Service Repairs: What We Know So Far](https://www.makeuseof.com/apple-launches-self-service-repairs/)
+
+## How to Get Help With the Apple Support App
+
+ You can use the Apple Support to help you with concerns like resetting your Apple ID password, fixing Bluetooth issues, or troubleshooting connectivity concerns. Open the**Apple Support** app, tap on your**iPhone** , and select from the listed topics.
+
+ If you find it difficult to find a helpful article for your concern, the app allows you to explain your problems in your own words. Just tap**Describe Your Issue** , then type your concern. It will list related articles based on keywords from your description.
+
+ If you still can’t find the article you need to help resolve your issue, you can chat or call an Apple technician. Most topics give you the option to contact Support. You should see a**Message** or**Call** option under**Contact** .
+
+![Contact Option in Apple Support App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/Contact-Option-in-Apple-Support-App.PNG)
+
+ When you tap Call, you’ll be asked to select a schedule by which an Apple technician will contact you. If you choose Message, you’ll be redirected to Messages, where you can instantly chat with an Apple technician.
+
+![Schedule a Call with Apple Support App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/Schedule-a-Call-with-Apple-Support-App.PNG)
+
+![Apple Support Chat on Messages](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/Apple-Support-Chat-on-Messages.PNG)
+
+Close
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Schedule a Repair
+
+ Apple Support might ask you to go in for a repair. This is often the case if your concern is related to hardware or if your software issues persist even after following the relevant instructions.
+
+To schedule a repair:
+
+1. Select the topic that best describes your issue, then tap**Find Authorized Locations** .
+2. You might be asked to select your carrier from the available options.
+3. Tap**Allow Location Access** to turn on Location Services for the app so that it can find your location and suggest nearby service providers. Alternatively, you can type a location in the search bar.
+4. Select a provider from the list.
+5. Select a schedule and a time, then tap**Reserve** .
+
+![Choose your carrier option on Apple Support App for Apple Repair](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/Choose-your-carrier-option-on-Apple-Support-App-for-Apple-Repair.PNG)
+
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Choose a Location on Apple Support App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/Choose-a-Location-on-Apple-Support-App.PNG)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Reserve Button to Schedule a Repair Through Apple Support App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/Reserve-Button-to-Schedule-a-Repair-Through-Apple-Support-App.PNG)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+Close
+
+<!-- affiliate ads begin -->
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Seek Support for Your Apple Subscriptions
+
+ The Apple Support app also shows your Apple subscriptions for services like Apple Music, Apple TV+, Apple Arcade, and iCloud. You can find articles on common issues and concerns about the services.
+
+ You can also update your payment method for any of these services. Just tap**Update Payment Method** , then follow the onscreen instructions to change your preferred payment method.
+
+ Related:[Why Your Local Apple Store May Be Closed Temporarily](https://www.makeuseof.com/why-local-apple-stores-are-closing-temporarily/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Get Instant Help for Your iPhone
+
+ It’s frustrating when you can’t use your iPhone because of technical issues. Save yourself time and stress by using the Apple Support app to quickly find a helpful article or immediately connect with an Apple technician to fix it.
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-budget-friendly-sponsorship-blueprint-for-youtube-enthusiasts/"><u>[New] In 2024, Budget-Friendly Sponsorship Blueprint for YouTube Enthusiasts</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-ignite-conversations-tactics-for-facebook-impact/"><u>[Updated] 2024 Approved  Ignite Conversations  Tactics for Facebook Impact</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-poll-power-players-leading-electoral-game-reviews/"><u>[Updated] Poll Power Players  Leading Electoral Game Reviews</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-realme-10t-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Realme 10T 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-master-quick-red-eye-correction-with-this-free-ios-tool/"><u>2024 Approved  Master Quick Red-Eye Correction with This Free iOS Tool</u></a></li>
+<li><a href="https://fox-that.techidaily.com/7-proven-methods-to-enhance-clarity-on-your-iphones-photography-features/"><u>7 Proven Methods to Enhance Clarity on Your iPhone's Photography Features</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/accelerate-hevch265-video-compression-tips-to-enhance-encoding-speed/"><u>Accelerate HEVC/H.265 Video Compression - Tips to Enhance Encoding Speed</u></a></li>
+<li><a href="https://fox-that.techidaily.com/bluetooth-basics-for-new-iphones-users-a-comprehensive-guide/"><u>Bluetooth Basics for New iPhones Users - A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/boosting-your-iphones-photography-experience-despite-low-mp-count/"><u>Boosting Your iPhone's Photography Experience Despite Low MP Count</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/download-romantic-valentines-anthems-create-and-enjoy-a-personalized-love-song-collection/"><u>Download Romantic Valentine's Anthems: Create & Enjoy a Personalized Love Song Collection</u></a></li>
+<li><a href="https://fox-that.techidaily.com/easy-to-implement-fixes-for-common-issues-faced-by-apple-pay-users/"><u>Easy-to-Implement Fixes for Common Issues Faced by Apple Pay Users</u></a></li>
+<li><a href="https://techtrends.techidaily.com/essential-tips-to-keep-in-mind-before-investing-in-a-video-clip-gadget/"><u>Essential Tips to Keep in Mind Before Investing in a Video Clip Gadget</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/evaluating-the-latest-samsung-galaxy-s21-model-less-is-more-approach-by-samsung/"><u>Evaluating the Latest Samsung Galaxy S21 Model: Less Is More Approach by Samsung</u></a></li>
+<li><a href="https://fox-that.techidaily.com/experience-hassle-free-qr-code-scanning-on-your-iphone-with-these-10-essential-troubleshooting-steps/"><u>Experience Hassle-Free QR Code Scanning on Your iPhone with These 10 Essential Troubleshooting Steps</u></a></li>
+<li><a href="https://fox-that.techidaily.com/experiencing-problems-with-iphones-home-button-try-these-five-fast-fixes-for-relief/"><u>Experiencing Problems with iPhone's Home Button? Try These Five Fast Fixes for Relief</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-resolve-back-aturfy-bloods-unreal-engine-4-gobi-error-issue-successfully/"><u>How to Resolve Back Aturfy Blood's Unreal Engine 4 Gobi Error Issue Successfully</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-poco-c51-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Poco C51 Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-c55-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Realme C55 Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-liquid-detection-troubleshooting-for-usb-c-connectors/"><u>IPhone Liquid Detection Troubleshooting for USB-C Connectors</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-snap-fail-uncovering-the-7-most-common-camera-issues-and-their-fixes/"><u>IPhone Snap-Fail: Uncovering the 7 Most Common Camera Issues and Their Fixes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-wont-ring-on-alarm-top-5-troubleshooting-steps/"><u>IPhone Won't Ring on Alarm – Top 5 Troubleshooting Steps</u></a></li>
+<li><a href="https://fox-that.techidaily.com/master-the-art-of-stability-top-10-ways-to-keep-your-iphone-apps-from-crashing/"><u>Master the Art of Stability: Top 10 Ways to Keep Your iPhone Apps From Crashing</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/master-the-dark-and-light-iphone-silhouette-tips/"><u>Master the Dark & Light  IPhone Silhouette Tips</u></a></li>
+<li><a href="https://fox-that.techidaily.com/mastering-iphone-voicemail-troubleshooting-with-these-9-proven-tips/"><u>Mastering iPhone Voicemail Troubleshooting with These 9 Proven Tips</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-take-your-videos-to-the-next-level-fcpx-stabilization-secrets/"><u>New 2024 Approved Take Your Videos to the Next Level FCPX Stabilization Secrets</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-grayed-out-icloud-problems-on-ios-4-practical-methods/"><u>Overcoming Grayed-Out iCloud Problems on iOS - 4 Practical Methods</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-safari-image-loading-glitches-in-ios-a-guide-with-9-fixes/"><u>Overcoming Safari Image Loading Glitches in iOS: A Guide with 9 Fixes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/rapid-repairs-for-broken-emoji-suggestions-in-ios-devices-7-steps-revealed/"><u>Rapid Repairs for Broken Emoji Suggestions in iOS Devices - 7 Steps Revealed</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolve-these-top-5-iphone-glitches-easily-by-mastering-dfu-mode/"><u>Resolve These Top 5 iPhone Glitches Easily by Mastering DFU Mode</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolving-not-delivered-messages-on-iphone-a-step-by-step-guide/"><u>Resolving 'Not Delivered' Messages on iPhone - A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solutions-for-unwanted-sites-appearing-in-your-iphones-screen-time-report/"><u>Solutions for Unwanted Sites Appearing in Your iPhone's Screen Time Report</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-issues-with-a-non-functional-iphone-proximity-sensor-a-step-by-step-guide/"><u>Solving Issues with a Non-Functional iPhone Proximity Sensor: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-uneven-sound-discover-why-your-airpods-have-volume-imbalance-and-top-remedies/"><u>Solving Uneven Sound: Discover Why Your AirPods Have Volume Imbalance & Top Remedies</u></a></li>
+<li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-tecno-phantom-v-flip-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from Tecno Phantom V Flip.</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-10-fast-acting-fixes-to-restore-functionality-of-widgets-on-ios-devices/"><u>Top 10 Fast-Acting Fixes to Restore Functionality of Widgets on iOS Devices</u></a></li>
+<li><a href="https://fox-that.techidaily.com/trouble-upgrading-your-iphoneipad-software-try-these-9-fixes/"><u>Trouble Upgrading Your iPhone/iPad Software? Try These 9 Fixes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-guide-how-to-overcome-paused-downloads-on-your-iphone-or-ipad/"><u>Troubleshooting Guide: How To Overcome Paused Downloads on Your iPhone or iPad</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-your-iphones-camera-solving-the-7-most-frequent-problems/"><u>Troubleshooting Your iPhone's Camera: Solving the 7 Most Frequent Problems</u></a></li>
+</ul></div>

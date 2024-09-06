@@ -1,7 +1,7 @@
 ---
 title: Battling iCloud Glitches? Here’s What You Need to Know About iPhone & iPad Troubleshooting
-date: 2024-08-31T21:16:15.995Z
-updated: 2024-09-01T21:16:15.995Z
+date: 2024-09-05T02:40:37.794Z
+updated: 2024-09-06T02:40:37.794Z
 tags:
   - iphone
   - apple
@@ -69,36 +69,30 @@ Close
 
 ![iPhone Settings screen showing [Your Name]](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2019/12/iPhone-Settings-screen-showing-Your-Name.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![iPhone Apple ID Settings with iCloud option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2019/12/iPhone-Apple-ID-Settings-with-iCloud-option.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![iPhone iCloud Settings showing third-party apps sync status](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2019/12/iPhone-iCloud-Settings-showing-third-party-apps-sync-status.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Close
 
  You don't need to enable every app in this list—only the ones you actually want to use with iCloud.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. Your iCloud Settings Never Stop Updating
 
 ![Updating iCloud Settings screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/05/Updating-iCloud-Settings-screen-e1620726371202.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
  This persistent loading screen usually appears if you can't sign in to iCloud on your iPhone or iPad, often during the setup of a new device.
 
  You might also see a message saying**iCloud Drive is loading** if you're trying to use the Files app. Or sometimes an alert says you're **Unable to sign in because of a problem communicating with iCloud** . Wait at least five minutes before trying to fix it.
@@ -109,13 +103,22 @@ Close
 2. If your device is unresponsive, follow the steps to [force restart your iPhone or iPad](https://www.makeuseof.com/tag/restart-iphone-recovery-mode/) .
 3. After restarting your device, open the**Settings** and try signing in to iCloud if you aren't already signed in. Then try using your iCloud apps again.
 
+<!-- affiliate ads begin -->
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5\. An iCloud Authentication Error Appears When You Sign In
 
 ![iForgot website in Safari on Mac](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/05/iForgot-website-in-Safari-on-Mac.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Most of the time, when you can't sign in to iCloud, it's because you entered the wrong username or password. But sometimes an**Authentication Error** appears even when you did use the right credentials.
 
  If you get this message, or similar failed authentication messages, try these steps:
@@ -126,23 +129,44 @@ Close
 
  After signing in online, you may see an account alert appear or a notification to agree to new terms and conditions. After acknowledging these notices, you should be able to sign in on your other devices again.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 6\. iCloud Says You Have an Unsupported Device or Apple ID
 
 ![Apple Get Support website in Safari on Mac](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/05/Apple-Get-Support-website-in-Safari-on-Mac.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You may have created an Apple ID under unusual circumstances, which can cause problems with iCloud. Typically, if an Apple ID works with Apple's other services—like the App Store or iTunes—it shouldn't have any issues with iCloud either.
 
  Similarly, a problem with your device may cause iCloud to think it's unsupported. Test your Apple ID account on another device (signing in to [the iCloud website](http://www.icloud.com/) from a browser if needed) to find out if the problem is with your account or your device.
 
  If your Apple ID doesn't work with any of Apple's services, or if no Apple ID works with your device, contact [Apple Support](https://getsupport.apple.com/) directly. You may need to create a new account to resolve it.
 
+<!-- affiliate ads begin -->
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 7\. You Ran Out of iCloud Storage
 
 ![iCloud storage in iPhone settings with almost no free space](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/12/iCloud-storage-overview-on-iPhone.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Apple gives everyone 5GB of iCloud storage for free, but that's usually not enough to last for long. When you run out of iCloud storage, there are two ways to fix it: clear some space in your iCloud account, or [buy more iCloud storage](https://www.makeuseof.com/how-to-upgrade-icloud-storage/) .
 
  If you want to create more free space, find out how to [manage your iCloud storage](https://www.makeuseof.com/tag/manage-your-icloud-storage-rather-than-paying-for-yearly-upgrades/) and delete some of the content there.
@@ -157,14 +181,26 @@ Otherwise, follow these instructions to buy more iCloud storage:
  If you're unable to upgrade or a message says your iCloud storage could not be upgraded at this time, check your Apple ID payment method by going to**Settings > \[Your Name\] > Payment & Shipping** .
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 8\. Verification Fails When You Sign In or Out of iCloud
 
 ![Verification Failed iCloud alert on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/05/Verification-Failed-iCloud-alert-on-iPhone.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  You might find you can't sign in to iCloud on your iPhone or iPad because**Verification Failed** or because your account is unavailable. Sometimes, you can't sign out of iCloud either for the same reason. This is often an issue with your internet connection or Apple ID login details.
 
