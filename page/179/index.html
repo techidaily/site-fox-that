@@ -61,6 +61,63 @@
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-duotone-900.woff2" as="font" crossorigin type="font/woff2">
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-thin-100.woff2" as="font" crossorigin type="font/woff2">
 
+    <!-- tailwind.css -->
+    <script src="https://cloudflare-cdn.techidaily.com/js/libs/tailwindcss.v3.4.5.js" crossorigin></script> 
+    <script>
+    try {
+        tailwind.config = {
+          theme: {
+            extend: {
+              spacing: {
+                unit: "38px",
+              },
+              margin: {
+                "spacing-unit": "38px",
+              },
+              maxWidth: {
+                content: "1280px",
+                "has-toc-content": "120%",
+              },
+              zIndex: {
+                1: 1001,
+                2: 1002,
+                3: 1003,
+                4: 1004,
+                5: 1005,
+                6: 1006,
+                7: 1007,
+                8: 1008,
+                9: 1009,
+              },
+              borderRadius: {
+                none: "0px",
+                xsmall: "4px",
+                small: "9px",
+                medium: "14px",
+                large: "18px",
+                xlarge: "24px",
+                xxlarge: "48px",
+              },
+              fontFamily: {
+                chinese: ["sans-serif"],
+                english: ["Satoshi-Variable", "sans-serif"],
+                default: [
+                  "Satoshi-Variable",
+                  "system-ui",
+                  "sans-serif",
+                ],
+              },
+              fontSize: {
+                default: "16px"
+              },
+              lineHeight: {
+                default: "1.5"
+              }
+            }
+          }
+        }        
+    } catch (e) {}
+    </script>   
 
     <!--- Page Info-->
     
@@ -246,7 +303,7 @@
 
     <script id="hexo-configurations">
     window.config = {"hostname":"fox-that.techidaily.com","root":"/","language":"en"};
-    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1000px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
+    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1280px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
     window.lang_ago = {"second":"%s seconds ago","minute":"%s minutes ago","hour":"%s hours ago","day":"%s days ago","week":"%s weeks ago","month":"%s months ago","year":"%s years ago"};
     window.data = {"masonry":false};
   </script>
@@ -624,7 +681,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8795</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">9629</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -665,7 +722,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8795</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">9629</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -693,21 +750,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/1721463455963-iphone-control-center-not-responding-discover-8-fixes-that-work/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/d03489546d1b061501196d90eec003105f028cda35360df03f790bed178f4837.jpg" alt="IPhone Control Center Not Responding? Discover 8 Fixes That Work" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/why-is-one-airpod-louder-than-the-other-try-these-4-fixes/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/50f9fb85f30d6bdf30041380f63b78a3de31a8743fa324bf24feee43e5b085f4.jpg" alt="Why Is One AirPod Louder Than the Other? Try These 4 Fixes" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/1721463455963-iphone-control-center-not-responding-discover-8-fixes-that-work/">
-                            IPhone Control Center Not Responding? Discover 8 Fixes That Work
+                        <a href="/why-is-one-airpod-louder-than-the-other-try-these-4-fixes/">
+                            Why Is One AirPod Louder Than the Other? Try These 4 Fixes
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes IPhone Control Center Not Responding? Discover 8 Fixes That Work</p>
+                            <p>This Article Describes Why Is One AirPod Louder Than the Other? Try These 4 Fixes</p>
 
                         
                     </div>
@@ -715,9 +772,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sat Aug 31 2024 20:58:10 GMT+0800">
+            <span class="home-article-date" data-date="Thu Sep 05 2024 02:40:36 GMT+0800">
                 
-                    2024-08-31
+                    2024-09-05
                 
             </span>
         </span>
@@ -758,7 +815,7 @@
         
     </div>
 
-    <a href="/1721463455963-iphone-control-center-not-responding-discover-8-fixes-that-work/">Read more<span class="seo-reader-text">IPhone Control Center Not Responding? Discover 8 Fixes That Work</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/why-is-one-airpod-louder-than-the-other-try-these-4-fixes/">Read more<span class="seo-reader-text">Why Is One AirPod Louder Than the Other? Try These 4 Fixes</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -774,21 +831,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/10-fixes-for-when-you-cant-make-phone-calls-on-your-iphone/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/581e555a79746fa6146e452431e04adcc0fe595ec9a8fe5547dd855a218b2d27.jpg" alt="10 Fixes for When You Can’t Make Phone Calls on Your iPhone" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/troubleshoot-your-iphones-charging-on-hold-alert-with-these-8-tips/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/b02903fae7318467ee1d2a7ec684be197bec9e28a2f1680afb2687afaf4dfa29.jpg" alt="Troubleshoot Your iPhone’s ‘Charging on Hold Alert’ with These 8 Tips" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/10-fixes-for-when-you-cant-make-phone-calls-on-your-iphone/">
-                            10 Fixes for When You Can’t Make Phone Calls on Your iPhone
+                        <a href="/troubleshoot-your-iphones-charging-on-hold-alert-with-these-8-tips/">
+                            Troubleshoot Your iPhone’s ‘Charging on Hold Alert’ with These 8 Tips
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes 10 Fixes for When You Can’t Make Phone Calls on Your iPhone</p>
+                            <p>This Article Describes Troubleshoot Your iPhone’s ‘Charging on Hold Alert’ with These 8 Tips</p>
 
                         
                     </div>
@@ -796,9 +853,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sat Aug 31 2024 20:58:09 GMT+0800">
+            <span class="home-article-date" data-date="Thu Sep 05 2024 02:40:36 GMT+0800">
                 
-                    2024-08-31
+                    2024-09-05
                 
             </span>
         </span>
@@ -839,7 +896,7 @@
         
     </div>
 
-    <a href="/10-fixes-for-when-you-cant-make-phone-calls-on-your-iphone/">Read more<span class="seo-reader-text">10 Fixes for When You Can’t Make Phone Calls on Your iPhone</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/troubleshoot-your-iphones-charging-on-hold-alert-with-these-8-tips/">Read more<span class="seo-reader-text">Troubleshoot Your iPhone’s ‘Charging on Hold Alert’ with These 8 Tips</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -855,21 +912,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/why-cant-i-send-a-gift-through-my-apple-device-here-are-5-reasons/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/db2dfa016aad5526d4e3599a68e42c8f3cfa167590fe6f17711d0d491d279f0c.jpg" alt="Why Can&#39;t I Send a Gift Through My Apple Device? Here Are 5 Reasons" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/lost-screen-time-password-easy-steps-to-set-a-new-one-for-iphone-ipad-and-macbook/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/4f6a39e9aacc54ee51fae61937dd3f2d46fe2285f88293ec56bab464e11f46a7.jpg" alt="Lost Screen Time Password? Easy Steps to Set a New One for iPhone, iPad and MacBook" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/why-cant-i-send-a-gift-through-my-apple-device-here-are-5-reasons/">
-                            Why Can&#39;t I Send a Gift Through My Apple Device? Here Are 5 Reasons
+                        <a href="/lost-screen-time-password-easy-steps-to-set-a-new-one-for-iphone-ipad-and-macbook/">
+                            Lost Screen Time Password? Easy Steps to Set a New One for iPhone, iPad and MacBook
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Why Can’t I Send a Gift Through My Apple Device? Here Are 5 Reasons</p>
+                            <p>This Article Describes Lost Screen Time Password? Easy Steps to Set a New One for iPhone, iPad and MacBook</p>
 
                         
                     </div>
@@ -877,9 +934,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sat Aug 31 2024 20:58:08 GMT+0800">
+            <span class="home-article-date" data-date="Thu Sep 05 2024 02:40:36 GMT+0800">
                 
-                    2024-08-31
+                    2024-09-05
                 
             </span>
         </span>
@@ -920,7 +977,7 @@
         
     </div>
 
-    <a href="/why-cant-i-send-a-gift-through-my-apple-device-here-are-5-reasons/">Read more<span class="seo-reader-text">Why Can&#39;t I Send a Gift Through My Apple Device? Here Are 5 Reasons</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/lost-screen-time-password-easy-steps-to-set-a-new-one-for-iphone-ipad-and-macbook/">Read more<span class="seo-reader-text">Lost Screen Time Password? Easy Steps to Set a New One for iPhone, iPad and MacBook</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -936,21 +993,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/what-to-do-when-your-iphone-hotspot-stops-working-quick-troubleshooting-steps/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/6dedf3c85b2a130f41288233e71fcebf6f77f4c0d59aab3ff91334ed8693ef00.jpg" alt="What to Do When Your iPhone Hotspot Stops Working – Quick Troubleshooting Steps" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/fixes-and-fix-ups-making-your-iphone-hotspot-function-again/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/b1b6775bf38540cce32c7cf3ae0c3f9781deea4b62c3dc654004acc69b97d819.jpg" alt="Fixes and Fix-Ups: Making Your IPhone Hotspot Function Again" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/what-to-do-when-your-iphone-hotspot-stops-working-quick-troubleshooting-steps/">
-                            What to Do When Your iPhone Hotspot Stops Working – Quick Troubleshooting Steps
+                        <a href="/fixes-and-fix-ups-making-your-iphone-hotspot-function-again/">
+                            Fixes and Fix-Ups: Making Your IPhone Hotspot Function Again
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes What to Do When Your iPhone Hotspot Stops Working – Quick Troubleshooting Steps</p>
+                            <p>This Article Describes Fixes and Fix-Ups: Making Your IPhone Hotspot Function Again</p>
 
                         
                     </div>
@@ -958,9 +1015,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sat Aug 31 2024 20:58:06 GMT+0800">
+            <span class="home-article-date" data-date="Thu Sep 05 2024 02:40:36 GMT+0800">
                 
-                    2024-08-31
+                    2024-09-05
                 
             </span>
         </span>
@@ -1001,7 +1058,7 @@
         
     </div>
 
-    <a href="/what-to-do-when-your-iphone-hotspot-stops-working-quick-troubleshooting-steps/">Read more<span class="seo-reader-text">What to Do When Your iPhone Hotspot Stops Working – Quick Troubleshooting Steps</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/fixes-and-fix-ups-making-your-iphone-hotspot-function-again/">Read more<span class="seo-reader-text">Fixes and Fix-Ups: Making Your IPhone Hotspot Function Again</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1017,21 +1074,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/what-steps-should-you-take-when-iphone-events-vanish-from-your-calendar/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/e9f6abd8662955b9fc76151bcfa96786be75ef68a255d5c3126b3ad30bf05b53.jpg" alt="What Steps Should You Take When iPhone Events Vanish From Your Calendar?" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/improving-usability-for-the-visually-challenged-explore-these-t-iphone-features-top-8-picks/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/1f3c8cd99c8239124d3f11907b2c70b41c033994f436c06a6dbfb919bff2eedd.jpg" alt="Improving Usability for the Visually Challenged: Explore These T- iPhone Features (Top 8 Picks)" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/what-steps-should-you-take-when-iphone-events-vanish-from-your-calendar/">
-                            What Steps Should You Take When iPhone Events Vanish From Your Calendar?
+                        <a href="/improving-usability-for-the-visually-challenged-explore-these-t-iphone-features-top-8-picks/">
+                            Improving Usability for the Visually Challenged: Explore These T- iPhone Features (Top 8 Picks)
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes What Steps Should You Take When iPhone Events Vanish From Your Calendar?</p>
+                            <p>This Article Describes Improving Usability for the Visually Challenged: Explore These T- iPhone Features (Top 8 Picks)</p>
 
                         
                     </div>
@@ -1039,9 +1096,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sat Aug 31 2024 20:58:05 GMT+0800">
+            <span class="home-article-date" data-date="Thu Sep 05 2024 02:40:36 GMT+0800">
                 
-                    2024-08-31
+                    2024-09-05
                 
             </span>
         </span>
@@ -1082,7 +1139,7 @@
         
     </div>
 
-    <a href="/what-steps-should-you-take-when-iphone-events-vanish-from-your-calendar/">Read more<span class="seo-reader-text">What Steps Should You Take When iPhone Events Vanish From Your Calendar?</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/improving-usability-for-the-visually-challenged-explore-these-t-iphone-features-top-8-picks/">Read more<span class="seo-reader-text">Improving Usability for the Visually Challenged: Explore These T- iPhone Features (Top 8 Picks)</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1098,21 +1155,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/uninterrupted-sound-11-proven-methods-to-ensure-airpod-iphone-sync-success/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/a4dcf98f3406d7e5d0dc2d2c190aac822aae79b2e5cb3a27a5cb90894f8b169b.jpg" alt="Uninterrupted Sound: 11 Proven Methods to Ensure AirPod-iPhone Sync Success" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/removing-water-from-iphone-speakers-a-step-by-step-guide/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/eb38171b90ca32075b41aaee38a26564bdab0e720e595c798abbf52d66cb7d09.jpg" alt="Removing Water From iPhone Speakers: A Step-by-Step Guide" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/uninterrupted-sound-11-proven-methods-to-ensure-airpod-iphone-sync-success/">
-                            Uninterrupted Sound: 11 Proven Methods to Ensure AirPod-iPhone Sync Success
+                        <a href="/removing-water-from-iphone-speakers-a-step-by-step-guide/">
+                            Removing Water From iPhone Speakers: A Step-by-Step Guide
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Uninterrupted Sound: 11 Proven Methods to Ensure AirPod-iPhone Sync Success</p>
+                            <p>This Article Describes Removing Water From iPhone Speakers: A Step-by-Step Guide</p>
 
                         
                     </div>
@@ -1120,9 +1177,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sat Aug 31 2024 20:58:04 GMT+0800">
+            <span class="home-article-date" data-date="Thu Sep 05 2024 02:40:36 GMT+0800">
                 
-                    2024-08-31
+                    2024-09-05
                 
             </span>
         </span>
@@ -1163,7 +1220,7 @@
         
     </div>
 
-    <a href="/uninterrupted-sound-11-proven-methods-to-ensure-airpod-iphone-sync-success/">Read more<span class="seo-reader-text">Uninterrupted Sound: 11 Proven Methods to Ensure AirPod-iPhone Sync Success</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/removing-water-from-iphone-speakers-a-step-by-step-guide/">Read more<span class="seo-reader-text">Removing Water From iPhone Speakers: A Step-by-Step Guide</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1179,21 +1236,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/troubleshooting-why-face-id-recognition-may-fail-on-your-apple-device/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/8d6fc5e965f8f403ab26d9d65a1bca0fa8c0fcf476d607d4885f74d57cfde7c9.jpg" alt="Troubleshooting: Why Face ID Recognition May Fail on Your Apple Device" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/ideas-on-how-to-dry-wet-sounds-fixing-your-iphones-speaker-issues/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/d8ea0db08299b418f8415fcdb55459d60a299aaeacab1eb2b1b6960f90e2b4a4.jpg" alt="Ideas on How to Dry Wet Sounds: Fixing Your iPhone&#39;s Speaker Issues" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/troubleshooting-why-face-id-recognition-may-fail-on-your-apple-device/">
-                            Troubleshooting: Why Face ID Recognition May Fail on Your Apple Device
+                        <a href="/ideas-on-how-to-dry-wet-sounds-fixing-your-iphones-speaker-issues/">
+                            Ideas on How to Dry Wet Sounds: Fixing Your iPhone&#39;s Speaker Issues
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Troubleshooting: Why Face ID Recognition May Fail on Your Apple Device</p>
+                            <p>This Article Describes Ideas on How to Dry Wet Sounds: Fixing Your iPhone’s Speaker Issues</p>
 
                         
                     </div>
@@ -1201,9 +1258,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sat Aug 31 2024 20:58:03 GMT+0800">
+            <span class="home-article-date" data-date="Thu Sep 05 2024 02:40:36 GMT+0800">
                 
-                    2024-08-31
+                    2024-09-05
                 
             </span>
         </span>
@@ -1244,7 +1301,7 @@
         
     </div>
 
-    <a href="/troubleshooting-why-face-id-recognition-may-fail-on-your-apple-device/">Read more<span class="seo-reader-text">Troubleshooting: Why Face ID Recognition May Fail on Your Apple Device</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/ideas-on-how-to-dry-wet-sounds-fixing-your-iphones-speaker-issues/">Read more<span class="seo-reader-text">Ideas on How to Dry Wet Sounds: Fixing Your iPhone&#39;s Speaker Issues</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1260,21 +1317,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/troubleshooting-iphones-malfunctioning-mic-expert-tips-and-solutions/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/a4224fc73a6465f58bae54c290236f5e5e431174596ef739d111ede45824dcdd.png" alt="Troubleshooting iPhone&#39;s Malfunctioning Mic: Expert Tips &amp; Solutions" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/essential-troubleshooting-steps-for-issues-with-family-sharing-subscription-permissions/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/7a3b2432a9d08b9e553576af71c0365aa49f025a4ccec0f85070f5a5f457c917.jpg" alt="Essential Troubleshooting Steps for Issues with Family Sharing Subscription Permissions" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/troubleshooting-iphones-malfunctioning-mic-expert-tips-and-solutions/">
-                            Troubleshooting iPhone&#39;s Malfunctioning Mic: Expert Tips &amp; Solutions
+                        <a href="/essential-troubleshooting-steps-for-issues-with-family-sharing-subscription-permissions/">
+                            Essential Troubleshooting Steps for Issues with Family Sharing Subscription Permissions
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Troubleshooting iPhone’s Malfunctioning Mic: Expert Tips &amp; Solutions</p>
+                            <p>This Article Describes Essential Troubleshooting Steps for Issues with Family Sharing Subscription Permissions</p>
 
                         
                     </div>
@@ -1282,9 +1339,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sat Aug 31 2024 20:58:02 GMT+0800">
+            <span class="home-article-date" data-date="Thu Sep 05 2024 02:40:36 GMT+0800">
                 
-                    2024-08-31
+                    2024-09-05
                 
             </span>
         </span>
@@ -1325,7 +1382,7 @@
         
     </div>
 
-    <a href="/troubleshooting-iphones-malfunctioning-mic-expert-tips-and-solutions/">Read more<span class="seo-reader-text">Troubleshooting iPhone&#39;s Malfunctioning Mic: Expert Tips &amp; Solutions</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/essential-troubleshooting-steps-for-issues-with-family-sharing-subscription-permissions/">Read more<span class="seo-reader-text">Essential Troubleshooting Steps for Issues with Family Sharing Subscription Permissions</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1341,21 +1398,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/troubleshooting-iphones-inability-to-get-messages-from-android-devices/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/d3a69700e0cb55adae67e72e210fb2f2a9d54f1a94f5e0b261b4ccf5f3207b46.jpg" alt="Troubleshooting iPhone&#39;s Inability to Get Messages From Android Devices" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/overcoming-ghost-touch-glitches-on-iphones-discover-effective-10-step-solutions/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/0b81880445efb7746c34685a24a5e53155bfff0ac907d2d7a06d83968e5eaef1.jpg" alt="Overcoming Ghost Touch Glitches on iPhones: Discover Effective 10-Step Solutions" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/troubleshooting-iphones-inability-to-get-messages-from-android-devices/">
-                            Troubleshooting iPhone&#39;s Inability to Get Messages From Android Devices
+                        <a href="/overcoming-ghost-touch-glitches-on-iphones-discover-effective-10-step-solutions/">
+                            Overcoming Ghost Touch Glitches on iPhones: Discover Effective 10-Step Solutions
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Troubleshooting iPhone’s Inability to Get Messages From Android Devices</p>
+                            <p>This Article Describes Overcoming Ghost Touch Glitches on iPhones: Discover Effective 10-Step Solutions</p>
 
                         
                     </div>
@@ -1363,9 +1420,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sat Aug 31 2024 20:58:01 GMT+0800">
+            <span class="home-article-date" data-date="Thu Sep 05 2024 02:40:36 GMT+0800">
                 
-                    2024-08-31
+                    2024-09-05
                 
             </span>
         </span>
@@ -1406,7 +1463,7 @@
         
     </div>
 
-    <a href="/troubleshooting-iphones-inability-to-get-messages-from-android-devices/">Read more<span class="seo-reader-text">Troubleshooting iPhone&#39;s Inability to Get Messages From Android Devices</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/overcoming-ghost-touch-glitches-on-iphones-discover-effective-10-step-solutions/">Read more<span class="seo-reader-text">Overcoming Ghost Touch Glitches on iPhones: Discover Effective 10-Step Solutions</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1422,21 +1479,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/troubleshooting-iphones-final-line-unavailable-issue-a-step-by-step-guide/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/7640686b3055c0a77032f97db3d754d6950a2fb76c1e14b848d584888858dae0.jpg" alt="Troubleshooting iPhone&#39;s Final Line Unavailable Issue: A Step-by-Step Guide" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/wifi-iphone-charging-woes-discover-7-effective-remedies-to-get-it-working-again/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/f5fbbf41453d9824bf6879798120e6de2082db27f668f4cb2a72d45c0fe37f64.jpg" alt="WiFi iPhone Charging Woes? Discover 7 Effective Remedies to Get It Working Again" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/troubleshooting-iphones-final-line-unavailable-issue-a-step-by-step-guide/">
-                            Troubleshooting iPhone&#39;s Final Line Unavailable Issue: A Step-by-Step Guide
+                        <a href="/wifi-iphone-charging-woes-discover-7-effective-remedies-to-get-it-working-again/">
+                            WiFi iPhone Charging Woes? Discover 7 Effective Remedies to Get It Working Again
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Troubleshooting iPhone’s Final Line Unavailable Issue: A Step-by-Step Guide</p>
+                            <p>This Article Describes WiFi iPhone Charging Woes? Discover 7 Effective Remedies to Get It Working Again</p>
 
                         
                     </div>
@@ -1444,9 +1501,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sat Aug 31 2024 20:58:00 GMT+0800">
+            <span class="home-article-date" data-date="Thu Sep 05 2024 02:40:36 GMT+0800">
                 
-                    2024-08-31
+                    2024-09-05
                 
             </span>
         </span>
@@ -1487,7 +1544,7 @@
         
     </div>
 
-    <a href="/troubleshooting-iphones-final-line-unavailable-issue-a-step-by-step-guide/">Read more<span class="seo-reader-text">Troubleshooting iPhone&#39;s Final Line Unavailable Issue: A Step-by-Step Guide</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/wifi-iphone-charging-woes-discover-7-effective-remedies-to-get-it-working-again/">Read more<span class="seo-reader-text">WiFi iPhone Charging Woes? Discover 7 Effective Remedies to Get It Working Again</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1497,7 +1554,7 @@
 
     <div class="home-paginator px-7 py-5">
         <div class="paginator">
-    <a class="extend prev" rel="prev" href="/page/178/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/177/">177</a><a class="page-number" href="/page/178/">178</a><span class="page-number current">179</span><a class="page-number" href="/page/180/">180</a><a class="page-number" href="/page/181/">181</a><span class="space">&hellip;</span><a class="page-number" href="/page/880/">880</a><a class="extend next" rel="next" href="/page/180/"><i class="fa-regular fa-angle-right"></i></a>
+    <a class="extend prev" rel="prev" href="/page/178/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/177/">177</a><a class="page-number" href="/page/178/">178</a><span class="page-number current">179</span><a class="page-number" href="/page/180/">180</a><a class="page-number" href="/page/181/">181</a><span class="space">&hellip;</span><a class="page-number" href="/page/963/">963</a><a class="extend next" rel="next" href="/page/180/"><i class="fa-regular fa-angle-right"></i></a>
 </div>
 
     </div>

@@ -61,6 +61,63 @@
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-duotone-900.woff2" as="font" crossorigin type="font/woff2">
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-thin-100.woff2" as="font" crossorigin type="font/woff2">
 
+    <!-- tailwind.css -->
+    <script src="https://cloudflare-cdn.techidaily.com/js/libs/tailwindcss.v3.4.5.js" crossorigin></script> 
+    <script>
+    try {
+        tailwind.config = {
+          theme: {
+            extend: {
+              spacing: {
+                unit: "38px",
+              },
+              margin: {
+                "spacing-unit": "38px",
+              },
+              maxWidth: {
+                content: "1280px",
+                "has-toc-content": "120%",
+              },
+              zIndex: {
+                1: 1001,
+                2: 1002,
+                3: 1003,
+                4: 1004,
+                5: 1005,
+                6: 1006,
+                7: 1007,
+                8: 1008,
+                9: 1009,
+              },
+              borderRadius: {
+                none: "0px",
+                xsmall: "4px",
+                small: "9px",
+                medium: "14px",
+                large: "18px",
+                xlarge: "24px",
+                xxlarge: "48px",
+              },
+              fontFamily: {
+                chinese: ["sans-serif"],
+                english: ["Satoshi-Variable", "sans-serif"],
+                default: [
+                  "Satoshi-Variable",
+                  "system-ui",
+                  "sans-serif",
+                ],
+              },
+              fontSize: {
+                default: "16px"
+              },
+              lineHeight: {
+                default: "1.5"
+              }
+            }
+          }
+        }        
+    } catch (e) {}
+    </script>   
 
     <!--- Page Info-->
     
@@ -248,7 +305,7 @@
 
     <script id="hexo-configurations">
     window.config = {"hostname":"fox-that.techidaily.com","root":"/","language":"en"};
-    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1000px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
+    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1280px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
     window.lang_ago = {"second":"%s seconds ago","minute":"%s minutes ago","hour":"%s hours ago","day":"%s days ago","week":"%s weeks ago","month":"%s months ago","year":"%s years ago"};
     window.data = {"masonry":false};
   </script>
@@ -591,7 +648,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8795</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">9629</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -629,74 +686,74 @@
               
                 
                     
-                    <li class="article-item space-y-2 px-6 pt-10 pb-2 text-xl relative border-l-2 border-border-color" date-is='08-10'>
+                    <li class="article-item space-y-2 px-6 pt-10 pb-2 text-xl relative border-l-2 border-border-color" date-is='08-15'>
                 
                     
-                        <a href="/1721475688810-iphone-no-sound-dilemma-easy-fixes-that-actually-work/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">IPhone No-Sound Dilemma - Easy Fixes That Actually Work!</span>
+                        <a href="/solve-your-broken-iphone-volume-buttons-issue-in-just-7-steps/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Solve Your Broken iPhone Volume Buttons Issue in Just 7 Steps!</span>
                         </a>
                     
               
                 
                     
-                        <a href="/1721458609353-flickering-phone-display-discover-these-7-quick-fixes/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Flickering Phone Display? Discover These 7 Quick Fixes!</span>
+                        <a href="/getting-your-idevices-keyboard-back-to-work-six-crucial-solutions-for-iphone-and-ipad-users/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Getting Your iDevice&#39;s Keyboard Back to Work: Six Crucial Solutions for iPhone and iPad Users</span>
                         </a>
                     
               
                 
                     
-                        <a href="/icloud-sync-errors-demystified-effective-solutions-inside/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">ICloud Sync Errors Demystified - Effective Solutions Inside!</span>
+                        <a href="/pinpoint-and-rectify-7-frequent-glitches-in-your-iphones-camera-for-flawless-photography/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Pinpoint &amp; Rectify 7 Frequent Glitches in Your iPhone&#39;s Camera for Flawless Photography</span>
                         </a>
                     
               
                 
                     
-                        <a href="/expert-guide-fine-tune-your-iphones-energy-consumption-quickly/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Expert Guide: Fine-Tune Your iPhone&#39;s Energy Consumption Quickly</span>
+                        <a href="/quick-fix-correcting-internet-and-wi-fi-glitches-on-ios-devices-via-settings-reset/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Quick Fix: Correcting Internet and Wi-Fi Glitches on iOS Devices via Settings Reset</span>
                         </a>
                     
               
                 
                     
-                        <a href="/resolving-iphones-final-line-unavailable-issue-a-step-by-step-guide/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Resolving iPhone&#39;s Final Line Unavailable Issue: A Step-by-Step Guide</span>
+                        <a href="/imessage-reroutes-to-text-what-does-it-mean-for-your-contact-status/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">IMessage Reroutes to Text: What Does It Mean for Your Contact Status?</span>
                         </a>
                     
               
                 
                     
-                        <a href="/a-comprehensive-guide-to-recovering-your-ios-device-without-relying-on-itunes/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">A Comprehensive Guide to Recovering Your iOS Device without Relying on iTunes</span>
+                        <a href="/navigating-iphone-media-library-proven-fixes-for-usual-photography-hiccups/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Navigating iPhone Media Library: Proven Fixes for Usual Photography Hiccups</span>
                         </a>
                     
               
                 
                     
-                        <a href="/how-to-resolve-iphone-not-getting-android-texts-expert-tips-and-fixes/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">How to Resolve iPhone Not Getting Android Texts – Expert Tips and Fixes</span>
+                        <a href="/maximizing-photography-performance-techniques-for-iphones-with-fewer-mp/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Maximizing Photography Performance: Techniques for iPhones with Fewer MP</span>
                         </a>
                     
               
                 
                     
-                        <a href="/resolve-safari-issues-on-iphone-a-step-by-step-guide-for-the-top-10-solutions/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Resolve Safari Issues on iPhone: A Step-by-Step Guide for the Top 10 Solutions</span>
+                        <a href="/fixing-slow-instagram-loading-times-a-comprehensive-guide-for-android-and-iphone-users/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Fixing Slow Instagram Loading Times: A Comprehensive Guide for Android &amp; iPhone Users</span>
                         </a>
                     
               
                 
                     
-                        <a href="/unavailable-or-not-working-reset-your-iphones-face-id-with-these-14-techniques/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Unavailable or Not Working? Reset Your iPhone’s Face ID with These 14 Techniques</span>
+                        <a href="/how-to-find-your-lost-or-stolen-iphone-using-the-find-my-app/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">How to Find Your Lost or Stolen iPhone Using the Find My App</span>
                         </a>
                     
               
                 
                     
-                        <a href="/1721472258366-struggling-with-iphones-contact-list-discover-3-effective-troubleshooting-tips/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Struggling with iPhone&#39;s Contact List? Discover 3 Effective Troubleshooting Tips!</span>
+                        <a href="/overcoming-signed-out-errors-on-iphones-expert-tips-for-restoring-imessage-connectivity/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Overcoming Signed Out Errors on iPhones: Expert Tips for Restoring iMessage Connectivity</span>
                         </a>
                     
               
@@ -710,7 +767,7 @@
 
 <div class="tag-paginator">
 	<div class="paginator">
-    <a class="extend prev" rel="prev" href="/tags/iphone/page/566/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/tags/iphone/">1</a><span class="space">&hellip;</span><a class="page-number" href="/tags/iphone/page/565/">565</a><a class="page-number" href="/tags/iphone/page/566/">566</a><span class="page-number current">567</span><a class="page-number" href="/tags/iphone/page/568/">568</a><a class="page-number" href="/tags/iphone/page/569/">569</a><span class="space">&hellip;</span><a class="page-number" href="/tags/iphone/page/878/">878</a><a class="extend next" rel="next" href="/tags/iphone/page/568/"><i class="fa-regular fa-angle-right"></i></a>
+    <a class="extend prev" rel="prev" href="/tags/iphone/page/566/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/tags/iphone/">1</a><span class="space">&hellip;</span><a class="page-number" href="/tags/iphone/page/565/">565</a><a class="page-number" href="/tags/iphone/page/566/">566</a><span class="page-number current">567</span><a class="page-number" href="/tags/iphone/page/568/">568</a><a class="page-number" href="/tags/iphone/page/569/">569</a><span class="space">&hellip;</span><a class="page-number" href="/tags/iphone/page/961/">961</a><a class="extend next" rel="next" href="/tags/iphone/page/568/"><i class="fa-regular fa-angle-right"></i></a>
 </div>
 
 </div>

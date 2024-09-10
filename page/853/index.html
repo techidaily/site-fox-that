@@ -61,6 +61,63 @@
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-duotone-900.woff2" as="font" crossorigin type="font/woff2">
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-thin-100.woff2" as="font" crossorigin type="font/woff2">
 
+    <!-- tailwind.css -->
+    <script src="https://cloudflare-cdn.techidaily.com/js/libs/tailwindcss.v3.4.5.js" crossorigin></script> 
+    <script>
+    try {
+        tailwind.config = {
+          theme: {
+            extend: {
+              spacing: {
+                unit: "38px",
+              },
+              margin: {
+                "spacing-unit": "38px",
+              },
+              maxWidth: {
+                content: "1280px",
+                "has-toc-content": "120%",
+              },
+              zIndex: {
+                1: 1001,
+                2: 1002,
+                3: 1003,
+                4: 1004,
+                5: 1005,
+                6: 1006,
+                7: 1007,
+                8: 1008,
+                9: 1009,
+              },
+              borderRadius: {
+                none: "0px",
+                xsmall: "4px",
+                small: "9px",
+                medium: "14px",
+                large: "18px",
+                xlarge: "24px",
+                xxlarge: "48px",
+              },
+              fontFamily: {
+                chinese: ["sans-serif"],
+                english: ["Satoshi-Variable", "sans-serif"],
+                default: [
+                  "Satoshi-Variable",
+                  "system-ui",
+                  "sans-serif",
+                ],
+              },
+              fontSize: {
+                default: "16px"
+              },
+              lineHeight: {
+                default: "1.5"
+              }
+            }
+          }
+        }        
+    } catch (e) {}
+    </script>   
 
     <!--- Page Info-->
     
@@ -246,7 +303,7 @@
 
     <script id="hexo-configurations">
     window.config = {"hostname":"fox-that.techidaily.com","root":"/","language":"en"};
-    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1000px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
+    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1280px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
     window.lang_ago = {"second":"%s seconds ago","minute":"%s minutes ago","hour":"%s hours ago","day":"%s days ago","week":"%s weeks ago","month":"%s months ago","year":"%s years ago"};
     window.data = {"masonry":false};
   </script>
@@ -624,7 +681,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8795</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">9629</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -665,7 +722,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8795</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">9629</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -693,21 +750,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/iphone-application-problem-solved-expert-fixes-for-download-delays-and-issues/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/280ddac45a43e26292eec3f07f23cb423510585b526fcae65189b9637edf5522.jpg" alt="IPhone Application Problem Solved! Expert Fixes for Download Delays and Issues" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/resolving-iphone-issues-with-aol-mail-discover-these-6-effective-strategies/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/71f97dd9274703edf2e1d5e61f1afdbaca75ab6c6c70ddf26d28f8e813f8a89f.jpg" alt="Resolving iPhone Issues with AOL Mail: Discover These 6 Effective Strategies" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/iphone-application-problem-solved-expert-fixes-for-download-delays-and-issues/">
-                            IPhone Application Problem Solved! Expert Fixes for Download Delays and Issues
+                        <a href="/resolving-iphone-issues-with-aol-mail-discover-these-6-effective-strategies/">
+                            Resolving iPhone Issues with AOL Mail: Discover These 6 Effective Strategies
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes IPhone Application Problem Solved! Expert Fixes for Download Delays and Issues</p>
+                            <p>This Article Describes Resolving iPhone Issues with AOL Mail: Discover These 6 Effective Strategies</p>
 
                         
                     </div>
@@ -715,7 +772,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sat Jul 20 2024 03:09:00 GMT+0800">
+            <span class="home-article-date" data-date="Sat Jul 20 2024 03:14:45 GMT+0800">
                 
                     2024-07-20
                 
@@ -758,7 +815,7 @@
         
     </div>
 
-    <a href="/iphone-application-problem-solved-expert-fixes-for-download-delays-and-issues/">Read more<span class="seo-reader-text">IPhone Application Problem Solved! Expert Fixes for Download Delays and Issues</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/resolving-iphone-issues-with-aol-mail-discover-these-6-effective-strategies/">Read more<span class="seo-reader-text">Resolving iPhone Issues with AOL Mail: Discover These 6 Effective Strategies</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -774,21 +831,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/1721474437829-experiencing-late-text-alerts-on-ios-devices-discover-our-9-key-fixes/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/62d72eb39093270995757df1adc43019ed0e362b73decee245e264928d768a5a.jpg" alt="Experiencing Late Text Alerts on iOS Devices? Discover Our 9 Key Fixes!" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/fixing-a-non-responsive-iphone-home-button-top-5-tips/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/92b81c6b9239c64bac098632d00d719afd5ea59397dede5bb9855bcced869a79.jpg" alt="Fixing a Non-Responsive iPhone Home Button: Top 5 Tips" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/1721474437829-experiencing-late-text-alerts-on-ios-devices-discover-our-9-key-fixes/">
-                            Experiencing Late Text Alerts on iOS Devices? Discover Our 9 Key Fixes!
+                        <a href="/fixing-a-non-responsive-iphone-home-button-top-5-tips/">
+                            Fixing a Non-Responsive iPhone Home Button: Top 5 Tips
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Experiencing Late Text Alerts on iOS Devices? Discover Our 9 Key Fixes!</p>
+                            <p>This Article Describes Fixing a Non-Responsive iPhone Home Button: Top 5 Tips</p>
 
                         
                     </div>
@@ -796,7 +853,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sat Jul 20 2024 03:08:59 GMT+0800">
+            <span class="home-article-date" data-date="Sat Jul 20 2024 03:14:44 GMT+0800">
                 
                     2024-07-20
                 
@@ -839,7 +896,7 @@
         
     </div>
 
-    <a href="/1721474437829-experiencing-late-text-alerts-on-ios-devices-discover-our-9-key-fixes/">Read more<span class="seo-reader-text">Experiencing Late Text Alerts on iOS Devices? Discover Our 9 Key Fixes!</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/fixing-a-non-responsive-iphone-home-button-top-5-tips/">Read more<span class="seo-reader-text">Fixing a Non-Responsive iPhone Home Button: Top 5 Tips</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -855,21 +912,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/cant-locate-your-iphone-application-let-us-help-you-get-it-back/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/3e844b75dba05d50e037a8922f63f44130183016b1138a00c38fe8d101f4bd1f.jpg" alt="Can&#39;t Locate Your iPhone Application? Let Us Help You Get It Back!" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/1721462983229-trouble-with-wireless-charge-on-iphone-discover-7-solutions/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/b8679192be865a4926b833c7643d484e4a5289f4dc9b662f4833af51354f1cda.jpg" alt="Trouble with Wireless Charge on iPhone? Discover 7 Solutions!" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/cant-locate-your-iphone-application-let-us-help-you-get-it-back/">
-                            Can&#39;t Locate Your iPhone Application? Let Us Help You Get It Back!
+                        <a href="/1721462983229-trouble-with-wireless-charge-on-iphone-discover-7-solutions/">
+                            Trouble with Wireless Charge on iPhone? Discover 7 Solutions!
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Can’t Locate Your iPhone Application? Let Us Help You Get It Back!</p>
+                            <p>This Article Describes Trouble with Wireless Charge on iPhone? Discover 7 Solutions!</p>
 
                         
                     </div>
@@ -877,7 +934,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sat Jul 20 2024 03:08:59 GMT+0800">
+            <span class="home-article-date" data-date="Sat Jul 20 2024 03:14:44 GMT+0800">
                 
                     2024-07-20
                 
@@ -920,7 +977,7 @@
         
     </div>
 
-    <a href="/cant-locate-your-iphone-application-let-us-help-you-get-it-back/">Read more<span class="seo-reader-text">Can&#39;t Locate Your iPhone Application? Let Us Help You Get It Back!</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/1721462983229-trouble-with-wireless-charge-on-iphone-discover-7-solutions/">Read more<span class="seo-reader-text">Trouble with Wireless Charge on iPhone? Discover 7 Solutions!</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -936,21 +993,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/troubleshooting-iphones-control-center-top-8-fixes-that-work/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/a5092d91210ebecc5f12f725b9ff9f61857216831313f94623bfe4b3f692f3df.jpg" alt="Troubleshooting iPhone&#39;s Control Center: Top 8 Fixes That Work" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/effortless-fixes-for-a-broken-imessage-connection-on-your-ios-and-macos-devices/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/c72cccdf9cacc0fda207b45b24ab86cf2fde475b85a4b94012ab008856dbcd1d.jpg" alt="Effortless Fixes for a Broken iMessage Connection on Your iOS and macOS Devices" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/troubleshooting-iphones-control-center-top-8-fixes-that-work/">
-                            Troubleshooting iPhone&#39;s Control Center: Top 8 Fixes That Work
+                        <a href="/effortless-fixes-for-a-broken-imessage-connection-on-your-ios-and-macos-devices/">
+                            Effortless Fixes for a Broken iMessage Connection on Your iOS and macOS Devices
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Troubleshooting iPhone’s Control Center: Top 8 Fixes That Work</p>
+                            <p>This Article Describes Effortless Fixes for a Broken iMessage Connection on Your iOS and macOS Devices</p>
 
                         
                     </div>
@@ -958,7 +1015,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sat Jul 20 2024 03:08:58 GMT+0800">
+            <span class="home-article-date" data-date="Sat Jul 20 2024 03:14:43 GMT+0800">
                 
                     2024-07-20
                 
@@ -1001,7 +1058,7 @@
         
     </div>
 
-    <a href="/troubleshooting-iphones-control-center-top-8-fixes-that-work/">Read more<span class="seo-reader-text">Troubleshooting iPhone&#39;s Control Center: Top 8 Fixes That Work</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/effortless-fixes-for-a-broken-imessage-connection-on-your-ios-and-macos-devices/">Read more<span class="seo-reader-text">Effortless Fixes for a Broken iMessage Connection on Your iOS and macOS Devices</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1017,21 +1074,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/how-to-locate-missing-events-on-your-iphone-agenda/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/7e02bd572984315c91b0feee5bb97c59ecfef3acd51a935224f88b492a26dbad.jpg" alt="How to Locate Missing Events on Your iPhone Agenda" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/understanding-block-alerts-cant-reach-via-imessage-what-next/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/843a2530bd30cf31b24741cc2e56b474bee5d065dd6fb56cbf786d1e09002e10.jpg" alt="Understanding Block Alerts: Can&#39;t Reach via iMessage – What Next?" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/how-to-locate-missing-events-on-your-iphone-agenda/">
-                            How to Locate Missing Events on Your iPhone Agenda
+                        <a href="/understanding-block-alerts-cant-reach-via-imessage-what-next/">
+                            Understanding Block Alerts: Can&#39;t Reach via iMessage – What Next?
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes How to Locate Missing Events on Your iPhone Agenda</p>
+                            <p>This Article Describes Understanding Block Alerts: Can’t Reach via iMessage – What Next?</p>
 
                         
                     </div>
@@ -1039,7 +1096,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sat Jul 20 2024 03:08:58 GMT+0800">
+            <span class="home-article-date" data-date="Sat Jul 20 2024 03:14:43 GMT+0800">
                 
                     2024-07-20
                 
@@ -1082,7 +1139,7 @@
         
     </div>
 
-    <a href="/how-to-locate-missing-events-on-your-iphone-agenda/">Read more<span class="seo-reader-text">How to Locate Missing Events on Your iPhone Agenda</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/understanding-block-alerts-cant-reach-via-imessage-what-next/">Read more<span class="seo-reader-text">Understanding Block Alerts: Can&#39;t Reach via iMessage – What Next?</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1098,21 +1155,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/is-your-phone-display-flickering-try-these-7-fixes/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/485fa639637af95e40bb39955015be2d5660936e6475a435b4a4c85695223b88.jpg" alt="Is Your Phone Display Flickering? Try These 7 Fixes" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/unraveling-the-mystery-of-iphoneipad-heat-ups-diagnosis-and-remedies-explained/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/6afde60cdf2c4ed08818a0c3bb279e1893a9ceb4675945a4f5d57ab92e9d6ef9.jpg" alt="Unraveling the Mystery of iPhone/iPad Heat-Ups: Diagnosis &amp; Remedies Explained" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/is-your-phone-display-flickering-try-these-7-fixes/">
-                            Is Your Phone Display Flickering? Try These 7 Fixes
+                        <a href="/unraveling-the-mystery-of-iphoneipad-heat-ups-diagnosis-and-remedies-explained/">
+                            Unraveling the Mystery of iPhone/iPad Heat-Ups: Diagnosis &amp; Remedies Explained
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Is Your Phone Display Flickering? Try These 7 Fixes</p>
+                            <p>This Article Describes Unraveling the Mystery of iPhone&#x2F;iPad Heat-Ups: Diagnosis &amp; Remedies Explained</p>
 
                         
                     </div>
@@ -1120,7 +1177,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sat Jul 20 2024 03:08:57 GMT+0800">
+            <span class="home-article-date" data-date="Sat Jul 20 2024 03:14:43 GMT+0800">
                 
                     2024-07-20
                 
@@ -1163,7 +1220,7 @@
         
     </div>
 
-    <a href="/is-your-phone-display-flickering-try-these-7-fixes/">Read more<span class="seo-reader-text">Is Your Phone Display Flickering? Try These 7 Fixes</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/unraveling-the-mystery-of-iphoneipad-heat-ups-diagnosis-and-remedies-explained/">Read more<span class="seo-reader-text">Unraveling the Mystery of iPhone/iPad Heat-Ups: Diagnosis &amp; Remedies Explained</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1179,21 +1236,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/fix-muted-ringtones-on-iphone-discover-11-easy-steps-to-solution/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/ed1580a633035850affefcaff2905a61682a6fee4ff28b2032ed8b7104437026.jpg" alt="Fix Muted Ringtones on iPhone: Discover 11 Easy Steps to Solution" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/troubleshoot-iphone-sound-control-top-7-solutions-for-malfunctioning-volume-buttons/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/4fdba735ca68de32414a243ab29c0a7ff66726341a93d84f39e27448ba642383.jpg" alt="Troubleshoot iPhone Sound Control: Top 7 Solutions for Malfunctioning Volume Buttons" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/fix-muted-ringtones-on-iphone-discover-11-easy-steps-to-solution/">
-                            Fix Muted Ringtones on iPhone: Discover 11 Easy Steps to Solution
+                        <a href="/troubleshoot-iphone-sound-control-top-7-solutions-for-malfunctioning-volume-buttons/">
+                            Troubleshoot iPhone Sound Control: Top 7 Solutions for Malfunctioning Volume Buttons
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Fix Muted Ringtones on iPhone: Discover 11 Easy Steps to Solution</p>
+                            <p>This Article Describes Troubleshoot iPhone Sound Control: Top 7 Solutions for Malfunctioning Volume Buttons</p>
 
                         
                     </div>
@@ -1201,7 +1258,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sat Jul 20 2024 03:08:57 GMT+0800">
+            <span class="home-article-date" data-date="Sat Jul 20 2024 03:14:42 GMT+0800">
                 
                     2024-07-20
                 
@@ -1244,7 +1301,7 @@
         
     </div>
 
-    <a href="/fix-muted-ringtones-on-iphone-discover-11-easy-steps-to-solution/">Read more<span class="seo-reader-text">Fix Muted Ringtones on iPhone: Discover 11 Easy Steps to Solution</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/troubleshoot-iphone-sound-control-top-7-solutions-for-malfunctioning-volume-buttons/">Read more<span class="seo-reader-text">Troubleshoot iPhone Sound Control: Top 7 Solutions for Malfunctioning Volume Buttons</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1260,21 +1317,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/safari-not-loading-images-on-your-iphone-9-ways-to-fix-it/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/396dd6f1f5f85b43c32a2f0c48b141d6c784c244e29fb18f62cea6ab6fd668ed.jpg" alt="Safari Not Loading Images on Your iPhone? 9 Ways to Fix It" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/immediate-repairs-needed-troubleshooting-non-responsive-emoji-suggestions-on-ios-devices/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/276d97c36ad2008d7cfbd98152b79e1acd5c5f1c2ed18f1585db86304b623852.jpg" alt="Immediate Repairs Needed: Troubleshooting Non-Responsive Emoji Suggestions on iOS Devices" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/safari-not-loading-images-on-your-iphone-9-ways-to-fix-it/">
-                            Safari Not Loading Images on Your iPhone? 9 Ways to Fix It
+                        <a href="/immediate-repairs-needed-troubleshooting-non-responsive-emoji-suggestions-on-ios-devices/">
+                            Immediate Repairs Needed: Troubleshooting Non-Responsive Emoji Suggestions on iOS Devices
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Safari Not Loading Images on Your iPhone? 9 Ways to Fix It</p>
+                            <p>This Article Describes Immediate Repairs Needed: Troubleshooting Non-Responsive Emoji Suggestions on iOS Devices</p>
 
                         
                     </div>
@@ -1282,7 +1339,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sat Jul 20 2024 03:08:57 GMT+0800">
+            <span class="home-article-date" data-date="Sat Jul 20 2024 03:14:42 GMT+0800">
                 
                     2024-07-20
                 
@@ -1325,7 +1382,7 @@
         
     </div>
 
-    <a href="/safari-not-loading-images-on-your-iphone-9-ways-to-fix-it/">Read more<span class="seo-reader-text">Safari Not Loading Images on Your iPhone? 9 Ways to Fix It</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/immediate-repairs-needed-troubleshooting-non-responsive-emoji-suggestions-on-ios-devices/">Read more<span class="seo-reader-text">Immediate Repairs Needed: Troubleshooting Non-Responsive Emoji Suggestions on iOS Devices</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1341,21 +1398,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/solving-iphone-close-call-issues-when-the-proximity-sensor-fails/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/cb431f215cf0eee5f553b44b6e0b6eba3871dc3f575a767398e1a9fe3bc5176a.jpg" alt="Solving iPhone Close Call Issues: When the Proximity Sensor Fails" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/say-goodbye-to-fuzzy-snapshots-top-7-fixes-for-a-crisp-iphone-photography-experience/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/e7857315bad256fdc5741086fa363d0007b6f6fca6b50e61093052da5a00ac70.jpg" alt="Say Goodbye to Fuzzy Snapshots: Top 7 Fixes for a Crisp iPhone Photography Experience" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/solving-iphone-close-call-issues-when-the-proximity-sensor-fails/">
-                            Solving iPhone Close Call Issues: When the Proximity Sensor Fails
+                        <a href="/say-goodbye-to-fuzzy-snapshots-top-7-fixes-for-a-crisp-iphone-photography-experience/">
+                            Say Goodbye to Fuzzy Snapshots: Top 7 Fixes for a Crisp iPhone Photography Experience
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Solving iPhone Close Call Issues: When the Proximity Sensor Fails</p>
+                            <p>This Article Describes Say Goodbye to Fuzzy Snapshots: Top 7 Fixes for a Crisp iPhone Photography Experience</p>
 
                         
                     </div>
@@ -1363,7 +1420,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sat Jul 20 2024 03:08:56 GMT+0800">
+            <span class="home-article-date" data-date="Sat Jul 20 2024 03:14:41 GMT+0800">
                 
                     2024-07-20
                 
@@ -1406,7 +1463,7 @@
         
     </div>
 
-    <a href="/solving-iphone-close-call-issues-when-the-proximity-sensor-fails/">Read more<span class="seo-reader-text">Solving iPhone Close Call Issues: When the Proximity Sensor Fails</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/say-goodbye-to-fuzzy-snapshots-top-7-fixes-for-a-crisp-iphone-photography-experience/">Read more<span class="seo-reader-text">Say Goodbye to Fuzzy Snapshots: Top 7 Fixes for a Crisp iPhone Photography Experience</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1422,21 +1479,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/unequal-volume-in-earbuds-explained-find-out-why-and-four-remedies/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/454a5d400e77a7a30fc6fb5cf37376c887407a08a4d33d69cb3dc289d466caa6.jpg" alt="Unequal Volume in Earbuds Explained - Find Out Why and Four Remedies" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/navigating-the-challenges-of-iphone-photography-tips-and-fixes-for-better-results/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/80e9505289538424f43d5ba12eaf938497fe9485f8cac83a0e7062f472435b7f.jpg" alt="Navigating the Challenges of iPhone Photography: Tips &amp; Fixes for Better Results" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/unequal-volume-in-earbuds-explained-find-out-why-and-four-remedies/">
-                            Unequal Volume in Earbuds Explained - Find Out Why and Four Remedies
+                        <a href="/navigating-the-challenges-of-iphone-photography-tips-and-fixes-for-better-results/">
+                            Navigating the Challenges of iPhone Photography: Tips &amp; Fixes for Better Results
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Unequal Volume in Earbuds Explained - Find Out Why and Four Remedies</p>
+                            <p>This Article Describes Navigating the Challenges of iPhone Photography: Tips &amp; Fixes for Better Results</p>
 
                         
                     </div>
@@ -1444,7 +1501,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sat Jul 20 2024 03:08:56 GMT+0800">
+            <span class="home-article-date" data-date="Sat Jul 20 2024 03:14:41 GMT+0800">
                 
                     2024-07-20
                 
@@ -1487,7 +1544,7 @@
         
     </div>
 
-    <a href="/unequal-volume-in-earbuds-explained-find-out-why-and-four-remedies/">Read more<span class="seo-reader-text">Unequal Volume in Earbuds Explained - Find Out Why and Four Remedies</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/navigating-the-challenges-of-iphone-photography-tips-and-fixes-for-better-results/">Read more<span class="seo-reader-text">Navigating the Challenges of iPhone Photography: Tips &amp; Fixes for Better Results</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1497,7 +1554,7 @@
 
     <div class="home-paginator px-7 py-5">
         <div class="paginator">
-    <a class="extend prev" rel="prev" href="/page/852/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/851/">851</a><a class="page-number" href="/page/852/">852</a><span class="page-number current">853</span><a class="page-number" href="/page/854/">854</a><a class="page-number" href="/page/855/">855</a><span class="space">&hellip;</span><a class="page-number" href="/page/880/">880</a><a class="extend next" rel="next" href="/page/854/"><i class="fa-regular fa-angle-right"></i></a>
+    <a class="extend prev" rel="prev" href="/page/852/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/851/">851</a><a class="page-number" href="/page/852/">852</a><span class="page-number current">853</span><a class="page-number" href="/page/854/">854</a><a class="page-number" href="/page/855/">855</a><span class="space">&hellip;</span><a class="page-number" href="/page/963/">963</a><a class="extend next" rel="next" href="/page/854/"><i class="fa-regular fa-angle-right"></i></a>
 </div>
 
     </div>
