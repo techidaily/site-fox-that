@@ -1,7 +1,7 @@
 ---
 title: "How to Restore Functionality to a Broken iPhone Home Push: 5 Easy Fixes!"
-date: 2024-07-20T03:19:59.160Z
-updated: 2024-07-21T03:19:59.160Z
+date: 2024-09-09T11:27:07.752Z
+updated: 2024-09-10T11:27:07.752Z
 tags:
   - iphone
   - apple
@@ -19,12 +19,21 @@ thumbnail: https://thmb.techidaily.com/0ee75a1caf32369cd8820b736a236dfed0354f2e5
  Before we start, we should clarify that these fixes work with every model of iPhone, iPad, or iPod touch that has a Home button. Whether you have an iPhone 8 or an iPhone SE, if the Home button isn't working you can use the tips below to fix it.
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 1\. Add an AssistiveTouch Home Button to the Screen
 
 ![AssistiveTouch button on iPhone Home Screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/AssistiveTouch-button-on-iPhone-Home-Screen.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![AssistiveTouch menu on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/AssistiveTouch-menu-on-iPhone.jpg)
 
 Close
@@ -41,13 +50,19 @@ Close
 
 ![iPhone General Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/iPhone-General-Settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![iPhone Accessibility Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/iPhone-Accessibility-Settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ![iPhone Touch Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/iPhone-Touch-Settings.jpg)
 
@@ -56,13 +71,13 @@ Close
  It's worth taking a moment to customize the AssistiveTouch options from the Settings to make it as useful as possible. If you only use it as a Home button, you can even make that the only option, so you don't need to open a popup menu anymore.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115908/19272" target="_top" id="2115908">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115908" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115908/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 2\. "Recalibrate" the Home Button
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Slide to power off prompt on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/03/Slide-to-power-off-prompt-on-iphone.jpg)
 
  We've used "recalibrate" in quotes here because this is not an official term. In fact, there doesn't seem to be a definitive source for this trick, but it's proven to be effective at fixing iPhone Home buttons regardless of why they aren't working.
@@ -83,6 +98,18 @@ Here's what you need to do:
 
 ![iPhone restore window from Finder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/03/iPhone-restore-window-from-Finder.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  This one isn't a quick method, but it still might be the quickest way to get your iPhone Home button working. A lot of the time when the Home button isn't working, it comes down to a fault in the software or firmware on your iPhone. You can fix these issues for free by restoring the device using DFU mode.
 
  When you do this, it erases all the data from your iPhone. So you should [make sure you've got a recent iPhone backup](https://www.makeuseof.com/tag/how-to-backup-iphone-ipad/) first.
@@ -91,11 +118,14 @@ Here's what you need to do:
 
  Follow the instructions in our guide to [restoring your iPhone using DFU mode](https://www.makeuseof.com/what-is-dfu-mode-iphone-and-how-to-use-it/) . If that doesn't work, you know your Home button definitely has a hardware problem. One of the other tips below can still help you fix it, though.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. Clean the Home Button Using Isopropyl Alcohol
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Cleaning iPhone Home button with microfiber cloth](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/03/Cleaning-iPhone-Home-button-with-microfiber-cloth.jpg)
 
  As you use the Home button throughout the life of your iPhone, it's likely to collect a buildup of dirt and grime. That filth might clog the mechanism, which could explain why the Home button stopped working. Unfortunately, this tip can't help if the Home button isn't working on an iPhone 7, an iPhone SE, or later because those devices don't feature a mechanical button.
@@ -106,10 +136,22 @@ Here's the proper way to clean the Home button on your iPhone:
 2. If that doesn't work, lightly dampen the cloth with 98 to 99 percent isopropyl alcohol. This evaporates in the air, so it shouldn't cause damage to your iPhone components.
 3. Rub the alcohol over the Home button while repeatedly clicking it. As you click the Home button, the alcohol should work its way inside to loosen any dirt.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5\. Use Your Charger to Press Against the Home Button
 
 ![iPhone 6S with pressure on charging cable](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/03/iPhone-6S-with-pressure-on-charging-cable.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  The Home button connects to other components inside your iPhone using a fragile cable near the charging port. Some people have fixed their Home button by applying a small amount of pressure in this area, presumably because doing so reconnected the cable.
 
  Of course, you need to be incredibly careful when trying this. You don't want to break anything inside your iPhone. You also need to be careful you don't snap off the Lightning or 30-pin connector inside the charging port, which can be almost impossible to remove.
@@ -122,14 +164,6 @@ Follow these simple steps to try it:
 
  You will hopefully find that this fixes the Home button on your iPhone for a few weeks or more. However, you'll probably need to get the Home button on your iPhone replaced eventually. With an iPhone 7 or later, you can't replace the Home button, so you may need a replacement device instead.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ## Find Out How to Replace the Home Button Yourself
 
  If your iPhone is less than a year old, it might still be covered by Apple's one-year warranty. That means you can make an appointment at the Genius Bar in your nearest Apple Store to have Apple repair your Home button for free.
@@ -154,3 +188,40 @@ Follow these simple steps to try it:
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-posting-videos-on-twitter-step-by-step/"><u>[New] 2024 Approved Posting Videos on Twitter Step-by-Step</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-twilight-treasures-iphone-night-photography-secrets/"><u>[New] Twilight Treasures IPhone Night Photography Secrets</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-audio-docking-systems-for-immersive-experience/"><u>[Updated] In 2024, Audio Docking Systems for Immersive Experience</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-mastering-mov-to-mpeg-4-conversion-on-win-11/"><u>[Updated] In 2024, Mastering MOV to MPEG-4 Conversion on Win 11</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-the-ultimate-guide-to-designing-captivating-podcast-logos/"><u>[Updated] In 2024, The Ultimate Guide to Designing Captivating Podcast Logos</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-premier-digital-classrooms-alternatives-to-udemys-model/"><u>2024 Approved Premier Digital Classrooms Alternatives to Udemy's Model</u></a></li>
+<li><a href="https://fox-that.techidaily.com/6-effective-fixes-for-non-responsive-aol-email-apps-on-iphones/"><u>6 Effective Fixes for Non-Responsive AOL Email Apps on iPhones</u></a></li>
+<li><a href="https://howto.techidaily.com/app-wont-open-on-your-vivo-y78t-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Vivo Y78t? Here Are All Fixes | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/complete-guide-reviving-your-iphone-without-using-buttons/"><u>Complete Guide: Reviving Your iPhone Without Using Buttons</u></a></li>
+<li><a href="https://fox-that.techidaily.com/complete-walkthrough-forcing-reboot-your-iphone-and-entering-device-service-mode/"><u>Complete Walkthrough: Forcing Reboot Your iPhone & Entering Device Service Mode</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/expressive-power-of-the-german-tongue-top-25-phrases-guide/"><u>Expressive Power of the German Tongue: Top 25 Phrases Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-a-lagging-iphone-6-common-issues-and-remedies/"><u>Fixing a Lagging iPhone: 6 Common Issues and Remedies</u></a></li>
+<li><a href="https://fox-that.techidaily.com/guide-track-down-your-loststolen-iphone-through-the-find-my-service/"><u>Guide: Track Down Your Lost/Stolen iPhone Through the Find My Service</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-tecno-spark-go-2024-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Tecno Spark Go (2024) | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-iphone-14-plus-device-from-icloud-by-drfone-ios/"><u>In 2024, How to Remove iPhone 14 Plus Device from iCloud</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-tecno-spark-20-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Tecno Spark 20 to PC? | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-auto-dim-functionality-explained-here-are-the-top-10-triggers-for-you/"><u>IPhone Auto-Dim Functionality Explained: Here Are the Top 10 Triggers for You</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/mastering-online-play-in-depth-guide-to-using-kinemaster-and-its-rivals-for-2024/"><u>Mastering Online Play In-Depth Guide to Using KineMaster and Its Rivals for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-guided-access-problems-on-ios-devices-top-six-fixes/"><u>Overcoming Guided Access Problems on iOS Devices – Top Six Fixes!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/quick-fixes-for-a-slow-safari-on-ios-devices-discover-4-effective-strategies/"><u>Quick Fixes for a Slow Safari on iOS Devices - Discover 4 Effective Strategies</u></a></li>
+<li><a href="https://fox-that.techidaily.com/rescue-your-wi-fi-connection-5-quick-fixes-for-iphones-with-persistent-drops/"><u>Rescue Your Wi-Fi Connection! 5 Quick Fixes for iPhones with Persistent Drops</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolving-hurdles-in-family-subscription-management-6-effective-strategies-for-seamless-sharing/"><u>Resolving Hurdles in Family Subscription Management: 6 Effective Strategies for Seamless Sharing</u></a></li>
+<li><a href="https://fox-that.techidaily.com/six-proven-fixes-for-when-your-ipadiphone-typing-doesnt-work-a-step-by-step-guide/"><u>Six Proven Fixes for When Your iPad/iPhone Typing Doesn't Work: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-the-roblox-ios-memory-error-a-step-by-step-guide/"><u>Solving the Roblox iOS Memory Error: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/steps-to-resolve-missed-inbound-call-problems-on-an-iphone/"><u>Steps to Resolve Missed Inbound Call Problems on an iPhone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/streaming-through-vlc-a-comprehensive-guide-to-mp4-and-format-switches-for-2024/"><u>Streaming Through VLC A Comprehensive Guide to MP4 & Format Switches for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/struggling-with-ios-updates-for-your-device-here-are-9-fixes-that-work/"><u>Struggling with iOS Updates for Your Device? Here Are 9 Fixes that Work</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-5-challenges-in-sending-presents-via-iphone-or-ipad/"><u>Top 5 Challenges in Sending Presents via iPhone or iPad</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-6-troubleshooting-steps-stop-airpods-from-sticking-to-one-device/"><u>Top 6 Troubleshooting Steps: Stop AirPods From Sticking to One Device</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/top-tips-for-leveraging-manycam-in-your-live-streaming-setup-with-virtual-cam-features/"><u>Top Tips for Leveraging ManyCam in Your Live Streaming Setup with Virtual Cam Features</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-iphone-13-glitches-with-these-6-easy-fixes/"><u>Troubleshoot iPhone 13 Glitches with These 6 Easy Fixes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-steps-for-restarting-a-frozen-iphone-display/"><u>Troubleshooting Steps for Restarting a Frozen iPhone Display</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unmuted-or-stuck-on-sound-learn-how-to-manage-your-iphones-volume-settings-without-the-side-button/"><u>Unmuted or Stuck on Sound? Learn How to Manage Your iPhone's Volume Settings Without the Side Button</u></a></li>
+</ul></div>

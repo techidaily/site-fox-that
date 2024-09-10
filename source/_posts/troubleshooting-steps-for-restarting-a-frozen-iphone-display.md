@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Steps for Restarting a Frozen iPhone Display
-date: 2024-09-05T02:47:23.355Z
-updated: 2024-09-06T02:47:23.355Z
+date: 2024-09-09T11:29:17.351Z
+updated: 2024-09-10T11:29:17.351Z
 tags:
   - iphone
   - apple
@@ -24,6 +24,18 @@ thumbnail: https://thmb.techidaily.com/e108c80fe0ffda075f564c0d5802af9b2462fc3f4
 
  Force restarting requires a combination of button presses, which varies depending on the iPhone model you have. But we've covered [how to force restart any iPhone](http://www.makeuseof.com/iphone-soft-reset/) in detail if you'd like to take a look.
 
+<!-- affiliate ads begin -->
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. Restore Your iPhone With iTunes or Finder
 
  If your iPhone doesn't restart even after you've tried the above steps, you need to factory reset it. You can do so with the help of iTunes on PC or Finder on Mac.
@@ -35,8 +47,20 @@ thumbnail: https://thmb.techidaily.com/e108c80fe0ffda075f564c0d5802af9b2462fc3f4
 1. Click the**Device** button near the top left of the iTunes app window. On a Mac, select your iPhone from the sidebar.  
 ![Device icon on the iTunes main screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/device-icon-itunes-1.jpeg)
 2. Now, click on**Summary** in the iTunes sidebar. But if you're on a Mac, head to**General** instead. Here, you'll see the**Restore iPhone** button on the right. Click on it.  
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Restore iPhone iTunes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/restore-iphone-itunes.JPG)
 3. If you get an alert message prompting you to turn off Find My before restoring your device, you can [disable the Find My feature from iCloud](https://www.makeuseof.com/tag/how-to-turn-off-find-my-iphone/) by logging into your iCloud ID and erasing your iPhone.  
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![FindMy must be turned off alert message on iTunes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/findmy-must-be-turned-off-itunes.JPG)
 4. A dialog box may appear on the screen asking whether you want to back up your settings before restoring your iPhone. Click**Back Up** and follow the on-screen instructions to restore your iPhone.  
 ![Backup request message on iTunes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/backup-request-itunes.JPG)
@@ -44,10 +68,10 @@ thumbnail: https://thmb.techidaily.com/e108c80fe0ffda075f564c0d5802af9b2462fc3f4
  If you're connecting your device for the first time to iTunes or Finder, an alert message will appear on your iPhone, asking you whether you trust this computer. You cannot proceed unless you tap**Trust** on your phone, making it impossible to restore your device by following the steps mentioned above. In that case, you'll have to hard reset your iPhone using either the recovery or DFU mode.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 3\. Use Recovery Mode to Factory Reset Your iPhone
 
@@ -57,21 +81,15 @@ thumbnail: https://thmb.techidaily.com/e108c80fe0ffda075f564c0d5802af9b2462fc3f4
 
 ![an image showing the pop up that appears when mac discovers an iphone in recovery mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/ios-downgrade-iphone-recovery-mode-restore-pop-up.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [Apple](https://support.apple.com/HT201263)
 
  iTunes or Finder will now show a pop-up message to indicate that it has detected an iPhone in recovery mode, after which you can choose to**Update** or**Restore** your device.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 4\. Take Your iPhone to Apple
 
@@ -82,10 +100,10 @@ thumbnail: https://thmb.techidaily.com/e108c80fe0ffda075f564c0d5802af9b2462fc3f4
  Bear in mind that Apple's standard one-year warranty does not cover any replacements or repairs for damaged screens. So, you'd have to pay a fee to get your phone serviced, which is [why we think AppleCare+ is worth it](https://www.makeuseof.com/tag/applecare-what-are-your-options-is-it-really-worth-it/) .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2123481/16836" target="_top" id="2123481">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123481" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123481/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Revive Your iPhone's Screen With These Fixes
 

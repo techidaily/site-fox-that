@@ -1,7 +1,7 @@
 ---
 title: Struggling with Sounds Shifting on Your AirPods? Try Turning Off Dynamic Head Tracking
-date: 2024-09-05T02:47:15.543Z
-updated: 2024-09-06T02:47:15.543Z
+date: 2024-09-09T11:29:17.455Z
+updated: 2024-09-10T11:29:17.455Z
 tags:
   - iphone
   - apple
@@ -18,6 +18,12 @@ thumbnail: https://thmb.techidaily.com/3dcb6c62df72cedd3cd399cfd308e616854c3b7c7
 
  Below, we’ll explain what Dynamic Head Tracking is and how to customize it for each app on your iPhone.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2114265/17093" target="_top" id="2114265">
+  <img src="//a.impactradius-go.com/display-ad/17093-2114265" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114265/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What Is Dynamic Head Tracking?
 
  Apple introduced Dynamic Head Tracking alongside [Spatial Audio on the iPhone](https://www.makeuseof.com/what-is-spatial-audio/) to create a more immersive audio experience. Essentially, it uses sensors in your AirPods to track your head movement, then adjusts the audio so it always sounds like it’s coming from the direction of your iPhone.
@@ -28,6 +34,12 @@ thumbnail: https://thmb.techidaily.com/3dcb6c62df72cedd3cd399cfd308e616854c3b7c7
 
  This is great when you’re watching a movie: whenever you turn your head, the audio still sounds as though it’s coming from your screen, rather than moving with your head. But it’s not so great if you’re listening to a podcast with your phone in your pocket, when you always want the audio to be centered regardless of which direction you turn your head.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115919/19272" target="_top" id="2115919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115919" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How Do I Turn Off Dynamic Head Tracking?
 
  To disable Dynamic Head Tracking completely, go to**Settings > Accessibility > AirPods** and disable the**Follow iPhone** option.
@@ -45,17 +57,35 @@ thumbnail: https://thmb.techidaily.com/3dcb6c62df72cedd3cd399cfd308e616854c3b7c7
 
 ![Control Center showing AirPods Volums](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/Control-Center-showing-AirPods-Volums.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2121334/18498" target="_top" id="2121334">
+  <img src="//a.impactradius-go.com/display-ad/18498-2121334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121334/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![AirPods Volume slider showing Spatial Audio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/AirPods-Volume-slider-showing-Spatial-Audio-button.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![AirPods Spatial Audio options in Control Center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/AirPods-Spatial-Audio-options-in-Control-Center.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123482/16836" target="_top" id="2123482">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123482/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Close
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Some Sounds Are Best Fixed in Place
 

@@ -1,7 +1,7 @@
 ---
 title: "Beating iPhone X Bugs: The 7 Most Vexing Issues & How to Tackle Them"
-date: 2024-09-05T02:50:32.911Z
-updated: 2024-09-06T02:50:32.911Z
+date: 2024-09-09T11:29:14.562Z
+updated: 2024-09-10T11:29:14.562Z
 tags:
   - iphone
   - apple
@@ -20,6 +20,12 @@ thumbnail: https://thmb.techidaily.com/149d89db1d566f99ab4d551162b9bf69c95986fcd
 
  So let's take a look at some of the frustrations, design flaws, and defects that iPhone X users can encounter, and attempt to solve them.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. Face ID Won't Work
 
  Probably the most common complaint about the iPhone X relates to the TrueDepth camera and Face ID. Just like Touch ID on older devices, Face ID doesn't work properly all the time.
@@ -30,6 +36,12 @@ thumbnail: https://thmb.techidaily.com/149d89db1d566f99ab4d551162b9bf69c95986fcd
 
 ![iPhone X TrueDepth "notch"](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2017/11/iphone_x_19.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  When Face ID fails and prompts you for a passcode, it attempts to learn and adapt to your appearance to prevent the same problem happening again. But if someone else unlocks your phone with your passcode, it may lead to unwanted changes to your Face ID profile. We don't know for certain how Face ID works, but resetting your profile from time to time may help.
 
  Some users have reported that Face ID refuses to work altogether. This is an issue that Apple has [acknowledged](https://9to5mac.com/2018/05/06/face-id-rear-camera-repair-iphone-x/) , prompting replacements of the camera unit (both front and rear-facing) on affected devices. Some users have had their devices replaced entirely.
@@ -45,16 +57,10 @@ thumbnail: https://thmb.techidaily.com/149d89db1d566f99ab4d551162b9bf69c95986fcd
  There's no way to change the shortcut, which means the only fix is a workaround. You'll need to get a case with a recessed side button, which prevents you from unwittingly triggering the shortcut. The Quad Lock case (above) that I use on my iPhone X is one of the [many quality iPhone X cases](https://www.makeuseof.com/tag/best-iphone-x-cases/) to incorporate this into the design.
 
 <!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 3\. iPhone X Hair Pulling
 
@@ -62,14 +68,20 @@ thumbnail: https://thmb.techidaily.com/149d89db1d566f99ab4d551162b9bf69c95986fcd
 
 ![iPhone X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2017/11/iphone_x_7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  It's not clear whether that means some models of the iPhone X are worse for this. A snug case that covers the bezel gap should fix the issue (while protecting your device at the same time).
 
+<!-- affiliate ads begin -->
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. Screen Issues: Color Shift, Screen Burn, and Green Lines
 
  The iPhone X uses the first OLED display ever seen in an iPhone. Though Apple has used OLED displays before in both the Apple Watch and MacBook Pro Touch Bar, the iPhone X represents a leap forward in iPhone screen technology. Unfortunately, it's not without its share of issues.
@@ -86,12 +98,6 @@ thumbnail: https://thmb.techidaily.com/149d89db1d566f99ab4d551162b9bf69c95986fcd
 
  The final display issue relates to vertical green lines appearing on the screen over time. This is not normal, and Apple has replaced affected units as the issue appears. It seems this was related to early iPhone X models. The fix here is to contact Apple for a replacement.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Phone Call and Touch Screen Delay Issues
 
  Two (unrelated but similar) issues occurred on earlier versions of iOS 11\. The first was an issue with calls: the screen would light up and your ringtone would play, but the answer/decline call prompt never appeared.
@@ -100,6 +106,12 @@ thumbnail: https://thmb.techidaily.com/149d89db1d566f99ab4d551162b9bf69c95986fcd
 
 ![iPhone X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2017/11/iphone_x_1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Apple fixed both of these issues via a software update, so if you're encountering either make sure you're running the latest version of iOS under**Settings > General > Software Update** . If you encounter any other issues like this after updating, it's time to talk to Apple.
 
  Another touch screen issue you might encounter is the "ghost touch", where your iPhone performs actions by itself. To resolve this problem,[a few ghost touch fixes](https://www.makeuseof.com/tag/fix-ghost-touch-on-iphone/) are available.
@@ -107,16 +119,10 @@ thumbnail: https://thmb.techidaily.com/149d89db1d566f99ab4d551162b9bf69c95986fcd
  Regardless of your iPhone model, you might also come across problems with text message delivery. But there are easy [fixes you can try if your iPhone won't send messages](https://www.makeuseof.com/tag/iphone-wont-send-text-messages/) .
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 6\. Wireless Charging Issues
 
@@ -125,10 +131,16 @@ thumbnail: https://thmb.techidaily.com/149d89db1d566f99ab4d551162b9bf69c95986fcd
 ![Apple AirPower](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2018/08/apple_airpower.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
-  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Try removing the cards if you're having charging issues. If you're not using a folio case (or you've already removed the cards) then make sure you're using a high-quality wireless charger.
 
@@ -140,12 +152,6 @@ thumbnail: https://thmb.techidaily.com/149d89db1d566f99ab4d551162b9bf69c95986fcd
 
 ![iPhone X Speaker Array](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2017/11/iphone_x_4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you do encounter the issue, try updating your software to the latest version. If you don't see an improvement, let Apple know so a technician can repair your device.
 
 ## Other Crashes, Freezing, and General Responsiveness

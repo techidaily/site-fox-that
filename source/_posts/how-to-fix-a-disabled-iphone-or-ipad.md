@@ -1,7 +1,7 @@
 ---
 title: How to Fix a Disabled iPhone or iPad
-date: 2024-07-20T03:20:40.319Z
-updated: 2024-07-21T03:20:40.320Z
+date: 2024-09-09T11:25:09.682Z
+updated: 2024-09-10T11:25:09.682Z
 tags:
   - iphone
   - apple
@@ -22,6 +22,18 @@ thumbnail: https://thmb.techidaily.com/43dc38eef47f27063f0ee863ee1d82afec1855627
 
 ![disabled iphone message](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/11/disabled-iphone-message.png)
 
+<!-- affiliate ads begin -->
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Most iPhones and iPads become disabled after too many failed unlock attempts. If you enter your password wrong six times in a row, for example, you will get a message saying that your iPhone has been disabled for one minute.
 
  Once that one minute is up, another failed attempt will disable the iPhone for five minutes, then 15 minutes, then 30, and lastly one hour. Sometimes, this can happen without you realizing it, if your device is in a bag and getting knocked around.
@@ -32,23 +44,12 @@ thumbnail: https://thmb.techidaily.com/43dc38eef47f27063f0ee863ee1d82afec1855627
 
  While a disabled iPhone or iPad be annoying, there are several things you can do to get back in and start using your device again. They mostly involve erasing your device and restoring the latest backup.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Restore a Disabled iPhone or iPad Backup With a Computer
 
  One of the easiest ways to fix a disabled device is with Finder on a Mac (or iTunes on a Windows PC). If you use your iPhone or iPad with a computer frequently, you might have a backup on file and can quickly restore your device and get it running correctly again.
 
  To restore your iPhone or iPad with a computer, simply connect your device to your computer using the USB cable. Then open up Finder or iTunes and you will see your device in the sidebar or upper left-hand corner. Click**Summary > Restore Backup** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![iphone restore backup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/11/iphone-restore-backup.png)
 
 **Note:** Some users will be automatically asked to restore after plugging in a disabled device. Some users will also only see a**Restore iPhone** or**Restore iPad** option if they don’t have a backup on file.
@@ -63,11 +64,14 @@ thumbnail: https://thmb.techidaily.com/43dc38eef47f27063f0ee863ee1d82afec1855627
 
  If you use iCloud, you can log in and erase your iPhone or iPad there. Simply head to [icloud.com/find](http://www.icloud.com/find/) and log in to your account. On the Find My iPhone page, select**Erase iPhone** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ![find iphone erase](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/11/find-iphone-erase.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Once this is done, you can use your iPhone or iPad again immediately, but you’ll need to restore a backup to get all your data back. Since iCloud is frequently used, your contacts and photos will automatically restore. Once you sign in to your iCloud account again, your device will take care of the rest.
 
 After this, your device is ready to use again.
@@ -94,16 +98,22 @@ After this, your device is ready to use again.
 
  Once your device is in Recovery Mode, it will appear on your computer and you will get a notification saying that there is a problem with the device and it needs to be updated or restored.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![iphone recovery mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/11/iphone-recovery-mode.png)
 
+<!-- affiliate ads begin -->
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  When this appears, hit**Restore** and your device will be wiped. It may take a long time for it to restore (sometimes a few hours), but once it is done, your device will be ready to use again.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ## Contact Apple for More Support
 
  If for some reason your device can’t be restored using any of the methods above, or if you have a broken button that won’t allow you to put it in Recovery Mode, the last resort would be to contact Apple.
@@ -113,7 +123,10 @@ After this, your device is ready to use again.
  This option usually only works for those who purchased an iPhone directly from Apple, but it is worth a try.
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Preventing Future Issues
 
@@ -125,8 +138,20 @@ After this, your device is ready to use again.
 
 ![icloud backups](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/11/icloud-backups.PNG)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![icloud setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/11/icloud-setting.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115936/19272" target="_top" id="2115936">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115936" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115936/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Close
 
  If you already have an Apple ID, be sure to head to the iCloud settings to make sure Photos and iCloud Backup are on.
@@ -137,10 +162,19 @@ Close
 
 ![iphone settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/11/iphone-settings.PNG)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Close
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<a href="https://25home.pxf.io/c/5597632/2123481/16836" target="_top" id="2123481">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123481" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123481/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Unlocking Your iPhone or iPad
 
@@ -162,3 +196,54 @@ Close
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-concoct-chuckles-giphy-edition/"><u>[New] Concoct Chuckles - Giphy Edition</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-from-concept-to-completion-producing-a-viral-facebook-reel-for-2024/"><u>[New] From Concept to Completion Producing a Viral Facebook Reel for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-exploring-realms-of-patience-in-iphone-filmmaking/"><u>[New] In 2024, Exploring Realms of Patience in iPhone Filmmaking</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-11-useful-youtube-seo-tips-to-help-rank-your-video-high/"><u>[Updated] 2024 Approved 11 Useful YouTube SEO Tips to Help Rank Your Video High</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-inauguration-setting-up-a-twitter-profile/"><u>[Updated] In 2024, Inauguration Setting Up a Twitter Profile</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-understanding-instagrams-tune-trademark-policies/"><u>[Updated] In 2024, Understanding Instagram's Tune Trademark Policies</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-quick-steps-for-recording-insta-stories-for-2024/"><u>[Updated] Quick Steps for Recording Insta Stories for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-how-to-make-a-photomontage/"><u>2024 Approved How to Make a PhotoMontage</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-must-have-talker-alteration-tech-for-content-makers/"><u>2024 Approved Must-Have Talker Alteration Tech for Content Makers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-transitioning-photos-from-physical-to-digital-storage/"><u>2024 Approved Transitioning Photos From Physical to Digital Storage</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-unveiling-the-power-of-high-quality-gaming-screenshots/"><u>2024 Approved Unveiling the Power of High-Quality Gaming Screenshots</u></a></li>
+<li><a href="https://fox-that.techidaily.com/avoid-typing-blunders-on-your-iphone-by-learning-how-to-tame-autocorrect-in-6-ways/"><u>Avoid Typing Blunders on Your iPhone by Learning How to Tame Autocorrect in 6 Ways</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/best-8-virtual-backdrops-for-macbook-upgrades-for-2024/"><u>Best 8 Virtual Backdrops for MacBook Upgrades for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-audacity-sound-error-in-windows-10-and-11/"><u>Bypassing Audacity Sound Error in Windows 10 & 11</u></a></li>
+<li><a href="https://fox-that.techidaily.com/cant-rotate-your-iphone-screen-here-are-quick-tips-to-switch-between-modes/"><u>Can't Rotate Your iPhone Screen? Here Are Quick Tips to Switch Between Modes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/deep-dive-into-iphones-dfu-mode-and-its-step-by-step-application-process/"><u>Deep Dive Into iPhone's DFU Mode & Its Step-by-Step Application Process</u></a></li>
+<li><a href="https://fox-that.techidaily.com/diy-iphone-reboot-tactics-bypassing-itunes/"><u>DIY iPhone Reboot Tactics - Bypassing iTunes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/find-your-vanished-iphone-with-ease-using-the-latest-find-my-app-techniques/"><u>Find Your Vanished iPhone with Ease Using the Latest Find My App Techniques</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-compatibility-problems-with-your-iphone-and-its-peripherals-comprehensive-guide/"><u>Fixing Compatibility Problems with Your iPhone and Its Peripherals – Comprehensive Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-the-glitch-steps-to-restore-text-message-reception-on-iphone/"><u>Fixing the Glitch: Steps to Restore Text Message Reception on iPhone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/free-fix-swiftly-vanish-coffee-stains-from-your-iphone-pics/"><u>Free Fix Swiftly Vanish Coffee Stains From Your iPhone Pics</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-huawei-p60-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Huawei P60 Phones with/without a PC</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-overcome-end-of-text-reached-error-on-your-ios-device/"><u>How to Overcome 'End of Text Reached' Error on Your iOS Device</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-overcome-iphones-guided-access-problem-6-essential-steps/"><u>How to Overcome iPhone's Guided Access Problem: 6 Essential Steps</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-shorten-your-iphone-screen-turn-off-time-expert-tips-and-tricks/"><u>How to Shorten Your iPhone Screen Turn-Off Time: Expert Tips & Tricks</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-lava-yuva-2-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Lava Yuva 2 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/infinix-note-30-vip-racing-edition-unlock-tool-remove-android-phone-password-pin-pattern-and-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Infinix Note 30 VIP Racing Edition Unlock Tool - Remove android phone password, PIN, Pattern and fingerprint</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-control-center-issues-resolved-follow-these-8-strategies-to-restore-functionality/"><u>IPhone Control Center Issues Resolved: Follow These ✨8 Strategies to Restore Functionality!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphones-data-connection-failing-here-are-10-proven-ways-to-rectify-it/"><u>IPhone's Data Connection Failing? Here Are 10 Proven Ways to Rectify It</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/pictorial-perfection-proven-techniques-for-stunning-photos/"><u>Pictorial Perfection Proven Techniques for Stunning Photos</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-lava-blaze-pro-5g-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Lava Blaze Pro 5G? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolving-not-delivered-errors-in-ios-messaging-a-guide/"><u>Resolving 'Not Delivered' Errors in iOS Messaging - A Guide</u></a></li>
+<li><a href="https://driver-download.techidaily.com/resolving-logitech-f710-driver-problems-in-windows-11-10-8-and-7/"><u>Resolving Logitech F710 Driver Problems in Windows 11, 10, 8 & 7</u></a></li>
+<li><a href="https://fox-that.techidaily.com/retrieve-accidentally-erased-iphone-notetaking-a-step-by-step-guide/"><u>Retrieve Accidentally Erased iPhone Notetaking: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/revive-disabled-icloud-settings-top-4-fixes-for-your-iphoneipad/"><u>Revive Disabled iCloud Settings: Top 4 Fixes for Your iPhone/iPad</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solve-your-iphones-aol-mail-problems-6-proven-methods/"><u>Solve Your iPhone's AOL Mail Problems: 6 Proven Methods</u></a></li>
+<li><a href="https://fox-that.techidaily.com/step-by-step-guide-clearing-liquid-contact-alarm-from-iphones-usb-c-port/"><u>Step-by-Step Guide: Clearing Liquid Contact Alarm From iPhone's USB-C Port</u></a></li>
+<li><a href="https://fox-that.techidaily.com/stop-the-flash-seven-effective-fixes-for-a-smooth-screen-experience-on-your-mobile-device/"><u>Stop the Flash: Seven Effective Fixes for a Smooth Screen Experience on Your Mobile Device</u></a></li>
+<li><a href="https://fox-that.techidaily.com/struggling-with-the-iphones-contacts-application-here-are-three-quick-remedies/"><u>Struggling with the iPhone's Contacts Application? Here Are Three Quick Remedies</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-face-id-issues-top-14-solutions-for-an-unresponsive-iphone/"><u>Troubleshooting Face ID Issues: Top 14 Solutions for an Unresponsive iPhone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-iphone-mobile-hotspot-issues-effective-solutions-and-fixes/"><u>Troubleshooting iPhone Mobile Hotspot Issues: Effective Solutions and Fixes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-tips-overcoming-challenges-in-using-family-sharing-for-subscriptions/"><u>Troubleshooting Tips: Overcoming Challenges in Using Family Sharing for Subscriptions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/ultimate-guide-resolving-no-ring-issues-on-your-iphone-with-these-11-solutions/"><u>Ultimate Guide: Resolving No-Ring Issues on Your iPhone with These 11 Solutions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlock-creativity-8-powerful-dall-e-3-text-prompts-to-generate-astonishing-images/"><u>Unlock Creativity: 8 Powerful DALL-E 3 Text Prompts to Generate Astonishing Images</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlocking-iphone-fixes-solving-5-major-problems-using-dfu-modes/"><u>Unlocking iPhone Fixes: Solving 5 Major Problems Using DFU Modes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/usb-c-safety-measures-corrective-actions-for-the-liquid-detected-notification-on-iphone-units/"><u>USB-C Safety Measures: Corrective Actions for the 'Liquid Detected' Notification on iPhone Units</u></a></li>
+<li><a href="https://fox-that.techidaily.com/why-wont-my-iphone-display-siris-suggestions-solutions-inside/"><u>Why Won’t My iPhone Display Siri's Suggestions? Solutions Inside!</u></a></li>
+</ul></div>

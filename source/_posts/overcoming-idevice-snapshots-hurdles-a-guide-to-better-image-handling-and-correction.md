@@ -1,7 +1,7 @@
 ---
 title: "Overcoming iDevice Snapshots Hurdles: A Guide to Better Image Handling and Correction"
-date: 2024-09-05T02:45:30.038Z
-updated: 2024-09-06T02:45:30.038Z
+date: 2024-09-09T11:29:18.987Z
+updated: 2024-09-10T11:29:18.987Z
 tags:
   - iphone
   - apple
@@ -24,6 +24,12 @@ thumbnail: https://thmb.techidaily.com/07ec08194f82a5c0eb7f1dbd160d4285a74e061c9
 
 ![managing iphone photos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2012/04/camera_roll.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  However, when you go to add selected Camera Roll photos into albums, you run into a problem. Say you just shot a set of Easter Sunday or other holiday photos and you put them into an Photo Library album for quick access and management. The problem occurs however when you want to delete those photos from Camera Roll, but leave a copy of them in a designated album. You can't do it. Photos deleted from the Camera Roll will also be deleted in other albums you add them to. (Note: they're not really added/copied to an album, just referenced to it.)
 
 ![processing iphone photos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2012/04/photostream_4.jpg)
@@ -36,10 +42,22 @@ thumbnail: https://thmb.techidaily.com/07ec08194f82a5c0eb7f1dbd160d4285a74e061c9
 
 ![processing iphone photos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2012/04/photostream_13.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Again, Photo Stream works well in this regard. However, while you can share photos via email, text message, Twitter, etc., you can't copy photos to separate albums on your iOS devices. You can do so, however, in iPhoto and Aperture. To have this done automatically, open the Preferences of these applications, and enable Automatic Import, of photos from Photo Stream. Photos will be copied into a separate album and labeled by the current month.
 
 ![iphone photo process](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2012/04/aperture.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118313/7443" target="_top" id="2118313">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118313" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118313/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The Problem
 
  So the biggest problem to me with managing photos on iOS device is the ability to copy photos to an album in your Photos Library and have those photos remain there, even if they are deleted from your Camera Roll and Photo Stream.
@@ -47,10 +65,10 @@ thumbnail: https://thmb.techidaily.com/07ec08194f82a5c0eb7f1dbd160d4285a74e061c9
  Being able to manage and keep photos into separate albums means not only can you can access them more easily, especially when you have hundreds of photos in your Camera Roll and Photo Stream, but it also means you can keep the original photos, and edit copies of them in say Instagram or other photo apps.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Solutions
 
@@ -58,49 +76,37 @@ thumbnail: https://thmb.techidaily.com/07ec08194f82a5c0eb7f1dbd160d4285a74e061c9
 
 ![iphone photo process](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2012/04/photostream_10.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  I use this app because it supports keywords and smart albums, similar to what is available in iPhoto and Aperture. I can easily tag imported photos and they automatically are placed in designated smart albums.
 
  Secondly, the biggest problem with the Camera Roll is that even with iOS 5, Apple still has not made it possible to select all photos on the Camera Roll with one tap. You literally have to tap each one of them separately and then tap the Delete button at the bottom. But there is another option.
 
 ![iphone photo process](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2012/04/iphonecamera.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you have hundreds of photos you need to delete from the Camera Roll, you can hook up your mobile camera device to your computer, and then open a built-in OS X application called Image Capture (in the Applications folder.) All your Camera Roll photos will show up in that application, and from there you can do a Command+A (Select All) and both import those photos onto your computer and delete from the Camera Roll on your device. Sadly, this can't be done wirelessly.
 
 ![Photostream 9](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2012/04/photostream_9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  I also use an app called CameraSync ($2.99) on my iPhone which will after being launched instantly uploads all my Camera Roll photos and videos to a designated folder in Dropbox (or SkyDrive, FTP server, Amazon S3 bucket, etc..) It will remember which image and video files it already uploaded so you don't have to worry if particular files have been backed up. This app is very useful for people not using Photo Stream.
 
 ![managing iphone photos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2012/04/Screen-Shot-2012-04-10-at-12.46.25-AM.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  iPhone photography has changed the way I shoot and process photos, but until Apple rectifies the three major limitations discussed above, managing photos and videos on the device will remain a needlessly cumbersome process.
 

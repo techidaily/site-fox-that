@@ -1,7 +1,7 @@
 ---
 title: Solutions for Getting Your Locked iPhone or iPad Back Online
-date: 2024-09-05T02:45:51.558Z
-updated: 2024-09-06T02:45:51.558Z
+date: 2024-09-09T11:29:18.671Z
+updated: 2024-09-10T11:29:18.671Z
 tags:
   - iphone
   - apple
@@ -12,16 +12,34 @@ excerpt: This Article Describes Solutions for Getting Your Locked iPhone or iPad
 thumbnail: https://thmb.techidaily.com/39b1aa90cbe15af25eeef086af2b40b5abbe4ea0e44addc2aa4ec5af37792daa.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120863/26400?prodsku=Mercury" target="_top" id="2120863">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120863/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Solutions for Getting Your Locked iPhone or iPad Back Online
 
  Is your iPad or iPhone disabled? Looking at your iOS device and seeing that it is disabled can be gut wrenching. Many might not know what happened or how it became disabled or what to do next.
 
  Luckily, there are a few ways to restore your iPhone or iPad and prevent it getting disabled happening again. Even if you don’t fully understand what happened, this guide will show you how it became disabled and what to do next.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2121331/18498" target="_top" id="2121331">
+  <img src="//a.impactradius-go.com/display-ad/18498-2121331" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121331/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How Do iPhones and iPads Get Disabled?
 
 ![disabled iphone message](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/11/disabled-iphone-message.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Most iPhones and iPads become disabled after too many failed unlock attempts. If you enter your password wrong six times in a row, for example, you will get a message saying that your iPhone has been disabled for one minute.
 
  Once that one minute is up, another failed attempt will disable the iPhone for five minutes, then 15 minutes, then 30, and lastly one hour. Sometimes, this can happen without you realizing it, if your device is in a bag and getting knocked around.
@@ -40,10 +58,22 @@ thumbnail: https://thmb.techidaily.com/39b1aa90cbe15af25eeef086af2b40b5abbe4ea0e
 
 ![iphone restore backup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/11/iphone-restore-backup.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Note:** Some users will be automatically asked to restore after plugging in a disabled device. Some users will also only see a**Restore iPhone** or**Restore iPad** option if they don’t have a backup on file.
 
  If you don’t have a backup on file on your computer, there are other places you might have a backup, like on iCloud. However, you will need to restore your device first before you can restore the backup.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Restore a Disabled iPhone or iPad Using iCloud
 
  If you don’t have access to a computer, there are ways to erase your iPhone without having to plug it in. This option also works for those who don’t have any backups available anyway and just want to reset their phone quickly.
@@ -54,12 +84,24 @@ thumbnail: https://thmb.techidaily.com/39b1aa90cbe15af25eeef086af2b40b5abbe4ea0e
 
 ![find iphone erase](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/11/find-iphone-erase.png)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123470/16836" target="_top" id="2123470">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123470" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123470/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Once this is done, you can use your iPhone or iPad again immediately, but you’ll need to restore a backup to get all your data back. Since iCloud is frequently used, your contacts and photos will automatically restore. Once you sign in to your iCloud account again, your device will take care of the rest.
 
 After this, your device is ready to use again.
 
  If you had an iCloud backup saved, when you set up your device and log in with your Apple ID, you will see an option to restore using an iCloud backup. This will make your iPhone or iPad exactly the way it was when the backup was saved.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120865/26400?prodsku=mercury" target="_top" id="2120865">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120865/26400?prodsku=mercury" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Restore an iPad or iPhone Using Recovery Mode
 
  If you don’t use a computer or iCloud to back up your device, you will need to put your iOS device into Recovery Mode to use it again. This should be tried last, as it will erase everything on your iPhone and you won’t be able to get anything back.
@@ -83,25 +125,13 @@ After this, your device is ready to use again.
 ![iphone recovery mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/11/iphone-recovery-mode.png)
 
 <!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  When this appears, hit**Restore** and your device will be wiped. It may take a long time for it to restore (sometimes a few hours), but once it is done, your device will be ready to use again.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Contact Apple for More Support
 
  If for some reason your device can’t be restored using any of the methods above, or if you have a broken button that won’t allow you to put it in Recovery Mode, the last resort would be to contact Apple.
@@ -110,12 +140,6 @@ After this, your device is ready to use again.
 
  This option usually only works for those who purchased an iPhone directly from Apple, but it is worth a try.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Preventing Future Issues
 
  The simplest way to prevent your iPad or iPhone from becoming disabled is by using a password that is easy to remember. Also, take advantage of other security features such as Touch ID or Face ID to make it easy to unlock your phone.
@@ -126,18 +150,6 @@ After this, your device is ready to use again.
 
 ![icloud backups](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/11/icloud-backups.PNG)
 
-<!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![icloud setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/11/icloud-setting.jpg)
 
 Close
@@ -150,20 +162,8 @@ Close
 
 ![iphone settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/11/iphone-settings.PNG)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Close
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Unlocking Your iPhone or iPad
 
  Having one of your devices disabled can be annoying at first, but thankfully there are many ways to recover your device and restore it. While some data might be lost, you will gain access to your phone or tablet again, having learned a lesson to make sure this won’t happen in the future. After all, a wiped device is better than no device.
