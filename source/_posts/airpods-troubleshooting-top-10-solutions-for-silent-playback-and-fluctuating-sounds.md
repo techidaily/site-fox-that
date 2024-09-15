@@ -1,7 +1,7 @@
 ---
 title: "AirPods Troubleshooting: Top 10 Solutions for Silent Playback & Fluctuating Sounds"
-date: 2024-07-20T03:18:39.037Z
-updated: 2024-07-21T03:18:39.037Z
+date: 2024-09-09T21:32:37.577Z
+updated: 2024-09-15T22:04:03.472Z
 tags:
   - iphone
   - apple
@@ -34,9 +34,6 @@ thumbnail: https://thmb.techidaily.com/6029eec233aad0fb3c2ba7e54dc1e274f5e9fe224
 
  After updating your paired device, you should also update the firmware on your AirPods. This is a little trickier to do because there's no "Update Firmware" button. Instead, follow our guide to [update the firmware on your AirPods](https://www.makeuseof.com/how-to-update-airpods/) . In short, return your AirPods to the Charging Case, connect your paired device to the internet over Wi-Fi, and wait.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Check the Accessibility Audio Balance
 
  If you need to fix your AirPods because the sound is louder on one side, it might actually be the result of a feature, rather than a bug. Take a moment to learn about [Dynamic Head Tracking](https://www.makeuseof.com/how-to-disable-dynamic-head-tracking-iphone/) , which moves the sound in your AirPods as you turn your head so that it always sounds like it's coming from your paired device.
@@ -49,9 +46,6 @@ thumbnail: https://thmb.techidaily.com/6029eec233aad0fb3c2ba7e54dc1e274f5e9fe224
 
 ![General settings on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/General-settings-on-iPhone.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Accssibility settings on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/Accssibility-settings-on-iPhone.jpg)
 
 ![Audio:Visual settings on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/AudioVisual-settings-on-iPhone.jpg)
@@ -59,17 +53,18 @@ thumbnail: https://thmb.techidaily.com/6029eec233aad0fb3c2ba7e54dc1e274f5e9fe224
 Close
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 4\. Recharge Your AirPods and Charging Case
 
  This may sound simple, but ensuring your AirPods (and the Charging Case) are fully charged up could be all you need to do to fix your sound problems. It's a good way to [fix all manner of AirPods problems](https://www.makeuseof.com/tag/apple-airpods-problems-fix/) .
 
  So, return your AirPods to the case and connect it to a charging cable until it's fully charged. Then try using your AirPods again to see if the sound issues are fixed.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ## 5\. Reset the Volume and Re-Pair Your AirPods
 
  You can fix various problems, like when [the audio is too quiet on AirPods](https://www.makeuseof.com/how-to-make-airpods-louder/) , by unpairing and re-pairing the headphones. But before you do that, try turning the audio all the way down. Make sure you're playing some audio through your AirPods while you adjust the volume to make sure you aren't changing the ringer volume instead.
@@ -78,16 +73,40 @@ Close
 
 ![iPhone settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/iPhone-settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Bluetooth devices on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/Bluetooth-devices-on-iPhone.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<a href="https://25home.pxf.io/c/5597632/2123473/16836" target="_top" id="2123473">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123473" border="0" alt="https://techidaily.com" width="254" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123473/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![Forget device option on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/Forget-device-option-on-iPhone.jpg)
 
 Close
 
  After doing that,[pair your AirPods](https://www.makeuseof.com/tag/how-to-connect-airpods-mac-iphone-pc-android/) again like you did when they were new. Then turn the volume up again, while playing audio, to see if your AirPods are fixed.
+
+<!-- affiliate ads begin -->
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Reset Your AirPods
 
@@ -99,9 +118,6 @@ Close
 
  Follow our guide to [clean your AirPods](https://www.makeuseof.com/tag/how-to-clean-airpods-and-case/) , paying particular attention to the microphone and speaker grills.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 8\. Troubleshoot Your Bluetooth Connection
 
  Sound problems could be down to [issues with your AirPods Bluetooth connection](https://www.makeuseof.com/airpods-connection-troubleshooting/) . This could be caused by a weak signal or interference from other devices and appliances. To troubleshoot your Bluetooth connection, make sure your AirPods are close to the device they're paired with. Stay in the same room, and try not to let any big object get in between the two.
@@ -116,9 +132,6 @@ Close
 
  If you do discover that one particular device is causing problems with your AirPods, try disconnecting any other Bluetooth devices from it (including an Apple Watch), then try toggling Bluetooth on and off or resetting the device entirely to fix it.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 9\. Troubleshoot Your Wi-Fi Connection
 
 ![best long range routers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/best-long-range-routers.jpg)
@@ -129,9 +142,6 @@ Close
 
  The settings on your router are likely to be quite different, but we'd suggest using a web browser to view all your browser options and fiddling with any Bluetooth-related options to see if any of them fix your AirPods.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 10\. Contact Apple for Replacement AirPods
 
  If none of the tips above have been able to fix the sound on your AirPods, then it's time to speak to Apple. Visit [Apple's Get Support website](http://getsupport.apple.com/) to speak to a technical advisor. Then point them in the direction of this post to let them know what steps you've already tried.
@@ -148,8 +158,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -157,4 +165,19 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-the-ultimate-room-and-pc-checklist-for-vr/"><u>[Updated] 2024 Approved The Ultimate Room and PC Checklist for VR</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-guide-free-youtube-downloads-without-programs/"><u>[Updated] Guide Free YouTube Downloads Without Programs</u></a></li>
+<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-tecno-spark-20-pro-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Tecno Spark 20 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/comprehensive-razer-blade-17-drivers-upgrade-instructions-for-windows-users-on-oses-from-7-to-11/"><u>Comprehensive Razer Blade 17 Drivers Upgrade Instructions for Windows Users on OSes From 7 to 11</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/google-tv-on-chromecast-a-game-changer-for-streamers/"><u>Google TV on Chromecast: A Game-Changer for Streamers?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-oppo-a78-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On Oppo A78? | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/immediate-action-required-the-critical-benefits-of-switching-to-ios-153/"><u>Immediate Action Required: The Critical Benefits of Switching to iOS 15.3</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-echoing-evolution-voices-in-free-fire/"><u>In 2024, Echoing Evolution Voices in Free Fire</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-technical-glitches-ensuring-uninterrupted-play-of-no-rest-for-the-wicked-on-personal-computers/"><u>Overcoming Technical Glitches: Ensuring Uninterrupted Play of 'No Rest for the Wicked' On Personal Computers</u></a></li>
+<li><a href="https://fox-that.techidaily.com/siris-missing-prompts-here-are-5-steps-to-bring-back-iphones-suggestions-feature/"><u>Siri's Missing Prompts? Here Are 5 Steps to Bring Back iPhone's Suggestions Feature</u></a></li>
+<li><a href="https://fox-that.techidaily.com/tips-for-recovering-unseen-entries-in-ios-event-planner/"><u>Tips for Recovering Unseen Entries in iOS Event Planner</u></a></li>
+<li><a href="https://win-able.techidaily.com/44ot44oh44kq44k544kv44oq44o844oz44k144kk44k644ks5ouh5asn44gz44kl44gf44kb44gu5yq55p6c55qe44gq44og44kv44ol44od44kv/"><u>ビデオスクリーンサイズを拡大するための効果的なテクニック</u></a></li>
+</ul></div>
 

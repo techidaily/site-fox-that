@@ -1,7 +1,7 @@
 ---
 title: Easy Ways to Update Person Tags in the Apple Photos App for Accurate Memories
-date: 2024-07-20T03:19:09.462Z
-updated: 2024-07-21T03:19:09.462Z
+date: 2024-09-10T19:24:18.829Z
+updated: 2024-09-15T18:27:08.490Z
 tags:
   - iphone
   - apple
@@ -29,23 +29,14 @@ thumbnail: https://thmb.techidaily.com/1822acf0f2845a1ba566d5d10f67d4f8ab3c535b7
 
 ![review confirmed photos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/review-confirmed-photos.PNG)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![review more photos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/review-more-photos.PNG)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![confirm person](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/confirm-person.PNG)
 
 Close
 
  Read More:[Tips That Will Help You Master the People Album in Photos](https://www.makeuseof.com/tips-to-master-people-album-photos-iphone/)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 ## How to Fix Misidentified People in Photos on iPhone or iPad
 
  If your iPhone has misidentified someone in a photo, they won't show up when you search for them and instead Photos will save pictures of them in someone else's album. What's more, that person—who might be a stranger—will show up in the People album for whoever your iPhone thinks they are! Here's how to fix it:
@@ -55,15 +46,8 @@ Close
 3. Hit the**Share** button in the bottom-left corner of your screen.
 4. Choose**This is Not X** , and the selected photos will be removed from that album.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![select photos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/select-photos.PNG)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![this is not X option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/this-is-not-X-option.PNG)
 
 Close
@@ -78,10 +62,14 @@ Close
 4. Control-click on the photo.
 5. Click**X is Not in This Photo** .
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Person is not in this photo option in Photos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/Person-is-not-in-this-photo-option-in-Photos.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Easily Sort Pictures With the People Album
 
@@ -89,14 +77,11 @@ Close
 
  However, having misidentified photos in the wrong albums can be quite a nuisance to deal with. Fortunately, the problem has a relatively quick and easy fix. You can review uncategorized photos to avoid the problem in the future, and you can remove any mismatched pictures you stumble across using the Share button.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -105,4 +90,23 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-a-guide-to-high-quality-slow-motion-images-for-instagram-sharing/"><u>[New] 2024 Approved A Guide to High-Quality Slow Motion Images for Instagram Sharing</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-astonishing-freeness-of-screen-dance-duels/"><u>[New] Astonishing Freeness of Screen Dance Duels</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-elevating-youtube-creativity-ideal-concepts-and-themes-for-channels/"><u>[Updated] 2024 Approved Elevating YouTube Creativity Ideal Concepts and Themes for Channels</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-the-ultimate-5-pc-snipers-for-efficient-image-capture/"><u>[Updated] 2024 Approved The Ultimate 5 PC Snipers for Efficient Image Capture</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-end-screen-design-made-easy-with-our-templates-and-tutorials-for-2024/"><u>[Updated] End-Screen Design Made Easy with Our Templates & Tutorials for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-first-timer-accessories-transform-your-gopro-experience/"><u>2024 Approved First-Timer Accessories - Transform Your GoPro Experience</u></a></li>
+<li><a href="https://fox-that.techidaily.com/diy-tips-for-draining-water-trapped-in-your-iphones-audio-ports/"><u>DIY Tips for Draining Water Trapped in Your iPhone's Audio Ports</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-nvidia-1080-drivers-for-windows-10-quick-and-simple/"><u>Download NVIDIA 1080 Drivers for Windows 10 - Quick & Simple</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/dynamic-tiktok-effects-a-double-approach/"><u>Dynamic TikTok Effects A Double Approach</u></a></li>
+<li><a href="https://fox-that.techidaily.com/experiencing-slow-messages-on-iphone-correct-the-issue-with-these-9-tips/"><u>Experiencing Slow Messages on iPhone? Correct the Issue with These 9 Tips</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixed-or-broken-heres-what-to-do-when-your-iphone-home-button-wont-respond/"><u>Fixed or Broken? Here's What to Do When Your iPhone Home Button Won't Respond</u></a></li>
+<li><a href="https://fox-that.techidaily.com/guide-to-fixing-when-iphone-displays-no-more-lines-left-message/"><u>Guide to Fixing: When iPhone Displays 'No More Lines Left' Message</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-accelerate-your-iphones-screen-shutdown-effective-solutions-inside/"><u>How to Accelerate Your iPhone's Screen Shutdown – Effective Solutions Inside</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-tecno-spark-10-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Tecno Spark 10 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/revive-your-iphones-capabilities-6-steps-to-resolve-the-persistent-sos-sign-in-the-status-bar-problem/"><u>Revive Your iPhone's Capabilities: 6 Steps to Resolve the Persistent SOS Sign in the Status Bar Problem</u></a></li>
+<li><a href="https://fox-that.techidaily.com/speed-up-your-safari-browser-on-the-iphone-with-these-4-proven-techniques/"><u>Speed Up Your Safari Browser on the iPhone with These 4 Proven Techniques</u></a></li>
+</ul></div>
 

@@ -1,0 +1,118 @@
+---
+title: No Sound From iPhone Speakers? Here’s How to Restore Microphone Functionality
+date: 2024-09-12T17:34:18.373Z
+updated: 2024-09-15T17:33:00.571Z
+tags:
+  - iphone
+  - apple
+categories:
+  - iphone
+description: This Article Describes No Sound From iPhone Speakers? Here’s How to Restore Microphone Functionality
+excerpt: This Article Describes No Sound From iPhone Speakers? Here’s How to Restore Microphone Functionality
+thumbnail: https://thmb.techidaily.com/2b11c9a35e9bf42b72b792cdfd30fad6b2d3f68c7ff5c3220b9ec5f91e6995e4.jpg
+---
+
+## No Sound From iPhone Speakers? Here’s How to Restore Microphone Functionality
+
+ An iPhone is almost useless without a working microphone. A broken microphone means no FaceTime, phone calls, or Siri. Sometimes, videos shot on your iPhone may not have any audio. But before you pay Apple for a costly repair, try these fixes first.
+
+>  Disclaimer: This post includes affiliate links
+>
+>  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
+>
+
+## 1\. Find Out Which Microphone Isn't Working
+
+ Before you begin fixing your iPhone's microphone, you'll need to know which microphone isn't working. If you have an iPhone 5 or later, you'll have three microphones: one on the bottom of your phone for phone calls, one on the front of your phone for speakerphone, and one on the back for the camera.
+
+ Test each microphone by recording using Voice Memos (bottom microphone), making a phone call on speakers (front microphone), and recording a video (back microphone). If all the microphones aren't working, it's most likely a hardware issue. If only one microphone isn't working or sounds muffled, continue to the next step.
+
+## 2\. iPhone Microphone Muffled or Muted? Try Cleaning It
+
+![iphone clean speaker](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/iphone-clean-speaker.jpg)
+
+ Brent Dirks/[MakeUseOf](https://www.makeuseof.com/author/brentdirks/)
+
+ One of the simplest ways to fix your microphone is by cleaning it. If one of your microphones sounds muffled when you speak, you might just need to clean it. iPhone microphones are sensitive, and a small piece of dust or dander can affect how they sound.
+
+ To clean your microphone, avoid blowing into it at first. Instead, dip a cotton swab or Q-tip in some isopropyl alcohol. Then, wipe it along the muffled microphone. Try to get inside the microphone hole if you can. Alternatively, you can use a toothbrush to do the same.
+
+ Isopropyl alcohol breaks up grime and dries fast, so it won't damage your iPhone. Try using the highest percentage of isopropyl alcohol you can find. While you're at it,[clean your entire iPhone thoroughly](https://www.makeuseof.com/tag/clean-iphone-guide/) if it's not in a good shape.
+
+## 3\. Disconnect From Bluetooth Devices
+
+Close
+
+ Being connected to a Bluetooth device could mean that your iPhone is activating an external microphone, and you can't use the built-in one.
+
+ This is a common issue with those who use Bluetooth headphones like AirPods or smart home systems. Check if you're connected to a Bluetooth device by [opening your iPhone's Control Center](https://www.makeuseof.com/how-to-use-customize-control-center-iphone/) , then toggle Bluetooth off. Alternatively, tap and hold it to view all your connected devices.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115920/19272" target="_top" id="2115920">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115920" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115920/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## 4\. Make Sure Apps Have Microphone Permissions
+
+Close
+
+ If your microphone isn't working in a specific app, you might not have granted that app permission to use your microphone.
+
+ To grant an app permission, head to**Settings** and select the affected app. Now, make sure the**Microphone** toggle is enabled.
+
+## 5\. Use an External Microphone or AirPods
+
+![A guy holding AirPods Pro in charging case showing orange light](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/02/a-guy-holding-airpods-pro-in-charging-case-showing-orange-light.jpg)
+
+ Hamlin Rozario/[MakeUseOf](https://www.makeuseof.com/author/hamlin-rozario/)
+
+ If you've tried all the above fixes but nothing is working, you can still use an external microphone with your iPhone. You can use this while you wait for a repair or even use an external microphone indefinitely if you can't afford a repair.
+
+ Most headphones, including Apple's AirPods, have built-in microphones. Since they connect via your iPhone's Lightning/USB-C port or Bluetooth, you won't have to rely on the built-in microphones for most tasks.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115935/19272" target="_top" id="2115935">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115935" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115935/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## 6\. Other Generic Fixes
+
+Close
+
+ In some cases, your iPhone's microphones might not work due to a software bug. Fortunately,[updating your iPhone](https://www.makeuseof.com/tag/update-iphone-ios-apps-data/) can fix various problems, including a microphone that doesn't work. Go to**Settings > General > Software Update** to quickly check for a newer iOS version.
+
+ If updating iOS doesn't resolve the issue, you may want to restore your iPhone's settings to their default values. Sometimes, apps can customize settings, which can cause your iPhone's microphone to stop working. Head to**Settings** \>**General** \>**Transfer or Reset iPhone** \>**Reset** \>**Reset All Settings** to do this.
+
+ If none of the troubleshooting methods helped, you should contact Apple to repair or replace your iPhone. It's easy to [make an Apple Store appointment at a Genius Bar](https://www.makeuseof.com/apple-store-appointment-genius-bar/) , but expect to pay a hefty fee unless your iPhone is still under Apple's limited warranty or you've purchased [an AppleCare+ warranty](https://www.makeuseof.com/tag/applecare-what-are-your-options-is-it-really-worth-it/) .
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-turbocharge-fb-video-speed-selective-extensions-and-apps-guidebook/"><u>2024 Approved Turbocharge FB Video Speed Selective Extensions & Apps Guidebook</u></a></li>
+<li><a href="https://games-able.techidaily.com/demystifying-meta-what-it-is-and-should-gamers-follow/"><u>Demystifying 'Meta': What It Is & Should Gamers Follow?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/dive-into-technology-with-toms-gadget-expertise-in-depth-analysis-and-opinions/"><u>Dive Into Technology with Tom's Gadget Expertise: In-Depth Analysis & Opinions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-world-of-chatgpt-alternatives-whats-inside-and-why-choose-them/"><u>Exploring the World of ChatGPT Alternatives: What's Inside and Why Choose Them?</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-honor-magic-v2-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Honor Magic V2 FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-delete-icloud-account-with-or-without-password-from-your-apple-iphone-11-prowindowsmac-by-drfone-ios/"><u>In 2024, How to Delete iCloud Account with or without Password from your Apple iPhone 11 Pro/Windows/Mac</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-vpn-connection-issues-on-ios-top-7-solutions/"><u>Troubleshooting VPN Connection Issues on iOS: Top 7 Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/understanding-iphone-14s-latest-battery-problems-a-comprehensive-guide/"><u>Understanding iPhone 14'S Latest Battery Problems: A Comprehensive Guide</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-nokia-105-classic-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Nokia 105 Classic Phone Network-Ready</u></a></li>
+<li><a href="https://fox-that.techidaily.com/why-wont-my-iphone-back-up-to-icloud-here-are-9-fixes-that-work/"><u>Why Won’t My iPhone Back Up to iCloud? Here Are 9 Fixes That Work!</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Secrets to Retrieving Deleted iPhone Photos That Appear Lost - Learn These 8 Tricks
-date: 2024-07-20T03:19:28.257Z
-updated: 2024-07-21T03:19:28.257Z
+date: 2024-09-11T19:49:53.161Z
+updated: 2024-09-15T21:35:05.581Z
 tags:
   - iphone
   - apple
@@ -22,9 +22,6 @@ thumbnail: https://thmb.techidaily.com/7104eb033fbf632865800cb348d315fa27012665c
 
  Your browser does not support the video tag.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 1\. Check the Recently Deleted Folder
 
  A common reason for this issue revolves around the**Recently Deleted** album in the Photos app. This album allows you to recover deleted photos and videos for up to 30 days after deleting them. Like the Recycle Bin on your computer, it acts as a temporary safety net in case you change your mind.
@@ -37,18 +34,6 @@ thumbnail: https://thmb.techidaily.com/7104eb033fbf632865800cb348d315fa27012665c
 
 ![all photos selected to delete](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/all-photos-selected-to-delete.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![recover and delete options in recently deleted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/recover-and-delete-options-in-recently-deleted.jpg)
 
 Close
@@ -67,9 +52,6 @@ Close
 2. Tap on**Software Update** .
 3. If a new version is available, tap on**Download and Install** to begin.
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ![general in iPhone settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/general-in-iphone-settings-1.jpg)
 
 ![software update in general settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/software-update-in-general-settings-1.jpg)
@@ -79,8 +61,12 @@ Close
 Close
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 4\. Modify the Date and Time to Reveal Old Photos
 
  The exact reasoning behind this fix isn't clear, but it often happens that media you deleted in the past returns as hidden files on your device. You won't know they exist, and you can't see them in the Recents album either.
@@ -96,17 +82,34 @@ Close
 
 ![iOS Settings General Page Open](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/ios-general-settings.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![date & time general settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/date-time-general-settings.jpg)
 
 ![date & time set automatically toggle turned off](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/date-time-set-automatically-toggle-turned-off.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close
 
  Deleting these "ghost files" that reappear should help free up that extra space on your iPhone (and even iCloud). Don't forget to set the time option back to automatic when you're done!
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Disable iCloud Sync (After Completing a Backup)
 
  iCloud Photos allows you to upload your iPhone's pictures to iCloud automatically. While this is convenient and a good way to protect your photos, it can also lead to your photos taking up too much space in iCloud.
@@ -121,15 +124,32 @@ Close
 
 ![iCloud settings in Apple ID](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/icloud-settings-in-apple-id-1.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![iCloud options under Apple ID settings on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/icloud-options-under-apple-id-settings-on-iphone.jpeg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![sync this iPhone toggle in iCloud photos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/sync-this-iphone-toggle-in-icloud-photos-1.jpg)
 
 Close
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Optimize iPhone Photos for Storage
 
  If photos are taking up too much space on your iPhone's storage all the time, the optimization option is handy. This has your iPhone decrease the resolution of media saved locally in Photos but retains a full-resolution copy in iCloud. There, you will have to toggle on iCloud Photos for this fix, unlike the previous one.
@@ -140,21 +160,12 @@ Close
 2. In the Settings menu, scroll down and tap on**Photos** .
 3. Make sure the**Optimize iPhone Storage** option is selected.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![photos in iPhone settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/photos-in-iphone-settings-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![optimise iPhone storage option in iCloud settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/optimise-iphone-storage-option-in-icloud-settings.JPG)
 
 Close
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 7\. Factory Reset Your iPhone
 
  If you've tried all the above steps and your storage is still taken up by photos that don't exist, you should next opt for a [full iPhone reset](https://www.makeuseof.com/tag/how-to-factory-reset-iphone-ipad/) . This is a drastic measure, but it will hopefully clear out any persistent issues causing the storage glitch.
@@ -169,16 +180,10 @@ To factory reset your iPhone, follow these steps:
 4. From your list of options, tap on**Erase All Content and Settings** .
 5. Confirm your choice, and your iPhone will return to factory defaults the next time it reboots.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![general in iPhone settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/general-in-iphone-settings-1.jpg)
 
 ![Settings on iOS 17 showing the Transfer or Reset iPhone option highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/apple-ios-17-settings-transfer-or-reset-iphone-highlighted.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![reset iPhone options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/reset-iphone-options.jpg)
 
 Close
@@ -214,8 +219,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -223,4 +226,22 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-deep-dive-ultimate-ice-cream-viewer-analysis/"><u>[Updated] 2024 Approved Deep Dive Ultimate Ice Cream Viewer Analysis</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-simplified-screen-switching-utilizing-pip-mode-on-netflix-for-smooth-viewing/"><u>[Updated] Simplified Screen Switching Utilizing PIP Mode on Netflix for Smooth Viewing</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-3-straightforward-methods-to-fine-tune-shades/"><u>2024 Approved 3 Straightforward Methods to Fine-Tune Shades</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-elite-index-of-public-domain-picture-sources/"><u>2024 Approved Elite Index of Public Domain Picture Sources</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/a-review-10-best-free-luts-with-download-links-for-2024/"><u>A Review 10 Best Free LUTs with Download Links for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-a-simple-phone-reboot-can-solve-most-of-your-devices-issues/"><u>How a Simple Phone Reboot Can Solve Most of Your Device's Issues</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-ensure-continuous-playback-on-spotify-despite-iphone-screen-locks/"><u>How to Ensure Continuous Playback on Spotify Despite iPhone Screen Locks</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/new-guide-how-to-check-icloud-activation-lock-status-on-your-apple-iphone-12-pro-by-drfone-ios/"><u>New Guide How To Check iCloud Activation Lock Status On Your Apple iPhone 12 Pro</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solve-clarity-problem-in-far-cry-6-ui-graphics/"><u>Solve Clarity Problem in Far Cry 6 UI Graphics</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-6-troubleshooting-tips-for-repairing-a-persistent-snapchat-error-on-iphones-and-android-devices/"><u>Top 6 Troubleshooting Tips for Repairing a Persistent Snapchat Error on iPhones and Android Devices</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-tips-for-overcoming-the-unprovisioned-sim-alert-on-your-phone/"><u>Troubleshooting Tips for Overcoming the Unprovisioned SIM Alert on Your Phone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-vpn-connection-issues-on-ios-top-7-solutions/"><u>Troubleshooting VPN Connection Issues on iOS: Top 7 Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/understanding-imessage-changes-how-to-tell-if-youve-been-blocked/"><u>Understanding iMessage Changes: How to Tell if You've Been Blocked</u></a></li>
+<li><a href="https://fox-that.techidaily.com/understanding-iphone-14s-latest-battery-problems-a-comprehensive-guide/"><u>Understanding iPhone 14'S Latest Battery Problems: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/why-wont-my-iphone-back-up-to-icloud-here-are-9-fixes-that-work/"><u>Why Won’t My iPhone Back Up to iCloud? Here Are 9 Fixes That Work!</u></a></li>
+</ul></div>
 

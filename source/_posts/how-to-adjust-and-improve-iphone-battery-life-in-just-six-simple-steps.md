@@ -1,7 +1,7 @@
 ---
 title: How To Adjust & Improve iPhone Battery Life In Just Six Simple Steps
-date: 2024-07-20T03:19:06.689Z
-updated: 2024-07-21T03:19:06.689Z
+date: 2024-09-14T16:11:58.398Z
+updated: 2024-09-15T22:03:50.718Z
 tags:
   - iphone
   - apple
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/134f01974d541e3e4f7e678a539e306f85d908190
 
  Your browser does not support the video tag.
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Why You Should Calibrate Your iPhone's Battery
 
  Calibrating your iPhone's battery (also referred to as resetting an iPhone's battery) is a surprisingly important part of iPhone maintenance. Unfortunately, many people don't realize its benefits, and even fewer take the time to perform the necessary steps.
@@ -50,9 +47,6 @@ To disable location services on your iPhone, follow these steps:
 
 ![privacy settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/privacy-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![location services settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/location-services-settings.jpg)
 
 ![location services on off](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/location-services-on-off.jpg)
@@ -70,15 +64,15 @@ Close
 3. Tap on**Background App Refresh** a second time.
 4. Select the**Off** option.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![ios app refresh menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/03/ios-app-refresh-2.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![ios app refresh settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/03/ios-app-refresh-1.png)
 
 Close
@@ -91,18 +85,12 @@ Here's how to lower the screen brightness on an iPhone:
 2. Scroll down and select**Display & Brightness** .
 3. Move the**Brightness** slider all the way to the left.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ![ios brightness menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/03/ios-brightness-2.png)
 
 ![ios brightness slider](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/03/ios-brightness.png)
 
 Close
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Turn Off Automatic App Updates
 
 Finally, to turn off automatic updates, follow these three steps:
@@ -113,13 +101,24 @@ Finally, to turn off automatic updates, follow these three steps:
 
 ![app store settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/app-store-settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123481/16836" target="_top" id="2123481">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123481" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123481/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![app updates off](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/app-updates-off.jpg)
 
 Close
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How to Calibrate Your iPhone's Battery
 
  Now, you're ready to calibrate the battery on your iPhone. Be warned that it takes quite a bit of patience; you'll need to wait around for a couple of complete charge and drain cycles to finish.
@@ -137,8 +136,18 @@ Close
  It's important to let the last embers of the battery life die away. The only way to do this is to wait. The longer you wait, the better, but you should wait at least three hours. If you have time, letting it sit overnight is preferable.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Step 3: Charge Your iPhone
 
  Now, it's time to refill the battery. To ensure optimal performance, make sure you follow these tips:
@@ -146,6 +155,19 @@ Close
 * Use a wall socket rather than a computer to charge.
 * Ideally, use an official Apple charger. At the very least, make sure you [use a trusted Lightning cable](https://www.makeuseof.com/tag/5-great-lightning-cables-charge-iphone-ipad/) or a [high-quality USB-C cable](https://www.makeuseof.com/tag/micro-usb-cables-charge/) if you have an iPhone 15 (or later) and not a cheap knockoff.
 * Continue to charge for a couple of hours even after your phone shows the battery as 100 percent full. You need to ensure you squeeze in every drop of power to ensure the calibration works correctly.
+
+<!-- affiliate ads begin -->
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Step 4: Drain Your iPhone
 
@@ -155,9 +177,6 @@ Close
 
  It's getting repetitive by now but stick with it. Once again, you need to ensure you drain that last bit of battery power from your iPhone. Like before, the longer you can leave it, the better.
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Step 6: Charge Your iPhone Again
 
  To finish the process, you need to recharge your device. Follow the same guidelines as earlier, ensuring you let your phone continue charging for a couple of hours even after it's full.
@@ -174,9 +193,6 @@ And that's it. Now, your iPhone's battery has been recalibrated.
 
 ![battery settings iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/battery-settings-iphone.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ![battery health settings iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/battery-health-settings-iphone.jpg)
 
 ![optimized battery charging iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/optimized-battery-charging-iphone.jpg)
@@ -185,9 +201,6 @@ Close
 
  Head to **Settings > Battery > Battery Health & Charging > Optimized Battery Charging** to toggle this on. This slows down the aging of your iPhone's battery, keeping its maximum capacity from degrading quickly.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Other Battery-Saving iPhone Tips
 
  If recalibration hasn't fixed your iPhone's battery problems, it might be time to spend some money on a new battery. You can change the battery yourself if you're feeling confident, but doing so will void your iPhone's warranty.
@@ -200,8 +213,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -209,4 +220,22 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-how-to-safely-extract-youtube-audio-a-study-of-3-techniques/"><u>[New] 2024 Approved How to Safely Extract YouTube Audio A Study of 3 Techniques</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-teaching-through-media-efficient-classroom-editing/"><u>[Updated] Teaching Through Media Efficient Classroom Editing</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-unlock-seamless-video-conversion-youtube-to-dailymotion/"><u>2024 Approved Unlock Seamless Video Conversion YouTube to Dailymotion</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-impersonation-sites-alerted-learn-how-to-recognize-and-respond-effectively/"><u>ChatGPT Impersonation Sites Alerted! Learn How To Recognize and Respond Effectively</u></a></li>
+<li><a href="https://fox-that.techidaily.com/deciphering-the-offline-status-in-find-my-iphone-and-effective-methods-for-finding-your-device/"><u>Deciphering the 'Offline' Status in Find My iPhone & Effective Methods for Finding Your Device</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-hp-officejet-5740-printer-drivers-compatible-with-windows-11-10-and-8/"><u>Download HP OfficeJet 5740 Printer Drivers: Compatible with Windows 11, 10 & 8</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fix-any-iphone-issue-how-to-clear-network-configurations/"><u>Fix Any iPhone Issue: How to Clear Network Configurations</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-resolve-your-iphone-when-it-gets-stuck-at-startup-apple-icon-6-strategies-you-can-try-today/"><u>How to Resolve Your iPhone When It Gets Stuck at Startup (Apple Icon) - 6 Strategies You Can Try Today!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/missing-depth-feature-on-iphones-lock-screen-in-ios-16-correct-it-with-our-top-7-fixes/"><u>Missing Depth Feature on iPhone's Lock Screen in iOS 16? Correct It with Our Top 7 Fixes!</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-top-spots-for-accessing-avian-audio-files/"><u>New In 2024, Top Spots for Accessing Avian Audio Files</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ing-financially-via-beauty-channels-for-2024/"><u>Thriving Financially via Beauty Channels for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-15-solutions-when-you-encounter-issues-with-your-facetime-connection/"><u>Top 15 Solutions When You Encounter Issues with Your FaceTime Connection</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/ultimate-guide-how-to-restore-and-repair-broken-picture-files/"><u>Ultimate Guide: How to Restore and Repair Broken Picture Files</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/understanding-ntsc-format-dvds-and-unrestricted-viewing-options-in-the-uk/"><u>Understanding NTSC Format DVDs and Unrestricted Viewing Options in the UK</u></a></li>
+<li><a href="https://fox-that.techidaily.com/what-causes-your-message-app-to-show-phones-not-names-and-how-to-fix-it/"><u>What Causes Your Message App to Show Phones, Not Names – And How to Fix It</u></a></li>
+</ul></div>
 

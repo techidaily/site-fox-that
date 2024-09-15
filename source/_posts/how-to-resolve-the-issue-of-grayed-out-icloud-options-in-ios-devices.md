@@ -1,7 +1,7 @@
 ---
 title: How to Resolve the Issue of Grayed-Out iCloud Options in iOS Devices
-date: 2024-07-20T03:18:52.820Z
-updated: 2024-07-21T03:18:52.820Z
+date: 2024-09-08T21:43:26.320Z
+updated: 2024-09-15T16:09:52.847Z
 tags:
   - iphone
   - apple
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/ca553c30ee84db192e99fa5840738c6a29a319bf3
 
  If that's the case, there are a few fixes you could try to re-enable them and get back into your iCloud settings.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 1\. Agree to New iCloud Terms and Conditions
 
 ![New iCloud Terms and Conditions banner on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/iphone-icloud-terms-and-conditions.jpg)
@@ -29,23 +26,14 @@ thumbnail: https://thmb.techidaily.com/ca553c30ee84db192e99fa5840738c6a29a319bf3
 
  Unless you have the patience of a supreme being to read everything through, just tap**Agree** at the bottom right. Now, you should see that the Settings menu has been updated to enable iCloud and other related services.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ## 2\. Check for Installed Configuration Profiles
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![iOS Beta Profile on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/how-to-remove-ios-beta-profile.jpg)
 
  Sometimes, configuration profiles that you may have installed on your iPhone from work or school can restrict access to certain areas of your device. Open the Settings app, then go to**General > VPN & Device Management** .
 
  If you notice your installed configuration profile here, you can try removing it by tapping**Remove Downloaded Profile** or**Remove Management** . If your school or employer gave you the iPhone, it's best to check with an IT contact there first before getting rid of anything they installed.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ## 3\. Check iCloud's Server Status
 
 ![Apple System Status Webpage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/apple-system-status-webpage.jpg)
@@ -60,10 +48,20 @@ thumbnail: https://thmb.techidaily.com/ca553c30ee84db192e99fa5840738c6a29a319bf3
 
 ## 4\. Update Your iPhone
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![iOS Security Response update available on Software Update page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/rapid-security-response-update-ios.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you're still out of luck, it may be time to update your iPhone to the latest iOS version if you're not on it already. Sometimes, your iPhone either needs a bug fix or a fresh start that comes with a new firmware release.
 
@@ -72,8 +70,12 @@ thumbnail: https://thmb.techidaily.com/ca553c30ee84db192e99fa5840738c6a29a319bf3
  When you're ready, hit**Download and Install** if you're not on the latest release, or**Install Now** if the new version was already downloaded in the background. The installation process will take several minutes to complete, and you'll be unable to use your iPhone until it's finished.
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Access Your iCloud Settings Without Issues
 
  Usually, problems like this are easy to patch, so hopefully, one of our troubleshooting methods suffices. But if nothing does the trick, and you've been stuck with inaccessible, grayed-out iCloud settings, consider reaching out to Apple for support. A specialist should be able to offer guidance or even take a direct look at your iPhone if you have an Apple Store nearby.
@@ -84,8 +86,6 @@ thumbnail: https://thmb.techidaily.com/ca553c30ee84db192e99fa5840738c6a29a319bf3
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -93,4 +93,21 @@ thumbnail: https://thmb.techidaily.com/ca553c30ee84db192e99fa5840738c6a29a319bf3
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-enhance-creativity-with-these-top-6-instagram-reel-tools/"><u>[New] 2024 Approved Enhance Creativity with These Top 6 Instagram Reel Tools</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-backwards-play-mastering-youtube-video-reversals/"><u>[Updated] In 2024, Backwards Play Mastering YouTube Video Reversals</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-record-to-win-optimizing-your-twitch-broadcasting-skills-for-2024/"><u>[Updated] Record to Win Optimizing Your Twitch Broadcasting Skills for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-ultimate-blueprints-livestream-and-log-sports-matches-effectively/"><u>2024 Approved Ultimate Blueprints Livestream & Log Sports Matches Effectively</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/are-paid-reviews-common-amongst-online-reviewers/"><u>Are Paid Reviews Common Amongst Online Reviewers?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/dealing-with-moisture-alerts-how-to-clear-liquid-detection-in-iphone-chargers/"><u>Dealing with Moisture Alerts: How to Clear Liquid Detection in iPhone Chargers</u></a></li>
+<li><a href="https://fox-that.techidaily.com/eradicate-typing-mistakes-a-guide-to-6-autocorrection-solutions-for-ios-devices/"><u>Eradicate Typing Mistakes: A Guide to 6 Autocorrection Solutions for iOS Devices</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-how-to-improve-airdrop-speed-and-connectivity-on-apple-devices/"><u>In 2024, How To Improve Airdrop Speed & Connectivity on Apple Devices</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-apps-and-online-tools-to-track-motorola-moto-g14-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Motorola Moto G14 Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-common-problems-getting-your-aol-mail-up-and-running-on-iphones-with-6-solutions/"><u>Overcoming Common Problems - Getting Your AOL Mail Up and Running on iPhones with 6 Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-iphones-qr-scanner-problems-a-step-by-step-guide-to-getting-it-working-again/"><u>Solving iPhone's QR Scanner Problems: A Step-by-Step Guide to Getting It Working Again</u></a></li>
+<li><a href="https://fox-that.techidaily.com/step-by-step-guide-reinstalling-your-ios-system-with-no-need-for-itunes/"><u>Step-by-Step Guide: Reinstalling Your iOS System with No Need for iTunes</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-motorola-defy-2-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Motorola Defy 2 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-vivo-y78plus-t1-edition-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Vivo Y78+ (T1) Edition Hard Reset | Dr.fone</u></a></li>
+</ul></div>
 

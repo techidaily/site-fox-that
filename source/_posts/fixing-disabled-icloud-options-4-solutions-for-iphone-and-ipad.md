@@ -1,7 +1,7 @@
 ---
 title: "Fixing Disabled iCloud Options: 4 Solutions for iPhone & iPad"
-date: 2024-07-20T03:18:38.197Z
-updated: 2024-07-21T03:18:38.197Z
+date: 2024-09-11T18:52:39.173Z
+updated: 2024-09-15T18:50:12.081Z
 tags:
   - iphone
   - apple
@@ -18,23 +18,14 @@ thumbnail: https://thmb.techidaily.com/3de06be99a3225bd572539cfd46d39535123115f6
 
  If that's the case, there are a few fixes you could try to re-enable them and get back into your iCloud settings.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Agree to New iCloud Terms and Conditions
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![New iCloud Terms and Conditions banner on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/iphone-icloud-terms-and-conditions.jpg)
 
  It's possible the only task you have to complete is agreeing to any updates to the iCloud Terms and Conditions. If this is the reason you don't have access to your iCloud settings, you should see a banner right at the top of Settings underneath your name that says**New iCloud Terms and Conditions** . Tap this, then tap**Terms and Conditions** in blue on the next screen.
 
  Unless you have the patience of a supreme being to read everything through, just tap**Agree** at the bottom right. Now, you should see that the Settings menu has been updated to enable iCloud and other related services.
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ## 2\. Check for Installed Configuration Profiles
 
 ![iOS Beta Profile on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/how-to-remove-ios-beta-profile.jpg)
@@ -43,15 +34,8 @@ thumbnail: https://thmb.techidaily.com/3de06be99a3225bd572539cfd46d39535123115f6
 
  If you notice your installed configuration profile here, you can try removing it by tapping**Remove Downloaded Profile** or**Remove Management** . If your school or employer gave you the iPhone, it's best to check with an IT contact there first before getting rid of anything they installed.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Check iCloud's Server Status
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![Apple System Status Webpage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/apple-system-status-webpage.jpg)
 
  On rare occasions, iCloud or parts of the service may be down, which could prevent access to certain features and settings. Fortunately, Apple has a handy webpage available for easily checking what services are up, down, or experiencing issues.
@@ -63,11 +47,28 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  The System Status website also serves as a terrific way to diagnose other problems that may pop up from time to time, like [apps failing to sync through iCloud](https://www.makeuseof.com/fix-apple-apps-sync-icloud/) .
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 4\. Update Your iPhone
 
 ![iOS Security Response update available on Software Update page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/rapid-security-response-update-ios.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you're still out of luck, it may be time to update your iPhone to the latest iOS version if you're not on it already. Sometimes, your iPhone either needs a bug fix or a fresh start that comes with a new firmware release.
 
@@ -85,8 +86,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -94,4 +93,22 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/updated-pinnacle-spotlight-tapes/"><u>[Updated] Pinnacle Spotlight Tapes</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-mac-users-guide-the-full-spectrum-of-screenflow-pro/"><u>2024 Approved Mac Users Guide The Full Spectrum of ScreenFlow Pro</u></a></li>
+<li><a href="https://program-issues.techidaily.com/comprehensive-solutions-for-when-your-steam-friends-cant-be-reached/"><u>Comprehensive Solutions for When Your Steam Friends Can’t Be Reached</u></a></li>
+<li><a href="https://fox-that.techidaily.com/diy-fixes-for-iphones-that-wont-ring-their-built-in-alarm/"><u>DIY Fixes for iPhones That Won’t Ring Their Built-In Alarm</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/elevate-views-prime-seo-equipment-for-videos-for-2024/"><u>Elevate Views Prime SEO Equipment for Videos for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/engage-with-the-tiktok-community/"><u>Engage With the TikTok Community:</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-persistent-cramch-in-path-of-exile-a-step-by-step-solution/"><u>Fixing Persistent Cramch in Path of Exile: A Step-by-Step Solution</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-resolve-iphone-app-download-failures-explore-these-10-proven-fixes/"><u>How to Resolve iPhone App Download Failures? Explore These 10 Proven Fixes</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-13-pro-to-others-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 13 Pro to others devices? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/leading-workplace-data-safekeepers-for-2024/"><u>Leading Workplace Data Safekeepers for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/struggling-with-safari-full-screen-shots-here-are-the-fixes-you-need/"><u>Struggling with Safari Full Screen Shots? Here Are the Fixes You Need!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-6-persistent-problems-with-iphone-13-solutions-revealed/"><u>Top 6 Persistent Problems with iPhone 13: Solutions Revealed</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-7-frustrating-iphone-x-glitches-solutions-inside/"><u>Top 7 Frustrating iPhone X Glitches: Solutions Inside</u></a></li>
+<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-xiaomi-redmi-k70-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Xiaomi Redmi K70 Screen | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-guide-restoring-vibration-functionality-for-iphones-on-silent-or-ring-mode/"><u>Troubleshooting Guide: Restoring Vibration Functionality for iPhones on Silent or Ring Mode</u></a></li>
+</ul></div>
 

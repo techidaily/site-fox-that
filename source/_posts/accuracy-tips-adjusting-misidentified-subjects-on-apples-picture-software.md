@@ -1,7 +1,7 @@
 ---
 title: "Accuracy Tips: Adjusting Misidentified Subjects on Apple’s Picture Software"
-date: 2024-07-20T03:18:47.888Z
-updated: 2024-07-21T03:18:47.888Z
+date: 2024-09-09T18:07:36.476Z
+updated: 2024-09-15T16:35:28.960Z
 tags:
   - iphone
   - apple
@@ -29,14 +29,8 @@ thumbnail: https://thmb.techidaily.com/3bea074e02c00367c73eda64c4dc35b2b7531a175
 
 ![review confirmed photos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/review-confirmed-photos.PNG)
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![review more photos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/review-more-photos.PNG)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![confirm person](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/confirm-person.PNG)
 
 Close
@@ -52,18 +46,12 @@ Close
 3. Hit the**Share** button in the bottom-left corner of your screen.
 4. Choose**This is Not X** , and the selected photos will be removed from that album.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ![select photos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/select-photos.PNG)
 
 ![this is not X option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/this-is-not-X-option.PNG)
 
 Close
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Fix Misidentified People in Photos on a Mac
 
  Removing photos from another person's album on a Mac is just as easy as it is on your iPhone. Follow these steps to do so:
@@ -74,28 +62,26 @@ Close
 4. Control-click on the photo.
 5. Click**X is Not in This Photo** .
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ![Person is not in this photo option in Photos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/Person-is-not-in-this-photo-option-in-Photos.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115912/19272" target="_top" id="2115912">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115912" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115912/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Easily Sort Pictures With the People Album
 
  The People album in Photos is a great way to view your photo library in an organized way. You can easily look back at all your memories with a particular person without needing to scroll past a sea of unrelated pictures.
 
  However, having misidentified photos in the wrong albums can be quite a nuisance to deal with. Fortunately, the problem has a relatively quick and easy fix. You can review uncategorized photos to avoid the problem in the future, and you can remove any mismatched pictures you stumble across using the Share button.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -104,4 +90,16 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-realme-v30t-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Realme V30T without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/immerse-in-depths-with-a-trusty-sidekick-the-insta360-one-x2/"><u>Immerse in Depths with a Trusty Sidekick - The Insta360 One X2</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solve-the-borderlands-3-crash-issue-top-11-effective-solutions/"><u>Solve the Borderlands 3 Crash Issue: Top 11 Effective Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-the-problem-of-a-singular-non-working-airpod/"><u>Solving the Problem of a Singular Non-Working AirPod</u></a></li>
+<li><a href="https://fox-that.techidaily.com/spotting-trouble-the-ultimate-list-of-9-hints-for-a-wet-iphone-incident/"><u>Spotting Trouble: The Ultimate List of 9 Hints for a Wet iPhone Incident</u></a></li>
+<li><a href="https://fox-that.techidaily.com/step-by-step-solutions-getting-your-iphones-hey-siri-feature-back-on-track/"><u>Step-by-Step Solutions: Getting Your iPhone's 'Hey Siri' Feature Back on Track</u></a></li>
+<li><a href="https://fox-that.techidaily.com/understanding-and-fixing-random-browser-activity-in-iphone-screen-time-monitoring/"><u>Understanding and Fixing Random Browser Activity in iPhone Screen Time Monitoring</u></a></li>
+<li><a href="https://techidaily.com/unlock-locked-iphone-14-pro-by-restoring-it-to-default-settings-by-drfone-ios-unlock-ios-unlock/"><u>Unlock locked iPhone 14 Pro by restoring it to default settings</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/where-is-the-best-place-to-catch-dratini-on-nokia-c210-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Nokia C210 | Dr.fone</u></a></li>
+</ul></div>
 

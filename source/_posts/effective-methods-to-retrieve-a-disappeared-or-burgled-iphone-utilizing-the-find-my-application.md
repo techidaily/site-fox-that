@@ -1,0 +1,199 @@
+---
+title: "Effective Methods to Retrieve a Disappeared or Burgled iPhone: Utilizing the Find My Application"
+date: 2024-09-10T22:37:11.176Z
+updated: 2024-09-15T17:56:33.562Z
+tags:
+  - iphone
+  - apple
+categories:
+  - iphone
+description: "This Article Describes Effective Methods to Retrieve a Disappeared or Burgled iPhone: Utilizing the Find My Application"
+excerpt: "This Article Describes Effective Methods to Retrieve a Disappeared or Burgled iPhone: Utilizing the Find My Application"
+thumbnail: https://thmb.techidaily.com/7e2e77f0d86cd559dbfa986d906ed8c2ea52210199eb42f08b362eadc3328953.jpg
+---
+
+## Effective Methods to Retrieve a Disappeared or Burgled iPhone: Utilizing the Find My Application
+
+>  Disclaimer: This post includes affiliate links
+>
+>  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
+>
+
+### Quick Links
+
+* [Accessing Apple's Find My Network](https://www.makeuseof.com/tag/so-your-iphone-was-lost-or-stolen-heres-what-to-do/#accessing-apple-39-s-find-my-network)
+* [How to Locate Your Lost iPhone on Find My](https://www.makeuseof.com/tag/so-your-iphone-was-lost-or-stolen-heres-what-to-do/#how-to-locate-your-lost-iphone-on-find-my)
+
+### Key Takeaways
+
+* You don't need another Apple device to use the Find My service to locate your lost iPhone.
+* Find My gives several options to help find your missing iPhone besides spotting it on the map.
+* Your options may be limited if your lost iPhone isn't powered on or connected to the internet.
+
+ There's no need to panic when your iPhone goes missing. Regardless of where you lost your device, Apple's Find My app simplifies the tedious process of locating it. We'll teach you how to use Find My to track and find your lost iPhone.
+
+## Accessing Apple's Find My Network
+
+ You can use the [Find My app](https://apps.apple.com/us/app/find-my/id1514844621) to locate any of your Apple devices and even choose to get directions to that location and lock the device until you arrive. Since you lost your iPhone, you have two options to access the Find My network.
+
+ Find My is enabled on iPhones by default. However, if you disabled this setting before you lost your iPhone, it won't appear on Apple's Find My network.
+
+### 1\. Use Your Other Apple Devices
+
+ If you own more than one Apple device, like an iPad or Mac, you can use the Find My app on it to locate your missing iPhone.[Use the Spotlight search feature](https://www.makeuseof.com/tag/use-spotlight-iphone-save-time/) to find and open it quickly. If you still can't find it, download it again from the App Store.
+
+**Download:** [Find My](https://apps.apple.com/app/find-my/id1514844621) (Free)
+
+ After opening the Find My app on your iPad or Mac, head to the**Devices** tab to view all the devices linked to your Apple ID, including your lost iPhone.
+
+![devices tab in find my app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/devices-tab-in-find-my-app.png)
+
+### 2\. Use the iCloud Website From Any Device
+
+ If you don't have any other Apple devices, you can use a non-Apple device, like your Windows PC, to access the iCloud website instead. It doesn't matter if you use someone else's device for this as long as you remember to sign out afterward.
+
+ Open any web browser on any device, head to [icloud.com/find](https://www.icloud.com/find/) , and sign in with your Apple ID. You should be able to view all your devices under the**All Devices** section. The web version of the Find My app offers all the same features you need to locate your lost or stolen Apple devices.
+
+![finding a lost device using iCloud](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/finding-a-lost-device-using-icloud.png)
+
+<!-- affiliate ads begin -->
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## How to Locate Your Lost iPhone on Find My
+
+ Find My uses Wi-Fi and Bluetooth signals to show the approximate location of your iPhone. The location is usually accurate to within a few hundred feet.
+
+ However,[if Find My shows your iPhone as offline](https://www.makeuseof.com/tag/find-my-iphone-offline-meaning/) , you may only see its last known location—if there is one. Offline devices can show up with a black screen in the Find My app. This might happen if your device ran out of battery or if someone turned it off.
+
+![Offline Devices appearing in Find My website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/offline-devices-appearing-in-find-my-website.png)
+
+ As mentioned earlier, there's no point in using Find My if you disabled the feature on your lost iPhone. It won't appear in the list of devices when you open Find My.
+
+### Get a Notification When Your iPhone Goes Online
+
+ If your lost iPhone is offline, you can set Find My to notify you when it goes online again. This would happen when someone powers on the device or if it connects to Wi-Fi or Bluetooth again.
+
+ To set this up in Find My, select the missing iPhone and toggle on**Notify When Found** . On a Mac, you need to select your offline device and click the**Info (i)** button next to it on the map to access the**Notify When Found** toggle.
+
+![toggling Notify When Found](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/toggling-notify-when-found.png)
+
+ The Find My app will send you a notification, and Apple will email you the location of your lost or stolen iPhone as soon as it goes online.
+
+### Get Directions to Your Lost or Stolen iPhone
+
+ If your lost iPhone or iPad is online, you can use the Find My app to get directions to its location. Select your device in Find My and hit**Directions** . On a Mac, you need to select your iPhone in Find My, then click the**Info (i)** button next to it on the map to access this option.
+
+ Apple Maps will launch and load a route from your current location to your lost device. Unfortunately, you won't find this option in Find My's web client. You'll only see it in the Find My app on one of your Apple devices.
+
+![Directions option for a device in Find My app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/getting-direction-to-lost-device.png)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123466/16836" target="_top" id="2123466">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123466" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123466/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+ You shouldn't try to retrieve your iPhone if you believe it was stolen. Instead, follow the instructions below to enable Lost Mode and contact law enforcement agencies to tell them where it is.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2128844/7443" target="_top" id="2128844">
+  <img src="//a.impactradius-go.com/display-ad/7443-2128844" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128844/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+### Play a Sound to Find Your Missing iPhone
+
+ The Find My app only offers a vague location for your lost iPhone. This might help you narrow it down to work, home, or the supermarket. But you'll still struggle to find it if it's tucked beneath a couch cushion or at the bottom of the laundry basket.
+
+ Fortunately, you can use Find My to make your iPhone play a loud sound, making it easier to find when you're nearby.
+
+ You'll find the**Play Sound** button once you select your missing iPhone in Find My, whether you're using the web client or the native app on iPhone or iPad. On a Mac, remember to click the**Info (i)** button after selecting it to access this option.
+
+![playing sound in find my app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/playing-sound-in-find-my-app.png)
+
+ Your iPhone will keep playing a sound until you find and unlock it or someone else powers off the device. Not that your iPhone must be connected to the internet for this to work.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120862/26400?prodsku=Saturn" target="_top" id="2120862">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120862" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120862/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+### Enable Lost Mode if You Still Can't Find Your iPhone
+
+ It's always a good idea to enable Lost Mode if you can't get your hands on your missing iPhone right away.[The Lost Mode option on Find My](https://www.makeuseof.com/what-is-apple-lost-mode/) suspends Apple Pay and locks your device. And if your missing iPhone doesn't have a passcode set, you'll be prompted to create one.
+
+ You can also use Lost Mode to display a message on the screen telling whoever finds it that this device belongs to you, along with details on how to reach you. Your device will still receive phone calls in Lost Mode, but it won't display any alerts.
+
+ To enable Lost Mode, select your device in Find My and hit**Activate** under the**Mark As Lost** option. Then, follow the prompts to create a passcode (if you don't already have one) and write a message for people to see when they find your iPhone. Then, choose**Activate** .
+
+![marking device as lost in Find My](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/marking-device-as-lost.png)
+
+ Lost Mode keeps your data intact. You won't lose anything if you recover your iPhone and disable Lost Mode with your passcode.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115936/19272" target="_top" id="2115936">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115936" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115936/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+### Only Erase Your Device if You Never Expect to Find It
+
+ Find My also lets you remotely erase all the data on your lost iPhone or iPad. However, you should only use this option if you never expect to find your missing device again.
+
+ Once you use Find My to erase a missing iPhone, you can't track its location anymore. No one else can use your device because it's locked to your Apple ID with Activation Lock. But you're unlikely to find it again because you can't use Find My to see where it is.
+
+ We only recommend this option if you've given up on ever getting your device back. You'll find the**Erase This Device** option at the bottom once you select your iPhone in Find My.
+
+![erasing lost iPhone in Find My](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/erasing-lost-iphone.png)
+
+ Keep in mind that your iPhone must be connected to the internet to start this process. Otherwise, you'll notice that the erase is pending on Find My.
+
+ Apple's Find My app makes locating a lost or stolen iPhone easy. But this isn't the only tool at your disposal. In fact, there are other [ways to find your lost iPhone](https://www.makeuseof.com/ways-to-find-your-lost-iphone/) , which can be handy if you have Find My disabled.
+
+ For instance, you can check Google's timeline, ask friends and family members, or try calling your phone number to listen for the ring if it's nearby. With these tips, you should be able to get your iPhone back in no time.
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/ed-managing-a-day-job-and-your-thriving-youtube-channel-for-2024/"><u>[Updated] Managing a Day Job and Your Thriving YouTube Channel for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-understanding-hdr-techniques-in-modern-photoshoots/"><u>2024 Approved Understanding HDR Techniques in Modern Photoshoots</u></a></li>
+<li><a href="https://fox-that.techidaily.com/accurate-apple-screen-time-monitoring-how-to-prevent-misreported-website-usage-on-iphones/"><u>Accurate Apple Screen Time Monitoring: How to Prevent Misreported Website Usage on iPhones</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/base-vs-augmented-choose-your-preferred-chatgpt-approach/"><u>Base vs Augmented: Choose Your Preferred ChatGPT Approach</u></a></li>
+<li><a href="https://fox-that.techidaily.com/diy-tips-for-draining-water-trapped-in-your-iphones-audio-ports/"><u>DIY Tips for Draining Water Trapped in Your iPhone's Audio Ports</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/elevate-your-website-analytics-and-performance-through-advanced-cookiebot-technology/"><u>Elevate Your Website Analytics and Performance Through Advanced Cookiebot Technology</u></a></li>
+<li><a href="https://fox-that.techidaily.com/experiencing-slow-messages-on-iphone-correct-the-issue-with-these-9-tips/"><u>Experiencing Slow Messages on iPhone? Correct the Issue with These 9 Tips</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fix-it-a-guide-to-addressing-an-unresponsive-iphone-display/"><u>Fix It! A Guide to Addressing an Unresponsive iPhone Display</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-se-to-the-previous-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone SE to the Previous iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-reactivate-your-windows-tab-key/"><u>How to Reactivate Your Windows Tab Key</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-restore-landscape-mode-functionality-when-iphones-wont-rotate-the-screen/"><u>How to Restore Landscape Mode Functionality When iPhones Won't Rotate the Screen</u></a></li>
+<li><a href="https://fox-that.techidaily.com/illumination-troubleshooting-for-iphones-12-effective-solutions/"><u>Illumination Troubleshooting for iPhones: 12 Effective Solutions</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/nvidias-newest-rtx-2-groove-with-your-windows-11-7-or-8-drivers-now-available/"><u>Nvidia's Newest RTX 2 Groove with Your Windows 11, 7 or 8 – Drivers Now Available</u></a></li>
+</ul></div>
+

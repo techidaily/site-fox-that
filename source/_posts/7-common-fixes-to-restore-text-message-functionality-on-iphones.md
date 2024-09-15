@@ -1,7 +1,7 @@
 ---
 title: 7 Common Fixes to Restore Text Message Functionality on iPhones
-date: 2024-07-20T03:19:34.222Z
-updated: 2024-07-21T03:19:34.222Z
+date: 2024-09-08T16:30:43.039Z
+updated: 2024-09-15T16:13:18.158Z
 tags:
   - iphone
   - apple
@@ -20,16 +20,10 @@ thumbnail: https://thmb.techidaily.com/daf5ba2a8491ccb029544c33871dfddf8c00a96e7
 
  Your browser does not support the video tag.
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Make Sure Messaging Is Enabled
 
  If you've just set up your iPhone or completed an iOS update, there is a chance iMessage isn't enabled. If not enabled, you won't receive texts from other iPhones. To turn this on, head to**Settings > Messages > iMessage** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ![imessage settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/imessage-settings.jpg)
 
  Below iMessage, you will also see a setting for**Send & Receive** . Make sure you have an address enabled to receive iMessages. While you're here, be sure to also enable**MMS** and**Group Messaging** . If you scroll down, you will see the options for these.
@@ -42,19 +36,10 @@ thumbnail: https://thmb.techidaily.com/daf5ba2a8491ccb029544c33871dfddf8c00a96e7
 
 ## 2\. Edit Send & Receive Settings
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![iOS settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/messages-settings-ios16.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![iphone messages settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/iphone-messages-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![selecting email address for imessage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/apple-imessage-settings.jpg)
 
 Close
@@ -81,9 +66,6 @@ Close
 
  To turn this on, head to**Settings > Messages** and tap**Send as SMS** . This will enable SMS messaging in the future.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ![send as sms](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/send-as-sms.jpg)
 
 ## 5\. Turn Off Message Filtering
@@ -106,7 +88,21 @@ Close
 
 ![reset network settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/reset-network-settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118310/7443" target="_top" id="2118310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118310" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  After resetting your network settings, get someone to send you another text message. If you still can't receive it, you can always try [resetting your iPhone entirely](https://www.makeuseof.com/tag/how-to-factory-reset-iphone-ipad/) . However, that is time-consuming and might not work.
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Contact Your Carrier
 
@@ -117,8 +113,12 @@ Close
  When calling your carrier, just let them know you aren't receiving text messages. If the carrier can't help you, consider switching to a different network provider unless you have a [carrier-locked phone](https://www.makeuseof.com/unlocked-vs-locked-phone/) .
 
 <!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## iPhone Not Receiving Texts? There Are Things You Can Do
 
  You could miss important events or updates if you're not receiving text messages on your iPhone. This can be difficult for anybody. Because of this, you'll want to get this fixed as soon as possible. After all, you might have already missed some important messages and don't want to miss them anymore.
@@ -133,8 +133,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -142,4 +140,16 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-realities-of-youtube-view-calculation-for-2024/"><u>[Updated] The Realities of YouTube View Calculation for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-nokia-c22-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Nokia C22 Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/addressing-the-issue-no-incoming-calls-on-your-iphone/"><u>Addressing the Issue: No Incoming Calls on Your iPhone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-advice-eradicating-vertical-line-issues-in-your-samsung-flat-screen-tv/"><u>Expert Advice: Eradicating Vertical Line Issues in Your Samsung Flat Screen TV</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/get-perfect-film-endings-for-your-projects-on-the-house/"><u>Get Perfect Film Endings for Your Projects - On the House</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-adjust-screen-time-on-iphone-to-accurately-reflect-web-activity/"><u>How to Adjust Screen Time on iPhone to Accurately Reflect Web Activity</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-xiaomi-redmi-k70efrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Xiaomi Redmi K70EFRP Lock</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-tips-resolving-iphone-alarm-malfunction/"><u>Troubleshooting Tips: Resolving iPhone Alarm Malfunction</u></a></li>
+<li><a href="https://fox-that.techidaily.com/using-apples-find-my-to-retrieve-lost-or-stolen-iphones-a-step-by-nstep-guide/"><u>Using Apple's 'Find My' To Retrieve Lost or Stolen iPhones: A Step-by-nStep Guide</u></a></li>
+</ul></div>
 

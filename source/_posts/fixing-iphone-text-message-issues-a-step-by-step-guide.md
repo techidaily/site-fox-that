@@ -1,7 +1,7 @@
 ---
 title: Fixing iPhone Text Message Issues – A Step-by-Step Guide
-date: 2024-07-20T03:18:55.833Z
-updated: 2024-07-21T03:18:55.833Z
+date: 2024-09-12T21:49:54.176Z
+updated: 2024-09-15T19:50:41.285Z
 tags:
   - iphone
   - apple
@@ -20,16 +20,10 @@ thumbnail: https://thmb.techidaily.com/2635526a9b4bc31b09f99f8ed1ec33a28f3bd1734
 
  Your browser does not support the video tag.
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Make Sure Messaging Is Enabled
 
  If you've just set up your iPhone or completed an iOS update, there is a chance iMessage isn't enabled. If not enabled, you won't receive texts from other iPhones. To turn this on, head to**Settings > Messages > iMessage** .
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![imessage settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/imessage-settings.jpg)
 
  Below iMessage, you will also see a setting for**Send & Receive** . Make sure you have an address enabled to receive iMessages. While you're here, be sure to also enable**MMS** and**Group Messaging** . If you scroll down, you will see the options for these.
@@ -42,23 +36,10 @@ thumbnail: https://thmb.techidaily.com/2635526a9b4bc31b09f99f8ed1ec33a28f3bd1734
 
 ## 2\. Edit Send & Receive Settings
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ![iOS settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/messages-settings-ios16.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![iphone messages settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/iphone-messages-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![selecting email address for imessage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/apple-imessage-settings.jpg)
 
 Close
@@ -85,9 +66,6 @@ Close
 
  To turn this on, head to**Settings > Messages** and tap**Send as SMS** . This will enable SMS messaging in the future.
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![send as sms](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/send-as-sms.jpg)
 
 ## 5\. Turn Off Message Filtering
@@ -108,13 +86,23 @@ Close
 
  To do this, head to **Settings > General > Transfer or Reset iPhone > Reset > Reset Network Settings** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![reset network settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/reset-network-settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  After resetting your network settings, get someone to send you another text message. If you still can't receive it, you can always try [resetting your iPhone entirely](https://www.makeuseof.com/tag/how-to-factory-reset-iphone-ipad/) . However, that is time-consuming and might not work.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123475/16836" target="_top" id="2123475">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123475" border="0" alt="https://techidaily.com" width="300" height="75"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123475/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Contact Your Carrier
 
@@ -123,6 +111,13 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  If you pay your carrier for service and aren't receiving text messages, the carrier is responsible for restoring your text messaging. The carrier can verify your plan, check for outages, and try resetting your account if necessary. You may also want to consider trying a new SIM card and see if that helps.
 
  When calling your carrier, just let them know you aren't receiving text messages. If the carrier can't help you, consider switching to a different network provider unless you have a [carrier-locked phone](https://www.makeuseof.com/unlocked-vs-locked-phone/) .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## iPhone Not Receiving Texts? There Are Things You Can Do
 
@@ -138,8 +133,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -147,4 +140,23 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-ultimate-9-hidden-media-extractors/"><u>[New] 2024 Approved Ultimate 9 Hidden Media Extractors</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-new-frontiers-unpacking-windows-10-improvements/"><u>[New] New Frontiers Unpacking Windows 10 Improvements</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1-download-the-macx-pro-hd-dvd-ripper-and-converter-transform-your-movies-and-music-from-dvdsblu-rays-to-compatible-psp-formats/"><u>1. Download the MacX Pro HD DVD Ripper & Converter: Transform Your Movies and Music From DVDs/Blu-Rays to Compatible PSP Formats</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/11-best-pokemon-go-spoofers-for-gps-spoofing-on-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>11 Best Pokemon Go Spoofers for GPS Spoofing on Apple iPhone 13 Pro | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-reimagining-photo-presentation-with-top-frame-tools/"><u>2024 Approved Reimagining Photo Presentation with Top Frame Tools</u></a></li>
+<li><a href="https://fox-that.techidaily.com/clear-lens-perfect-image-unblurring-techniques-for-iphone-cameras/"><u>Clear Lens, Perfect Image: Unblurring Techniques for iPhone Cameras</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/download-free-movies-and-tv-shows-on-your-pc-with-our-win11win10-application/"><u>Download Free Movies and TV Shows on Your PC with Our Win11/Win10 Application</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-innovative-strategies-for-effective-live-webcam-recording/"><u>In 2024, Innovative Strategies for Effective Live Webcam Recording</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-application-gone-a-guide-to-locating-missing-apps-and-fixes-for-disappearances/"><u>IPhone Application Gone? A Guide to Locating Missing Apps & Fixes for Disappearances</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-volume-buttons-failing-to-function-apply-these-7-fixes-now/"><u>IPhone Volume Buttons Failing to Function? Apply These 7 Fixes Now!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/mastering-apples-rde-a-step-by-step-guide-to-getting-your-iphone-hardware-test/"><u>Mastering Apple's RDE: A Step-by-Step Guide to Getting Your iPhone Hardware Test</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/optimal-webcams-for-enhanced-clarity-in-all-your-zoom-calls-for-2024/"><u>Optimal Webcams for Enhanced Clarity in All Your Zoom Calls for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolve-your-iphones-frustrating-wi-fi-connection-drops-with-these-5-tips/"><u>Resolve Your iPhone’s Frustrating Wi-Fi Connection Drops with These 5 Tips!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-future-of-therapy-is-artificial-intelligence-set-to-improve-mental-health-assistance-or-could-it-backfire/"><u>The Future of Therapy: Is Artificial Intelligence Set to Improve Mental Health Assistance, or Could It Backfire?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-iphone-photography-solving-top-7-camera-problems/"><u>Troubleshooting iPhone Photography: Solving Top 7 Camera Problems</u></a></li>
+<li><a href="https://fox-that.techidaily.com/ultimate-guide-solving-whatsapp-zoom-issue-with-simple-steps/"><u>Ultimate Guide: Solving WhatsApp Zoom Issue with Simple Steps</u></a></li>
+</ul></div>
 

@@ -1,0 +1,107 @@
+---
+title: "Streamlining Your Visual Memories: Combining Repeated Photos in iPhone & Mac Libraries"
+date: 2024-09-09T20:02:50.469Z
+updated: 2024-09-15T20:12:01.248Z
+tags:
+  - iphone
+  - apple
+categories:
+  - iphone
+description: "This Article Describes Streamlining Your Visual Memories: Combining Repeated Photos in iPhone & Mac Libraries"
+excerpt: "This Article Describes Streamlining Your Visual Memories: Combining Repeated Photos in iPhone & Mac Libraries"
+thumbnail: https://thmb.techidaily.com/8eb0a52f331cadec1455be55279efe68c9588c11451977d41c23dfeca435c0f3.jpg
+---
+
+## Streamlining Your Visual Memories: Combining Repeated Photos in iPhone & Mac Libraries
+
+ The People album in the Photos app on Apple devices serves a great purpose by helping you browse through pictures of different people. Your iPhone, iPad, or Mac relies on facial recognition software to sort through photos in your gallery to create the albums. But it doesn't always do so perfectly.
+
+ While syncing photos between multiple Apple devices, Photos might mistakenly create multiple albums for the same person. This can also happen if you've got particularly blurry pictures of someone or if they change their look with a new hairstyle, glasses, or facial hair.
+
+ If that happens, here's how you can fix it by merging multiple people together in the Photos app on your iPhone or Mac.
+
+>  Disclaimer: This post includes affiliate links
+>
+>  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
+>
+
+## How to Merge Multiple People in Photos on an iPhone or iPad
+
+ Luckily, it's easy to fix duplicate people albums in Photos by merging them together. You can even merge People albums for totally different people into one, if you want to create one album for your entire family or group of friends. Follow these steps to merge different People albums into one on an iPhone or iPad:
+
+1. Open**Photos** and go to**Albums > People** album and tap**Select** .
+2. Select on the profiles you want to merge together.
+3. In the bottom-right corner, tap**Merge** .
+4. A popup will appear asking if they're the same person. Tap**Yes** (even if they aren't and you want to merge them anyway).
+
+![select icon in top right](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/select-icon-in-top-right.PNG)
+
+![select profiles](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/select-profiles.PNG)
+
+![merge people albums](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/merge-people-albums.PNG)
+
+Close
+
+ Related:[Tips That Will Help You Master the People Album in Photos](https://www.makeuseof.com/tips-to-master-people-album-photos-iphone/)
+
+## How to Merge Multiple People in Photos on a Mac
+
+ The same error of having multiple profiles for one person can also occur on a Mac, especially if you're syncing photos between your iPhone and Mac.
+
+ The way to combine albums on a Mac is similar to merging albums on an iPhone or iPad. Here are the steps you need to follow:
+
+1. Open the**Photos** app on your Mac and click**People** in the sidebar.
+2. Select all the profiles you want to merge together.
+3. Control-click one group.
+4. From the list of actions, select**Merge X People** .
+5. Click**Yes** to confirm that these are the same person (even if they aren't and you want to merge them anyway).
+
+![Merge 2 People option in Photos app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/Merge-2-People-option-in-Photos-app.jpg)
+
+ Read More:[Ways to Fix iCloud Photos Not Syncing on Your Mac](http://www.makeuseof.com/how-to-fix-icloud-photos-not-syncing-mac/)
+
+## Sort Through Your Photos by People
+
+ Merging multiple albums is quick and easy to do. The steps are the same on an iPhone, iPad, and Mac. All you have to do is select the profiles you want to merge together, then choose to**Merge** them together.
+
+ Merging albums of people will ensure your gallery is organized and error-free. Or you can use the option to create an album of a specific group of people together, though it's usually best to use the Search feature for that.
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-simple-scan-capture-solution-w10-os-for-2024/"><u>[New] Simple Scan-Capture Solution - W10 OS for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-the-future-of-audio-extraction-with-pazera-tools-analysis-for-2024/"><u>[New] The Future of Audio Extraction with Pazera Tools Analysis for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-vivo-v27-pro-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Vivo V27 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/clear-the-fog-4-techniques-to-reactivate-icloud-on-ios-devices/"><u>Clear the Fog: 4 Techniques to Reactivate iCloud on iOS Devices</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-your-iphones-non-functional-torch-12-essential-tricks/"><u>Fixing Your iPhone's Non-Functional Torch: 12 Essential Tricks</u></a></li>
+<li><a href="https://fox-that.techidaily.com/guide-fixing-iphones-when-guided-mode-stops-responding-correctly/"><u>Guide: Fixing iPhones When Guided Mode Stops Responding Correctly</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Vivo T2 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-resolve-the-opengl32dll-missing-error-on-your-pc/"><u>How To Resolve The 'OpenGL32.dll' MISSING ERROR On Your PC</u></a></li>
+<li><a href="https://fox-that.techidaily.com/uncover-the-hidden-reactivating-lost-siri-assistance-and-suggestions-on-iphone/"><u>Uncover the Hidden: Reactivating Lost Siri Assistance and Suggestions on iPhone</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

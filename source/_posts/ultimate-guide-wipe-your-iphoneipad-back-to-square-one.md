@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Wipe Your iPhone/iPad Back to Square One"
-date: 2024-07-20T03:19:37.528Z
-updated: 2024-07-21T03:19:37.528Z
+date: 2024-09-12T17:08:43.527Z
+updated: 2024-09-15T17:31:20.867Z
 tags:
   - iphone
   - apple
@@ -49,35 +49,41 @@ thumbnail: https://thmb.techidaily.com/2fd2af990894cf11cb2087adc0179e8a43be6adf1
 
  To check this, head to**Settings** on your iPhone/iPad and tap your name at the top of the list to open your Apple ID settings. Choose**Sign-In & Security > Two-Factor Authentication** to check your**Trusted Phone Number(s)** and**Security Keys** . If you need to add one, do so here.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![iCloud Settings on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/01a-icloud-settings-iphone.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![iPhone Security Settings iCloud](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/01a-iphone-security-settings-icloud.png)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118321/7443" target="_top" id="2118321">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118321" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118321/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![iPhone 2FA Settings iCloud](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/01b-iphone-2fa-settings-icloud.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ### If You're Not Keeping Your Device
 
  In case you're factory resetting your iPhone or iPad to sell it, give it away, or trade it in, you should take some extra steps to ensure a smooth transfer to your next device and avoid problems for the new owner of your old one. This includes potential extra steps like unpairing your Apple Watch or AirPods, signing out of iMessage, and removing your SIM card. We've explained [what to do before selling your iPhone](https://www.makeuseof.com/things-to-do-before-selling-iphone/) if this applies to you.
 
  When you're performing a factory reset to troubleshoot issues, you don't need to worry about these steps since you're keeping the device.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Reset Your iPhone or iPad to Factory Settings
 
  Just like backing up your device, there are two ways you can erase your iPhone or iPad: on the device itself or using a computer. We recommend resetting using Settings on your device unless you need to use the computer method for some reason.
@@ -88,14 +94,8 @@ Close
 
  Once you tap this, you'll see an**Erase This iPhone** page with a summary of what will happen when you continue. Importantly, erasing your iPhone turns off Find My and Activation Lock as part of the process. Unlike older versions of iOS, you don't need to sign out of your Apple ID separately to avoid Activation Lock preventing the new owner from using the phone.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![iPhone General Bottom of Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/02a-iphone-general-bottom-of-menu.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![iPhone Transfer or Reset Page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/02b-iphone-transfer-or-reset-page.png)
 
 ![iPhone Transfer or Reset Summary](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/02c-iphone-transfer-or-reset-summary.png)
@@ -112,6 +112,13 @@ Close
 
  As your phone resets, you'll see an Apple logo with a progress bar. Once your data has been wiped, your iPhone or iPad will restart.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Reset Your iPhone or iPad Using a Computer
 
  In case you need to factory reset your iPhone and the convenient on-device method doesn't work, you can use Finder (on a Mac) or the [Apple Devices app](https://apps.microsoft.com/detail/9NP83LWLPZ9K) (on Windows) to reset.
@@ -120,9 +127,6 @@ Close
 
 ![Find My Settings iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/03a-find-my-settings-iphone.png)
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Find My iPhone Disable Slider](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/03b-find-my-iphone-disable-slider.png)
 
 Close
@@ -131,10 +135,20 @@ Close
 
  On a Mac, open**Finder** and select your device from**Locations** in the sidebar. Make sure you're on the**General** tab and hit the**Restore iPhone/iPad** button under the**Software** section.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![The option to reset your iPhone on Mac](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/04/Reset-iPhone-Mac.png)
+
+<!-- affiliate ads begin -->
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  On Windows, open the Apple Devices app, expand the panel with your device's name on the left side, and make sure you're on the**General** tab. In the top box under**Software** , click**Restore iPhone/iPad** .
 
@@ -156,8 +170,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -165,4 +177,18 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://network-issues.techidaily.com/fixed-battlefield-v-update-crash-xbox-directx-conflict/"><u>[FIXED] Battlefield V Update Crash - Xbox DirectX Conflict</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/nspire-your-recruitment-process-with-pioneering-tapes-for-2024/"><u>[New] Inspire Your Recruitment Process with Pioneering Tapes for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-instagrams-audio-alteration-the-ultimate-guide-for-2024/"><u>[New] Instagram's Audio Alteration The Ultimate Guide for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-rage-quarters-and-swords-nintendo-switch-fighting-classics/"><u>[Updated] In 2024, Rage Quarters & Swords Nintendo Switch Fighting Classics</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-cutting-edge-methods-to-record-and-save-lectures-on-imac/"><u>2024 Approved Cutting-Edge Methods to Record and Save Lectures on iMac</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-restore-functionality-of-guided-access-on-your-iphone-a-guide/"><u>How to Restore Functionality of Guided Access on Your iPhone – A Guide</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-address-incompatible-facebook-videos-on-ios/"><u>In 2024, Address Incompatible Facebook Videos on iOS</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-poco-f5-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Poco F5 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-a-vivo-y27-5g-easily-by-drfone-android/"><u>In 2024, How To Unlock a Vivo Y27 5G Easily?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcome-iphone-detection-problems-in-itunes-or-finder-a-step-by-step-guide/"><u>Overcome iPhone Detection Problems in iTunes or Finder - A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/the-ultimate-walkthrough-to-remote-diagnostic-examination-of-your-iphone-with-apple/"><u>The Ultimate Walkthrough to Remote Diagnostic Examination of Your iPhone with Apple</u></a></li>
+</ul></div>
 
