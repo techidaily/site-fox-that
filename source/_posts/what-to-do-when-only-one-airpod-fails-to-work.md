@@ -1,7 +1,7 @@
 ---
 title: What To Do When Only One AirPod Fails to Work?
-date: 2024-09-09T17:17:01.636Z
-updated: 2024-09-15T16:43:57.503Z
+date: 2024-09-16T21:12:17.503Z
+updated: 2024-09-21T00:32:12.053Z
 tags:
   - iphone
   - apple
@@ -55,6 +55,13 @@ Close
 
 [Reboot your iPhone](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) , Windows computer, Android device, or Mac—whatever it is that you use with your AirPods. Once your device is powered on and Bluetooth is enabled, check if both your AirPods connect and work properly again.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Adjust the Audio Balance on Your Devices
 
  Most devices allow you to set the volume level for each AirPod individually. If you or someone else has tweaked this adjustment and routed the audio to only one of the AirPods, that may be why you're not hearing any sound from the other. It could also be [why one AirPod sounds louder than the other](https://www.makeuseof.com/why-one-airpod-louder-than-other-fixes/) when they're both working.
@@ -71,23 +78,9 @@ Close
 
 ![mac sound system settings airpods balance](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/mac-sound-system-settings-airpods-balance.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118318/7443" target="_top" id="2118318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118318" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118318/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can adjust the AirPods audio balance on Windows 11 by opening**Settings > System > Sound** . Then, select your AirPods from the list of output devices and adjust the**Left channel** and**Right channel** sliders so that they're equal.
 
 ![Windows Sound Settings for AirPods Pro](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/windows-sound-settings-for-airpods-pro.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Try Your AirPods With Other Devices
 
@@ -96,6 +89,19 @@ Close
  In this case, try using your AirPods with your other devices and see if you can hear the audio on both AirPods.
 
  If both AirPods work just fine on any other device, you know the issue is with your primary device, and you'll need to fix it instead. Read [our AirPods troubleshooting guide](https://www.makeuseof.com/tag/apple-airpods-problems-fix/) for your specific device to see if one of the suggested fixes can rectify your problem.
+
+<!-- affiliate ads begin -->
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Forget Your AirPods From Your Devices
 
@@ -115,13 +121,6 @@ Close
 
  After unpairing, you need to [re-pair your AirPods to your device](https://www.makeuseof.com/tag/how-to-connect-airpods-mac-iphone-pc-android/) . Then, see if both your AirPods work.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135475/26400" target="_top" id="2135475">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135475/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Reset Your AirPods to Factory Settings
 
  If your AirPods still don't work after unpairing and re-pairing them, try resetting them to their factory settings. Once they're unpaired, put your AirPods in their charging case, but don't close the lid.
@@ -129,6 +128,13 @@ Close
  Press and hold the setup button on the back of the AirPods charging case for 15 seconds until the light on the front flashes amber and white. Then, let go of the button and, with the lid open, hold your AirPods case near your iPhone.
 
  Your iPhone will prompt you to set them up. If you're using another device, follow the standard Bluetooth setup steps.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Reset Your Phone's Network Settings
 
@@ -163,14 +169,17 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-zoom-meets-tiktok-streamlining-video-sharing/"><u>[New] In 2024, Zoom Meets TikTok Streamlining Video Sharing</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-unveiling-the-top-8-beginner-friendly-cameras-35mm-to-pands/"><u>[New] Unveiling the Top 8 Beginner-Friendly Cameras (35Mm to P&S)</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-xiaomi-redmi-note-13-5g-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Xiaomi Redmi Note 13 5G | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-honor-90-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Honor 90 Back to Operation | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-4-effective-methods-fake-gps-location-on-apple-iphone-seipad-drfone-by-drfone-virtual-ios/"><u>In 2024, 4 Effective Methods Fake GPS Location on Apple iPhone SE/iPad | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/overcome-iphone-lag-uncovering-6-key-reasons-and-remedies/"><u>Overcome iPhone Lag: Uncovering 6 Key Reasons & Remedies</u></a></li>
-<li><a href="https://fox-that.techidaily.com/overcome-these-6-prevalent-iphone-13-glitches-expert-fixing-guides-inside/"><u>Overcome These 6 Prevalent iPhone 13 Glitches - Expert Fixing Guides Inside</u></a></li>
-<li><a href="https://fox-that.techidaily.com/resolving-iphone-cellular-connection-problems-discover-10-key-strategies/"><u>Resolving iPhone Cellular Connection Problems: Discover 10 Key Strategies</u></a></li>
-<li><a href="https://fox-that.techidaily.com/struggling-with-iphone-picture-search-functionality-here-are-six-possible-reasons-why/"><u>Struggling with iPhone Picture Search Functionality? Here Are Six Possible Reasons Why</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comparing-echo-dot-and-apple-homepod-mini-key-features-and-benefits/"><u>Comparing Echo Dot and Apple HomePod Mini: Key Features & Benefits</u></a></li>
+<li><a href="https://fox-that.techidaily.com/conquering-silent-messages-on-iphones-explore-15plus-reliable-solutions-right-now/"><u>Conquering Silent Messages on iPhones? Explore 15+ Reliable Solutions Right Now</u></a></li>
+<li><a href="https://fox-that.techidaily.com/discover-the-premier-video-on-demand-apps-of-2024-expert-rankings-inside/"><u>Discover the Premier Video-on-Demand Apps of 2024 - Expert Rankings Inside!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/expert-tips-on-restoring-accessibility-to-your-frozen-apple-device/"><u>Expert Tips on Restoring Accessibility to Your Frozen Apple Device</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>How to Fake Snapchat Location without Jailbreak On Apple iPhone SE (2022) | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-professional-strategies-for-inshot-edits/"><u>In 2024, Professional Strategies for Inshot Edits</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/online-avi-to-m2ts-konvertor-vrije-benut-van-movavi-beterschap-voor-videobewakers/"><u>Online AVI-to-M2TS Konvertor Vrije Benut Van Movavi: Beterschap Voor Videobewakers</u></a></li>
+<li><a href="https://fox-that.techidaily.com/revive-your-iphones-wireless-charging-capability-with-these-7-effective-tricks/"><u>Revive Your iPhone’s Wireless Charging Capability with These 7 Effective Tricks</u></a></li>
+<li><a href="https://fox-that.techidaily.com/roblox-low-memory-alert-fix-for-iphone-users-effective-strategies-and-solutions/"><u>Roblox Low Memory Alert Fix for iPhone Users: Effective Strategies and Solutions</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-symphony-of-well-being-learn-from-asmr-for-2024/"><u>The Symphony of Well-Being – Learn From ASMR for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/vivo-y17s-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo Y17s Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-modify-the-default-browser/"><u>Windows 11: Modify the Default Browser</u></a></li>
 </ul></div>
 

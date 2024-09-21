@@ -1,7 +1,7 @@
 ---
 title: Can't Use the Silent Switch on Your iPhone? Learn Alternative Ways to Control Sound Settings
-date: 2024-09-10T16:34:06.731Z
-updated: 2024-09-15T17:50:29.876Z
+date: 2024-09-16T21:14:19.411Z
+updated: 2024-09-21T01:15:13.006Z
 tags:
   - iphone
   - apple
@@ -97,6 +97,13 @@ Close
 
  Once set up, muting and unmuting your iPhone should be even easier. Simply perform the gesture to which you've assigned the Mute action, and it'll mute the device. Repeat it again to unmute.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Mute or Unmute iPhone Using Back Tap
 
  AssistiveTouch used to be the only way to mute or unmute your iPhone when the Ring/Silent switch stopped working for the longest time. And sure, it works fine and gets the job done, but for some, it isn't aesthetically pleasing to have the button on the screen at all times.
@@ -107,13 +114,6 @@ Close
 2. Go to**Accessibility > Touch** , scroll down to the bottom of the page, and select**Back Tap** .
 
 ![iPhone Accessibility settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-using-back-tap-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Back Tap feature under Touch Accessibility settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-using-back-tap-2.jpg)
 
@@ -128,18 +128,18 @@ Close
 
 ![setting Mute action to a Back Tap gesture](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-using-back-tap-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Close
 
  Now, whenever you want to mute your iPhone, simply perform the double-tap or triple-tap gesture on the back of your iPhone. To unmute it, perform the same gesture again.
 
  With certain iPhone cases, especially thicker ones, you might need to tap harder for the iPhone to register your taps and trigger the action.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Broken iPhone Ring/Silent Switch? No Problem
 
@@ -162,20 +162,20 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-conveying-cinematic-dreams-through-screenwriting/"><u>[New] Conveying Cinematic Dreams Through Screenwriting</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-free-and-easy-building-attractive-youtube-intros-without-expense/"><u>[Updated] 2024 Approved Free & Easy Building Attractive YouTube Intros without Expense</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-perfecting-your-rl-game-captures/"><u>[Updated] In 2024, Perfecting Your RL Game Captures</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-ultimate-tutorial-downloading-and-extracting-audio-from-vids-on-social-platforms/"><u>2024 Approved Ultimate Tutorial Downloading and Extracting Audio From Vids on Social Platforms</u></a></li>
-<li><a href="https://fox-that.techidaily.com/avoid-frustration-with-these-15-critical-repair-techniques-for-all-your-iphone-models/"><u>Avoid Frustration with These 15 Critical Repair Techniques for All Your iPhone Models</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-repair-your-iphones-faulty-proximity-sensing-capability/"><u>How to Repair Your iPhone's Faulty Proximity Sensing Capability</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-softly-reset-your-iphone-without-data-loss/"><u>How to Softly Reset Your iPhone Without Data Loss</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-ispoofer-on-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on OnePlus Nord N30 SE? | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/iphoneipad-type-out-troubles-6-fixes-that-work/"><u>IPhone/iPad Type-Out Troubles? 6 Fixes That Work</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719164655300-principles-for-creating-effective-directional-symbols-that-are-universally-understood/"><u>Principles for Creating Effective Directional Symbols that Are Universally Understood</u></a></li>
-<li><a href="https://fox-that.techidaily.com/secure-your-devices-health-utilizing-apples-digital-examination-for-iphones/"><u>Secure Your Device's Health: Utilizing Apple’s Digital Examination for iPhones</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/slimsky-saver-big-files-low-costs-for-2024/"><u>SlimSky Saver - Big Files, Low Costs for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-slow-safari-on-iphone-discover-these-4-quick-fixes/"><u>Troubleshooting Slow Safari on iPhone? Discover These 4 Quick Fixes</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-steps-reviving-your-non-functioning-iphoneipad/"><u>Troubleshooting Steps: Reviving Your Non-Functioning iPhone/iPad</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/rsal-youtube-guidelines-and-expectations/"><u>Universal YouTube Guidelines and Expectations</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-the-essential-guide-to-embedding-youtube-into-gslides/"><u>[New] 2024 Approved The Essential Guide to Embedding YouTube Into GSlides</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-securing-your-speech-on-the-ipad/"><u>[New] In 2024, Securing Your Speech on the iPad</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-streamlining-your-instagram-storytelling-with-size-tweaks/"><u>[New] In 2024, Streamlining Your Instagram Storytelling with Size Tweaks</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1726028203907-4/"><u>「最適な手順：動画を四角形にカットするテクニック4つ」</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-ideal-remote-recording-gear/"><u>2024 Approved Ideal Remote Recording Gear</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/craft-humorous-memes-with-giphy/"><u>Craft Humorous Memes with Giphy</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fix-that-blinky-screen-on-your-mobile-top-7-remedies-to-restore-stable-display-functionality/"><u>Fix that Blinky Screen on Your Mobile! Top 7 Remedies to Restore Stable Display Functionality</u></a></li>
+<li><a href="https://fox-that.techidaily.com/guide-performing-apples-remote-diagnostics-on-iphone-hardware/"><u>Guide: Performing Apple's Remote Diagnostics on iPhone Hardware</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/harness-online-tools-for-free-fb-video-conversion-to-1080p720p-mp4/"><u>Harness Online Tools for Free FB Video Conversion to 1080P/720p MP4</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-breaking-down-the-basics-of-effective-timelapse-creation-using-gopro-studio/"><u>In 2024, Breaking Down the Basics of Effective Timelapse Creation Using GoPro Studio</u></a></li>
+<li><a href="https://fox-that.techidaily.com/siri-not-responding-heres-how-to-fix-it-on-ios-devices/"><u>Siri Not Responding? Here's How to Fix It on iOS Devices!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/the-guide-to-finding-hidden-facetime-snapshots-on-your-device/"><u>The Guide to Finding Hidden FaceTime Snapshots on Your Device</u></a></li>
+<li><a href="https://fox-that.techidaily.com/the-users-handbook-mastering-the-art-of-soft-resets-on-iphones/"><u>The User's Handbook: Mastering the Art of Soft Resets on iPhones</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-a-non-functional-iphone-proximity-detector/"><u>Troubleshooting a Non-Functional iPhone Proximity Detector</u></a></li>
+<li><a href="https://win-answers.techidaily.com/urban-architects-guide-overcoming-system-collapses-in-city-of-the-future-ii-for-windows-users/"><u>Urban Architect's Guide: Overcoming System Collapses in City of the Future II for Windows Users</u></a></li>
 </ul></div>
 

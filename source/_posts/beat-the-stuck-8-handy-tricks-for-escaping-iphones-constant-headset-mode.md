@@ -1,7 +1,7 @@
 ---
 title: "Beat the Stuck: 8 Handy Tricks for Escaping iPhone's Constant Headset Mode"
-date: 2024-09-12T16:24:50.509Z
-updated: 2024-09-15T17:54:36.949Z
+date: 2024-09-13T20:43:22.647Z
+updated: 2024-09-20T23:33:13.065Z
 tags:
   - iphone
   - apple
@@ -54,13 +54,6 @@ Close
 
  Plug your headphones into your iPhone's 3.5mm or Lightning port, and then disconnect them. After that,[open the**Control Center** on your iPhone](https://www.makeuseof.com/how-to-use-customize-control-center-iphone/) by swiping down from the top-right corner (or swiping up from the bottom if you have an iPhone with a Home button) and check if the headphone icon still appears in the volume slider.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Change the Audio Output
 
  When listening to music or watching videos, your iPhone lets you choose between different audio output devices. Open the Control Center, then tap and hold the**AirPlay** icon in the top-right corner of the music player card. Select**iPhone** from the list to set it as the audio output device.
@@ -72,10 +65,10 @@ Close
 Close
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123481/16836" target="_top" id="2123481">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123481" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123481/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Clean the Headphone Port
@@ -85,13 +78,6 @@ Close
  It's best to turn off your iPhone before inserting anything into its ports to avoid causing a short circuit or introducing a static charge to the electronics. Once powered off, use a cotton swab or a paper clip to remove any dirt or debris from the port gently. You can refer to [our guide on cleaning iPhones](https://www.makeuseof.com/tag/clean-iphone-guide/) for more help.
 
 ![cleaning the Lightning port of an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/02/cleaning-the-lightning-port-of-an-iphone-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Brent Dirks/[MakeUseOf](https://www.makeuseof.com/author/brentdirks/)
 
@@ -108,16 +94,16 @@ Close
 ![Liquid Contact Indicator on iPhone Models](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/liquid-contact-indicator-on-iphone-models-1.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [Apple](https://support.apple.com/en-us/HT204104)
@@ -132,24 +118,38 @@ Close
 
 ![Settings App on iPhone-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/settings-app-on-iphone-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![General Settings Menu on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/general-settings-menu-on-iphone.jpg)
 
 ![Software Update Menu on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/software-update-menu-on-iphone.jpg)
 
-Close
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+Close
 
 ## 7\. Restart Your iPhone
 
  This may sound cliche, but [restarting your iPhone](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) can take care of any temporary issues that may have caused it to become stuck in headphone mode. Hence, don't forget to skip this step.
 
  Press and hold the**Side** button with one of the**Volume** buttons (or just hold the**Side** button on iPhone models with a Home button) until the power slider appears. Drag the slider to your right and wait for your iPhone to turn off completely. Then, press and hold the**Side** button again to turn it back on. After that, check if your iPhone outputs audio through its built-in speakers.
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 8\. Factory Reset Your iPhone
 
@@ -176,15 +176,19 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-mastering-instagram-filters-applying-them-to-old-memories/"><u>[New] 2024 Approved Mastering Instagram Filters Applying Them to Old Memories</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-troubleshooting-video-interruptions-on-facebook-live/"><u>[New] 2024 Approved Troubleshooting Video Interruptions on Facebook LIVE</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-behind-the-scenes-insight-how-vimeo-record-works-for-2024/"><u>[Updated] Behind-the-Scenes Insight How Vimeo Record Works for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-unlock-creative-storytelling-the-art-of-jump-cutting/"><u>In 2024, Unlock Creative Storytelling The Art of Jump Cutting</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-what-does-jailbreaking-apple-iphone-11-pro-max-i-do-get-answers-here-drfone-by-drfone-ios/"><u>In 2024, What Does Jailbreaking Apple iPhone 11 Pro Max i Do? Get Answers here | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/iphone-photography-woes-heres-how-you-can-fix-your-devices-7-most-prevalent-camera-errors/"><u>IPhone Photography Woes? Here's How You Can Fix Your Device's 7 Most Prevalent Camera Errors</u></a></li>
-<li><a href="https://fox-that.techidaily.com/resolving-unpredictable-browser-activity-in-iphones-screen-time-monitor/"><u>Resolving Unpredictable Browser Activity in iPhone's Screen Time Monitor</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-vivo-y100-5g-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Vivo Y100 5G Location By Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-common-iphone-12-glitches-with-ease/"><u>Troubleshooting Common iPhone 12 Glitches with Ease</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/upcoming-google-pixel-10-unveiling-the-latest-rumors-on-release-dates-pricing-and-specifications/"><u>Upcoming Google Pixel 10: Unveiling the Latest Rumors on Release Dates, Pricing & Specifications</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-enhance-creativity-top-ai-tools-to-generate-podcast-names/"><u>[Updated] 2024 Approved Enhance Creativity Top AI Tools to Generate Podcast Names</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-record-screen-on-huawei-mate-10-20-p20-and-p10-using-a-built-in-recorder/"><u>[Updated] In 2024, Record Screen On Huawei Mate 10, 20, P20 and P10 Using a Built-In Recorder</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-in-education-how-to-keep-young-users-safe-in-5-ways/"><u>ChatGPT in Education: How to Keep Young Users Safe, In 5 Ways</u></a></li>
+<li><a href="https://fox-that.techidaily.com/expert-advice-restoring-lost-or-invisible-events-on-ios-calendar/"><u>Expert Advice: Restoring Lost or Invisible Events on iOS Calendar</u></a></li>
+<li><a href="https://fox-that.techidaily.com/guide-for-overcoming-iphone-accessory-compatibility-problems/"><u>Guide for Overcoming iPhone Accessory Compatibility Problems</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-xiaomi-redmi-13c-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Xiaomi Redmi 13C | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-troubleshoot-and-resolve-widespread-iphone-screen-issues/"><u>How to Troubleshoot and Resolve Widespread iPhone Screen Issues</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-oppo-a1x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Oppo A1x 5G? | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-rapid-learning-from-images-to-effective-youtube-thumbnails/"><u>In 2024, Rapid Learning From Images To Effective YouTube Thumbnails</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolving-liquid-detected-errors-a-comprehensive-guide-for-iphones-with-usb-c/"><u>Resolving 'Liquid Detected' Errors: A Comprehensive Guide for iPhones with USB-C</u></a></li>
+<li><a href="https://fox-that.techidaily.com/revive-your-damaged-iphone-a-step-by-step-guide-to-starting-it-up-without-using-buttons/"><u>Revive Your Damaged iPhone: A Step-by-Step Guide to Starting It Up Without Using Buttons</u></a></li>
+<li><a href="https://win11.techidaily.com/the-insiders-pathway-creating-personalized-pin-patterns-on-windows/"><u>The Insider's Pathway: Creating Personalized Pin Patterns on Windows</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-guide-to-podcast-names-plus-50plus-podcast-name-ideas-for-2024/"><u>Ultimate Guide to Podcast Names (Plus 50+ Podcast Name Ideas) for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721479590182-unable-to-upload-iphone-data-to-icloud-try-our-9-proven-fixes/"><u>Unable to Upload iPhone Data to iCloud? Try Our 9 Proven Fixes</u></a></li>
 </ul></div>
 

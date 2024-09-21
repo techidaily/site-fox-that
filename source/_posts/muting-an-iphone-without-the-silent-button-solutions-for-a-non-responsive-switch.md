@@ -1,7 +1,7 @@
 ---
 title: Muting an iPhone Without the Silent Button - Solutions for a Non-Responsive Switch
-date: 2024-09-09T19:42:52.354Z
-updated: 2024-09-15T17:34:11.492Z
+date: 2024-09-15T23:55:55.204Z
+updated: 2024-09-20T17:41:39.221Z
 tags:
   - iphone
   - apple
@@ -109,10 +109,10 @@ Close
 ![iPhone Accessibility settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-using-back-tap-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Back Tap feature under Touch Accessibility settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-using-back-tap-2.jpg)
@@ -126,19 +126,6 @@ Close
 
 ![Back Tap gesture options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-using-back-tap-3.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![setting Mute action to a Back Tap gesture](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-using-back-tap-4.jpg)
 
 Close
@@ -146,6 +133,13 @@ Close
  Now, whenever you want to mute your iPhone, simply perform the double-tap or triple-tap gesture on the back of your iPhone. To unmute it, perform the same gesture again.
 
  With certain iPhone cases, especially thicker ones, you might need to tap harder for the iPhone to register your taps and trigger the action.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Broken iPhone Ring/Silent Switch? No Problem
 
@@ -168,16 +162,18 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/updated-speedy-fb-uploads-how-to-get-there-fastest/"><u>[Updated] Speedy FB Uploads How to Get There Fastest</u></a></li>
-<li><a href="https://fox-that.techidaily.com/discover-the-path-of-facetime-pictures-on-iphone-and-ipad/"><u>Discover the Path of FaceTime Pictures on iPhone and iPad</u></a></li>
-<li><a href="https://techtrends.techidaily.com/expert-advice-on-handling-web-server-401-unauthorized-responses/"><u>Expert Advice on Handling Web Server 401 Unauthorized Responses</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-11-pro-max-to-other-iphone-14-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 11 Pro Max to other iPhone 14 devices? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Vivo S17 Pro | Dr.fone</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/melodic-mastery-for-game-dominance-in-free-fire/"><u>Melodic Mastery for Game Dominance in Free Fire</u></a></li>
-<li><a href="https://fox-that.techidaily.com/no-luck-with-itunes-or-finder-here-are-the-steps-to-get-your-iphone-seen/"><u>No Luck With iTunes or Finder? Here Are the Steps to Get Your iPhone Seen!</u></a></li>
-<li><a href="https://fox-that.techidaily.com/retrieve-a-missing-or-hijacked-iphone-mastering-the-find-my-feature/"><u>Retrieve a Missing or Hijacked iPhone: Mastering the Find My Feature</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-xiaomi-redmi-13c-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Xiaomi Redmi 13C Phone Hassle-Free</u></a></li>
-<li><a href="https://fox-that.techidaily.com/the-mystery-of-an-offline-find-my-iphone-device-heres-what-you-can-do/"><u>The Mystery of an Offline Find My iPhone Device? Here’s What You Can Do!</u></a></li>
-<li><a href="https://fox-that.techidaily.com/top-5-solutions-for-troubleshooting-iphones-unresponsive-voice-typing-feature/"><u>Top 5 Solutions for Troubleshooting iPhone's Unresponsive Voice Typing Feature</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-the-art-of-viral-videos-no-budget-necessary/"><u>[New] The Art of Viral Videos No Budget Necessary</u></a></li>
+<li><a href="https://fox-that.techidaily.com/bypassing-apples-denial-of-your-creditdebit-card-6-methods-to-try/"><u>Bypassing Apple’s Denial of Your Credit/Debit Card – 6 Methods to Try</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/how-to-track-apple-iphone-14-plus-by-phone-number-drfone-by-drfone-virtual-ios/"><u>How to Track Apple iPhone 14 Plus by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-the-ultimate-user-friendly-guide-to-starting-an-effective-group-chat-on-skype-across-multiple-platforms/"><u>In 2024, The Ultimate User-Friendly Guide to Starting an Effective Group Chat on Skype Across Multiple Platforms</u></a></li>
+<li><a href="https://fox-that.techidaily.com/key-iphone-13-glitches-and-their-simple-resolutions-you-cant-miss/"><u>Key iPhone 13 Glitches and Their Simple Resolutions You Can't Miss</u></a></li>
+<li><a href="https://howto.techidaily.com/my-videos-arent-playing-on-samsung-galaxy-a15-4g-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Samsung Galaxy A15 4G – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-transform-your-photos-into-a-cinematic-slideshow-with-final-cut-pro-for-2024/"><u>New Transform Your Photos Into a Cinematic Slideshow with Final Cut Pro for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolve-common-iphone-glitches-by-utilizing-dfu-mode-techniques/"><u>Resolve Common iPhone Glitches by Utilizing DFU Mode Techniques</u></a></li>
+<li><a href="https://fox-that.techidaily.com/restore-audio-on-your-iphone-a-step-by-step-troubleshooting-guide/"><u>Restore Audio on Your iPhone: A Step-by-Step Troubleshooting Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-your-ios-16-lock-screens-missing-depth-effect-with-7-tips/"><u>Troubleshoot Your iOS 16 Lock Screen's Missing Depth Effect with 7 Tips</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unleash-creativity-discover-free-tools-for-dynamic-voice-alteration-for-2024/"><u>Unleash Creativity Discover Free Tools for Dynamic Voice Alteration for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-top-10-audio-recording-software-to-capture-your-voice-easily/"><u>Updated In 2024, Top 10 Audio Recording Software to Capture Your Voice Easily</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/useful-tips-and-apps-for-taking-amazing-android-photography-for-2024/"><u>Useful Tips and Apps for Taking Amazing Android Photography for 2024</u></a></li>
 </ul></div>
 

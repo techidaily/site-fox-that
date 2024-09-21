@@ -1,7 +1,7 @@
 ---
 title: How to Retrieve and View Your Sent or Received FaceTime Photos Easily
-date: 2024-09-12T19:19:02.346Z
-updated: 2024-09-15T20:14:03.137Z
+date: 2024-09-15T01:42:31.756Z
+updated: 2024-09-21T01:31:20.610Z
 tags:
   - iphone
   - apple
@@ -68,16 +68,10 @@ Close
  Alternatively, hit**Cmd + Shift + 3** to take a screenshot of your entire screen. Aside from these two options, there are other [ways to take screenshots on your Mac](https://www.makeuseof.com/tag/how-to-take-a-screenshot-on-a-mac/) .
 
 <!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Enable Live Photos in Your FaceTime Settings
@@ -90,16 +84,16 @@ Close
 
 ![FaceTime Live Photos toggle enabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/facetime-live-photos-toggle-enabled.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Close
 
  On a Mac, open**FaceTime** and go to**FaceTime > Settings** from the menu bar. In the**Settings** tab, turn on the option to**Allow Live Photos to be captured during video calls** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Troubleshooting FaceTime Photo Problems
 
@@ -116,10 +110,10 @@ Close
 ![Photos app on an iPhone Home Screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/share-shared-albums-with-non-apple-users.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115919/19272" target="_top" id="2115919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115919" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Update to the Latest Operating System
@@ -130,14 +124,20 @@ Close
 
 ![Software update available in macOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/software-update-macos-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Install any updates that are available there by clicking**Update Now** .
+
+<!-- affiliate ads begin -->
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 4\. Restart Your Device
 
@@ -151,20 +151,14 @@ Close
 
 ![iOS Settings menu FaceTime selected](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ios-settings-menu-facetime-selected.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![FaceTime enabled in iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/facetime-enabled-ios-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close
 
@@ -191,18 +185,17 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-hot-takes-top-ten-video-hits-from-social-media-giants/"><u>[New] Hot Takes Top Ten Video Hits From Social Media Giants</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/n-2024-youtubes-edge-design-tips-for-compelling-video-thumbnails/"><u>[New] In 2024, YouTube's Edge Design Tips for Compelling Video Thumbnails</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-superior-methods-obs-streaming-onto-facebook/"><u>[New] Superior Methods OBS Streaming Onto Facebook</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-huntings-top-5-best-video-recorders/"><u>[Updated] Hunting's Top 5 Best Video Recorders</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-unraveling-the-secrets-of-cinematic-visuals-on-windows-10/"><u>[Updated] In 2024, Unraveling the Secrets of Cinematic Visuals on Windows 10</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-techniques-for-captivating-visual-fb-ads/"><u>2024 Approved Techniques for Captivating Visual FB Ads</u></a></li>
-<li><a href="https://fox-that.techidaily.com/avoid-frustration-with-these-15-critical-repair-techniques-for-all-your-iphone-models/"><u>Avoid Frustration with These 15 Critical Repair Techniques for All Your iPhone Models</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/high-quality-1-ranked-4k-laptops-for-gaming-for-2024/"><u>High-Quality #1 Ranked 4K Laptops for Gaming for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-overcome-chromes-video-troubles-in-seconds/"><u>In 2024, Overcome Chrome's Video Troubles in Seconds</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/playstation-showdown-the-pros-and-cons-of-ps5-slim-versus-full-sized-ps5/"><u>PlayStation Showdown: The Pros and Cons of PS5 Slim versus Full-Sized PS5</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solving-the-mystery-of-icloud-syncing-issues-a-step-by-step-guide/"><u>Solving the Mystery of iCloud Syncing Issues: A Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-that.techidaily.com/spotting-trouble-the-ultimate-list-of-9-hints-for-a-wet-iphone-incident/"><u>Spotting Trouble: The Ultimate List of 9 Hints for a Wet iPhone Incident</u></a></li>
-<li><a href="https://fox-that.techidaily.com/top-10-solutions-for-troubleshooting-airpods-noise-distortion-and-more/"><u>Top 10 Solutions for Troubleshooting AirPods: Noise, Distortion & More</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-sluggish-to-speedy-select-android-tools/"><u>[New] From Sluggish to Speedy Select Android Tools</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-witness-the-magic-top-14-text-animation-pieces/"><u>[New] Witness the Magic Top 14 Text Animation Pieces</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-streamline-twitters-from-video-to-audible-format/"><u>[Updated] Streamline Twitters From Video to Audible Format</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-unlock-creative-potential-macs-top-free-drawing-tools/"><u>2024 Approved Unlock Creative Potential Mac's Top Free Drawing Tools</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/best-methods-converting-mpeg-videos-to-mov-format-cost-free-both-online-and-offline/"><u>Best Methods: Converting MPEG Videos to MOV Format Cost-Free, Both Online & Offline</u></a></li>
+<li><a href="https://fox-that.techidaily.com/demystifying-the-dfu-mode-on-your-iphone-steps-and-usage-tips/"><u>Demystifying the DFU Mode on Your iPhone - Steps & Usage Tips</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fix-your-iphones-cellular-data-issues-with-these-proven-methods-a-guide-to-10-quick-solutions/"><u>Fix Your iPhone's Cellular Data Issues with These Proven Methods: A Guide to 10 Quick Solutions</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-oneplus-open-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On OnePlus Open? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-for-restoring-bluetooth-visibility-win/"><u>Steps for Restoring Bluetooth Visibility WIN</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721479806597-the-challenges-of-sending-gifts-from-your-iphone-or-ipad-discover-the-top-5-hurdles/"><u>The Challenges of Sending Gifts From Your iPhone or iPad - Discover the Top 5 Hurdles!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-7-solutions-for-sharpening-a-fuzzy-iphone-photographer/"><u>Top 7 Solutions for Sharpening a Fuzzy iPhone Photographer</u></a></li>
+<li><a href="https://fox-that.techidaily.com/trouble-receiving-calls-on-iphone-discover-3-simple-repairs-for-the-contacts-application/"><u>Trouble Receiving Calls on iPhone? Discover 3 Simple Repairs for the Contacts Application</u></a></li>
 </ul></div>
 

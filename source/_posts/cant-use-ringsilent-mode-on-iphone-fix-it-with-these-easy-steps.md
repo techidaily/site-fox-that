@@ -1,7 +1,7 @@
 ---
 title: Can't Use Ring/Silent Mode on iPhone? Fix It with These Easy Steps
-date: 2024-09-10T17:18:38.294Z
-updated: 2024-09-15T16:13:09.198Z
+date: 2024-09-15T18:57:52.172Z
+updated: 2024-09-20T22:00:46.575Z
 tags:
   - iphone
   - apple
@@ -108,14 +108,14 @@ Close
 
 ![iPhone Accessibility settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-using-back-tap-1.jpg)
 
-![Back Tap feature under Touch Accessibility settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-using-back-tap-2.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![Back Tap feature under Touch Accessibility settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-using-back-tap-2.jpg)
 
 Close
 
@@ -128,24 +128,18 @@ Close
 
 ![setting Mute action to a Back Tap gesture](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-using-back-tap-4.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Close
 
  Now, whenever you want to mute your iPhone, simply perform the double-tap or triple-tap gesture on the back of your iPhone. To unmute it, perform the same gesture again.
 
  With certain iPhone cases, especially thicker ones, you might need to tap harder for the iPhone to register your taps and trigger the action.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Broken iPhone Ring/Silent Switch? No Problem
 
@@ -168,17 +162,19 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-precision-in-motion-choose-from-top-6-macos-big-sur-editing-apps/"><u>[New] Precision in Motion Choose From Top 6 macOS Big Sur Editing Apps</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-laughlens-lab-snapsatiricals/"><u>[Updated] LaughLens Lab SnapSatiricals</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-transform-your-instagram-experience-with-obs-livestreaming-techniques/"><u>[Updated] Transform Your Instagram Experience with OBS Livestreaming Techniques</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-the-ultimate-guide-to-import-photos-and-videos-into-windows-10/"><u>2024 Approved The Ultimate Guide to Import Photos & Videos Into Windows 10</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1723808291102-cant-remove-printer-on-windows-solved/"><u>Can't Remove Printer on Windows [Solved]</u></a></li>
-<li><a href="https://fox-that.techidaily.com/eight-effective-solutions-for-disabling-headphone-persistent-settings-on-an-iphone/"><u>Eight Effective Solutions for Disabling Headphone-Persistent Settings on an iPhone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/escape-from-stuck-headphone-mode-the-ultimate-n-fix-strategies-for-iphones/"><u>Escape From Stuck Headphone Mode: The Ultimate N-Fix Strategies for iPhones</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fix-the-messaging-gap-get-your-iphones-up-to-date-receiving-texts-from-androids/"><u>Fix the Messaging Gap - Get Your iPhones Up-to-Date Receiving Texts From Androids</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-tecno-pop-8-phone-without-password-by-drfone-android/"><u>How To Unlock Tecno Pop 8 Phone Without Password?</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-eye-catching-4k-experience-dell-p2715q-in-focus/"><u>The Eye Catching 4K Experience Dell P2715Q in Focus</u></a></li>
-<li><a href="https://fox-that.techidaily.com/the-simplest-guide-to-softly-rebooting-your-iphone-device/"><u>The Simplest Guide to Softly Rebooting Your iPhone Device</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/unlock-apple-iphone-se-2020-with-forgotten-passcode-different-methods-you-can-try-drfone-by-drfone-ios/"><u>Unlock Apple iPhone SE (2020) With Forgotten Passcode Different Methods You Can Try | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-elevating-your-youtube-profile-with-high-impact-artwork-guide/"><u>[New] 2024 Approved Elevating Your YouTube Profile with High-Impact Artwork Guide</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-mastering-board-interaction-during-remote-work-sessions-across-multiple-devices/"><u>[New] 2024 Approved Mastering Board Interaction During Remote Work Sessions Across Multiple Devices</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-harness-the-art-of-visual-storytelling-on-snapchat-for-2024/"><u>[New] Harness the Art of Visual Storytelling on Snapchat for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-identifying-premium-hdr-camera-options/"><u>[New] Identifying Premium HDR Camera Options</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-crafting-immersive-vr-experiences-with-adobe-premieres-360-editing-features/"><u>[Updated] Crafting Immersive VR Experiences with Adobe Premiere's 360° Editing Features</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/compreran-list-efficient-platforms-for-downloading-your-favorite-tones/"><u>Compreran List Efficient Platforms for Downloading Your Favorite Tones</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-the-launch-error-for-age-of-empires-4-expert-tips-and-solutions/"><u>Solving the Launch Error for Age of Empires 4: Expert Tips & Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/step-by-step-solutions-to-restore-hey-siri-functionality-on-ios-devices/"><u>Step-by-Step Solutions to Restore 'Hey Siri' Functionality on iOS Devices</u></a></li>
+<li><a href="https://fox-that.techidaily.com/struggling-with-iphone-pc-pairing-problems-discover-the-fix-now/"><u>Struggling with iPhone-PC Pairing Problems? Discover The Fix Now!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/the-cloaked-direct-x-error-lols-solution-revealed/"><u>The Cloaked Direct X Error: LoL's Solution Revealed</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-tips-why-does-the-iphones-visual-look-up-feature-fail/"><u>Troubleshooting Tips: Why Does the iPhone's Visual Look Up Feature Fail?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-how-to-fix-a-non-functional-qr-code-reader-on-your-iphone/"><u>Troubleshooting: How to Fix a Non-Functional QR Code Reader on Your iPhone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/understanding-why-your-find-my-iphone-app-shows-offline-and-solutions-to-locate-it/"><u>Understanding Why Your Find My iPhone App Shows 'Offline' And Solutions to Locate It</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-the-top-8-smart-gpt-extensions-for-a-seamless-cryptocurrency-conversation-interface/"><u>Unveiling the Top 8 Smart GPT Extensions for a Seamless Cryptocurrency Conversation Interface</u></a></li>
 </ul></div>
 

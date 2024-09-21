@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Broken Depth Effect: Top 7 Solutions for iOS 16 Lockscreen Problem"
-date: 2024-09-13T19:36:55.442Z
-updated: 2024-09-15T21:29:54.078Z
+date: 2024-09-15T16:36:35.171Z
+updated: 2024-09-20T17:49:23.802Z
 tags:
   - iphone
   - apple
@@ -66,16 +66,10 @@ thumbnail: https://thmb.techidaily.com/71dbe143e288ec4099b8181c39d20715dbe7d6922
 ![Tap Download and Install when you get iOS Software Update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/ios-software-update.jpeg)
 
 <!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Close
@@ -97,18 +91,18 @@ Close
 
 ![Select Customize in Wallpaper Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/ios-wallpaper-settings-customize.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123474/16836" target="_top" id="2123474">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123474" border="0" alt="https://techidaily.com" width="300" height="50"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123474/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Enable Depth Effect on Lock Screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/enable-depth-effect-lock-screen.jpeg)
 
 Close
 
  Depth Effect should work on your iPhone's Lock Screen wallpaper if you have had it disabled before.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. Remove Lock Screen Widgets
 
@@ -151,34 +145,27 @@ Close
 
 ![Select the photo whose file format you want to check in the Photos app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/select-the-photo-whose-file-format-you-want-to-check-in-the-photos-app.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Tap the i button on the bottom of the photo](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/tap-the-i-button-on-the-bottom-of-the-photo.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115939/19272" target="_top" id="2115939">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115939" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115939/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Check the file format of the image under its metadata](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/check-the-file-format-of-the-image-under-its-metadata.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Close
 
  You'll find the file format right next to the metadata of the image under the**Adjust** option. If you see PNG as the file format, converting [the PNG image to JPG on your iPhone](https://www.makeuseof.com/how-to-batch-convert-png-images-to-jpeg-iphone/) would be ideal.
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 6\. Reposition the Wallpaper Subject
 
@@ -199,6 +186,13 @@ Close
 Close
 
  As a result, Depth Effect should start working itself. If not, you'll have to look for a better wallpaper for Depth Effect.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 7\. Restart Your iPhone
 
@@ -229,19 +223,17 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-adding-music-to-your-instagram-snapshots-stickers-and-more/"><u>[New] 2024 Approved Adding Music to Your Instagram Snapshots Stickers and More</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-step-by-step-audio-recording-on-windows-11/"><u>[New] Step-by-Step Audio Recording on Windows 11</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-chrome-video-errors-a-step-by-step-fix-guide/"><u>[Updated] In 2024, Chrome Video Errors A Step-by-Step Fix Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/expanding-ai-capabilities-easy-steps-for-reading-pdfs-with-chatgpt/"><u>Expanding AI Capabilities: Easy Steps for Reading PDFs with ChatGPT</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-control-airpod-auto-switching-feature-between-multiple-apple-products/"><u>How To Control AirPod Auto-Switching Feature Between Multiple Apple Products</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-the-ultimate-guide-to-facebook-livestreaming-via-wirecast/"><u>In 2024, The Ultimate Guide to Facebook Livestreaming via Wirecast</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/master-video-cutting-and-splicing-with-vimeo-for-free-for-2024/"><u>Master Video Cutting & Splicing with Vimeo, for Free for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/quickly-resolve-your-iphone-and-ipad-widget-issues-with-these-10-tips/"><u>Quickly Resolve Your iPhone and iPad Widget Issues with These 10 Tips!</u></a></li>
-<li><a href="https://fox-that.techidaily.com/step-by-step-fix-for-iphone-error-4013-during-software-restoration-or-updates/"><u>Step-by-Step Fix for iPhone Error 4013 During Software Restoration or Updates</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-strategies-for-repairing-stop-0x0000007b-system-error-blues/"><u>Step-by-Step Strategies for Repairing STOP 0X0000007B System Error Blues</u></a></li>
-<li><a href="https://fox-that.techidaily.com/struggling-to-control-your-iphone-volume-settings-a-simple-guide-inside/"><u>Struggling to Control Your iPhone Volume Settings? A Simple Guide Inside</u></a></li>
-<li><a href="https://fox-that.techidaily.com/struggling-with-tardy-text-notifications-on-your-iphone-apply-these-9-remedies/"><u>Struggling with Tardy Text Notifications on Your iPhone? Apply These 9 Remedies!</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-tips-how-to-resolve-recurring-discord-app-failures/"><u>Troubleshooting Tips: How to Resolve Recurring Discord App Failures</u></a></li>
-<li><a href="https://fox-that.techidaily.com/unlock-iphone-warranty-service-with-apples-remote-diagnostics-how-to/"><u>Unlock iPhone Warranty Service with Apples Remote Diagnostics - How To?</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-unlock-clearer-depths-with-instas-bokeh-effects/"><u>[New] 2024 Approved Unlock Clearer Depths with Insta's Bokeh Effects</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-memorable-literary-trail-videos/"><u>[New] Memorable Literary Trail Videos</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-masterclasses-on-procuring-photo-and-video-borders/"><u>[Updated] Masterclasses on Procuring Photo & Video Borders</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-do-you-remove-restricted-mode-on-apple-iphone-15-pro-by-drfone-ios/"><u>How Do You Remove Restricted Mode on Apple iPhone 15 Pro</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Honor Magic Vs 2? | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-repair-an-iphone-when-the-screen-wont-respond/"><u>How to Repair an Iphone When the Screen Won't Respond?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-apps-from-honor-90-gt-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Apps from Honor 90 GT to Another | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-oppo-a2-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Oppo A2 to iPad | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/latest-guide-how-to-bypass-realme-11-proplus-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Realme 11 Pro+ FRP Without Computer</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-the-location-unavailable-error-on-your-iphone-a-step-by-step-guide/"><u>Solving the 'Location Unavailable' Error on Your iPhone: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/step-by-step-guide-to-fix-unsent-imessages-on-ios-devices/"><u>Step-by-Step Guide to Fix Unsent iMessages on iOS Devices</u></a></li>
+<li><a href="https://fox-that.techidaily.com/ultimate-guide-top-15-fixes-for-common-iphone-issues-across-various-models/"><u>Ultimate Guide: Top 15 Fixes for Common iPhone Issues Across Various Models</u></a></li>
 </ul></div>
 

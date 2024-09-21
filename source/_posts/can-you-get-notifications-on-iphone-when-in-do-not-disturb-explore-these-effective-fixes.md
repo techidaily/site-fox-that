@@ -1,7 +1,7 @@
 ---
 title: Can You Get Notifications on iPhone When in Do Not Disturb? Explore These Effective Fixes
-date: 2024-09-08T20:11:27.583Z
-updated: 2024-09-15T17:03:37.840Z
+date: 2024-09-18T21:38:33.666Z
+updated: 2024-09-20T18:42:33.877Z
 tags:
   - iphone
   - apple
@@ -59,6 +59,13 @@ Close
 
  Alternatively, you can tap**Turn Off** for a specific app if you see its notifications pop up on your Lock Screen.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Change Settings for Incoming Calls
 
  When you first enable Do Not Disturb mode on your iPhone,**Favorites** tends to be the default setting for the incoming calls allowed. If you previously added quite a few family members and friends to your Favorites list, this may be why your iPhone calls are coming through even after you enabled Do Not Disturb, as if it's not working.
@@ -67,37 +74,18 @@ Close
 
 ![do not disturb settings on iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/do-not-disturb-settings.JPEG)
 
-<!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![call settings for do not disturb mode on iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/dnd-favorite-calls.JPEG)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![change calls allowed on iphone do not disturb mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/dnd-allowed-calls.JPEG)
 
 Close
-
-<!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Don't Allow Repeated Calls
 
@@ -108,10 +96,10 @@ Close
 ![turn off allow repeated calls for iphone do not disturb mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/2-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Turn Off or Hide Your Focus Status
@@ -123,10 +111,10 @@ Close
  To stop receiving texts and calls in this manner, you can [turn off your Focus status](https://www.makeuseof.com/how-to-stop-notify-anyway-focus-mode-iphone/) or [hide your Focus status from certain iPhone contacts](https://www.makeuseof.com/how-to-hide-focus-status-from-certain-contacts-iphone/) .
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Review Your Do Not Disturb Schedule
@@ -139,16 +127,22 @@ Close
 
 ![schedule for iphone do not disturb mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/dnd-schedule.JPEG)
 
+<!-- affiliate ads begin -->
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![automate schedule for iphone do not disturb mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/dnd-schedule-2.JPEG)
 
 ![set time for iphone do not disturb mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/dnd-change-schedule.JPEG)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Close
 
@@ -181,17 +175,18 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/updated-decoding-popularity-a-truthful-look-at-reels-on-instagram-for-2024/"><u>[Updated] Decoding Popularity A Truthful Look at Reels on Instagram for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-avoid-download-hassle-top-5-online-converters-for-gif-to-video/"><u>2024 Approved Avoid Download Hassle Top 5 Online Converters for GIF to Video</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-unique-identity-creation-accessible-logo-base-and-personal-customization-for-no-cost/"><u>2024 Approved Unique Identity Creation Accessible Logo Base & Personal Customization for No-Cost</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/breaking-down-how-to-find-your-latest-watched-fb-content/"><u>Breaking Down How to Find Your Latest Watched FB Content</u></a></li>
-<li><a href="https://fox-that.techidaily.com/complete-guide-retrieving-accidentally-erased-iphone-notebooks/"><u>Complete Guide: Retrieving Accidentally Erased iPhone Notebooks</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/install-new-ethernet-driver-compatible-with-usb-30-for-windows/"><u>Install New Ethernet Driver Compatible with USB 3.0 for Windows</u></a></li>
-<li><a href="https://fox-that.techidaily.com/restore-ringtone-notifications-on-your-iphone-17-effective-fixes-for-missing-text-sounds/"><u>Restore Ringtone Notifications on Your iPhone: 17 Effective Fixes for Missing Text Sounds</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solving-iphone-messaging-problems-a-guide-with-10-key-tips-and-tricks/"><u>Solving iPhone Messaging Problems: A Guide with 10 Key Tips & Tricks</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/streaming-high-quality-vr-videos-made-easy-for-ios-users/"><u>Streaming High-Quality VR Videos Made Easy for IOS Users</u></a></li>
-<li><a href="https://fox-that.techidaily.com/the-6-most-common-iphone-13-issues-and-how-to-fix-them/"><u>The 6 Most Common iPhone 13 Issues and How to Fix Them</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/the-top-pc-intro-makers-a-beginners-guide-to-getting-started-for-2024/"><u>The Top PC Intro Makers A Beginners Guide to Getting Started for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/unveiling-iphones-depth-first-recovery-dfu-mode-and-its-uses/"><u>Unveiling iPhone's Depth-First Recovery (DFU) Mode and Its Uses</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-methods-for-amending-silent-obs-recordings/"><u>[New] 2024 Approved Methods for Amending Silent OBS Recordings</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-web-compendium-alarm-rhythms-guidebook/"><u>2024 Approved Ultimate Web Compendium Alarm Rhythms Guidebook</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/6ygp5yih44gq6zplusz5aow44kz44o844oh44od44kv44ks6yg45a6a44gz44kl5oml5byv44gnicfpn7plo7djgrpjg7zjg4fjg4pjgqjga7mpjzoqlwn/"><u>適切な音声コーデックを選定する手引き '音声コーデックの検証'</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/a-detailed-analysis-of-mozillas-popup-functionality-for-2024/"><u>A Detailed Analysis of Mozilla's Popup Functionality for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/banishing-auto-correct-errors-a-guide-to-perfect-iphone-spellings-with-six-essential-strategies/"><u>Banishing Auto-Correct Errors: A Guide to Perfect iPhone Spellings with Six Essential Strategies</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-find-the-perfect-mix-funny-touching-ig-meme-stories-of-ten/"><u>In 2024, Find the Perfect Mix Funny, Touching IG Meme Stories of Ten</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-6-best-sim-unlock-services-that-actually-work-on-your-samsung-galaxy-a14-5g-device-by-drfone-android/"><u>In 2024, The 6 Best SIM Unlock Services That Actually Work On Your Samsung Galaxy A14 5G Device</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-elevate-your-editing-skills-top-10-final-cut-pro-x-plugins-for-professionals-and-beginners-for-2024/"><u>New Elevate Your Editing Skills Top 10 Final Cut Pro X Plugins for Professionals and Beginners for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/revolutionizing-workflows-with-apples-newest-ipad-the-ultimate-guide/"><u>Revolutionizing Workflows with Apple's Newest iPad - The Ultimate Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/slow-mobile-internet-woes-top-10-ways-to-accelerate-your-data-speeds/"><u>Slow Mobile Internet Woes: Top 10 Ways to Accelerate Your Data Speeds</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-iphone-why-your-android-friends-cant-text-you-and-solutions/"><u>Troubleshooting iPhone: Why Your Android Friends Can't Text You & Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/understanding-the-glitch-when-visual-look-up-doesnt-work-on-ios-phones/"><u>Understanding the Glitch: When Visual Look Up Doesn't Work on iOS Phones</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/winning-the-battle-against-shadowplay-recording-glitches-on-windows-computers/"><u>Winning the Battle Against Shadowplay Recording Glitches on Windows Computers</u></a></li>
 </ul></div>
 

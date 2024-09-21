@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting a Solo Malfunctioning AirPods: Step-by-Step Guide"
-date: 2024-09-13T19:43:08.684Z
-updated: 2024-09-15T20:27:09.417Z
+date: 2024-09-13T18:47:27.573Z
+updated: 2024-09-20T21:31:54.882Z
 tags:
   - iphone
   - apple
@@ -55,13 +55,6 @@ Close
 
 [Reboot your iPhone](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) , Windows computer, Android device, or Mac—whatever it is that you use with your AirPods. Once your device is powered on and Bluetooth is enabled, check if both your AirPods connect and work properly again.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Adjust the Audio Balance on Your Devices
 
  Most devices allow you to set the volume level for each AirPod individually. If you or someone else has tweaked this adjustment and routed the audio to only one of the AirPods, that may be why you're not hearing any sound from the other. It could also be [why one AirPod sounds louder than the other](https://www.makeuseof.com/why-one-airpod-louder-than-other-fixes/) when they're both working.
@@ -78,16 +71,23 @@ Close
 
 ![mac sound system settings airpods balance](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/mac-sound-system-settings-airpods-balance.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can adjust the AirPods audio balance on Windows 11 by opening**Settings > System > Sound** . Then, select your AirPods from the list of output devices and adjust the**Left channel** and**Right channel** sliders so that they're equal.
 
 ![Windows Sound Settings for AirPods Pro](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/windows-sound-settings-for-airpods-pro.png)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Try Your AirPods With Other Devices
 
@@ -115,6 +115,13 @@ Close
 
  After unpairing, you need to [re-pair your AirPods to your device](https://www.makeuseof.com/tag/how-to-connect-airpods-mac-iphone-pc-android/) . Then, see if both your AirPods work.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Reset Your AirPods to Factory Settings
 
  If your AirPods still don't work after unpairing and re-pairing them, try resetting them to their factory settings. Once they're unpaired, put your AirPods in their charging case, but don't close the lid.
@@ -122,13 +129,6 @@ Close
  Press and hold the setup button on the back of the AirPods charging case for 15 seconds until the light on the front flashes amber and white. Then, let go of the button and, with the lid open, hold your AirPods case near your iPhone.
 
  Your iPhone will prompt you to set them up. If you're using another device, follow the standard Bluetooth setup steps.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Reset Your Phone's Network Settings
 
@@ -163,21 +163,20 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-convert-fb-videos-on-the-fly-mp4-style/"><u>[New] Convert FB Videos on the Fly – MP4 Style</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-make-money-fast-on-reddit-top-13-easy-strategies-for-beginners/"><u>[Updated] 2024 Approved Make Money Fast on Reddit Top 13 Easy Strategies for Beginners</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-code-commanders-elite-females-on-yt/"><u>[Updated] In 2024, Code Commanders Elite Females on YT</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-vivacious-talker-examined-revision-no-8/"><u>2024 Approved Vivacious Talker Examined Revision No. 8</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/boost-photographic-vision-get-free-and-paid-lut-upgrades-for-2024/"><u>Boost Photographic Vision - Get FREE & Paid LUT Upgrades for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/comprehensive-fix-for-mobile-network-sim-not-provisioned-mmi-2-glitches/"><u>Comprehensive Fix for Mobile Network SIM Not Provisioned MMI 2 Glitches</u></a></li>
-<li><a href="https://fox-that.techidaily.com/experiencing-sluggish-mobile-internet-speeds-boost-them-with-these-top-10-tips/"><u>Experiencing Sluggish Mobile Internet Speeds? Boost Them with These Top 10 Tips</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-fix-the-sim-not-provisioned-mm-2-error/"><u>How to Fix the SIM Not Provisioned MM 2 Error</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-motorola-moto-g04-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Motorola Moto G04 to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-vivo-y78plus-t1-edition-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Vivo Y78+ (T1) Edition | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-samsung-galaxy-a25-5g-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Samsung Galaxy A25 5G? | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/reactivating-deactivated-rulesets-in-office-365windows-outlook/"><u>Reactivating Deactivated Rulesets in Office 365/Windows Outlook</u></a></li>
-<li><a href="https://fox-that.techidaily.com/revive-your-iphone-with-an-easy-soft-restart-tutorial/"><u>Revive Your iPhone with an Easy Soft Restart Tutorial</u></a></li>
-<li><a href="https://fox-that.techidaily.com/stay-ahead-of-the-curve-understand-why-installing-ios-153-is-a-must-do-for-your-iphone-or-ipad-now/"><u>Stay Ahead of the Curve: Understand Why Installing iOS 15.3 Is a Must-Do for Your iPhone or iPad Now</u></a></li>
-<li><a href="https://fox-that.techidaily.com/trouble-with-iphone-display-orientation-learn-the-quick-fix/"><u>Trouble with iPhone Display Orientation? Learn the Quick Fix!</u></a></li>
-<li><a href="https://fox-that.techidaily.com/unstuck-your-ios-devices-keyboard-quick-solutions-to-get-it-working-again/"><u>Unstuck Your iOS Device's Keyboard: Quick Solutions to Get It Working Again</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-mov-saving-on-the-go-top-six-tips-to-improve-your-workflow-in-windows-11-for-2024/"><u>[New] .MOV Saving on the Go - Top Six Tips to Improve Your Workflow in Windows 11 for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-navigating-the-world-of-podcast-rss-formatting-for-2024/"><u>[New] Navigating the World of Podcast RSS Formatting for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/6-remedies-if-your-airpods-refuse-to-alternate-between-iphones-and-ipads/"><u>6 Remedies If Your AirPods Refuse To Alternate Between iPhones and iPads</u></a></li>
+<li><a href="https://fox-that.techidaily.com/delayed-iphone-text-alerts-discover-9-solutions-to-rectify/"><u>Delayed iPhone Text Alerts? Discover 9 Solutions to Rectify</u></a></li>
+<li><a href="https://fox-that.techidaily.com/enhancing-low-megapixel-iphone-photos-tips-and-tricks-to-elevate-your-pictures/"><u>Enhancing Low-Megapixel iPhone Photos - Tips & Tricks to Elevate Your Pictures</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-mov-files-on-redmi-note-13-proplus-5g-by-aiseesoft-video-converter-play-mov-on-android/"><u>How to play MOV files on Redmi Note 13 Pro+ 5G ?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-an-airtag-from-your-apple-id-account-from-iphone-13-mini-by-drfone-ios/"><u>How to Remove an AirTag from Your Apple ID Account From iPhone 13 mini?</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-life360-on-windows-pc-for-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Nubia Z50 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-finding-and-following-leading-biz-channels-online/"><u>In 2024, Finding and Following Leading Biz Channels Online</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-oppo-reno-11-5g-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Oppo Reno 11 5G Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-contacts-app-malfunctioning-here-are-3-reliable-solutions/"><u>IPhone Contacts App Malfunctioning? Here Are 3 Reliable Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-solutions-for-iphone-calling-issues-troubleshoot-10-steps/"><u>Top Solutions for iPhone Calling Issues: Troubleshoot 10 Steps</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-data-from-infinix-by-fonelab-android-recover-data/"><u>Undelete lost data from Infinix</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unstick-your-iphone-from-endless-earbuds-configuration-8-must-try-hacks/"><u>Unstick Your iPhone From Endless Earbuds Configuration: 8 Must-Try Hacks</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-unleash-your-creativity-90-days-of-free-final-cut-pro-usage-waiting-for-you/"><u>Updated Unleash Your Creativity 90 Days of Free Final Cut Pro Usage Waiting for You</u></a></li>
 </ul></div>
 

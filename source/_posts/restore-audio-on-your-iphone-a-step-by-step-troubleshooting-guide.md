@@ -1,7 +1,7 @@
 ---
 title: "Restore Audio on Your iPhone: A Step-by-Step Troubleshooting Guide"
-date: 2024-09-09T19:30:07.609Z
-updated: 2024-09-15T16:31:10.192Z
+date: 2024-09-18T23:03:40.240Z
+updated: 2024-09-20T16:11:31.711Z
 tags:
   - iphone
   - apple
@@ -84,6 +84,13 @@ Close
 
 ![iphone control center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/bluetooth-off-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Close
 
  Also, check that your AirPlay isn’t connected to an external speaker. In the**Control Center** :
@@ -112,23 +119,29 @@ Close
 
 ![iphone settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/iphone-settings.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![sounds and haptics on iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/sounds-haptics-iphone.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![text tone on iphone settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/text-tone-iphone-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135473/26400" target="_top" id="2135473">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135473" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135473/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Close
 
@@ -142,6 +155,13 @@ Close
 
 ![audio settings in sky game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/sky-game-audio.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. Exit and Relaunch the Third-Party App
 
  If you’ve already gone through all the sound settings and they’re all switched on correctly, your iPhone’s sound not working may just be an app glitch.
@@ -153,10 +173,10 @@ Close
  You can also opt to view the video through another route. Instead of watching the video in your Instagram feed, tap into that Instagram profile and select the video from there instead.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Update iOS and Your iPhone Apps
@@ -164,13 +184,6 @@ Close
 ![iphone on wooden surface showing hello welcome screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/iphone-hello.jpg)
 
  Updates often come with fixes for bugs and glitches, so you can solve the issue of no sound on your iPhone by simply keeping your iOS and apps up-to-date. For more information, refer to our guide on [how to update your iPhone](https://www.makeuseof.com/tag/update-iphone-ios-apps-data/) .
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 9\. Force Restart Your iPhone
 
@@ -183,13 +196,6 @@ Close
 ## 11\. Reset All Settings on Your iPhone
 
  If you tried all the suggestions above but they don’t work, the last solution is to [reset your iPhone’s settings](https://www.makeuseof.com/tag/how-to-restore-reset-iphone-without-itunes/) . As long as you don’t select the**Erase All Content and Settings** option, rest assured that you will not lose any data. That said, you may need to erase all the content and set your iPhone up as new to fix the issue, so try that if the first option doesn’t work.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix No Sound on Your iPhone Easily
 
@@ -210,14 +216,20 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-best-approach-for-managing-cc-rights-and-usage/"><u>[Updated] In 2024, Best Approach for Managing CC Rights & Usage</u></a></li>
-<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-oneplus-12-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on OnePlus 12 | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-infinix-note-30i-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On Infinix Note 30i? | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-control-iphone-sound-settings-even-when-ringsilent-toggle-doesnt-work/"><u>How to Control iPhone Sound Settings Even When Ring/Silent Toggle Doesn't Work</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-screencapture-evaluation-interface/"><u>In 2024, ScreenCapture Evaluation Interface</u></a></li>
-<li><a href="https://fox-that.techidaily.com/mastering-iphone-battery-performance-a-6-step-calibration-guide/"><u>Mastering iPhone Battery Performance: A 6-Step Calibration Guide</u></a></li>
-<li><a href="https://discover-best.techidaily.com/pcdvd-2023/"><u>PCを使わない方法でレンタルDVDを複製する - 最新ガイド記事 (2023年生まれの映像専門家による解説)</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solve-iphone-voice-mail-issues-a-guide-to-nine-effective-fixes/"><u>Solve iPhone Voice Mail Issues: A Guide to Nine Effective Fixes</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-guide-how-to-fix-a-non-responsive-facetime-application/"><u>Troubleshooting Guide: How to Fix a Non-Responsive FaceTime Application</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-speak-out-altering-soundtracks-in-ps4ps5-games/"><u>[New] Speak Out Altering Soundtracks in PS4/PS5 Games</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-streamlined-guide-5-efficient-windows-11-audio-recording-tips/"><u>[New] Streamlined Guide 5 Efficient Windows 11 Audio Recording Tips</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-navigating-youtube-feedback-a-user-guide/"><u>2024 Approved Navigating YouTube Feedback A User Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-shots-premium-video-cams-for-slow-motion-magic/"><u>2024 Approved Top Shots Premium Video Cams for Slow-Motion Magic</u></a></li>
+<li><a href="https://fox-that.techidaily.com/a-comprehensive-tutorial-to-fix-error-14-glitches-on-iphones/"><u>A Comprehensive Tutorial to Fix 'Error 14' Glitches on iPhones</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/forgot-iphone-14-pro-backup-password-heres-what-to-do-drfone-by-drfone-ios/"><u>Forgot iPhone 14 Pro Backup Password? Heres What to Do | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-disabled-iphone-6-plusipad-without-computer-drfone-by-drfone-ios/"><u>How to Unlock Disabled iPhone 6 Plus/iPad Without Computer | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-tecno-spark-20-pro-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Tecno Spark 20 Pro Phone that is Locked?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/key-iphone-13-glitches-and-their-simple-resolutions-you-cant-miss/"><u>Key iPhone 13 Glitches and Their Simple Resolutions You Can't Miss</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolve-common-iphone-glitches-by-utilizing-dfu-mode-techniques/"><u>Resolve Common iPhone Glitches by Utilizing DFU Mode Techniques</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-your-ios-16-lock-screens-missing-depth-effect-with-7-tips/"><u>Troubleshoot Your iOS 16 Lock Screen's Missing Depth Effect with 7 Tips</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-imessage-delivery-issues-for-iphone-users/"><u>Troubleshooting iMessage Delivery Issues for iPhone Users</u></a></li>
+<li><a href="https://techidaily.com/unable-to-save-excel-2010-workbook-issue-fix-2024-by-stellar-guide/"><u>Unable to Save Excel 2010 Workbook Issue Fix 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/unleashing-creativity-in-instagram-photography-through-border-use-for-2024/"><u>Unleashing Creativity in Instagram Photography Through Border Use for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/why-cant-i-take-a-full-page-screenshot-in-safari-solutions-inside/"><u>Why Can't I Take a Full Page Screenshot in Safari? Solutions Inside</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Visual Voyage: A Step-by-Step Approach to Locating Your Lost FaceTime Pictures"
-date: 2024-09-13T17:02:55.550Z
-updated: 2024-09-15T19:41:12.847Z
+date: 2024-09-13T23:39:33.670Z
+updated: 2024-09-21T01:31:02.231Z
 tags:
   - iphone
   - apple
@@ -67,13 +67,6 @@ Close
 
  Alternatively, hit**Cmd + Shift + 3** to take a screenshot of your entire screen. Aside from these two options, there are other [ways to take screenshots on your Mac](https://www.makeuseof.com/tag/how-to-take-a-screenshot-on-a-mac/) .
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121332/18498" target="_top" id="2121332">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121332" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121332/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Enable Live Photos in Your FaceTime Settings
 
  Before you can take a Live Photo in FaceTime, both you and the person you're taking a photo of need to enable Live Photos in your FaceTime Settings. So, if you don't want other people to take photos of you during FaceTime calls, you should disable this option. Keep in mind that other people will still be able to take a screenshot, though.
@@ -83,13 +76,26 @@ Close
 ![iOS Settings menu FaceTime selected](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ios-settings-menu-facetime-selected.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120866/26400?prodsku=mars" target="_top" id="2120866">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120866/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![FaceTime Live Photos toggle enabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/facetime-live-photos-toggle-enabled.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close
 
@@ -109,6 +115,13 @@ Close
 
 ![Photos app on an iPhone Home Screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/share-shared-albums-with-non-apple-users.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3\. Update to the Latest Operating System
 
  In some older versions of iOS, Apple temporarily removed the ability to take Live Photos on FaceTime. This was presumably due to a FaceTime security bug. FaceTime photos are available now, but you need to update your device to the latest software to use them. The person you're taking a photo of needs to update their device to the latest software as well.
@@ -124,10 +137,10 @@ Close
  No matter what [FaceTime problem you're encountering](https://www.makeuseof.com/tag/facetime-not-working/) , you should always try to fix it by restarting your device. This is a remarkably effective troubleshooting step that only takes a moment to try out. Power off your iPhone, iPad, or Mac as you usually would, then wait 30 seconds before restarting it again.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115947/19272" target="_top" id="2115947">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115947" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 5\. Restart FaceTime on Your Device
@@ -141,22 +154,15 @@ Close
 ![FaceTime enabled in iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/facetime-enabled-ios-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Close
 
  On a Mac, open the**FaceTime** app and go to**FaceTime > Settings** from the menu bar. In the**Settings** tab, uncheck the box for**Enable this account** , then check the box again to re-enable FaceTime.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115930/19272" target="_top" id="2115930">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115930" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115930/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Revisit Your FaceTime Photos on iPhone, iPad and Mac
 
@@ -179,21 +185,17 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/dept-principles-for-youtube-participants/"><u>[New] Adept Principles for YouTube Participants</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-upgrade-your-tiktok-videos-efficient-backdrop-swapping-guide/"><u>[New] In 2024, Upgrade Your TikTok Videos Efficient Backdrop Swapping Guide</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-8-key-money-making-moves-for-youtube-rookies/"><u>[Updated] 2024 Approved 8 Key Money-Making Moves for YouTube Rookies</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-flashframe-crafter/"><u>[Updated] 2024 Approved FlashFrame Crafter</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-elevate-your-youtube-content-seo-methods-revealed-for-2024/"><u>[Updated] Elevate Your YouTube Content SEO Methods Revealed for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-softening-audio-levels-alives-approach/"><u>2024 Approved Softening Audio Levels Alive’s Approach</u></a></li>
-<li><a href="https://techtrends.techidaily.com/beginners-tutorial-to-boot-new-hard-drives-with-windows-11-os/"><u>Beginner's Tutorial to Boot New Hard Drives with Windows 11 OS</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixed-comprehensive-guide-to-address-d3dx939dll-missing-errors-effectively/"><u>Fixed: Comprehensive Guide to Address d3dx9_39.dll Missing Errors Effectively</u></a></li>
-<li><a href="https://fox-that.techidaily.com/guide-troubleshooting-non-delivery-of-imessages-on-iphone/"><u>Guide: Troubleshooting Non-Delivery of iMessages on iPhone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/keeping-your-airpods-devotionally-linked-avoid-auto-switching-between-iphone-mac-and-ipad/"><u>Keeping Your AirPods Devotionally Linked: Avoid Auto-Switching Between iPhone, Mac & iPad</u></a></li>
-<li><a href="https://fox-that.techidaily.com/mastering-icloud-harmony-fixes-for-when-files-fail-to-transfer-between-devices/"><u>Mastering iCloud Harmony: Fixes for When Files Fail to Transfer Between Devices</u></a></li>
-<li><a href="https://fox-that.techidaily.com/overcome-family-sharing-hurdles-with-these-six-effective-strategies/"><u>Overcome Family Sharing Hurdles with These Six Effective Strategies</u></a></li>
-<li><a href="https://fox-that.techidaily.com/overcoming-iphone-silent-mode-challenges-a-guide-to-receiving-messages-and-calls-with-8-key-tips/"><u>Overcoming iPhone Silent Mode Challenges: A Guide to Receiving Messages & Calls with 8 Key Tips</u></a></li>
-<li><a href="https://fox-http.techidaily.com/simplifying-age-confirmation-on-tiktok-for-2024/"><u>Simplifying Age Confirmation on TikTok for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/tired-of-slow-mobile-browsing-learn-how-to-improve-speeds-using-simple-techniques/"><u>Tired of Slow Mobile Browsing? Learn How to Improve Speeds Using Simple Techniques</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-tips-resolving-issues-with-aol-mail-on-ios-devices/"><u>Troubleshooting Tips: Resolving Issues with AOL Mail on iOS Devices</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/1715860515791-new-leveraging-huaweis-inbuilt-screen-capture-tech-on-its-phones/"><u>[New] Leveraging Huawei's Inbuilt Screen Capture Tech on Its Phones.</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-stand-out-in-the-stream-top-name-generators-reviewed/"><u>[New] Stand Out in the Stream Top Name Generators Reviewed</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-revive-your-experience-with-these-key-iphone-x-tips/"><u>[Updated] 2024 Approved Revive Your Experience with These Key iPhone X Tips</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-essential-tech-for-effective-pc-image-capture-the-5-best/"><u>2024 Approved Essential Tech for Effective PC Image Capture, The 5 Best</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/o-turn-mundane-games-into-epic-scenes-for-2024/"><u>How to Turn Mundane Games Into Epic Scenes for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlock-your-disabled-iphone-se-2020-without-itunes-in-5-ways-drfone-by-drfone-ios/"><u>In 2024, Unlock Your Disabled iPhone SE (2020) Without iTunes in 5 Ways | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcome-the-challenges-of-iphones-on-hold-charging-with-these-eight-strategies/"><u>Overcome The Challenges of iPhone’s 'On Hold' Charging with These Eight Strategies</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-error-message-applicationexe-has-stopped-now-fixed/"><u>Resolved: Error Message 'Application.exe Has Stopped' Now Fixed</u></a></li>
+<li><a href="https://fox-that.techidaily.com/stop-overlapping-alerts-how-to-prevent-your-ipad-from-ringing-alongside-your-iphone/"><u>Stop Overlapping Alerts: How to Prevent Your iPad From Ringing Alongside Your iPhone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/the-ultimate-guide-to-fixing-your-smartphones-lagging-wi-fi-connection-7-key-points/"><u>The Ultimate Guide to Fixing Your Smartphone's Lagging Wi-Fi Connection (7 Key Points)</u></a></li>
+<li><a href="https://fox-that.techidaily.com/what-to-do-when-only-one-airpod-fails-to-work/"><u>What To Do When Only One AirPod Fails to Work?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/why-is-find-my-iphone-offline-and-how-to-find-it-anyway/"><u>Why Is Find My iPhone Offline? (And How to Find It Anyway)</u></a></li>
 </ul></div>
 

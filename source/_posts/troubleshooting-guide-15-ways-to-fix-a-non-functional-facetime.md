@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: 15 Ways to Fix a Non-Functional FaceTime"
-date: 2024-09-08T19:40:50.022Z
-updated: 2024-09-15T17:19:40.561Z
+date: 2024-09-17T18:20:38.107Z
+updated: 2024-09-20T17:44:15.690Z
 tags:
   - iphone
   - apple
@@ -69,16 +69,16 @@ thumbnail: https://thmb.techidaily.com/3a8d29dc752129bc6cecd890184a07ba60927370b
 
 ![iphone mobile service settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/iphone-mobile-service-settings.JPEG)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![iphone mobile service settings for apps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/iphone-mobile-service-settings-for-apps.JPEG)
 
 Close
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115913/19272" target="_top" id="2115913">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115913" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115913/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Restart Your iPhone, iPad, or Mac
 
@@ -93,6 +93,13 @@ Close
  Apple services sometimes experience technical issues, which means FaceTime won't connect or be available for anyone. When this happens, there's nothing you can do but wait for Apple to implement a solution.
 
  Take a look at the current status of every Apple service on [Apple's System Status page](https://www.apple.com/support/systemstatus/) . If the status indicator next to FaceTime isn't green, it means the service is experiencing an outage and you'll need to wait.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Check if FaceTime Works in Your Country
 
@@ -109,10 +116,10 @@ Close
 ![iphone facetime settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/iphone-facetime-settings.JPEG)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Close
@@ -156,13 +163,6 @@ For Group FaceTime chats, you need one of the following devices:
 
 ![iphone main settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/img_7705.JPEG)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![iPhone General settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/iphone-general-settings.JPEG)
 
 ![iphone date and time settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/iphone-date-and-time-settings.JPEG)
@@ -181,23 +181,9 @@ Close
 
 ![iphone stock app settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/iphone-stock-app-settings.JPEG)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![iphone facetime settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/iphone-facetime-settings.JPEG)
 
 ![iphone facetime toggled off in settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/iphone-facetime-toggled-off-in-settings.JPEG)
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Close
 
@@ -225,6 +211,13 @@ Close
 
 ![iphone limit usage settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/iphone-limit-usage-settings.JPEG)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![iphone content and privacy restrictions settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/iphone-content-and-privacy-restrictions-settings.JPEG)
 
 ![allowed apps in iphone content and privacy restriction settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/allowed-apps-in-iphone-content-and-privacy-restriction-settings.JPEG)
@@ -234,6 +227,13 @@ Close
  On a Mac, go to**System Settings > Screen Time** **\>** **Content & Privacy > App Restrictions** . Ensure that**Camera** and**FaceTime** are enabled.
 
 ![app restrictions on mac](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/app-restrictions-on-mac.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If prompted on either device, enter your Screen Time passcode, which usually differs from your device passcode.
 
@@ -262,17 +262,21 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-ace-the-art-of-editing-say-goodbye-to-overflowing-tiktok-drafts/"><u>[New] 2024 Approved Ace the Art of Editing Say Goodbye to Overflowing TikTok Drafts</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-creating-engaging-instagram-highlight-tags/"><u>[New] Creating Engaging Instagram Highlight Tags</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-inside-the-world-of-facetune-a-comprehensive-photography-tool/"><u>[Updated] Inside the World of Facetune A Comprehensive Photography Tool</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-mastering-video-chat-on-snapchat-a-3-step-guide-to-efficiency/"><u>2024 Approved Mastering Video Chat on Snapchat A 3-Step Guide to Efficiency</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-transform-photo-editing-with-top-lunapic-hacks/"><u>2024 Approved Transform Photo Editing with Top LunaPic Hacks</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/5-ai-powered-book-recommendation-sites-and-apps-to-find-your-next-read/"><u>5 AI-Powered Book Recommendation Sites and Apps to Find Your Next Read</u></a></li>
-<li><a href="https://fox-that.techidaily.com/elevating-your-iphones-image-quality-despite-lower-mp-capabilities/"><u>Elevating Your iPhone's Image Quality Despite Lower MP Capabilities</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fix-airdrop-issues-quickly-discover-the-top-16-troubleshooting-steps/"><u>Fix AirDrop Issues Quickly: Discover the Top 16 Troubleshooting Steps</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-changefake-your-nokia-g310-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Nokia G310 Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/mastering-the-intricacies-of-dfu-mode-in-iphones-for-effective-troubleshooting/"><u>Mastering the Intricacies of DFU Mode in iPhones for Effective Troubleshooting</u></a></li>
-<li><a href="https://fox-that.techidaily.com/resurrect-grayed-out-icloud-settings-in-ios-with-these-4-effective-methods/"><u>Resurrect Grayed-Out iCloud Settings in iOS with These 4 Effective Methods</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshoot-broken-widgets-on-ios-devices-10-easy-fixes/"><u>Troubleshoot Broken Widgets on iOS Devices: 10 Easy Fixes</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-unlocking-yesteryears-visions-with-reverse-scans-in-social-media-world-facebook/"><u>[New] Unlocking Yesteryear's Visions with Reverse Scans in Social Media World (Facebook)</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-swift-solution-tweeting-videos-not-functioning-chrome/"><u>[Updated] 2024 Approved Swift Solution Tweeting Videos Not Functioning Chrome</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-sprint-showcase-short-track-22-glory/"><u>[Updated] Sprint Showcase Short Track '22 Glory</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/aperfeicoando-a-experiencia-do-seu-video-no-whatsapp-os-melhores-tamanhos-e-proporcoes-para-um-maior-engajamento-dos-espectadores/"><u>Aperfeiçoando a Experiência Do Seu Video No WhatsApp: Os Melhores Tamanhos E Proporções Para Um Maior Engajamento Dos Espectadores</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/endless-evolving-designs-how-frequently-switching-phone-backgrounds-became-a-daily-ritual/"><u>Endless Evolving Designs: How Frequently Switching Phone Backgrounds Became a Daily Ritual</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-motorola-moto-g73-5g-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Motorola Moto G73 5G to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-infinix-note-30-vip-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Infinix Note 30 VIP Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-resolve-instagram-slowdowns-top-6-fixes-for-both-android-and-ios/"><u>How to Resolve Instagram Slowdowns: Top 6 Fixes for Both Android & iOS</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-innovating-sustainable-communities-within-the-concrete-jungle/"><u>In 2024, Innovating Sustainable Communities Within the Concrete Jungle</u></a></li>
+<li><a href="https://fox-that.techidaily.com/keyboard-malfunctioning-on-ios-devices-top-5-fixes-inside/"><u>Keyboard Malfunctioning on iOS Devices? Top 5 Fixes Inside</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcome-the-challenges-of-iphones-on-hold-charging-with-these-eight-strategies/"><u>Overcome The Challenges of iPhone’s 'On Hold' Charging with These Eight Strategies</u></a></li>
+<li><a href="https://fox-that.techidaily.com/quick-remedies-for-overcome-freezing-glitches-on-apple-devices/"><u>Quick Remedies for Overcome Freezing Glitches on Apple Devices</u></a></li>
+<li><a href="https://fox-that.techidaily.com/stop-overlapping-alerts-how-to-prevent-your-ipad-from-ringing-alongside-your-iphone/"><u>Stop Overlapping Alerts: How to Prevent Your iPad From Ringing Alongside Your iPhone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/tips-of-transferring-messages-from-realme-12-proplus-5g-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Tips of Transferring Messages from Realme 12 Pro+ 5G to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-your-iphones-icloud-photo-synchronization-problem-with-these-7-tips/"><u>Troubleshoot Your iPhone's iCloud Photo Synchronization Problem with These 7 Tips</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-iphone-top-10-solutions-for-sms-not-sending-issues/"><u>Troubleshooting iPhone: Top 10 Solutions for SMS Not Sending Issues</u></a></li>
 </ul></div>
 

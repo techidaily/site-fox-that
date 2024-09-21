@@ -1,7 +1,7 @@
 ---
 title: Water Logged iPhone? Here Are 9 Symptoms You Need to Watch For!
-date: 2024-09-11T18:10:34.565Z
-updated: 2024-09-15T21:31:49.211Z
+date: 2024-09-17T16:24:08.188Z
+updated: 2024-09-20T23:52:18.993Z
 tags:
   - iphone
   - apple
@@ -48,10 +48,10 @@ thumbnail: https://thmb.techidaily.com/255abe49d787e06c0ed6c6f504e1d68fdfd70d280
  Dirty water often contains all sorts of particles that can get into small gaps and block them. If you notice that the buttons on an iPhone feel stuck, make a grainy sound, or simply do not respond, then you could be holding a water-damaged iPhone.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Patches on the Display
@@ -74,11 +74,25 @@ thumbnail: https://thmb.techidaily.com/255abe49d787e06c0ed6c6f504e1d68fdfd70d280
 
 ![iPhone 11 in the hands of a woman with volume control options on the screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/iphone-11-in-the-hands-of-a-woman-with-volume-control-options-on-the-screen.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Another clear sign that an iPhone is water-damaged is muffled speakers. If you want to purchase a used phone, after checking the cameras, you should play some sounds on the speakers to see what it sounds like.
 
  If the sounds on the iPhone come out muffled, then you can assume that the phone likely had some water damage to its speaker hardware at some point. You can also test the front speaker by playing a voice note on iMessage and placing it against your ear.
 
  You should dry out the speakers for iPhones that just fell into some water. If that still doesn't help, try some DIY [iPhone speaker fixes](https://www.makeuseof.com/tag/fix-iphone-speaker-not-working/) before you spend money on an expert.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Signs of Rust and Corrosion
 
@@ -88,34 +102,20 @@ thumbnail: https://thmb.techidaily.com/255abe49d787e06c0ed6c6f504e1d68fdfd70d280
 
  If you're skilled at DIY repairs, you can try opening up the iPhone to search the interior components for signs of rust.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123480/16836" target="_top" id="2123480">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123480" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123480/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8\. Unstable Charging
 
 ![Plugged-in iPhone resting on a black surface](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/plugged-in-iphone-resting-on-a-black-surface.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  In most scenarios where a phone falls into some water, it will likely be dirty water. And dirty water could contain all sorts of things like sand, mud, or other icky particles. These particles can get into your phone's charging port and block the pins. When the pins are blocked in this manner, your charger might not be able to fully nest in your phone, stopping your phone from charging properly or charging at all.
 
  If your phone falls in muddy water, try to remove mud from the charging port as quickly as possible. When your phone dries, give the charging port a thorough clean. You can check our guide on [how to clean your dirty iPhone](https://www.makeuseof.com/tag/clean-iphone-guide/) for better assistance with that.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115939/19272" target="_top" id="2115939">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115939" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115939/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 9\. Strange Smells
 
@@ -148,20 +148,20 @@ thumbnail: https://thmb.techidaily.com/255abe49d787e06c0ed6c6f504e1d68fdfd70d280
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/updated-elevate-conversations-via-curated-creativity-in-stories-lives/"><u>[Updated] Elevate Conversations via Curated Creativity in Stories Lives</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-recording-revolution-ranking-the-top-10-budget-apps/"><u>[Updated] In 2024, Recording Revolution Ranking the Top 10 Budget Apps</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-professional-shootings-optimal-lenses-for-youtube-videographers/"><u>[Updated] Professional Shootings Optimal Lenses for YouTube Videographers</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-reigning-on-social-media-top-tips-to-elevate-your-business-for-2024/"><u>[Updated] Reigning on Social Media Top Tips to Elevate Your Business for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/a-closer-look-at-high-end-vr-walking-machines/"><u>A Closer Look at High-End VR Walking Machines</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-the-odd-top-scroll-reflex-in-windows-10s-file-explorer-for-improved-user-experience/"><u>Fixing the Odd Top-Scroll Reflex in Windows 10'S File Explorer for Improved User Experience</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/free-cam-software-showdown-best-alternative-to-expensive-options/"><u>Free Cam Software Showdown Best Alternative to Expensive Options</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/data-to-drama-utilizing-google-trends-in-video-planning-for-2024/"><u>From Data to Drama Utilizing Google Trends in Video Planning for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-stop-audio-shifting-with-head-movement-on-your-airpods-turn-off-dynamic-headtracking/"><u>How to Stop Audio Shifting with Head Movement on Your AirPods: Turn Off Dynamic Headtracking</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/ideal-audio-gear-compatible-with-cutting-edge-4k-technology-for-2024/"><u>Ideal Audio Gear Compatible with Cutting-Edge 4K Technology for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/mastering-the-art-of-re-syncing-icloud-photos-discover-our-7-tips-for-iphone-owners/"><u>Mastering the Art of Re-Syncing iCloud Photos: Discover Our ^7^ Tips for iPhone Owners</u></a></li>
-<li><a href="https://fox-that.techidaily.com/navigating-iphone-snapshot-complications-strategies-for-successful-management-and-editing/"><u>Navigating iPhone Snapshot Complications – Strategies for Successful Management and Editing</u></a></li>
-<li><a href="https://fox-that.techidaily.com/overcome-your-iphones-stand-by-glitches-using-these-four-remedial-actions/"><u>Overcome Your iPhone's Stand-By Glitches Using These Four Remedial Actions</u></a></li>
-<li><a href="https://fox-that.techidaily.com/resolving-location-unavailable-issues-on-your-iphone-a-step-by-step-guide/"><u>Resolving 'Location Unavailable' Issues on Your iPhone: A Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-that.techidaily.com/reviving-your-iphones-sound-capability-solutions-for-a-broken-mic/"><u>Reviving Your iPhone's Sound Capability: Solutions for a Broken Mic</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ow-to-stream-to-youtube-facebook-twitch-and-over-30-platforms/"><u>[New] How to Stream to YouTube, Facebook, Twitch and Over 30 Platforms</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-visual-cohesion-through-simple-fading-techniques/"><u>[Updated] 2024 Approved Visual Cohesion Through Simple Fading Techniques</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-guide-to-disable-recommended-podcast-features-in-spotify/"><u>2024 Approved Guide to Disable Recommended Podcast Features in Spotify</u></a></li>
+<li><a href="https://fox-that.techidaily.com/correcting-misreported-browsing-history-in-iphones-screen-time-monitor/"><u>Correcting Misreported Browsing History in iPhone's Screen Time Monitor</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/immediate-screen-capture-on-mac-revealing-the-best-5-approaches/"><u>Immediate Screen Capture on Mac Revealing the Best 5 Approaches</u></a></li>
+<li><a href="https://fox-that.techidaily.com/optimizing-iphone-photography-tips-for-low-megapixel-cameras/"><u>Optimizing iPhone Photography: Tips for Low-Megapixel Cameras</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcome-iphone-camera-challenges-7-common-issues-and-solutions-explained/"><u>Overcome iPhone Camera Challenges: 7 Common Issues and Solutions Explained</u></a></li>
+<li><a href="https://games-able.techidaily.com/peering-beyond-the-screen-4-tactics-for-online-status/"><u>Peering Beyond the Screen: 4 Tactics for Online Status</u></a></li>
+<li><a href="https://fox-that.techidaily.com/simple-guide-adjusting-your-iphone-battery-with-6-straightforward-methods/"><u>Simple Guide: Adjusting Your iPhone Battery with 6 Straightforward Methods</u></a></li>
+<li><a href="https://fox-that.techidaily.com/steps-to-resolve-your-iphones-inability-to-back-up-to-icloud-9-solutions/"><u>Steps to Resolve Your iPhone's Inability to Back Up to iCloud (9 Solutions)</u></a></li>
+<li><a href="https://fox-that.techidaily.com/stuck-at-the-start-here-are-7-fixes-for-an-iphone-frozen-on-apple-logo/"><u>Stuck at the Start? Here Are 7 Fixes for an iPhone Frozen on Apple Logo</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/the-best-programs-for-retrieving-deleted-iphone-photographs-without-hassle/"><u>The Best Programs for Retrieving Deleted iPhone Photographs Without Hassle</u></a></li>
+<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-itel-s23plus-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Itel S23+? | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-pc-issues-eliminate-bless-unleasheds-lag-and-ping-problems-with-these-tips/"><u>Troubleshoot PC Issues: Eliminate Bless Unleashed's Lag and Ping Problems with These Tips</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlocking-the-power-of-canon-time-lapse-imaging-for-2024/"><u>Unlocking the Power of Canon Time-Lapse Imaging for 2024</u></a></li>
 </ul></div>
 

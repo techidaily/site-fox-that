@@ -1,7 +1,7 @@
 ---
 title: "Illuminate the Darkness Again: Top 12 Methods to Repair Your iPhone Flashlight"
-date: 2024-09-12T19:12:27.097Z
-updated: 2024-09-15T22:45:39.422Z
+date: 2024-09-19T23:41:13.993Z
+updated: 2024-09-21T01:31:11.025Z
 tags:
   - iphone
   - apple
@@ -66,13 +66,6 @@ Close
 
 ![customize iphone control center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/iphone-settings-3.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114267/17093" target="_top" id="2114267">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114267/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![customize iphone control center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/iphone-settings-4.JPG)
 
 Close
@@ -82,6 +75,13 @@ Close
  Your iPhone's camera's flash function uses the same light as the flashlight. If you have the**Camera** app opened, it's normal to see the Control Center's flashlight icon grayed out. This is because you can't use both features at the same time.
 
  To solve this, just exit the**Camera** app and access your**Control Center** again. You should see that the flashlight button can once more be selected as usual.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Turn On Your Flashlight Using the Camera Flash
 
@@ -97,18 +97,18 @@ Close
 
 ![turn on iphone camera flash](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/video-mode-3.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Close
 
 ## 7\. Toggle the Flash in Your iPhone's Camera App
 
  To get rid of glitches that stop your iPhone's flashlight from working, you can also try turning your camera flash on and off. The steps are the same as the workaround to turn on your iPhone's camera flash, as discussed in the previous solution. But instead of leaving the**Flash** set to**On** , toggle between**On** and**Off** a few times.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 8\. Ask Siri to Turn On Your iPhone's Flashlight
 
@@ -120,13 +120,26 @@ Close
 
 ![siri response after turning on iphone flashlight](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/img_7830.JPEG)
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Close
 
 <!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 9\. Update Your iPhone's iOS
@@ -135,31 +148,11 @@ Close
 
  Go to**Settings > General > Software Update** to see if an update is available for your iPhone. Make sure your iPhone is charging or has more than 50% battery before you proceed with the update process.
 
-<!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 10\. Restart Your iPhone
 
  If the above methods don't solve the problem and your iPhone's flashlight still isn't working, the next step you should try is [restarting your iPhone](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) .
 
 ![iphone on wooden surface showing hello welcome screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/iphone-hello-screen-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118318/7443" target="_top" id="2118318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118318" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118318/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The method you need to follow varies depending on the iPhone model you have. But in general, you can go to **Settings > General > Shut Down > Slide to power off** . Then, hold the**Side** button to restart your iPhone once it powers off.
 
@@ -174,6 +167,19 @@ Close
  Take note that the reset process can take a long time, especially if you have a lot of data on your iPhone. So, if you're stuck in the dark and urgently need a flashlight, don't rely on resetting your iPhone right there and then!
 
  Make sure you don't accidentally choose**Erase All Content and Settings** from the**Reset** menu. Doing that would delete all the data on your device.
+
+<!-- affiliate ads begin -->
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Effective Solutions When Your iPhone's Flashlight Is Not Working
 
@@ -196,13 +202,16 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-instagram-video-tricks-uncovered-for-2024/"><u>[New] Instagram Video Tricks Uncovered for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-curated-cinematic-journeys-the-best-yt-film-selections/"><u>[Updated] In 2024, Curated Cinematic Journeys The Best YT Film Selections</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/a-closer-look-at-jabra-talk-45-superior-sound-plus-powerful-performance/"><u>A Closer Look at Jabra Talk 45 - Superior Sound + Powerful Performance</u></a></li>
-<li><a href="https://fox-that.techidaily.com/essential-troubleshooting-steps-stop-your-iphone-apps-from-freezing/"><u>Essential Troubleshooting Steps: Stop Your iPhone Apps From Freezing</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-infinix-note-30-vip-racing-edition-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Infinix Note 30 VIP Racing Edition</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-vivo-y100i-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Vivo Y100i Without Password | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-troubleshoot-and-repair-your-iphones-safari-browser-a-10-step-guide/"><u>How to Troubleshoot and Repair Your iPhone's Safari Browser – A 10-Step Guide</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-tips-for-an-iphone-not-showing-up-in-itunesfinder/"><u>Troubleshooting Tips for an iPhone Not Showing Up in iTunes/Finder</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-a-social-media-perspective-dissecting-igtv-versus-youtubes-features/"><u>[New] 2024 Approved A Social Media Perspective Dissecting IGTV versus YouTube's Features</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-inside-vidmas-tech-a-new-era-for-video-capture/"><u>[New] In 2024, Inside Vidma’s Tech A New Era for Video Capture?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-how-to-fix-street-fighter-6-lag-and-high-ping-on-pc/"><u>[Solved] How to Fix Street Fighter 6 Lag and High Ping on PC</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-customize-video-speed-to-match-your-desired-watch-time/"><u>[Updated] In 2024, Customize Video Speed to Match Your Desired Watch Time</u></a></li>
+<li><a href="https://fox-that.techidaily.com/elevate-your-phone-photography-game-expert-advice-and-quick-solutions-to-iphone-camera-roll-issues-top-8/"><u>Elevate Your Phone Photography Game: Expert Advice & Quick Solutions to iPhone Camera Roll Issues (Top 8)</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/essential-phone-knowledge-for-expanded-gear-vr-experiences-for-2024/"><u>Essential Phone Knowledge for Expanded Gear VR Experiences for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-get-your-iphone-texting-again-discover-10-effective-fixes/"><u>How to Get Your iPhone Texting Again? Discover 10 Effective Fixes!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-navigate-and-network-during-a-twitter-discussion-event/"><u>How to Navigate and Network During a Twitter Discussion Event</u></a></li>
+<li><a href="https://fox-that.techidaily.com/newbies-blueprint-how-to-effortlessly-use-bluetooth-features-on-an-iphone/"><u>Newbie's Blueprint: How to Effortlessly Use Bluetooth Features on an iPhone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/solving-handbrake-dvd-burning-problems-on-windows-11/"><u>Solving Handbrake DVD Burning Problems on Windows 11</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-tips-correcting-whatsapps-overly-zoomed-photos/"><u>Troubleshooting Tips: Correcting WhatsApp's Overly Zoomed Photos</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "How to Fix a Splash-Damaged iPhone: Clearing Out the Speakers"
-date: 2024-07-20T03:16:31.618Z
-updated: 2024-07-21T03:16:31.618Z
+date: 2024-09-20T01:23:14.684Z
+updated: 2024-09-20T22:10:04.183Z
 tags:
   - iphone
   - apple
@@ -14,18 +14,12 @@ thumbnail: https://thmb.techidaily.com/ab68550bed8939ff878aaece9b28e90d8b0465006
 
 ## How to Fix a Splash-Damaged iPhone: Clearing Out the Speakers
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Quick Links
 
 * [Use the Water Eject Shortcut on Your iPhone](https://www.makeuseof.com/how-to-eject-water-speaker-microphone-iphone/#use-the-water-eject-shortcut-on-your-iphone)
 * [Other Ways to Eject Water From Your iPhone's Speakers](https://www.makeuseof.com/how-to-eject-water-speaker-microphone-iphone/#other-ways-to-eject-water-from-your-iphone-39-s-speakers)
 * [What to Avoid When Your iPhone Speaker Is Wet](https://www.makeuseof.com/how-to-eject-water-speaker-microphone-iphone/#what-to-avoid-when-your-iphone-speaker-is-wet)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ### Key Takeaways
 
 * You can use the built-in Shortcuts app to quickly get rid of water trapped in your iPhone's speakers.
@@ -34,9 +28,6 @@ thumbnail: https://thmb.techidaily.com/ab68550bed8939ff878aaece9b28e90d8b0465006
 
  Although you're not supposed to take your iPhone into the shower or for a swim, many users do so anyway, causing water to get into the speaker. Fortunately, there are several free, simple ways to get water out of your iPhone's speakers.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ## Use the Water Eject Shortcut on Your iPhone
 
  First, make sure you have the Shortcuts app on your iPhone. Shortcuts is a native Apple app, so if you haven't got it, simply download it for free from the App Store.
@@ -64,15 +55,23 @@ Close
 Close
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Other Ways to Eject Water From Your iPhone's Speakers
 
  If you feel the Water Eject shortcut isn't sufficient for removing water from your iPhone's speaker, you can also try a couple of third-party tools.
 
 <!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Sonic
 
 Close
@@ -87,9 +86,6 @@ Close
 
  If you prefer not to download a shortcut or app on your device, you can head to the [Fix My Speakers site](https://fixmyspeakers.com/) to play the tone needed to eject water from your iPhone's speakers. Just tap the button with the wind and water droplets emoji to activate the sound.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ## What to Avoid When Your iPhone Speaker Is Wet
 
  Your iPhone's speakers get wet when you accidentally drop the device in water. When you're attempting to [save a wet smartphone or tablet](https://www.makeuseof.com/tag/how-to-save-a-wet-cell-phone-or-tablet/) , you might instantly think of the method where people put their devices in rice to dry them.
@@ -106,8 +102,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -115,4 +109,21 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-discover-the-top-10-igtv-editing-app-wonders/"><u>[New] In 2024, Discover the Top 10 IGTV Editing App Wonders</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/nlock-the-secrets-to-12-incredible-gamers-intro-videos-yt-no-cost/"><u>[New] Unlock the Secrets to 12 Incredible Gamers' Intro Videos (YT No Cost)</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-the-complete-youtube-traffic-and-monetization-guidebook/"><u>[Updated] 2024 Approved The Complete Youtube Traffic & Monetization Guidebook</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-from-sideways-to-symmetry-a-guide-to-flipping-images-and-spreading-engagement-for-2024/"><u>[Updated] From Sideways to Symmetry A Guide to Flipping Images and Spreading Engagement for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-top-strategies-for-adjusting-song-speed-on-spotify/"><u>2024 Approved Top Strategies for Adjusting Song Speed on Spotify</u></a></li>
+<li><a href="https://fox-that.techidaily.com/addressing-location-not-available-errors-a-comprehensive-guide-for-iphone-users/"><u>Addressing 'Location Not Available' Errors: A Comprehensive Guide for iPhone Users</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/boost-your-social-content-tips-for-writing-captivating-posts-using-chatgpt/"><u>Boost Your Social Content: Tips for Writing Captivating Posts Using ChatGPT</u></a></li>
+<li><a href="https://fox-that.techidaily.com/imessage-alert-ways-to-confirm-if-youve-been-banned-by-another-user/"><u>IMessage Alert: Ways to Confirm If You've Been Banned by Another User</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/inverted-footage-whats-behind-instagrams-peculiarity/"><u>Inverted Footage What's Behind Instagram's Peculiarity?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/mastering-iphone-image-processing-tips-for-resolving-common-issues/"><u>Mastering iPhone Image Processing: Tips for Resolving Common Issues</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolve-iphone-picture-haziness-in-just-7-steps/"><u>Resolve iPhone Picture Haziness in Just 7 Steps</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-apples-iphone-dark-display-dilemma-a-step-by-step-guide/"><u>Solving Apple's iPhone Dark Display Dilemma: A Step-by-Step Guide</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/speak-like-an-italian-100plus-useful-travel-language-guide/"><u>Speak Like an Italian: 100+ Useful Travel Language Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-guide-discover-the-top-11-free-dvd-crackers-for-safe-extraction-of-secure-movies/"><u>Ultimate Guide: Discover the Top 11 Free DVD Crackers for Safe Extraction of Secure Movies</u></a></li>
+</ul></div>
 

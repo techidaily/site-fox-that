@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting: How to Repair an Unresponsive iPhone/iPad Keyboard"
-date: 2024-09-08T17:32:59.437Z
-updated: 2024-09-15T18:40:40.170Z
+date: 2024-09-16T16:37:31.264Z
+updated: 2024-09-20T20:14:28.613Z
 tags:
   - iphone
   - apple
@@ -80,16 +80,22 @@ Close
 
 Close
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. iPhone or iPad Keyboard Is Lagging
 
  If you're typing swiftly on your iPhone keyboard but the text takes a while to show up on the screen, the cause might be a temporary software glitch or an incorrect iPhone setting. Try the solutions below.
+
+<!-- affiliate ads begin -->
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Reset the Keyboard Dictionary
 
@@ -115,16 +121,23 @@ Close
 
 ![ipohne touch setting with touch accommodations toggled on](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/ipohne-touch-setting-with-touch-accommodations-toggled-on.PNG)
 
-![iphone touch accommodations setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/iphone-touch-accommodations-setting.PNG)
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
+![iphone touch accommodations setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/iphone-touch-accommodations-setting.PNG)
+
 Close
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. No Sound or Vibration When Typing on the Keyboard
 
@@ -138,13 +151,6 @@ Close
 
 ![iphone keyboard feedback setting with sound and haptic enabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/iphone-keyboard-feedback-setting-with-sound-and-haptic-enabled.PNG)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115914/19272" target="_top" id="2115914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115914" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115914/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Close
 
  If you still don't feel a vibration when you type, go to**Settings > Accessibility > Touch** and make sure**Vibration** is toggled on. Also, make sure you have [Silent mode turned off on your iPhone](https://www.makeuseof.com/iphone-turn-off-silent-mode/) .
@@ -154,19 +160,6 @@ Close
 ![iphone touch accessibility setting with vibration toggled on](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/iphone-touch-accessibility-setting-with-vibration-toggled-on.PNG)
 
 Close
-
-<!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Physical Keyboard Not Working With Your iPad
 
@@ -185,10 +178,16 @@ Close
  However, if you're using a third-party keyboard that's connected to your iPad via Bluetooth, toggle off Bluetooth on your iPad, wait for a few moments, then toggle it on and connect your keyboard again.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. General Fixes When Your iPhone or iPad Keyboard Doesn't Work
@@ -200,6 +199,13 @@ Close
 ![iphone general settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/iphone-general-settings-2.JPEG)
 
 ![iPhone General settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/iphone-general-settings.JPEG)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![iphone ios 17.0.3 software update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/img_7670.JPEG)
 
@@ -224,21 +230,16 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-country-rhythms-for-relaxation-and-danceside-bliss-tiktok-playlist/"><u>[New] Country Rhythms for Relaxation and Danceside Bliss (TikTok Playlist)</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-haunting-scenes-next-gen-cam-tech/"><u>[New] Haunting Scenes Next-Gen Cam Tech</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-pros-picks-top-10-shaky-free-cameras-for-action/"><u>[New] Pro's Picks Top 10 Shaky-Free Cameras for Action</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-visionary-solutions-top-1-ward-video-recorders-on-the-web/"><u>[Updated] 2024 Approved Visionary Solutions Top 1 Ward Video Recorders on the Web</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-delving-into-the-world-of-asmr-soundscapes/"><u>[Updated] In 2024, Delving Into the World of ASMR Soundscapes</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-streamline-your-playtime-5-techniques-for-gamers/"><u>[Updated] Streamline Your Playtime 5 Techniques for Gamers</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/advice-alley-17-recommended-tools-for-effective-image-cleaning-for-2024/"><u>Advice Alley 17 Recommended Tools for Effective Image Cleaning for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/conquering-common-complaints-with-iphone-x-your-ultimate-problem-solving-guide/"><u>Conquering Common Complaints with iPhone X: Your Ultimate Problem-Solving Guide</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-fix-error-14-on-your-iphone/"><u>How to Fix Error 14 on Your iPhone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-resolve-issues-with-apples-guided-access-feature-on-iphone/"><u>How To Resolve Issues With Apple's Guided Access Feature on iPhone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-stop-your-iphone-from-dropping-the-wi-fi-signal-a-step-by-step-guide/"><u>How To Stop Your iPhone From Dropping the Wi-Fi Signal: A Step-by-Step Guide</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-effortless-video-conversion-top-10-webm-to-mp4-tools/"><u>New Effortless Video Conversion Top 10 WebM to MP4 Tools</u></a></li>
-<li><a href="https://fox-that.techidaily.com/reviving-your-iphones-mic-expert-advice-on-troubleshooting-and-repairing-sound-problems/"><u>Reviving Your iPhone's Mic: Expert Advice on Troubleshooting and Repairing Sound Problems</u></a></li>
-<li><a href="https://fox-that.techidaily.com/say-goodbye-to-fluttering-phone-displays-with-our-proven-7-step-troubleshooting-guide/"><u>Say Goodbye to Fluttering Phone Displays with Our Proven 7-Step Troubleshooting Guide</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/1725287716768-winxvideo-ai-ai/"><u>Winxvideo AI: 비디오 큐리어를 선보이고 최고 응답성을 향한 AI-기반 품질 향상</u></a></li>
-<li><a href="https://fox-that.techidaily.com/your-diy-guide-to-getting-professional-analysis-for-iphone-hardware-via-apples-specialist-program/"><u>Your DIY Guide to Getting Professional Analysis for iPhone Hardware via Apple's Specialist Program</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/nleash-potential-access-premium-sound-effects-for-2024/"><u>[New] Unleash Potential Access Premium Sound Effects for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-unraveling-the-purpose-of-facebooks-blue-messenger-emblem-for-2024/"><u>[New] Unraveling the Purpose of Facebook's Blue Messenger Emblem for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-optimizing-color-palette-with-luts-a-guide-to-premiere/"><u>[Updated] In 2024, Optimizing Color Palette with LUTs A Guide to Premiere</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-prime-collection-of-effortless-phone-apps/"><u>[Updated] Prime Collection of Effortless Phone Apps</u></a></li>
+<li><a href="https://fox-that.techidaily.com/addressing-iphone-low-memory-errors-in-roblox-strategies-and-solutions/"><u>Addressing iPhone Low Memory Errors in Roblox: Strategies and Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/expert-advice-on-iphones-navigate-through-15-key-problems-and-solutions/"><u>Expert Advice on iPhones: Navigate Through 15 Key Problems & Solutions</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-elevating-your-edit-mastering-lut-application-in-adobe-pro/"><u>In 2024, Elevating Your Edit Mastering LUT Application in Adobe Pro</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-oppo-a78-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Oppo A78? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/isolating-photographs-within-windows-10-movie-files-for-2024/"><u>Isolating Photographs Within Windows 10 Movie Files for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/step-by-step-success-reviving-your-iphones-ability-to-update-emails/"><u>Step-by-Step Success: Reviving Your iPhone's Ability to Update Emails</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mp3-wma-movavi-t1726233817214232/"><u>오픈 원고에서 무세금 MP3-WMA 변환 - Movavi</u></a></li>
 </ul></div>
 

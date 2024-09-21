@@ -1,7 +1,7 @@
 ---
 title: "Solving the Launch Error for Age of Empires 4: Expert Tips & Solutions"
-date: 2024-09-11T22:13:38.539Z
-updated: 2024-09-15T18:53:25.463Z
+date: 2024-09-15T21:28:40.255Z
+updated: 2024-09-20T18:19:44.870Z
 tags:
   - win11
   - win10
@@ -75,29 +75,22 @@ thumbnail: https://thmb.techidaily.com/c23fd39a2d5eab7804c8c0b256c287da5a7d97c2d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1053.png)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123482/16836" target="_top" id="2123482">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123482/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) In the**Scale and layout** section, make sure it is set to**100%** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1056.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3) Run Epic Games Launcher again to see if this issue reappears.
 
  If not, congratulations! You’ve fixed this issue. If this issue persists, try the next fix to update your graphics driver.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your graphics driver
 
@@ -132,13 +125,6 @@ _You can do it for free if you like, but it’s partly manual._
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-496.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Under the**Shortcut** tab, locate the**Target:** field. Add_\-OpenGL_ to the end of the path filed. The contents of the Target field should look like the following:
 
 "C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win32\EpicGamesLauncher.exe" -OpenGL
@@ -147,11 +133,31 @@ _You can do it for free if you like, but it’s partly manual._
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-497.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3) Run Epic Games Launcher again to see if this fix works.
 
  If it won’t open, try the next fix to disable your antivirus software temporarily.
 
 ---
+
+<!-- affiliate ads begin -->
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Add Epic Games Launcher as an exception to your third-party antivirus application
 
@@ -166,10 +172,10 @@ _You can do it for free if you like, but it’s partly manual._
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 7: Repair Epic Games Launcher
@@ -179,19 +185,6 @@ _You can do it for free if you like, but it’s partly manual._
  1) On your keyboard, press**the Windows logo key** and**R** at the same time to open the Run dialog. Type**control appwiz.cpl** and press**Enter** to open the**Programs and Features** window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1068.png)
-
-<!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2)**Right-click** on**Epic Games Launcher** and select**Repair** .
 
@@ -214,6 +207,13 @@ _You can do it for free if you like, but it’s partly manual._
  2)**Right-click** on**Epic Games Launcher** and select**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1070.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 3) Restart your computer.
 
@@ -243,21 +243,18 @@ Normally, after you reinstall Epic Games Launcher, it should open.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-farm-friendship-quest-the-ultimate-agritainment-guide/"><u>[New] 2024 Approved Farm Friendship Quest The Ultimate Agritainment Guide</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-snap-protection-android-and-mac-app-recommendations/"><u>[Updated] Snap Protection Android & Mac App Recommendations</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-premier-stop-motion-works-the-ultimate-15-selection/"><u>2024 Approved Premier Stop-Motion Works The Ultimate 15 Selection</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721479784167-5-rapid-remedies-for-your-iphones-malfunctioning-home-button-get-them-now/"><u>5 Rapid Remedies for Your IPhone's Malfunctioning Home Button - Get Them Now!</u></a></li>
-<li><a href="https://fox-that.techidaily.com/boost-your-iphones-wi-fi-stability-discover-5-essential-fixes-to-try-now/"><u>Boost Your iPhone’s Wi-Fi Stability – Discover 5 Essential Fixes to Try Now</u></a></li>
-<li><a href="https://fox-that.techidaily.com/bring-your-iphone-back-from-standby-hell-with-these-4-fixes/"><u>Bring Your iPhone Back From Standby Hell with These 4 Fixes</u></a></li>
-<li><a href="https://fox-that.techidaily.com/capturing-moments-made-easy-solving-common-camera-hiccups-for-iphone-users/"><u>Capturing Moments Made Easy: Solving Common Camera Hiccups for iPhone Users</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-drivers-install-hp-deskjet-ink-advantage-3520-printer-software/"><u>Download Drivers: Install HP DeskJet Ink Advantage 3520 Printer Software</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/onversion-for-content-creators-top-10-youtubes-alternatives-unveiled/"><u>Flv Conversion for Content Creators Top 10 YouTubes Alternatives Unveiled</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-google-pixel-8-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Google Pixel 8 | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/iphone-woes-here-are-7-methods-to-resolve-non-syncing-of-icloud-pictures/"><u>IPhone Woes? Here Are 7 Methods to Resolve Non-Syncing of iCloud Pictures</u></a></li>
-<li><a href="https://fox-that.techidaily.com/no-button-no-problem-steps-to-reset-an-iphone-with-broken-control-panel/"><u>No Button, No Problem: Steps to Reset an iPhone with Broken Control Panel</u></a></li>
-<li><a href="https://fox-that.techidaily.com/overcome-this-hiccup-what-to-do-when-your-apple-earbud-malfunctions/"><u>Overcome This Hiccup: What to Do When Your Apple Earbud Malfunctions</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/prime-pick-extensive-digital-vaults-for-2024/"><u>Prime Pick Extensive Digital Vaults for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/quick-start-deploying-and-operating-the-codegpt-tool-inside-your-visual-studio-environment/"><u>Quick Start: Deploying and Operating the CodeGPT Tool Inside Your Visual Studio Environment</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-when-oppo-a2-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Oppo A2 Has Black Screen of Death? | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-navigating-the-world-of-youtube-titling-and-tagging/"><u>[New] Navigating the World of YouTube Titling and Tagging</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/affordable-flying-experience-with-the-syma-x5c-ready-to-fly-quadcopter-reviewed/"><u>Affordable Flying Experience with the SYMA X5C Ready-to-Fly Quadcopter Reviewed</u></a></li>
+<li><a href="https://fox-http.techidaily.com/best-tech-in-cards-for-4k-video-editing/"><u>Best Tech in Cards For 4K Video Editing</u></a></li>
+<li><a href="https://techtrends.techidaily.com/cost-free-webm-to-mp4-transformation-tool-online-moveavi-t17262338075104/"><u>Cost-Free WebM to MP4 Transformation Tool Online - Moveavi</u></a></li>
+<li><a href="https://fox-that.techidaily.com/easy-steps-mastering-bluetooth-connectivity-on-your-ios-device/"><u>Easy Steps: Mastering Bluetooth Connectivity on Your iOS Device</u></a></li>
+<li><a href="https://fox-that.techidaily.com/experiencing-issues-with-iphones-contacts-feature-try-out-these-ameliorative-strategies/"><u>Experiencing Issues With iPhone's Contacts Feature? Try Out These Ameliorative Strategies.</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-address-and-repair-undelivered-imessages-in-ios-mail-app/"><u>How to Address and Repair Undelivered iMessages in iOS Mail App</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-or-disabled-from-apple-iphone-15-pro-max-7-mehtods-you-cant-miss-by-drfone-ios/"><u>In 2024, Apple ID Locked or Disabled From Apple iPhone 15 Pro Max? 7 Mehtods You Cant-Miss</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-sign-out-of-apple-id-on-apple-iphone-15-plus-without-password-by-drfone-ios/"><u>In 2024, How to Sign Out of Apple ID On Apple iPhone 15 Plus without Password?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/leveraging-microsofts-copilot-for-unparalleled-ai-visual-creation/"><u>Leveraging Microsoft's Copilot for Unparalleled AI Visual Creation</u></a></li>
+<li><a href="https://fox-that.techidaily.com/reviving-wireless-charge-on-iphones-a-guide-to-the-nne-key-solutions/"><u>Reviving Wireless Charge on iPhones: A Guide to the Nne Key Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-excessive-zoom-in-whatsapp-media-uploads-best-practices/"><u>Troubleshooting Excessive Zoom in WhatsApp Media Uploads: Best Practices</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-thx-spatial-sound-issues-on-windows-1110-computers/"><u>Troubleshooting THX Spatial Sound Issues on Windows 11/10 Computers</u></a></li>
 </ul></div>
 

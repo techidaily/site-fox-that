@@ -1,7 +1,7 @@
 ---
 title: Trouble with iMessages Not Going Through on Your iPhone?
-date: 2024-07-20T03:17:39.345Z
-updated: 2024-07-21T03:17:39.345Z
+date: 2024-09-17T01:27:31.096Z
+updated: 2024-09-20T16:35:58.136Z
 tags:
   - iphone
   - apple
@@ -26,9 +26,6 @@ thumbnail: https://thmb.techidaily.com/99216a5fd24020f4e914206166919d3aff0939ed3
 
  Not everyone has this feature activated either. You can toggle read receipts for yourself by going to**Settings > Messages > Send Read Receipts** , where you can turn this function on or off. In fact, this subsection of Settings is essential if you have issues with iMessage.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Why Does iMessage Say "Delivered" When It's Not?
 
  Sometimes, a message will say it's Delivered, but the recipient will insist they never got it. Don't automatically think they're lying: there are many reasons this might happen. It could be a quirk of iMessage, but it could also be that the message was delivered to another device.
@@ -61,17 +58,18 @@ So, what does it mean when an iMessage doesn't say Delivered?
 
  Review the options at**Settings > Cellular** (or**Mobile Data**) if you're relying on roaming. If you do have service, you'll simply have to wait until the recipient connects too.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Do You Have iMessage Turned On?
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ![iphone imessages won't deliver if this is turned off](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/03/iMessages-off.jpg)
 
 ![turn imessages on if texts won't deliver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/03/iMessage.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close
 
@@ -87,9 +85,6 @@ Close
 
  You can resend a message via SMS if it reads Not Delivered by tapping on the exclamation point next to the message. Alternatively, switch to another popular messaging app. Major options like WhatsApp and Telegram work on all platforms and offer [secure (and sometimes encrypted) messaging](https://www.makeuseof.com/best-encrypted-messaging-apps-android-ios/) . Of course, the recipient has to have the same app installed...
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ### Try a Force Restart
 
  A forced restart reboots your iPhone, stopping any problematic processes running in the background. Crucially, it doesn't delete any data. Learn [how to force restart your iPhone](https://www.makeuseof.com/tag/restart-iphone-recovery-mode/) for full instructions.
@@ -103,15 +98,16 @@ Close
  This will automatically check if your software is updated and, if not, suggest an installation. You won't lose any photos or messages, although some apps may ask you to log in again after updating.
 
 <!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Apple ID: Sign Out and Back In
 
  This is one of the most common fixes for iMessage troubles: you just need to sign out of your Apple ID and back in again. Go to**Settings > Messages > Send & Receive** and tap your ID. You should then**Sign Out** , after which all your details, except the phone number, will disappear. Select**Use your Apple ID for iMessage** and sign back in. This may take a few moments.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![iphone cell number and email address](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/03/iMessage-send-and-receive.jpg)
 
 ![send and receive from phone number and email address](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/03/Apple-ID.jpg)
@@ -121,6 +117,13 @@ Close
  You can send an iMessage via both phone numbers and email addresses. If there's only one person you're having trouble sending to, check which email address you have listed for them. Do you have any details listed for their contact? Perhaps their Apple ID uses a different address? Ask them in person or via another messaging service if possible.
 
  To add an email address, go to**Contacts** , select a name, and choose**Edit** .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Should You Delete Previous Messages?
 
@@ -132,9 +135,6 @@ Close
 
 ![hold sms imessage to delete](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/03/text-options.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 ![mass delete sms imessages](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/03/select-text-messages.jpg)
 
 Close
@@ -150,13 +150,24 @@ Close
  They'll activate a new SIM and you'll have to wait until your old one has no service before swapping to the new card. Transferring between SIMs can take up to 24 hours. From personal experience, it rarely takes longer than an hour before carrier settings are restored.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Reset All Settings
 
  This should really be your last resort because you'll need to sign into accounts and set up network settings like Wi-Fi and VPNs again. Most importantly,**this does not delete your data** .
 
  Go to**Settings > General > Reset > Reset All Settings** —careful you don't select anything else, as there's also the option to erase everything. You may need to sign back into your Apple ID afterwards. This should patch any Settings-related glitches, so it's worth remembering in case you have further issues with your iPhone.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## iMessage Won't Deliver: Is My Phone Number Blocked?
 
@@ -164,9 +175,6 @@ Close
 
  This thought will trouble you, but if you can contact that person elsewhere (on Facebook, Twitter, or Snapchat, for example), then they're unlikely to have blocked your phone number.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Why Is My iMessage Still Not Delivering?
 
  If you've tried everything above and iMessage still won't deliver, there are further possibilities to entertain. The first is that there's nothing wrong with your phone; the problem is with the recipient's device. This is likely if messages to your other contacts are delivered correctly, although that's not always the case.
@@ -179,8 +187,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -188,4 +194,19 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-comparing-gopro-and-yi-4k-cams-new-insights-on-high-speed-cameras-for-2024/"><u>[New] Comparing GoPro and Yi 4K Cams New Insights on High-Speed Cameras for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-in-depth-guide-obs-for-gamers/"><u>[Updated] In 2024, In-Depth Guide OBS for Gamers</u></a></li>
+<li><a href="https://fox-that.techidaily.com/effective-strategies-for-correcting-error-code-14-on-your-apple-smartphone/"><u>Effective Strategies for Correcting Error Code 14 on Your Apple Smartphone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-recover-accidentally-deleted-iphone-images-top-8-methods/"><u>How to Recover Accidentally Deleted iPhone Images: Top 8 Methods</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Samsung Galaxy XCover 6 Pro Tactical Edition? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-logic-pros-approach-to-softening-audio-tracks-gradually/"><u>In 2024, Logic Pro's Approach to Softening Audio Tracks Gradually</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-firmware-and-drivers-for-brother-mfc-l2690dw-printer-free-downloads-available/"><u>Latest Firmware and Drivers for Brother MFC-L2690DW Printer - Free Downloads Available</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/launching-into-the-spotlight-instagram-lives/"><u>Launching Into the Spotlight Instagram Lives</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-obstacles-restarting-and-resolving-apples-screen-lock-problems/"><u>Overcoming Obstacles: Restarting and Resolving Apple's Screen Lock Problems</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1723807969454-revive-your-chatgpt-experience-using-our-5-easy-fixes/"><u>Revive Your ChatGPT Experience Using Our 5 Easy Fixes</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/safe-methods-to-restore-permanently-deleted-images-on-your-iphone/"><u>Safe Methods to Restore Permanently Deleted Images on Your iPhone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/step-by-step-guide-correcting-your-iphones-last-line-unreachable-problem/"><u>Step-by-Step Guide: Correcting Your iPhone's 'Last Line Unreachable' Problem</u></a></li>
+</ul></div>
 

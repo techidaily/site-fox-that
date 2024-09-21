@@ -1,7 +1,7 @@
 ---
 title: AirDrop Failures? Master the Art of Quick Fixes with 16 Proven Solutions
-date: 2024-09-10T19:18:14.484Z
-updated: 2024-09-15T17:44:31.579Z
+date: 2024-09-16T21:49:20.365Z
+updated: 2024-09-20T21:50:22.787Z
 tags:
   - iphone
   - apple
@@ -72,6 +72,13 @@ Close
 
 ![iphone limit usage settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/iphone-limit-usage-settings.JPEG)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![iphone content and privacy restrictions settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/iphone-content-and-privacy-restrictions-settings.JPEG)
 
 ![allowed apps in iphone content and privacy restriction settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/allowed-apps-in-iphone-content-and-privacy-restriction-settings.JPEG)
@@ -83,6 +90,13 @@ Close
 ![content and privacy settings on mac](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/content-and-privacy-settings-on-mac.jpg)
 
  Make sure**AirDrop** is turned on for each device. You may need to enter your Screen Time passcode to make these changes.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Enable AirDrop Over Cellular
 
@@ -112,19 +126,6 @@ Close
 
 ![Control Center on Mac](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/Control-Center-on-Mac.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. Restart Wi-Fi and Bluetooth on Both Devices
 
  A particularly useful solution if AirDrop isn't working is to disable and re-enable Wi-Fi and Bluetooth. Open**Control Center** on your iPhone, iPad, or Mac and hit the**Wi-Fi** and**Bluetooth** icons to turn them off, then select them again to turn them back on.
@@ -132,6 +133,13 @@ Close
 ## 8\. Use AirDrop From a Third Apple Device
 
  This isn't an option for everyone, but if you have a spare Apple device, you should try using that to connect over AirDrop. Usually, if your iPhone, iPad, or Mac shows up on this new device, it will suddenly appear on the original device as well.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 9\. Send a Single File Instead of Multiple Files
 
@@ -159,6 +167,13 @@ Close
 
  On an iPhone or iPad, go to**Settings > VPN** to do this. On a Mac, go to**System Settings > Network > VPN** .
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 12\. Open Your Mac's Firewall to More Connections
 
  The firewall on your Mac might be set to block all incoming connections, which often includes new AirDrop transfers. You'll need to loosen these restrictions from System Settings if AirDrop still isn't working.
@@ -174,20 +189,13 @@ Close
 ![apple id on mac](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/apple-id-on-mac.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  It doesn't matter too much if you keep data on your device since you're planning to sign in to the same account again. After signing out, return to**Settings** or**System Settings** to sign in to your Apple ID again.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 14\. Update the Operating System
 
@@ -205,19 +213,6 @@ Close
 
  This is a classic troubleshooting tip because it's so effective.[Restarting your iPhone](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) , iPad, or Mac might be all you need to get AirDrop working again. And it only takes a moment to try it.
 
-<!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 16\. Reset the Network Settings on Your Device
 
  You can reset the network settings on an iPhone or iPad to fix all kinds of Wi-Fi or Bluetooth problems, including issues with getting AirDrop to work. When you reset these settings, your device forgets any Wi-Fi passwords you've saved, so you'll have to manually reconnect to trusted networks again.
@@ -225,13 +220,6 @@ Close
  If you still want to go ahead with it, go to **Settings > General > Transfer or Reset \[Device\] > Reset** and tap**Reset Network Settings** . Enter your passcode, then confirm you want to**Reset Network Settings** .
 
 ![iphone general settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/iphone-reset.JPEG)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115948/19272" target="_top" id="2115948">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115948" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115948/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![reset iphone settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/iphone-reset-settings.JPEG)
 
@@ -258,21 +246,13 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-comprehending-quadcopters-how-they-soar-and-operate/"><u>[New] 2024 Approved Comprehending Quadcopters How They Soar and Operate</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-raw-footage-to-polished-videos-imovies-role-in-youtube-content-creation/"><u>[New] 2024 Approved From Raw Footage to Polished Videos IMovie's Role in YouTube Content Creation</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-cutting-out-background-sounds-in-skype-chats/"><u>[Updated] 2024 Approved Cutting Out Background Sounds in Skype Chats</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-visualize-freely-premium-no-cost-screen-capture-tools/"><u>[Updated] 2024 Approved Visualize Freely Premium No-Cost Screen Capture Tools</u></a></li>
-<li><a href="https://fox-that.techidaily.com/adaptive-tech-for-better-accessibility-key-iphone-capabilities-aiding-users-with-eyesight-issues/"><u>Adaptive Tech for Better Accessibility: Key iPhone Capabilities Aiding Users With Eyesight Issues</u></a></li>
-<li><a href="https://techtrends.techidaily.com/definitive-steps-to-permanent-deletion-of-your-account-on-yahoo-mail-services/"><u>Definitive Steps to Permanent Deletion of Your Account on Yahoo Mail Services</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fixing-roblox-high-memory-warnings-on-iphone-easy-tips-and-tricks/"><u>Fixing Roblox High Memory Warnings on iPhone - Easy Tips and Tricks</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-the-newest-drivers-download-and-install-for-your-brother-mfc-7860dw-printer-on-windows-systems/"><u>Get the Newest Drivers: Download and Install for Your Brother MFC-7860DW Printer on Windows Systems</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-fix-a-non-responsive-iphoneipad-keyboard-a-guide-with-6-solution-methods/"><u>How to Fix a Non-Responsive iPhone/iPad Keyboard: A Guide with 6 Solution Methods</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-se-2022-to-other-iphone-13-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone SE (2022) to other iPhone 13 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/imessage-to-sms-switch-up-is-this-indicative-of-you-being-blocked-on-ios-devices/"><u>IMessage to SMS Switch-Up: Is This Indicative of You Being Blocked on iOS Devices?</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-places-to-go-the-best-online-hubs-for-text-effects/"><u>In 2024, Places to Go The Best Online Hubs for Text Effects</u></a></li>
-<li><a href="https://review-topics.techidaily.com/itel-unlock-tool-remove-android-phone-password-pin-pattern-and-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Itel Unlock Tool - Remove android phone password, PIN, Pattern and fingerprint</u></a></li>
-<li><a href="https://fox-that.techidaily.com/top-11-hacks-to-restore-ringtones-on-an-unresponsive-iphone/"><u>Top 11 Hacks to Restore Ringtones on an Unresponsive iPhone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/top-9-methods-to-repair-your-iphones-malfunctioning-voicemail-feature/"><u>Top 9 Methods to Repair Your iPhone's Malfunctioning Voicemail Feature</u></a></li>
-<li><a href="https://fox-that.techidaily.com/ultimate-guide-solving-persistent-connection-issues-between-airpods-and-iphone/"><u>Ultimate Guide: Solving Persistent Connection Issues Between AirPods and iPhone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-amplify-your-video-reach-with-these-key-seo-insights-1-11/"><u>[New] 2024 Approved Amplify Your Video Reach with These Key SEO Insights (1-11)</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-navigating-the-world-of-windows-11-backdrop-choices/"><u>[Updated] Navigating the World of Windows 11 Backdrop Choices</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-deciding-the-right-direction-fb-video-posts/"><u>2024 Approved Deciding the Right Direction FB Video Posts</u></a></li>
+<li><a href="https://fox-that.techidaily.com/expert-tips-to-resolve-non-deliverable-text-messages-on-ios-devices/"><u>Expert Tips to Resolve Non-Deliverable Text Messages on iOS Devices</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-designing-unique-instagram-post-cover-texts/"><u>In 2024, Designing Unique Instagram Post Cover Texts</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-mouse-right-click-challenges-in-windows-11-with-easy-fixes/"><u>Overcoming Mouse Right Click Challenges in Windows 11 with Easy Fixes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/revive-your-damaged-iphone-a-step-by-step-guide-to-starting-it-up-without-using-buttons/"><u>Revive Your Damaged iPhone: A Step-by-Step Guide to Starting It Up Without Using Buttons</u></a></li>
+<li><a href="https://fox-that.techidaily.com/revive-your-iphones-dictation-functionality-discover-the-5-must-try-fixes/"><u>Revive Your iPhone's Dictation Functionality - Discover the 5 Must-Try Fixes!</u></a></li>
 </ul></div>
 

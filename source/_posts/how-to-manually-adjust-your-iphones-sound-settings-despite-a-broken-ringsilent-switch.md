@@ -1,7 +1,7 @@
 ---
 title: How to Manually Adjust Your iPhone's Sound Settings Despite a Broken Ring/Silent Switch
-date: 2024-09-14T21:20:40.964Z
-updated: 2024-09-15T16:08:44.741Z
+date: 2024-09-18T16:12:46.491Z
+updated: 2024-09-20T18:23:36.523Z
 tags:
   - iphone
   - apple
@@ -108,20 +108,13 @@ Close
 
 ![iPhone Accessibility settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-using-back-tap-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Back Tap feature under Touch Accessibility settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-using-back-tap-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Close
@@ -140,6 +133,13 @@ Close
  Now, whenever you want to mute your iPhone, simply perform the double-tap or triple-tap gesture on the back of your iPhone. To unmute it, perform the same gesture again.
 
  With certain iPhone cases, especially thicker ones, you might need to tap harder for the iPhone to register your taps and trigger the action.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Broken iPhone Ring/Silent Switch? No Problem
 
@@ -162,18 +162,19 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/updated-crafting-atmospheres-with-cinematic-hues/"><u>[Updated] Crafting Atmospheres with Cinematic Hues</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-secure-your-links-no-cost-high-efficiency-exporters-for-23-online/"><u>[Updated] In 2024, Secure Your Links No-Cost, High-Efficiency Exporters for '23 Online</u></a></li>
-<li><a href="https://fox-that.techidaily.com/efficient-methods-for-iphone-photo-organization-editing-and-error-resolution/"><u>Efficient Methods for iPhone Photo Organization, Editing, and Error Resolution</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/free-hp-deskjet-ink-advantage-3050a-printer-software-upgrade-and-installation-guide-for-windows/"><u>Free HP Deskjet Ink Advantage 3050A Printer Software Upgrade and Installation Guide for Windows</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-honor-magic-vs-2-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Honor Magic Vs 2 If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-11-to-other-iphone-13-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 11 to other iPhone 13 devices? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-apple-iphone-11-3-ways-to-unlock-by-drfone-ios/"><u>How To Unlock Apple iPhone 11 3 Ways To Unlock</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-samsung-galaxy-a14-4g-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Samsung Galaxy A14 4G For Mobile Legends? | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/resolve-iphone-face-id-errors-easily-a-guide-to-14-effective-solutions/"><u>Resolve iPhone Face ID Errors Easily - A Guide to 14 Effective Solutions</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solving-the-iphone-xr-error-14-issue-a-step-by-step-guide/"><u>Solving the iPhone XR 'Error 14' Issue: A Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-that.techidaily.com/the-verdict-on-value-is-the-samsung-galaxy-aa71-5g-worthy-of-flagship-status/"><u>The Verdict on Value: Is the Samsung Galaxy A^[A71 5G] Worthy of Flagship Status?</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshoot-your-iphones-text-message-issues-with-these-proven-fixes/"><u>Troubleshoot Your iPhone's Text Message Issues with These Proven Fixes</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-iphone-microphone-issues-quick-and-easy-solutions/"><u>Troubleshooting iPhone Microphone Issues: Quick & Easy Solutions</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-securely-extract-and-backup-your-instagram-content/"><u>[Updated] 2024 Approved Securely Extract and Backup Your Instagram Content</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-the-evolved-2023-samsung-bd-j5900-a-deep-dive/"><u>[Updated] 2024 Approved The Evolved 2023 Samsung BD-J5900 A Deep Dive</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-a-journey-through-creativity-using-movie-maker-to-make-animated-dreams/"><u>2024 Approved A Journey Through Creativity Using Movie Maker to Make Animated Dreams</u></a></li>
+<li><a href="https://fox-that.techidaily.com/breaking-free-from-iphones-portrait-constraint-how-to-easily-switch-to-landscape-view/"><u>Breaking Free From iPhone's Portrait Constraint – How to Easily Switch to Landscape View</u></a></li>
+<li><a href="https://fox-that.techidaily.com/commonly-encountered-icloud-syncs-errors-and-how-to-resolve-them-quickly/"><u>Commonly Encountered iCloud Syncs Errors and How to Resolve Them Quickly</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-honor-90-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Honor 90 | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/latest-guide-how-to-bypass-infinix-note-30-vip-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Infinix Note 30 VIP FRP Without Computer</u></a></li>
+<li><a href="https://fox-that.techidaily.com/latest-insights-on-iphone-14-battery-health-what-users-should-be-aware-of/"><u>Latest Insights on iPhone 14 Battery Health - What Users Should Be Aware Of</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/optimizing-video-content-for-igtv-uploading-strategies-revealed-for-2024/"><u>Optimizing Video Content for IGTV Uploading Strategies Revealed for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcome-iphone-ghost-touch-glitches-a-list-of-10-reliable-fixes-you-must-try/"><u>Overcome iPhone Ghost Touch Glitches: A List of 10 Reliable Fixes You Must Try</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/record-call-audio-exchange-contact-details-and-hit-the-pavement-top-tips-from-the-abbyy-experts/"><u>Record Call Audio, Exchange Contact Details & Hit The Pavement: Top Tips From the ABBYY Experts</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-and-enhance-wi-fi-performance-on-your-iphone-with-a-network-settings-reboot/"><u>Troubleshoot and Enhance Wi-Fi Performance on Your iPhone with a Network Settings Reboot</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unveiling-reasons-for-your-iphone-screen-to-dim-on-its-own-a-list-of-10-factors/"><u>Unveiling Reasons for Your iPhone Screen to Dim on Its Own - A List of 10 Factors</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-nubia-red-magic-9-proplus-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
 </ul></div>
 

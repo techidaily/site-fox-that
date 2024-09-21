@@ -1,7 +1,7 @@
 ---
 title: "Fix Mute Mode: Solutions When Your iPhone Has No Audio Output"
-date: 2024-09-08T20:25:30.649Z
-updated: 2024-09-15T17:36:53.563Z
+date: 2024-09-20T00:52:55.335Z
+updated: 2024-09-21T02:00:30.907Z
 tags:
   - iphone
   - apple
@@ -71,13 +71,6 @@ Here’s how to turn off Do Not Disturb or Focus:
 
 Close
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Check Your iPhone’s Audio Output
 
  There may be no sound on your iPhone because you have Bluetooth turned on and it has automatically connected to an active Bluetooth audio device, such as wireless earbuds. Therefore, your iPhone’s sound is actually playing from those instead of the speakers.
@@ -89,14 +82,14 @@ Close
 
 ![bluetooth turned on iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/bluetooth-on.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![iphone control center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/bluetooth-off-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close
 
@@ -113,13 +106,6 @@ Close
 
  Another audio-output-related issue is headphone mode. If you see a persistent headphone icon on your iPhone’s status bar, we have a guide on [how to fix an iPhone stuck in headphone mode](https://www.makeuseof.com/tag/how-to-fix-iphone-stuck-in-headphone-mode/) .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Check Your iPhone’s Sound Settings
 
  If your iPhone isn’t on Silent Mode or connected to any Bluetooth device, the problem of the sound not working may lie in your sound settings. First, adjust your volume buttons. You may think that there’s no sound on your iPhone because you accidentally turned the volume too low. To correct this, simply press the**Volume Up** button on the side of your iPhone.
@@ -133,22 +119,16 @@ Close
 
 ![iphone settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/iphone-settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![sounds and haptics on iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/sounds-haptics-iphone.jpg)
 
 ![text tone on iphone settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/text-tone-iphone-1.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Close
 
@@ -162,6 +142,19 @@ Close
 
 ![audio settings in sky game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/sky-game-audio.jpg)
 
+<!-- affiliate ads begin -->
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. Exit and Relaunch the Third-Party App
 
  If you’ve already gone through all the sound settings and they’re all switched on correctly, your iPhone’s sound not working may just be an app glitch.
@@ -172,18 +165,25 @@ Close
 
  You can also opt to view the video through another route. Instead of watching the video in your Instagram feed, tap into that Instagram profile and select the video from there instead.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8\. Update iOS and Your iPhone Apps
 
 ![iphone on wooden surface showing hello welcome screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/iphone-hello.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Updates often come with fixes for bugs and glitches, so you can solve the issue of no sound on your iPhone by simply keeping your iOS and apps up-to-date. For more information, refer to our guide on [how to update your iPhone](https://www.makeuseof.com/tag/update-iphone-ios-apps-data/) .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 9\. Force Restart Your iPhone
 
@@ -216,16 +216,19 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-useful-screen-recorder-for-teachers/"><u>[New] In 2024, Useful Screen Recorder for Teachers</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-miniature-drones-unveiled-top-10-list-ready/"><u>[New] Miniature Drones Unveiled Top 10 List Ready</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-examining-the-limitations-of-immersive-tech/"><u>[Updated] 2024 Approved Examining the Limitations of Immersive Tech</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-pushing-up-conversions-with-high-roi-animated-advertisements-on-fb/"><u>[Updated] Pushing Up Conversions with High-ROI Animated Advertisements on FB</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-innovative-high-definition-software-top-8-free-listings/"><u>2024 Approved Innovative High Definition Software Top 8 FREE Listings</u></a></li>
-<li><a href="https://fox-that.techidaily.com/guide-6-effective-fixes-for-family-sharing-hurdles-on-ios-devices/"><u>Guide: 6 Effective Fixes for Family Sharing Hurdles on iOS Devices</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-audiovisual-powerhouses-select-best-laptops-for-editing/"><u>In 2024, Audiovisual Powerhouses Select Best Laptops for Editing</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-lock-apps-on-tecno-pova-6-pro-5g-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Tecno Pova 6 Pro 5G to Protect Your Individual Information</u></a></li>
-<li><a href="https://fox-that.techidaily.com/resolving-iphone-icloud-sync-issues-essential-steps-and-fixes-for-success/"><u>Resolving iPhone iCloud Sync Issues: Essential Steps and Fixes for Success</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solve-most-of-your-mobile-devices-malfunctions-with-this-one-minute-tech-tip/"><u>Solve Most of Your Mobile Device's Malfunctions with This One-Minute Tech Tip</u></a></li>
-<li><a href="https://fox-that.techidaily.com/top-6-causes-of-malfunctioning-image-scanning-on-iphones/"><u>Top 6 Causes of Malfunctioning Image Scanning on iPhones</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-how-to-add-effects-to-your-voice-free-voice-changers-here-for-2024/"><u>[New] How to Add Effects to Your Voice? Free Voice Changers Here for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/arriors-of-cyberspace-top-ten-female-youtubers-for-2024/"><u>[New] Warriors of Cyberspace Top Ten Female YouTubers for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/10-best-webcams-to-enhance-your-podcast-experience-for-2024/"><u>10 Best Webcams to Enhance Your Podcast Experience for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/avoid-hassle-repairing-code-0x800f0831-by-leveraging-windows-update-features/"><u>Avoid Hassle: Repairing Code 0X800F0831 by Leveraging Windows Update Features</u></a></li>
+<li><a href="https://fox-that.techidaily.com/beat-the-stuck-8-handy-tricks-for-escaping-iphones-constant-headset-mode/"><u>Beat the Stuck: 8 Handy Tricks for Escaping iPhone's Constant Headset Mode</u></a></li>
+<li><a href="https://fox-that.techidaily.com/diy-iphone-repairs-overcoming-five-major-challenges-with-the-power-of-dfu-mode/"><u>DIY iPhone Repairs: Overcoming Five Major Challenges with the Power of DFU Mode</u></a></li>
+<li><a href="https://fox-that.techidaily.com/frustrated-with-sluggish-mobile-data-quickly-improve-speed-using-these-10-tips/"><u>Frustrated with Sluggish Mobile Data? Quickly Improve Speed Using These 10 Tips</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/mastering-quadcopter-efficiency-with-best-motor-selection-tips/"><u>Mastering Quadcopter Efficiency with Best Motor Selection Tips</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/mp4-pds/"><u>MP4形式への変換 - PDSファイルから始める初学者向けガイド</u></a></li>
+<li><a href="https://fox-that.techidaily.com/notifications-dont-show-up-on-your-iphone-try-these-7-fixes/"><u>Notifications Don’t Show Up on Your iPhone? Try These 7 Fixes</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/ultimate-guide-mastering-manycam-for-enhanced-livestreams-and-virtual-background-technology/"><u>Ultimate Guide: Mastering ManyCam for Enhanced Livestreams and Virtual Background Technology</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/ultimate-iphone-vr-game-list-for-your-next-adventure/"><u>Ultimate iPhone VR Game List for Your Next Adventure</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlock-your-iphones-icloud-potential-a-guide-to-rectifying-non-responsive-configurations/"><u>Unlock Your iPhone's iCloud Potential: A Guide to Rectifying Non-Responsive Configurations</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlocking-the-mystery-of-missing-names-in-your-iphone-address-book/"><u>Unlocking the Mystery of Missing Names in Your iPhone Address Book</u></a></li>
 </ul></div>
 

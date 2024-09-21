@@ -1,7 +1,7 @@
 ---
 title: "IPhone Silent Switch Malfunction: How To Unmute or Mute Without It Working Properly"
-date: 2024-09-08T18:42:14.755Z
-updated: 2024-09-15T22:32:33.329Z
+date: 2024-09-17T18:43:17.238Z
+updated: 2024-09-21T02:18:35.082Z
 tags:
   - iphone
   - apple
@@ -97,6 +97,13 @@ Close
 
  Once set up, muting and unmuting your iPhone should be even easier. Simply perform the gesture to which you've assigned the Mute action, and it'll mute the device. Repeat it again to unmute.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Mute or Unmute iPhone Using Back Tap
 
  AssistiveTouch used to be the only way to mute or unmute your iPhone when the Ring/Silent switch stopped working for the longest time. And sure, it works fine and gets the job done, but for some, it isn't aesthetically pleasing to have the button on the screen at all times.
@@ -108,21 +115,7 @@ Close
 
 ![iPhone Accessibility settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-using-back-tap-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115915/19272" target="_top" id="2115915">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115915" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115915/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Back Tap feature under Touch Accessibility settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-using-back-tap-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Close
 
@@ -132,6 +125,13 @@ Close
 2. Next, select**Mute** on the following screen.
 
 ![Back Tap gesture options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-using-back-tap-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![setting Mute action to a Back Tap gesture](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-using-back-tap-4.jpg)
 
@@ -162,20 +162,17 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-secrets-unveiled-the-ultimate-strategies-for-saving-disco-livestreams/"><u>[New] 2024 Approved Secrets Unveiled The Ultimate Strategies for Saving Disco Livestreams</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-achieving-excellence-in-android-video-production-using-obs/"><u>[New] Achieving Excellence in Android Video Production Using OBS</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-transform-your-mobile-browser-with-crystal-clear-videos/"><u>[New] In 2024, Transform Your Mobile Browser with Crystal-Clear Videos</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-inside-ustream-review-alternatives-on-hand/"><u>2024 Approved Inside Ustream Review, Alternatives on Hand</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/effortless-capture-iphones-dual-task-technique/"><u>Effortless Capture IPhone's Dual-Task Technique</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fixing-the-issue-iphone-trapped-in-audio-mode-a-guide-with-eight-tips/"><u>Fixing the Issue: IPhone Trapped in Audio Mode – A Guide with Eight Tips</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-a-simple-phone-reboot-can-solve-most-of-your-devices-issues/"><u>How a Simple Phone Reboot Can Solve Most of Your Device's Issues</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-ensure-continuous-playback-on-spotify-despite-iphone-screen-locks/"><u>How to Ensure Continuous Playback on Spotify Despite iPhone Screen Locks</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-about-lava-blaze-pro-5g-frp-bypass-by-drfone-android/"><u>In 2024, About Lava Blaze Pro 5G FRP Bypass</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-remove-device-supervision-from-your-apple-iphone-14-pro-max-drfone-by-drfone-ios/"><u>In 2024, Remove Device Supervision From your Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/locating-a-missing-or-pilfered-iphone-a-step-by-step-guide-with-find-my/"><u>Locating a Missing or Pilfered iPhone: A Step-by-Step Guide with Find My</u></a></li>
-<li><a href="https://fox-that.techidaily.com/resolve-no-sound-or-jittery-sounds-on-your-airpods-using-these-proven-methods-top-10/"><u>Resolve No Sound or Jittery Sounds on Your AirPods Using These Proven Methods (Top 10)</u></a></li>
-<li><a href="https://win-answers.techidaily.com/smooth-sailing-patch-notes-that-addressed-stutter-in-halo-infinite/"><u>Smooth Sailing: Patch Notes That Addressed Stutter in Halo Infinite</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solving-the-issue-steps-to-get-your-icloud-pictures-up-to-date-on-iphone/"><u>Solving the Issue: Steps to Get Your iCloud Pictures Up-to-Date on iPhone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/understanding-imessage-changes-how-to-tell-if-youve-been-blocked/"><u>Understanding iMessage Changes: How to Tell if You've Been Blocked</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-streamline-your-content-following-twitpic-rules-for-2024/"><u>[New] Streamline Your Content Following Twitpic Rules for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-top-strategies-for-livestream-and-archiving-sports-action/"><u>[New] Top Strategies for Livestream & Archiving Sports Action</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-find-your-ideal-wedding-timer-on-android-and-ios-platforms-here/"><u>[Updated] Find Your Ideal Wedding Timer on Android & iOS Platforms Here</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-proven-techniques-to-swarm-thousands-of-videos-from-tiktok/"><u>2024 Approved Proven Techniques to Swarm Thousands of Videos From TikTok</u></a></li>
+<li><a href="https://fox-that.techidaily.com/apps-not-downloading-on-iphone-10-fixes-to-try/"><u>Apps Not Downloading on iPhone? 10 Fixes to Try</u></a></li>
+<li><a href="https://fox-that.techidaily.com/easy-fixes-for-when-your-iphones-chatgpt-app-stops-working-9-tips/"><u>Easy Fixes for When Your iPhone's ChatGPT App Stops Working (9 Tips)</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-the-frozen-hey-siri-17-proven-steps-to-reactivate-iphone-voice-command-feature/"><u>Fixing the Frozen 'Hey Siri': 17 Proven Steps to Reactivate iPhone Voice Command Feature</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-from-itel-p55t-by-drfone-android/"><u>How to Bypass FRP from Itel P55T?</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/navigating-tech-with-toms-guide-in-depth-hardware-insights/"><u>Navigating Tech with Tom's Guide: In-Depth Hardware Insights</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-the-launch-error-for-age-of-empires-4-expert-tips-and-solutions/"><u>Solving the Launch Error for Age of Empires 4: Expert Tips & Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-a-non-responsive-iphone-display-expert-solutions/"><u>Troubleshooting a Non-Responsive iPhone Display: Expert Solutions</u></a></li>
+<li><a href="https://fox-http.techidaily.com/unveiling-the-secrets-buying-a-high-quality-360-camera-today-for-2024/"><u>Unveiling the Secrets Buying a High-Quality 360 Camera Today for 2024</u></a></li>
 </ul></div>
 

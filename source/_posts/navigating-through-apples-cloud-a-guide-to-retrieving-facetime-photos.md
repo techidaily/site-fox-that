@@ -1,7 +1,7 @@
 ---
 title: "Navigating Through Apple's Cloud: A Guide to Retrieving FaceTime Photos"
-date: 2024-09-09T17:52:21.635Z
-updated: 2024-09-15T20:28:30.577Z
+date: 2024-09-15T18:19:42.386Z
+updated: 2024-09-20T17:52:01.809Z
 tags:
   - iphone
   - apple
@@ -59,13 +59,6 @@ Close
 
  A Live Photo is better than taking a screenshot because it doesn't capture the FaceTime user interface. It also saves a couple of seconds of video and audio from right before and after you take the photo. In the future, you can even [turn your Live Photos into videos](https://www.makeuseof.com/how-to-turn-live-photos-into-videos-on-iphone-mac/) .
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121331/18498" target="_top" id="2121331">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121331" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121331/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How to Take a FaceTime Photo Without Telling the Other Person
 
  When you take a photo of someone using FaceTime, it sends a notification to their device to let them know that you took a picture. There's no way to avoid sending this notification when you take a photo, but you can get around it by taking a screenshot instead.
@@ -73,6 +66,13 @@ Close
  To do so, press**Volume Up** along with the**Side** button on your iPhone or iPad (or press the**Home** button with the**Side** button if your device has a Home button). On a Mac, press**Cmd + Shift + 5** , then click on the FaceTime window.
 
  Alternatively, hit**Cmd + Shift + 3** to take a screenshot of your entire screen. Aside from these two options, there are other [ways to take screenshots on your Mac](https://www.makeuseof.com/tag/how-to-take-a-screenshot-on-a-mac/) .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Enable Live Photos in Your FaceTime Settings
 
@@ -96,25 +96,18 @@ Close
 
  To take a photo of someone during a FaceTime call, everyone on the call needs to turn on FaceTime Live Photos from their device settings. Go to**Settings > FaceTime** to do this. Make sure the person you're taking a photo of checks their settings as well.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Open the Photos App on Your Device
 
  When you take Live Photos in FaceTime, it automatically saves those pictures to the Photos app on your device. If you haven't used Photos before, open it on your device to initialize the app before FaceTime can save photos.
 
 ![Photos app on an iPhone Home Screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/share-shared-albums-with-non-apple-users.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115938/19272" target="_top" id="2115938">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115938" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115938/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. Update to the Latest Operating System
 
@@ -124,13 +117,20 @@ Close
 
 ![Software update available in macOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/software-update-macos-settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Install any updates that are available there by clicking**Update Now** .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115920/19272" target="_top" id="2115920">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115920" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115920/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 4\. Restart Your Device
@@ -147,16 +147,22 @@ Close
 
 ![FaceTime enabled in iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/facetime-enabled-ios-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Close
 
  On a Mac, open the**FaceTime** app and go to**FaceTime > Settings** from the menu bar. In the**Settings** tab, uncheck the box for**Enable this account** , then check the box again to re-enable FaceTime.
+
+<!-- affiliate ads begin -->
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Revisit Your FaceTime Photos on iPhone, iPad and Mac
 
@@ -179,16 +185,16 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-leading-360-action-footage-options/"><u>[New] Leading 360° Action Footage Options</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-public-assessment-of-vllo-functionality/"><u>[New] Public Assessment of VLLO Functionality</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-elevate-art-to-blockchain-assets-with-top-7-tools/"><u>[Updated] Elevate Art to Blockchain Assets with Top 7 Tools</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-from-amateur-to-artist-top-8-beginner-camera-selections/"><u>[Updated] From Amateur to Artist Top 8 Beginner Camera Selections</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/comprehensive-guide-to-finding-and-installing-newest-epson-printer-drivers-for-your-windows-10-device/"><u>Comprehensive Guide to Finding and Installing Newest Epson Printer Drivers for Your Windows 10 Device</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fix-your-solo-malfunctioning-airpod-with-these-pro-tips/"><u>Fix Your Solo Malfunctioning AirPod with These Pro Tips</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-manually-restart-your-iphone-and-navigate-into-system-recovery-protocols/"><u>How to Manually Restart Your iPhone & Navigate Into System Recovery Protocols</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-safely-reset-your-iphone-a-comprehensive-guide/"><u>How to Safely Reset Your iPhone: A Comprehensive Guide</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/invaluable-list-of-costless-photographic-and-moving-images/"><u>Invaluable List of Costless Photographic and Moving Images</u></a></li>
-<li><a href="https://win-blog.techidaily.com/overcoming-discord-video-stream-stalls-a-comprehensive-guide-for-smooth-broadcasting/"><u>Overcoming Discord Video Stream Stalls: A Comprehensive Guide for Smooth Broadcasting</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-tips-restoring-functionality-to-your-windows-11-start-menu/"><u>Troubleshooting Tips - Restoring Functionality to Your Windows 11 Start Menu</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-streamlining-earnings-with-youtube-studio-techniques/"><u>[New] 2024 Approved Streamlining Earnings with Youtube Studio Techniques</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-visual-storytelling-for-social-media-editing-vt-videos-in-fcpx/"><u>[New] 2024 Approved Visual Storytelling for Social Media Editing VT Videos in FCPX</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/arn-wisely-the-simple-triad-method-for-scrutinizing-youtube-profits-for-2024/"><u>[New] Earn Wisely The Simple Triad Method for Scrutinizing YouTube Profits for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-non-profit-gaming-soundtrack-sources/"><u>2024 Approved Non-Profit Gaming Soundtrack Sources</u></a></li>
+<li><a href="https://win-blog.techidaily.com/converter-offline-gratuito-per-convertire-i-gif-nei-file-mkv-con-moveavev/"><u>Converter Offline Gratuito per Convertire I GIF Nei File MKV Con Moveavev</u></a></li>
+<li><a href="https://fox-that.techidaily.com/dealing-with-lopsided-earbud-audio-understand-and-correct-uneven-airpods-noise-levels/"><u>Dealing With Lopsided Earbud Audio: Understand and Correct Uneven AirPods Noise Levels</u></a></li>
+<li><a href="https://driver-download.techidaily.com/effortless-downloading-and-updating-of-microsoft-drivers-for-windows-users-versions-1187/"><u>Effortless Downloading and Updating of Microsoft Drivers for Windows Users (Versions 11/8/7)</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-lava-agni-2-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Lava Agni 2 5G to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphones-wireless-charger-not-functioning-here-are-7-remedies-to-check-out/"><u>IPhone's Wireless Charger Not Functioning? Here Are 7 Remedies To Check Out</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-the-problem-of-spotify-closing-on-iphone-screen-lock/"><u>Solving the Problem of Spotify Closing on iPhone Screen Lock</u></a></li>
+<li><a href="https://fox-that.techidaily.com/stop-enduring-that-bothering-flicker-try-these-7-proven-tricks-on-your-phones-screen-today/"><u>Stop Enduring That Bothering Flicker – Try These 7 Proven Tricks on Your Phone's Screen Today</u></a></li>
 </ul></div>
 

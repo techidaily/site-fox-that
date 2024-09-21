@@ -1,7 +1,7 @@
 ---
 title: What to Do When Your iPhone Can't Recognize Nearness Anymore
-date: 2024-09-09T19:07:11.183Z
-updated: 2024-09-15T20:56:37.658Z
+date: 2024-09-18T19:39:44.558Z
+updated: 2024-09-20T21:53:44.933Z
 tags:
   - iphone
   - apple
@@ -58,6 +58,13 @@ Here are some things you could do to check if it's working:
 
  In this case, you should restart the app first. Merely returning to the Home Screen isn't enough; you must open the App Switcher (learn how to do so in our [iPhone navigation basics](https://www.makeuseof.com/how-to-go-back-get-home-switch-apps-iphone/) guide) and swipe up on the target app's preview. Open the app again and try to use the proximity sensor. You can also try [restarting your iPhone](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) for good measure.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3\. Make Sure Your iPhone Is Up to Date
 
  As an extension of software problems, your iPhone's proximity sensor might act up due to an iOS bug. The only way to completely rule out that possibility is to update your iPhone to the latest iOS version available.
@@ -66,31 +73,31 @@ Here are some things you could do to check if it's working:
 
 ![iPhone searching for updates in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-searching-for-updates-in-settings.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Software update information on iOS for iOS 16.6](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/software-update-information-on-ios-for-ios-16-6.jpeg)
 
 ![Update terms and conditions on iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/update-terms-and-conditions-on-ios.jpeg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close
 
  Your phone will restart a couple of times, but it will stabilize when it's finished. Test the proximity sensor again using our steps above.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115943/19272" target="_top" id="2115943">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115943" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115943/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 4\. Remove the Screen Protector
 
 ![man applying screen protector to smartphone feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/man-applying-screen-protector-to-smartphone-feature.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Image Credit: Nor Gal/[Shutterstock](https://www.shutterstock.com/image-photo/man-replacing-broken-tempered-glass-screen-1106925758)
 
@@ -106,19 +113,6 @@ Here's a brief rundown of how to do it:
 4. Pull out the screen protector.
 
  Give the proximity sensor a test to see if that helped. But if you're still out of luck, you have a last-resort option.
-
-<!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 5\. Take Your Phone Back to Apple or an Authorized Service Provider
 
@@ -149,20 +143,19 @@ Here's a brief rundown of how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-navigating-the-world-of-vr-playback-technology/"><u>[New] In 2024, Navigating the World of VR Playback Technology</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-mastering-media-with-extraearsound/"><u>[New] Mastering Media with ExtraEarSound</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-pinnacle-portals-select-laptops-for-uhd-content-creation/"><u>2024 Approved Pinnacle Portals Select Laptops for UHD Content Creation</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-propel-your-virtual-presence-with-these-gadgets/"><u>2024 Approved Propel Your Virtual Presence with These Gadgets</u></a></li>
-<li><a href="https://fox-that.techidaily.com/act-fast-top-reasons-for-upgrading-to-ios-153-right-this-moment/"><u>Act Fast - Top Reasons for Upgrading to iOS 15.3 Right This Moment</u></a></li>
-<li><a href="https://fox-that.techidaily.com/eight-remedies-to-resolve-the-persistent-earbud-sensation-on-your-iphone/"><u>Eight Remedies to Resolve the Persistent Earbud Sensation on Your iPhone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/imessage-sent-as-text-message-am-i-blocked/"><u>IMessage Sent as Text Message: Am I Blocked?</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-unravel-the-secrets-of-saving-and-playing-gifs-on-your-ios-device/"><u>In 2024, Unravel the Secrets of Saving & Playing GIFs on Your iOS Device</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mitigating-pressure-chatgpt-techniques/"><u>Mitigating Pressure: ChatGPT Techniques</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/new-2024-approved-how-to-make-a-video-for-your-babys-first-year/"><u>New 2024 Approved How to Make a Video for Your Babys First Year</u></a></li>
-<li><a href="https://fox-that.techidaily.com/revive-your-iphones-hotspot-expert-fixes-for-connection-issues/"><u>Revive Your iPhone's Hotspot: Expert Fixes for Connection Issues</u></a></li>
-<li><a href="https://fox-that.techidaily.com/ultimate-diy-fix-resetting-or-restoring-an-iphone-sans-itunes/"><u>Ultimate DIY Fix: Resetting or Restoring an iPhone Sans iTunes</u></a></li>
-<li><a href="https://win-blog.techidaily.com/unstuck-gaming-effective-solutions-to-repair-freezing-in-black-ops-cold-war-call-of-duty/"><u>Unstuck Gaming: Effective Solutions to Repair Freezing in Black Ops Cold War Call of Duty</u></a></li>
-<li><a href="https://fox-that.techidaily.com/why-are-my-alerts-hiding-discover-the-ultimate-7-step-guide-to-restore-iphone-notifications/"><u>Why Are My Alerts Hiding? Discover the Ultimate 7-Step Guide to Restore iPhone Notifications</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/windows-files-reviewed-in-a-flash-for-2024/"><u>Windows Files Reviewed in a Flash for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/our-guide-to-iconic-fonts-boosting-video-engagement/"><u>[New] Your Guide to Iconic Fonts Boosting Video Engagement</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-guide-to-computer-gear-by-toms-hardware-experts/"><u>Comprehensive Guide to Computer Gear by Tom's Hardware Experts</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-inaccurate-screen-time-reports-on-ios-devices-displaying-misleading-data/"><u>Fixing Inaccurate Screen Time Reports on iOS Devices Displaying Misleading Data</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-your-iphones-status-bar-dilemma-with-just-6-simple-steps/"><u>Fixing Your iPhone's Status Bar Dilemma with Just 6 Simple Steps</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-nokia-g310-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Nokia G310 | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/mastering-the-art-of-seamless-transitions-fixes-for-airpods-connection-challenges-with-your-apple-ecosystem/"><u>Mastering the Art of Seamless Transitions: Fixes for AirPods Connection Challenges With Your Apple Ecosystem</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcome-frequent-airpods-iphone-disconnections-with-these-proven-11-strategies/"><u>Overcome Frequent AirPods-iPhone Disconnections With These Proven 11 Strategies</u></a></li>
+<li><a href="https://common-error.techidaily.com/seamless-usb-tethering-setup-on-windows-10-made-simple/"><u>Seamless USB Tethering Setup on Windows 10 Made Simple</u></a></li>
+<li><a href="https://fox-that.techidaily.com/struggling-with-iphones-contacts-feature-here-are-3-easy-fixes/"><u>Struggling with iPhone's Contacts Feature? Here Are 3 Easy Fixes</u></a></li>
+<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-sony-xperia-1-v-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Sony Xperia 1 V ? Fix It Easily | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/top-techniques-for-preventing-warzone-crashes-and-lag-on-your-computer/"><u>Top Techniques for Preventing Warzone Crashes and Lag on Your Computer</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-siri-issues-top-7-solutions-for-iphone-and-ipad/"><u>Troubleshoot Siri Issues: Top 7 Solutions for iPhone and iPad</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-free-gif-maker-tools-for-seamless-loops/"><u>Updated 2024 Approved Free GIF Maker Tools for Seamless Loops</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/why-opting-for-applecare-plus-5-benefits-unveiled/"><u>Why Opting for AppleCare Plus? 5 Benefits Unveiled</u></a></li>
 </ul></div>
 

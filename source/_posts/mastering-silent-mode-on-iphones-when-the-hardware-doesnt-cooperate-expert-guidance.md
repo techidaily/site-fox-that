@@ -1,7 +1,7 @@
 ---
 title: "Mastering Silent Mode on iPhones When the Hardware Doesn’t Cooperate: Expert Guidance"
-date: 2024-09-14T22:38:03.351Z
-updated: 2024-09-15T17:15:28.715Z
+date: 2024-09-15T01:15:22.016Z
+updated: 2024-09-20T23:50:06.976Z
 tags:
   - iphone
   - apple
@@ -97,13 +97,6 @@ Close
 
  Once set up, muting and unmuting your iPhone should be even easier. Simply perform the gesture to which you've assigned the Mute action, and it'll mute the device. Repeat it again to unmute.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120864/26400?prodsku=Mercury" target="_top" id="2120864">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120864/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Mute or Unmute iPhone Using Back Tap
 
  AssistiveTouch used to be the only way to mute or unmute your iPhone when the Ring/Silent switch stopped working for the longest time. And sure, it works fine and gets the job done, but for some, it isn't aesthetically pleasing to have the button on the screen at all times.
@@ -117,19 +110,6 @@ Close
 
 ![Back Tap feature under Touch Accessibility settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-using-back-tap-2.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Close
 
  Once you're in the Back Tap accessibility menu, you can choose a couple of options:
@@ -139,6 +119,13 @@ Close
 
 ![Back Tap gesture options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-using-back-tap-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![setting Mute action to a Back Tap gesture](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-using-back-tap-4.jpg)
 
 Close
@@ -146,6 +133,13 @@ Close
  Now, whenever you want to mute your iPhone, simply perform the double-tap or triple-tap gesture on the back of your iPhone. To unmute it, perform the same gesture again.
 
  With certain iPhone cases, especially thicker ones, you might need to tap harder for the iPhone to register your taps and trigger the action.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Broken iPhone Ring/Silent Switch? No Problem
 
@@ -168,14 +162,20 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://blog-min.techidaily.com/1724766835619-macx/"><u>公式 MacX ビデオコンバータプロ:入出力フォーマット・サポート及び動作環境詳細 - 技術ガイド</u></a></li>
-<li><a href="https://fox-that.techidaily.com/cant-charge-your-iphone-wirelessly-here-are-7-fixes-that-might-help/"><u>Can't Charge Your iPhone Wirelessly? Here Are 7 Fixes That Might Help!</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/elite-list-top-10-zero-dollar-videochats-with-desktops-for-2024/"><u>Elite List Top 10 Zero-Dollar Videochats with Desktops for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-naming-your-podcast-a-complete-guide-plus-list-of-over-50-creative-ideas/"><u>In 2024, Naming Your Podcast A Complete Guide + List of Over 50 Creative Ideas</u></a></li>
-<li><a href="https://fox-that.techidaily.com/overcoming-iphones-safari-image-load-failures-top-9-strategies-to-try/"><u>Overcoming iPhone's Safari Image Load Failures: Top 9 Strategies to Try</u></a></li>
-<li><a href="https://fox-that.techidaily.com/overcoming-obstacles-fixing-full-screen-shot-problems-in-safari-browser/"><u>Overcoming Obstacles: Fixing Full-Screen Shot Problems in Safari Browser</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/perfecting-pics-and-vids-the-art-of-snapchat-zooming-for-2024/"><u>Perfecting Pics & Vids The Art of Snapchat Zooming for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/sim-unlock-itel-s23-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Itel S23 Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-troubleshooting-for-lag-reduction-in-chivalry-2-latest-fixes/"><u>Step-by-Step Troubleshooting for Lag Reduction in Chivalry 2 - Latest Fixes</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-rhythm-revivers-10-androidios-audio-challengers/"><u>[New] 2024 Approved Rhythm Revivers 10 Android/iOS Audio Challengers</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-nikon-1j5-takes-video-to-the-next-level-with-its-4k-features/"><u>[Updated] Nikon 1J5 Takes Video to the Next Level with Its 4K Features</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-secret-sauce-for-a-viral-tiktok-unboxer-masterpiece/"><u>2024 Approved The Secret Sauce for a Viral TikTok Unboxer Masterpiece</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1725289836748-2022-dvd/"><u>如何在 2022 年将 DVD 内容成功迁移为数字格式？</u></a></li>
+<li><a href="https://fox-that.techidaily.com/apple-pay-issues-here-are-six-ways-to-resolve-when-your-card-is-rejected/"><u>Apple Pay Issues? Here Are Six Ways to Resolve When Your Card Is Rejected</u></a></li>
+<li><a href="https://fox-that.techidaily.com/getting-your-iphone-to-recognize-location-again-expert-advice/"><u>Getting Your iPhone to Recognize Location Again: Expert Advice</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-realme-gt-neo-5-se-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Realme GT Neo 5 SE Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-get-your-iphone-back-online-expert-tips-and-tricks-for-resolving-data-connection-problems/"><u>How To Get Your iPhone Back Online: Expert Tips and Tricks for Resolving Data Connection Problems</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-overcome-challenges-in-handling-and-editing-your-iphone-pictures/"><u>How To Overcome Challenges In Handling And Editing Your iPhone Pictures</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-redmi-13c-5g-phone-without-password-by-drfone-android/"><u>How To Unlock Xiaomi Redmi 13C 5G Phone Without Password?</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-unlocking-the-value-in-twitters-archives/"><u>In 2024, Unlocking the Value in Twitters Archives</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/moving-data-quick-techniques-to-send-files-to-your-computer/"><u>Moving Data Quick Techniques to Send Files to Your Computer</u></a></li>
+<li><a href="https://fox-that.techidaily.com/recognizing-iphone-water-harm-a-list-of-9-telltale-symptoms-you-shouldnt-ignore/"><u>Recognizing iPhone Water Harm: A List of 9 Telltale Symptoms You Shouldn't Ignore</u></a></li>
+<li><a href="https://android-frp.techidaily.com/the-updated-method-to-bypass-lava-yuva-3-frp-by-drfone-android/"><u>The Updated Method to Bypass Lava Yuva 3 FRP</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-whatsapp-why-your-chats-arent-syncing-with-icloud-and-solutions/"><u>Troubleshooting WhatsApp: Why Your Chats Aren't Syncing with iCloud and Solutions</u></a></li>
 </ul></div>
 

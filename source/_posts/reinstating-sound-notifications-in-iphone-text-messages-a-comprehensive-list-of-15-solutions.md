@@ -1,7 +1,7 @@
 ---
 title: "Reinstating Sound Notifications in iPhone Text Messages: A Comprehensive List of 15 Solutions"
-date: 2024-09-13T18:30:25.744Z
-updated: 2024-09-15T18:56:42.077Z
+date: 2024-09-16T16:17:54.048Z
+updated: 2024-09-20T21:45:48.303Z
 tags:
   - iphone
   - apple
@@ -69,6 +69,13 @@ Close
 
  That said, you can [set up Focus modes](https://www.makeuseof.com/how-to-use-focus-modes-ios/) that let you configure which apps and people you want to allow notifications from.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Force Quit the Messages App
 
  On iPhones with Face ID, slowly swipe up from the bottom to the middle of the screen while you're in the Messages app and hold until you see the App Switcher. Now, swipe up on the Messages app card to force quit.
@@ -82,13 +89,6 @@ Close
  Before you move ahead, it's essential to check if [iMessage is activated](http://www.makeuseof.com/how-to-activate-imessage/) and switched on or not. To do that, go to**Settings** \>**Messages** and make sure**iMessage** is enabled.
 
  Next, tap**Send & Receive** and check you have the correct phone number and email here. You should start receiving notifications again after doing this.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115913/19272" target="_top" id="2115913">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115913" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115913/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Restart Your iPhone
 
@@ -106,13 +106,6 @@ Close
 
 ![Tap Unknown and Spam in iPhone Messages Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/tap-unknown-and-spam-in-iphone-messages-settings.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Turn off Filter Unknown Senders in iPhone Messages Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/turn-off-filter-unknown-senders-in-iphone-messages-settings.png)
 
 Close
@@ -120,6 +113,13 @@ Close
 ## 8\. Disconnect Bluetooth Devices
 
  If you forget and leave Bluetooth buds or devices connected to your iPhone, the new text message sound may output via that instead of the on-device speaker. To fix this, open the**Settings** app and turn off**Bluetooth** . Alternatively, you can disconnect these devices from the iOS Control Center by tapping the Bluetooth icon.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 9\. Make Sure the Person Isn't Blocked
 
@@ -137,6 +137,13 @@ Close
 
 ![Swipe left on blocked iPhone contact and tap Unblock](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/swipe-left-on-blocked-iphone-contact-and-tap-unblock.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Close
 
 ## 10\. Ensure Custom Text Tone Isn't Set to "None"
@@ -149,6 +156,19 @@ Close
 
 ![Tap Text Tone for a Contact in iPhone Phone or Contacts app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/tap-text-tone-for-a-contact-in-iphone-phone-or-contacts-app.png)
 
+<!-- affiliate ads begin -->
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Choose a different custom tone for contact](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/choose-a-different-custom-tone-for-contact.png)
 
 Close
@@ -157,46 +177,13 @@ Close
 
  Were you receiving too many group iMessage notifications that you muted the conversation when you were in a bad mood? If yes, go to**Settings** \>**Messages** and turn on**Notify Me** . Now, you'll receive notifications only when someone mentions you in a muted conversation. This way, you can limit unnecessary text notifications and still be aware of those where you're mentioned specially.
 
-<!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 12\. Disable Text Message Forwarding
 
  When you choose to receive texts on your Mac or iPad, at times, new text notifications may not show on your iPhone. To fix this, head to**Settings** \>**Messages** \>**Text Message Forwarding** and turn it off for your other Apple devices.
 
 ![Tap Text Message Forwarding in iPhone Messages Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/tap-text-message-forwarding-in-iphone-messages-settings.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Turn off Text Message Forwarding for all your other Apple devices](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/turn-off-text-message-forwarding-for-all-your-other-apple-devices.png)
-
-<!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Close
 
@@ -207,6 +194,13 @@ Close
 ## 14\. Have You Opened the Messages App on Your Mac?
 
  If you keep the Messages app open on your Mac, new messages may appear there, and your iPhone may not play the text notification sound for them. To fix this,[quit the Messages app on your Mac](https://www.makeuseof.com/ways-to-quit-apps-on-mac/) . Or, you may use it there if you're already working on your computer.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 15\. Other Solutions
 
@@ -237,21 +231,14 @@ If none of the solutions above help, don't worry—hope isn't lost yet.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-step-by-step-uploading-to-instagrams-feed-for-2024/"><u>[New] Step-By-Step Uploading to Instagram's Feed for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-unlock-ig-potential-the-best-tools-for-post-management/"><u>[New] Unlock IG Potential The Best Tools for Post Management</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-best-eco-savvy-movie-capture-tools-usage-methods/"><u>[Updated] 2024 Approved Best Eco-Savvy Movie Capture Tools Usage Methods</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-obs-studio-edge-top-5-video-enhancements-unveiled/"><u>2024 Approved OBS Studio Edge Top 5 Video Enhancements Unveiled</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/quality-youtube-images-download-without-any-cost/"><u>High-Quality YouTube Images Download Without Any Cost!</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-efficiently-manage-and-edit-iphone-images-while-addressing-usual-hurdles/"><u>How to Efficiently Manage and Edit iPhone Images While Addressing Usual Hurdles</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-best-ways-to-bypass-icloud-activation-lock-from-apple-iphone-7-plusipadipod-by-drfone-ios/"><u>In 2024, Best Ways to Bypass iCloud Activation Lock from Apple iPhone 7 Plus/iPad/iPod</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-techniques-to-mitigate-vr-disorientation/"><u>In 2024, Techniques to Mitigate VR Disorientation</u></a></li>
-<li><a href="https://fox-that.techidaily.com/missing-siri-tips-and-tricks-for-ios-users-solve-the-not-showing-up-issue/"><u>Missing Siri Tips and Tricks for iOS Users – Solve the 'Not Showing Up' Issue</u></a></li>
-<li><a href="https://fox-that.techidaily.com/navigating-apples-technical-assistance-a-users-manual-for-iphone-support-app/"><u>Navigating Apple’s Technical Assistance: A User’s Manual for iPhone Support App</u></a></li>
-<li><a href="https://fox-that.techidaily.com/navigating-obstacles-top-6-fixes-for-troubled-shared-subscription-services-among-families/"><u>Navigating Obstacles: Top 6 Fixes for Troubled Shared Subscription Services Among Families</u></a></li>
-<li><a href="https://fox-that.techidaily.com/quick-fixes-for-when-your-imessage-stops-working-on-apple-devices-iphone-ipad-mac/"><u>Quick Fixes for When Your iMessage Stops Working on Apple Devices (iPhone, iPad, Mac)</u></a></li>
-<li><a href="https://fox-that.techidaily.com/reviving-a-faulty-tablet-screen-discover-8-key-techniques-for-improvement/"><u>Reviving a Faulty Tablet Screen: Discover 8 Key Techniques for Improvement</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/sky-high-earnings-leveraging-youtube-analytics-and-monetization/"><u>Sky High Earnings Leveraging YouTube Analytics & Monetization</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solution-when-phone-app-shows-numbers-not-names-for-callers/"><u>Solution: When Phone App Shows Numbers Not Names for Callers</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/-trustworthy-ways-to-extract-audio-from-youtube-videos/"><u>Three Trustworthy Ways to Extract Audio From YouTube Videos</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-the-entrepreneurs-roadmap-turning-snapchat-into-a-profitable-venture/"><u>[New] In 2024, The Entrepreneur's Roadmap Turning Snapchat Into a Profitable Venture</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/arcane-acoustics-how-legit-is-the-vocal-transformation-application-look-elsewhere-for-2024/"><u>Arcane Acoustics How Legit Is the Vocal Transformation Application? Look Elsewhere for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/te-change-mitigation-through-urban-design-innovations-for-2024/"><u>Climate Change Mitigation Through Urban Design Innovations for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/cutting-the-final-5-minutes-of-your-computers-playback-in-windows-1011/"><u>Cutting the Final 5 Minutes of Your Computer's Playback in Windows 10/11</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/full-guide-to-bypass-vivo-s18e-frp-by-drfone-android/"><u>Full Guide to Bypass Vivo S18e FRP</u></a></li>
+<li><a href="https://fox-that.techidaily.com/mastering-silent-mode-on-iphones-when-the-hardware-doesnt-cooperate-expert-guidance/"><u>Mastering Silent Mode on iPhones When the Hardware Doesn’t Cooperate: Expert Guidance</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-the-mystery-of-grayed-out-icloud-settings-in-ios-devices/"><u>Solving the Mystery of Grayed-Out iCloud Settings in iOS Devices</u></a></li>
+<li><a href="https://fox-that.techidaily.com/stop-the-flash-7-proven-methods-to-fix-a-shimmering-mobile-device-display/"><u>Stop the Flash: 7 Proven Methods to Fix a Shimmering Mobile Device Display</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/three-secure-approaches-for-youtube-to-mp3-file-conversion-for-2024/"><u>Three Secure Approaches for YouTube-to-MP3 File Conversion for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: IPhone's Mute and Media Keys Malfunctioning? Discover 7 Solutions
-date: 2024-09-09T22:15:03.608Z
-updated: 2024-09-15T20:53:47.288Z
+date: 2024-09-16T00:10:30.015Z
+updated: 2024-09-20T20:22:34.689Z
 tags:
   - iphone
   - apple
@@ -53,6 +53,13 @@ thumbnail: https://thmb.techidaily.com/1fa3b9714516519d17cdc00ae160f98cb4b200553
 
  After cleaning, wait a few minutes for the alcohol to dry. If your volume buttons are working now, great! If they are only working a bit better, that's a sign that they are still dirty, and you should keep cleaning them. It's worth [cleaning your entire iPhone if it's dirty](https://www.makeuseof.com/tag/clean-iphone-guide/) .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Reset or Restore Your iPhone
 
  Sometimes, firmware updates can change how the buttons on our phones work. This is especially true for older iPhone models. If you recently updated your iPhone and the volume buttons stopped working, try [restarting your iPhone](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) by turning it off and on again.
@@ -75,16 +82,22 @@ thumbnail: https://thmb.techidaily.com/1fa3b9714516519d17cdc00ae160f98cb4b200553
 
  You can update it by heading to**Settings > General > Software Update** . Here, you can see if a new iOS version is available. If you're using a beta version of iOS, it might be time to switch back to the stable public build and report this issue to Apple.
 
+<!-- affiliate ads begin -->
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Control Your iPhone's Volume Without Using Volume Buttons
 
 ![iphone screen volume control](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/iphone-screen-volume-control.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you use apps like Spotify, you can control the volume within the app without a physical button. If all else fails, there are still ways to control your volume without using the buttons. The easiest way is to use the Control Center.
 
@@ -92,14 +105,14 @@ thumbnail: https://thmb.techidaily.com/1fa3b9714516519d17cdc00ae160f98cb4b200553
 
 ![iphone control panel volume control](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/iphone-control-panel-volume-control-1.jpg)
 
- If you have AirPods, you can say, "Hey Siri, turn up the volume." Other Bluetooth headphones typically have built-in volume controls, which you can use as well. This means that you won't have to keep going to your phone when you want to change the volume.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115918/19272" target="_top" id="2115918">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115918" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115918/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ If you have AirPods, you can say, "Hey Siri, turn up the volume." Other Bluetooth headphones typically have built-in volume controls, which you can use as well. This means that you won't have to keep going to your phone when you want to change the volume.
 
 ### Control the Volume With AssistiveTouch
 
@@ -110,10 +123,10 @@ thumbnail: https://thmb.techidaily.com/1fa3b9714516519d17cdc00ae160f98cb4b200553
 ![assistive touch iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/IMG_2959.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Get Your Volume Buttons Repaired
@@ -125,13 +138,6 @@ thumbnail: https://thmb.techidaily.com/1fa3b9714516519d17cdc00ae160f98cb4b200553
  So, next time you upgrade your iPhone, consider learning more about [the AppleCare+ extended warranty](http://www.makeuseof.com/tag/applecare-what-are-your-options-is-it-really-worth-it/) and see if it's worth it so you won't get caught with a costly repair again.
 
  While repairing your iPhone's volume buttons out of pocket can be expensive, it's cheaper than buying a new phone. But if you don't want to pay this price, maybe it's [time to upgrade your iPhone](https://www.makeuseof.com/7-signs-its-time-to-upgrade-your-iphone/) .
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Will Apple Discontinue the Volume Button?
 
@@ -154,20 +160,20 @@ thumbnail: https://thmb.techidaily.com/1fa3b9714516519d17cdc00ae160f98cb4b200553
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-behind-the-scenes-of-gamers-elite-setup/"><u>[New] In 2024, Behind the Scenes of Gamers' Elite Setup</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-windows-10-gamers-guide-to-effective-video-capture/"><u>[Updated] 2024 Approved Windows 10 Gamers' Guide to Effective Video Capture</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-skyrocket-your-channel-navigating-through-youtube-stats/"><u>[Updated] In 2024, Skyrocket Your Channel Navigating Through YouTube Stats</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-swift-screen-preserve-audio-accompanying-for-2024/"><u>[Updated] Swift Screen Preserve Audio Accompanying for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/conquering-iphone-photo-glitches-with-these-simple-tips/"><u>Conquering iPhone Photo Glitches with These Simple Tips</u></a></li>
-<li><a href="https://fox-that.techidaily.com/dealing-with-unresponsive-screens-on-iphones-here-are-10-methods-to-address-ghost-touch-issues/"><u>Dealing with Unresponsive Screens on iPhones? Here Are 10 Methods to Address Ghost Touch Issues</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-repair-non-functional-iphone-volume-keys-top-7-tips-and-tricks/"><u>How to Repair Non-Functional iPhone Volume Keys: Top 7 Tips and Tricks</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-resolve-iphone-out-of-characters-problem-a-detailed-guide/"><u>How to Resolve 'iPhone Out of Characters' Problem: A Detailed Guide</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-revive-your-iphones-auto-brightness-feature-in-just-7-steps/"><u>How to Revive Your iPhone's Auto-Brightness Feature in Just 7 Steps</u></a></li>
-<li><a href="https://extra-information.techidaily.com/plot-pointers-institute-quintessential-quotient/"><u>Plot Pointers Institute - Quintessential Quotient</u></a></li>
-<li><a href="https://driver-install.techidaily.com/seamless-stress-relief-track-drivers-fixed/"><u>Seamless Stress Relief: Track Drivers Fixed</u></a></li>
-<li><a href="https://fox-that.techidaily.com/stuck-with-a-disconnected-vpn-on-your-iphone-try-our-top-7-solutions/"><u>Stuck With A Disconnected VPN on Your iPhone? Try Our Top 7 Solutions</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/the-art-of-effective-lower-thirds-in-final-cut-pro-x/"><u>The Art of Effective Lower Thirds in Final Cut Pro X</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-whatsapp-why-your-messages-arent-syncing-with-icloud-and-how-to-solve-this/"><u>Troubleshooting WhatsApp: Why Your Messages Aren't Syncing with iCloud and How to Solve This</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/what-are-the-disadvantages-of-vr/"><u>What Are the Disadvantages of VR?</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-dial-back-unrequested-youtube-recommendations/"><u>[Updated] 2024 Approved Dial Back Unrequested YouTube Recommendations</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-crafting-the-best-video-aspect-ratio-experience/"><u>[Updated] Crafting the Best Video Aspect Ratio Experience</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-streamline-document-creation-with-microsoft-word-speech-recognition/"><u>2024 Approved Streamline Document Creation with Microsoft Word Speech Recognition</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-vivo-v29-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Vivo V29 | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/demystifying-dfu-mode-on-iphones-the-ultimate-how-to-manual/"><u>Demystifying DFU Mode on iPhones: The Ultimate How-To Manual</u></a></li>
+<li><a href="https://fox-that.techidaily.com/get-your-airdrop-back-on-track-expert-advice-on-rapidly-fixing-it-with-16-proven-tips/"><u>Get Your AirDrop Back On Track: Expert Advice on Rapidly Fixing It With 16 Proven Tips</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-apple-iphone-6-online-here-are-6-easy-ways-by-drfone-ios/"><u>How to Unlock Apple iPhone 6 Online? Here are 6 Easy Ways</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-honor-play-8t-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Honor Play 8T to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-glitch-your-way-to-creativity-top-free-online-effect-generators-for-2024/"><u>New Glitch Your Way to Creativity Top Free Online Effect Generators for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-wireless-charger-issues-top-7-solutions-when-iphone-wont-charge/"><u>Troubleshooting Wireless Charger Issues: Top 7 Solutions When iPhone Won't Charge</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-your-ios-keyboard-solutions-for-iphone-and-ipad/"><u>Troubleshooting Your iOS Keyboard – Solutions for iPhone & iPad</u></a></li>
+<li><a href="https://win-webmaster.techidaily.com/ultimate-guide-converting-dvd-content-seamlessly-into-your-nas-on-synology-and-qnap-systems/"><u>Ultimate Guide: Converting DVD Content Seamlessly Into Your NAS on Synology and QNAP Systems</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unable-to-activate-iphone-ringsilent-feature-discover-alternative-methods/"><u>Unable to Activate iPhone Ring/Silent Feature? Discover Alternative Methods</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-malfunctioning-drivers-with-windows-device-manager-on-windows-11-and-10-and-7-by-drivereasy-guide/"><u>Use Device Manager to identify malfunctioning drivers with Windows Device Manager on Windows 11 & 10 & 7</u></a></li>
+<li><a href="https://fox-that.techidaily.com/why-turning-off-and-on-your-cellphone-can-be-a-game-changer-for-performance/"><u>Why Turning Off and On Your Cellphone Can Be a Game-Changer for Performance</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Revive Your iPhone's Flashlight: 12 Proven Troubleshooting Steps"
-date: 2024-09-13T21:34:54.939Z
-updated: 2024-09-15T20:52:05.743Z
+date: 2024-09-15T18:35:57.791Z
+updated: 2024-09-20T21:11:29.991Z
 tags:
   - iphone
   - apple
@@ -77,10 +77,10 @@ Close
  To solve this, just exit the**Camera** app and access your**Control Center** again. You should see that the flashlight button can once more be selected as usual.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123477/16836" target="_top" id="2123477">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123477" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123477/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Turn On Your Flashlight Using the Camera Flash
@@ -93,14 +93,14 @@ Close
 
 ![iphone camera video mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/video-mode-1.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115949/19272" target="_top" id="2115949">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115949" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115949/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![iphone camera video mode options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/video-mode-2.JPG)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![turn on iphone camera flash](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/video-mode-3.JPG)
 
@@ -118,9 +118,23 @@ Close
 
 ![siri icon on iphone screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/img_7829.JPEG)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![siri response after turning on iphone flashlight](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/img_7830.JPEG)
 
 Close
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 9\. Update Your iPhone's iOS
 
@@ -128,27 +142,20 @@ Close
 
  Go to**Settings > General > Software Update** to see if an update is available for your iPhone. Make sure your iPhone is charging or has more than 50% battery before you proceed with the update process.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 10\. Restart Your iPhone
 
  If the above methods don't solve the problem and your iPhone's flashlight still isn't working, the next step you should try is [restarting your iPhone](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) .
 
 ![iphone on wooden surface showing hello welcome screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/iphone-hello-screen-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The method you need to follow varies depending on the iPhone model you have. But in general, you can go to **Settings > General > Shut Down > Slide to power off** . Then, hold the**Side** button to restart your iPhone once it powers off.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 11\. Restore Your iPhone to a Previous Backup
 
@@ -161,13 +168,6 @@ Close
  Take note that the reset process can take a long time, especially if you have a lot of data on your iPhone. So, if you're stuck in the dark and urgently need a flashlight, don't rely on resetting your iPhone right there and then!
 
  Make sure you don't accidentally choose**Erase All Content and Settings** from the**Reset** menu. Doing that would delete all the data on your device.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Effective Solutions When Your iPhone's Flashlight Is Not Working
 
@@ -190,18 +190,18 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-expanding-textual-arsenal-in-after-effects/"><u>[New] Expanding Textual Arsenal in After Effects</u></a></li>
-<li><a href="https://fox-that.techidaily.com/cant-adjust-auto-brightness-on-iphone-discover-these-7-quick-solutions/"><u>Can't Adjust Auto-Brightness on iPhone? Discover These 7 Quick Solutions</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/1722712391549-fellowes-microban-wired-keyboard-unveiled-top-value-pick-for-budget-buyers/"><u>Fellowes Microban Wired Keyboard Unveiled - Top Value Pick for Budget Buyers</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-vivo-y100i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Vivo Y100i | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-unlock-apple-id-activation-lock-from-iphone-13-pro-by-drfone-ios/"><u>How to Unlock Apple ID Activation Lock From iPhone 13 Pro?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/impatient-for-chatgpts-release-embrace-this-outstanding-open-source-alternative-right-away/"><u>Impatient for ChatGPT's Release? Embrace This Outstanding Open Source Alternative Right Away!</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-iphone-se-2020-backup-password-never-set-but-still-asking-heres-the-fix-drfone-by-drfone-ios/"><u>In 2024, iPhone SE (2020) Backup Password Never Set But Still Asking? Heres the Fix | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/iphone-microphone-not-working-heres-how-to-fix-it/"><u>IPhone Microphone Not Working? Here’s How to Fix It</u></a></li>
-<li><a href="https://fox-that.techidaily.com/is-your-iphones-silentring-switch-not-responding-here-are-some-steps-you-can-take-to-fix-it/"><u>Is Your iPhone's Silent/Ring Switch Not Responding? Here Are Some Steps You Can Take To Fix It</u></a></li>
-<li><a href="https://fox-that.techidaily.com/overcoming-obstacles-making-your-unsupported-accessory-function-with-an-iphone/"><u>Overcoming Obstacles: Making Your Unsupported Accessory Function with an iPhone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/remove-the-lock-screen-fingerprint-of-your-vivo-s17e-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Vivo S17e</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-iphone-photography-top-7-faults-and-solutions-for-a-non-working-camera/"><u>Troubleshooting iPhone Photography: Top 7 Faults & Solutions for a Non-Working Camera</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/unveiling-the-secrets-to-profitable-brands-partnerships-on-youtube/"><u>Unveiling the Secrets to Profitable Brands Partnerships on YouTube</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-making-youtube-based-twitter-videos-hearable/"><u>[New] Making YouTube-Based Twitter Videos Hearable</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-master-class-in-meeting-transcripts-zooms-software-showdown/"><u>[Updated] Master Class in Meeting Transcripts Zoom's Software Showdown</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/av1-and-vp9-face-off-which-succeeds-more-for-2024/"><u>AV1 and VP9 Face-Off Which Succeeds More for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/bypass-broken-buttons-on-your-iphone-a-simple-restart-guide/"><u>Bypass Broken Buttons on Your iPhone: A Simple Restart Guide</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-vivo-s18-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Vivo S18 Pro | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-mastering-content-delivery-uploading-and-sharing-videos-on-instagram-desktop/"><u>In 2024, Mastering Content Delivery Uploading and Sharing Videos on Instagram Desktop</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-6-best-sim-unlock-services-that-actually-work-on-your-motorola-edge-2023-device-by-drfone-android/"><u>In 2024, The 6 Best SIM Unlock Services That Actually Work On Your Motorola Edge 2023 Device</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-motorola-edge-2023-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Motorola Edge 2023 Android SIM Unlock APK</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-analysis-ring-wired-smart-video-doorbell-pros-and-cons/"><u>In-Depth Analysis: Ring Wired Smart Video Doorbell Pros & Cons</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-picture-dilemma-can-space-be-saved-and-pics-retrieved-post-deletion-with-these-8-hacks/"><u>IPhone Picture Dilemma: Can Space Be Saved & Pics Retrieved Post-Deletion with These 8 Hacks?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/journey-to-the-best-online-shopping-spots-for-enigmatic-boxes/"><u>Journey to the Best Online Shopping Spots for Enigmatic Boxes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-how-to-solve-a-non-functioning-facetime-top-15-tips/"><u>Troubleshooting: How to Solve a Non-Functioning FaceTime - Top 15 Tips</u></a></li>
+<li><a href="https://fox-that.techidaily.com/why-is-my-iphone-so-slow-uncovering-6-common-reasons-and-their-fixes/"><u>Why Is My iPhone So Slow? Uncovering 6 Common Reasons and Their Fixes</u></a></li>
 </ul></div>
 

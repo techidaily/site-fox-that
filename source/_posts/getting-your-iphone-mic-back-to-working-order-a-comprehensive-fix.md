@@ -1,7 +1,7 @@
 ---
 title: Getting Your iPhone Mic Back to Working Order - A Comprehensive Fix
-date: 2024-09-12T22:48:15.793Z
-updated: 2024-09-15T16:11:47.033Z
+date: 2024-09-14T19:41:38.184Z
+updated: 2024-09-20T21:58:15.750Z
 tags:
   - iphone
   - apple
@@ -56,34 +56,28 @@ Close
  To grant an app permission, head to**Settings** and select the affected app. Now, make sure the**Microphone** toggle is enabled.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Use an External Microphone or AirPods
 
 ![A guy holding AirPods Pro in charging case showing orange light](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/02/a-guy-holding-airpods-pro-in-charging-case-showing-orange-light.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Hamlin Rozario/[MakeUseOf](https://www.makeuseof.com/author/hamlin-rozario/)
 
  If you've tried all the above fixes but nothing is working, you can still use an external microphone with your iPhone. You can use this while you wait for a repair or even use an external microphone indefinitely if you can't afford a repair.
 
  Most headphones, including Apple's AirPods, have built-in microphones. Since they connect via your iPhone's Lightning/USB-C port or Bluetooth, you won't have to rely on the built-in microphones for most tasks.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Other Generic Fixes
 
@@ -110,16 +104,17 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-optimizing-facebook-ads-with-a-structured-triple-layered-copywriting-approach/"><u>[New] 2024 Approved Optimizing Facebook Ads with a Structured, Triple-Layered Copywriting Approach</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-best-practices-for-advanced-ae-plug-ins/"><u>[New] Best Practices for Advanced AE Plug-Ins</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/expert-analysis-white-atx-mastery-with-five-m2-slots-the-maxsun-terminator-z790m-d5-ice-motherboard-unleashed/"><u>Expert Analysis: White ATX Mastery with Five M.2 Slots – The Maxsun Terminator Z790M D5 Ice Motherboard Unleashed</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/free-electronic-signature-for-excel-2000-files-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>Free electronic signature - For Excel 2000 files</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-adjust-screen-time-on-iphone-to-accurately-reflect-web-activity/"><u>How to Adjust Screen Time on iPhone to Accurately Reflect Web Activity</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-xiaomi-pictures-an-easy-method-explained-by-fonelab-android-recover-pictures/"><u>How to Restore Deleted Xiaomi Pictures An Easy Method Explained.</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-icloud-activation-lock-and-icloud-account-on-iphone-15-pro-max-by-drfone-ios/"><u>In 2024, How to Unlock iCloud Activation Lock and iCloud Account On iPhone 15 Pro Max?</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/in-2024-take-flight-with-social-media-dji-drone-streaming-basics/"><u>In 2024, Take Flight with Social Media DJI Drone Streaming Basics</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/sleek-60-second-fades/"><u>Sleek 60-Second Fades</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-tips-resolving-iphone-alarm-malfunction/"><u>Troubleshooting Tips: Resolving iPhone Alarm Malfunction</u></a></li>
-<li><a href="https://fox-that.techidaily.com/using-apples-find-my-to-retrieve-lost-or-stolen-iphones-a-step-by-nstep-guide/"><u>Using Apple's 'Find My' To Retrieve Lost or Stolen iPhones: A Step-by-nStep Guide</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-mastering-iphone-burst-photography/"><u>[New] Mastering iPhone Burst Photography</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-framing-the-perfect-frame-talking-head-shot-essentials/"><u>[Updated] Framing the Perfect Frame Talking-Head Shot Essentials</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-top-eight-video-recording-apps-reviewed/"><u>[Updated] Top Eight Video Recording Apps Reviewed</u></a></li>
+<li><a href="https://fox-that.techidaily.com/7-essential-tricks-for-a-seamless-iphone-vpn-connection/"><u>7 Essential Tricks for a Seamless iPhone VPN Connection</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/cookiebot-the-key-to-unlocking-superior-web-analytics-and-seo/"><u>Cookiebot: The Key to Unlocking Superior Web Analytics and SEO</u></a></li>
+<li><a href="https://fox-that.techidaily.com/diagnosing-problems-with-your-iphones-visual-recognition-capabilities-a-guide/"><u>Diagnosing Problems with Your iPhone's Visual Recognition Capabilities: A Guide</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/directx12-malfunction-thwarts-new-halo-infinite-play/"><u>DirectX12 Malfunction Thwarts New Halo Infinite Play</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-open-your-iphone-14-pro-without-a-home-button-by-drfone-ios/"><u>In 2024, How To Open Your iPhone 14 Pro Without a Home Button</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/overcoming-a-stalled-obs-video-capture-process/"><u>Overcoming a Stalled OBS Video Capture Process</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-micromobility-universe-key-events-breaking-news-speculations-and-more/"><u>The Micromobility Universe: Key Events, Breaking News, Speculations & More</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-11-fixes-stop-missed-calls-on-your-iphone-once-and-for-all/"><u>Top 11 Fixes: Stop Missed Calls on Your iPhone Once and For All</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-non-functional-iphone-home-buttons-with-easy-solutions/"><u>Troubleshooting Non-Functional iPhone Home Buttons with Easy Solutions</u></a></li>
 </ul></div>
 
