@@ -1,7 +1,7 @@
 ---
 title: "Unstuck Your Family Sharing: Essential Steps & Quick Fixes You Must Try"
-date: 2024-09-19T22:05:59.529Z
-updated: 2024-09-21T00:30:24.164Z
+date: 2024-09-20T18:38:31.541Z
+updated: 2024-09-27T00:26:59.593Z
 tags:
   - iphone
   - apple
@@ -50,6 +50,13 @@ Here's how to turn it on using an iPhone or iPad:
 
 ![Family purchase sharing prompt screen on iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/2.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Purchase Sharing menu displaying payment options and family members on iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/3-1.jpeg)
 
 Close
@@ -80,16 +87,10 @@ Here's a quick way to do it on your browser:
 ![Dreamchild's Apple ID personal information page on the Apple ID website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/dreamchild-s-apple-id-personal-information-page-on-the-apple-id-website.jpeg)
 
 <!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Sign Out and Sign In to Media & Purchases
@@ -104,25 +105,18 @@ Here's a quick way to do it on your browser:
 
 ![Settings home screen on iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/1-1.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Media & Purchases sub-settings in Apple ID menu on iOS Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/2-1.jpeg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Prompt to confirm Media & Purchases sign out on iOS Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/3-2.jpeg)
 
 Close
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Sign Out, Restart, and Sign In
 
@@ -152,13 +146,20 @@ If the problematic device is a Mac, do this instead:
 ![System Settings Apple ID page displaying sign out button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/system-settings-apple-id-page-displaying-sign-out-button.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  This should refresh the App Store and other apps, and it should now recognize that the signed-in Apple ID has access to the shared subscriptions.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Add the Family Member Again
 
@@ -172,14 +173,14 @@ Here's how to do it on iOS and iPadOS:
 
 ![Family menu on iOS 16 Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/1.jpeg)
 
-![Faizah's Family menu displaying option to Remove Faizah from Family](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/faizah-s-family-menu-displaying-option-to-remove-faizah-from-family.jpeg)
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![Faizah's Family menu displaying option to Remove Faizah from Family](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/faizah-s-family-menu-displaying-option-to-remove-faizah-from-family.jpeg)
 
 Close
 
@@ -190,6 +191,13 @@ If you're on a Mac, follow these steps instead:
 3. Invite them back by clicking**Add Member** in the Family menu and following the on-screen instructions.
 
 ![Family member sub-window in System Settings on macOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/family-member-sub-window-in-system-settings-on-macos.jpeg)
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you want to learn more about managing your family members, you can read our guide on [how to stop using Apple Family](https://www.makeuseof.com/how-to-stop-apple-family-sharing-or-remove-members/) .
 
@@ -214,5 +222,26 @@ If you're on a Mac, follow these steps instead:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-mastering-speed-removing-ssgnatures-immediately/"><u>2024 Approved Mastering Speed Removing Ssgnatures Immediately</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-oneplus-nord-3-5g-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your OnePlus Nord 3 5G | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/advanced-ios-camera-tricks-optical-zooming-made-simple/"><u>Advanced iOS Camera Tricks: Optical Zooming Made Simple</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amd-rx-7600m-xt-the-dual-purpose-gpucharger-in-the-wiko-hi-gt-cube-boasting-a-whopping-100w-power-supply/"><u>AMD RX 7600M XT: The Dual-Purpose GPU/Charger in the Wiko Hi GT Cube, Boasting a Whopping 100W Power Supply</u></a></li>
+<li><a href="https://fox-that.techidaily.com/face-id-malfunction-discover-14-effective-fixes-to-restore-its-functionality-on-your-apple-device/"><u>Face ID Malfunction? Discover 14 Effective Fixes to Restore Its Functionality on Your Apple Device</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-iphone-voice-recognition-glitches-a-comprehensive-guide-5-methods/"><u>Fixing iPhone Voice Recognition Glitches - A Comprehensive Guide (5 Methods)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/guide-des-questions-frequemment-posees-a-lia-winxvideo-avec-des-reponses-detaillees/"><u>Guide Des Questions Fréquemment Posées À L'IA Winxvideo Avec Des Réponses Détaillées</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/how-to-enter-the-ispoofer-discord-server-on-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>How to enter the iSpoofer discord server On Apple iPhone X | Dr.fone</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/mac-compatible-iphone-data-rescue-restore-lost-photos-videos-and-contact-details/"><u>Mac Compatible iPhone Data Rescue - Restore Lost Photos, Videos, and Contact Details</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-mac-video-production-simplified-best-video-makers-for-beginners/"><u>New Mac Video Production Simplified Best Video Makers for Beginners</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-the-biggest-iphone-x-frustrations-a-step-by-step-guide/"><u>Overcoming the Biggest iPhone X Frustrations: A Step-by-Step Guide</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-vivo-x-fold-2-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Vivo X Fold 2 Screen | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolving-issues-with-non-updating-iphone-mail-a-step-by-step-guide/"><u>Resolving Issues with Non-Updating iPhone Mail: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/struggling-with-audio-issues-on-ios-restore-sound-now/"><u>Struggling with Audio Issues on iOS? Restore Sound Now</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-tecno-pova-5-pro-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Tecno Pova 5 Pro</u></a></li>
+<li><a href="https://fox-that.techidaily.com/the-ultimate-guide-to-troubleshooting-these-7-often-encountered-iphone-screen-glitches/"><u>The Ultimate Guide to Troubleshooting These 7 Often Encountered iPhone Screen Glitches</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-8-solutions-when-your-iphone-gets-stuck-on-headphones-only/"><u>Top 8 Solutions When Your iPhone Gets Stuck on Headphones Only</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-9-signs-your-iphone-has-been-exposed-to-liquids/"><u>Top 9 Signs Your iPhone Has Been Exposed to Liquids</u></a></li>
+<li><a href="https://fox-that.techidaily.com/what-to-do-when-your-iphones-touch-panel-fails-step-by-step-help/"><u>What to Do When Your iPhone's Touch Panel Fails - Step by Step Help</u></a></li>
+</ul></div>
 

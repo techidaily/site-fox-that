@@ -1,7 +1,7 @@
 ---
 title: Muting an iPhone Without the Silent Button - Solutions for a Non-Responsive Switch
-date: 2024-09-15T23:55:55.204Z
-updated: 2024-09-20T17:41:39.221Z
+date: 2024-09-19T16:57:42.227Z
+updated: 2024-09-26T22:57:24.713Z
 tags:
   - iphone
   - apple
@@ -68,17 +68,38 @@ Close
 
 ![AssistiveTouch settings on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customizing-assistivetouch-top-level-menu-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![customizing AssistiveTouch's top-level menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customizing-assistivetouch-top-level-menu-2.jpg)
 
 ![adding a new button to the AssistiveTouch menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customizing-assistivetouch-top-level-menu-3.jpg)
 
 ![selecting Mute action for the new AssistiveTouch button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customizing-assistivetouch-top-level-menu-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Mute action in AssistiveTouch's top-level menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customizing-assistivetouch-top-level-menu-5.jpg)
 
 Close
 
  All you need to do now is tap the AssistiveTouch button and hit**Mute** . When you do this, the**Mute** button will change to**Unmute** , and you can tap on it again to unmute the device quickly.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Set Up a Custom Action
 
@@ -91,7 +112,27 @@ Follow these simple instructions to get this done:
 
 ![AssistiveTouch settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/setting-a-custom-action-for-assistivetouch-button-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![adding Mute action to Double-Tap gesture](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/setting-a-custom-action-for-assistivetouch-button-2.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close
 
@@ -107,13 +148,6 @@ Close
 2. Go to**Accessibility > Touch** , scroll down to the bottom of the page, and select**Back Tap** .
 
 ![iPhone Accessibility settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-using-back-tap-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Back Tap feature under Touch Accessibility settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-using-back-tap-2.jpg)
 
@@ -134,13 +168,6 @@ Close
 
  With certain iPhone cases, especially thicker ones, you might need to tap harder for the iPhone to register your taps and trigger the action.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Broken iPhone Ring/Silent Switch? No Problem
 
  A broken or malfunctioning Ring/Silent switch can make things inconvenient. This can be particularly problematic if you frequently switch between Ring and Silent sound profiles on your iPhone.
@@ -160,5 +187,19 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/ow-to-unlock-youtubes-enigmentic-video-cache/"><u>[New] How to Unlock YouTube’s Enigmentic Video Cache</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-peakpixel-optimizer-windows-mac-and-online/"><u>[New] In 2024, PeakPixel Optimizer Windows, Mac & Online</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-instagrams-video-chatting-compendium/"><u>[New] Instagram's Video Chatting Compendium</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-commercial-free-android-vision-capturer/"><u>[Updated] Commercial-Free Android Vision Capturer</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-orchestrating-whatsapp-updates-with-music/"><u>2024 Approved Orchestrating WhatsApp Updates with Music</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-superior-strategies-converting-visual-content-on-pinterest-to-audio/"><u>2024 Approved Superior Strategies Converting Visual Content on Pinterest To Audio</u></a></li>
+<li><a href="https://driver-install.techidaily.com/effortless-pro-6-driver-rollbacks/"><u>Effortless Pro 6 Driver Rollbacks</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-motorola-edge-40-pro-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Motorola Edge 40 Pro Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-control-center-not-responding-try-these-8-fixes-to-restore-functionality/"><u>IPhone Control Center Not Responding? Try These 8 Fixes to Restore Functionality</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-revival-secrets-how-to-restart-devices-with-malfunctioning-buttons/"><u>IPhone Revival Secrets: How to Restart Devices with Malfunctioning Buttons</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-screen-lock-difficulties-fix-your-guided-access-woes-with-these-6-tips/"><u>IPhone Screen Lock Difficulties? Fix Your Guided Access Woes with These 6 Tips</u></a></li>
+<li><a href="https://fox-that.techidaily.com/reactivating-your-locked-apple-mobile-a-comprehensive-guide/"><u>Reactivating Your Locked Apple Mobile: A Comprehensive Guide</u></a></li>
+</ul></div>
 

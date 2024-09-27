@@ -1,7 +1,7 @@
 ---
 title: Mute or Malfunction? Diagnose and Repair iPhone's Silent Stubbornness
-date: 2024-09-17T01:42:06.776Z
-updated: 2024-09-20T23:49:33.631Z
+date: 2024-09-24T00:19:57.129Z
+updated: 2024-09-26T22:00:45.665Z
 tags:
   - iphone
   - apple
@@ -45,6 +45,13 @@ Close
  Before moving on to troubleshooting software issues, there may simply be dust and dirt affecting speaker function, causing no sound to play on your iPhone. We have instructions you can follow to [clean your iPhone safely](https://www.makeuseof.com/tag/clean-iphone-guide/) .
 
 ![black iphone and airpods on wooden surface](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/iphone-airpods.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If it’s not dust and dirt, try to recall whether you accidentally dropped your iPhone in water recently. While iPhones are water-resistant, water may still get into your speakers. You can use the [Sonic](https://apps.apple.com/app/sonic/id986999895) app to eject water from the speakers if this is the case.
 
@@ -93,14 +100,14 @@ Close
 
 ![iphone control center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/iphone-control-center.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![airplay on iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/airplay-iphone.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close
 
@@ -120,10 +127,10 @@ Close
 ![iphone settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/iphone-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![sounds and haptics on iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/sounds-haptics-iphone.jpg)
@@ -131,10 +138,10 @@ Close
 ![text tone on iphone settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/text-tone-iphone-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Close
@@ -142,10 +149,10 @@ Close
  If the sound issue revolves around iPhone alerts, you can refer to our detailed guide on [how to fix alert sounds on your iPhone](https://www.makeuseof.com/how-to-fix-iphone-not-receiving-alerts/) .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Check Third-Party App Sound Settings
@@ -156,6 +163,13 @@ Close
 
 ![audio settings in sky game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/sky-game-audio.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. Exit and Relaunch the Third-Party App
 
  If you’ve already gone through all the sound settings and they’re all switched on correctly, your iPhone’s sound not working may just be an app glitch.
@@ -164,7 +178,21 @@ Close
 
 ![person holding iphone showing instagram post](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/instagram-post.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can also opt to view the video through another route. Instead of watching the video in your Instagram feed, tap into that Instagram profile and select the video from there instead.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 8\. Update iOS and Your iPhone Apps
 
@@ -179,13 +207,6 @@ Close
 ## 10\. Restore Your iPhone to a Previous Backup
 
  Another potential solution is to [restore your iPhone to a previous backup](https://www.makeuseof.com/tag/restore-iphone-ipad-from-backup/) made when the sound was still working. However, take note that you will lose any new data that was added to your device since you made that backup. Even so, that might be worth it if it means fixing the sound on your iPhone again.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 11\. Reset All Settings on Your iPhone
 
@@ -208,5 +229,24 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-where.techidaily.com/y-plus-3-0/"><u> [ Y + 3 = 0 </u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-content-calendar-for-successful-instagram-filmmaking/"><u>[New] In 2024, Content Calendar for Successful Instagram Filmmaking</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/auto-gpts-effectiveness-independent-or-not/"><u>Auto-GPT's Effectiveness: Independent or Not?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/beyond-the-saturation-point-if-vds-continues-to-increase-id-remains-relatively-constant-because-the-channel-is-pinched-off-and-acts-like-a-resistor-this-reg26/"><u>Beyond the Saturation Point, if VDS Continues to Increase, ID Remains Relatively Constant because the Channel Is Pinched Off and Acts Like a Resistor. This Region of Operation Is Called the Saturation or Active Mode.</u></a></li>
+<li><a href="https://fox-that.techidaily.com/effective-strategies-to-overcome-the-black-screen-of-death-on-iphones/"><u>Effective Strategies To Overcome the 'Black Screen of Death' On iPhones</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-exploring-the-cutting-edge-of-uhd-with-lgs-27ud68/"><u>In 2024, Exploring the Cutting-Edge of UHD with LG's 27UD68</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-unlock-apple-id-without-phone-number-on-iphone-14-pro-by-drfone-ios/"><u>In 2024, Unlock Apple ID without Phone Number On iPhone 14 Pro</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-not-sendingreceiving-texts-try-these-7-tips-first/"><u>IPhone Not Sending/Receiving Texts? Try These 7 Tips First!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-volume-control-not-responding-here-are-7-effective-fixes/"><u>IPhone Volume Control Not Responding? Here Are 7 Effective Fixes!</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/key-aspects-to-review-prior-to-investing-in-your-next-gaming-console/"><u>Key Aspects to Review Prior to Investing in Your Next Gaming Console</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolving-location-unavailable-errors-on-your-iphone-a-step-by-step-guide/"><u>Resolving 'Location Unavailable' Errors on Your iPhone: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/the-ultimate-guide-conducting-an-apple-certified-hardware-analysis-online/"><u>The Ultimate Guide: Conducting an Apple-Certified Hardware Analysis Online</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-10-solutions-for-non-responsive-widgets-on-ios-devices/"><u>Top 10 Solutions for Non-Responsive Widgets on iOS Devices</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-complete-icon-loss-across-ios-applications-solutions-at-your-fingertps/"><u>Troubleshooting Complete Icon Loss Across iOS Applications – Solutions at Your Fingertps</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unlock-the-secrets-of-high-performance-pcs-with-tompertuned-hardware-advice/"><u>Unlock the Secrets of High-Performance PCs with Tom'pertuned Hardware Advice</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-nokia-c12-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Nokia C12 Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windowsimgiso/"><u>Windows環境でIMGファイルをISO形式に変換する手順</u></a></li>
+</ul></div>
 

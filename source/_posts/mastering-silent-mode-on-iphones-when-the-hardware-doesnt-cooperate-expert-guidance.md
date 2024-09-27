@@ -1,7 +1,7 @@
 ---
 title: "Mastering Silent Mode on iPhones When the Hardware Doesn’t Cooperate: Expert Guidance"
-date: 2024-09-15T01:15:22.016Z
-updated: 2024-09-20T23:50:06.976Z
+date: 2024-09-25T18:56:10.745Z
+updated: 2024-09-27T00:46:42.146Z
 tags:
   - iphone
   - apple
@@ -80,6 +80,13 @@ Close
 
  All you need to do now is tap the AssistiveTouch button and hit**Mute** . When you do this, the**Mute** button will change to**Unmute** , and you can tap on it again to unmute the device quickly.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Set Up a Custom Action
 
  AssistiveTouch also supports executing custom actions using gestures. It has three customizable gestures:**Single-Tap** ,**Double-Tap** , and**Long Press** , and you can assign a wide range of actions to these gestures, including the mute action. By default, the Single-Tap gesture is set to the**Open Menu** action, so you'll need to assign the Mute action to either Double-Tap or Long Press gestures.
@@ -91,11 +98,31 @@ Follow these simple instructions to get this done:
 
 ![AssistiveTouch settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/setting-a-custom-action-for-assistivetouch-button-1.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![adding Mute action to Double-Tap gesture](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/setting-a-custom-action-for-assistivetouch-button-2.jpg)
 
 Close
 
  Once set up, muting and unmuting your iPhone should be even easier. Simply perform the gesture to which you've assigned the Mute action, and it'll mute the device. Repeat it again to unmute.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Mute or Unmute iPhone Using Back Tap
 
@@ -110,6 +137,19 @@ Close
 
 ![Back Tap feature under Touch Accessibility settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-using-back-tap-2.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Close
 
  Once you're in the Back Tap accessibility menu, you can choose a couple of options:
@@ -119,27 +159,20 @@ Close
 
 ![Back Tap gesture options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-using-back-tap-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![setting Mute action to a Back Tap gesture](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-using-back-tap-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close
 
  Now, whenever you want to mute your iPhone, simply perform the double-tap or triple-tap gesture on the back of your iPhone. To unmute it, perform the same gesture again.
 
  With certain iPhone cases, especially thicker ones, you might need to tap harder for the iPhone to register your taps and trigger the action.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Broken iPhone Ring/Silent Switch? No Problem
 
@@ -160,5 +193,20 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-how-to-initiate-a-collaborative-skype-group-discussion/"><u>[New] 2024 Approved How to Initiate a Collaborative Skype Group Discussion</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-detailed-guide-securely-recording-on-vimeo/"><u>[New] Detailed Guide Securely Recording on Vimeo</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-fade-perfection-quick-tips-and-tricks/"><u>[Updated] In 2024, Fade Perfection Quick Tips and Tricks</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-the-ultimate-ranking-top-9-puzzle-games-for-offline-play/"><u>2024 Approved The Ultimate Ranking Top 9 Puzzle Games for Offline Play</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/2024-vob-6/"><u>2024 유기적인 VOB 파일 재생 방법에 대한 우아한 6개의 권장: 비주얼 보조 자료</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/choosing-your-mobile-companion-iphone-or-android/"><u>Choosing Your Mobile Companion: IPhone or Android?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/conquer-your-iphone-12s-worst-glitches-a-step-by-step-guide-for-each-major-issue-12/"><u>Conquer Your iPhone 12'S Worst Glitches - A Step-by-Step Guide for Each Major Issue #12</u></a></li>
+<li><a href="https://fox-that.techidaily.com/demystifying-iphones-dfu-mode-and-step-by-step-usage-instructions/"><u>Demystifying iPhone's DFU Mode and Step-by-Step Usage Instructions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/diagnosing-and-repairing-a-lone-misbehaving-airpod-a-complete-guide/"><u>Diagnosing and Repairing a Lone Misbehaving AirPod - A Complete Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/guide-to-resolving-unsupported-connector-problems-on-an-iphone/"><u>Guide to Resolving Unsupported Connector Problems on an iPhone</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/overcoming-the-msvcr110dll-error-in-helldivers-2-expert-tips-for-a-smooth-gameplay/"><u>Overcoming the MSVCR110.dll Error in Helldivers 2: Expert Tips for a Smooth Gameplay</u></a></li>
+<li><a href="https://fox-that.techidaily.com/precise-people-identification-tips-to-rectify-mistakes-in-apples-photo-organization-tool/"><u>Precise People Identification Tips to Rectify Mistakes in Apple's Photo Organization Tool</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/vectors-decoded-for-newbies-diverse-forms-and-tool-options-for-2024/"><u>Vectors Decoded for Newbies Diverse Forms and Tool Options for 2024</u></a></li>
+</ul></div>
 

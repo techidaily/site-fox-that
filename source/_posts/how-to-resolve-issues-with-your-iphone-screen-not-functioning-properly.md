@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Issues with Your iPhone Screen Not Functioning Properly
-date: 2024-09-17T19:49:56.318Z
-updated: 2024-09-20T22:57:49.268Z
+date: 2024-09-24T22:40:57.181Z
+updated: 2024-09-26T23:26:32.511Z
 tags:
   - iphone
   - apple
@@ -34,6 +34,19 @@ thumbnail: https://thmb.techidaily.com/07aa9db678660a97880964bc167fdc56576717cff
  Related:[Is Your iPhone Home Button Not Working? Quick Fixes to Try](https://www.makeuseof.com/tag/iphone-home-button-working-fix/)
 
  If your iPhone was exposed to salt water before it stopped working, then that was most likely the cause of the damage. Salt water is corrosive and, while your phone might have been fine right away, the damage could continue to progress for weeks after exposure.
+
+<!-- affiliate ads begin -->
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Is Your Touchscreen Broken or Your LCD Screen?
 
@@ -68,10 +81,10 @@ If your screen is working, but not correctly, this could be the cause.
 ![iphone erase content](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/iphone-erase-content.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you can’t navigate here, you’ll need to plug your iPhone into a computer to perform a factory reset. After resetting, in rare cases, your touchscreen will work again.
@@ -79,13 +92,6 @@ If your screen is working, but not correctly, this could be the cause.
  Related:[How to Factory Reset Your iPhone or iPad](https://www.makeuseof.com/tag/how-to-factory-reset-iphone-ipad/)
 
  If you do choose to get your iPhone repaired, you’ll most likely need to do this anyway. This ensures that the technician won’t be able to access your personal data. They may also need to test Face ID to make sure the repair worked and will need the phone to be unlocked to do so, which means you’re better off erasing all your data first.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Getting Your iPhone Screen Repaired
 
@@ -103,6 +109,13 @@ If your screen is working, but not correctly, this could be the cause.
 
  Related:[Learn to Fix Your Own Gadgets With Help From These Sites](https://www.makeuseof.com/tag/fix-gadgets-help-websites/)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Using Your iPhone Without a Touchscreen
 
  If your iPhone isn’t working but you need to access certain files, you can still do that. To do so, you’ll need to activate Voice Control. This can be helpful for backing up and restoring your iPhone.
@@ -110,6 +123,13 @@ If your screen is working, but not correctly, this could be the cause.
  To do this, your phone screen will need to at least partially work. If so, try to make your way to**Settings** \>**Accessibility** \>**Voice Control** and turn that on.
 
 ![iphone voice control](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/iphone-voice-control.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If Siri’s enabled, you can enable Voice Control by saying “Hey Siri, turn on Voice Control.” Once enabled, you can access your iPhone without using the touchscreen.
 
@@ -136,5 +156,18 @@ If your screen is working, but not correctly, this could be the cause.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/new-master-facebook-seo-essential-techniques-to-skyrocket-engagement/"><u>[New] Master Facebook SEO Essential Techniques to Skyrocket Engagement</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-quick-tips-for-high-quality-audio-recordings-on-your-imac/"><u>2024 Approved Quick Tips for High-Quality Audio Recordings on Your iMac</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/all-about-apple-iphone-xs-unlock-chip-you-need-to-know-by-drfone-ios/"><u>All About Apple iPhone XS Unlock Chip You Need to Know</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-on-your-apple-iphone-8-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code On your Apple iPhone 8</u></a></li>
+<li><a href="https://fox-that.techidaily.com/facetime-stuck-here-are-15-possible-repairs-for-a-smoother-call-experience/"><u>FaceTime Stuck? Here Are 15 Possible Repairs for a Smoother Call Experience</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-resolve-itunes-and-finder-issues-with-non-recognized-iphones-easy-troubleshooting-tips/"><u>How to Resolve iTunes and Finder Issues with Non-Recognized iPhones - Easy Troubleshooting Tips</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-infinix-hot-40-pro-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Infinix Hot 40 Pro</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-troubleshooting-guide-how-to-get-past-the-apple-icon-glitch-with-7-easy-fixes/"><u>IPhone Troubleshooting Guide: How to Get Past the Apple Icon Glitch with 7 Easy Fixes!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/tame-your-gadgets-how-to-ensure-your-ipad-stays-silent-when-your-iphone-rings/"><u>Tame Your Gadgets: How to Ensure Your iPad Stays Silent When Your iPhone Rings</u></a></li>
+<li><a href="https://some-skills.techidaily.com/tips-and-tricks-erasing-unwanted-backdrops-for-2024/"><u>Tips and Tricks Erasing Unwanted Backdrops for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-6-solutions-when-apple-rejects-your-card-avoidance-tactics/"><u>Top 6 Solutions When Apple Rejects Your Card: Avoidance Tactics</u></a></li>
+</ul></div>
 

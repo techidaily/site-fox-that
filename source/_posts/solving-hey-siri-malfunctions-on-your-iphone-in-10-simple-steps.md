@@ -1,7 +1,7 @@
 ---
 title: Solving ‘Hey Siri’ Malfunctions on Your iPhone in 10 Simple Steps
-date: 2024-09-14T01:27:08.366Z
-updated: 2024-09-20T16:21:57.789Z
+date: 2024-09-24T18:55:02.820Z
+updated: 2024-09-26T17:47:52.591Z
 tags:
   - iphone
   - apple
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/75afd5a2790c3528915ac28a66faf57312a6eb60a
 
  So, if you're sure you have a compatible iPhone and "Hey Siri" still isn't working, the tips below should be able to fix it.
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Make Sure "Hey Siri" Is Set Up Correctly
 
  Before moving forward, take a moment to ensure you have turned on the "Hey Siri" feature. Here's how to do that:
@@ -52,13 +59,6 @@ Close
 
  If you want to use Siri when your iPhone is facing down or covered, go to**Settings > Accessibility > Siri** and enable the**Always Listen for "Hey Siri"** option.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Enable Bluetooth if You Have Multiple "Hey Siri" Devices
 
  Do you have multiple devices nearby that work with "Hey Siri," like another iPhone, iPad, Mac, Apple Watch, or HomePod? If yes, make sure Bluetooth is enabled on these devices.
@@ -73,7 +73,21 @@ Close
 
 ![siri & search settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/img_6967.JPEG)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![siri responses settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/img_6968.JPEG)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close
 
@@ -81,20 +95,27 @@ Close
 
  When "Hey Siri" isn't working correctly, this can be due to a temporary glitch. The easiest way to fix this is by turning off your iPhone and turning it back on after a minute. You can [restart your iPhone even if its buttons are broken](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) .
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Remove the Case if It Blocks the Microphones
 
  Are you using a case that might block your iPhone's microphones? Take a minute to check this. If you find that the microphone slots at the bottom of the device, next to the camera, or inside the top earpiece are blocked by the case, you should remove the case.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. Clean Your iPhone's Microphone Grills
 
  Carefully use a soft cloth to remove the dirt and other gunk from the microphone grills. Don't use any metal object like a needle or wire as these may cause serious damage.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 8\. Disconnect AirPods or Beats Earbuds While Not Using Them
 
@@ -124,41 +145,42 @@ Close
 
 ![iPhone Settings showing Siri & Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/11/iphone-settings-showing-siri-and-search.PNG)
 
-![siri & search settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/img_6967.JPEG)
-
 <!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![siri & search settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/img_6967.JPEG)
 
 ![List of Siri languages on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/11/list-of-siri-languages.PNG)
 
 Close
 
 <!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 10\. Turn Off Low Power Mode
 
  "Hey Siri" works even when your iPhone is in [Low Power Mode](http://www.makeuseof.com/iphone-low-power-mode/) . But at times, due to extremely low battery or bugs, Low Power Mode may cause other problems. To fix this, go to**Settings > Battery** and turn off**Low Power Mode** . Hopefully, this will mean "Hey Siri" starts working again.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 11\. Disable and Re-Enable Siri
 
@@ -175,13 +197,6 @@ Close
 ![siri & search settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/img_6967.JPEG)
 
 !["Hey Siri" successful setup screen on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/11/hey-siri-successful-setup-screen.PNG)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Close
 
@@ -248,5 +263,26 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-top-8-proven-techniques-to-amplify-content/"><u>[New] 2024 Approved Top 8 Proven Techniques to Amplify Content</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-crafting-instagram-reels-like-professionals-top-10-tools/"><u>[New] In 2024, Crafting Instagram Reels Like Professionals - Top 10 Tools</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-streamline-vlogging-titles-top-11-affordable-generators/"><u>[New] Streamline Vlogging Titles - Top 11 Affordable Generators</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-the-8-best-no-cost-editing-software-for-social-media/"><u>[Updated] The 8 Best No-Cost Editing Software for Social Media</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-from-archive-to-annotation-turning-zip-into-srt/"><u>2024 Approved From Archive to Annotation Turning ZIP Into SRT</u></a></li>
+<li><a href="https://fox-that.techidaily.com/4-ways-to-fix-grayed-out-icloud-settings-on-your-iphone-or-ipad/"><u>4 Ways to Fix Grayed Out iCloud Settings on Your iPhone or iPad</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/best-animation-studios-for-pc-and-mac-top-picks-for-pros-for-2024/"><u>Best Animation Studios for PC and Mac Top Picks for Pros for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721480152043-cant-adjust-auto-brightness-on-iphone-discover-these-7-quick-solutions/"><u>Can't Adjust Auto-Brightness on iPhone? Discover These 7 Quick Solutions!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-review-of-the-petsafe-automatic-pet-feeder-ideal-for-weight-management/"><u>Comprehensive Review of the PetSafe Automatic Pet Feeder – Ideal for Weight Management</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/exploring-the-benefits-and-drawbacks-of-dvd-media-an-in-depth-analysis/"><u>Exploring the Benefits & Drawbacks of DVD Media - An In-Depth Analysis</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-verizon-iphone-13-by-drfone-ios/"><u>How to Unlock Verizon iPhone 13</u></a></li>
+<li><a href="https://fox-that.techidaily.com/mastering-bluetooth-pairing-and-use-on-your-ios-device/"><u>Mastering Bluetooth Pairing and Use on Your iOS Device</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastering-the-art-of-making-popular-tiktok-sounds-your-ringtone-for-2024/"><u>Mastering the Art of Making Popular TikTok Sounds Your Ringtone for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-iphone-dictation-issues-a-comprehensive-guide-with-five-key-fixes/"><u>Overcoming iPhone Dictation Issues: A Comprehensive Guide with Five Key Fixes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/revive-ringing-discover-these-11-fixes-when-incoming-calls-arent-audible-on-your-iphone/"><u>Revive Ringing: Discover These 11 Fixes When Incoming Calls Aren't Audible on Your iPhone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solutions-for-fixing-a-non-responsive-iphone-proximity-detector/"><u>Solutions for Fixing a Non-Responsive iPhone Proximity Detector</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-full-page-captures-solutions-when-safari-screenshots-fail/"><u>Troubleshooting Full Page Captures: Solutions When Safari Screenshots Fail</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-icloud-a-step-by-step-guide-to-fixing-sync-problems/"><u>Troubleshooting iCloud: A Step-by-Step Guide to Fixing Sync Problems</u></a></li>
+<li><a href="https://fox-that.techidaily.com/whatsapp-zoom-bug-fixes-capturing-clearer-photos-and-videos/"><u>WhatsApp Zoom Bug Fixes: Capturing Clearer Photos and Videos</u></a></li>
+</ul></div>
 

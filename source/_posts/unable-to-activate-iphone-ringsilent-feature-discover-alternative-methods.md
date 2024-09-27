@@ -1,7 +1,7 @@
 ---
 title: Unable to Activate iPhone Ring/Silent Feature? Discover Alternative Methods
-date: 2024-09-17T19:18:07.201Z
-updated: 2024-09-20T17:35:44.128Z
+date: 2024-09-24T19:34:26.640Z
+updated: 2024-09-26T17:47:49.060Z
 tags:
   - iphone
   - apple
@@ -80,6 +80,13 @@ Close
 
  All you need to do now is tap the AssistiveTouch button and hit**Mute** . When you do this, the**Mute** button will change to**Unmute** , and you can tap on it again to unmute the device quickly.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Set Up a Custom Action
 
  AssistiveTouch also supports executing custom actions using gestures. It has three customizable gestures:**Single-Tap** ,**Double-Tap** , and**Long Press** , and you can assign a wide range of actions to these gestures, including the mute action. By default, the Single-Tap gesture is set to the**Open Menu** action, so you'll need to assign the Mute action to either Double-Tap or Long Press gestures.
@@ -108,14 +115,14 @@ Close
 
 ![iPhone Accessibility settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-using-back-tap-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Back Tap feature under Touch Accessibility settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-using-back-tap-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close
 
@@ -127,19 +134,33 @@ Close
 ![Back Tap gesture options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-using-back-tap-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![setting Mute action to a Back Tap gesture](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-using-back-tap-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close
 
  Now, whenever you want to mute your iPhone, simply perform the double-tap or triple-tap gesture on the back of your iPhone. To unmute it, perform the same gesture again.
 
  With certain iPhone cases, especially thicker ones, you might need to tap harder for the iPhone to register your taps and trigger the action.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Broken iPhone Ring/Silent Switch? No Problem
 
@@ -160,5 +181,26 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-earnings-expedition-navigating-your-way-to-wealth-with-youtube-mobile-content-for-2024/"><u>[New] Earnings Expedition Navigating Your Way to Wealth with YouTube Mobile Content for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-how-to-watch-vr-video-on-iphone-ios/"><u>[New] In 2024, How to Watch VR Video on Iphone (Ios)</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2023s-leading-applications-for-downloading-facebook-lite-videos/"><u>[Updated] 2023'S Leading Applications for Downloading Facebook Lite Videos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-mastering-vita-video-edit-a-detailed-2024-guide-and-review/"><u>[Updated] Mastering Vita Video Edit A Detailed 2024 Guide & Review</u></a></li>
+<li><a href="https://ai-video.techidaily.com/2024-approved-how-to-translate-videos-in-tamil-for-a-wider-reach/"><u>2024 Approved How To Translate Videos in Tamil for a Wider Reach</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/2024-approved-your-complete-breakdown-of-youtube-short-content/"><u>2024 Approved Your Complete Breakdown of YouTube Short Content</u></a></li>
+<li><a href="https://fox-that.techidaily.com/correctly-identifying-individuals-a-guide-to-managing-tag-mistakes-in-apple-photos/"><u>Correctly Identifying Individuals: A Guide to Managing Tag Mistakes in Apple Photos</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-whatsapp-cloud-issues-a-guide-to-enable-icloud-integration-for-complete-chat-backup/"><u>Fixing WhatsApp Cloud Issues: A Guide to Enable iCloud Integration for Complete Chat Backup</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-motorola-defy-2-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Motorola Defy 2 Phone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/is-there-constant-movement-to-the-sounds-you-hear-on-airpods-stop-it-by-switching-off-dynamic-positioning-systems/"><u>Is There Constant Movement to the Sounds You Hear on AirPods? Stop It by Switching Off Dynamic Positioning Systems</u></a></li>
+<li><a href="https://fox-that.techidaily.com/siri-malfunction-heres-how-to-resolve-the-top-7-issues-on-iphoneipad/"><u>Siri Malfunction? Here's How to Resolve the Top 7 Issues on iPhone/iPad</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-the-top-5-common-iphone-issues-with-dfu-mode-techniques/"><u>Solving the Top 5 Common iPhone Issues with DFU Mode Techniques</u></a></li>
+<li><a href="https://fox-that.techidaily.com/struggling-with-delayed-messaging-on-your-iphone-try-these-9-quick-fixes/"><u>Struggling with Delayed Messaging on Your iPhone? Try These 9 Quick Fixes</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-definitive-guide-to-choosing-an-exceptional-home-use-xtool-s1-diode-laser-cutting-device/"><u>The Definitive Guide to Choosing an Exceptional Home-Use XTool S1 Diode Laser Cutting Device</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-siri-suggestion-issues-a-guide-to-restoring-pop-ups-on-your-iphone/"><u>Troubleshooting Siri Suggestion Issues: A Guide to Restoring Pop-Ups on Your iPhone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unified-photo-album-creation-for-identical-portraits-on-iphones-and-macbooks/"><u>Unified Photo Album Creation for Identical Portraits on iPhones and MacBooks</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/video-editing-on-a-mac-the-top-picks-for-for-2024/"><u>Video Editing on a Mac The Top Picks For for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/video-excellence-redefined-smartphones-that-deliver-with-premium-stabilization/"><u>Video Excellence Redefined Smartphones That Deliver With Premium Stabilization</u></a></li>
+<li><a href="https://fox-that.techidaily.com/why-did-my-imessage-turn-into-a-text-message-could-it-mean-im-blocked/"><u>Why Did My iMessage Turn Into a Text Message? Could It Mean I'm Blocked?</u></a></li>
+</ul></div>
 

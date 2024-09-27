@@ -1,7 +1,7 @@
 ---
 title: "How to Fix Your iOS Device's Unresponsive Keyboard: 6 Effective Tips"
-date: 2024-09-17T19:17:08.868Z
-updated: 2024-09-20T19:07:34.958Z
+date: 2024-09-24T00:34:31.340Z
+updated: 2024-09-27T01:30:46.095Z
 tags:
   - iphone
   - apple
@@ -36,7 +36,21 @@ thumbnail: https://thmb.techidaily.com/8c3061c39eb85dd875af824e1d1149fd13be54628
 
 ![spendee app add a transaction menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/spendee-app.PNG)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![spendee app with cursor in notes field](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/spendee-app-with-cursor-in-notes-field.jpeg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close
 
@@ -51,6 +65,13 @@ Close
 ![keyboard language list on iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/keyboard-language-list-on-iphone.PNG)
 
 Close
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. iPhone or iPad Keyboard Typing the Wrong Letters and Words
 
@@ -74,11 +95,25 @@ Close
 
 ![expanded iphone keyboards setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/expanded-iphone-keyboards-setting.PNG)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![iphone text replacement setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/iphone-text-replacement-setting.PNG)
 
 ![removal of preset text in iphone text replacement setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/removal-of-preset-text-in-iphone-text-replacement-setting.PNG)
 
 Close
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. iPhone or iPad Keyboard Is Lagging
 
@@ -98,19 +133,6 @@ Close
 
 Close
 
-<!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Review Your Touch Accommodations Settings in Accessibility
 
  If you're using a pre-owned iPhone or iPad, the previous owner might have changed some accessibility settings that affect how sensitive the screen (including the on-screen keyboard) is to touch. Therefore, these settings may cause a delay between typing on the keyboard and the text actually appearing on the screen.
@@ -125,6 +147,13 @@ Close
 
 Close
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. No Sound or Vibration When Typing on the Keyboard
 
  By default, when you type on your iPhone or iPad keyboard, there should be a soft tapping sound. However, you can customize it to include haptic feedback for each key press in the Settings app. And if you don't hear a sound while typing, you can check if it's enabled here.
@@ -132,13 +161,6 @@ Close
  Go to**Settings > Sounds & Haptics > Keyboard Feedback** and toggle on**Sound** and**Haptic** , depending on what you'd like.
 
 ![iphone settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/iphone-settings-app-1.PNG)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![iphone sounds and haptics settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/iphone-sounds-and-haptics-settings.PNG)
 
@@ -150,27 +172,20 @@ Close
 
 ![iphone accessibility setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/iphone-accessibility-setting.PNG)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![iphone touch accessibility setting with vibration toggled on](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/iphone-touch-accessibility-setting-with-vibration-toggled-on.PNG)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Close
 
 ## 5\. Physical Keyboard Not Working With Your iPad
 
  All the fixes above focus on your iPhone or iPad's on-screen keyboard. However, given the larger screen on iPads, people often connect a physical keyboard to use it as a laptop substitute. Here's what you can do if the physical keyboard isn't working.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Check the Keyboard Compatibility With Your iPad Model
 
@@ -184,6 +199,13 @@ Close
 
  However, if you're using a third-party keyboard that's connected to your iPad via Bluetooth, toggle off Bluetooth on your iPad, wait for a few moments, then toggle it on and connect your keyboard again.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. General Fixes When Your iPhone or iPad Keyboard Doesn't Work
 
  If your iPhone or iPad keyboard is still not working after going through the above troubleshooting methods, you can try a few generic solutions. First,[restart your iPhone](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) or iPad by turning it off and on again. However, if the on-screen keyboard is frozen, you may need to [force restart your iPhone](https://www.makeuseof.com/iphone-soft-reset/) or iPad instead.
@@ -191,13 +213,6 @@ Close
  Secondly, go to**Settings > General > Software Update** to check if a newer version of iOS or iPadOS is available for your device. Apple frequently rolls out updates that include bug fixes and performance improvements, which may help solve keyboard problems if it hasn't been working right.
 
 ![iphone general settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/iphone-general-settings-2.JPEG)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![iPhone General settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/iphone-general-settings.JPEG)
 
@@ -222,5 +237,26 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/updated-frozen-pleasure-recording-review-deep-dive-for-2024/"><u>[Updated] Frozen Pleasure Recording Review Deep Dive for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-memes-mastermind/"><u>[Updated] Memes Mastermind</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-discovering-androids-and-ioss-best-rated-wedding-clock-apps/"><u>2024 Approved Discovering Android's and iOS's Best-Rated Wedding Clock Apps</u></a></li>
+<li><a href="https://fox-that.techidaily.com/5-key-strategies-to-restore-iphones-dictation-feature/"><u>5 Key Strategies to Restore iPhone's Dictation Feature</u></a></li>
+<li><a href="https://fox-that.techidaily.com/bypass-the-hurdle-a-step-by-step-guide-when-your-iphone-wont-show-up-in-itunesfinder/"><u>Bypass the Hurdle: A Step-by-Step Guide When Your iPhone Won't Show Up in iTunes/Finder</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/deep-dive-into-netgears-powerline-speed-champion-pl1200-aesthetic-vs-performance-analysis/"><u>Deep Dive Into Netgear's Powerline Speed Champion (PL1200) - Aesthetic vs Performance Analysis</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expert-analysis-of-the-samsung-galaxy-s21-a-step-back-in-design/"><u>Expert Analysis of the Samsung Galaxy S21: A Step Back in Design?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-resolve-instagram-slowdowns-top-6-fixes-for-android-and-ios/"><u>How to Resolve Instagram Slowdowns: Top 6 Fixes for Android & iOS</u></a></li>
+<li><a href="https://fox-that.techidaily.com/mastering-apple-remote-diagnostics-a-users-guide-to-iphone-hardware-assessment/"><u>Mastering Apple Remote Diagnostics: A User’s Guide to iPhone Hardware Assessment</u></a></li>
+<li><a href="https://fox-that.techidaily.com/missing-iphone-app-steps-to-recover-deleted-or-hidden-apps-on-your-device/"><u>Missing iPhone App: Steps to Recover Deleted or Hidden Apps on Your Device</u></a></li>
+<li><a href="https://fox-that.techidaily.com/navigating-through-common-icloud-challenges-tips-for-iphoneipad-users/"><u>Navigating Through Common iCloud Challenges: Tips for iPhone/iPad Users</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-troubleshoot-avidemux-no-sound-error-causes-and-solutions-for-2024/"><u>New Troubleshoot Avidemux No Sound Error Causes and Solutions for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-solutions-for-the-ac1st16dll-could-not-be-located-error/"><u>Step-by-Step Solutions for the ac1st16.dll Could Not Be Located Error</u></a></li>
+<li><a href="https://facebook.techidaily.com/top-trending-vids-your-new-favorite-fb-videos/"><u>Top Trending Vids: Your New Favorite FB Videos</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-tips-for-when-your-device-displays-numbers-in-place-of-contact-names-on-messages/"><u>Troubleshooting Tips for When Your Device Displays Numbers in Place of Contact Names on Messages</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-why-arent-some-contacts-displayed-on-your-iphone/"><u>Troubleshooting: Why Aren't Some Contacts Displayed on Your iPhone?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlocking-your-aol-mail-on-iphone-again-the-ultimate-guide-with-six-fixes/"><u>Unlocking Your AOL Mail on iPhone Again: The Ultimate Guide with Six Fixes</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-mechanism-behind-cross-audio-blending-for-2024/"><u>Unveiling the Mechanism Behind Cross-Audio Blending for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-windows-ways-for-swift-epic-game-loading/"><u>Unveiling Windows Ways for Swift Epic Game Loading</u></a></li>
+</ul></div>
 

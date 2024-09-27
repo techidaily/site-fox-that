@@ -1,7 +1,7 @@
 ---
 title: "Deactivating Apple's Do Not Disturb: A Guide to Getting Calls/Texts Back"
-date: 2024-09-14T19:50:12.408Z
-updated: 2024-09-20T22:25:24.367Z
+date: 2024-09-22T18:07:09.189Z
+updated: 2024-09-26T20:55:56.964Z
 tags:
   - iphone
   - apple
@@ -45,6 +45,13 @@ thumbnail: https://thmb.techidaily.com/5397c89a05d7c549e3c941ac0bcf9ef244a3e9feb
 
 ![do not disturb settings on iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/do-not-disturb-settings.JPEG)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![allowed apps on do not disturb mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/dnd-allowed-apps.JPEG)
 
 Close
@@ -57,14 +64,14 @@ Close
 
 ![disable time sensitive notifications for iphone do not disturb mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/3-3.jpg)
 
- Alternatively, you can tap**Turn Off** for a specific app if you see its notifications pop up on your Lock Screen.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Alternatively, you can tap**Turn Off** for a specific app if you see its notifications pop up on your Lock Screen.
 
 ## 4\. Change Settings for Incoming Calls
 
@@ -74,38 +81,24 @@ Close
 
 ![do not disturb settings on iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/do-not-disturb-settings.JPEG)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![call settings for do not disturb mode on iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/dnd-favorite-calls.JPEG)
-
-<!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![change calls allowed on iphone do not disturb mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/dnd-allowed-calls.JPEG)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Close
+
+<!-- affiliate ads begin -->
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Don't Allow Repeated Calls
 
@@ -114,6 +107,13 @@ Close
  But if there are people who call you mindlessly the moment you don't pick up, and this feature ends up giving you more problems than convenience, you can choose to disable it. As outlined in the previous solution, go to the**People** settings in**Do Not Disturb** . Then, toggle off**Allow Repeated Calls** .
 
 ![turn off allow repeated calls for iphone do not disturb mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/2-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Turn Off or Hide Your Focus Status
 
@@ -133,11 +133,25 @@ Close
 
 ![schedule for iphone do not disturb mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/dnd-schedule.JPEG)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![automate schedule for iphone do not disturb mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/dnd-schedule-2.JPEG)
 
 ![set time for iphone do not disturb mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/dnd-change-schedule.JPEG)
 
 Close
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 8\. Restart Your iPhone and Update iOS
 
@@ -146,10 +160,10 @@ Close
  And if you haven't,[update your iPhone to the latest iOS version](https://www.makeuseof.com/tag/update-iphone-ios-apps-data/) as well. Apple's software updates often come with bug fixes and patches for performance-related issues.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## No More Disruptions on Do Not Disturb Mode
@@ -173,5 +187,21 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-boost-your-fb-ads-strategy-get-free-video-making-kit/"><u>[Updated] 2024 Approved Boost Your FB Ads Strategy Get Free Video-Making Kit</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-best-websites-to-download-a-youtube-ringtone/"><u>[Updated] Best Websites To Download A YouTube Ringtone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-detailed-insights-into-youtubes-monthly-income-model/"><u>[Updated] Detailed Insights Into YouTube's Monthly Income Model</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-xiaomi-redmi-12-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Xiaomi Redmi 12 Activity | Dr.fone</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/2021-ultimate-shopping-strategy-zdnets-expert-tips-for-black-friday-and-cyber-monday-deals/"><u>2021 Ultimate Shopping Strategy: ZDNet's Expert Tips for Black Friday & Cyber Monday Deals</u></a></li>
+<li><a href="https://fox-that.techidaily.com/expert-tips-and-tricks-overcome-safari-malfunctions-in-ios-with-these-1lete-strategies/"><u>Expert Tips and Tricks - Overcome Safari Malfunctions in iOS with These 1Lete Strategies</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-overcome-the-directx-12-graphic-setup-problem-in-gta-v-a-step-by-step-guide/"><u>How to Overcome the DirectX 12 Graphic Setup Problem in GTA V: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/icloud-photo-synchronization-breakdown-uncover-the-best-7-solutions-to-resolve-issues-on-iphone-devices/"><u>ICloud Photo Synchronization Breakdown: Uncover the Best 7 Solutions to Resolve Issues on iPhone Devices</u></a></li>
+<li><a href="https://app-tips.techidaily.com/laugh-out-loud-portraits-top-12-witty-face-photo-effects-for-both-android-and-iphone/"><u>Laugh Out Loud Portraits: Top 12 Witty Face Photo Effects for Both Android & iPhone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolve-icloud-sync-issues-on-your-iphone-with-these-7-techniques/"><u>Resolve iCloud Sync Issues on Your iPhone with These 7 Techniques</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/steady-your-screen-fix-flicker-in-windows-7/"><u>Steady Your Screen: Fix Flicker in Windows 7</u></a></li>
+<li><a href="https://fox-that.techidaily.com/steps-to-conduct-an-online-iphone-check-up-with-apple-services/"><u>Steps to Conduct an Online iPhone Check-Up with Apple Services</u></a></li>
+<li><a href="https://fox-that.techidaily.com/understanding-and-resolving-excessive-heat-in-your-iphoneipad/"><u>Understanding & Resolving Excessive Heat in Your iPhone/iPad</u></a></li>
+<li><a href="https://fox-that.techidaily.com/what-it-means-when-your-text-goes-through-as-an-sms-instead-of-imessage/"><u>What It Means When Your Text Goes Through as an SMS Instead of iMessage</u></a></li>
+</ul></div>
 

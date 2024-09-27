@@ -1,7 +1,7 @@
 ---
 title: Dealing with a Broken Silent Switch? Discover Alternative Ways to Control Your iPhone's Muting Settings
-date: 2024-09-16T01:10:37.163Z
-updated: 2024-09-20T23:42:39.349Z
+date: 2024-09-19T17:12:06.013Z
+updated: 2024-09-26T18:38:21.598Z
 tags:
   - iphone
   - apple
@@ -54,6 +54,13 @@ Close
 
  So, a better approach would be to customize AssistiveTouch's top-level menu and add the**Mute** option on the main screen. Or, to set up a custom action for AssistiveTouch to mute or unmute the device directly.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Customize the Top Level Menu
 
  AssistiveTouch features six buttons in its Top Level menu by default. However, you can customize the menu to add or remove buttons according to your requirements.
@@ -68,9 +75,23 @@ Close
 
 ![AssistiveTouch settings on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customizing-assistivetouch-top-level-menu-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![customizing AssistiveTouch's top-level menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customizing-assistivetouch-top-level-menu-2.jpg)
 
 ![adding a new button to the AssistiveTouch menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customizing-assistivetouch-top-level-menu-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![selecting Mute action for the new AssistiveTouch button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customizing-assistivetouch-top-level-menu-4.jpg)
 
@@ -79,6 +100,13 @@ Close
 Close
 
  All you need to do now is tap the AssistiveTouch button and hit**Mute** . When you do this, the**Mute** button will change to**Unmute** , and you can tap on it again to unmute the device quickly.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Set Up a Custom Action
 
@@ -120,10 +148,10 @@ Close
 ![Back Tap gesture options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-using-back-tap-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![setting Mute action to a Back Tap gesture](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-using-back-tap-4.jpg)
@@ -133,13 +161,6 @@ Close
  Now, whenever you want to mute your iPhone, simply perform the double-tap or triple-tap gesture on the back of your iPhone. To unmute it, perform the same gesture again.
 
  With certain iPhone cases, especially thicker ones, you might need to tap harder for the iPhone to register your taps and trigger the action.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Broken iPhone Ring/Silent Switch? No Problem
 
@@ -160,5 +181,19 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-horizon-to-heavens-photo-taking-on-mobile/"><u>[New] Horizon to Heavens Photo-Taking on Mobile</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-in-depth-exploration-of-theta-s-capabilities/"><u>[New] In-Depth Exploration of Theta S Capabilities</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/beyond-beliefs-unveiling-myth-vs-reality-in-bot-conversations/"><u>Beyond Beliefs: Unveiling Myth Vs. Reality in Bot Conversations</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-location-not-available-problem-in-ios-essential-tips-for-iphone-owners/"><u>Fixing 'Location Not Available' Problem in iOS - Essential Tips for iPhone Owners</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-motorola-edge-2023mirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Motorola Edge 2023Mirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-resolve-issues-with-an-unresponsive-tablet-display-8-practical-fixes/"><u>How to Resolve Issues with an Unresponsive Tablet Display: 8 Practical Fixes</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-itel-a60-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Itel A60 to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-oppo-a78-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Oppo A78 | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-imessage-woes-discover-how-to-ensure-message-delivery-success/"><u>IPhone iMessage Woes? Discover How to Ensure Message Delivery Success!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721472008243-iphones-wireless-charger-malfunctioning-here-are-7-effective-fixes/"><u>IPhone's Wireless Charger Malfunctioning? Here Are 7 Effective Fixes!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341713193-revolutionary-keychron-q1-he-released-experience-the-ultimate-in-wireless-keyboards/"><u>Revolutionary Keychron Q1 HE Released: Experience the Ultimate in Wireless Keyboards!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/track-down-a-vanished-iphone-effective-use-of-apples-find-my-feature/"><u>Track Down a Vanished iPhone: Effective Use of Apple's Find My Feature</u></a></li>
+</ul></div>
 

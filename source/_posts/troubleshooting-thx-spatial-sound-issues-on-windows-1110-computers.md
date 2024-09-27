@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting THX Spatial Sound Issues on Windows 11/10 Computers
-date: 2024-09-20T00:53:20.546Z
-updated: 2024-09-21T00:47:44.662Z
+date: 2024-09-26T00:31:28.010Z
+updated: 2024-09-26T17:33:52.570Z
 tags:
   - win11
   - win10
@@ -73,6 +73,13 @@ thumbnail: https://thmb.techidaily.com/66f3a5314b7f0b6f994f976b66c33a57ff0466854
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b8999a1831.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Then type **powershell**  and t  ick the box for**Create this task with administrative privileges** . Click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b8a563ff80.png)
@@ -84,6 +91,13 @@ net user newusername newpassword /add
  We are using the username**“easeware”** and password “**drivereasy”** as an example in the screenshot, you can set them as per your own preference.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b8bbeac77b.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 5) Restart your computer and log into the new user account.
 
@@ -109,13 +123,6 @@ net user newusername newpassword /add
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b939274834.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  5) Restart your computer after the uninstall of both of your video card driver and your sound card driver.
 
  6) Going forward, you need to update your video and sound card driver.
@@ -130,6 +137,13 @@ net user newusername newpassword /add
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b960cea017.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  6.3) Click the **Update** button next to the flagged video and audio card to automatically download and install the correct versions of them (you can do this with the FREE version).
 
  Or click **Update All**  to automatically download and install the correct version of **_all_** the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
@@ -140,6 +154,13 @@ net user newusername newpassword /add
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4: Disable or uninstall third-party antivirus programs
 
  If you’ve installed antivirus or anti-malware programs such as Norton, Kaspersky, AVG, Avast Behavior Shield or Malwarebytes, you should **temporarily**   turn them off or disable them to see if they’re causing your Start menu not working problem. If your computer’s Start menu returns to normal when they’re off, you should contact the vendor of the software to see if they can provide some help.
@@ -147,13 +168,6 @@ net user newusername newpassword /add
  Note that Microsoft has its own default anti-malware, **Windows Defender** . It’s automatically enabled even if you also have other antivirus applications installed. Even if you disable your other antivirus programs, Windows Defender is always there for you during that certain time range. So, no need to worry too much about temporarily turning antivirus off.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5: Uninstall Dropbox
 
@@ -166,22 +180,15 @@ net user newusername newpassword /add
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b98211438e.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) View by**Category** , then click**Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b984aa9035.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Find Dropbox, and click**Uninstall** to get it removed from your computer.
 
@@ -217,6 +224,13 @@ net user newusername newpassword /add
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b8a563ff80.png)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Type**sfc /scannow** in and press the**Enter** key on your keyboard. Wait for a while for the process to complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b9c44015d6.png)
@@ -230,6 +244,13 @@ DISM /Online /Cleanup-Image /RestoreHealth
 6) When these two tests finishes, check if your Start menu is back.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 8: Reinstall Cortana
 
@@ -261,10 +282,10 @@ Get-AppXPackage -AllUsers | Foreach {Add-AppxPackage -DisableDevelopmentMode -Re
  4) There, your Cortana is reinstalled, and your Start menu should also be back now.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Last but not least: refresh your PC
@@ -288,5 +309,26 @@ Get-AppXPackage -AllUsers | Foreach {Add-AppxPackage -DisableDevelopmentMode -Re
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-enhance-footage-quality-with-premium-handheld-stabilizers/"><u>[New] Enhance Footage Quality with Premium Handheld Stabilizers</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-explore-mp4-recording-tools-today/"><u>[New] Explore MP4 Recording Tools Today</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mastering-broadcast-choices-expert-tips-and-no10-insights/"><u>[New] Mastering Broadcast Choices Expert Tips and No.10 Insights</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-a-detailed-study-of-vsdcs-screen-capture-prowess-and-competing-products/"><u>[Updated] 2024 Approved A Detailed Study of VSDC's Screen Capture Prowess & Competing Products</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-mastering-movements-intova-xs-video-excellence/"><u>[Updated] Mastering Movements Intova X's Video Excellence</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/complete-fix-for-error-cannot-find-file-mscorwksdll/"><u>Complete Fix for Error: Cannot Find File MSCORWKS.DLL</u></a></li>
+<li><a href="https://fox-that.techidaily.com/eliminate-instagram-buffering-6-key-strategies-for-optimizing-app-performance-across-ios-and-android/"><u>Eliminate Instagram Buffering: 6 Key Strategies for Optimizing App Performance Across iOS and Android</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-samsung-galaxy-s23plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Samsung Galaxy S23+ | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-designing-dramatic-podcast-clips/"><u>In 2024, Designing Dramatic Podcast Clips</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721456525185-ios-16-lock-screen-depth-effect-issues-discover-7-proven-solutions/"><u>IOS 16 Lock Screen Depth Effect Issues? Discover 7 Proven Solutions!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721468356968-issue-with-iphone-and-vpn-not-working-discover-7-quick-fixes/"><u>Issue with iPhone and VPN Not Working? Discover 7 Quick Fixes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/mastering-the-factory-reset-process-for-iphones-and-ipads-step-by-step-tips/"><u>Mastering the Factory Reset Process for iPhones and iPads – Step-by-Step Tips</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcome-iphone-313-challenges-ultimate-guide-and-troubleshooting-tips/"><u>Overcome iPhone #313 Challenges: Ultimate Guide & Troubleshooting Tips</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721479877354-revive-your-iphone-solo-expert-techniques-to-reset-without-itunes/"><u>Revive Your iPhone Solo: Expert Techniques to Reset without iTunes.</u></a></li>
+<li><a href="https://fox-that.techidaily.com/say-goodbye-to-that-annoying-yellow-cast-on-your-iphone-screen-discover-these-9-fixing-methods/"><u>Say Goodbye to That Annoying Yellow Cast on Your iPhone Screen – Discover These 9 Fixing Methods!</u></a></li>
+<li><a href="https://games-able.techidaily.com/steam-halts-loophole-exploitation-impact-explored/"><u>Steam Halts Loophole Exploitation: Impact Explored</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-airpods-why-you-might-have-a-loudquiet-earbud-and-how-to-balance-it/"><u>Troubleshooting AirPods: Why You Might Have a Loud/Quiet Earbud and How to Balance It</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-how-to-fix-app-download-issues-on-your-iphone-top-10-solutions/"><u>Troubleshooting: How to Fix App Download Issues on Your iPhone - Top 10 Solutions</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-easy-way-to-create-a-diy-green-screen-video-effect/"><u>Updated Easy Way to Create a DIY Green Screen Video Effect</u></a></li>
+</ul></div>
 

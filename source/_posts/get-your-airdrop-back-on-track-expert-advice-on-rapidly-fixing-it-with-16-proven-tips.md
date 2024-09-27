@@ -1,7 +1,7 @@
 ---
 title: "Get Your AirDrop Back On Track: Expert Advice on Rapidly Fixing It With 16 Proven Tips"
-date: 2024-09-19T20:48:01.288Z
-updated: 2024-09-21T00:15:11.044Z
+date: 2024-09-21T16:47:46.730Z
+updated: 2024-09-26T18:21:34.687Z
 tags:
   - iphone
   - apple
@@ -50,6 +50,13 @@ thumbnail: https://thmb.techidaily.com/1dd490a8bd0fd9490b2a1a7e2f3e07f4fe2881674
 
 ![network options in iphone control center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/network-options-in-iphone-control-center.JPEG)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![airdrop visibility options in iphone control center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/airdrop-visibility-options-in-iphone-control-center.JPEG)
 
 Close
@@ -73,10 +80,10 @@ Close
 ![iphone limit usage settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/iphone-limit-usage-settings.JPEG)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![iphone content and privacy restrictions settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/iphone-content-and-privacy-restrictions-settings.JPEG)
@@ -91,6 +98,13 @@ Close
 
  Make sure**AirDrop** is turned on for each device. You may need to enter your Screen Time passcode to make these changes.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Enable AirDrop Over Cellular
 
  AirDrop's (Bluetooth) range is around 30 feet, so if you move beyond that distance, AirDrop won't work anymore. But if you've updated your device to iOS/iPadOS 17.1 (or later), you can enable a setting to allow AirDrop file transfers to continue even after you leave the range.
@@ -101,16 +115,16 @@ Close
 
 ![iPhone General settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/iphone-general-settings.JPEG)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![iphone airdrop settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/iphone-airdrop-settings.JPEG)
 
 Close
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Allow Sharing by Bringing Devices Together
 
@@ -121,10 +135,10 @@ Close
  Note that NameDrop only lets you share new contact information. You can't update an existing contact with NameDrop.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Turn Off Do Not Disturb Mode
@@ -136,6 +150,13 @@ Close
 ## 7\. Restart Wi-Fi and Bluetooth on Both Devices
 
  A particularly useful solution if AirDrop isn't working is to disable and re-enable Wi-Fi and Bluetooth. Open**Control Center** on your iPhone, iPad, or Mac and hit the**Wi-Fi** and**Bluetooth** icons to turn them off, then select them again to turn them back on.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 8\. Use AirDrop From a Third Apple Device
 
@@ -161,13 +182,6 @@ Close
 
 ![Downloads folder in macOS Sonoma](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/downloads-folder-in-macos-sonoma.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 11\. Turn Off Your VPN for AirDrop to Work
 
  Some users found that AirDrop didn't work until they [turned off the VPN on their iPhone](https://www.makeuseof.com/how-to-turn-off-vpn-on-iphone/) or Mac. You might need to do this in the VPN app or your device settings.
@@ -181,6 +195,13 @@ Close
  Go to**System Settings > Network > Firewall** . Toggle off**Firewall** and enter your Mac's admin password if prompted.
 
 ![Firewall option in macOS System Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Firewall-option-in-macOS-System-Settings.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 13\. Sign In to Your Apple ID Account Again
 
@@ -202,6 +223,13 @@ Close
 
 Close
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 15\. Restart Both Devices
 
  This is a classic troubleshooting tip because it's so effective.[Restarting your iPhone](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) , iPad, or Mac might be all you need to get AirDrop working again. And it only takes a moment to try it.
@@ -213,13 +241,6 @@ Close
  If you still want to go ahead with it, go to **Settings > General > Transfer or Reset \[Device\] > Reset** and tap**Reset Network Settings** . Enter your passcode, then confirm you want to**Reset Network Settings** .
 
 ![iphone general settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/iphone-reset.JPEG)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![reset iphone settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/iphone-reset-settings.JPEG)
 
@@ -244,5 +265,20 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-step-by-step-creating-a-skype-group-on-both-systems-for-2024/"><u>[New] Step-by-Step Creating a Skype Group on Both Systems for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-premiers-choice-the-very-best-12-gps-integrated-camcorders/"><u>[Updated] 2024 Approved Premier's Choice The Very Best 12 GPS-Integrated Camcorders</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-prime-pick-best-vr-devices-of-the-year/"><u>[Updated] 2024 Approved Prime Pick Best VR Devices of the Year</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/effortless-pdf-navigation-on-kindle-top-strategies-and-tips-revealed/"><u>Effortless PDF Navigation on Kindle: Top Strategies and Tips Revealed!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/getting-airplay-back-on-track-a-comprehensive-fix-when-it-fails/"><u>Getting AirPlay Back on Track: A Comprehensive Fix when It Fails</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-overcome-iphones-inability-to-connect-with-a-virtual-private-network-vpn-top-7-tactics/"><u>How to Overcome iPhone's Inability to Connect with a Virtual Private Network (VPN) - Top 7 Tactics</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-nokia-c12-pro-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Nokia C12 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-troubleshoot-and-resolve-hey-siri-problems-on-iphones-a-step-by-step-guide-18-tips/"><u>How to Troubleshoot and Resolve 'Hey Siri' Problems on iPhones: A Step-by-Step Guide (18 Tips)</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-nubia-red-magic-9-pro-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Nubia Red Magic 9 Pro Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-iphone-calendar-woes-what-if-there-are-no-events/"><u>Solving iPhone Calendar Woes - What If There Are No Events?</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-itel-p55plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Itel P55+ | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/step-by-step-guide-initiating-a-hard-reset-on-your-iphone-and-accessing-recovery-options/"><u>Step-by-Step Guide: Initiating a Hard Reset on Your iPhone & Accessing Recovery Options</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-for-cyberpunk-2077-failure-to-initialize/"><u>Troubleshooting Tips for Cyberpunk 2077 Failure to Initialize</u></a></li>
+</ul></div>
 

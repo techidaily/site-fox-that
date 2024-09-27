@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting: How to Repair an Unresponsive iPhone/iPad Keyboard"
-date: 2024-09-16T16:37:31.264Z
-updated: 2024-09-20T20:14:28.613Z
+date: 2024-09-24T16:06:36.395Z
+updated: 2024-09-26T22:41:21.931Z
 tags:
   - iphone
   - apple
@@ -36,6 +36,13 @@ thumbnail: https://thmb.techidaily.com/d560ca9c3c8262a76b0a5ec32a0dcb8921bf59ea8
 
 ![spendee app add a transaction menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/spendee-app.PNG)
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![spendee app with cursor in notes field](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/spendee-app-with-cursor-in-notes-field.jpeg)
 
 Close
@@ -47,6 +54,13 @@ Close
 ![expanded iphone keyboards setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/expanded-iphone-keyboards-setting.PNG)
 
 ![iphone keyboard language list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/iphone-keyboard-language-list.PNG)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![keyboard language list on iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/keyboard-language-list-on-iphone.PNG)
 
@@ -76,6 +90,13 @@ Close
 
 ![iphone text replacement setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/iphone-text-replacement-setting.PNG)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![removal of preset text in iphone text replacement setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/removal-of-preset-text-in-iphone-text-replacement-setting.PNG)
 
 Close
@@ -83,19 +104,6 @@ Close
 ## 3\. iPhone or iPad Keyboard Is Lagging
 
  If you're typing swiftly on your iPhone keyboard but the text takes a while to show up on the screen, the cause might be a temporary software glitch or an incorrect iPhone setting. Try the solutions below.
-
-<!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Reset the Keyboard Dictionary
 
@@ -121,23 +129,9 @@ Close
 
 ![ipohne touch setting with touch accommodations toggled on](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/ipohne-touch-setting-with-touch-accommodations-toggled-on.PNG)
 
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![iphone touch accommodations setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/iphone-touch-accommodations-setting.PNG)
 
 Close
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. No Sound or Vibration When Typing on the Keyboard
 
@@ -147,7 +141,21 @@ Close
 
 ![iphone settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/iphone-settings-app-1.PNG)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![iphone sounds and haptics settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/iphone-sounds-and-haptics-settings.PNG)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![iphone keyboard feedback setting with sound and haptic enabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/iphone-keyboard-feedback-setting-with-sound-and-haptic-enabled.PNG)
 
@@ -156,6 +164,13 @@ Close
  If you still don't feel a vibration when you type, go to**Settings > Accessibility > Touch** and make sure**Vibration** is toggled on. Also, make sure you have [Silent mode turned off on your iPhone](https://www.makeuseof.com/iphone-turn-off-silent-mode/) .
 
 ![iphone accessibility setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/iphone-accessibility-setting.PNG)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![iphone touch accessibility setting with vibration toggled on](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/iphone-touch-accessibility-setting-with-vibration-toggled-on.PNG)
 
@@ -171,6 +186,13 @@ Close
 
  For example, Apple's Magic Keyboard for iPad accessory only works with selected iPad Pro and iPad Air models. You can refer to [Apple's iPad Keyboards page](https://www.apple.com/ipad-keyboards/) to identify the right keyboard case for your iPad.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Disconnect and Reconnect Your iPad Keyboard
 
  Once you're certain you have [the right keyboard case for your iPad](https://www.makeuseof.com/which-ipad-keyboard-case-right-for-you/) , you can try disconnecting and reconnecting the keyboard to see if that resolves the issue. If the physical keyboard is magnetically attached to your iPad, simply remove and reattach it.
@@ -178,16 +200,10 @@ Close
  However, if you're using a third-party keyboard that's connected to your iPad via Bluetooth, toggle off Bluetooth on your iPad, wait for a few moments, then toggle it on and connect your keyboard again.
 
 <!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. General Fixes When Your iPhone or iPad Keyboard Doesn't Work
@@ -199,13 +215,6 @@ Close
 ![iphone general settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/iphone-general-settings-2.JPEG)
 
 ![iPhone General settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/iphone-general-settings.JPEG)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![iphone ios 17.0.3 software update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/img_7670.JPEG)
 
@@ -228,5 +237,20 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-from-confinement-to-comedy-selecting-lighthearted-fb-incarceration-moments/"><u>[Updated] 2024 Approved From Confinement to Comedy Selecting Lighthearted FB Incarceration Moments</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-from-monotonous-to-magical-techniques-for-animate-text-in-insta-stories/"><u>[Updated] 2024 Approved From Monotonous to Magical Techniques for Animate Text in Insta Stories</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-seamless-transition-to-professional-screen-captures-via-aiseesoft/"><u>[Updated] In 2024, Seamless Transition to Professional Screen Captures via Aiseesoft</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-error-message-in-nvidia-geforce-experience-step-by-step-solutions/"><u>Fixing the 'Error' Message in Nvidia GeForce Experience - Step by Step Solutions</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-design-wizards-perfect-templates-for-gaming-channel-logos/"><u>In 2024, Design Wizards Perfect Templates for Gaming Channel Logos</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-gif-genius-unleashed-the-best-tools-and-methods-of-memetic-artistry/"><u>In 2024, GIF Genius Unleashed The Best Tools and Methods of Memetic Artistry</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/innovative-techniques-for-final-frame-enhancements-on-vimeo/"><u>Innovative Techniques for Final Frame Enhancements on Vimeo</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-auto-dim-feature-unveiling-the-top-ten-reasons-behind-it/"><u>IPhone Auto-Dim Feature: Unveiling the Top Ten Reasons Behind It</u></a></li>
+<li><a href="https://fox-that.techidaily.com/is-your-iphone-ignoring-the-wireless-charger-solve-it-with-these-7-methods/"><u>Is Your iPhone Ignoring the Wireless Charger? Solve It With These 7 Methods!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcome-iphone-ringsilent-switch-issues-expert-tips-for-effective-solutions/"><u>Overcome iPhone Ring/Silent Switch Issues: Expert Tips for Effective Solutions!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solve-your-iphoneipads-wi-fi-connection-issues-with-these-8-effective-solutions/"><u>Solve Your iPhone/iPad's Wi-Fi Connection Issues with These 8 Effective Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-hold-time-charge-issues-on-your-iphone-with-easy-fixes/"><u>Troubleshooting Hold Time Charge Issues on Your iPhone with Easy Fixes</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-tiktok-video-aspect-ratio/"><u>Updated In 2024, Tiktok Video Aspect Ratio</u></a></li>
+</ul></div>
 

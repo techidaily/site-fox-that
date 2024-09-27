@@ -1,7 +1,7 @@
 ---
 title: "Unlock the Secrets: Top 17 Strategies for Reactivating Message Sounds on Your iPhone"
-date: 2024-09-19T16:09:45.282Z
-updated: 2024-09-20T17:49:16.293Z
+date: 2024-09-25T19:46:21.393Z
+updated: 2024-09-26T23:27:11.354Z
 tags:
   - iphone
   - apple
@@ -61,6 +61,13 @@ Close
 
 Close
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Turn Off Silent Mode and Focus
 
  After you put your iPhone in silent mode, new texts won't have a notification tone. To fix this, turn off silent mode by pushing up the mute switch located above your iPhone's volume buttons.
@@ -68,6 +75,13 @@ Close
  Secondly, when your iPhone is in Focus (or Do Not Disturb) mode, it does not vibrate or play a sound for new texts. You can fix this by [opening the iOS Control Center](https://www.makeuseof.com/how-to-use-customize-control-center-iphone/) and ensuring the Focus toggle (crescent moon icon) isn't purple. If it is, tap on it to toggle the feature off.
 
  That said, you can [set up Focus modes](https://www.makeuseof.com/how-to-use-focus-modes-ios/) that let you configure which apps and people you want to allow notifications from.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Force Quit the Messages App
 
@@ -97,14 +111,14 @@ Close
 
 ![Tap Messages in iPhone Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/tap-messages-in-iphone-settings.png)
 
-![Tap Unknown and Spam in iPhone Messages Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/tap-unknown-and-spam-in-iphone-messages-settings.png)
-
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![Tap Unknown and Spam in iPhone Messages Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/tap-unknown-and-spam-in-iphone-messages-settings.png)
 
 ![Turn off Filter Unknown Senders in iPhone Messages Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/turn-off-filter-unknown-senders-in-iphone-messages-settings.png)
 
@@ -128,9 +142,23 @@ Close
 
 ![Tap Unknown and Spam in iPhone Messages Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/tap-unknown-and-spam-in-iphone-messages-settings.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Swipe left on blocked iPhone contact and tap Unblock](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/swipe-left-on-blocked-iphone-contact-and-tap-unblock.png)
 
 Close
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 10\. Ensure Custom Text Tone Isn't Set to "None"
 
@@ -145,10 +173,10 @@ Close
 ![Choose a different custom tone for contact](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/choose-a-different-custom-tone-for-contact.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Close
@@ -163,23 +191,9 @@ Close
 
 ![Tap Text Message Forwarding in iPhone Messages Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/tap-text-message-forwarding-in-iphone-messages-settings.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Turn off Text Message Forwarding for all your other Apple devices](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/turn-off-text-message-forwarding-for-all-your-other-apple-devices.png)
 
 Close
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 13\. Are You Using an Apple Watch?
 
@@ -188,6 +202,13 @@ Close
 ## 14\. Have You Opened the Messages App on Your Mac?
 
  If you keep the Messages app open on your Mac, new messages may appear there, and your iPhone may not play the text notification sound for them. To fix this,[quit the Messages app on your Mac](https://www.makeuseof.com/ways-to-quit-apps-on-mac/) . Or, you may use it there if you're already working on your computer.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 15\. Other Solutions
 
@@ -198,10 +219,10 @@ If none of the solutions above help, don't worry—hope isn't lost yet.
  If you think that glitches are causing your device to not receive iPhone text message notifications, you may need to update your iPhone's firmware. You can do that by going to**Settings** \>**General** \>**Software Update** . At times, bugs like failing text notifications are fixed by installing the newest iOS update.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Not Getting Text Notifications on iPhone? Let's Fix That
@@ -223,5 +244,26 @@ If none of the solutions above help, don't worry—hope isn't lost yet.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-5-innovative-approaches-to-choosing-a-dynamic-podcast-name/"><u>[New] 5 Innovative Approaches to Choosing a Dynamic Podcast Name</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-buying-smart-key-accessories-for-dynamic-cinematography-for-2024/"><u>[New] Buying Smart Key Accessories for Dynamic Cinematography for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-navigating-the-process-windows-movie-maker-content-on-vimeo/"><u>[New] In 2024, Navigating the Process Windows Movie Maker Content on Vimeo</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-step-by-step-inserting-dates-in-digital-pictures/"><u>[New] Step-by-Step Inserting Dates in Digital Pictures</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-enhancing-presentations-the-captivate-way-for-2024/"><u>[Updated] Enhancing Presentations The Captivate Way for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-full-assessment-hero4-black-capabilities/"><u>[Updated] Full Assessment Hero4 Black Capabilities</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-unique-ideas-for-dynamic-fb-video-marketing-campaigns-for-2024/"><u>[Updated] Unique Ideas for Dynamic FB Video Marketing Campaigns for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-personalizing-interactions-deepening-connections-with-viewers/"><u>2024 Approved Personalizing Interactions Deepening Connections with Viewers</u></a></li>
+<li><a href="https://fox-that.techidaily.com/airpods-echo-or-panning-issues-turn-off-dynamic-head-tracking/"><u>AirPods Echo or Panning Issues? Turn Off Dynamic Head Tracking</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/evaluating-fraps-as-a-screen-grab-pro/"><u>Evaluating Fraps as a Screen Grab Pro</u></a></li>
+<li><a href="https://fox-that.techidaily.com/guide-initiating-a-hard-reset-on-your-iphone-and-accessing-the-recovery-menu/"><u>Guide: Initiating a Hard Reset on Your iPhone & Accessing the Recovery Menu</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-adjust-your-iphone-settings-to-prevent-random-website-counting-by-screen-time/"><u>How to Adjust Your iPhone Settings to Prevent Random Website Counting by Screen Time</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-execute-a-soft-reset-on-your-iphone-a-user-friendly-walkthrough/"><u>How to Execute a Soft Reset on Your iPhone: A User-Friendly Walkthrough</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-resolve-hey-siri-issues-on-your-iphone-a-comprehensive-guide/"><u>How to Resolve 'Hey Siri' Issues on Your iPhone: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/navigating-iphone-photography-issues-effective-management-and-resolution-techniques/"><u>Navigating iPhone Photography Issues: Effective Management and Resolution Techniques</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-and-easy-access-to-elgato-driver-downloads/"><u>Quick and Easy Access to Elgato Driver Downloads</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-iphone-screens-stuck-in-limbo-understanding-the-top-seven-culprits/"><u>Solving iPhone Screens Stuck in Limbo: Understanding the Top Seven Culprits</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-wi-fi-connection-problems-8-effective-fixes-for-iphone-and-ipad-users/"><u>Solving Wi-Fi Connection Problems: 8 Effective Fixes for iPhone and iPad Users</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unveiling-iphone-14-battery-woes-essential-information-revealed/"><u>Unveiling iPhone 14 Battery Woes: Essential Information Revealed</u></a></li>
+</ul></div>
 
