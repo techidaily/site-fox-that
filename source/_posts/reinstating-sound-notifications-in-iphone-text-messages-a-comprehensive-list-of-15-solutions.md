@@ -1,7 +1,7 @@
 ---
 title: "Reinstating Sound Notifications in iPhone Text Messages: A Comprehensive List of 15 Solutions"
-date: 2024-09-16T16:17:54.048Z
-updated: 2024-09-20T21:45:48.303Z
+date: 2024-09-26T22:09:09.024Z
+updated: 2024-10-01T20:20:10.778Z
 tags:
   - iphone
   - apple
@@ -57,6 +57,19 @@ Close
 
 ![iPhone Messages app showing a muted conversation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/iphone-messages-app-showing-a-muted-conversation.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Swipe on muted conversation and tap bell icon to start alerts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/swipe-on-muted-conversation-and-tap-bell-icon-to-start-alerts.jpg)
 
 Close
@@ -70,10 +83,10 @@ Close
  That said, you can [set up Focus modes](https://www.makeuseof.com/how-to-use-focus-modes-ios/) that let you configure which apps and people you want to allow notifications from.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Force Quit the Messages App
@@ -84,11 +97,25 @@ Close
 
  After a few seconds, open this app again, and hopefully, this should smoothen the notification issues.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Ensure iMessage Is Enabled
 
  Before you move ahead, it's essential to check if [iMessage is activated](http://www.makeuseof.com/how-to-activate-imessage/) and switched on or not. To do that, go to**Settings** \>**Messages** and make sure**iMessage** is enabled.
 
  Next, tap**Send & Receive** and check you have the correct phone number and email here. You should start receiving notifications again after doing this.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Restart Your iPhone
 
@@ -108,18 +135,18 @@ Close
 
 ![Turn off Filter Unknown Senders in iPhone Messages Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/turn-off-filter-unknown-senders-in-iphone-messages-settings.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Close
 
 ## 8\. Disconnect Bluetooth Devices
 
  If you forget and leave Bluetooth buds or devices connected to your iPhone, the new text message sound may output via that instead of the on-device speaker. To fix this, open the**Settings** app and turn off**Bluetooth** . Alternatively, you can disconnect these devices from the iOS Control Center by tapping the Bluetooth icon.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 9\. Make Sure the Person Isn't Blocked
 
@@ -133,18 +160,32 @@ Close
 
 ![Tap Messages in iPhone Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/tap-messages-in-iphone-settings.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Tap Unknown and Spam in iPhone Messages Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/tap-unknown-and-spam-in-iphone-messages-settings.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![Swipe left on blocked iPhone contact and tap Unblock](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/swipe-left-on-blocked-iphone-contact-and-tap-unblock.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Close
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 10\. Ensure Custom Text Tone Isn't Set to "None"
 
@@ -155,19 +196,6 @@ Close
 3. If you don't see Text Tone in step 2, you probably didn't set a custom text tone for this person. So, please move on to the next fix.
 
 ![Tap Text Tone for a Contact in iPhone Phone or Contacts app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/tap-text-tone-for-a-contact-in-iphone-phone-or-contacts-app.png)
-
-<!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Choose a different custom tone for contact](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/choose-a-different-custom-tone-for-contact.png)
 
@@ -194,13 +222,6 @@ Close
 ## 14\. Have You Opened the Messages App on Your Mac?
 
  If you keep the Messages app open on your Mac, new messages may appear there, and your iPhone may not play the text notification sound for them. To fix this,[quit the Messages app on your Mac](https://www.makeuseof.com/ways-to-quit-apps-on-mac/) . Or, you may use it there if you're already working on your computer.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 15\. Other Solutions
 
@@ -229,5 +250,24 @@ If none of the solutions above help, don't worry—hope isn't lost yet.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-virtual-reality-terms-you-should-know/"><u>[New] Virtual Reality Terms You Should Know</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-from-screens-to-gifs-the-art-of-converting-vimeo-footage/"><u>[Updated] In 2024, From Screens to Gifs The Art of Converting Vimeo Footage</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-sleepy-screenplays-for-nights-end/"><u>[Updated] Sleepy Screenplays for Night's End</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-monitor-selection-mastery-ultrawide-versus-uhd-4k/"><u>2024 Approved Monitor Selection Mastery UltraWide Versus UHD 4K</u></a></li>
+<li><a href="https://fox-that.techidaily.com/defrosting-techniques-for-a-glitched-apple-device-step-by-step-help/"><u>Defrosting Techniques for a Glitched Apple Device – Step-by-Step Help</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/o-double-down-on-your-youtube-success-in-a-month-for-2024/"><u>How to Double Down on Your YouTube Success in a Month for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-fix-an-iphone-that-cant-send-texts-essential-tips/"><u>How to Fix an iPhone That Can't Send Texts – Essential Tips</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-install-the-latest-windows-10-april-2020-update-with-conexant-drivers/"><u>How to Install the Latest Windows 10 April 2020 Update with Conexant Drivers</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-stop-excessive-cpu-use-during-a-zoom-call-6-tips/"><u>How to Stop Excessive CPU Use During a Zoom Call: 6 Tips</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/newest-hp-scanjet-drivers-for-windows-os-windows-10-8-and-aturbo-7-get-the-latest-version-here/"><u>Newest HP Scanjet Drivers for Windows OS (Windows 10, 8 & Aturbo, 7) - Get the Latest Version Here</u></a></li>
+<li><a href="https://fox-that.techidaily.com/quick-solutions-top-10-tips-for-troubleshooting-apple-pay-problems/"><u>Quick Solutions: Top 10 Tips for Troubleshooting Apple Pay Problems</u></a></li>
+<li><a href="https://fox-that.techidaily.com/reactivate-and-maintain-stable-imessages-overcoming-the-signed-out-glitch-on-ios-devices/"><u>Reactivate and Maintain Stable iMessages: Overcoming the 'Signed Out' Glitch on iOS Devices</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721480368234-struggling-with-iphones-contacts-feature-here-are-3-easy-fixes/"><u>Struggling with iPhone's Contacts Feature? Here Are 3 Easy Fixes!</u></a></li>
+<li><a href="https://windows11.techidaily.com/techniques-for-stifling-random-cmd-entrance/"><u>Techniques for Stifling Random CMD Entrance</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721461929259-troubleshoot-non-functioning-predictive-emojis-on-ios-devices-asap/"><u>Troubleshoot Non-Functioning Predictive Emojis on iOS Devices ASAP</u></a></li>
+<li><a href="https://fox-that.techidaily.com/ultimate-trick-resetting-or-reviving-your-iphone-without-itunes-dependency/"><u>Ultimate Trick: Resetting or Reviving Your iPhone Without iTunes Dependency</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unveiling-the-secrets-of-iphones-dfu-mode-and-its-usage/"><u>Unveiling the Secrets of iPhone's DFU Mode and Its Usage</u></a></li>
+</ul></div>
 

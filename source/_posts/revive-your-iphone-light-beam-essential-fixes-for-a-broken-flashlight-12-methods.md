@@ -1,7 +1,7 @@
 ---
 title: "Revive Your iPhone Light Beam: Essential Fixes for a Broken Flashlight (12 Methods)"
-date: 2024-09-10T16:31:19.038Z
-updated: 2024-09-15T16:19:20.127Z
+date: 2024-09-29T21:27:38.344Z
+updated: 2024-10-02T05:44:34.959Z
 tags:
   - iphone
   - apple
@@ -68,14 +68,14 @@ Close
 
 ![customize iphone control center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/iphone-settings-4.JPG)
 
-Close
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+Close
 
 ## 5\. Close Your iPhone's Camera App
 
@@ -93,36 +93,29 @@ Close
 
 ![iphone camera video mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/video-mode-1.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118321/7443" target="_top" id="2118321">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118321" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118321/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![iphone camera video mode options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/video-mode-2.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![turn on iphone camera flash](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/video-mode-3.JPG)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close
 
 ## 7\. Toggle the Flash in Your iPhone's Camera App
 
  To get rid of glitches that stop your iPhone's flashlight from working, you can also try turning your camera flash on and off. The steps are the same as the workaround to turn on your iPhone's camera flash, as discussed in the previous solution. But instead of leaving the**Flash** set to**On** , toggle between**On** and**Off** a few times.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 8\. Ask Siri to Turn On Your iPhone's Flashlight
 
@@ -134,7 +127,21 @@ Close
 
 ![siri response after turning on iphone flashlight](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/img_7830.JPEG)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Close
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 9\. Update Your iPhone's iOS
 
@@ -142,19 +149,33 @@ Close
 
  Go to**Settings > General > Software Update** to see if an update is available for your iPhone. Make sure your iPhone is charging or has more than 50% battery before you proceed with the update process.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 10\. Restart Your iPhone
 
  If the above methods don't solve the problem and your iPhone's flashlight still isn't working, the next step you should try is [restarting your iPhone](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) .
 
 ![iphone on wooden surface showing hello welcome screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/iphone-hello-screen-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The method you need to follow varies depending on the iPhone model you have. But in general, you can go to **Settings > General > Shut Down > Slide to power off** . Then, hold the**Side** button to restart your iPhone once it powers off.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 11\. Restore Your iPhone to a Previous Backup
@@ -188,5 +209,20 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-immersive-animal-life-on-android-ultimate-list/"><u>[New] Immersive Animal Life on Android Ultimate List</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-dismantle-that-dominating-green-distortion-in-mac-based-videos/"><u>[Updated] Dismantle That Dominating Green Distortion in Mac-Based Videos</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-efficient-content-curation-multiple-photosvideos-to-instagram-storyboard-for-2024/"><u>[Updated] Efficient Content Curation Multiple Photos/Videos to Instagram Storyboard for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/cant-use-chatgpt-on-iphone-here-are-9-fixes-to-get-it-up-and-running-again/"><u>Can't Use ChatGPT on iPhone? Here Are 9 Fixes to Get It Up and Running Again!</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/-your-online-identity-with-customized-youtube-urls/"><u>Craft Your Online Identity with Customized YouTube URLs</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-pioneering-eco-friendly-visual-effects-aids/"><u>In 2024, Pioneering Eco-Friendly Visual Effects Aids</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolving-compatibility-problems-for-iphone-accessories-that-dont-fit-the-mold/"><u>Resolving Compatibility Problems for iPhone Accessories That Don't Fit the Mold</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/seamless-iphone-data-restoration-software-for-mac-bring-back-lost-pictures-movies-and-directory-entries-effortlessly/"><u>Seamless iPhone Data Restoration Software for Mac: Bring Back Lost Pictures, Movies, and Directory Entries Effortlessly</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-final-characters-unavailable-on-your-iphone-a-step-by-step-guide/"><u>Solving 'Final Characters Unavailable' On Your iPhone: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/understanding-iphone-image-recognition-glitches-6-key-factors-that-may-affect-your-experience/"><u>Understanding iPhone Image Recognition Glitches: 6 Key Factors That May Affect Your Experience</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/understanding-json-data-format-and-file-handling/"><u>Understanding JSON Data Format and File Handling</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlocking-secrets-why-your-iphone-or-ipad-may-not-allow-you-to-send-gifts-5-reasons/"><u>Unlocking Secrets: Why Your iPhone or iPad May Not Allow You to Send Gifts (5 Reasons)</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721445097263-unresponsive-iphone-vibration-on-silentring-settings-try-out-these-8-tricks/"><u>Unresponsive iPhone Vibration on Silent/Ring Settings? Try Out These 8 Tricks!</u></a></li>
+</ul></div>
 

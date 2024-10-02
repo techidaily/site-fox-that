@@ -1,7 +1,7 @@
 ---
 title: Solving ‘Hey Siri’ Malfunctions on Your iPhone in 10 Simple Steps
-date: 2024-09-24T18:55:02.820Z
-updated: 2024-09-26T17:47:52.591Z
+date: 2024-09-26T02:57:07.797Z
+updated: 2024-10-01T20:03:44.475Z
 tags:
   - iphone
   - apple
@@ -34,10 +34,10 @@ thumbnail: https://thmb.techidaily.com/75afd5a2790c3528915ac28a66faf57312a6eb60a
  So, if you're sure you have a compatible iPhone and "Hey Siri" still isn't working, the tips below should be able to fix it.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Make Sure "Hey Siri" Is Set Up Correctly
@@ -52,6 +52,13 @@ thumbnail: https://thmb.techidaily.com/75afd5a2790c3528915ac28a66faf57312a6eb60a
 ![siri & search settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/img_6967.JPEG)
 
 Close
+
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Don't Leave Your iPhone Face Down
 
@@ -73,44 +80,37 @@ Close
 
 ![siri & search settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/img_6967.JPEG)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![siri responses settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/img_6968.JPEG)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Close
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Restart Your iPhone
 
  When "Hey Siri" isn't working correctly, this can be due to a temporary glitch. The easiest way to fix this is by turning off your iPhone and turning it back on after a minute. You can [restart your iPhone even if its buttons are broken](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) .
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Remove the Case if It Blocks the Microphones
 
  Are you using a case that might block your iPhone's microphones? Take a minute to check this. If you find that the microphone slots at the bottom of the device, next to the camera, or inside the top earpiece are blocked by the case, you should remove the case.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Clean Your iPhone's Microphone Grills
@@ -145,42 +145,15 @@ Close
 
 ![iPhone Settings showing Siri & Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/11/iphone-settings-showing-siri-and-search.PNG)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![siri & search settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/img_6967.JPEG)
 
 ![List of Siri languages on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/11/list-of-siri-languages.PNG)
 
 Close
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 10\. Turn Off Low Power Mode
 
  "Hey Siri" works even when your iPhone is in [Low Power Mode](http://www.makeuseof.com/iphone-low-power-mode/) . But at times, due to extremely low battery or bugs, Low Power Mode may cause other problems. To fix this, go to**Settings > Battery** and turn off**Low Power Mode** . Hopefully, this will mean "Hey Siri" starts working again.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 11\. Disable and Re-Enable Siri
 
@@ -212,6 +185,13 @@ Close
 
  Go to**Settings > General > Software Update** on your device to see if one is available.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 14\. Make Sure Your iPhone Isn't Stuck in Headphone Mode
 
  In rare situations, your iPhone may think it's connected to headphones even though it isn't. When this happens, the on-device speakers and microphones may not work because your iPhone is trying to use your non-existent headphone speakers and microphones instead.
@@ -232,6 +212,13 @@ Close
 
 ![Transfer or Reset iPhone in iOS 15](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/transfer-or-reset-iphone-in-ios-15.PNG)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![All Reset Options in iPhone Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/all-reset-options-in-iphone-settings.PNG)
 
 Close
@@ -243,6 +230,13 @@ Close
 ## 17\. Contact Apple Support
 
  Finally, if nothing else helps, contact Apple Support and get your device inspected. You can [get tech support for your iPhone with the Apple Support app](https://www.makeuseof.com/how-to-get-iphone-support-apple-support-app/) , or if you have an Apple Store nearby, you can [book an appointment at a Genius Bar](https://www.makeuseof.com/apple-store-appointment-genius-bar/) .
+
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Get Siri Working on Your iPhone Again
 
@@ -265,24 +259,22 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-top-8-proven-techniques-to-amplify-content/"><u>[New] 2024 Approved Top 8 Proven Techniques to Amplify Content</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-crafting-instagram-reels-like-professionals-top-10-tools/"><u>[New] In 2024, Crafting Instagram Reels Like Professionals - Top 10 Tools</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-streamline-vlogging-titles-top-11-affordable-generators/"><u>[New] Streamline Vlogging Titles - Top 11 Affordable Generators</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-the-8-best-no-cost-editing-software-for-social-media/"><u>[Updated] The 8 Best No-Cost Editing Software for Social Media</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-from-archive-to-annotation-turning-zip-into-srt/"><u>2024 Approved From Archive to Annotation Turning ZIP Into SRT</u></a></li>
-<li><a href="https://fox-that.techidaily.com/4-ways-to-fix-grayed-out-icloud-settings-on-your-iphone-or-ipad/"><u>4 Ways to Fix Grayed Out iCloud Settings on Your iPhone or iPad</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/best-animation-studios-for-pc-and-mac-top-picks-for-pros-for-2024/"><u>Best Animation Studios for PC and Mac Top Picks for Pros for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721480152043-cant-adjust-auto-brightness-on-iphone-discover-these-7-quick-solutions/"><u>Can't Adjust Auto-Brightness on iPhone? Discover These 7 Quick Solutions!</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-review-of-the-petsafe-automatic-pet-feeder-ideal-for-weight-management/"><u>Comprehensive Review of the PetSafe Automatic Pet Feeder – Ideal for Weight Management</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/exploring-the-benefits-and-drawbacks-of-dvd-media-an-in-depth-analysis/"><u>Exploring the Benefits & Drawbacks of DVD Media - An In-Depth Analysis</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-verizon-iphone-13-by-drfone-ios/"><u>How to Unlock Verizon iPhone 13</u></a></li>
-<li><a href="https://fox-that.techidaily.com/mastering-bluetooth-pairing-and-use-on-your-ios-device/"><u>Mastering Bluetooth Pairing and Use on Your iOS Device</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/mastering-the-art-of-making-popular-tiktok-sounds-your-ringtone-for-2024/"><u>Mastering the Art of Making Popular TikTok Sounds Your Ringtone for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/overcoming-iphone-dictation-issues-a-comprehensive-guide-with-five-key-fixes/"><u>Overcoming iPhone Dictation Issues: A Comprehensive Guide with Five Key Fixes</u></a></li>
-<li><a href="https://fox-that.techidaily.com/revive-ringing-discover-these-11-fixes-when-incoming-calls-arent-audible-on-your-iphone/"><u>Revive Ringing: Discover These 11 Fixes When Incoming Calls Aren't Audible on Your iPhone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solutions-for-fixing-a-non-responsive-iphone-proximity-detector/"><u>Solutions for Fixing a Non-Responsive iPhone Proximity Detector</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-full-page-captures-solutions-when-safari-screenshots-fail/"><u>Troubleshooting Full Page Captures: Solutions When Safari Screenshots Fail</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-icloud-a-step-by-step-guide-to-fixing-sync-problems/"><u>Troubleshooting iCloud: A Step-by-Step Guide to Fixing Sync Problems</u></a></li>
-<li><a href="https://fox-that.techidaily.com/whatsapp-zoom-bug-fixes-capturing-clearer-photos-and-videos/"><u>WhatsApp Zoom Bug Fixes: Capturing Clearer Photos and Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-free-to-focused-financial-goals-the-journey-of-ajays-youtube-success-for-2024/"><u>[New] From Free to Focused Financial Goals The Journey of Ajay’s Youtube Success for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-become-a-tiktok-phenomenon-with-self-cloning-insights/"><u>[Updated] Become a TikTok Phenomenon with Self-Cloning Insights</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-effortlessly-connect-camera-roll-to-snapchat-sharing-platforms-for-2024/"><u>[Updated] Effortlessly Connect Camera Roll to Snapchat Sharing Platforms for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-maximizing-movie-file-saving-6-methods-for-win-11/"><u>[Updated] Maximizing Movie File Saving 6 Methods for Win 11</u></a></li>
+<li><a href="https://fox-that.techidaily.com/10-effective-strategies-to-correct-persistent-touch-malfunctions-on-your-iphone/"><u>10 Effective Strategies to Correct Persistent Touch Malfunctions on Your iPhone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/11-ways-to-recover-your-disappearing-airpods-with-apples-find-my-tool/"><u>11 Ways to Recover Your Disappearing AirPods with Apple's Find My Tool</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721455939508-contacts-not-responding-on-iphone-xyz-discover-these-3-effective-fixes/"><u>Contacts Not Responding on iPhone XYZ? Discover These 3 Effective Fixes</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/expert-advice-getting-rid-of-stickers-on-videos-for-2024/"><u>Expert Advice Getting Rid of Stickers on Videos for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721470864018-fixing-the-hidden-iphone-making-it-visible-in-itunesfinder-once-again/"><u>Fixing the Hidden iPhone: Making It Visible in iTunes/Finder Once Again</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721448499939-improve-browser-speed-on-your-iphone-a-guide-to-fastening-safari/"><u>Improve Browser Speed on Your iPhone - A Guide to Fastening Safari!</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-samsung-galaxy-a54-5g-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Samsung Galaxy A54 5G Fingerprint Lock</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-zte-nubia-flip-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On ZTE Nubia Flip 5G? | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/install-canon-pixma-ts3322-drivers-get-your-printing-up-to-date/"><u>Install Canon PIXMA TS3322 Drivers - Get Your Printing Up-to-Date</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721472199246-iphone-troubles-heres-how-to-fix-non-syncing-icloud-photos-in-7-steps/"><u>IPhone Troubles? Here's How to Fix Non-Syncing iCloud Photos in 7 Steps!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721463181820-is-your-iphone-ignoring-the-wireless-charger-solve-it-with-these-7-methods/"><u>Is Your iPhone Ignoring the Wireless Charger? Solve It With These 7 Methods</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721464479888-missing-iphone-notifications-try-these-7-fixes-for-a-quick-solution/"><u>Missing iPhone Notifications? Try These 7 Fixes for a Quick Solution!</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-mod-video-editing-without-the-cost-top-5-free-editors/"><u>Updated 2024 Approved MOD Video Editing Without the Cost Top 5 Free Editors</u></a></li>
 </ul></div>
 

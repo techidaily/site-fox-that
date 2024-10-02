@@ -1,7 +1,7 @@
 ---
 title: "How to Fix: When Your iPhone Shows Phone Numbers Not Names in Messages"
-date: 2024-09-15T20:08:37.384Z
-updated: 2024-09-20T19:07:43.965Z
+date: 2024-09-24T23:25:02.894Z
+updated: 2024-10-01T20:23:44.000Z
 tags:
   - iphone
   - apple
@@ -35,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/a7b063e2c5f1e938dc6e32e2ce85c52239dfc8e77
 
  However, this is usually a temporary issue and should fix itself. If this isn't the case, you can try a few quick fixes to get things back to normal quickly.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Restart Your iPhone
 
  A quick fix to getting your contact names back instead of phone numbers is to [restart your iPhone](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) . As with many other issues, a quick reboot usually does the trick, and you should be able to see your contact names instead of phone numbers in Messages.
@@ -54,6 +61,19 @@ thumbnail: https://thmb.techidaily.com/a7b063e2c5f1e938dc6e32e2ce85c52239dfc8e77
 
 ![Contact Edit menu in iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/contact-edit-menu-in-ios.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Add Country Code to Number](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Fix-Messages-Not-Showing-Contact-Number.jpg)
 
 Close
@@ -63,6 +83,13 @@ Close
  Alternatively, if you choose to add a new contact from the phone number, you can add it to an existing contact. But then you'll have two numbers saved for that person.
 
  Once you fix a phone number, you'll see Messages will automatically merge the conversations split across different chats.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Toggle iCloud Contacts
 
@@ -80,25 +107,18 @@ To do this, follow these steps on your iPhone:
 
 ![Settings on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Fix-Messages-Not-Showing-iCloud.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Password and Security in iPhone iCloud Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/2FA-iPhone-Password-and-Security.jpg)
 
 ![Contacts in iCloud Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Fix-Messages-Not-Showing-iCloud-Contacts.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Close
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix Messages Showing Phone Numbers Instead of Contact Names
 
@@ -117,5 +137,24 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-a-deep-dive-into-an-individuals-3dr-experience/"><u>[New] A Deep Dive Into an Individual's '3DR' Experience</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-instagram-tv-deactivation-made-easy-for-2024/"><u>[New] Instagram TV Deactivation Made Easy for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-pureearaudioextractors-latest-evolution/"><u>[Updated] 2024 Approved PureEarAudioExtractor's Latest Evolution</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-immediate-sharing-from-twitter-vids-to-whatsapp-for-2024/"><u>[Updated] Immediate Sharing From Twitter Vids to WhatsApp for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/airpod-audio-woes-correct-silence-and-unstable-sounds-using-these-10-techniques/"><u>AirPod Audio Woes: Correct Silence and Unstable Sounds Using These 10 Techniques</u></a></li>
+<li><a href="https://fox-that.techidaily.com/get-the-most-out-of-your-iphones-wifi-discover-these-eight-solutions/"><u>Get the Most Out of Your iPhone’s Wifi - Discover These Eight Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721478195485-how-to-accelerate-your-iphones-screen-shutdown-effective-solutions-inside/"><u>How to Accelerate Your iPhone's Screen Shutdown – Effective Solutions Inside!</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-vivo-v27-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Vivo V27 Phone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-vivo-y200-drfone-by-drfone-virtual-android/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Vivo Y200 | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/navigate-around-apple-pay-snags-effortlessly-your-guide-to-solving-the-top-ten-issues/"><u>Navigate Around Apple Pay Snags Effortlessly: Your Guide to Solving the Top Ten Issues</u></a></li>
+<li><a href="https://fox-that.techidaily.com/navigating-privacy-ways-to-check-for-an-imessage-block-from-a-specific-user/"><u>Navigating Privacy: Ways to Check for an iMessage Block From a Specific User</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-the-issue-understanding-and-fixing-apex-legends-error-code-23/"><u>Resolving the Issue: Understanding and Fixing Apex Legends Error Code 23</u></a></li>
+<li><a href="https://windows11.techidaily.com/strengthening-net-framework-in-windows-max-156/"><u>Strengthening .NET Framework in Windows (Max 156)</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721467880557-struggling-with-phone-sync-discover-how-to-get-your-iphone-detected-by-itunesfinder-easily/"><u>Struggling with Phone Sync? Discover How to Get Your iPhone Detected by iTunes/Finder Easily!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-11-fixes-for-iphones-that-arent-receiving-call-notifications/"><u>Top 11 Fixes for iPhones That Aren't Receiving Call Notifications</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/trouble-with-apple-iphone-xr-swipe-up-try-these-11-solutions-drfone-by-drfone-ios/"><u>Trouble with Apple iPhone XR Swipe-Up? Try These 11 Solutions | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unifying-similar-portraits-in-your-photograph-collection-using-iphone-or-mac-tools/"><u>Unifying Similar Portraits in Your Photograph Collection Using iPhone or Mac Tools</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting THX Spatial Sound Issues on Windows 11/10 Computers
-date: 2024-09-26T00:31:28.010Z
-updated: 2024-09-26T17:33:52.570Z
+date: 2024-09-25T19:42:33.849Z
+updated: 2024-10-02T02:50:49.805Z
 tags:
   - win11
   - win10
@@ -63,22 +63,29 @@ thumbnail: https://thmb.techidaily.com/66f3a5314b7f0b6f994f976b66c33a57ff0466854
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2: Create a new user account
 
  1) Right-click the task bar on your desktop at the bottom and click **Task Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b3b34111eb.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) On the top of the Task Manager window, select**File** option and then choose**Run new task** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b8999a1831.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Then type **powershell**  and t  ick the box for**Create this task with administrative privileges** . Click **OK** .
 
@@ -93,10 +100,10 @@ net user newusername newpassword /add
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b8bbeac77b.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5) Restart your computer and log into the new user account.
@@ -114,6 +121,13 @@ net user newusername newpassword /add
  2) On your keyboard, press the**Windows logo key** and**X** at the same time, click**Device Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b92b357675.png)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Double-click**Sound, video and game controller** . Right-click your audio card driver and click**Uninstall device** .
 
@@ -137,13 +151,6 @@ net user newusername newpassword /add
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b960cea017.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  6.3) Click the **Update** button next to the flagged video and audio card to automatically download and install the correct versions of them (you can do this with the FREE version).
 
  Or click **Update All**  to automatically download and install the correct version of **_all_** the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
@@ -154,13 +161,6 @@ net user newusername newpassword /add
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4: Disable or uninstall third-party antivirus programs
 
  If you’ve installed antivirus or anti-malware programs such as Norton, Kaspersky, AVG, Avast Behavior Shield or Malwarebytes, you should **temporarily**   turn them off or disable them to see if they’re causing your Start menu not working problem. If your computer’s Start menu returns to normal when they’re off, you should contact the vendor of the software to see if they can provide some help.
@@ -168,6 +168,13 @@ net user newusername newpassword /add
  Note that Microsoft has its own default anti-malware, **Windows Defender** . It’s automatically enabled even if you also have other antivirus applications installed. Even if you disable your other antivirus programs, Windows Defender is always there for you during that certain time range. So, no need to worry too much about temporarily turning antivirus off.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5: Uninstall Dropbox
 
@@ -180,15 +187,22 @@ net user newusername newpassword /add
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b98211438e.png)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) View by**Category** , then click**Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b984aa9035.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Find Dropbox, and click**Uninstall** to get it removed from your computer.
 
@@ -216,6 +230,13 @@ net user newusername newpassword /add
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b3b34111eb.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) On the top of the Task Manager window, select**File** option and then choose**Run new task** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b8999a1831.png)
@@ -223,13 +244,6 @@ net user newusername newpassword /add
  3) Then type **powershell**  and t  ick the box for**Create this task with administrative privileges** . Click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b8a563ff80.png)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Type**sfc /scannow** in and press the**Enter** key on your keyboard. Wait for a while for the process to complete.
 
@@ -244,13 +258,6 @@ DISM /Online /Cleanup-Image /RestoreHealth
 6) When these two tests finishes, check if your Start menu is back.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 8: Reinstall Cortana
 
@@ -281,13 +288,6 @@ Get-AppXPackage -AllUsers | Foreach {Add-AppxPackage -DisableDevelopmentMode -Re
 
  4) There, your Cortana is reinstalled, and your Start menu should also be back now.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Last but not least: refresh your PC
 
  If you have tried all the above methods, but still you don’t see any promising signs, there is still one more solution left for you to have a try: perform a refresh on your Windows 10\.
@@ -311,24 +311,20 @@ Get-AppXPackage -AllUsers | Foreach {Add-AppxPackage -DisableDevelopmentMode -Re
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-enhance-footage-quality-with-premium-handheld-stabilizers/"><u>[New] Enhance Footage Quality with Premium Handheld Stabilizers</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-explore-mp4-recording-tools-today/"><u>[New] Explore MP4 Recording Tools Today</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-mastering-broadcast-choices-expert-tips-and-no10-insights/"><u>[New] Mastering Broadcast Choices Expert Tips and No.10 Insights</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-a-detailed-study-of-vsdcs-screen-capture-prowess-and-competing-products/"><u>[Updated] 2024 Approved A Detailed Study of VSDC's Screen Capture Prowess & Competing Products</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-mastering-movements-intova-xs-video-excellence/"><u>[Updated] Mastering Movements Intova X's Video Excellence</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/complete-fix-for-error-cannot-find-file-mscorwksdll/"><u>Complete Fix for Error: Cannot Find File MSCORWKS.DLL</u></a></li>
-<li><a href="https://fox-that.techidaily.com/eliminate-instagram-buffering-6-key-strategies-for-optimizing-app-performance-across-ios-and-android/"><u>Eliminate Instagram Buffering: 6 Key Strategies for Optimizing App Performance Across iOS and Android</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-samsung-galaxy-s23plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Samsung Galaxy S23+ | Dr.fone</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-designing-dramatic-podcast-clips/"><u>In 2024, Designing Dramatic Podcast Clips</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721456525185-ios-16-lock-screen-depth-effect-issues-discover-7-proven-solutions/"><u>IOS 16 Lock Screen Depth Effect Issues? Discover 7 Proven Solutions!</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721468356968-issue-with-iphone-and-vpn-not-working-discover-7-quick-fixes/"><u>Issue with iPhone and VPN Not Working? Discover 7 Quick Fixes</u></a></li>
-<li><a href="https://fox-that.techidaily.com/mastering-the-factory-reset-process-for-iphones-and-ipads-step-by-step-tips/"><u>Mastering the Factory Reset Process for iPhones and iPads – Step-by-Step Tips</u></a></li>
-<li><a href="https://fox-that.techidaily.com/overcome-iphone-313-challenges-ultimate-guide-and-troubleshooting-tips/"><u>Overcome iPhone #313 Challenges: Ultimate Guide & Troubleshooting Tips</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721479877354-revive-your-iphone-solo-expert-techniques-to-reset-without-itunes/"><u>Revive Your iPhone Solo: Expert Techniques to Reset without iTunes.</u></a></li>
-<li><a href="https://fox-that.techidaily.com/say-goodbye-to-that-annoying-yellow-cast-on-your-iphone-screen-discover-these-9-fixing-methods/"><u>Say Goodbye to That Annoying Yellow Cast on Your iPhone Screen – Discover These 9 Fixing Methods!</u></a></li>
-<li><a href="https://games-able.techidaily.com/steam-halts-loophole-exploitation-impact-explored/"><u>Steam Halts Loophole Exploitation: Impact Explored</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-airpods-why-you-might-have-a-loudquiet-earbud-and-how-to-balance-it/"><u>Troubleshooting AirPods: Why You Might Have a Loud/Quiet Earbud and How to Balance It</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-how-to-fix-app-download-issues-on-your-iphone-top-10-solutions/"><u>Troubleshooting: How to Fix App Download Issues on Your iPhone - Top 10 Solutions</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-easy-way-to-create-a-diy-green-screen-video-effect/"><u>Updated Easy Way to Create a DIY Green Screen Video Effect</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-embrace-audio-wonders-streaming-podcasts-with-an-iphone/"><u>[New] In 2024, Embrace Audio Wonders Streaming Podcasts with an iPhone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-transform-your-video-output-tubebuddys-methodology/"><u>[New] In 2024, Transform Your Video Output - TubeBuddy's Methodology</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-enhancing-your-viewing-experience-facebook-and-roku-synergy/"><u>2024 Approved Enhancing Your Viewing Experience Facebook & Roku Synergy</u></a></li>
+<li><a href="https://driver-install.techidaily.com/c6515-firmware-version-released/"><u>C6515 Firmware Version Released</u></a></li>
+<li><a href="https://fox-that.techidaily.com/correcting-unintended-browser-activity-reports-on-iphone-screen-time-monitor/"><u>Correcting Unintended Browser Activity Reports on iPhone Screen Time Monitor</u></a></li>
+<li><a href="https://fox-that.techidaily.com/get-your-apple-device-back-online-the-ultimate-guide-to-connecting-iphones-and-ipads-to-wi-fi/"><u>Get Your Apple Device Back Online: The Ultimate Guide to Connecting iPhones and iPads to Wi-Fi</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Motorola Razr 40 Ultra | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-top-10-for-mac-gif-capturing-expert-reviews/"><u>In 2024, Top 10 for Mac GIF Capturing Expert Reviews</u></a></li>
+<li><a href="https://fox-that.techidaily.com/one-airpod-louder-than-the-other-discover-4-effective-ways-to-rectify-this-issue/"><u>One AirPod Louder Than the Other? Discover 4 Effective Ways to Rectify This Issue!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solve-your-broken-iphone-volume-buttons-issue-in-just-7-steps/"><u>Solve Your Broken iPhone Volume Buttons Issue in Just 7 Steps!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-no-service-error-restoring-gps-functionality-on-your-iphone/"><u>Solving 'No Service' Error: Restoring GPS Functionality on Your iPhone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-iphone-mic-issues-proven-fixes-for-non-functioning-microphones/"><u>Solving iPhone Mic Issues: Proven Fixes for Non-Functioning Microphones</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/streamline-video-analytics-a-guide-to-youtube-statistics-with-social-blade/"><u>Streamline Video Analytics A Guide to YouTube Statistics with Social Blade</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-10-explanations-for-auto-dimming-screens-on-your-apple-iphone/"><u>Top 10 Explanations for Auto-Dimming Screens on Your Apple iPhone</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-must-try-reaction-video-apps-for-maximum-engagement-for-2024/"><u>Updated Must-Try Reaction Video Apps for Maximum Engagement for 2024</u></a></li>
 </ul></div>
 

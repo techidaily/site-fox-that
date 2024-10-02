@@ -1,7 +1,7 @@
 ---
 title: "Dive Into Diagnosis: Uncovering the 9 Telltale Signs of Water Damage on Your iPhone"
-date: 2024-09-17T00:28:09.669Z
-updated: 2024-09-20T18:51:27.339Z
+date: 2024-09-24T21:47:37.475Z
+updated: 2024-10-02T03:47:31.565Z
 tags:
   - iphone
   - apple
@@ -33,15 +33,36 @@ thumbnail: https://thmb.techidaily.com/66f3cf36e141a02ee3ef4f8fc90997bfb9adc3902
 
  If you use your iPhone's camera and your pictures look like they're from a low-budget movie from the 50s, then it might be water-damaged. If you see a photo like this, turn off your phone and dry it thoroughly.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Face ID or Touch ID Malfunctioning
 
 ![iPhone with Face ID is not available message on the lock screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/iphone-with-face-id-is-not-available-message-on-the-lock-screen.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Apple's biometric security features are one of the features you could lose when your iPhone takes an unfortunate bath in water.
 
  Face ID works using the TrueDepth camera system embedded into the notch or Dynamic Island. While your front camera might dry, and your picture quality may return to what it used to be, Face ID could still remain unavailable. You can try to [fix Face ID on your iPhone](https://www.makeuseof.com/how-to-fix-face-id-not-working-or-not-available-on-iphone/) , but your best bet is to get it to an expert as soon as possible.
 
  Likewise, Touch ID could also be negatively affected by water if it slips through the side of the Home button and gets into the sensors. This is less likely to happen if you use an iPhone 7 or 8, but it's still possible if the phone falls into extremely dirty water.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Misbehaving Buttons
 
@@ -51,23 +72,9 @@ thumbnail: https://thmb.techidaily.com/66f3cf36e141a02ee3ef4f8fc90997bfb9adc3902
 
 ![An iPhone X with a dark spot on its left bottom corner](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/05/an-iphone-x-with-a-dark-spot-on-its-left-bottom-corner.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you're unlucky, water could also affect your display and develop permanent patches. You might see signs of water under the display first before it slowly forms dark patches—making the affected area dimmer.
 
  Once you see signs of water under the display, dry the device and [back up all your iPhone's data](https://www.makeuseof.com/tag/how-to-backup-iphone-ipad/) . Whatever you do, do not put it in rice because that myth may accelerate your problem. If there's still a dark spot after your phone is dry, you might need to change the screen assembly.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Faulty Touchscreen and Flickering Display
 
@@ -87,6 +94,13 @@ thumbnail: https://thmb.techidaily.com/66f3cf36e141a02ee3ef4f8fc90997bfb9adc3902
 
  You should dry out the speakers for iPhones that just fell into some water. If that still doesn't help, try some DIY [iPhone speaker fixes](https://www.makeuseof.com/tag/fix-iphone-speaker-not-working/) before you spend money on an expert.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. Signs of Rust and Corrosion
 
  iPhones are typically made of stainless steel or aluminum, a sturdy lightweight metal, but a metal nonetheless. This means that when iPhones are exposed to moisture or salty water for too long, the metals can corrode and cause rust or pitting.
@@ -94,13 +108,6 @@ thumbnail: https://thmb.techidaily.com/66f3cf36e141a02ee3ef4f8fc90997bfb9adc3902
  If you take your time to observe the body of the iPhone and you find tiny, flaky pits in the metal, that phone might have been in some water once in its life, and its owner didn't dry it out properly.
 
  If you're skilled at DIY repairs, you can try opening up the iPhone to search the interior components for signs of rust.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 8\. Unstable Charging
 
@@ -111,10 +118,16 @@ thumbnail: https://thmb.techidaily.com/66f3cf36e141a02ee3ef4f8fc90997bfb9adc3902
  If your phone falls in muddy water, try to remove mud from the charging port as quickly as possible. When your phone dries, give the charging port a thorough clean. You can check our guide on [how to clean your dirty iPhone](https://www.makeuseof.com/tag/clean-iphone-guide/) for better assistance with that.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 9\. Strange Smells
@@ -146,5 +159,18 @@ thumbnail: https://thmb.techidaily.com/66f3cf36e141a02ee3ef4f8fc90997bfb9adc3902
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/1716069411954-new-how-to-manual-for-creating-an-inclusive-and-productive-skype-chat-room-accessible-by-both-windows-and-mac-users-for-2024/"><u>[New] How-To Manual for Creating an Inclusive and Productive Skype Chat Room Accessible by Both Windows & Mac Users. For 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-secrets-to-successful-twitpicingvideos-included-for-2024/"><u>[Updated] Secrets to Successful Twitpicing—Videos Included for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-wealth-accumulation-mr-beasts-journey/"><u>[Updated] Wealth Accumulation Mr. Beast's Journey</u></a></li>
+<li><a href="https://win-answers.techidaily.com/complete-tutorial-on-turning-on-and-implementing-hyper-v-for-windows-11-users/"><u>Complete Tutorial on Turning On and Implementing Hyper-V for Windows 11 Users</u></a></li>
+<li><a href="https://fox-that.techidaily.com/crack-the-code-of-constant-connection-six-tips-for-airpods-multi-device-management/"><u>Crack the Code of Constant Connection: Six Tips for AirPods Multi-Device Management</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-troubleshoot-when-your-iphone-wont-sync-with-windows-or-mac/"><u>How To Troubleshoot When Your iPhone Won't Sync With Windows Or Mac</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-boost-your-channels-top-5-youtube-tricks-for-increased-visibility/"><u>In 2024, Boost Your Channels Top 5 YouTube Tricks for Increased Visibility</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-frame-by-frame-how-to-convert-videos-to-images-with-these-10-powerful-tools/"><u>New 2024 Approved Frame by Frame How to Convert Videos to Images with These 10 Powerful Tools</u></a></li>
+<li><a href="https://games-able.techidaily.com/overcoming-steam-library-not-writable-on-pc-windows-11/"><u>Overcoming Steam Library Not Writable on PC Windows 11</u></a></li>
+<li><a href="https://fox-that.techidaily.com/reviving-lost-icon-designs-on-iphone-proven-methods-to-fix-icon-issues/"><u>Reviving Lost Icon Designs on iPhone: Proven Methods to Fix Icon Issues</u></a></li>
+<li><a href="https://fox-that.techidaily.com/whatsapp-sync-failures-with-icloud-discover-tips-to-secure-your-messages-on-apples-cloud-service/"><u>WhatsApp Sync Failures with iCloud? Discover Tips to Secure Your Messages on Apple's Cloud Service</u></a></li>
+</ul></div>
 

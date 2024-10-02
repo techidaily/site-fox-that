@@ -1,7 +1,7 @@
 ---
 title: Can't Enjoy Depth Effect at iPhone XS/XR Lock Screen in iOS 16? Here Are 7 Fixes to Try Now!
-date: 2024-09-20T01:09:51.591Z
-updated: 2024-09-26T19:55:54.317Z
+date: 2024-09-27T23:15:17.785Z
+updated: 2024-10-02T03:54:41.626Z
 tags:
   - iphone
   - apple
@@ -35,6 +35,19 @@ thumbnail: https://thmb.techidaily.com/12e208bbd75085a265128c07333cb07b6d6f82e50
 
  For instance, if you choose a wallpaper with yourself in the foreground and a great background, the Lock Screen clock will be between you and the background.
 
+<!-- affiliate ads begin -->
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Requirements for Lock Screen Depth Effect on iPhone
 
  Before troubleshooting Depth Effect on your iPhone, ensure you've met the prerequisites. What you'll need for Depth Effect to work on your iPhone is as follows:
@@ -48,6 +61,13 @@ thumbnail: https://thmb.techidaily.com/12e208bbd75085a265128c07333cb07b6d6f82e50
 ## Troubleshooting Tips to Fix Depth Effect Not Working on iOS Lock Screen
 
  The Depth Effect feature primarily requires an iPhone with an A12 Bionic processor. If you have met all the Depth Effect's requirements and cannot get it to work, try these troubleshooting tips to ensure it works again.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. Update Your iPhone
 
@@ -63,21 +83,7 @@ thumbnail: https://thmb.techidaily.com/12e208bbd75085a265128c07333cb07b6d6f82e50
 
 ![Tap Software Update in iOS General Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/ios-general-settings.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Tap Download and Install when you get iOS Software Update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/ios-software-update.jpeg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Close
 
@@ -99,10 +105,10 @@ Close
 ![Select Customize in Wallpaper Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/ios-wallpaper-settings-customize.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Enable Depth Effect on Lock Screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/enable-depth-effect-lock-screen.jpeg)
@@ -110,19 +116,6 @@ Close
 Close
 
  Depth Effect should work on your iPhone's Lock Screen wallpaper if you have had it disabled before.
-
-<!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. Remove Lock Screen Widgets
 
@@ -137,20 +130,13 @@ Close
 
 ![Remove Lock Screen Widgets by Tapping on them](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/ios-16-remove-lock-screen-widgets.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![iOS 16 Lock Screen without Widgets and Depth Effect working](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/ios-16-lock-screen-without-widgets.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
-  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Close
@@ -179,6 +165,13 @@ Close
 
 ![Select the photo whose file format you want to check in the Photos app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/select-the-photo-whose-file-format-you-want-to-check-in-the-photos-app.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Tap the i button on the bottom of the photo](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/tap-the-i-button-on-the-bottom-of-the-photo.jpeg)
 
 ![Check the file format of the image under its metadata](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/check-the-file-format-of-the-image-under-its-metadata.jpeg)
@@ -188,10 +181,10 @@ Close
  You'll find the file format right next to the metadata of the image under the**Adjust** option. If you see PNG as the file format, converting [the PNG image to JPG on your iPhone](https://www.makeuseof.com/how-to-batch-convert-png-images-to-jpeg-iphone/) would be ideal.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 6\. Reposition the Wallpaper Subject
@@ -206,16 +199,23 @@ Close
 
 ![Select Customize in Wallpaper Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/ios-wallpaper-settings-customize.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Lock Screen Wallpaper Before Repositioning](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/lock-screen-wallpaper-before-repositioning.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Lock Screen Wallpaper After Repositioning](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/lock-screen-wallpaper-after-repositioning.jpeg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close
 
@@ -250,24 +250,24 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-techniques-for-more-watches-on-your-insta-vids/"><u>[Updated] 2024 Approved Techniques for More Watches on Your Insta Vids</u></a></li>
-<li><a href="https://fox-that.techidaily.com/8-essential-strategies-and-solutions-for-iphone-photo-album-glitches/"><u>8 Essential Strategies & Solutions for iPhone Photo Album Glitches</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/avoiding-social-media-isolation-tweet-on-fb-for-2024/"><u>Avoiding Social Media Isolation Tweet on FB for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/design-a-gif-joke-giphy-magic-for-2024/"><u>Design a Gif Joke Giphy Magic for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/eliminate-photo-redundancy-in-your-apple-devices-by-merging-like-images-effortlessly/"><u>Eliminate Photo Redundancy in Your Apple Devices by Merging Like Images Effortlessly</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fix-an-iphones-no-vibration-issue-in-silent-and-ring-modes-with-these-8-simple-solutions/"><u>Fix an iPhone's No-Vibration Issue in Silent & Ring Modes with These 8 Simple Solutions</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-completely-restore-your-apple-device-settings-iphoneipad/"><u>How To Completely Restore Your Apple Device Settings (iPhone/iPad)</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-resolve-iphone-standby-issues-a-guide-to-4-essential-fixes/"><u>How to Resolve iPhone Standby Issues: A Guide to 4 Essential Fixes</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-the-ultimate-smartphone-filmmakers-handbook-for-youtube-thumbnails/"><u>In 2024, The Ultimate Smartphone Filmmaker's Handbook for YouTube Thumbnails</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-top-7-icloud-activation-bypass-tools-for-your-apple-iphone-15-pro-by-drfone-ios/"><u>In 2024, Top 7 iCloud Activation Bypass Tools For your Apple iPhone 15 Pro</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-apps-and-online-tools-to-track-nubia-z50s-pro-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Nubia Z50S Pro Phone With/Without IMEI Number</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/save-money-now-the-4-most-reliable-sources-for-filmora-discounts-for-2024/"><u>Save Money Now The 4 Most Reliable Sources for Filmora Discounts for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/simple-solutions-resolving-top-10-apple-pay-problems-quickly/"><u>Simple Solutions: Resolving Top 10 Apple Pay Problems Quickly</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/step-by-step-screen-and-video-capture-on-android/"><u>Step-by-Step Screen and Video Capture on Android</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-how-to-solve-your-iphone-connection-issues-with-pc/"><u>Troubleshooting: How to Solve Your iPhone Connection Issues with PC</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-infinix-hot-40-pro-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Infinix Hot 40 Pro | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/understanding-iphone-14-battery-performance-common-problems-and-solutions/"><u>Understanding iPhone 14 Battery Performance: Common Problems & Solutions</u></a></li>
-<li><a href="https://techidaily.com/unlock-a-disable-iphone-15-using-itunes-by-drfone-ios-unlock-ios-unlock/"><u>Unlock a disable iPhone 15 using itunes</u></a></li>
-<li><a href="https://fox-that.techidaily.com/why-are-my-iphones-text-messages-arriving-late-explore-9-fixes/"><u>Why Are My iPhone's Text Messages Arriving Late? Explore 9 Fixes</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-advanced-mobile-mounting-accurate-camera-positioning/"><u>[New] 2024 Approved Advanced Mobile Mounting Accurate Camera Positioning</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/udiovisual-authority-the-finest-computers-for-professional-edits/"><u>[New] Audiovisual Authority The Finest Computers for Professional Edits</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-reverse-action-flipping-your-iphone-video-footage/"><u>[New] In 2024, Reverse Action Flipping Your iPhone Video Footage</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-ornate-asian-dwellings-for-your-next-build-off-for-2024/"><u>[New] Ornate Asian Dwellings for Your Next Build-Off for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-understanding-and-optimizing-your-contents-spotlight-placement/"><u>[Updated] 2024 Approved Understanding and Optimizing Your Content's Spotlight Placement</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-5-ways-to-transfer-files-to-your-computer/"><u>[Updated] 5 Ways To Transfer Files To Your Computer</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/download-youtube-playlists-with-ease-our-instructions-for-2024/"><u>Download YouTube Playlists with Ease - Our Instructions for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fix-a-broken-tablet-display-8-tips-for-reviving-the-touchscreen/"><u>Fix a Broken Tablet Display: 8 Tips for Reviving the Touchscreen</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fix-your-iphones-standby-issue-with-these-4-methods/"><u>Fix Your iPhone's Standby Issue with These 4 Methods</u></a></li>
+<li><a href="https://fox-that.techidaily.com/from-drops-to-disasters-understanding-the-9-classic-symptoms-of-iphone-water-damage/"><u>From Drops to Disasters: Understanding the 9 Classic Symptoms of iPhone Water Damage</u></a></li>
+<li><a href="https://fox-that.techidaily.com/improve-browser-speed-on-your-iphone-a-guide-to-fastening-safari/"><u>Improve Browser Speed on Your iPhone - A Guide to Fastening Safari</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-nokia-105-classic-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Nokia 105 Classic to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-common-icloud-connectivity-challenges-solutions-for-smooth-syncing/"><u>Overcoming Common iCloud Connectivity Challenges: Solutions for Smooth Syncing</u></a></li>
+<li><a href="https://fox-that.techidaily.com/quick-fixes-to-restore-standby-functionality-on-your-ios-device/"><u>Quick Fixes to Restore Standby Functionality on Your iOS Device</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/quick-guide-accessing-the-latest-dell-display-driver-version-instantly/"><u>Quick Guide: Accessing the Latest Dell Display Driver Version Instantly</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/snapchat-success-top-ideas-for-memorable-snaps-for-2024/"><u>Snapchat Success Top Ideas for Memorable Snaps for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/the-ultimate-starter-guide-to-mastering-iphone-bluetooth-connectivity/"><u>The Ultimate Starter Guide to Mastering iPhone Bluetooth Connectivity</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-6-iphone-13-problems-and-solutions-a-comprehensive-guide/"><u>Top 6 iPhone 13 Problems & Solutions: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-8-solutions-and-hacks-for-iphone-photo-library-woes/"><u>Top 8 Solutions & Hacks for iPhone Photo Library Woes</u></a></li>
 </ul></div>
 

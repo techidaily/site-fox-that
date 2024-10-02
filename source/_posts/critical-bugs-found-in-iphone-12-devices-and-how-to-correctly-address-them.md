@@ -1,7 +1,7 @@
 ---
 title: Critical Bugs Found in iPhone 12 Devices & How to Correctly Address Them
-date: 2024-09-13T16:46:10.144Z
-updated: 2024-09-21T00:19:07.324Z
+date: 2024-09-29T19:30:13.042Z
+updated: 2024-10-01T22:25:45.725Z
 tags:
   - iphone
   - apple
@@ -66,6 +66,13 @@ Close
 
 ![Face ID in iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Face-ID-in-iPhone.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Enter passcode on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Enter-passcode-on-iPhone.JPG)
 
 ![Face ID settings in iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Face-ID-settings-in-iPhone.JPG)
@@ -87,6 +94,13 @@ Close
 
 ![Ringer button of iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Ringer-button-of-iPhone.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once the ringer is turned ON, here's what you need to do on your iPhone:
 
 ![General iPhone settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/General-iPhone-Settings-1.JPG)
@@ -101,9 +115,23 @@ Close
 
  If your ringer is on full, but the speakers don't produce sound,[restart your iPhone](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) . Still not successful? Maybe your speakers are damaged or filled with dust—time to seek the services of a professional.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. iPhone 12 Bluetooth Issues
 
 ![Bluetooth off](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Bluetooth-off.JPG)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![Bluetooth on](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Bluetooth-on.JPG)
 
@@ -112,6 +140,13 @@ Close
  This might be the most annoying iPhone 12 issue on the list because some users might experience connectivity issues, especially when connecting with a non-iOS device. Try fixing this problem by bringing both gadgets up close.
 
  If it still doesn't work, turn off Bluetooth on both devices and turn it back on. Also, make sure both devices are visible and available for pairing. If the problem persists, you should get your device checked.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Wi-Fi Connection Problems With iPhone 12
 
@@ -122,13 +157,6 @@ To fix the Wi-Fi problem, you can try the following steps:
 ![General iPhone settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/General-iPhone-Settings-1.JPG)
 
 ![Go to Wi-Fi](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Go-to-Wi-Fi-1.JPG)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
-  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Forget this network](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Forget-this-network.JPG)
 
@@ -153,7 +181,27 @@ To disconnect and reconnect to the hotspot, here's what you need to do:
 
 ![Personal hotspot off](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Personal-hotspot-off.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Personal hotspot on](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Personal-hotspot-on.JPG)
+
+<!-- affiliate ads begin -->
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close
 
@@ -177,6 +225,13 @@ Close
 
 ![iPhone resetting options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/iPhone-resetting-options.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Close
 
 1. Navigate to**Settings** and select**General** .
@@ -194,23 +249,9 @@ Close
 
  When nothing seems to work, troubleshoot your iCloud or seek iCloud support from the official Apple Store.
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
-  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 9\. Discoloration of the iPhone's Body
 
 ![Different iPhone color variants](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Different-iPhone-color-variants.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The exciting part about iPhone 12 is its color variants. You get several options from red to blue, green, standard black, and many more. However, some users might see discoloration, despite taking relevant measures.
 
@@ -226,29 +267,9 @@ Close
 
  If that doesn't help, you should browse relevant forums on Reddit to see if others are facing similar issues or start a discussion in [Apple Support Community](https://discussions.apple.com/welcome) .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 11\. Fast Battery Drainage on the iPhone 12
 
 ![iPhone 13 MagSafe charging](https://thmb.techidaily.com/1f2f4c22410ca8169af4ae6d02cdc0eba714608bc6ab4df470b116ebdad1c1fb.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Over time and constant use, the battery inside your iPhone 12 may start to deteriorate, and that's just unstoppable. However, excessive usage might lead to faster battery drainage. So, change your iPhone charger if you feel your phone isn't holding up the charge as before, especially if you use a third-party one.
 
@@ -283,5 +304,23 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/3dr-alone-unpackaging-a-single-user-review/"><u>'3DR' Alone Unpackaging a Single User Review</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/igital-storyboard-studio/"><u>[New] Digital Storyboard Studio</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-creating-profit-on-youtube-the-ultimate-list-of-top-business-channels-for-2024/"><u>[Updated] Creating Profit on YouTube The Ultimate List of Top Business Channels for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/2024-approved-mastering-acoustic-harmony-optimal-eq-settings-guide/"><u>2024 Approved Mastering Acoustic Harmony Optimal EQ Settings Guide</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-secrets-to-saving-and-sharing-your-roblox-experience-on-a-mac/"><u>2024 Approved Secrets to Saving & Sharing Your Roblox Experience on a Mac</u></a></li>
+<li><a href="https://fox-that.techidaily.com/can-you-locate-an-offline-iphone-demystifying-and-resolving-find-my-iphone-issues/"><u>Can You Locate an Offline iPhone? Demystifying and Resolving 'Find My iPhone' Issues</u></a></li>
+<li><a href="https://fox-that.techidaily.com/chatgpt-not-working-here-are-9-fixes-for-your-iphone-problems/"><u>ChatGPT Not Working? Here Are 9 Fixes for Your iPhone Problems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-techniques-for-eliminating-noise-disturbance-from-your-arctis-7-headset-while-using-a-pc/"><u>Effective Techniques for Eliminating Noise Disturbance From Your Arctis 7 Headset While Using a PC</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/essential-80s-films-for-your-next-movie-marathon/"><u>Essential '80S Films for Your Next Movie Marathon</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-master-multi-screen-video-streaming-with-microsoft-edges-pip/"><u>In 2024, Master Multi-Screen Video Streaming with Microsoft Edge's PIP</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-control-center-malfunctioning-discover-these-8-effective-solutions/"><u>IPhone Control Center Malfunctioning? Discover These 8 Effective Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcome-iphone-brightness-glitches-discover-7-fixes-for-auto-brightness-problems/"><u>Overcome iPhone Brightness Glitches: Discover 7 Fixes for Auto-Brightness Problems</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solve-iphone-stagnation-effective-techniques-when-its-frozen-on-the-apple-icon/"><u>Solve iPhone Stagnation: Effective Techniques When It's Frozen on the Apple Icon</u></a></li>
+<li><a href="https://fox-that.techidaily.com/struggle-no-more-10-essential-fixes-when-iphones-fail-to-download-new-applications/"><u>Struggle No More: 10 Essential Fixes When iPhones Fail To Download New Applications</u></a></li>
+<li><a href="https://fox-that.techidaily.com/ultimate-guide-to-solving-ghost-touch-issues-on-your-iphone-discover-10-effective-strategies/"><u>Ultimate Guide to Solving Ghost Touch Issues on Your iPhone - Discover 10 Effective Strategies</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-the-secrets-behind-top-notch-tech-gadgets-at-toms-hardware-hub/"><u>Unveiling the Secrets Behind Top-Notch Tech Gadgets at Tom's Hardware Hub</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Manage Cross-Device Call Notifications Between Your iPad and iPhone
-date: 2024-09-13T22:51:58.303Z
-updated: 2024-09-20T16:43:11.745Z
+date: 2024-10-01T01:07:28.506Z
+updated: 2024-10-02T01:30:39.528Z
 tags:
   - iphone
   - apple
@@ -45,6 +45,13 @@ thumbnail: https://thmb.techidaily.com/f247ef7a94b421ec0fcafea579ee074c3050225ad
 
  Still, this is a great option for quickly muting your iPad notifications.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Stop Your iPad From Ringing With Focus Modes
 
  If your iPad is running iPadOS 15 or later, you can [set up and use Focus modes](https://www.makeuseof.com/how-to-use-focus-modes-ipad/) to help you deal with that annoying ringer. Focus is essentially an evolution of the Do Not Disturb feature that can let you manually tweak what apps and services are allowed to launch notifications in various situations or times of the day.
@@ -57,30 +64,31 @@ thumbnail: https://thmb.techidaily.com/f247ef7a94b421ec0fcafea579ee074c3050225ad
 
 ![Creating a Focus Mode on iPadOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/how-to-stop-ipad-ringing-create-focus.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  On this screen, you can select the people and apps you want to manage notifications from. Select**Choose Apps** , then select**Allow Notifications From** at the top of the list. The list below will populate with a few apps, but you can add more.
 
  To add an app you want to allow notifications from, tap the**Add Apps** button on the left, then select it from the list of available apps. Once apps are added to the list, you can tap the checkbox in the top-left of each app to enable or disable notifications. There are [plenty of other aspects to Focus modes](https://www.makeuseof.com/focus-mode-ideas-to-set-up-in-ios/) , but this is all you need for notifications.
 
 ![Allowing notifications for certain apps in a new Focus Mode on iPadOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/how-to-stop-ipad-ringing-allow-notification.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  After you've created your custom Focus mode, you need to enable it from the Control Center. Pull down from the top-right of the iPad's screen, then long-press on**Focus** and choose your custom Focus Mode. ​​​​​​
 
 ![Enabling a Focus Mode on iPadOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/how-to-stop-ipad-ringing-turn-focus-on.jpg)
 
  When you want to disable it, you can tap the**Focus** toggle.
-
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Disable "Calls on Other Devices"
 
@@ -92,18 +100,18 @@ thumbnail: https://thmb.techidaily.com/f247ef7a94b421ec0fcafea579ee074c3050225ad
 
 ![allow calls on other devices iPhone setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/allow-calls-on-other-devices-iphone-setting.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Choosing which devices to ring when your iPhone rings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/how-to-stop-ipad-ringing-iphone-calls-on-other-devices-custom.jpg)
 
 Close
 
  If you want to disable calls everywhere but on your iPhone, disable the**Allow Calls on Other Devices** toggle. But if you only want to disable calls ringing on your iPad, leave this toggle enabled but look for your iPad under the "Allow Calls On" section further down on the screen, and then disable the slider next to it.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Plenty of Ways to Silence iPad Calls
 
@@ -124,5 +132,19 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-superior-style-for-text-mobility/"><u>[New] Superior Style for Text Mobility</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-micro-movies-on-facebook-galore/"><u>[Updated] 2024 Approved Micro-Movies on Facebook Galore</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-unlocking-the-potential-of-discord/"><u>[Updated] In 2024, Unlocking the Potential of Discord</u></a></li>
+<li><a href="https://fox-that.techidaily.com/comprehensive-tips-to-correct-hey-siri-problems-encountered-on-iphones/"><u>Comprehensive Tips to Correct 'Hey Siri' Problems Encountered on iPhones</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-itel-s23-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Itel S23 | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/revive-missing-iphone-apps-easy-to-follow-tips-for-finding-and-restoring-deleted-programs/"><u>Revive Missing iPhone Apps: Easy-to-Follow Tips for Finding and Restoring Deleted Programs</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-pocket-guide-to-saving-on-macbook-pro-13-cases-a-thorough-review-of-the-economical-procase-protector/"><u>The Pocket Guide to Saving on MacBook Pro 13 Cases: A Thorough Review of the Economical ProCase Protector</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-spectrum-of-perfection-creating-stunning-hdrs-in-lightroom/"><u>The Spectrum of Perfection Creating Stunning HDRs in Lightroom</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/top-6-ios-apps-turn-youtube-videos-into-mp3-files/"><u>Top 6 iOS Apps Turn YouTube Videos Into MP3 Files</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-solutions-what-to-do-if-your-airpods-are-missing-from-find-my/"><u>Top Solutions: What To Do If Your AirPods Are Missing From 'Find My'</u></a></li>
+<li><a href="https://fox-that.techidaily.com/understanding-and-solving-iphoneipad-overheating-a-comprehvew-guide/"><u>Understanding & Solving iPhone/iPad Overheating – A Comprehvew Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/why-wont-my-iphone-buzz-on-silent-or-ring-explore-these-8-fixes-for-non-vibrating-problems/"><u>Why Won't My iPhone Buzz on Silent or Ring? Explore These 8 Fixes for Non-Vibrating Problems</u></a></li>
+</ul></div>
 

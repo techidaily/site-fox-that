@@ -1,7 +1,7 @@
 ---
 title: Can You Get Notifications on iPhone When in Do Not Disturb? Explore These Effective Fixes
-date: 2024-09-18T21:38:33.666Z
-updated: 2024-09-20T18:42:33.877Z
+date: 2024-09-25T04:45:35.842Z
+updated: 2024-10-02T00:07:55.425Z
 tags:
   - iphone
   - apple
@@ -45,6 +45,13 @@ thumbnail: https://thmb.techidaily.com/07830baed28dcfedcdb1e672639175802d38d29df
 
 ![do not disturb settings on iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/do-not-disturb-settings.JPEG)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![allowed apps on do not disturb mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/dnd-allowed-apps.JPEG)
 
 Close
@@ -57,14 +64,14 @@ Close
 
 ![disable time sensitive notifications for iphone do not disturb mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/3-3.jpg)
 
- Alternatively, you can tap**Turn Off** for a specific app if you see its notifications pop up on your Lock Screen.
-
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Alternatively, you can tap**Turn Off** for a specific app if you see its notifications pop up on your Lock Screen.
 
 ## 4\. Change Settings for Incoming Calls
 
@@ -76,16 +83,16 @@ Close
 
 ![call settings for do not disturb mode on iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/dnd-favorite-calls.JPEG)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![change calls allowed on iphone do not disturb mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/dnd-allowed-calls.JPEG)
 
 Close
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Don't Allow Repeated Calls
 
@@ -96,10 +103,10 @@ Close
 ![turn off allow repeated calls for iphone do not disturb mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/2-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Turn Off or Hide Your Focus Status
@@ -111,10 +118,10 @@ Close
  To stop receiving texts and calls in this manner, you can [turn off your Focus status](https://www.makeuseof.com/how-to-stop-notify-anyway-focus-mode-iphone/) or [hide your Focus status from certain iPhone contacts](https://www.makeuseof.com/how-to-hide-focus-status-from-certain-contacts-iphone/) .
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Review Your Do Not Disturb Schedule
@@ -127,22 +134,16 @@ Close
 
 ![schedule for iphone do not disturb mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/dnd-schedule.JPEG)
 
-<!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![automate schedule for iphone do not disturb mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/dnd-schedule-2.JPEG)
 
 ![set time for iphone do not disturb mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/dnd-change-schedule.JPEG)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close
 
@@ -151,6 +152,13 @@ Close
  If you went through all the steps above and your iPhone's Do Not Disturb mode is still not working, try [restarting your iPhone](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) to see if it resolves the issue. Software glitches can sometimes prevent features like Do Not Disturb from functioning as intended, which you can fix with a simple reboot.
 
  And if you haven't,[update your iPhone to the latest iOS version](https://www.makeuseof.com/tag/update-iphone-ios-apps-data/) as well. Apple's software updates often come with bug fixes and patches for performance-related issues.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## No More Disruptions on Do Not Disturb Mode
 
@@ -173,5 +181,20 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-streaming-stardom-unraveling-jake-pauls-youtube-rise/"><u>[New] 2024 Approved Streaming Stardom Unraveling Jake Paul's YouTube Rise</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-importance-of-non-primary-footage-in-editing/"><u>[New] The Importance of Non-Primary Footage in Editing</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-agricultural-epics-top-10-rurality-in-games/"><u>[Updated] In 2024, Agricultural Epics Top 10 Rurality in Games</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-navigating-the-world-of-instagram-puzzles-for-peak-performance/"><u>[Updated] In 2024, Navigating the World of Instagram Puzzles for Peak Performance</u></a></li>
+<li><a href="https://fox-that.techidaily.com/apple-users-beware-the-five-hurdles-to-sharing-presents-with-your-devices/"><u>Apple Users Beware! The Five Hurdles to Sharing Presents with Your Devices</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/detailed-dissection-what-makes-obs-a-top-recorder-in-2024/"><u>Detailed Dissection What Makes OBS a Top Recorder, In 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175676802-discover-the-best-coolers-for-your-nvme-drives-in-depth-analysis-of-30-models-with-spotlight-on-id-cooling-m15-and-m05/"><u>Discover The Best Coolers for Your NVMe Drives: In-Depth Analysis Of 30 Models With Spotlight On ID-Cooling M15 & M05!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-restore-safari-functionality-on-your-iphone-in-just-10-steps/"><u>How to Restore Safari Functionality on Your iPhone in Just 10 Steps</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/lively-latins-interactive-and-exciting-education/"><u>Lively Latins: Interactive and Exciting Education</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcome-5-frequent-iphone-hurdles-effectively-by-leveraging-dfu-configuration/"><u>Overcome 5 Frequent iPhone Hurdles Effectively by Leveraging DFU Configuration</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/revive-accidentally-erased-items-on-your-iphone-with-this-superior-mac-data-recovery-application/"><u>Revive Accidentally Erased Items on Your iPhone with This Superior Mac Data Recovery Application</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/speed-skaters-showcase-at-the-olympics-2022-edition-for-2024/"><u>Speed Skaters' Showcase at the Olympics, 2022 Edition for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721460024839-unable-to-use-the-contact-list-on-your-iphone-try-these-3-troubleshooting-steps-right-now/"><u>Unable to Use the Contact List on Your iPhone? Try These 3 Troubleshooting Steps Right Now</u></a></li>
+</ul></div>
 

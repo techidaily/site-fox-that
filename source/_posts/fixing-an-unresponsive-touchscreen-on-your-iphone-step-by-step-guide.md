@@ -1,7 +1,7 @@
 ---
 title: Fixing an Unresponsive Touchscreen on Your iPhone – Step by Step Guide
-date: 2024-09-20T00:37:49.336Z
-updated: 2024-09-21T01:17:18.069Z
+date: 2024-09-29T18:33:28.547Z
+updated: 2024-10-01T22:17:33.110Z
 tags:
   - iphone
   - apple
@@ -59,6 +59,13 @@ If your screen is working, but not correctly, this could be the cause.
 
  Alternatively, you can click the Side button three times and this will disable it on most newer devices. For older devices, you may need to tap the Home button three times.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Back Up and Factory Reset Your iPhone
 
  If your touchscreen isn’t working correctly, you might have a software issue. While this is rare, it can happen.
@@ -67,18 +74,18 @@ If your screen is working, but not correctly, this could be the cause.
 
 ![iphone erase content](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/iphone-erase-content.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you can’t navigate here, you’ll need to plug your iPhone into a computer to perform a factory reset. After resetting, in rare cases, your touchscreen will work again.
 
  Related:[How to Factory Reset Your iPhone or iPad](https://www.makeuseof.com/tag/how-to-factory-reset-iphone-ipad/)
 
  If you do choose to get your iPhone repaired, you’ll most likely need to do this anyway. This ensures that the technician won’t be able to access your personal data. They may also need to test Face ID to make sure the repair worked and will need the phone to be unlocked to do so, which means you’re better off erasing all your data first.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Getting Your iPhone Screen Repaired
 
@@ -96,19 +103,6 @@ If your screen is working, but not correctly, this could be the cause.
 
  Related:[Learn to Fix Your Own Gadgets With Help From These Sites](https://www.makeuseof.com/tag/fix-gadgets-help-websites/)
 
-<!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Using Your iPhone Without a Touchscreen
 
  If your iPhone isn’t working but you need to access certain files, you can still do that. To do so, you’ll need to activate Voice Control. This can be helpful for backing up and restoring your iPhone.
@@ -117,11 +111,25 @@ If your screen is working, but not correctly, this could be the cause.
 
 ![iphone voice control](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/iphone-voice-control.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If Siri’s enabled, you can enable Voice Control by saying “Hey Siri, turn on Voice Control.” Once enabled, you can access your iPhone without using the touchscreen.
 
  Related:[Where to Fix iPhone Screens for Cheap: Places to Check Out](https://www.makeuseof.com/tag/places-that-fix-iphone-screens-for-cheap/)
 
  To use Voice Control, you should familiarize yourself with the basic commands.[Apple](https://support.apple.com/HT210417) has a full list of these commands on its website.
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## iPhone Screen Not Working? These Fixes Should Have Helped
 
@@ -142,5 +150,22 @@ If your screen is working, but not correctly, this could be the cause.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-clips.techidaily.com/new-unveiling-the-secrets-of-a-fresh-twitter-account-for-2024/"><u>[New] Unveiling the Secrets of a Fresh Twitter Account for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721473202358-cant-upgrade-ios-discover-9-effective-solutions-for-iphone-and-ipad-software-issues/"><u>Can't Upgrade iOS? Discover 9 Effective Solutions for iPhone and iPad Software Issues.</u></a></li>
+<li><a href="https://fox-that.techidaily.com/ending-iphone-app-annoyances-a-step-by-step-guide-to-keeping-them-running-smoothly/"><u>Ending iPhone App Annoyances: A Step-by-Step Guide to Keeping Them Running Smoothly</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-6-plus-to-the-previous-ios-system-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 6 Plus to the Previous iOS System Version? | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-recover-from-an-iphone-that-shows-sos-but-no-other-signal-indicators/"><u>How to Recover From an iPhone that Shows SOS But No Other Signal Indicators</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Oppo F25 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-xs-to-other-iphone-11-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone XS to other iPhone 11 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/identifying-if-youve-been-blocked-when-imessages-send-as-texts/"><u>Identifying if You've Been Blocked When iMessages Send as Texts</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/in-2024-digital-resonance-a-comprehensive-tutorial-for-echo-addition-in-windows-and-web-audio-applications/"><u>In 2024, Digital Resonance A Comprehensive Tutorial for Echo Addition in Windows and Web Audio Applications</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-app-icon-error-heres-how-you-can-fix-them-back/"><u>IPhone App Icon Error? Here's How You Can Fix Them Back</u></a></li>
+<li><a href="https://article-helps.techidaily.com/learn-to-access-final-cut-pro-for-free-for-2024/"><u>Learn To Access Final Cut Pro for Free for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-location-unavailable-issues-a-step-by-step-guide-for-iphone-users/"><u>Solving 'Location Unavailable' Issues: A Step-by-Step Guide for iPhone Users</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/spark-innovation-with-these-androids-top-graphic-designers-for-2024/"><u>Spark Innovation with These Android's Top Graphic Designers for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-art-of-visual-storytelling-made-simple-with-windows-10s-tools-for-2024/"><u>The Art of Visual Storytelling Made Simple with Windows 10'S Tools for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/why-your-iphone-ignores-silentring-modes-for-vibration-explore-these-8-effective-solutions/"><u>Why Your iPhone Ignores Silent/Ring Modes for Vibration? Explore These 8 Effective Solutions</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Correcting Problems With the Proximity Detection Function in iPhones
-date: 2024-09-26T00:51:36.935Z
-updated: 2024-09-27T00:26:58.162Z
+date: 2024-09-30T23:07:39.903Z
+updated: 2024-10-01T19:37:07.595Z
 tags:
   - iphone
   - apple
@@ -38,13 +38,6 @@ Here are some things you could do to check if it's working:
 
  Your phone's display should go off In both scenarios. If they don't, you should consult the steps below for troubleshooting.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Steps to Take if Your iPhone's Proximity Sensor Isn't Working
 
  Hardware and software issues could cause this problem. But you could try the steps below in descending order.
@@ -60,10 +53,10 @@ Here are some things you could do to check if it's working:
  Be careful not to use rubbing alcohol, window cleaners, vinegar, or any similar grease-cutting products, as they could eat away your screen's coating.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Restart the Target Application or Your iPhone
@@ -73,10 +66,10 @@ Here are some things you could do to check if it's working:
  In this case, you should restart the app first. Merely returning to the Home Screen isn't enough; you must open the App Switcher (learn how to do so in our [iPhone navigation basics](https://www.makeuseof.com/how-to-go-back-get-home-switch-apps-iphone/) guide) and swipe up on the target app's preview. Open the app again and try to use the proximity sensor. You can also try [restarting your iPhone](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) for good measure.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Make Sure Your iPhone Is Up to Date
@@ -99,6 +92,13 @@ Close
 
 ![man applying screen protector to smartphone feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/man-applying-screen-protector-to-smartphone-feature.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Image Credit: Nor Gal/[Shutterstock](https://www.shutterstock.com/image-photo/man-replacing-broken-tempered-glass-screen-1106925758)
 
  You must return to hardware issues if updating your iPhone doesn't work. And in many cases, the thing blocking your proximity sensor from working is a poorly-fit screen protector.
@@ -114,6 +114,13 @@ Here's a brief rundown of how to do it:
 
  Give the proximity sensor a test to see if that helped. But if you're still out of luck, you have a last-resort option.
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 5\. Take Your Phone Back to Apple or an Authorized Service Provider
 
  Sometimes, the issue could be bigger than software bugs or something blocking the sensor. It's officially beyond your pay grade, and it's time to take your phone to someone who could open it up if need be.
@@ -121,19 +128,6 @@ Here's a brief rundown of how to do it:
  The most likely culprit in scenarios like this, short of a damaged proximity sensor, is a cracked screen. A cracked screen could interfere with infrared waves emitting or reflecting back to the device. While you could try to replace your screen yourself, we strongly suggest you leave it to an expert. Besides, tampering with your iPhone yourself could void your warranty.
 
  Take your iPhone to a nearby Apple Store or an Apple-authorized service provider; they should be able to help you. If your iPhone is still under warranty, Apple will fix your device at no additional cost if there are no signs of accidental damage. Scenarios like this make having an [extended AppleCare+ warranty](http://www.makeuseof.com/tag/applecare-what-are-your-options-is-it-really-worth-it/) very attractive because accidental damage is covered under this plan.
-
-<!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The Proximity Sensor Is an Important Part of Your iPhone
 
@@ -156,18 +150,20 @@ Here's a brief rundown of how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-breaking-the-streak-code-proven-techniques/"><u>[Updated] 2024 Approved Breaking the Streak Code Proven Techniques</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-legends-reign-supreme-top-7-total-war-quests/"><u>[Updated] 2024 Approved Legends Reign Supreme Top 7 Total War Quests</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-essential-skills-in-developing-podcast-xml-feeds-for-2024/"><u>[Updated] Essential Skills in Developing Podcast XML Feeds for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-pros-5-virtual-helmets-a-drone-racers-choice/"><u>[Updated] Pro's 5 Virtual Helmets A Drone Racer's Choice</u></a></li>
-<li><a href="https://fox-that.techidaily.com/combining-identical-person-photographs-across-multiple-albums-iphonemac-guide/"><u>Combining Identical Person Photographs Across Multiple Albums: IPhone/Mac Guide</u></a></li>
-<li><a href="https://fox-that.techidaily.com/experiencing-tardy-messages-on-your-iphone-correct-with-these-9-quick-fixes/"><u>Experiencing Tardy Messages on Your iPhone? Correct with These 9 Quick Fixes</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-motorola-moto-g04-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Motorola Moto G04 FRP</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-on-oppo-a78-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Oppo A78 FRP Bypass</u></a></li>
-<li><a href="https://fox-that.techidaily.com/stop-airpods-from-swapping-connections-tips-for-single-device-pairings-with-apple-products/"><u>Stop AirPods From Swapping Connections: Tips for Single Device Pairings with Apple Products</u></a></li>
-<li><a href="https://fox-that.techidaily.com/top-10-solutions-for-iphone-calling-issues-get-connected/"><u>Top 10 Solutions for iPhone Calling Issues: Get Connected!</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/ultimate-guide-fixing-damaged-mp4mov-videos-with-vlc-media-player/"><u>Ultimate Guide: Fixing Damaged MP4/MOV Videos with VLC Media Player</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/-perfection-in-progress-edits-after-uploading-on-youtube/"><u>Video Perfection in Progress Edits After Uploading on YouTube</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721459225271-whatsapp-and-icloud-integration-woes-learn-how-to-enable-and-fix-backups-efficiently/"><u>WhatsApp & iCloud Integration Woes? Learn How to Enable and Fix Backups Efficiently</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-pro-tips-for-video-conference-recordings-desktop-edition/"><u>[New] 2024 Approved Pro Tips for Video Conference Recordings Desktop Edition</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/op-10-youtube-growth-titles-where-creativity-soars-quickly-for-2024/"><u>[New] Top 10 YouTube Growth Titles Where Creativity Soars Quickly for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-becoming-an-unboxing-star-strategies-for-viral-engaging-tiktok-videos/"><u>[Updated] Becoming an Unboxing Star Strategies for Viral, Engaging TikTok Videos</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-best-pc-vr-headsets-ranked/"><u>[Updated] Best PC VR Headsets Ranked</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-viral-video-ventures-crafting-addictive-loops-on-ig-for-2024/"><u>[Updated] Viral Video Ventures Crafting Addictive Loops on IG for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721478879650-complete-guide-to-restarting-iphones-with-defective-buttons-easy-fixes/"><u>Complete Guide to Restarting iPhones with Defective Buttons - Easy Fixes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/comprehensive-instructions-initiating-recovery-mode-on-your-ipad/"><u>Comprehensive Instructions: Initiating Recovery Mode on Your iPad</u></a></li>
+<li><a href="https://fox-that.techidaily.com/finding-lost-words-effective-strategies-for-getting-back-your-erased-iphone-notes/"><u>Finding Lost Words: Effective Strategies for Getting Back Your Erased iPhone Notes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-hey-siri-malfunction-a-comprehensive-guide-with-17-effective-tips-for-iphone-users/"><u>Fixing 'Hey Siri' Malfunction: A Comprehensive Guide with 17 Effective Tips for iPhone Users</u></a></li>
+<li><a href="https://fox-that.techidaily.com/icloud-not-updating-easy-fixes-to-solve-your-sync-issues/"><u>ICloud Not Updating? Easy Fixes to Solve Your Sync Issues</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-pixel-perfection-your-guide-to-youtube-twitters-and-hd/"><u>In 2024, Pixel Perfection Your Guide to YouTube, Twitters, and HD</u></a></li>
+<li><a href="https://games-able.techidaily.com/playstation-controllers-your-switchs-new-friends/"><u>PlayStation Controllers: Your Switch's New Friends</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solve-iphone-voicemail-problems-in-9-simple-steps/"><u>Solve iPhone Voicemail Problems in 9 Simple Steps</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlock-the-secrets-to-restoring-your-iphones-flashlight-functionality-with-these-12-techniques/"><u>Unlock the Secrets to Restoring Your iPhone's Flashlight Functionality with These 12 Techniques</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/verschilrijk-een-bmp-foto-in-jpeg-online-gratis-met-de-superveilige-movavi-tool/"><u>Verschilrijk Een BMP-Foto in JPEG Online Gratis Met De Superveilige Movavi-Tool!</u></a></li>
 </ul></div>
 

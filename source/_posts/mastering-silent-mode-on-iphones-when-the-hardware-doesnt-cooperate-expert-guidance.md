@@ -1,7 +1,7 @@
 ---
 title: "Mastering Silent Mode on iPhones When the Hardware Doesn’t Cooperate: Expert Guidance"
-date: 2024-09-25T18:56:10.745Z
-updated: 2024-09-27T00:46:42.146Z
+date: 2024-09-29T19:55:25.770Z
+updated: 2024-10-02T03:56:24.852Z
 tags:
   - iphone
   - apple
@@ -68,6 +68,13 @@ Close
 
 ![AssistiveTouch settings on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customizing-assistivetouch-top-level-menu-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![customizing AssistiveTouch's top-level menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customizing-assistivetouch-top-level-menu-2.jpg)
 
 ![adding a new button to the AssistiveTouch menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customizing-assistivetouch-top-level-menu-3.jpg)
@@ -79,13 +86,6 @@ Close
 Close
 
  All you need to do now is tap the AssistiveTouch button and hit**Mute** . When you do this, the**Mute** button will change to**Unmute** , and you can tap on it again to unmute the device quickly.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Set Up a Custom Action
 
@@ -99,30 +99,24 @@ Follow these simple instructions to get this done:
 ![AssistiveTouch settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/setting-a-custom-action-for-assistivetouch-button-1.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![adding Mute action to Double-Tap gesture](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/setting-a-custom-action-for-assistivetouch-button-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Close
 
  Once set up, muting and unmuting your iPhone should be even easier. Simply perform the gesture to which you've assigned the Mute action, and it'll mute the device. Repeat it again to unmute.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Mute or Unmute iPhone Using Back Tap
 
@@ -135,19 +129,20 @@ Close
 
 ![iPhone Accessibility settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-using-back-tap-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Back Tap feature under Touch Accessibility settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-using-back-tap-2.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Close
@@ -160,13 +155,6 @@ Close
 ![Back Tap gesture options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-using-back-tap-3.jpg)
 
 ![setting Mute action to a Back Tap gesture](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-using-back-tap-4.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Close
 
@@ -195,18 +183,21 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-how-to-initiate-a-collaborative-skype-group-discussion/"><u>[New] 2024 Approved How to Initiate a Collaborative Skype Group Discussion</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-detailed-guide-securely-recording-on-vimeo/"><u>[New] Detailed Guide Securely Recording on Vimeo</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-fade-perfection-quick-tips-and-tricks/"><u>[Updated] In 2024, Fade Perfection Quick Tips and Tricks</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-the-ultimate-ranking-top-9-puzzle-games-for-offline-play/"><u>2024 Approved The Ultimate Ranking Top 9 Puzzle Games for Offline Play</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/2024-vob-6/"><u>2024 유기적인 VOB 파일 재생 방법에 대한 우아한 6개의 권장: 비주얼 보조 자료</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/choosing-your-mobile-companion-iphone-or-android/"><u>Choosing Your Mobile Companion: IPhone or Android?</u></a></li>
-<li><a href="https://fox-that.techidaily.com/conquer-your-iphone-12s-worst-glitches-a-step-by-step-guide-for-each-major-issue-12/"><u>Conquer Your iPhone 12'S Worst Glitches - A Step-by-Step Guide for Each Major Issue #12</u></a></li>
-<li><a href="https://fox-that.techidaily.com/demystifying-iphones-dfu-mode-and-step-by-step-usage-instructions/"><u>Demystifying iPhone's DFU Mode and Step-by-Step Usage Instructions</u></a></li>
-<li><a href="https://fox-that.techidaily.com/diagnosing-and-repairing-a-lone-misbehaving-airpod-a-complete-guide/"><u>Diagnosing and Repairing a Lone Misbehaving AirPod - A Complete Guide</u></a></li>
-<li><a href="https://fox-that.techidaily.com/guide-to-resolving-unsupported-connector-problems-on-an-iphone/"><u>Guide to Resolving Unsupported Connector Problems on an iPhone</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/overcoming-the-msvcr110dll-error-in-helldivers-2-expert-tips-for-a-smooth-gameplay/"><u>Overcoming the MSVCR110.dll Error in Helldivers 2: Expert Tips for a Smooth Gameplay</u></a></li>
-<li><a href="https://fox-that.techidaily.com/precise-people-identification-tips-to-rectify-mistakes-in-apples-photo-organization-tool/"><u>Precise People Identification Tips to Rectify Mistakes in Apple's Photo Organization Tool</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/vectors-decoded-for-newbies-diverse-forms-and-tool-options-for-2024/"><u>Vectors Decoded for Newbies Diverse Forms and Tool Options for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-go-pro-simple-techniques-for-captivating-slow-motion-videos-on-android-for-2024/"><u>[New] Go Pro Simple Techniques for Captivating Slow Motion Videos on Android for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-discover-12-cutting-edge-flip-screen-cams-for-video-content-for-2024/"><u>[Updated] Discover 12 Cutting-Edge Flip-Screen Cams for Video Content for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-a-step-by-step-guide-to-gain-more-likes-on-tiktok-unboxings/"><u>2024 Approved A Step-by-Step Guide to Gain More Likes on TikTok Unboxings</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-solutions-to-stop-watch-dogs-legion-from-crashing-on-your-computer/"><u>Effective Solutions to Stop Watch Dogs: Legion From Crashing on Your Computer</u></a></li>
+<li><a href="https://fox-that.techidaily.com/expert-tips-for-addressing-iphone-dictation-failures-a-5-step-approach/"><u>Expert Tips for Addressing iPhone Dictation Failures: A 5-Step Approach</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-realme-10t-5g-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Realme 10T 5G? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-pair-meta-oculus-quest-2-to-a-phone/"><u>How to Pair Meta (Oculus) Quest 2 to a Phone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-troubleshoot-and-fix-an-unresponsive-iphone-torch-feature-in-12-simple-steps/"><u>How to Troubleshoot and Fix an Unresponsive iPhone Torch Feature in 12 Simple Steps</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-cant-send-sms-learn-how-with-our-top-ebxerpted-troubleshooting-techniques/"><u>IPhone Can't Send SMS? Learn How With Our Top Ebxerpted Troubleshooting Techniques</u></a></li>
+<li><a href="https://fox-that.techidaily.com/six-effective-ways-to-resolve-issues-with-non-functioning-aol-emails-on-your-iphone/"><u>Six Effective Ways to Resolve Issues with Non-Functioning AOL Emails on Your iPhone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/speed-up-sluggish-cellular-connections-with-our-expert-10-step-method/"><u>Speed Up Sluggish Cellular Connections with Our Expert 10-Step Method</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-and-solving-crashing-problems-in-cyberpunk-2077-on-your-computer/"><u>Troubleshooting and Solving Crashing Problems in Cyberpunk 2077 on Your Computer</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/ultimate-select-masterful-instagram-hlv-artisans-for-2024/"><u>Ultimate Select Masterful Instagram HLV Artisans for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/understanding-iphoneipad-heat-causes-prevention-and-solutions/"><u>Understanding iPhone/iPad Heat: Causes, Prevention, and Solutions</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-filmora-savings-hacks-4-expert-approved-methods-to-get-discounts/"><u>Updated 2024 Approved Filmora Savings Hacks 4 Expert-Approved Methods to Get Discounts</u></a></li>
+<li><a href="https://fox-that.techidaily.com/why-is-your-mobile-data-so-slow-how-to-speed-it-up-in-10-steps/"><u>Why Is Your Mobile Data So Slow? How to Speed It Up in 10 Steps</u></a></li>
 </ul></div>
 

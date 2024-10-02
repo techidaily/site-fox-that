@@ -1,7 +1,7 @@
 ---
 title: Turn Off Unwanted Rings on Your iPad when an iPhone Is Ringing – Easy Steps to Follow
-date: 2024-09-20T18:44:54.714Z
-updated: 2024-09-27T00:30:24.550Z
+date: 2024-09-25T23:49:46.564Z
+updated: 2024-10-01T21:33:31.040Z
 tags:
   - iphone
   - apple
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/773bcb287706a7e5add3e76fb4807bc2dd418c60c
 
  Now, you've turned off your ringer and alert notifications. This could be a positive if you only want notifications from your iPhone or Apple Watch. On the other hand, if you count on Mail alerts on your iPad, this option won't work for you.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Turn Down the Volume on Your iPad
 
  The above method is fine if you never want to hear calls ringing on your iPad, but what if you only need to disable them for a short while? In this case, assigning the ringer volume to your volume buttons makes raising and lowering notification volume on your iPad easy.
@@ -40,13 +47,6 @@ thumbnail: https://thmb.techidaily.com/773bcb287706a7e5add3e76fb4807bc2dd418c60c
  To do this, open Settings and tap on the**Phone** section. Underneath the slider in the "Ringtone and Alert Volumes" section, enable the toggle for**Change with Buttons** . Now, the volume buttons control your ringer and alerts.
 
 ![Enabling adjusting volume with the buttons on iPad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/how-to-stop-ipad-ringing-turn-down-volume.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  There's a reason this is disabled by default, as many people prefer to find a volume they like and stick with it. You may also accidentally change your ringer volume if you press the buttons while listening to music or watching a video.
 
@@ -64,35 +64,21 @@ thumbnail: https://thmb.techidaily.com/773bcb287706a7e5add3e76fb4807bc2dd418c60c
 
 ![Creating a Focus Mode on iPadOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/how-to-stop-ipad-ringing-create-focus.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  On this screen, you can select the people and apps you want to manage notifications from. Select**Choose Apps** , then select**Allow Notifications From** at the top of the list. The list below will populate with a few apps, but you can add more.
 
  To add an app you want to allow notifications from, tap the**Add Apps** button on the left, then select it from the list of available apps. Once apps are added to the list, you can tap the checkbox in the top-left of each app to enable or disable notifications. There are [plenty of other aspects to Focus modes](https://www.makeuseof.com/focus-mode-ideas-to-set-up-in-ios/) , but this is all you need for notifications.
 
 ![Allowing notifications for certain apps in a new Focus Mode on iPadOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/how-to-stop-ipad-ringing-allow-notification.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After you've created your custom Focus mode, you need to enable it from the Control Center. Pull down from the top-right of the iPad's screen, then long-press on**Focus** and choose your custom Focus Mode. ​​​​​​
 
 ![Enabling a Focus Mode on iPadOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/how-to-stop-ipad-ringing-turn-focus-on.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  When you want to disable it, you can tap the**Focus** toggle.
@@ -107,7 +93,21 @@ thumbnail: https://thmb.techidaily.com/773bcb287706a7e5add3e76fb4807bc2dd418c60c
 
 ![allow calls on other devices iPhone setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/allow-calls-on-other-devices-iphone-setting.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Choosing which devices to ring when your iPhone rings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/how-to-stop-ipad-ringing-iphone-calls-on-other-devices-custom.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close
 
@@ -134,17 +134,15 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-farm-frontier-favorites-similar-titles-galore/"><u>[Updated] 2024 Approved Farm Frontier Favorites Similar Titles Galore</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fixing-non-loading-photos-in-safari-top-9-solutions-for-iphones/"><u>Fixing Non-Loading Photos in Safari: Top 9 Solutions for iPhones</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-by-checkra1n-even-from-apple-iphone-14-if-youve-tried-everything-by-drfone-ios/"><u>How To Bypass iCloud By Checkra1n Even From Apple iPhone 14 If Youve Tried Everything</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-maximizing-socialization-with-ease-xbox-ones-zoom-functionality/"><u>In 2024, Maximizing Socialization with Ease Xbox One's Zoom Functionality</u></a></li>
-<li><a href="https://fox-that.techidaily.com/iphone-display-problems-a-comprehensive-fixing-manual-for-you/"><u>IPhone Display Problems? A Comprehensive Fixing Manual for You</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721480177840-missing-icon-crisis-on-your-iphone-implement-these-methods-to-bring-back-the-buttons/"><u>Missing Icon Crisis on Your iPhone? Implement These Methods to Bring Back the Buttons!</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solving-iphone-gps-problems-when-no-location-data-is-found/"><u>Solving iPhone GPS Problems When No Location Data Is Found</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-updating-your-pcs-sound-device-drivers-across-windows-versions/"><u>Step-by-Step Guide: Updating Your PC's Sound Device Drivers Across Windows Versions</u></a></li>
-<li><a href="https://fox-that.techidaily.com/step-by-step-tutorial-on-performing-an-iphone-hardware-exam-through-apples-service/"><u>Step-by-Step Tutorial on Performing an iPhone Hardware Exam Through Apple's Service</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/surpassing-chatgpts-limits-with-new-options/"><u>Surpassing ChatGPT's Limits with New Options</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-steps-for-persistent-discord-app-crashes/"><u>Troubleshooting Steps for Persistent Discord App Crashes</u></a></li>
-<li><a href="https://discover-community.techidaily.com/update-insights-new-features-of-the-winx-dvd-duplicators-recent-release/"><u>Update Insights: New Features of the WinX DVD Duplicator's Recent Release</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-high-definition-ready-enabling-av1-on-youtube/"><u>[New] 2024 Approved High Definition Ready Enabling AV1 on YouTube</u></a></li>
+<li><a href="https://fox-that.techidaily.com/faster-safari-browsing-top-4-tips-for-speeding-up-ios/"><u>Faster Safari Browsing: Top 4 Tips for Speeding Up iOS</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixes-for-dragon-age-origins-game-crashing-issues-on-windows-11-solutions-inside/"><u>Fixes for Dragon Age: Origins Game Crashing Issues on Windows 11 - Solutions Inside!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-video-editing-software-failures-after-effects-stability-on-windows-11-and-10/"><u>Fixing Video Editing Software Failures: After Effects Stability on Windows 11 and 10</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-your-device-addressing-iphones-emergency-signal-appearance-on-the-status-panel/"><u>Fixing Your Device: Addressing iPhone's Emergency Signal Appearance on the Status Panel</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/from-separation-to-synergy-unite-obs-with-zoom-for-2024/"><u>From Separation to Synergy Unite OBS with Zoom for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-get-the-most-out-of-your-iphones-tethering-feature-solving-common-problems/"><u>How To Get The Most Out Of Your iPhone's Tethering Feature: Solving Common Problems</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On Honor 80 Pro Straight Screen Edition? | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-origin-platform-now-successfully-connected/"><u>Resolved: Origin Platform Now Successfully Connected</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-unwanted-noise-with-these-steps-to-deactivate-head-tracking-in-airpods-promax/"><u>Troubleshoot Unwanted Noise with These Steps to Deactivate Head Tracking in AirPods Pro/Max</u></a></li>
 </ul></div>
 

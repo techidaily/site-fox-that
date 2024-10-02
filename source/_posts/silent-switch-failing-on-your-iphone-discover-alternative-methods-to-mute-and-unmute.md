@@ -1,7 +1,7 @@
 ---
 title: Silent Switch Failing on Your iPhone? Discover Alternative Methods to Mute & Unmute
-date: 2024-09-15T16:19:43.027Z
-updated: 2024-09-20T21:31:03.529Z
+date: 2024-10-01T01:16:29.503Z
+updated: 2024-10-01T16:17:55.987Z
 tags:
   - iphone
   - apple
@@ -72,6 +72,13 @@ Close
 
 ![adding a new button to the AssistiveTouch menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customizing-assistivetouch-top-level-menu-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![selecting Mute action for the new AssistiveTouch button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customizing-assistivetouch-top-level-menu-4.jpg)
 
 ![Mute action in AssistiveTouch's top-level menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customizing-assistivetouch-top-level-menu-5.jpg)
@@ -97,6 +104,13 @@ Close
 
  Once set up, muting and unmuting your iPhone should be even easier. Simply perform the gesture to which you've assigned the Mute action, and it'll mute the device. Repeat it again to unmute.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Mute or Unmute iPhone Using Back Tap
 
  AssistiveTouch used to be the only way to mute or unmute your iPhone when the Ring/Silent switch stopped working for the longest time. And sure, it works fine and gets the job done, but for some, it isn't aesthetically pleasing to have the button on the screen at all times.
@@ -108,14 +122,14 @@ Close
 
 ![iPhone Accessibility settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-using-back-tap-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Back Tap feature under Touch Accessibility settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-using-back-tap-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close
 
@@ -126,6 +140,19 @@ Close
 
 ![Back Tap gesture options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-using-back-tap-3.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![setting Mute action to a Back Tap gesture](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-using-back-tap-4.jpg)
 
 Close
@@ -135,10 +162,10 @@ Close
  With certain iPhone cases, especially thicker ones, you might need to tap harder for the iPhone to register your taps and trigger the action.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Broken iPhone Ring/Silent Switch? No Problem
@@ -160,5 +187,21 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-speedy-shot-mastery-discovering-the-best-5-hacks-for-filming/"><u>[New] 2024 Approved Speedy Shot Mastery Discovering the Best 5 Hacks for Filming</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-video-integration-with-apple-music/"><u>2024 Approved Mastering Video Integration with Apple Music</u></a></li>
+<li><a href="https://fox-access.techidaily.com/advanced-techniques-for-bio-linking-on-tiktok/"><u>Advanced Techniques for Bio Linking on TikTok</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/beam-it-up-a-step-by-step-approach-to-youtube-video-luminance-for-2024/"><u>Beam It Up A Step-By-Step Approach to YouTube Video Luminance for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/common-iphone-screen-glitches-and-how-to-resolve-them-quickly/"><u>Common iPhone Screen Glitches and How to Resolve Them Quickly</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-most-recent-driver-for-your-generic-bluetooth-adapter-on-windows-pcs-free-downloads/"><u>Get the Most Recent Driver for Your Generic Bluetooth Adapter on Windows PCs | Free Downloads</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-recover-or-change-your-screen-time-passcode-across-apple-products/"><u>How to Recover or Change Your Screen Time Passcode Across Apple Products</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-xiaomi-redmi-note-12-4g-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Xiaomi Redmi Note 12 4G to Outlook | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-art-of-weaving-b-roll-into-main-footage-seamlessly/"><u>In 2024, The Art of Weaving B Roll Into Main Footage Seamlessly</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/redefining-the-viewing-experience-top-alternatives-to-periscope-for-2024/"><u>Redefining the Viewing Experience Top Alternatives to Periscope for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/struggling-with-iphones-unnoticed-alerts-try-out-these-proven-7-remedies/"><u>Struggling with iPhones Unnoticed Alerts? Try Out These Proven 7 Remedies.</u></a></li>
+<li><a href="https://fox-that.techidaily.com/the-ultimate-fixes-for-a-non-responsive-iphone-locked-on-apples-emblematic-logo/"><u>The Ultimate Fixes for a Non-Responsive iPhone Locked on Apple's Emblematic Logo</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-iphone-recognition-issues-with-apple-software-itunes-and-finder-tips/"><u>Troubleshooting iPhone Recognition Issues with Apple Software – iTunes & Finder Tips</u></a></li>
+<li><a href="https://fox-that.techidaily.com/what-you-need-to-know-about-the-iphone-14s-battery-health-issues/"><u>What You Need to Know About the iPhone 14'S Battery Health Issues</u></a></li>
+</ul></div>
 

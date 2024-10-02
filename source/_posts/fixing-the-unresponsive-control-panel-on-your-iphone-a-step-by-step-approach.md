@@ -1,7 +1,7 @@
 ---
 title: Fixing the Unresponsive Control Panel on Your iPhone - A Step by Step Approach
-date: 2024-09-10T22:44:41.465Z
-updated: 2024-09-15T17:42:13.140Z
+date: 2024-09-28T03:56:42.053Z
+updated: 2024-10-01T20:42:19.068Z
 tags:
   - iphone
   - apple
@@ -43,9 +43,23 @@ thumbnail: https://thmb.techidaily.com/d54fa6180dfbcf214df4f9458a0e28f5138815530
 
 ![iPhone Settings VoiceOver option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-settings-voiceover-option.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![iPhone Settings VoiceOver toggle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-settings-voiceover-toggle.jpg)
 
 Close
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Enable Control Center Access When Locked
 
@@ -58,6 +72,13 @@ Close
 3. Enable the**Control Center** toggle.
 
 ![iPhone Settings Face ID & Passcode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-settings-face-id-passcode.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![iPhone Enter Passcode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-enter-passcode.jpg)
 
@@ -76,13 +97,6 @@ Close
 ![iPhone Settings Control Center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-settings-control-center.jpg)
 
 ![iPhone Control Center Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-control-center-settings.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Close
 
@@ -104,16 +118,16 @@ Close
 
 ![iPhone Download and Install update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-download-and-install-update.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Close
 
  Once your iPhone is running the latest iOS version, try opening the Control Center again. If it's still not working, try some other solutions mentioned below.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Remove and Add Controls to Control Center
 
@@ -128,9 +142,23 @@ Close
 
 ![iPhone Control Center Settings-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-control-center-settings-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![iPhone Control Center Remove button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-control-center-remove-button.jpg)
 
 ![iPhone Control Center Add option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-control-center-add-option.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close
 
@@ -144,14 +172,14 @@ Close
 
 ![iPhone slide to power off](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-slide-to-power-off.jpg)
 
- You can [restart your iPhone even if its buttons are broken](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) . Turn your iPhone on and check if you can access the Control Center.
-
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ You can [restart your iPhone even if its buttons are broken](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) . Turn your iPhone on and check if you can access the Control Center.
 
 ## 8\. Reset Your iPhone's Settings
 
@@ -165,23 +193,16 @@ Close
 
 ![iPhone Settings Tranfer or Reset iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-settings-tranfer-or-reset-iphone.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![iPhone Reset Settings option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-reset-settings-option.jpg)
 
-![iPhone Reset All Settings option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-reset-all-settings-option.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115919/19272" target="_top" id="2115919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115919" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![iPhone Reset All Settings option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-reset-all-settings-option.jpg)
 
 Close
 
@@ -206,5 +227,26 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-unlock-the-secret-to-exceptional-time-lapse-videos-on-galaxy/"><u>[New] Unlock the Secret to Exceptional Time-Lapse Videos on Galaxy</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-the-key-to-successful-video-engagement-adding-interactive-elements-via-youtube-annotations/"><u>[Updated] In 2024, The Key to Successful Video Engagement Adding Interactive Elements via YouTube Annotations</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-targeted-thought-leadership-with-profound-fb-video-strategies/"><u>[Updated] Targeted Thought Leadership with Profound FB Video Strategies</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-advanced-hdr-creation-in-photoshop-workflows/"><u>2024 Approved Advanced HDR Creation in Photoshop Workflows</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-periscope-filming-made-easy-the-ultimate-how-to/"><u>2024 Approved Periscope Filming Made Easy The Ultimate How-To</u></a></li>
+<li><a href="https://fox-that.techidaily.com/bypassing-the-apple-logo-dilemma-effective-strategies-for-iphone-recovery/"><u>Bypassing the Apple Logo Dilemma: Effective Strategies for iPhone Recovery</u></a></li>
+<li><a href="https://fox-that.techidaily.com/error-14-on-your-iphone-heres-how-to-fix-it/"><u>Error 14 on Your iPhone? Here's How to Fix It</u></a></li>
+<li><a href="https://fox-that.techidaily.com/home-button-woes-on-iphones-quick-and-easy-repair-techniques-you-should-know/"><u>Home Button Woes on iPhones: Quick and Easy Repair Techniques You Should Know</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-effortlessly-overcome-iphone-slide-album-challenges-with-these-8-essential-hacks/"><u>How to Effortlessly Overcome iPhone Slide Album Challenges with These 8 Essential Hacks</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-honor-v-purse-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Honor V Purse</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-realme-narzo-n53-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Realme Narzo N53 without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-seamless-temporal-annotation-perfecting-photo-date-insertion/"><u>In 2024, Seamless Temporal Annotation Perfecting Photo Date Insertion</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-is-ipogo-not-working-on-oppo-find-x7-ultra-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Oppo Find X7 Ultra? Fixed | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/navigate-through-common-apple-pay-complications-using-these-10-simple-strategies/"><u>Navigate Through Common Apple Pay Complications Using These 10 Simple Strategies</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-the-issue-of-just-seeing-sos-on-your-iphone-six-effective-fixes-for-the-status-bar-problem/"><u>Solving the Issue of Just Seeing 'SOS' On Your iPhone: Six Effective Fixes for the Status Bar Problem</u></a></li>
+<li><a href="https://fox-that.techidaily.com/stop-airpod-connection-woes-tips-to-keep-them-paired-with-one-device-only/"><u>Stop AirPod Connection Woes: Tips to Keep Them Paired with One Device Only</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721456061186-unable-to-download-apps-on-your-iphone-here-are-10-effective-tips/"><u>Unable to Download Apps on Your iPhone? Here Are 10 Effective Tips!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unstucking-itunes-and-finder-from-ignoring-your-iphone-proven-solutions/"><u>Unstucking iTunes and Finder From Ignoring Your iPhone: Proven Solutions</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/saayd-alyom-lk-arabic/"><u>سعيد اليوم لك (Arabic)</u></a></li>
+</ul></div>
 

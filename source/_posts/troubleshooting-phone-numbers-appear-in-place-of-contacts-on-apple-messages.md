@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting: Phone Numbers Appear in Place of Contacts on Apple Messages"
-date: 2024-09-08T21:00:59.262Z
-updated: 2024-09-15T20:57:04.723Z
+date: 2024-09-27T18:29:40.275Z
+updated: 2024-10-02T03:54:49.213Z
 tags:
   - iphone
   - apple
@@ -35,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/dfcc95ad6ecbba953612e3f4e8e531fa254803a3d
 
  However, this is usually a temporary issue and should fix itself. If this isn't the case, you can try a few quick fixes to get things back to normal quickly.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Restart Your iPhone
 
  A quick fix to getting your contact names back instead of phone numbers is to [restart your iPhone](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) . As with many other issues, a quick reboot usually does the trick, and you should be able to see your contact names instead of phone numbers in Messages.
@@ -56,6 +63,13 @@ thumbnail: https://thmb.techidaily.com/dfcc95ad6ecbba953612e3f4e8e531fa254803a3d
 
 ![Add Country Code to Number](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Fix-Messages-Not-Showing-Contact-Number.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Close
 
  You'll have to do this directly from the Contacts app because Messages doesn't recognize the phone number as a contact and hence won't make the change.
@@ -63,6 +77,13 @@ Close
  Alternatively, if you choose to add a new contact from the phone number, you can add it to an existing contact. But then you'll have two numbers saved for that person.
 
  Once you fix a phone number, you'll see Messages will automatically merge the conversations split across different chats.
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Toggle iCloud Contacts
 
@@ -81,20 +102,13 @@ To do this, follow these steps on your iPhone:
 ![Settings on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Fix-Messages-Not-Showing-iCloud.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Password and Security in iPhone iCloud Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/2FA-iPhone-Password-and-Security.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120864/26400?prodsku=Mercury" target="_top" id="2120864">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120864/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Contacts in iCloud Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Fix-Messages-Not-Showing-iCloud-Contacts.jpg)
 
@@ -117,5 +131,21 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-guaranteeing-your-stream-uninterrupted-by-ads-on-fb/"><u>[New] Guaranteeing Your Stream Uninterrupted by Ads on FB</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-nurturing-natural-light-within-domestic-spaces/"><u>[New] Nurturing Natural Light Within Domestic Spaces</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-photos-from-samsung-by-fonelab-android-recover-photos/"><u>Easy steps to recover deleted photos from Samsung .</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-the-iphone-out-of-characters-error-with-ease/"><u>Fixing the ‘iPhone Out Of Characters Error’ with Ease</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/high-quality-1-ranked-4k-laptops-for-gaming-for-2024/"><u>High-Quality #1 Ranked 4K Laptops for Gaming for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-nokia-c300-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Nokia C300 Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-iphone-11-pro-max-with-imei-code-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 11 Pro Max with IMEI Code?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/navigating-iphone-12-complications-unveiling-twelve-critical-concerns-and-how-to-address-them/"><u>Navigating iPhone 12 Complications: Unveiling Twelve Critical Concerns & How To Address Them</u></a></li>
+<li><a href="https://fox-that.techidaily.com/optimize-apples-power-source-the-ultimate-battery-calibration-tutorial-for-iphones/"><u>Optimize Apple's Power Source: The Ultimate Battery Calibration Tutorial for iPhones</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-poco-x6-pro-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Poco X6 Pro? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/storing-permanent-records-of-gpt-talks/"><u>Storing Permanent Records of GPT Talks</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-tips-how-to-solve-iphones-guidedowntime-issues/"><u>Troubleshooting Tips: How to Solve iPhone's GuideDowntime Issues</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlock-the-secret-to-easier-mobile-troubleshooting-with-just-a-restart/"><u>Unlock the Secret to Easier Mobile Troubleshooting with Just a Restart</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/zero-cost-maximum-creativity-9-free-online-movie-makers/"><u>Zero Cost, Maximum Creativity 9 Free Online Movie Makers</u></a></li>
+</ul></div>
 

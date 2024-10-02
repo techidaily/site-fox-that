@@ -1,7 +1,7 @@
 ---
 title: Solving iPhone's Front-Facing Camera Distance Reader Malfunctions
-date: 2024-09-08T20:19:47.306Z
-updated: 2024-09-15T17:09:15.961Z
+date: 2024-09-24T16:19:07.863Z
+updated: 2024-10-02T05:24:34.857Z
 tags:
   - iphone
   - apple
@@ -38,6 +38,13 @@ Here are some things you could do to check if it's working:
 
  Your phone's display should go off In both scenarios. If they don't, you should consult the steps below for troubleshooting.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Steps to Take if Your iPhone's Proximity Sensor Isn't Working
 
  Hardware and software issues could cause this problem. But you could try the steps below in descending order.
@@ -51,6 +58,13 @@ Here are some things you could do to check if it's working:
  While you could try a quick wipe against your shirt or some other cloth, the best thing to do is [clean your iPhone properly](https://www.makeuseof.com/tag/clean-iphone-guide/) . Use a moist, lint-free cloth and gently but thoroughly wipe the dirt away in one direction.
 
  Be careful not to use rubbing alcohol, window cleaners, vinegar, or any similar grease-cutting products, as they could eat away your screen's coating.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Restart the Target Application or Your iPhone
 
@@ -70,33 +84,20 @@ Here are some things you could do to check if it's working:
 
 ![Update terms and conditions on iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/update-terms-and-conditions-on-ios.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Close
 
  Your phone will restart a couple of times, but it will stabilize when it's finished. Test the proximity sensor again using our steps above.
 
-<!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 4\. Remove the Screen Protector
 
 ![man applying screen protector to smartphone feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/man-applying-screen-protector-to-smartphone-feature.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Image Credit: Nor Gal/[Shutterstock](https://www.shutterstock.com/image-photo/man-replacing-broken-tempered-glass-screen-1106925758)
 
@@ -113,6 +114,19 @@ Here's a brief rundown of how to do it:
 
  Give the proximity sensor a test to see if that helped. But if you're still out of luck, you have a last-resort option.
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 5\. Take Your Phone Back to Apple or an Authorized Service Provider
 
  Sometimes, the issue could be bigger than software bugs or something blocking the sensor. It's officially beyond your pay grade, and it's time to take your phone to someone who could open it up if need be.
@@ -120,13 +134,6 @@ Here's a brief rundown of how to do it:
  The most likely culprit in scenarios like this, short of a damaged proximity sensor, is a cracked screen. A cracked screen could interfere with infrared waves emitting or reflecting back to the device. While you could try to replace your screen yourself, we strongly suggest you leave it to an expert. Besides, tampering with your iPhone yourself could void your warranty.
 
  Take your iPhone to a nearby Apple Store or an Apple-authorized service provider; they should be able to help you. If your iPhone is still under warranty, Apple will fix your device at no additional cost if there are no signs of accidental damage. Scenarios like this make having an [extended AppleCare+ warranty](http://www.makeuseof.com/tag/applecare-what-are-your-options-is-it-really-worth-it/) very attractive because accidental damage is covered under this plan.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The Proximity Sensor Is an Important Part of Your iPhone
 
@@ -147,5 +154,21 @@ Here's a brief rundown of how to do it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-unraveling-successs-secrets-how-to-amass-more-subscribers-on-youtube/"><u>[New] Unraveling Success's Secrets How to Amass More Subscribers on YouTube</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-vuephoto-intelligent-design-demo-for-2024/"><u>[New] VuePhoto Intelligent Design Demo for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-channel-dominance-plan-studio-protocol-vs-beta-update-for-2024/"><u>[Updated] Channel Dominance Plan Studio Protocol Vs. Beta Update for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-play-without-payment-top-10-free-online-roleplaying-games/"><u>2024 Approved Play Without Payment Top 10 Free Online Roleplaying Games</u></a></li>
+<li><a href="https://fox-that.techidaily.com/airpods-troubleshooting-preventing-automatic-linking-between-ipad-macbook-and-iphone/"><u>AirPods Troubleshooting: Preventing Automatic Linking Between iPad, MacBook & iPhone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-contacts-from-vivo-s18-by-fonelab-android-recover-contacts/"><u>Best Android Data Recovery - Retrieve Lost Contacts from Vivo S18.</u></a></li>
+<li><a href="https://fox-that.techidaily.com/defeat-common-icloud-troubleshooting-scenarios-on-ios-with-these-easy-fixes/"><u>Defeat Common iCloud Troubleshooting Scenarios on iOS with These Easy Fixes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/essential-strategies-overcoming-autocorrect-mistakes-on-your-iphone-and-improving-typography-skills/"><u>Essential Strategies: Overcoming Autocorrect Mistakes on Your iPhone and Improving Typography Skills</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-analysis-on-the-high-performance-anker-superspeed-usb-hub/"><u>Expert Analysis on the High-Performance Anker SuperSpeed USB Hub</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-clear-iphones-network-configuration-a-step-by-step-guide/"><u>How to Clear iPhone's Network Configuration: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-tutorial-to-keep-your-windows-11-apps-running-as-an-admin/"><u>Step-by-Step Tutorial to Keep Your Windows 11 Apps Running as an Admin</u></a></li>
+<li><a href="https://fox-that.techidaily.com/tackle-iphone-contact-issues-essential-fixes-for-missing-people/"><u>Tackle iPhone Contact Issues: Essential Fixes for Missing People</u></a></li>
+<li><a href="https://win11.techidaily.com/tackle-windows-geforce-scanning-problems-effectively/"><u>Tackle Windows GeForce Scanning Problems Effectively</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unstuck-iphone-troubleshooting-starting-up-with-nonfunctional-buttons/"><u>Unstuck iPhone Troubleshooting: Starting Up with Nonfunctional Buttons</u></a></li>
+</ul></div>
 

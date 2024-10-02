@@ -1,7 +1,7 @@
 ---
 title: Solving the Problem When Your iPhone Shows Numbers as Contacts
-date: 2024-09-17T17:43:27.348Z
-updated: 2024-09-21T02:04:34.217Z
+date: 2024-09-28T22:52:05.865Z
+updated: 2024-10-01T16:40:35.211Z
 tags:
   - iphone
   - apple
@@ -35,11 +35,25 @@ thumbnail: https://thmb.techidaily.com/be96a560d136aae29d0d1d935d5244e5292b9067e
 
  However, this is usually a temporary issue and should fix itself. If this isn't the case, you can try a few quick fixes to get things back to normal quickly.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Restart Your iPhone
 
  A quick fix to getting your contact names back instead of phone numbers is to [restart your iPhone](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) . As with many other issues, a quick reboot usually does the trick, and you should be able to see your contact names instead of phone numbers in Messages.
 
  In the case that this doesn't work and you are still facing the same issue, follow the fixes below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Add or Remove the Country Code
 
@@ -54,6 +68,13 @@ thumbnail: https://thmb.techidaily.com/be96a560d136aae29d0d1d935d5244e5292b9067e
 
 ![Contact Edit menu in iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/contact-edit-menu-in-ios.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Add Country Code to Number](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Fix-Messages-Not-Showing-Contact-Number.jpg)
 
 Close
@@ -63,13 +84,6 @@ Close
  Alternatively, if you choose to add a new contact from the phone number, you can add it to an existing contact. But then you'll have two numbers saved for that person.
 
  Once you fix a phone number, you'll see Messages will automatically merge the conversations split across different chats.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Toggle iCloud Contacts
 
@@ -89,14 +103,14 @@ To do this, follow these steps on your iPhone:
 
 ![Password and Security in iPhone iCloud Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/2FA-iPhone-Password-and-Security.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Contacts in iCloud Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Fix-Messages-Not-Showing-iCloud-Contacts.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close
 
@@ -117,5 +131,20 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-simplified-game-video-capture-via-nvidia/"><u>[New] In 2024, Simplified Game Video Capture via NVIDIA</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-pixelated-panoramas-instaslideshow/"><u>[Updated] 2024 Approved Pixelated Panoramas InstaSlideShow</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-overcome-an-apply-denial-of-your-creditdebit-card-top-6-strategies/"><u>How to Overcome an Apply Denial of Your Credit/Debit Card - Top 6 Strategies</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Oppo Find X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-playback-operation-for-srt-across-operating-systems/"><u>In 2024, Playback Operation for SRT Across Operating Systems</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-two-ways-to-sync-contacts-from-samsung-galaxy-a15-4g-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Two Ways to Sync Contacts from Samsung Galaxy A15 4G to Gmail | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/lenovos-easy-pathway-to-screen-recording-for-2024/"><u>Lenovo's Easy Pathway to Screen Recording for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/mastering-the-art-of-iphonegraphy-expert-techniques-for-efficiently-processing-and-resolving-photo-related-difficulties/"><u>Mastering the Art of iPhonegraphy: Expert Techniques for Efficiently Processing & Resolving Photo-Related Difficulties</u></a></li>
+<li><a href="https://fox-that.techidaily.com/quick-fixes-for-emoji-suggestions-that-arent-working-on-your-apple-device/"><u>Quick Fixes for Emoji Suggestions That Aren't Working on Your Apple Device</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solve-iphone-cant-sendreceive-texts-with-these-7-tips/"><u>Solve 'iPhone Can't Send/Receive Texts' With These 7 Tips</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-iphone-wireless-charging-woes-a-guide-to-7-crucial-repairs/"><u>Solving iPhone Wireless Charging Woes: A Guide to 7 Crucial Repairs</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-your-headphone-dilemma-when-one-earbud-beats-another-in-sound-output/"><u>Solving Your Headphone Dilemma - When One Earbud Beats Another in Sound Output</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unlock-the-best-free-apple-apps-to-downsize-and-edit-mts-videos-without-costing-you-a-dime/"><u>Unlock the Best FREE Apple Apps to Downsize and Edit MTS Videos Without Costing You a Dime!</u></a></li>
+</ul></div>
 

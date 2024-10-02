@@ -1,7 +1,7 @@
 ---
 title: "Visual Voyage: A Step-by-Step Approach to Locating Your Lost FaceTime Pictures"
-date: 2024-09-21T21:17:17.949Z
-updated: 2024-09-26T21:07:10.443Z
+date: 2024-09-26T23:08:08.208Z
+updated: 2024-10-02T01:32:32.885Z
 tags:
   - iphone
   - apple
@@ -32,10 +32,10 @@ thumbnail: https://thmb.techidaily.com/8852f9f0dff99dd98034c53ca9e7b84a75b979ac3
  You can simplify matters by viewing only your Live Photos. To do this, go to the**Albums** tab and look for the**Live Photos** album. Your iPhone, iPad, or Mac creates this album automatically as soon as you add a Live Photo to your library.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Create a Smart Album for All Your FaceTime Live Photos
@@ -52,6 +52,13 @@ thumbnail: https://thmb.techidaily.com/8852f9f0dff99dd98034c53ca9e7b84a75b979ac3
 
  If you [sync Photos over iCloud](https://www.makeuseof.com/how-to-set-up-sync-icloud-photos/) , this Smart Album will become available from the**Albums** tab on your other devices as well.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Take Photos During FaceTime Calls
 
  You can take a Live Photo during a FaceTime call using the**shutter** button. This appears when you tap the screen on an iPhone, iPad, or iPod touch or when you hover your mouse over the FaceTime window on a Mac. It looks like two white circles, one inside the other.
@@ -59,6 +66,13 @@ thumbnail: https://thmb.techidaily.com/8852f9f0dff99dd98034c53ca9e7b84a75b979ac3
 ![Making a FaceTime video call on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/facetime-call-in-progress-ios.jpg)
 
 ![Capturing a FaceTime Live Photo](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/taking-a-facetime-live-photo.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close
 
@@ -75,10 +89,10 @@ Close
  Alternatively, hit**Cmd + Shift + 3** to take a screenshot of your entire screen. Aside from these two options, there are other [ways to take screenshots on your Mac](https://www.makeuseof.com/tag/how-to-take-a-screenshot-on-a-mac/) .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Enable Live Photos in Your FaceTime Settings
@@ -91,44 +105,37 @@ Close
 
 ![FaceTime Live Photos toggle enabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/facetime-live-photos-toggle-enabled.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Close
 
  On a Mac, open**FaceTime** and go to**FaceTime > Settings** from the menu bar. In the**Settings** tab, turn on the option to**Allow Live Photos to be captured during video calls** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Troubleshooting FaceTime Photo Problems
 
  There are lots of problems that might stop you from being able to snap a Live Photo during your FaceTime calls. If you can't find the shutter button, FaceTime isn't saving your photos, or you have trouble finding FaceTime photos after you take them, try these troubleshooting tips to fix it.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. Enable FaceTime Live Photos on Both Devices
 
  To take a photo of someone during a FaceTime call, everyone on the call needs to turn on FaceTime Live Photos from their device settings. Go to**Settings > FaceTime** to do this. Make sure the person you're taking a photo of checks their settings as well.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Open the Photos App on Your Device
 
  When you take Live Photos in FaceTime, it automatically saves those pictures to the Photos app on your device. If you haven't used Photos before, open it on your device to initialize the app before FaceTime can save photos.
 
 ![Photos app on an iPhone Home Screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/share-shared-albums-with-non-apple-users.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. Update to the Latest Operating System
 
@@ -143,19 +150,6 @@ Close
 ### 4\. Restart Your Device
 
  No matter what [FaceTime problem you're encountering](https://www.makeuseof.com/tag/facetime-not-working/) , you should always try to fix it by restarting your device. This is a remarkably effective troubleshooting step that only takes a moment to try out. Power off your iPhone, iPad, or Mac as you usually would, then wait 30 seconds before restarting it again.
-
-<!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 5\. Restart FaceTime on Your Device
 
@@ -172,10 +166,10 @@ Close
  On a Mac, open the**FaceTime** app and go to**FaceTime > Settings** from the menu bar. In the**Settings** tab, uncheck the box for**Enable this account** , then check the box again to re-enable FaceTime.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Revisit Your FaceTime Photos on iPhone, iPad and Mac
@@ -199,20 +193,20 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/new-unveiling-the-power-of-photo-editing-techniques-to-add-text-in-windowsmacos/"><u>[New] Unveiling the Power of Photo Editing Techniques to Add Text in Windows/MacOS</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-ps4-broadcast-simplified-detailed-steps-using-obs/"><u>[Updated] In 2024, PS4 Broadcast Simplified Detailed Steps Using OBS</u></a></li>
-<li><a href="https://fox-that.techidaily.com/bypass-iphone-communication-problems-with-these-10-tips/"><u>Bypass iPhone Communication Problems with These 10 Tips</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/complete-tutorial-for-updating-your-acer-aspire-device-with-new-drivers-on-windows-os/"><u>Complete Tutorial for Updating Your Acer Aspire Device with New Drivers on Windows OS</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fixing-iphone-issues-how-to-resolve-sos-messages-appearing-constantly/"><u>Fixing iPhone Issues: How to Resolve SOS Messages Appearing Constantly</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-ensure-your-iphone-receives-texts-from-android-contacts-efficiently/"><u>How To Ensure Your iPhone Receives Texts From Android Contacts Efficiently</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-how-to-increase-volume-of-the-media-files/"><u>New In 2024, How to Increase Volume of the Media Files</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-solved-final-cut-pro-x-keeps-crashing/"><u>New Solved Final Cut Pro X Keeps Crashing</u></a></li>
-<li><a href="https://fox-that.techidaily.com/restore-full-control-over-your-iphone-strategies-to-address-and-fix-the-sole-sos-status-bar-display-issue/"><u>Restore Full Control Over Your iPhone: Strategies to Address and Fix the Sole-SOS Status Bar Display Issue</u></a></li>
-<li><a href="https://fox-that.techidaily.com/siri-isnt-working-on-your-iphone-or-ipad-7-problems-fixed/"><u>Siri Isn't Working on Your iPhone or iPad? 7 Problems Fixed</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-essential-guide-to-downloading-and-editing-whatsapp-alerts/"><u>The Essential Guide to Downloading & Editing WhatsApp Alerts</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-premier-pro-essentials-accessible-for-all-editors-for-2024/"><u>The Premier Pro Essentials - Accessible for All Editors for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/top-5-solutions-for-iphone-dictation-issues-get-it-running-smoothly-again/"><u>Top 5 Solutions for iPhone Dictation Issues: Get It Running Smoothly Again</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/transformer-gratuitement-un-fichier-3gp-en-mpeg-avec-loutil-de-conversion-en-ligne-movavi/"><u>Transformer Gratuitement Un Fichier 3GP en MPEG Avec L'outil De Conversion en Ligne - Movavi</u></a></li>
-<li><a href="https://fox-that.techidaily.com/why-wait-the-important-reasons-to-switch-to-ios-153-immediately/"><u>Why Wait? The Important Reasons to Switch to iOS 15.3 Immediately</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-elite-circle-of-digital-titling-top-5-revealed/"><u>[Updated] The Elite Circle of Digital Titling Top 5 Revealed</u></a></li>
+<li><a href="https://fox-that.techidaily.com/airdrop-failures-no-more-overcome-common-challenges-with-our-16-expert-fixes/"><u>AirDrop Failures No More: Overcome Common Challenges with Our 16 Expert Fixes</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exclusive-insights-into-windows-superior-video-players-for-2024/"><u>Exclusive Insights Into Window's Superior Video Players for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/finalizing-account-deletion-on-instagram-method-and-tips/"><u>Finalizing Account Deletion on Instagram Method and Tips</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-your-behringer-usb-soundcard-drivers-now/"><u>Get Your Behringer USB Soundcard Drivers Now!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/get-your-game-on-how-to-troubleshoot-when-monster-hunter-rise-doesnt-load/"><u>Get Your Game On! How To Troubleshoot When Monster Hunter Rise Doesn’t Load</u></a></li>
+<li><a href="https://extra-information.techidaily.com/how-to-create-time-travel-teleportation-effects/"><u>How to Create Time Travel Teleportation Effects</u></a></li>
+<li><a href="https://fox-that.techidaily.com/improve-your-safari-browser-speeds-on-iphone-with-these-4-effective-methods/"><u>Improve Your Safari Browser Speeds on iPhone with These 4 Effective Methods</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-enhance-your-livestream-going-beyond-obs/"><u>In 2024, Enhance Your Livestream Going Beyond OBS</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-examining-the-perks-and-pitfalls-of-vr/"><u>In 2024, Examining the Perks and Pitfalls of VR</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-xiaomi-redmi-note-12-pro-4g-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Xiaomi Redmi Note 12 Pro 4G Phone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-contacts-not-responding-3-effective-ways-to-restore-functionality/"><u>IPhone Contacts Not Responding? 3 Effective Ways to Restore Functionality</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-6-causes-of-iphone-sluggishness-and-easy-solutions/"><u>Top 6 Causes of iPhone Sluggishness & Easy Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-your-ipods-delayed-operating-system-installation-using-these-6-methods/"><u>Troubleshoot Your iPod's Delayed Operating System Installation Using These 6 Methods</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721478232878-unlock-the-secret-to-resetting-your-iphone-without-ever-touching-itunes/"><u>Unlock the Secret to Resetting Your iPhone Without Ever Touching iTunes</u></a></li>
 </ul></div>
 
