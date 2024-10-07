@@ -1,7 +1,7 @@
 ---
 title: IPhone Contacts App Malfunctioning? Here Are 3 Reliable Solutions
-date: 2024-09-29T02:17:15.026Z
-updated: 2024-10-02T01:19:34.420Z
+date: 2024-10-04T23:44:43.994Z
+updated: 2024-10-06T19:19:11.424Z
 tags:
   - iphone
   - apple
@@ -42,6 +42,13 @@ Close
 
  If someone you know has set up their Contact Poster and you can't see it, simply ask them to follow the steps above and ensure the feature is enabled!
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Delete and Recreate the Contact Poster
 
  If the above fix doesn't work, we recommend deleting your Contact Poster entirely and creating a new one. Here's how you can delete your current Contact Poster:
@@ -54,33 +61,32 @@ Close
 ![viewing my own contact photo & poster](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/viewing-my-own-contact-phot-poster-1.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![viewing my created contact posters](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/viewing-my-created-contact-posters-1.jpeg)
 
 ![swiping up on my created contact poster and trash icon appears](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/swiping-up-on-my-created-contact-poster-and-trash-icon-appears.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![deleting my contact poster](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/deleting-my-contact-poster.jpeg)
 
-Close
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+Close
 
 ## 3\. Disable Name and Photo Sharing and Restart Your iPhone
 
@@ -89,10 +95,10 @@ Close
  Whether you're using a model with a notch or Dynamic Island or an old-school iPhone with a physical Home button,[restarting your iPhone, even if the buttons aren't working](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) , is pretty straightforward. After you turn your iPhone back on, follow the steps above to enable**Name & Photo Sharing** again.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## It's Time to Get Your Contact Posters Back
@@ -114,20 +120,22 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-all-you-need-to-know-about-downloading-wm6/"><u>[New] All You Need to Know About Downloading WM6</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-comprehensive-compendium-all-features-of-bublcams-360-degree-lens/"><u>[New] Comprehensive Compendium All Features of Bublcam's 360-Degree Lens</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-remedies-for-disabling-obs-fullscreen/"><u>[New] In 2024, Remedies for Disabling OBS Fullscreen</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-comprehensive-vlc-use-manual-for-mac-users/"><u>2024 Approved Comprehensive VLC Use Manual for Mac Users</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-elegant-darkening-premieres-touch/"><u>2024 Approved Elegant Darkening Premiere's Touch</u></a></li>
-<li><a href="https://app-tips.techidaily.com/anthropic-unveils-the-next-generation-of-enterprise-scale-ai-with-its-advanced-claude-initiative-insights-from-zdnet/"><u>Anthropic Unveils the Next Generation of Enterprise-Scale AI with Its Advanced Claude Initiative - Insights From ZDNet</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-motorola-moto-g24-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Motorola Moto G24 Phone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/imessage-alerts-signs-of-being-blocked-by-another-user/"><u>IMessage Alerts: Signs of Being Blocked by Another User</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-xiaomi-redmi-note-12-pro-5g-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Xiaomi Redmi Note 12 Pro 5G to Any iOS Devices | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/master-the-art-of-managing-your-airpods-connection-preferences-on-apple-equipment/"><u>Master the Art of Managing Your AirPods' Connection Preferences on Apple Equipment</u></a></li>
-<li><a href="https://fox-that.techidaily.com/reviving-iphone-personal-hotspot-steps-for-a-smooth-connection/"><u>Reviving iPhone Personal Hotspot - Steps for a Smooth Connection</u></a></li>
-<li><a href="https://fox-that.techidaily.com/simple-steps-to-carry-out-a-soft-reset-of-your-iphone-without-data-loss/"><u>Simple Steps to Carry Out a Soft Reset of Your iPhone Without Data Loss</u></a></li>
-<li><a href="https://fox-that.techidaily.com/tips-and-tricks-for-capturing-higher-quality-photos-on-iphones-with-low-mp-cameras/"><u>Tips and Tricks for Capturing Higher Quality Photos on iPhones with Low-MP Cameras</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-steps-for-outdated-ios-email-syncing-problems/"><u>Troubleshooting Steps for Outdated iOS Email Syncing Problems</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unraveling-the-secrets-a-detailed-look-at-the-truecaller-app-performance/"><u>Unraveling the Secrets: A Detailed Look at the TrueCaller App Performance</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-fullscreen-imprint-of-site/"><u>[New] 2024 Approved Fullscreen Imprint of Site</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-discover-the-top-8-android-platforms-for-large-gatherings/"><u>[New] Discover the Top 8 Android Platforms for Large Gatherings</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-no-cost-digital-revenue-prognosticator/"><u>[Updated] No-Cost Digital Revenue Prognosticator</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-youtube-taping-permissibility-concerns/"><u>2024 Approved YouTube Taping Permissibility Concerns</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/7-ways-to-unlock-a-locked-poco-f5-pro-5g-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Poco F5 Pro 5G Phone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/are-ubers-more-cost-effective-than-taxis-in-the-long-run/"><u>Are Ubers More Cost-Effective Than Taxis in the Long Run?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/clearing-moisture-from-your-smartphones-sound-output-areas-safely/"><u>Clearing Moisture From Your Smartphone's Sound Output Areas Safely</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-insights-on-gadgets-and-hardware-by-toms-tech-blog/"><u>Expert Insights on Gadgets & Hardware by Tom's Tech Blog</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-fix-an-unresponsive-iphone-qr-code-scanning-app-a-list-of-5-effective-methods/"><u>How to Fix an Unresponsive iPhone QR Code Scanning App: A List of 5 Effective Methods</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-overcome-the-challenge-of-updating-an-iphoneipad-a-step-by-step-guide/"><u>How to Overcome the Challenge of Updating an iPhone/iPad - A Step-by-Step Guide</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-did-your-apple-iphone-se-2022-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>In 2024, Did Your Apple iPhone SE (2022) Passcode Change Itself? Unlock It Now</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/instagram-filter-mastery-essential-skills/"><u>Instagram Filter Mastery - Essential Skills</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-connectivity-problems-try-these-5-fixes-for-constant-wi-fi-disconnections/"><u>IPhone Connectivity Problems? Try These 5 Fixes for Constant Wi-Fi Disconnections</u></a></li>
+<li><a href="https://fox-that.techidaily.com/late-text-notifications-on-your-iphone-correct-it-using-our-9-expert-fixes/"><u>Late Text Notifications on Your iPhone? Correct It Using Our 9 Expert Fixes!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-iphone-emergency-top-6-solutions-for-sos-signal-appearing-on-your-device/"><u>Solving iPhone Emergency: Top 6 Solutions for 'SOS Signal' Appearing on Your Device</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-10-factors-causing-your-iphones-auto-dimming-display/"><u>Top 10 Factors Causing Your iPhone's Auto-Dimming Display</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unstick-your-airpods-6-guides-for-effortless-transfer-between-macbook-iphone-and-ipad/"><u>Unstick Your AirPods: 6 Guides for Effortless Transfer Between MacBook, iPhone & iPad</u></a></li>
 </ul></div>
 

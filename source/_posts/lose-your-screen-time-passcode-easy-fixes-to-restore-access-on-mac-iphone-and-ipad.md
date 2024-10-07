@@ -1,7 +1,7 @@
 ---
 title: Lose Your Screen Time Passcode? Easy Fixes to Restore Access on Mac, iPhone, and iPad
-date: 2024-09-30T18:59:35.143Z
-updated: 2024-10-01T18:18:08.902Z
+date: 2024-10-06T12:02:03.263Z
+updated: 2024-10-06T16:38:08.560Z
 tags:
   - iphone
   - apple
@@ -26,10 +26,10 @@ thumbnail: https://thmb.techidaily.com/55eea1dea20c971ad29aa0a8be4aa55c4b1ce4519
 * [How to Reset the Screen Time Passcode for Your Child's Device](https://www.makeuseof.com/how-to-reset-screen-time-passcode-iphone-ipad-mac/#how-to-reset-the-screen-time-passcode-for-your-child-39-s-device)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -53,16 +53,22 @@ thumbnail: https://thmb.techidaily.com/55eea1dea20c971ad29aa0a8be4aa55c4b1ce4519
 
 ![Screen Time section in the Settings app on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/screen-time-section-in-the-settings-app-on-an-iphone.PNG)
 
+<!-- affiliate ads begin -->
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![changing or turning off Screen Time Passcode in the settings app on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/changing-or-turning-off-screen-time-passcode-in-the-settings-app-on-an-iphone.PNG)
 
 ![entering old screen time passcode on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/entering-old-screen-time-passcode-on-an-iphone.PNG)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![iPhone screen displaying Screen Time Passcode Recovery page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/iphone-screen-displaying-screen-time-passcode-recovery-page.PNG)
 
@@ -83,14 +89,14 @@ Close
 ![Mac Screen Time passcode recovery screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/mac-screen-time-passcoderecovery-screen.png)
 7. Finally, enter a new Screen Time passcode and then enter it again to verify.
 
- Once again, you're out of luck if you don't have**Share Across Devices** enabled and skipped the Screen Time passcode recovery step during setup.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Once again, you're out of luck if you don't have**Share Across Devices** enabled and skipped the Screen Time passcode recovery step during setup.
 
 ## How to Reset the Screen Time Passcode for Your Child's Device
 
@@ -115,29 +121,22 @@ Close
 
 ![A child's screen time settings on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/a-child-s-screen-time-settings-on-an-iphone.PNG)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![changing or turning off a child's Screen Time Passcode in the settings app on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/changing-or-turning-off-a-child-s-screen-time-passcode-in-the-settings-app-on-an-iphone.PNG)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Close
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
-  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### On a Mac
@@ -151,6 +150,13 @@ Close
 5. Enter your Mac's**admin** password and hit the**Return** key or click**Unlock** .  
 ![Entering mac's admin password to reset child's screen time passcode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/entering-mac-s-admin-password-to-reset-child-s-screen-time-passcode.PNG)
 6. Now, type in a new Screen Time passcode and enter it again to confirm.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  It's that easy! However, if you also forgot your Apple account login details, you'll have to go through the complicated process of [resetting your Apple ID password](https://www.makeuseof.com/tag/forgot-apple-id-icloud-password/) first.
 
@@ -171,20 +177,18 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-navigating-through-fbs-in-stream-ad-landscape-configuration-and-evaluation-techniques/"><u>[New] In 2024, Navigating Through FB's In-Stream Ad Landscape Configuration and Evaluation Techniques</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-facebook-featured-best-10-music-clips-today/"><u>[Updated] 2024 Approved Facebook Featured Best 10 Music Clips Today</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-shielding-imagery-best-practices-for-instagram-photowatermarking-for-2024/"><u>[Updated] Shielding Imagery Best Practices for Instagram Photowatermarking for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-maximizing-tv-viewership-for-facebook-live-events/"><u>2024 Approved Maximizing TV Viewership for Facebook Live Events</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/can-i-peruse-friends-shared-videos-and-pics-via-messenger/"><u>Can I Peruse Friends' Shared Videos & Pics via Messenger?</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721462960145-cant-connect-iphone-to-desktop-computer-heres-how-you-can-fix-it/"><u>Can't Connect iPhone to Desktop Computer? Here's How You Can Fix It!</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721477123916-critical-benefits-await-with-instant-upgrade-to-ios-153-learn-why-now/"><u>Critical Benefits Await with Instant Upgrade to iOS 15.3 – Learn Why Now</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/how-to-fill-your-free-time-top-10-exciting-games-when-youre-feeling-bored/"><u>How to Fill Your Free Time: Top 10 Exciting Games When You're Feeling Bored</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-acid-pro-a-deep-dive-and-competitive-matchups/"><u>In 2024, ACID Pro A Deep Dive & Competitive Matchups</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721473554195-keyboard-malfunctioning-on-ios-devices-top-5-fixes-inside/"><u>Keyboard Malfunctioning on iOS Devices? Top 5 Fixes Inside!</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721467004335-lost-sight-of-your-iphones-app-icons-discover-effective-remedies-to-restore-them/"><u>Lost Sight of Your iPhone's App Icons? Discover Effective Remedies to Restore Them</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/master-the-art-of-hd-video-editing-with-uncracked-factory-pro-software-a-full-guide/"><u>Master the Art of HD Video Editing with Uncracked Factory Pro Software – A Full Guide</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721461938063-overcome-slow-mobile-data-woes-with-this-quick-10-step-fix/"><u>Overcome Slow Mobile Data Woes with This Quick 10-Step Fix</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721468896420-say-goodbye-to-yellow-tinted-iphones-discover-9-effective-methods/"><u>Say Goodbye to Yellow Tinted iPhones - Discover 9 Effective Methods</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721472067816-why-does-my-iphone-display-irregular-websites-on-screen-time-heres-how-to-correct-it/"><u>Why Does My iPhone Display Irregular Websites on Screen Time? Here’s How to Correct It!</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-boost-your-instagrams-accessibility-with-easy-caption-features-for-2024/"><u>[New] Boost Your Instagram's Accessibility with Easy Caption Features for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-high-res-360-views-gear-vs-lgcam-showdown/"><u>[New] High-Res 360 Views Gear vs LGCam Showdown</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-easy-effective-and-accurate-method-to-download-fb-gifs-anywhere/"><u>[New] In 2024, Easy, Effective and Accurate Method to Download FB GIFs Anywhere</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-podcast-basics-crafting-your-first-rss-feed/"><u>[Updated] Podcast Basics Crafting Your First RSS Feed</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-tailor-your-media-auto-scaling-videos-for-instagram-via-macos-for-2024/"><u>[Updated] Tailor Your Media Auto-Scaling Videos for Instagram via MacOS for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721478173164-clear-images-on-whatsapp-heres-how-you-can-correct-zoom-distortion/"><u>Clear Images on WhatsApp? Here's How You Can Correct Zoom Distortion!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/deciphering-imessage-silence-are-you-on-the-no-text-list/"><u>Deciphering iMessage Silence: Are You on the No-Text List?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/diy-fixes-for-the-incomprehensible-error-how-to-address-stop-code-0x0000007b-bsod/"><u>DIY Fixes for the Incomprehensible Error: How to Address Stop Code 0X0000007B BSOD</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-disguise-taskbars-search-in-windows-11/"><u>How To Disguise Taskbar's Search in Windows 11</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-harmonyheed-evaluating-audio-artifacts/"><u>In 2024, HarmonyHeed Evaluating Audio Artifacts</u></a></li>
+<li><a href="https://fox-that.techidaily.com/six-ways-to-resolve-non-functioning-aol-emails-on-your-iphone/"><u>Six Ways to Resolve Non-Functioning AOL Emails on Your iPhone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/step-by-step-guide-correcting-mysterious-website-appearances-in-ios-screen-time/"><u>Step-by-Step Guide: Correcting Mysterious Website Appearances in iOS Screen Time</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-how-to-resolve-face-id-issues-when-its-down-on-your-iphone/"><u>Troubleshooting: How to Resolve Face ID Issues When It's Down on Your iPhone</u></a></li>
 </ul></div>
 

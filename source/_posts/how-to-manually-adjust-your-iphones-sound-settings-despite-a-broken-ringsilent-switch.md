@@ -1,7 +1,7 @@
 ---
 title: How to Manually Adjust Your iPhone's Sound Settings Despite a Broken Ring/Silent Switch
-date: 2024-09-28T19:13:05.563Z
-updated: 2024-10-02T00:04:35.900Z
+date: 2024-10-04T21:20:32.662Z
+updated: 2024-10-06T18:48:20.933Z
 tags:
   - iphone
   - apple
@@ -68,11 +68,31 @@ Close
 
 ![AssistiveTouch settings on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customizing-assistivetouch-top-level-menu-1.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![customizing AssistiveTouch's top-level menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customizing-assistivetouch-top-level-menu-2.jpg)
 
 ![adding a new button to the AssistiveTouch menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customizing-assistivetouch-top-level-menu-3.jpg)
 
 ![selecting Mute action for the new AssistiveTouch button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customizing-assistivetouch-top-level-menu-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![Mute action in AssistiveTouch's top-level menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customizing-assistivetouch-top-level-menu-5.jpg)
 
@@ -91,38 +111,11 @@ Follow these simple instructions to get this done:
 
 ![AssistiveTouch settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/setting-a-custom-action-for-assistivetouch-button-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![adding Mute action to Double-Tap gesture](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/setting-a-custom-action-for-assistivetouch-button-2.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Close
 
  Once set up, muting and unmuting your iPhone should be even easier. Simply perform the gesture to which you've assigned the Mute action, and it'll mute the device. Repeat it again to unmute.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Mute or Unmute iPhone Using Back Tap
 
@@ -135,21 +128,7 @@ Close
 
 ![iPhone Accessibility settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-using-back-tap-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Back Tap feature under Touch Accessibility settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-using-back-tap-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Close
 
@@ -160,13 +139,34 @@ Close
 
 ![Back Tap gesture options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-using-back-tap-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![setting Mute action to a Back Tap gesture](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-using-back-tap-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close
 
  Now, whenever you want to mute your iPhone, simply perform the double-tap or triple-tap gesture on the back of your iPhone. To unmute it, perform the same gesture again.
 
  With certain iPhone cases, especially thicker ones, you might need to tap harder for the iPhone to register your taps and trigger the action.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Broken iPhone Ring/Silent Switch? No Problem
 
@@ -189,18 +189,20 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-expertise-in-editing-the-leading-online-video-length-reducers/"><u>[Updated] In 2024, Expertise in Editing The Leading Online Video Length Reducers</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-isolate-subject-in-recording-for-clearer-videos-for-2024/"><u>[Updated] Isolate Subject in Recording for Clearer Videos for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-become-a-pixlr-wizard-10-easy-tricks-for-exceptional-edits/"><u>2024 Approved Become a Pixlr Wizard 10 Easy Tricks for Exceptional Edits</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-oppo-a59-5g-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Oppo A59 5G Phone Using PC | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/bringing-volume-to-silent-messages-on-iphone-unveiling-20-secrets-to-restore-sounds/"><u>Bringing Volume to Silent Messages on iPhone: Unveiling 20 Secrets to Restore Sounds</u></a></li>
-<li><a href="https://fox-that.techidaily.com/clear-your-phones-audio-ports-how-to-dry-out-stuck-wetness-in-headphones/"><u>Clear Your Phone's Audio Ports: How to Dry Out Stuck Wetness in Headphones</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/fb-video-placement-upright-or-flat-angle-in-2024/"><u>FB Video Placement - Upright or Flat Angle, In 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-contacts-from-105-classic-by-fonelab-android-recover-contacts/"><u>How to recover deleted contacts from 105 Classic.</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-restore-wi-fi-access-on-your-apple-device-top-8-solutions-for-iphones-and-ipads/"><u>How to Restore Wi-Fi Access on Your Apple Device: Top 8 Solutions for iPhones & iPads</u></a></li>
-<li><a href="https://fox-that.techidaily.com/iphone-shoots-blank-identify-and-resolve-these-7-camera-malfunctions/"><u>IPhone Shoots Blank: Identify & Resolve These 7 Camera Malfunctions</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-photo-to-video-magic-add-music-and-tell-a-story-for-2024/"><u>New Photo to Video Magic Add Music and Tell a Story for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/the-pathway-to-viral-fame-mastering-instagram-with-these-9-essential-strategies-for-2024/"><u>The Pathway to Viral Fame Mastering Instagram with These 9 Essential Strategies for 2024</u></a></li>
-<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-honor-x8b-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from Honor X8b</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-premium-giggle-and-graphics-editor/"><u>2024 Approved Premium Giggle & Graphics Editor</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fix-the-gap-receiving-messages-on-iphone-from-android-phones-made-simple/"><u>Fix the Gap: Receiving Messages on iPhone From Android Phones Made Simple</u></a></li>
+<li><a href="https://fox-that.techidaily.com/guide-to-address-random-internet-visits-appearing-under-iphone-usage-screen-time/"><u>Guide to Address Random Internet Visits Appearing Under iPhone Usage Screen Time</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-12-mini-to-other-iphone-15-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 12 mini To Other iPhone 15 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-poco-c51-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On Poco C51 | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-valorant-thumbnails-made-professionally-without-delay/"><u>In 2024, Valorant Thumbnails Made Professionally, Without Delay</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphoneipad-update-troubles-try-these-9-proven-techniques/"><u>IPhone/iPad Update Troubles? Try These 9 Proven Techniques</u></a></li>
+<li><a href="https://fox-that.techidaily.com/locating-hidden-appointments-in-your-ios-calendar-application/"><u>Locating Hidden Appointments in Your iOS Calendar Application</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/managing-files-and-organizing-directories-in-installation-setup/"><u>Managing Files & Organizing Directories in Installation Setup</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-make-viral-reaction-videos-best-ios-and-android-apps/"><u>New Make Viral Reaction Videos Best iOS and Android Apps</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/transform-your-videos-convert-mpgmpeg-files-to-3g2-free-with-movavis-online-tool/"><u>Transform Your Videos: Convert MPG/MPEG Files to 3G2 FREE with Movavi's Online Tool!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-a-lagging-iphone-top-6-causes-and-remedies/"><u>Troubleshooting a Lagging iPhone: Top 6 Causes & Remedies</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-tips-to-stop-spotify-crashes-when-your-iphone-is-locked/"><u>Troubleshooting Tips to Stop Spotify Crashes When Your iPhone Is Locked</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-ai-types-public-vs-private-vs-personal/"><u>Understanding AI Types: Public Vs. Private Vs. Personal</u></a></li>
+<li><a href="https://fox-that.techidaily.com/why-wont-my-iphone-screen-work-discover-the-7-most-common-issues-and-fixes/"><u>Why Won't My iPhone Screen Work? Discover the 7 Most Common Issues and Fixes</u></a></li>
 </ul></div>
 

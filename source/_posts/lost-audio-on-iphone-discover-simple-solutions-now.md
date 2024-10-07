@@ -1,7 +1,7 @@
 ---
 title: Lost Audio on iPhone? Discover Simple Solutions Now!
-date: 2024-09-30T21:23:19.311Z
-updated: 2024-10-02T02:35:50.738Z
+date: 2024-10-03T04:54:56.585Z
+updated: 2024-10-07T04:21:03.122Z
 tags:
   - iphone
   - apple
@@ -46,7 +46,21 @@ Close
 
 ![black iphone and airpods on wooden surface](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/iphone-airpods.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If it’s not dust and dirt, try to recall whether you accidentally dropped your iPhone in water recently. While iPhones are water-resistant, water may still get into your speakers. You can use the [Sonic](https://apps.apple.com/app/sonic/id986999895) app to eject water from the speakers if this is the case.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Turn Off Silent Mode and Do Not Disturb
 
@@ -71,6 +85,19 @@ Here’s how to turn off Do Not Disturb or Focus:
 
 Close
 
+<!-- affiliate ads begin -->
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Check Your iPhone’s Audio Output
 
  There may be no sound on your iPhone because you have Bluetooth turned on and it has automatically connected to an active Bluetooth audio device, such as wireless earbuds. Therefore, your iPhone’s sound is actually playing from those instead of the speakers.
@@ -84,13 +111,6 @@ Close
 
 ![iphone control center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/bluetooth-off-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Close
 
  Also, check that your AirPlay isn’t connected to an external speaker. In the**Control Center** :
@@ -101,26 +121,13 @@ Close
 ![iphone control center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/iphone-control-center.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![airplay on iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/airplay-iphone.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Close
 
@@ -142,10 +149,10 @@ Close
 ![sounds and haptics on iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/sounds-haptics-iphone.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![text tone on iphone settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/text-tone-iphone-1.jpg)
@@ -153,6 +160,13 @@ Close
 Close
 
  If the sound issue revolves around iPhone alerts, you can refer to our detailed guide on [how to fix alert sounds on your iPhone](https://www.makeuseof.com/how-to-fix-iphone-not-receiving-alerts/) .
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Check Third-Party App Sound Settings
 
@@ -162,13 +176,6 @@ Close
 
 ![audio settings in sky game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/sky-game-audio.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. Exit and Relaunch the Third-Party App
 
  If you’ve already gone through all the sound settings and they’re all switched on correctly, your iPhone’s sound not working may just be an app glitch.
@@ -177,31 +184,31 @@ Close
 
 ![person holding iphone showing instagram post](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/instagram-post.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can also opt to view the video through another route. Instead of watching the video in your Instagram feed, tap into that Instagram profile and select the video from there instead.
 
 ## 8\. Update iOS and Your iPhone Apps
 
 ![iphone on wooden surface showing hello welcome screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/iphone-hello.jpg)
 
- Updates often come with fixes for bugs and glitches, so you can solve the issue of no sound on your iPhone by simply keeping your iOS and apps up-to-date. For more information, refer to our guide on [how to update your iPhone](https://www.makeuseof.com/tag/update-iphone-ios-apps-data/) .
-
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Updates often come with fixes for bugs and glitches, so you can solve the issue of no sound on your iPhone by simply keeping your iOS and apps up-to-date. For more information, refer to our guide on [how to update your iPhone](https://www.makeuseof.com/tag/update-iphone-ios-apps-data/) .
 
 ## 9\. Force Restart Your iPhone
 
  If there’s still no sound on your iPhone, the next method you can try is to [force restart your iPhone](https://www.makeuseof.com/tag/restart-iphone-recovery-mode/) . Don’t worry, you won’t lose any data when you force restart your iPhone.
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 10\. Restore Your iPhone to a Previous Backup
 
@@ -210,13 +217,6 @@ Close
 ## 11\. Reset All Settings on Your iPhone
 
  If you tried all the suggestions above but they don’t work, the last solution is to [reset your iPhone’s settings](https://www.makeuseof.com/tag/how-to-restore-reset-iphone-without-itunes/) . As long as you don’t select the**Erase All Content and Settings** option, rest assured that you will not lose any data. That said, you may need to erase all the content and set your iPhone up as new to fix the issue, so try that if the first option doesn’t work.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix No Sound on Your iPhone Easily
 
@@ -237,18 +237,24 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-the-definitive-xbox-gameplay-capture-strategy/"><u>[New] 2024 Approved The Definitive Xbox Gameplay Capture Strategy</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-the-science-of-choosing-music-for-movie-previews/"><u>[New] In 2024, The Science of Choosing Music for Movie Previews</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-a-complete-overview-of-polarr-photo-editor-for-2024/"><u>[Updated] A Complete Overview of Polarr Photo Editor for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-simple-methods-swap-sea-creature-sounds-in-windows-os/"><u>2024 Approved Simple Methods Swap Sea Creature Sounds in Windows OS</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fix-your-iphones-non-functioning-mic-with-these-simple-steps/"><u>Fix Your iPhone's Non-Functioning Mic with These Simple Steps</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fix-your-non-functional-widgets-in-just-10-easy-steps-iphone-and-ipad/"><u>Fix Your Non-Functional Widgets in Just 10 Easy Steps – iPhone and iPad</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/free-online-tool-convert-your-mp4-to-audio-file-in-mp3-format-with-ease/"><u>Free Online Tool: Convert Your Mp4 to Audio File in MP3 Format with Ease!</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-repair-broken-volume-buttons-on-your-iphone-with-these-7-methods/"><u>How to Repair Broken Volume Buttons on Your iPhone with These 7 Methods</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-depth-review-the-full-story-of-theta-s-technology-for-2024/"><u>In-Depth Review The Full Story of Theta S Technology for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/russia-unveils-plan-for-advanced-1-core-servers-in-next-generation-supercomputers/"><u>Russia Unveils Plan for Advanced 1# Core Servers in Next Generation Supercomputers</u></a></li>
-<li><a href="https://fox-that.techidaily.com/steps-to-recover-lost-apple-calendar-events-on-an-iphone-device/"><u>Steps to Recover Lost Apple Calendar Events on an iPhone Device</u></a></li>
-<li><a href="https://fox-that.techidaily.com/top-eight-fixes-if-your-iphone-or-ipad-wont-connect-to-wi-fi-anymore/"><u>Top Eight Fixes If Your iPhone or iPad Won't Connect to Wi-Fi Anymore</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-guide-resolving-iphones-error-code-14/"><u>Troubleshooting Guide: Resolving iPhone's Error Code 14</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-ensuring-compliance-with-fb-messenger-call-records/"><u>[New] In 2024, Ensuring Compliance with FB Messenger Call Records</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-perfecting-auto-captioned-content-in-instagram-reels/"><u>[Updated] 2024 Approved Perfecting Auto-Captioned Content in Instagram Reels</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-elevate-your-digital-identity-top-101-masterclass-in-personal-bios/"><u>[Updated] Elevate Your Digital Identity Top 101 Masterclass in Personal Bios</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-infusing-personality-with-custom-fonts-in-ae-workflows/"><u>[Updated] Infusing Personality with Custom Fonts in AE Workflows</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/bavarder-simplifies-chatgpt-setup-for-linux-users-a-step-by-step-guide/"><u>Bavarder Simplifies ChatGPT Setup for Linux Users - A Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-magicard-rio-pro-driver-compatible-with-windows-11-81-and-7-get-the-new-version/"><u>Download Magicard Rio Pro Driver: Compatible with Windows 11, 8.1 & 7 – Get the New Version!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/eliminate-lags-in-your-insta-experience-best-practices-for-both-iphone-and-android-users/"><u>Eliminate Lags in Your Insta Experience: Best Practices for Both iPhone and Android Users</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-guide-for-apple-iphone-7-lock-screen-drfone-by-drfone-ios/"><u>In 2024, Complete Guide For Apple iPhone 7 Lock Screen | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-your-samsung-galaxy-m54-5g-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Samsung Galaxy M54 5G Lock Screen Password</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-not-picking-up-calls-heres-how-you-can-fix-it/"><u>IPhone Not Picking Up Calls? Here's How You Can Fix It!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/no-more-silent-phone-uncover-7-fixes-for-non-appearing-iphone-notifications/"><u>No More Silent Phone: Uncover 7 Fixes for Non-Appearing iPhone Notifications</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcome-iphone-lag-uncovering-6-key-reasons-and-remedies/"><u>Overcome iPhone Lag: Uncovering 6 Key Reasons & Remedies</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcome-these-6-prevalent-iphone-13-glitches-expert-fixing-guides-inside/"><u>Overcome These 6 Prevalent iPhone 13 Glitches - Expert Fixing Guides Inside</u></a></li>
+<li><a href="https://fox-that.techidaily.com/quick-solutions-overcoming-top-10-apple-pay-problems/"><u>Quick Solutions: Overcoming Top 10 Apple Pay Problems</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolving-iphone-cellular-connection-problems-discover-10-key-strategies/"><u>Resolving iPhone Cellular Connection Problems: Discover 10 Key Strategies</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-right-way-to-watch-the-epic-star-wars-series-in-order-disneyplus/"><u>The Right Way to Watch the Epic 'Star Wars' Series in Order: Disney+</u></a></li>
+<li><a href="https://fox-that.techidaily.com/uncover-the-causes-top-7-issues-leading-to-non-responsive-iphone-touchscreens/"><u>Uncover the Causes: Top 7 Issues Leading to Non-Responsive iPhone Touchscreens</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unveiling-10-key-triggers-behind-your-iphones-automatic-display-adjustment/"><u>Unveiling 10 Key Triggers Behind Your iPhone's Automatic Display Adjustment</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/what-is-ai-and-what-dangers-does-it-pose/"><u>What Is AI and What Dangers Does It Pose?</u></a></li>
 </ul></div>
 

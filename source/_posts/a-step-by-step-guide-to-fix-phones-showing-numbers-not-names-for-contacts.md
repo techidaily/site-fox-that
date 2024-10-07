@@ -1,7 +1,7 @@
 ---
 title: A Step-by-Step Guide to Fix Phones Showing Numbers, Not Names for Contacts
-date: 2024-09-10T20:25:54.098Z
-updated: 2024-09-15T18:17:38.417Z
+date: 2024-10-02T07:59:19.634Z
+updated: 2024-10-06T16:50:07.342Z
 tags:
   - iphone
   - apple
@@ -49,7 +49,27 @@ thumbnail: https://thmb.techidaily.com/1e295c9ac73c2cf7b4e3fab8b993b16c3823b6dce
 
 ![Contact Edit menu in iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/contact-edit-menu-in-ios.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Add Country Code to Number](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Fix-Messages-Not-Showing-Contact-Number.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close
 
@@ -58,6 +78,19 @@ Close
  Alternatively, if you choose to add a new contact from the phone number, you can add it to an existing contact. But then you'll have two numbers saved for that person.
 
  Once you fix a phone number, you'll see Messages will automatically merge the conversations split across different chats.
+
+<!-- affiliate ads begin -->
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Toggle iCloud Contacts
 
@@ -75,31 +108,18 @@ To do this, follow these steps on your iPhone:
 
 ![Settings on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Fix-Messages-Not-Showing-iCloud.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Password and Security in iPhone iCloud Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/2FA-iPhone-Password-and-Security.jpg)
 
 ![Contacts in iCloud Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Fix-Messages-Not-Showing-iCloud-Contacts.jpg)
 
-Close
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+Close
 
 ## Fix Messages Showing Phone Numbers Instead of Contact Names
 
@@ -118,5 +138,24 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-thrill-town-10-similar-video-games-to-gta-v/"><u>[New] In 2024, Thrill Town 10 Similar Video Games To GTA V</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unlocking-the-power-of-time-lapse-with-samsung-smartphones/"><u>[New] Unlocking the Power of Time Lapse with Samsung Smartphones</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-adobe-advances-bringing-text-into-three-dimensional-space/"><u>2024 Approved Adobe Advances Bringing Text Into Three-Dimensional Space</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-samsung-galaxy-a23-5g-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Samsung Galaxy A23 5G Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/expert-tips-for-draining-moisture-from-your-iphone-audio-ports/"><u>Expert Tips for Draining Moisture From Your iPhone Audio Ports</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-iphones-non-compatible-peripheral-devices-a-step-by-step-guide/"><u>Fixing iPhone's Non-Compatible Peripheral Devices – A Step by Step Guide</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-google-pixel-8-lock-screen-password-by-drfone-android/"><u>How To Change Google Pixel 8 Lock Screen Password?</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-unsubscribe-and-undo-gaming-expenses/"><u>How to Unsubscribe and Undo Gaming Expenses</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-efficient-methods-for-top-tier-gopro-studio-editing/"><u>In 2024, Efficient Methods for Top-Tier GoPro Studio Editing</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-vivo-x-fold-2-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Vivo X Fold 2 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-poco-c65-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Poco C65 to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-iphone-silence-effective-solutions-to-activate-vibration-when-needed/"><u>Overcoming iPhone Silence: Effective Solutions to Activate Vibration When Needed</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-slow-text-notifications-9-helpful-fixes-for-iphones/"><u>Overcoming Slow Text Notifications: 9 Helpful Fixes for iPhones</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721478470111-solving-the-problem-of-audio-movement-in-airpods-turn-off-automatic-head-tracking-now/"><u>Solving the Problem of Audio Movement in AirPods - Turn Off Automatic Head Tracking Now</u></a></li>
+<li><a href="https://fox-that.techidaily.com/the-magic-of-refreshing-how-rebooting-your-phone-solves-many-glitches/"><u>The Magic of Refreshing: How Rebooting Your Phone Solves Many Glitches</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-7-solutions-for-resolving-iphones-apple-logo-screen-issue/"><u>Top 7 Solutions for Resolving iPhone's Apple Logo Screen Issue</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlock-the-solution-to-ios-16-depth-effect-problems-learn-from-our-7-step-guide/"><u>Unlock the Solution to iOS 16 Depth Effect Problems - Learn From Our 7-Step Guide</u></a></li>
+</ul></div>
 

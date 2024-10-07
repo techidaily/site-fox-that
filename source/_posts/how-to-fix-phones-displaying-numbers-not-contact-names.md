@@ -1,7 +1,7 @@
 ---
 title: "How to Fix: Phones Displaying Numbers, Not Contact Names"
-date: 2024-09-11T21:32:00.228Z
-updated: 2024-09-15T20:55:36.341Z
+date: 2024-10-01T23:16:48.052Z
+updated: 2024-10-07T10:04:59.946Z
 tags:
   - iphone
   - apple
@@ -29,6 +29,13 @@ thumbnail: https://thmb.techidaily.com/de3aeccba8a1988fe712bc85cebc3af3bc3a21faa
  This may look even weirder when you have a [conversation pinned to the top of your Messages](https://www.makeuseof.com/how-to-pin-conversations-apples-messages-app-iphone-mac/) screen for easier access, and that's the one showing a phone number.
 
  However, this is usually a temporary issue and should fix itself. If this isn't the case, you can try a few quick fixes to get things back to normal quickly.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Restart Your iPhone
 
@@ -59,6 +66,13 @@ Close
 
  Once you fix a phone number, you'll see Messages will automatically merge the conversations split across different chats.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Toggle iCloud Contacts
 
  Some people have reported iCloud contacts being the reason behind this issue. If you are syncing your contacts with your iCloud account, it might be worth re-syncing them, which might fix the issue.
@@ -76,22 +90,22 @@ To do this, follow these steps on your iPhone:
 ![Settings on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Fix-Messages-Not-Showing-iCloud.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Password and Security in iPhone iCloud Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/2FA-iPhone-Password-and-Security.jpg)
 
-![Contacts in iCloud Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Fix-Messages-Not-Showing-iCloud-Contacts.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![Contacts in iCloud Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Fix-Messages-Not-Showing-iCloud-Contacts.jpg)
 
 Close
 
@@ -112,5 +126,26 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-dancefloor-directives-expert-dj-video-downloads/"><u>[New] In 2024, Dancefloor Directives Expert DJ Video Downloads</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-inside-the-io-recording-process-what-you-must-know/"><u>[New] In 2024, Inside the IO Recording Process What You Must Know</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/professional-fixes-enhance-dull-iphone-hdri-expert-tips-for-premiere-pro-users/"><u>[Professional Fixes] Enhance Dull iPhone HDRI Expert Tips for Premiere Pro Users</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-pick-your-favorite-top-ios-apps-for-facebook-video-loading/"><u>2024 Approved Pick Your Favorite Top iOS Apps for Facebook Video Loading</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-where-is-youtube-video-manager-all-you-need-to-know/"><u>2024 Approved Where Is Youtube Video Manager? [All You Need to Know]</u></a></li>
+<li><a href="https://fox-that.techidaily.com/eight-proven-methods-to-optimize-your-iphones-wi-fi-capability-and-efficiency/"><u>Eight Proven Methods to Optimize Your iPhone's Wi-Fi Capability and Efficiency</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-the-orange-glow-9-tips-to-address-iphone-screen-issues/"><u>Fixing the Orange Glow: 9 Tips to Address iPhone Screen Issues</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/guide-bulk-transforming-wav-audio-tracks-into-mp3-files-easily/"><u>Guide: Bulk Transforming WAV Audio Tracks Into MP3 Files Easily</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-stop-your-iphone-from-losing-wi-fi-connection-a-guide-with-5-tips/"><u>How to Stop Your iPhone From Losing Wi-Fi Connection: A Guide with 5 Tips</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-triumph-over-slow-mobile-data-unlock-expert-secrets-and-turbocharge-your-speed-in-only-n-steps/"><u>How to Triumph Over Slow Mobile Data: Unlock Expert Secrets and Turbocharge Your Speed in Only N Steps</u></a></li>
+<li><a href="https://fox-that.techidaily.com/reactivating-your-iphoneipad-a-step-by-step-guide/"><u>Reactivating Your iPhone/iPad: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-google-pixel-8-pro-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of Google Pixel 8 Pro on Windows</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/skyline-design-studio-evaluation-insightful-review-for-the-year/"><u>Skyline Design Studio Evaluation Insightful Review for the Year</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/sunsafe-gaming-with-bose-soundsports-frames/"><u>SunSafe Gaming with Bose SoundSports Frames</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-definitive-guide-to-choosing-a-surveillance-bell-why-rings-model-2-stands-out/"><u>The Definitive Guide to Choosing a Surveillance Bell - Why Ring's Model 2 Stands Out</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-instagram-performance-issues-top-6-fixes-for-android-and-ios/"><u>Troubleshooting Instagram Performance Issues: Top 6 Fixes for Android & iOS</u></a></li>
+<li><a href="https://fox-that.techidaily.com/understanding-iphone-14-a-deep-dive-into-its-battery-lifespan-and-performance-concerns/"><u>Understanding iPhone 14: A Deep Dive Into Its Battery Lifespan and Performance Concerns</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlock-your-iphone-again-expert-fixes-for-common-face-id-problems-14-methods/"><u>Unlock Your iPhone Again: Expert Fixes for Common Face ID Problems (14 Methods)</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlocking-the-secret-to-finding-your-facetime-picture-files-step-by-step-tutorial/"><u>Unlocking The Secret to Finding Your FaceTime Picture Files – Step by Step Tutorial</u></a></li>
+</ul></div>
 

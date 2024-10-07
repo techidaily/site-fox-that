@@ -1,7 +1,7 @@
 ---
 title: "Solution Guide: Dealing with Numeric Contact Listings on iOS Message App"
-date: 2024-09-09T20:01:51.555Z
-updated: 2024-09-15T20:22:15.377Z
+date: 2024-10-01T22:41:21.725Z
+updated: 2024-10-07T00:24:41.828Z
 tags:
   - iphone
   - apple
@@ -30,6 +30,13 @@ thumbnail: https://thmb.techidaily.com/5b7228f82dd55952004c9e54eccc979f0193c694c
 
  However, this is usually a temporary issue and should fix itself. If this isn't the case, you can try a few quick fixes to get things back to normal quickly.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Restart Your iPhone
 
  A quick fix to getting your contact names back instead of phone numbers is to [restart your iPhone](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) . As with many other issues, a quick reboot usually does the trick, and you should be able to see your contact names instead of phone numbers in Messages.
@@ -50,6 +57,13 @@ thumbnail: https://thmb.techidaily.com/5b7228f82dd55952004c9e54eccc979f0193c694c
 ![Contact Edit menu in iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/contact-edit-menu-in-ios.jpg)
 
 ![Add Country Code to Number](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Fix-Messages-Not-Showing-Contact-Number.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close
 
@@ -78,10 +92,16 @@ To do this, follow these steps on your iPhone:
 ![Password and Security in iPhone iCloud Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/2FA-iPhone-Password-and-Security.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115936/19272" target="_top" id="2115936">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115936" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115936/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Contacts in iCloud Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Fix-Messages-Not-Showing-iCloud-Contacts.jpg)
@@ -89,10 +109,10 @@ To do this, follow these steps on your iPhone:
 Close
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123465/16836" target="_top" id="2123465">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123465" border="0" alt="https://techidaily.com" width="80" height="31"/>
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123465/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix Messages Showing Phone Numbers Instead of Contact Names
@@ -112,5 +132,20 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-essential-guide-to-manipulating-time-with-phantom/"><u>[Updated] 2024 Approved Essential Guide to Manipulating Time with Phantom</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-apowersoft-screen-recorder-review-and-alternative/"><u>2024 Approved Apowersoft Screen Recorder Review and Alternative</u></a></li>
+<li><a href="https://fox-that.techidaily.com/cant-connect-iphone-with-itunesfinder-try-these-proven-fixing-tips/"><u>Can't Connect iPhone with iTunes/Finder? Try These Proven Fixing Tips</u></a></li>
+<li><a href="https://fox-http.techidaily.com/crafting-professional-edits-including-sounds-in-premiere-projects/"><u>Crafting Professional Edits Including Sounds in Premiere Projects</u></a></li>
+<li><a href="https://solve-info.techidaily.com/discover-the-best-places-to-legally-get-your-favorite-cartoon-movies-now-download-and-enjoy-anywhere/"><u>Discover the Best Places to Legally Get Your Favorite Cartoon Movies - Now, Download & Enjoy Anywhere!</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-itel-a60s-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Itel A60s Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-do-large-language-models-function-a-detailed-look-into-llm-systems-and-their-mechanics/"><u>How Do Large Language Models Function? A Detailed Look Into LLM Systems and Their Mechanics</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-galaxy-a05s-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Galaxy A05s</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-5-solutions-for-google-pixel-7a-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Google Pixel 7a Unlock Without Password</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlock-apple-iphone-6s-plus-without-passcode-easily-drfone-by-drfone-ios/"><u>In 2024, Unlock Apple iPhone 6s Plus Without Passcode Easily | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/silencing-duplicate-alerts-preventing-ipads-buzz-during-iphone-notifications/"><u>Silencing Duplicate Alerts: Preventing iPad's Buzz During iPhone Notifications</u></a></li>
+<li><a href="https://fox-that.techidaily.com/simplify-your-digital-album-creation-merging-identical-images-on-ios-and-macos-devices/"><u>Simplify Your Digital Album Creation: Merging Identical Images On iOS & macOS Devices</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-9-signs-your-iphone-is-suffering-from-liquid-damage/"><u>Top 9 Signs Your iPhone Is Suffering From Liquid Damage</u></a></li>
+</ul></div>
 

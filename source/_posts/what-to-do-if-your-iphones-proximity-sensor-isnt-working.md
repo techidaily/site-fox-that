@@ -1,7 +1,7 @@
 ---
 title: What to Do if Your iPhone's Proximity Sensor Isn't Working
-date: 2024-09-14T21:41:45.279Z
-updated: 2024-09-15T16:47:02.873Z
+date: 2024-09-30T09:05:15.559Z
+updated: 2024-10-06T17:35:33.303Z
 tags:
   - iphone
   - apple
@@ -41,6 +41,13 @@ Here are some things you could do to check if it's working:
 
 ![person cleaning a phone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/cleaning-phone.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The most likely culprit is dirt and gunk that has accumulated on the top half of your screen, making it difficult for the emitter or sensor to work. You will run into this issue if you have sweaty or oily skin.
 
  While you could try a quick wipe against your shirt or some other cloth, the best thing to do is [clean your iPhone properly](https://www.makeuseof.com/tag/clean-iphone-guide/) . Use a moist, lint-free cloth and gently but thoroughly wipe the dirt away in one direction.
@@ -54,10 +61,10 @@ Here are some things you could do to check if it's working:
  In this case, you should restart the app first. Merely returning to the Home Screen isn't enough; you must open the App Switcher (learn how to do so in our [iPhone navigation basics](https://www.makeuseof.com/how-to-go-back-get-home-switch-apps-iphone/) guide) and swipe up on the target app's preview. Open the app again and try to use the proximity sensor. You can also try [restarting your iPhone](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) for good measure.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Make Sure Your iPhone Is Up to Date
@@ -68,27 +75,20 @@ Here are some things you could do to check if it's working:
 
 ![iPhone searching for updates in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-searching-for-updates-in-settings.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Software update information on iOS for iOS 16.6](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/software-update-information-on-ios-for-ios-16-6.jpeg)
 
 ![Update terms and conditions on iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/update-terms-and-conditions-on-ios.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Close
 
  Your phone will restart a couple of times, but it will stabilize when it's finished. Test the proximity sensor again using our steps above.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115930/19272" target="_top" id="2115930">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115930" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115930/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 4\. Remove the Screen Protector
 
@@ -108,6 +108,13 @@ Here's a brief rundown of how to do it:
 4. Pull out the screen protector.
 
  Give the proximity sensor a test to see if that helped. But if you're still out of luck, you have a last-resort option.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 5\. Take Your Phone Back to Apple or an Authorized Service Provider
 
@@ -136,5 +143,18 @@ Here's a brief rundown of how to do it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-exclusive-12-video-hourly-livestream-service/"><u>[New] 2024 Approved Exclusive 12 Video Hourly Livestream Service</u></a></li>
+<li><a href="https://fox-that.techidaily.com/dealing-with-a-broken-iphone-silent-switch-here-are-some-solutions-for-sound-control/"><u>Dealing with a Broken iPhone Silent Switch? Here Are Some Solutions for Sound Control</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/exploring-premium-voice-alteration-software-without-pay-mastering-sound-changes-in-filmora-videos-for-2024/"><u>Exploring Premium Voice Alteration Software Without Pay Mastering Sound Changes in Filmora Videos for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/impairment-of-apoptosis/"><u>Impairment of Apoptosis</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-oppo-a38-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on Oppo A38 | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-cant-connect-to-mobile-network-try-these-10-solutions/"><u>IPhone Can't Connect to Mobile Network? Try These 10 Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-volume-button-issues-a-guide-to-seven-effective-repairs/"><u>IPhone Volume Button Issues: A Guide to Seven Effective Repairs</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/pivotal-considerations-in-opting-for-advanced-ai-assistants/"><u>Pivotal Considerations in Opting for Advanced AI Assistants</u></a></li>
+<li><a href="https://extra-information.techidaily.com/pro-capture-not-just-point-and-shoot-mastering-the-hero5-black/"><u>Pro Capture, Not Just Point-and-Shoot Mastering the Hero5 Black</u></a></li>
+<li><a href="https://fox-that.techidaily.com/the-complete-iphone-users-manual-15-critical-tips-and-fixes/"><u>The Complete iPhone User's Manual: 15 Critical Tips & Fixes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-tips-for-fixing-the-black-screen-of-death-on-iphones/"><u>Troubleshooting Tips for Fixing the 'Black Screen of Death' On iPhones</u></a></li>
+</ul></div>
 

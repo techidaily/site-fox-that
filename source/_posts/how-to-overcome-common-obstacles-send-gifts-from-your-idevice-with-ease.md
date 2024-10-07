@@ -1,7 +1,7 @@
 ---
 title: "How to Overcome Common Obstacles: Send Gifts From Your iDevice with Ease"
-date: 2024-09-12T17:11:06.991Z
-updated: 2024-09-15T22:32:58.376Z
+date: 2024-10-02T10:39:50.229Z
+updated: 2024-10-07T12:57:13.828Z
 tags:
   - iphone
   - apple
@@ -34,21 +34,35 @@ thumbnail: https://thmb.techidaily.com/6d87b1c3f35bd086cb57f3daa2bccf1c889bbcea5
 
 ![Screenshot of Family Sharing setup on a Mac](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-family-sharing-setup-on-a-mac.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [Apple's Family Sharing](https://www.makeuseof.com/tag/set-family-sharing-share-apps-music-itunes-purchases/) lets you share Apple content and subscriptions with your family. If you've enabled this feature on your device and turned on**Ask to Buy** , it'll prevent you from sending gifts. After turning it off, you should be able to purchase gifts.
 
 ## 4\. Using the Wrong Device to Gift an Item
 
 ![A gold iPhone on top of a gold MacBook](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/a-gold-iphone-on-top-of-a-gold-macbook.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  What you can gift depends on whether you're on an iPhone, iPad, Mac, or PC. You can send gifts from the App Store, Apple Books, or iTunes Store on an iPhone or iPad. On a Mac or PC, you can send gifts using the iTunes Store.
 
  You need an iPhone or iPad to gift apps, TV shows, or movies and a Mac or PC to gift individual songs. For now, there's no workaround for this.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118321/7443" target="_top" id="2118321">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118321" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118321/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. You're Trying to Gift a Free App
@@ -56,10 +70,10 @@ thumbnail: https://thmb.techidaily.com/6d87b1c3f35bd086cb57f3daa2bccf1c889bbcea5
  If you can't gift an item from the App Store, it might be because it's free. While you can only gift paid items, it is possible to share free ones as well. To do so, tap the share button beside the app, then select a recipient or your means of sending it.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Make the Most of Apple's Gifting Feature
@@ -81,5 +95,18 @@ thumbnail: https://thmb.techidaily.com/6d87b1c3f35bd086cb57f3daa2bccf1c889bbcea5
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-the-money-behind-the-screen-youtube-earnings-demystified/"><u>[New] 2024 Approved The Money Behind the Screen YouTube Earnings Demystified</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-filmmaking-fundamentals-for-engaging-facebook-groups/"><u>[New] In 2024, Filmmaking Fundamentals for Engaging Facebook Groups</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/experience-enhanced-home-security-dive-into-blinks-4-sensor-floodlight-camera-setup/"><u>Experience Enhanced Home Security: Dive Into Blink's 4-Sensor Floodlight Camera Setup</u></a></li>
+<li><a href="https://fox-http.techidaily.com/ignite-your-artistic-spirit-find-the-premier-android-drawing-tools/"><u>Ignite Your Artistic Spirit Find the Premier Android Drawing Tools</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-3-ways-to-unlock-your-iphone-15-plus-for-free-by-drfone-ios/"><u>In 2024, 3 Ways to Unlock Your iPhone 15 Plus for Free</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-experts-picks-for-high-quality-vector-websites/"><u>In 2024, The Expert's Picks for High-Quality Vector Websites</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcome-safaris-limitations-easy-steps-for-full-page-imaging/"><u>Overcome Safari's Limitations: Easy Steps for Full Page Imaging</u></a></li>
+<li><a href="https://fox-that.techidaily.com/silencing-duplicate-notifications-keeping-your-ipad-quiet-when-the-iphone-dials/"><u>Silencing Duplicate Notifications: Keeping Your iPad Quiet When the iPhone Dials</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-9-solutions-to-correct-the-orange-hue-on-your-iphone-display/"><u>Top 9 Solutions to Correct the Orange Hue on Your iPhone Display</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-picks-a-compreenasion-of-apples-finest-arcade-titles/"><u>Top Picks: A Compreenasion of Apple's Finest Arcade Titles</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unstuck-from-safaris-full-page-shot-glitch-easy-fixes-for-a-smooth-snapshot-experience/"><u>Unstuck From Safari's Full Page Shot Glitch: Easy Fixes for a Smooth Snapshot Experience</u></a></li>
+</ul></div>
 

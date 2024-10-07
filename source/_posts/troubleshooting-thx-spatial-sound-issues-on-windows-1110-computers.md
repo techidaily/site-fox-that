@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting THX Spatial Sound Issues on Windows 11/10 Computers
-date: 2024-09-25T19:42:33.849Z
-updated: 2024-10-02T02:50:49.805Z
+date: 2024-10-02T06:15:41.900Z
+updated: 2024-10-07T12:19:08.515Z
 tags:
   - win11
   - win10
@@ -53,6 +53,13 @@ thumbnail: https://thmb.techidaily.com/66f3a5314b7f0b6f994f976b66c33a57ff0466854
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b3a03daedd.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2) Type in your password and log in again.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b3a59dfeba.jpg)
@@ -64,10 +71,10 @@ thumbnail: https://thmb.techidaily.com/66f3a5314b7f0b6f994f976b66c33a57ff0466854
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2: Create a new user account
@@ -77,10 +84,10 @@ thumbnail: https://thmb.techidaily.com/66f3a5314b7f0b6f994f976b66c33a57ff0466854
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b3b34111eb.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) On the top of the Task Manager window, select**File** option and then choose**Run new task** .
@@ -91,6 +98,13 @@ thumbnail: https://thmb.techidaily.com/66f3a5314b7f0b6f994f976b66c33a57ff0466854
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b8a563ff80.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) In PowerShell window, copy and paste in the following command and press the**Enter** key on your keyboard:
 
 net user newusername newpassword /add
@@ -98,13 +112,6 @@ net user newusername newpassword /add
  We are using the username**“easeware”** and password “**drivereasy”** as an example in the screenshot, you can set them as per your own preference.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b8bbeac77b.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5) Restart your computer and log into the new user account.
 
@@ -121,13 +128,6 @@ net user newusername newpassword /add
  2) On your keyboard, press the**Windows logo key** and**X** at the same time, click**Device Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b92b357675.png)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Double-click**Sound, video and game controller** . Right-click your audio card driver and click**Uninstall device** .
 
@@ -169,13 +169,6 @@ net user newusername newpassword /add
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5: Uninstall Dropbox
 
  Many Windows users find that Dropbox somehow conflicted with the Start menu, making it impossible to use all the feature in the Start panel.
@@ -186,22 +179,15 @@ net user newusername newpassword /add
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b98211438e.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) View by**Category** , then click**Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b984aa9035.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Find Dropbox, and click**Uninstall** to get it removed from your computer.
@@ -230,13 +216,6 @@ net user newusername newpassword /add
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b3b34111eb.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) On the top of the Task Manager window, select**File** option and then choose**Run new task** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b8999a1831.png)
@@ -249,6 +228,13 @@ net user newusername newpassword /add
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b9c44015d6.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If the result you see is the same with the screen shot above, your system files are all right, and you should move on and run another test. 5) Copy and paste the following command in, and press the Enter key on your keyboard. Still, it could take a while, wait with patience.
 
 DISM /Online /Cleanup-Image /RestoreHealth
@@ -258,6 +244,13 @@ DISM /Online /Cleanup-Image /RestoreHealth
 6) When these two tests finishes, check if your Start menu is back.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 8: Reinstall Cortana
 
@@ -270,6 +263,13 @@ DISM /Online /Cleanup-Image /RestoreHealth
  2) On the top of the Task Manager window, select**File** option and then choose**Run new task** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b8999a1831.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Then type **powershell**  and t  ick the box for**Create this task with administrative privileges** . Click **OK** .
 
@@ -311,20 +311,24 @@ Get-AppXPackage -AllUsers | Foreach {Add-AppxPackage -DisableDevelopmentMode -Re
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-embrace-audio-wonders-streaming-podcasts-with-an-iphone/"><u>[New] In 2024, Embrace Audio Wonders Streaming Podcasts with an iPhone</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/n-2024-transform-your-video-output-tubebuddys-methodology/"><u>[New] In 2024, Transform Your Video Output - TubeBuddy's Methodology</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-enhancing-your-viewing-experience-facebook-and-roku-synergy/"><u>2024 Approved Enhancing Your Viewing Experience Facebook & Roku Synergy</u></a></li>
-<li><a href="https://driver-install.techidaily.com/c6515-firmware-version-released/"><u>C6515 Firmware Version Released</u></a></li>
-<li><a href="https://fox-that.techidaily.com/correcting-unintended-browser-activity-reports-on-iphone-screen-time-monitor/"><u>Correcting Unintended Browser Activity Reports on iPhone Screen Time Monitor</u></a></li>
-<li><a href="https://fox-that.techidaily.com/get-your-apple-device-back-online-the-ultimate-guide-to-connecting-iphones-and-ipads-to-wi-fi/"><u>Get Your Apple Device Back Online: The Ultimate Guide to Connecting iPhones and iPads to Wi-Fi</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Motorola Razr 40 Ultra | Dr.fone</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-top-10-for-mac-gif-capturing-expert-reviews/"><u>In 2024, Top 10 for Mac GIF Capturing Expert Reviews</u></a></li>
-<li><a href="https://fox-that.techidaily.com/one-airpod-louder-than-the-other-discover-4-effective-ways-to-rectify-this-issue/"><u>One AirPod Louder Than the Other? Discover 4 Effective Ways to Rectify This Issue!</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solve-your-broken-iphone-volume-buttons-issue-in-just-7-steps/"><u>Solve Your Broken iPhone Volume Buttons Issue in Just 7 Steps!</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solving-no-service-error-restoring-gps-functionality-on-your-iphone/"><u>Solving 'No Service' Error: Restoring GPS Functionality on Your iPhone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solving-iphone-mic-issues-proven-fixes-for-non-functioning-microphones/"><u>Solving iPhone Mic Issues: Proven Fixes for Non-Functioning Microphones</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/streamline-video-analytics-a-guide-to-youtube-statistics-with-social-blade/"><u>Streamline Video Analytics A Guide to YouTube Statistics with Social Blade</u></a></li>
-<li><a href="https://fox-that.techidaily.com/top-10-explanations-for-auto-dimming-screens-on-your-apple-iphone/"><u>Top 10 Explanations for Auto-Dimming Screens on Your Apple iPhone</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-must-try-reaction-video-apps-for-maximum-engagement-for-2024/"><u>Updated Must-Try Reaction Video Apps for Maximum Engagement for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-how-to-add-music-to-instagram-story/"><u>[New] 2024 Approved How to Add Music to Instagram Story?</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-chorus-chronicles-music-gadgets/"><u>[Updated] In 2024, Chorus Chronicles Music Gadgets</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-live-action-top-9-gaming-portals-for-2024/"><u>[Updated] Live Action Top 9 Gaming Portals for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-transitioning-gaming-sessions-xbox-live-to-fb-live-for-2024/"><u>[Updated] Transitioning Gaming Sessions Xbox Live to FB Live for 2024</u></a></li>
+<li><a href="https://discover-best.techidaily.com/boost-your-online-presence-with-innovative-techniques-from-cookiebot-solutions/"><u>Boost Your Online Presence with Innovative Techniques From Cookiebot Solutions</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-epson-perfection-v39-printer-drivers-compatible-with-windows-7-8-and-10/"><u>Download Epson Perfection V39 Printer Drivers: Compatible with Windows 7, 8 & 10</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-mute-or-enable-sounds-on-your-iphone-without-a-working-silent-switch/"><u>How to Mute or Enable Sounds on Your iPhone Without a Working Silent Switch</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-realme-11-pro-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Realme 11 Pro FRP Locks</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-obstacles-fixing-full-screen-shot-problems-in-safari-browser/"><u>Overcoming Obstacles: Fixing Full-Screen Shot Problems in Safari Browser</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-technical-glitches-in-cult-of-the-lamb-on-your-windows-machine/"><u>Overcoming Technical Glitches in Cult of the Lamb on Your Windows Machine</u></a></li>
+<li><a href="https://fox-that.techidaily.com/quick-solutions-repair-airdrop-issues-with-top-16-troubleshooting-steps/"><u>Quick Solutions: Repair AirDrop Issues with Top 16 Troubleshooting Steps</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/revolutionizing-video-production-with-skillful-audio-crafting/"><u>Revolutionizing Video Production with Skillful Audio Crafting</u></a></li>
+<li><a href="https://fox-that.techidaily.com/tackle-your-iphones-phantom-tap-issue-with-these-effective-10-techniques/"><u>Tackle Your iPhone's Phantom Tap Issue with These Effective 10 Techniques</u></a></li>
+<li><a href="https://fox-that.techidaily.com/the-ultimate-tutorial-for-easily-refreshing-your-iphones-system/"><u>The Ultimate Tutorial for Easily Refreshing Your iPhone's System</u></a></li>
+<li><a href="https://fox-that.techidaily.com/time-sensitive-update-top-advantages-of-switching-to-ios-nnow-with-version-153/"><u>Time-Sensitive Update: Top Advantages of Switching to iOS Nnow with Version 15.3!</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/top-ranked-tools-for-fixing-damaged-pictures-the-ultimate-guide/"><u>Top-Ranked Tools for Fixing Damaged Pictures: The Ultimate Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-silent-alerts-on-ios-devices-with-these-11-proven-solutions/"><u>Troubleshoot Silent Alerts on iOS Devices with These 11 Proven Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-iphone-emergency-mode-6-steps-to-regain-control/"><u>Troubleshooting iPhone Emergency Mode: 6 Steps to Regain Control</u></a></li>
+<li><a href="https://fox-that.techidaily.com/ultimate-guide-solving-the-issue-of-non-syncing-icloud-photos-on-iphone/"><u>Ultimate Guide: Solving the Issue of Non-Syncing iCloud Photos on iPhone</u></a></li>
 </ul></div>
 

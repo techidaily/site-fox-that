@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Steps for When an iPhone Fails to Take Calls
-date: 2024-09-13T17:46:32.584Z
-updated: 2024-09-15T17:04:08.087Z
+date: 2024-09-30T19:18:21.670Z
+updated: 2024-10-06T23:11:20.142Z
 tags:
   - iphone
   - apple
@@ -23,6 +23,13 @@ thumbnail: https://thmb.techidaily.com/78f06b81f7c57e1e88ac6a7fa4601f5ae07cf7d31
  Let's start by ruling out non-technical causes. First, check that you have an active mobile plan. If your plan has been suspended for more than three to four weeks, your iPhone won't ring because most carriers only allow expired accounts to receive calls for a limited number of days.
 
  If this is the case, simply reload and reactivate your mobile plan, and your iPhone will ring when you get calls again.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Disable Airplane Mode and Focus
 
@@ -70,31 +77,11 @@ Close
 
 ![Settings menu on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/settings-menu-on-an-iphone.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Phone settings menu in iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/phone-settings-menu-in-ios.jpg)
 
 ![Silence Unknown Callers Off in iPhone Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/silence-unknown-callers-off-in-iphone-settings.JPEG)
 
 Close
-
-<!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Check if You've Blocked the Caller
 
@@ -104,22 +91,36 @@ Close
 
 ![Settings menu on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/settings-menu-on-an-iphone.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Phone settings on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/phone-settings-on-an-iphone.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![Swipe left on a Blocked Contact and tap Unblock](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/swipe-left-on-a-blocked-contact-and-tap-unblock.JPEG)
 
 Close
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114264/17093" target="_top" id="2114264">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114264" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114264/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. Restart Your iPhone
 
  Restarting your device is a simple and effective way to fix common issues without much trouble. If your phone doesn't ring even after trying the above solutions,[turn off your iPhone and turn it back on](http://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) after a minute to restart it.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 8\. Turn Off Call Forwarding
 
@@ -127,21 +128,7 @@ Close
 
 ![Settings menu on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/settings-menu-on-an-iphone.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Phone settings on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/phone-settings-on-an-iphone.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Turn off Call Forwarding in iPhone Phone Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/turn-off-call-forwarding-in-iphone-phone-settings.JPEG)
 
@@ -155,17 +142,45 @@ Close
 
 ![Settings menu on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/settings-menu-on-an-iphone.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Phone settings on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/phone-settings-on-an-iphone.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![Call Blocking and identification menu on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/call-blocking-and-identification-menu-on-an-iphone.jpg)
 
 Close
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 10\. Update Your iPhone and Other Third-Party Apps
 
  By this point, one or more of the above solutions should have fixed your iPhone not ringing. But in case you're still having problems, make sure your iPhone is running on the latest iOS. Go to**Settings > General > Software Update** to see if an update is available for your device.
 
  You should also update apps like WhatsApp, Skype, or Zoom if you intend to receive calls through them. It may be a bug that's been causing call reception issues, so [updating the respective iPhone app](https://www.makeuseof.com/how-to-manually-or-automatically-update-apps-iphone/) might resolve the problem.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 11\. Reset Network Settings
 
@@ -200,5 +215,24 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-soundtrack-strategists-guide-to-youtube-playlists/"><u>[New] The Soundtrack Strategist's Guide to YouTube Playlists</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-essential-tips-for-flv-file-fusion-on-youtube/"><u>[Updated] 2024 Approved Essential Tips for FLV File Fusion on YouTube</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-discovering-top-8-android-videomosaic-creators-for-both-free-and-paid-users-for-2024/"><u>[Updated] Discovering Top 8 Android Videomosaic Creators for Both Free & Paid Users for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-should-past-facebook-actions-follow-you-today-investigate/"><u>[Updated] In 2024, Should Past Facebook Actions Follow You Today? Investigate</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-perfect-your-asmr-recordings-with-these-mic-choices/"><u>[Updated] Perfect Your ASMR Recordings with These Mic Choices</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-video-exporting-youtube-content-directed-to-facebook-stream/"><u>2024 Approved Video Exporting YouTube Content Directed to Facebook Stream</u></a></li>
+<li><a href="https://fox-that.techidaily.com/defeat-your-iphone-phone-connection-issues-using-these-10-proven-methods/"><u>Defeat Your iPhone Phone Connection Issues Using These 10 Proven Methods</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-voice-input-problems-on-your-iphone-discover-5-essential-steps/"><u>Fixing Voice Input Problems on Your iPhone – Discover 5 Essential Steps</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-change-htc-lock-screen-password-by-drfone-android/"><u>How To Change HTC Lock Screen Password?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-merge-duplicate-photographs-featuring-identical-subjects-a-guide-for-iphone-and-mac-users/"><u>How to Merge Duplicate Photographs Featuring Identical Subjects: A Guide for iPhone and Mac Users</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-restore-default-network-configurations-in-ios-to-resolve-connectivity-issues/"><u>How to Restore Default Network Configurations in iOS to Resolve Connectivity Issues</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-oppo-find-x6-pro-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Oppo Find X6 Pro To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-compromised-by-moisture-spot-these-9-warning-symptoms/"><u>IPhone Compromised by Moisture? Spot These 9 Warning Symptoms!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-contacts-app-malfunctioning-here-are-top-3-solutions/"><u>IPhone Contacts App Malfunctioning? Here Are Top 3 Solutions</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/seamless-storytelling-top-10-premiere-pro-transition-effects/"><u>Seamless Storytelling Top 10 Premiere Pro Transition Effects</u></a></li>
+<li><a href="https://fox-that.techidaily.com/single-airpod-dilemma-how-to-revive-your-earbud-when-only-one-is-faulty/"><u>Single AirPod Dilemma: How to Revive Your Earbud When Only One Is Faulty</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-a-malfunctioning-proximity-sensor-on-iphone-devices/"><u>Troubleshooting a Malfunctioning Proximity Sensor on iPhone Devices</u></a></li>
+</ul></div>
 

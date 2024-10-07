@@ -1,7 +1,7 @@
 ---
 title: 6 Remedies If Your AirPods Refuse To Alternate Between iPhones and iPads
-date: 2024-09-26T01:13:57.020Z
-updated: 2024-10-01T19:56:36.756Z
+date: 2024-10-01T22:18:35.370Z
+updated: 2024-10-07T12:18:35.604Z
 tags:
   - iphone
   - apple
@@ -45,13 +45,6 @@ Close
 
  If you see**A2031** or a later model number, your AirPods are compatible with automatic switching. In that case, move on to the rest of the fixes.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Update Your System Software
 
  Your AirPods will only automatically switch on devices with iOS 14, iPadOS 14, and macOS 11 Big Sur or later installed. Thus, you should next check the operating system version on each iPhone, iPad, and Mac you own and upgrade them if necessary.
@@ -64,14 +57,14 @@ Close
 
 ![iPhone Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/01/4-iphone-settings.png)
 
-![General Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/01/5-iphone-general.png)
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![General Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/01/5-iphone-general.png)
 
 ![About iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/01/6-iphone-about.png)
 
@@ -85,22 +78,16 @@ Close
 
 ![Checking the system software version on Mac.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/1-macos-version.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Confirm You’re Using the Same Apple ID on Each Device
 
  To use automatic AirPods switching, you must be signed in to the same Apple ID across all of your Apple devices. If not, your AirPods will not switch between them automatically.
-
-<!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How to Check Your Apple ID on an iPhone and iPad
 
@@ -112,22 +99,29 @@ Close
 
 ![iPhone Apple ID](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/01/9-apple-id.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Sign Out](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/01/10-apple-id-sign-out.png)
 
 Close
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How to Check Your Apple ID on Mac
 
  On your Mac, open the**System Preferences** app and select**Apple ID** . If you notice a different Apple ID than what you expected, switch to the**Overview** tab and use the**Sign Out** option to sign out of the device. Then, sign back in with the correct Apple ID you’re using everywhere else.
 
 ![Checking the Apple ID on a Mac.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/2-apple-id.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Enable Automatic Audio Switching
 
@@ -151,6 +145,13 @@ Follow these steps to enable automatic switching on an iPhone or iPad:
 
 Close
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Enable Automatic Audio Switching on Mac
 
 Follow these steps to enable automatic switching on a Mac:
@@ -163,6 +164,13 @@ Follow these steps to enable automatic switching on a Mac:
 6. Select**Done** to save your changes.
 
 ![Checking the AirPods settings on Mac.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/3-airpods-settings.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Upgrade Your AirPods Firmware
 
@@ -178,35 +186,22 @@ Follow these steps to enable automatic switching on a Mac:
 
 ![General Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/01/19-general-settings.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![About iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/01/20-about-iphone.png)
 
 ![AirPods Firmware Version](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/01/21-firmware-version.png)
-
-<!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Close
 
  If you see an outdated firmware version number (you can check the latest firmware version on the [Wikipedia page for AirPods](https://en.wikipedia.org/wiki/AirPods) ), you must install the latest firmware on your AirPods. While there’s no option to do this manually, it’s possible to “nudge” your AirPods into upgrading the firmware.
 
  To do that, put your AirPods in their charging case or Smart Case and connect them to a power source. Then, leave your iPhone next to your AirPods and connected to Wi-Fi. Check back again after 15–30 minutes. The firmware on your AirPods should have updated automatically in the meantime.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Reset Your AirPods
 
@@ -225,22 +220,15 @@ Here’s how to reset your AirPods:
 ![Connection established.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/6-airpods-connected.PNG)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Close
 
  You don’t have to reconnect your AirPods to each of your Apple devices; they should pair automatically using your Apple ID after connecting to the first device.
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Get Your AirPods Switching Automatically
 
@@ -261,19 +249,14 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://apple-account.techidaily.com/apple-id-locked-for-security-reasons-from-apple-iphone-xr-find-the-best-solution-here-by-drfone-ios/"><u>Apple ID Locked for Security Reasons From Apple iPhone XR? Find the Best Solution Here</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/benefits-vs-drawbacks-chatgpt-subscription/"><u>Benefits vs Drawbacks: ChatGPT Subscription</u></a></li>
-<li><a href="https://fox-that.techidaily.com/bypassing-ios-lockouts-expert-tips-to-reactivate-your-device/"><u>Bypassing iOS Lockouts: Expert Tips to Reactivate Your Device</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/complete-breakdown-hero4-black-functionality/"><u>Complete Breakdown Hero4 Black Functionality</u></a></li>
-<li><a href="https://fox-that.techidaily.com/essential-fixes-restoring-safaris-performance-on-iphones/"><u>Essential Fixes: Restoring Safari's Performance on iPhones</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fix-missing-app-symbols-on-your-iphone-expert-solutions-revealed/"><u>FIX: MISSING APP SYMBOLS ON YOUR IPHONE - Expert Solutions Revealed</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/full-guide-to-bypass-realme-11x-5g-frp-by-drfone-android/"><u>Full Guide to Bypass Realme 11X 5G FRP</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-verizon-apple-iphone-6s-plus-by-drfone-ios/"><u>In 2024, How to Unlock Verizon Apple iPhone 6s Plus</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-what-does-jailbreaking-apple-iphone-8-plus-i-do-get-answers-here-drfone-by-drfone-ios/"><u>In 2024, What Does Jailbreaking Apple iPhone 8 Plus i Do? Get Answers here | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/iphone-messaging-glitch-here-are-10-tips-for-a-smooth-solution/"><u>IPhone Messaging Glitch? Here Are 10 Tips for a Smooth Solution!</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/e-showdown-fb-live-yt-live-and-periscope-vs-spaces-for-2024/"><u>Online Showdown FB LIVE, YT Live & Periscope Vs. Spaces for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/unlocking-bluetooth-potential-a-novice-guide-for-iphone-users/"><u>Unlocking Bluetooth Potential: A Novice Guide for iPhone Users</u></a></li>
-<li><a href="https://fox-that.techidaily.com/what-to-do-when-your-iphone-screen-wont-turn-on-quick-fixes-inside/"><u>What To Do When Your iPhone Screen Won't Turn On? Quick Fixes Inside</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-compatible-solutions-for-a-malfunctioning-laptop-touchpad-fixes-for-1187/"><u>Windows-Compatible Solutions for a Malfunctioning Laptop Touchpad: Fixes for 11/8/7</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-5-ways-to-record-roblox-gameplay-on-mac/"><u>[New] 5 Ways to Record Roblox Gameplay on Mac</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-professional-techniques-for-home-based-podcast-capture-for-2024/"><u>[Updated] Professional Techniques for Home-Based Podcast Capture for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/7-easy-ways-to-fix-imessage-not-working-on-an-iphone-ipad-or-mac/"><u>7 Easy Ways to Fix iMessage Not Working on an iPhone, iPad, or Mac</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beyond-binary-bonds-are-machines-learning-to-feel-with-us/"><u>Beyond Binary Bonds: Are Machines Learning to Feel with Us?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/enhance-your-safari-speed-4-efficient-methods-for-optimizing-iphone-usage/"><u>Enhance Your Safari Speed: 4 Efficient Methods for Optimizing iPhone Usage</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-utilize-dfu-mode-on-your-iphone-effectively-a-users-manual/"><u>How to Utilize DFU Mode on Your iPhone Effectively: A User's Manual</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-open-your-apple-iphone-7-without-a-home-button-by-drfone-ios/"><u>In 2024, How To Open Your Apple iPhone 7 Without a Home Button</u></a></li>
+<li><a href="https://fox-that.techidaily.com/mastering-proper-spelling-6-tips-for-overcoming-iphone-autocorrect-issues/"><u>Mastering Proper Spelling: 6 Tips for Overcoming iPhone AutoCorrect Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/wacom-troubleshooting-key-strategies-for-restoring-full-functionality/"><u>Wacom Troubleshooting: Key Strategies for Restoring Full Functionality</u></a></li>
 </ul></div>
 

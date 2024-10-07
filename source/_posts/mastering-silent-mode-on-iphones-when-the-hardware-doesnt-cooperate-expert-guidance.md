@@ -1,7 +1,7 @@
 ---
 title: "Mastering Silent Mode on iPhones When the Hardware Doesn’t Cooperate: Expert Guidance"
-date: 2024-09-29T19:55:25.770Z
-updated: 2024-10-02T03:56:24.852Z
+date: 2024-10-06T02:39:48.993Z
+updated: 2024-10-07T10:48:09.439Z
 tags:
   - iphone
   - apple
@@ -54,6 +54,13 @@ Close
 
  So, a better approach would be to customize AssistiveTouch's top-level menu and add the**Mute** option on the main screen. Or, to set up a custom action for AssistiveTouch to mute or unmute the device directly.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Customize the Top Level Menu
 
  AssistiveTouch features six buttons in its Top Level menu by default. However, you can customize the menu to add or remove buttons according to your requirements.
@@ -68,13 +75,6 @@ Close
 
 ![AssistiveTouch settings on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customizing-assistivetouch-top-level-menu-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![customizing AssistiveTouch's top-level menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customizing-assistivetouch-top-level-menu-2.jpg)
 
 ![adding a new button to the AssistiveTouch menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customizing-assistivetouch-top-level-menu-3.jpg)
@@ -82,6 +82,13 @@ Close
 ![selecting Mute action for the new AssistiveTouch button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customizing-assistivetouch-top-level-menu-4.jpg)
 
 ![Mute action in AssistiveTouch's top-level menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customizing-assistivetouch-top-level-menu-5.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close
 
@@ -98,20 +105,13 @@ Follow these simple instructions to get this done:
 
 ![AssistiveTouch settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/setting-a-custom-action-for-assistivetouch-button-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![adding Mute action to Double-Tap gesture](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/setting-a-custom-action-for-assistivetouch-button-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Close
@@ -130,20 +130,13 @@ Close
 ![iPhone Accessibility settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-using-back-tap-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Back Tap feature under Touch Accessibility settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-using-back-tap-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Close
 
@@ -155,6 +148,19 @@ Close
 ![Back Tap gesture options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-using-back-tap-3.jpg)
 
 ![setting Mute action to a Back Tap gesture](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-using-back-tap-4.jpg)
+
+<!-- affiliate ads begin -->
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close
 
@@ -183,21 +189,20 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-go-pro-simple-techniques-for-captivating-slow-motion-videos-on-android-for-2024/"><u>[New] Go Pro Simple Techniques for Captivating Slow Motion Videos on Android for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-discover-12-cutting-edge-flip-screen-cams-for-video-content-for-2024/"><u>[Updated] Discover 12 Cutting-Edge Flip-Screen Cams for Video Content for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-a-step-by-step-guide-to-gain-more-likes-on-tiktok-unboxings/"><u>2024 Approved A Step-by-Step Guide to Gain More Likes on TikTok Unboxings</u></a></li>
-<li><a href="https://win-able.techidaily.com/effective-solutions-to-stop-watch-dogs-legion-from-crashing-on-your-computer/"><u>Effective Solutions to Stop Watch Dogs: Legion From Crashing on Your Computer</u></a></li>
-<li><a href="https://fox-that.techidaily.com/expert-tips-for-addressing-iphone-dictation-failures-a-5-step-approach/"><u>Expert Tips for Addressing iPhone Dictation Failures: A 5-Step Approach</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-realme-10t-5g-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Realme 10T 5G? | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-pair-meta-oculus-quest-2-to-a-phone/"><u>How to Pair Meta (Oculus) Quest 2 to a Phone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-troubleshoot-and-fix-an-unresponsive-iphone-torch-feature-in-12-simple-steps/"><u>How to Troubleshoot and Fix an Unresponsive iPhone Torch Feature in 12 Simple Steps</u></a></li>
-<li><a href="https://fox-that.techidaily.com/iphone-cant-send-sms-learn-how-with-our-top-ebxerpted-troubleshooting-techniques/"><u>IPhone Can't Send SMS? Learn How With Our Top Ebxerpted Troubleshooting Techniques</u></a></li>
-<li><a href="https://fox-that.techidaily.com/six-effective-ways-to-resolve-issues-with-non-functioning-aol-emails-on-your-iphone/"><u>Six Effective Ways to Resolve Issues with Non-Functioning AOL Emails on Your iPhone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/speed-up-sluggish-cellular-connections-with-our-expert-10-step-method/"><u>Speed Up Sluggish Cellular Connections with Our Expert 10-Step Method</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-and-solving-crashing-problems-in-cyberpunk-2077-on-your-computer/"><u>Troubleshooting and Solving Crashing Problems in Cyberpunk 2077 on Your Computer</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/ultimate-select-masterful-instagram-hlv-artisans-for-2024/"><u>Ultimate Select Masterful Instagram HLV Artisans for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/understanding-iphoneipad-heat-causes-prevention-and-solutions/"><u>Understanding iPhone/iPad Heat: Causes, Prevention, and Solutions</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-filmora-savings-hacks-4-expert-approved-methods-to-get-discounts/"><u>Updated 2024 Approved Filmora Savings Hacks 4 Expert-Approved Methods to Get Discounts</u></a></li>
-<li><a href="https://fox-that.techidaily.com/why-is-your-mobile-data-so-slow-how-to-speed-it-up-in-10-steps/"><u>Why Is Your Mobile Data So Slow? How to Speed It Up in 10 Steps</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-a-simple-approach-to-youtube-statistics-review-for-2024/"><u>[New] A Simple Approach to YouTube Statistics Review for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-best-7-dslr-cameras-for-vlogging-for-2024/"><u>[New] Best 7 DSLR Cameras for Vlogging for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-speedy-stories-top-10-rapid-release-games-on-tablets-pcs/"><u>[New] In 2024, Speedy Stories Top 10 Rapid Release Games on Tablets, PCs</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-learning-leaders-most-influential-edu-tutorials-yt-for-2024/"><u>[Updated] Learning Leaders Most Influential Edu Tutorials YT for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/amplifying-security-the-art-of-longer-pin-codes-in-win11/"><u>Amplifying Security: The Art of Longer Pin Codes in Win11</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-online-title-mastery-techniques-you-cant-ignore/"><u>In 2024, Online Title Mastery Techniques You Can't Ignore</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-factory-reset-hacks-no-reliance-on-itunes-required/"><u>IPhone Factory Reset Hacks: No Reliance on iTunes Required</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-your-selling-strategy-with-lazlive-live-selling-for-2024/"><u>New Your Selling Strategy With LazLive Live Selling for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/persistent-iphone-problem-make-sure-you-receive-vibrations-in-quiet-and-active-modes/"><u>Persistent iPhone Problem? Make Sure You Receive Vibrations in Quiet and Active Modes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/revolutionize-your-ios-connectivity-discover-8-tips-to-elevate-wi-fi-performance/"><u>Revolutionize Your iOS Connectivity: Discover 8 Tips to Elevate Wi-Fi Performance</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/smooth-and-swift-designing-your-best-thumbnails-for-2024/"><u>Smooth & Swift Designing Your Best Thumbnails for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-eleven-fixes-how-to-resolve-no-ring-issues-on-your-iphone/"><u>Top Eleven Fixes: How to Resolve No-Ring Issues on Your iPhone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-iphone-cloud-backup-issues-top-9-solutions/"><u>Troubleshooting iPhone Cloud Backup Issues: Top 9 Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/ultimate-guide-removing-water-from-iphone-speakers/"><u>Ultimate Guide: Removing Water From iPhone Speakers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/upgrade-to-newest-nvidia-geforce-rtx-2080-ti-drivers-for-optimal-gaming-performance/"><u>Upgrade to Newest Nvidia GeForce RTX 2080 Ti Drivers for Optimal Gaming Performance</u></a></li>
 </ul></div>
 

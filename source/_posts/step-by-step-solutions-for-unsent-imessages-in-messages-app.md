@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solutions for Unsent iMessages in Messages App
-date: 2024-09-12T20:55:18.171Z
-updated: 2024-09-15T16:03:37.199Z
+date: 2024-10-05T23:15:28.282Z
+updated: 2024-10-07T02:05:22.630Z
 tags:
   - iphone
   - apple
@@ -36,6 +36,13 @@ thumbnail: https://thmb.techidaily.com/f21de38b9a60edd6d3298db1bc5cbe93a61c6bb25
 
 ![iphones in multiple colors](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphones-in-multiple-colors.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Image Credit:[Apple](https://www.apple.com/newsroom/2023/03/hello-yellow-apple-introduces-new-iphone-14-and-iphone-14-plus)
 
 So, what does it mean when an iMessage doesn't say Delivered?
@@ -45,6 +52,13 @@ So, what does it mean when an iMessage doesn't say Delivered?
  Even if you think the person is unlikely to turn off their phone, they might have**activated Airplane Mode** . This cuts off all connections, so they won't receive iMessages, SMS, or calls.
 
  If you normally receive read receipts from your contact, or it shows Delivered, but you don't have a reply, there's another possibility. Their device might be**set to Do Not Disturb** , which silences alerts. If it's an emergency, call them instead. At first, you won't get a response. But call again within three minutes and, if your contact hasn't changed the default settings, your repeated call will bypass Do Not Disturb mode.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## iMessages Won't Deliver: Troubleshooting
 
@@ -58,29 +72,29 @@ So, what does it mean when an iMessage doesn't say Delivered?
 
  Review the options at**Settings > Cellular** (or**Mobile Data**) if you're relying on roaming. If you do have service, you'll simply have to wait until the recipient connects too.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Do You Have iMessage Turned On?
 
 ![iphone imessages won't deliver if this is turned off](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/03/iMessages-off.jpg)
 
-![turn imessages on if texts won't deliver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/03/iMessage.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![turn imessages on if texts won't deliver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/03/iMessage.jpg)
 
 Close
 
  This could be a quick fix to your problem that's easy to overlook. Navigate to**Settings > Messages** .[iMessage should already be turned on](https://www.makeuseof.com/how-to-activate-imessage/) ; if not, alter this now. Even if iMessage is already on, it's worth toggling off then back on again. Wait a few moments while it reactivates.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Send as SMS Instead of iMessage
 
@@ -91,13 +105,6 @@ Close
  iPhones default to iMessage when chatting between Apple devices. Messages will only send as traditional texts if there's no internet. You can't disable iMessage on cellular data while keeping it enabled for Wi-Fi connections—it's an all-or-nothing service. However, iMessage may fail to send if you've exceeded your cellular data limit.
 
  You can resend a message via SMS if it reads Not Delivered by tapping on the exclamation point next to the message. Alternatively, switch to another popular messaging app. Major options like WhatsApp and Telegram work on all platforms and offer [secure (and sometimes encrypted) messaging](https://www.makeuseof.com/best-encrypted-messaging-apps-android-ios/) . Of course, the recipient has to have the same app installed...
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Try a Force Restart
 
@@ -110,6 +117,19 @@ Close
  Apple regularly releases patches to minor issues through iOS updates. This could include problems with iMessage. Check whether you're running the latest version of iOS by going to**Settings > General > Software Update** .
 
  This will automatically check if your software is updated and, if not, suggest an installation. You won't lose any photos or messages, although some apps may ask you to log in again after updating.
+
+<!-- affiliate ads begin -->
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Apple ID: Sign Out and Back In
 
@@ -125,6 +145,13 @@ Close
 
  To add an email address, go to**Contacts** , select a name, and choose**Edit** .
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Should You Delete Previous Messages?
 
  Have you ever tried sending an email that was too large? It stays in your outbox, attempting to send again and again. Eventually, you have to give up and delete it. That's what you should try here too. This primarily applies when iMessages won't deliver to only one or two contacts.
@@ -135,20 +162,13 @@ Close
 
 ![hold sms imessage to delete](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/03/text-options.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![mass delete sms imessages](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/03/select-text-messages.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Close
@@ -194,5 +214,24 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-master-the-art-of-iphone-7-screen-capture-for-2024/"><u>[New] Master the Art of iPhone 7 Screen Capture for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unveiling-virtual-excellence-top-5-upcoming-playstation-vr-titles/"><u>[New] Unveiling Virtual Excellence Top 5 Upcoming PlayStation VR Titles</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-how-to-make-the-most-of-your-youtube-watches-gif-magic-for-devices/"><u>[Updated] 2024 Approved How to Make the Most of Your YouTube Watches GIF Magic for Devices</u></a></li>
+<li><a href="https://fox-that.techidaily.com/achieve-peak-performance-for-your-iphone-battery-in-just-six-steps/"><u>Achieve Peak Performance for Your iPhone Battery in Just Six Steps</u></a></li>
+<li><a href="https://fox-that.techidaily.com/conquering-iphone-x-woes-a-comprehensive-fix-for-seven-common-issues/"><u>Conquering iPhone X Woes: A Comprehensive Fix for Seven Common Issues</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-iphone-se-2022-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade iPhone SE (2022) without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/icloud-backup-issues-on-your-iphone-here-are-9-tips-and-tricks/"><u>ICloud Backup Issues on Your iPhone? Here Are 9 Tips & Tricks</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-tecno-spark-20c-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Tecno Spark 20C Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-use-phone-clone-to-migrate-your-samsung-galaxy-m34-5g-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Use Phone Clone to Migrate Your Samsung Galaxy M34 5G Data? | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/instagram-fraud-busters-efficient-and-economical-methods-for-2024/"><u>Instagram Fraud Busters Efficient & Economical Methods for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-control-center-malfunction-here-are-8-remedies-that-work/"><u>IPhone Control Center Malfunction? Here Are 8 Remedies That Work</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resetting-apples-screen-time-code-for-iphoneipad-users/"><u>Resetting Apple's Screen Time Code for iPhone/iPad Users</u></a></li>
+<li><a href="https://techtrends.techidaily.com/tagging-explained-the-significance-of-classifying-objects-and-individuals-online/"><u>Tagging Explained: The Significance of Classifying Objects and Individuals Online</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-power-play-microsoft-acquires-blizzard-discovering-the-potential-of-ai-in-art-and-translation-on-our-newest-podcast-release/"><u>The Power Play: Microsoft Acquires Blizzard; Discovering the Potential of AI in Art & Translation on Our Newest Podcast Release</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-image-loading-issues-9-solutions-for-safari-on-iphone/"><u>Troubleshoot Image Loading Issues: 9 Solutions for Safari on iPhone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/whatsapp-camera-zoom-problem-effective-solutions-to-perfect-your-pictures/"><u>WhatsApp Camera Zoom Problem: Effective Solutions to Perfect Your Pictures</u></a></li>
+<li><a href="https://fox-that.techidaily.com/why-does-my-iphone-keep-dimming-explore-the-top-10-insights/"><u>Why Does My iPhone Keep Dimming? Explore the Top 10 Insights!</u></a></li>
+</ul></div>
 
