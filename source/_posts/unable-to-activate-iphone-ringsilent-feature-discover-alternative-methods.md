@@ -1,7 +1,7 @@
 ---
 title: Unable to Activate iPhone Ring/Silent Feature? Discover Alternative Methods
-date: 2024-09-26T03:56:37.184Z
-updated: 2024-10-01T23:10:25.440Z
+date: 2024-10-11T04:13:23.068Z
+updated: 2024-10-13T04:15:52.909Z
 tags:
   - iphone
   - apple
@@ -54,6 +54,13 @@ Close
 
  So, a better approach would be to customize AssistiveTouch's top-level menu and add the**Mute** option on the main screen. Or, to set up a custom action for AssistiveTouch to mute or unmute the device directly.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Customize the Top Level Menu
 
  AssistiveTouch features six buttons in its Top Level menu by default. However, you can customize the menu to add or remove buttons according to your requirements.
@@ -70,36 +77,35 @@ Close
 
 ![customizing AssistiveTouch's top-level menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customizing-assistivetouch-top-level-menu-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![adding a new button to the AssistiveTouch menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customizing-assistivetouch-top-level-menu-3.jpg)
 
 ![selecting Mute action for the new AssistiveTouch button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customizing-assistivetouch-top-level-menu-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Mute action in AssistiveTouch's top-level menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customizing-assistivetouch-top-level-menu-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Close
 
  All you need to do now is tap the AssistiveTouch button and hit**Mute** . When you do this, the**Mute** button will change to**Unmute** , and you can tap on it again to unmute the device quickly.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Set Up a Custom Action
 
@@ -129,7 +135,21 @@ Close
 
 ![iPhone Accessibility settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-using-back-tap-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Back Tap feature under Touch Accessibility settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-using-back-tap-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close
 
@@ -140,27 +160,7 @@ Close
 
 ![Back Tap gesture options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-using-back-tap-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![setting Mute action to a Back Tap gesture](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-using-back-tap-4.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Close
 
@@ -189,19 +189,22 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-craft-a-memorable-youtube-channel-brand-for-more-viewers/"><u>[Updated] 2024 Approved Craft a Memorable YouTube Channel Brand for More Viewers</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-shutter-showdown-best-for-slow-motion-videos/"><u>[Updated] The Ultimate Shutter Showdown Best for Slow Motion Videos</u></a></li>
-<li><a href="https://fox-that.techidaily.com/cant-get-your-iphone-to-connect-to-a-vpn-follow-these-7-steps-to-solve-it/"><u>Can’t Get Your iPhone to Connect to a VPN? Follow These 7 Steps to Solve It</u></a></li>
-<li><a href="https://blog-min.techidaily.com/dvd-auf-android-tablet-streamen-einfache-schritte-zum-umgang-mit-filmen-unterwegs/"><u>DVD Auf Android Tablet Streamen – Einfache Schritte Zum Umgang Mit Filmen Unterwegs</u></a></li>
-<li><a href="https://fox-that.techidaily.com/effortless-solutions-to-common-setbacks-in-using-apple-pay/"><u>Effortless Solutions to Common Setbacks in Using Apple Pay</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/exploring-toms-tech-reviews-a-comprehensive-guide-on-hardware-insights/"><u>Exploring Tom's Tech Reviews: A Comprehensive Guide on Hardware Insights</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-activate-and-utilize-iphones-dfu-mode-a-step-by-step-manual/"><u>How to Activate and Utilize iPhone's DFU Mode: A Step-by-Step Manual</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Meizu 21 Pro? | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/infinite-jest-10-ultimate-meme-layouts/"><u>Infinite Jest - 10 Ultimate Meme Layouts</u></a></li>
-<li><a href="https://fox-that.techidaily.com/master-the-art-of-tiktok-content-creation/"><u>Master the Art of TikTok Content Creation</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/perfecting-small-details-on-google-meet-screen-for-2024/"><u>Perfecting Small Details on Google Meet Screen for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/principles-of-paradoxical-intervention-for-2024/"><u>Principles of Paradoxical Intervention for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/quick-fixes-for-when-safari-fails-to-take-a-complete-page-shot/"><u>Quick Fixes for When Safari Fails to Take a Complete Page Shot</u></a></li>
-<li><a href="https://windows11.techidaily.com/upgrade-your-win11s-connectivity-with-these-high-priority-solutions/"><u>Upgrade Your Win11's Connectivity with These High-Priority Solutions</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-discover-the-best-in-class-our-list-of-12-high-performing-flip-cameras-for-2024/"><u>[New] Discover the Best in Class Our List of 12 High-Performing Flip Cameras for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-elevate-your-fitness-routine-top-10-yoga-streams-unveiled/"><u>[New] Elevate Your Fitness Routine - Top 10 Yoga Streams Unveiled</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-vlc-vs-mpc-decoding-the-best-free-media-player/"><u>[New] In 2024, VLC Vs. MPC Decoding the Best Free Media Player</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-become-a-video-virtuoso-on-tiktok-by-leveraging-template-artistry-for-2024/"><u>[Updated] Become a Video Virtuoso on TikTok by Leveraging Template Artistry for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-step-by-step-guide-to-flawless-zoom-screen-sharing-for-2024/"><u>[Updated] Step-by-Step Guide to Flawless Zoom Screen Sharing for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721468447250-get-your-ios-up-to-date-overcome-update-problems-with-these-9-handy-fixes-for-iphones-and-ipads/"><u>Get Your iOS Up-to-Date: Overcome Update Problems With These 9 Handy Fixes For iPhones and iPads.</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-resolve-unsupported-status-of-your-iphone-attachment/"><u>How to Resolve 'Unsupported' Status of Your iPhone Attachment</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-users-how-to-deal-with-slow-message-alerts-uncover-9-tips-for-faster-texting/"><u>Iphone Users: How to Deal With Slow Message Alerts - Uncover 9 Tips for Faster Texting</u></a></li>
+<li><a href="https://fox-that.techidaily.com/mastering-iphone-troubleshooting-with-help-from-apples-dedicated-support-app/"><u>Mastering iPhone Troubleshooting with Help From Apple's Dedicated Support App</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-if-you-are-a-free-video-editor-being-a-windows-user-vsdc-free-video-editor-is-a-great-choice-but-is-it-the-best-video-editor-you-should-use-find-out-fro/"><u>New If You Are a Free Video Editor Being a Windows User, VSDC Free Video Editor Is a Great Choice. But Is It the Best Video Editor You Should Use? Find Out From Our VSDC Free Video Editor Review</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/optimizing-game-streams-through-ai-facial-recognition/"><u>Optimizing Game Streams Through AI Facial Recognition</u></a></li>
+<li><a href="https://program-issues.techidaily.com/pc-troubleshooting-guide-fixing-zombie-army-4-gameplay-glitches/"><u>PC Troubleshooting Guide - Fixing 'Zombie Army 4' Gameplay Glitches</u></a></li>
+<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-motorola-moto-g23-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Motorola Moto G23 | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolving-the-iphone-blackout-a-step-by-step-guide-for-a-functioning-device/"><u>Resolving the iPhone 'Blackout': A Step-by-Step Guide for a Functioning Device</u></a></li>
+<li><a href="https://fox-that.techidaily.com/struggling-with-delayed-texts-on-iphone-here-are-9-proven-ways-to-get-them-on-time/"><u>Struggling with Delayed Texts on iPhone? Here Are 9 Proven Ways to Get Them On Time</u></a></li>
+<li><a href="https://fox-that.techidaily.com/the-ultimate-trick-to-resetting-your-iphone-without-itunes-dependency/"><u>The Ultimate Trick to Resetting Your iPhone Without iTunes Dependency</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-9-frequent-issues-with-icloud-on-ios-devices-and-solutions/"><u>Top 9 Frequent Issues with iCloud on iOS Devices & Solutions</u></a></li>
 </ul></div>
 

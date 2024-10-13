@@ -1,7 +1,7 @@
 ---
 title: "Visual Voyage: A Step-by-Step Approach to Locating Your Lost FaceTime Pictures"
-date: 2024-09-30T12:02:00.898Z
-updated: 2024-10-06T20:47:55.115Z
+date: 2024-10-07T22:00:18.850Z
+updated: 2024-10-13T04:37:40.060Z
 tags:
   - iphone
   - apple
@@ -39,6 +39,13 @@ thumbnail: https://thmb.techidaily.com/8852f9f0dff99dd98034c53ca9e7b84a75b979ac3
 
 ![Creating a smart album in Photos on Mac](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/create-smart-albums-photos-mac.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You'll need to type "FaceTime" into the third box manually since it isn't an option in the dropdown menu.
 
  Click**OK** to create your Smart Album. Photos should fill the album with all the Live Photos you've captured during FaceTime calls. Any new FaceTime photos you take should also appear in the album automatically.
@@ -54,10 +61,10 @@ thumbnail: https://thmb.techidaily.com/8852f9f0dff99dd98034c53ca9e7b84a75b979ac3
 ![Capturing a FaceTime Live Photo](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/taking-a-facetime-live-photo.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Close
@@ -74,6 +81,13 @@ Close
 
  Alternatively, hit**Cmd + Shift + 3** to take a screenshot of your entire screen. Aside from these two options, there are other [ways to take screenshots on your Mac](https://www.makeuseof.com/tag/how-to-take-a-screenshot-on-a-mac/) .
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Enable Live Photos in Your FaceTime Settings
 
  Before you can take a Live Photo in FaceTime, both you and the person you're taking a photo of need to enable Live Photos in your FaceTime Settings. So, if you don't want other people to take photos of you during FaceTime calls, you should disable this option. Keep in mind that other people will still be able to take a screenshot, though.
@@ -83,35 +97,28 @@ Close
 ![iOS Settings menu FaceTime selected](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ios-settings-menu-facetime-selected.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![FaceTime Live Photos toggle enabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/facetime-live-photos-toggle-enabled.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Close
 
  On a Mac, open**FaceTime** and go to**FaceTime > Settings** from the menu bar. In the**Settings** tab, turn on the option to**Allow Live Photos to be captured during video calls** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Troubleshooting FaceTime Photo Problems
 
  There are lots of problems that might stop you from being able to snap a Live Photo during your FaceTime calls. If you can't find the shutter button, FaceTime isn't saving your photos, or you have trouble finding FaceTime photos after you take them, try these troubleshooting tips to fix it.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. Enable FaceTime Live Photos on Both Devices
 
@@ -122,6 +129,13 @@ Close
  When you take Live Photos in FaceTime, it automatically saves those pictures to the Photos app on your device. If you haven't used Photos before, open it on your device to initialize the app before FaceTime can save photos.
 
 ![Photos app on an iPhone Home Screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/share-shared-albums-with-non-apple-users.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. Update to the Latest Operating System
 
@@ -134,10 +148,16 @@ Close
  Install any updates that are available there by clicking**Update Now** .
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 4\. Restart Your Device
@@ -152,31 +172,11 @@ Close
 
 ![iOS Settings menu FaceTime selected](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ios-settings-menu-facetime-selected.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![FaceTime enabled in iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/facetime-enabled-ios-1.jpg)
 
 Close
 
  On a Mac, open the**FaceTime** app and go to**FaceTime > Settings** from the menu bar. In the**Settings** tab, uncheck the box for**Enable this account** , then check the box again to re-enable FaceTime.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Revisit Your FaceTime Photos on iPhone, iPad and Mac
 
@@ -199,22 +199,16 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-unseen-underpinnings-of-user-interface-craftsmanship-for-2024/"><u>[New] Unseen Underpinnings of User Interface Craftsmanship for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-pinnacle-7-action-shooter-games/"><u>[Updated] In 2024, Pinnacle 7 Action Shooter Games</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-iphone-solutions-for-reverse-playback/"><u>[Updated] IPhone Solutions for Reverse Playback</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-vdl-pro-recorder-summary-detailed-breakdown-for-2024/"><u>[Updated] VDL Pro Recorder Summary Detailed Breakdown for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/1-mastering-sound-balance-two-methods-for-equalizing-audio-levels/"><u>1. Mastering Sound Balance: Two Methods for Equalizing Audio Levels</u></a></li>
-<li><a href="https://fox-that.techidaily.com/error-4013-strikes-discover-efficient-strategies-to-updaterestore-your-iphone-without-glitches/"><u>Error 4013 Strikes? Discover Efficient Strategies to Update/Restore Your iPhone Without Glitches</u></a></li>
-<li><a href="https://fox-that.techidaily.com/master-the-fix-for-common-icloud-glitches-affecting-your-iphoneipad/"><u>Master the Fix for Common iCloud Glitches Affecting Your iPhone/iPad</u></a></li>
-<li><a href="https://techtrends.techidaily.com/overcoming-msxml4dll-error-your-ultimate-fix-guide/"><u>Overcoming Msxml4.dll Error: Your Ultimate Fix Guide</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/photography-in-action-applying-motion-blur-in-adobe/"><u>Photography in Action Applying Motion Blur in Adobe</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/pioneering-gadget-analysis-with-toms-hardware-experts/"><u>Pioneering Gadget Analysis with Tom's Hardware Experts</u></a></li>
-<li><a href="https://fox-that.techidaily.com/quick-fixes-handling-typical-hiccups-in-apple-pay-services/"><u>Quick Fixes: Handling Typical Hiccups in Apple Pay Services</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-call-of-duty-wwii-error-code-4128-a-complete-guide/"><u>Resolving Call of Duty: WWII Error Code 4128 - A Complete Guide</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721478612330-struggling-to-save-your-data-in-icloud-discover-these-9-fixes/"><u>Struggling to Save Your Data in iCloud? Discover These 9 Fixes</u></a></li>
-<li><a href="https://fox-that.techidaily.com/the-ultimate-solution-for-a-non-responsive-iphone-camera-discover-the-top-angs-issues-and-remedies/"><u>The Ultimate Solution for a Non-Responsive iPhone Camera – Discover the Top Angs Issues and Remedies</u></a></li>
-<li><a href="https://fox-that.techidaily.com/uncover-the-secrets-to-fixing-your-iphone-13s-top-6-most-recurring-issues/"><u>Uncover the Secrets to Fixing Your iPhone 13'S Top 6 Most Recurring Issues</u></a></li>
-<li><a href="https://fox-that.techidaily.com/unlocking-solutions-how-rebooting-your-phone-resolves-common-issues/"><u>Unlocking Solutions: How Rebooting Your Phone Resolves Common Issues</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721478808959-unstuck-iphone-voicemail-problems-try-these-9-fixes/"><u>Unstuck iPhone Voicemail Problems? Try These 9 Fixes!</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-voiceover-dynamics-for-stellar-ppt-presentations-for-2024/"><u>[New] Voiceover Dynamics for Stellar PPT Presentations for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-top-5-innovative-mac-capturing-solutions-moving-past-bandicam-for-2024/"><u>[Updated] Top 5 Innovative Mac Capturing Solutions, Moving Past Bandicam for 2024</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/guide-how-to-locate-and-restore-lost-disks-across-windows-operating-systems-10-11-8-7/"><u>Guide: How to Locate and Restore Lost Disks Across Windows Operating Systems (10, 11, 8, 7)</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-nintendos-best-hd-recorders-for-enthusiasts/"><u>In 2024, Nintendo's Best HD Recorders for Enthusiasts</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721481126492-no-vibration-alert-from-iphone-explore-these-top-8-fixes-for-quiet-times/"><u>No Vibration Alert From iPhone? Explore These Top 8 Fixes for Quiet Times!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcome-your-iphone-muting-issues-with-these-proven-tips-even-if-the-physical-switch-fails/"><u>Overcome Your iPhone Muting Issues with These Proven Tips, Even if the Physical Switch Fails</u></a></li>
+<li><a href="https://fox-that.techidaily.com/safari-stuck-here-are-nine-proven-strategies-to-resolve-image-loading-problems-on-ios-devices/"><u>Safari Stuck? Here Are ^Nine Proven Strategies to Resolve Image Loading Problems on iOS Devices</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721464457347-secrets-to-retrieving-deleted-iphone-photos-that-appear-lost-learn-these-8-tricks/"><u>Secrets to Retrieving Deleted iPhone Photos That Appear Lost - Learn These 8 Tricks!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-iphone-woes-how-restoring-network-configurations-can-resolve-various-issues/"><u>Solving iPhone Woes: How Restoring Network Configurations Can Resolve Various Issues</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/translate-tension-and-thrills-learning-korean-for-squid-game-enthusiasts/"><u>Translate Tension and Thrills: Learning Korean for Squid Game Enthusiasts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/ultimate-guide-to-securely-capturing-and-saving-films-from-live-streams-on-smartphones-and-tablets/"><u>Ultimate Guide to Securely Capturing and Saving Films From Live Streams on Smartphones & Tablets</u></a></li>
 </ul></div>
 

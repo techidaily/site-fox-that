@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting: How to Fix a Non-Functional QR Code Reader on Your iPhone"
-date: 2024-09-27T23:07:23.319Z
-updated: 2024-10-02T00:38:23.681Z
+date: 2024-10-09T23:39:08.027Z
+updated: 2024-10-12T19:49:49.582Z
 tags:
   - iphone
   - apple
@@ -41,15 +41,22 @@ Close
 
  The QR code scanner on your iPhone only works when the camera is set to Photo mode. If you've mistakenly switched to Video, Portrait, Pano, or any other camera mode, the QR code scanner might not work as expected. So, swipe left or right in the Camera app to switch back to Photo mode. Then, point the camera at the QR code and try to scan it again.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Position Your Camera Properly When Scanning
 
  For a quick and successful scan, make sure the QR code is positioned within the frame of your camera. Avoid scanning at steep angles, and try to keep the QR code parallel to your device. Also, ensure the QR code isn't wrinkled, obscured, or damaged in any way, as this can prevent a successful scan.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Move Into Better Lighting
@@ -58,22 +65,16 @@ Close
 
  Good lighting is essential for any camera function, and the QR code scanner is no exception. A well-lit environment makes it easier for the camera to recognize and read the QR code. If you're in a dimly lit room or area, move to a brighter spot or shine some light on the QR code to improve visibility.
 
-<!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Clean Your Camera Lens
 
  A smudged or dirty camera lens can make it difficult for the camera to read the QR code. So, if you are still having trouble scanning the QR code, gently wipe your camera lens with a soft, lint-free cloth to ensure it's clean. Avoid using harsh or abrasive materials that might scratch the lens. If necessary, slightly dampen the cloth with water to remove stubborn smudges.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Relaunch the Camera App
 
@@ -95,6 +96,13 @@ Here's how to add the Code Scanner to the Control Center:
 
 ![iPhone Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/img_1211.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![iPhone Control Center Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/img_1212.jpeg)
 
 ![iPhone Control Center With Code Scanner](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/img_1213.jpeg)
@@ -102,13 +110,6 @@ Here's how to add the Code Scanner to the Control Center:
 ![iPhone QR Code Scanner](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/img_1221.jpeg)
 
 Close
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 8\. Restart Your iPhone
 
@@ -123,10 +124,10 @@ Close
  To [update your iPhone](https://www.makeuseof.com/tag/update-iphone-ios-apps-data/) , go to**Settings > General > Software Update** to see if there is any available update. If there's a new iOS version available, tap**Download and Install** . Ensure you connect to a strong Wi-Fi network and that your iPhone is sufficiently charged before starting the update.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 10\. Check Out Third-Party QR Code Scanners
@@ -134,22 +135,15 @@ Close
 ![using iPhone to scan a QR code](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/using-iphone-to-scan-a-qr-code.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If your iPhone's built-in QR code scanner still doesn't work after trying all these fixes, you should consider downloading a third-party QR code reader from the App Store. Many options, both free and paid, offer a wider range of capabilities compared to the built-in QR scanner.
 
  Popular iOS third-party QR code reader apps include [QR Code & Barcode Scanner](https://apps.apple.com/us/app/qr-code-barcode-scanner/id1048473097) by TeaCapps,[Scan Shot](https://apps.apple.com/us/app/scan-shot-document-scanner-pdf/id1575194801) by Scanner App PDF Tool, and [CamScanner](https://apps.apple.com/us/app/camscanner-pdf-scanner-app/id388627783) by INSTIG.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Decode QR Codes on Your iPhone Without Issues
 
@@ -172,22 +166,18 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-leveraging-visual-storytelling-in-podcast-trailer-production/"><u>[New] 2024 Approved Leveraging Visual Storytelling in Podcast Trailer Production</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-unique-vlogging-conversation-pieces/"><u>[New] 2024 Approved Unique Vlogging Conversation Pieces</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-a-comparative-analysis-of-top-8-free-online-srt-translation-services/"><u>[New] In 2024, A Comparative Analysis of Top 8 Free Online SRT Translation Services</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-unraveling-the-enigma-how-to-download-messages-from-facebook/"><u>[Updated] 2024 Approved Unraveling the Enigma How to Download Messages From Facebook</u></a></li>
-<li><a href="https://fox-that.techidaily.com/11-ways-to-fix-airpods-that-keep-disconnecting-from-your-iphone/"><u>11 Ways to Fix AirPods That Keep Disconnecting From Your iPhone</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-zero-cost-frame-perfection-on-youtube-video-viewing/"><u>2024 Approved Zero-Cost Frame Perfection on YouTube Video Viewing</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1726221261452-mpeg-mp3-movavi/"><u>網上自由轉化 MPEG 成 MP3 - 利用 Movavi 音頻格式更改器</u></a></li>
-<li><a href="https://fox-that.techidaily.com/cant-track-heres-what-to-do-when-your-device-appears-offline-on-find-my-iphone/"><u>Can't Track? Here's What to Do When Your Device Appears Offline on Find My iPhone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/error-4013-on-iphone-a-comprehensive-guide-to-correct-updaterestore-issues-successfully/"><u>Error 4013 on iPhone: A Comprehensive Guide to Correct Update/Restore Issues Successfully</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-keep-your-airpods-from-switching-devices-on-apples-ecosystem/"><u>How to Keep Your AirPods From Switching Devices on Apple's Ecosystem</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-perform-a-forced-reboot-on-ios-devices-for-enabling-recovery-mode/"><u>How to Perform a Forced Reboot on iOS Devices for Enabling Recovery Mode</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/maximize-your-space-without-sacrificing-performance-with-the-sleek-acer-aspire-c27-desktop/"><u>Maximize Your Space without Sacrificing Performance with the Sleek Acer Aspire C27 Desktop</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/open-library-legal-gaming-tracks-downloadable-for-2024/"><u>Open Library Legal Gaming Tracks Downloadable for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/the-ultimate-toolbox-what-every-youtube-newbie-needs-for-2024/"><u>The Ultimate Toolbox What Every YouTube Newbie Needs for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/top-10-explanations-understanding-your-iphones-auto-dimming-display/"><u>Top 10 Explanations: Understanding Your iPhone's Auto-Dimming Display</u></a></li>
-<li><a href="https://fox-that.techidaily.com/top-8-solutions-to-free-your-iphone-from-constant-headphone-detection/"><u>Top 8 Solutions to Free Your iPhone From Constant Headphone Detection</u></a></li>
-<li><a href="https://fox-that.techidaily.com/trouble-with-imessages-not-going-through-on-your-iphone/"><u>Trouble with iMessages Not Going Through on Your iPhone?</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-professional-guide-essential-fixes-for-dull-iphone-hdr-videos-in-adobe/"><u>[New] 2024 Approved [Professional Guide] Essential Fixes for Dull iPhone HDR Videos in Adobe</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-mastering-screen-capture-a-compreenas-android-guide/"><u>[New] Mastering Screen Capture A Compreenas Android Guide</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-snapshots-secured-techniques-for-instagrams-close-ups-and-distances/"><u>2024 Approved Snapshots Secured Techniques for Instagram's Close-Ups & Distances</u></a></li>
+<li><a href="https://fox-that.techidaily.com/conquer-frustrating-iphone-x-hiccups-expert-advice-for-easy-solutions/"><u>Conquer Frustrating iPhone X Hiccups: Expert Advice for Easy Solutions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/from-novice-to-gourmet-discover-7-innovative-ways-chatgpt-elevates-home-cooking/"><u>From Novice to Gourmet: Discover 7 Innovative Ways ChatGPT Elevates Home Cooking</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-top-rated-free-online-video-production-tools/"><u>In 2024, Top-Rated Free Online Video Production Tools</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-qr-scanner-issues-discover-these-5-quick-fixes/"><u>IPhone QR Scanner Issues? Discover These 5 Quick Fixes</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/languages-of-unity-and-diversity-in-belgium/"><u>Languages of Unity and Diversity in Belgium</u></a></li>
+<li><a href="https://fox-that.techidaily.com/say-goodbye-to-the-blinky-phone-dilemamo-with-our-expert-fix-1-through-7/"><u>Say Goodbye to the Blinky Phone Dilemamo with Our Expert Fix #1 Through #7</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719276038972-troubleshoot-silent-pc-audio-solutions-ready/"><u>Troubleshoot Silent PC Audio – Solutions Ready</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-steps-why-your-iphone-isnt-getting-texts-from-android-devices-and-how-to-resolve-this-issue/"><u>Troubleshooting Steps: Why Your iPhone Isn't Getting Texts From Android Devices & How to Resolve This Issue</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-check-up-activation-verification-steps/"><u>Windows 11 Check-Up: Activation Verification Steps</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/your-comprehensive-pathway-to-hidden-youtube-treasures-for-2024/"><u>Your Comprehensive Pathway to Hidden YouTube Treasures for 2024</u></a></li>
 </ul></div>
 

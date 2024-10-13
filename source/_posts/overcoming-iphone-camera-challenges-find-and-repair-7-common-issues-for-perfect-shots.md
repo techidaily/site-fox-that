@@ -1,7 +1,7 @@
 ---
 title: "Overcoming iPhone Camera Challenges: Find and Repair 7 Common Issues for Perfect Shots"
-date: 2024-10-06T08:19:08.852Z
-updated: 2024-10-06T21:00:07.438Z
+date: 2024-10-06T04:26:52.698Z
+updated: 2024-10-13T00:19:04.937Z
 tags:
   - iphone
   - apple
@@ -39,32 +39,11 @@ Close
 4. Restart the Camera app. To do so, swipe up to the middle of the screen on an iPhone X or later, or double-click the Home button on an iPhone 8 or earlier. Then close the Camera app by sliding it off the top of the screen.
 5. Turn off your iPhone by holding the Side button (along with either Volume button on the iPhone X and later), then slide to power off. Wait 30 seconds before pressing the Side button again to restart your iPhone. If that doesn't work,[force restart your iPhone](https://www.makeuseof.com/tag/restart-iphone-recovery-mode/) instead.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. iPhone Photos Are Blurry or Out of Focus
 
 ![iPhone camera blurry close up](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/01/iPhone-camera-blurry-close-up.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![iPhone camera in focus close up](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/01/iPhone-camera-in-focus-close-up.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Close
 
@@ -75,16 +54,16 @@ Close
 3. If the Camera app says**AE/AF Lock** at the top of the screen, tap on a blank space to turn auto-focus back on. You may have accidentally locked the focus by tapping and holding in the Camera app.
 4. Keep your hand steady while tapping the shutter button. Sometimes it's easier to press one of the Volume buttons to take steady pictures instead. Be careful in the dark when the shutter needs to stay open for longer.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. iPhone Camera Flash Isn't Working
 
 ![iPhone Flashlight Control Center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2018/06/ios-control-center.png)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Although most photos look better without a flash, sometimes you need that extra light for dark environments. When your iPhone flash isn't working, try these tips:
 
@@ -92,11 +71,25 @@ Close
 2. Make sure you set the flash to**On** or**Auto** in the Camera app. To do this, tap the lightning bolt icon on the left side of the screen to see your flash options (you can't use the flash for panoramic photographs or time-lapse videos).
 3. Be careful when using the flash for long videos or in hot environments. If your iPhone gets too hot, it might disable the flash entirely until it has cooled down again.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. iPhone Photos Are Flipped the Wrong Way
 
 ![iPhone photo flipped the wrong way](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/01/iPhone-photo-flipped-the-wrong-way.jpg)
 
 ![iPhone photo rotated in edit screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/01/iPhone-photo-rotated-in-edit-screen.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close
 
@@ -108,16 +101,16 @@ Close
 3. You can always edit your pictures later from the Photos app, or other [third-party iPhone image editing apps](https://www.makeuseof.com/tag/best-free-photo-editing-apps-iphone/) .
 4. If you're wondering why your selfies always appear mirrored, that's simply how Apple designed the front-facing camera. The camera works like a mirror, but the photo flips over as if someone took it for you.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. The Camera App Is Missing or Keeps Freezing
 
 ![Screen Time settings on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/01/Screen-Time-settings-on-iPhone.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Allowed Apps in Screen Time restrictions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/01/Allowed-Apps-in-Screen-Time-restrictions.jpg)
 
@@ -129,9 +122,23 @@ Close
 2. Tap on**Allowed Apps** and enter your Screen Time passcode if you have one.
 3. Make sure you turn the**Camera** app on; the toggle should be green.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. General iPhone Camera Software Fixes
 
 ![Reset All Settings iPhone confirmation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/01/Reset-All-Settings-iPhone-confirmation.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you experience any other oddities with your iPhone camera not working, it's a good idea to try some general software troubleshooting tips. Test your iPhone camera again after each of the tips below.
 
@@ -144,13 +151,6 @@ Close
 ## 7\. General iPhone Camera Hardware Fixes
 
 ![iPhone 11 camera](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/01/iPhone-11-camera.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you've tried everything above and your front or back iPhone camera is still not working, you might have a hardware problem instead. Try the troubleshooting steps below to fix it:
 
@@ -181,19 +181,17 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/new-the-art-of-pushing-twitter-vids-through-snapchat-for-2024/"><u>[New] The Art of Pushing Twitter Vids Through Snapchat for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-convincing-viewers-discovering-effective-video-styles/"><u>2024 Approved Convincing Viewers Discovering Effective Video Styles</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-inside-track-to-optimizing-adobe-and-selective-non-adobe-solutions/"><u>2024 Approved Inside Track to Optimizing Adobe and Selective Non-Adobe Solutions</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/engaging-ios-puzzle-games-that-match-the-intrigue-of-the-room-and-myst/"><u>Engaging iOS Puzzle Games That Match the Intrigue of 'The Room' And 'Myst'</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fast-solutions-resolving-issues-with-predictive-emojis-on-your-iphoneipad/"><u>Fast Solutions: Resolving Issues with Predictive Emojis on Your iPhone/iPad</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/impeccablecapture-studio-suite-windows-10-edition/"><u>ImpeccableCapture Studio Suite (Windows 10 Edition)</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/improve-your-video-editing-with-these-5-obs-solutions/"><u>Improve Your Video Editing with These 5 OBS Solutions</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-mac-vlc-video-editor-trim-and-optimize-your-videos-for-2024/"><u>New Mac VLC Video Editor Trim and Optimize Your Videos for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/overcome-iphones-picture-problem-identifying-and-repairing-7-typical-camera-glitches/"><u>Overcome iPhone's Picture Problem: Identifying & Repairing 7 Typical Camera Glitches</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-itel-s23-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Itel S23 Running Slow and Freezing | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/resolving-iphone-speech-input-glitches-for-seamless-dictation-experience/"><u>Resolving iPhone Speech Input Glitches for Seamless Dictation Experience</u></a></li>
-<li><a href="https://fox-that.techidaily.com/step-by-step-solutions-for-your-iphone-last-line-not-working-problem/"><u>Step-by-Step Solutions for Your iPhone Last Line Not Working Problem</u></a></li>
-<li><a href="https://fox-that.techidaily.com/top-7-causes-behind-non-responsive-iphone-touchscreens-find-out-why/"><u>Top 7 Causes Behind Non-Responsive iPhone Touchscreens: Find Out Why</u></a></li>
-<li><a href="https://fox-that.techidaily.com/unlock-the-secrets-why-does-my-iphone-store-photos-on-icloud-even-when-ive-deleted-them-learn-from-these-ebx-solutions/"><u>Unlock the Secrets: Why Does My iPhone Store Photos on iCloud Even When I've Deleted Them – Learn From These Ebx Solutions</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-digital-resurrection-breathing-life-into-old-vhs-images-for-2024/"><u>[New] Digital Resurrection Breathing Life Into Old VHS Images for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-navigating-the-spectrum-in-hands-on-recognition-technology-for-2024/"><u>[New] Navigating the Spectrum in Hands-On Recognition Technology for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-beats-and-brilliance-creating-soundtracked-instagram-feeds/"><u>[Updated] Beats & Brilliance Creating Soundtracked Instagram Feeds</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-locate-an-iphone-displayed-as-offline-with-find-my-app-a-step-by-step-guide/"><u>How to Locate an iPhone Displayed as Offline with Find My App – A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-solve-iphone-guided-access-malfunction-issues-quickly/"><u>How To Solve iPhone Guided Access Malfunction Issues Quickly</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721460371982-how-to-speed-up-your-iphones-sleep-cycle-and-fix-display-hangs/"><u>How to Speed Up Your iPhones Sleep Cycle and Fix Display Hangs!</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-xiaomi-redmi-12-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Xiaomi Redmi 12 Phone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-vlogging-battle-gopro-hero5-black-vs-sessions/"><u>In 2024, The Ultimate Vlogging Battle GoPro Hero5 Black VS Sessions</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-various-methods-to-transfer-pictures-from-apple-iphone-14-plus-to-pc-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Various Methods to Transfer Pictures from Apple iPhone 14 Plus to PC | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-notification-troubles-discover-7-effective-solutions/"><u>IPhone Notification Troubles? Discover 7 Effective Solutions!</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/quick-and-reliable-vimeo-file-retrievers/"><u>Quick and Reliable Vimeo File Retrievers</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-how-to-translate-tiktok-videos-top-5-auto-translate-tools-for-2024/"><u>Updated How to Translate TikTok Videos Top 5 Auto Translate Tools for 2024</u></a></li>
 </ul></div>
 

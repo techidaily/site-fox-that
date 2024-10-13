@@ -1,7 +1,7 @@
 ---
 title: Essential Troubleshooting Steps for Silent iPhones Receiving Calls
-date: 2024-09-27T00:17:09.972Z
-updated: 2024-10-01T16:12:49.828Z
+date: 2024-10-12T03:14:42.040Z
+updated: 2024-10-12T16:48:34.143Z
 tags:
   - iphone
   - apple
@@ -31,13 +31,6 @@ thumbnail: https://thmb.techidaily.com/c72cccdf9cacc0fda207b45b24ab86cf2fde475b8
 
  Once you're confident that the speaker is working, the likely reasons your iPhone doesn't ring are bad settings or temporary software glitches.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Turn Off Silent Mode
 
 ![iPhone Ring/Silent switch](https://thmb.techidaily.com/14af88c4727edfc68754682f8d9e5a16b4632ead51b56f451896cf5d83dd52e4.jpg)
@@ -55,24 +48,24 @@ thumbnail: https://thmb.techidaily.com/c72cccdf9cacc0fda207b45b24ab86cf2fde475b8
 ![bluetooth enabled in iphone control center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_7377.JPEG)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![bluetooth disabled in iphone control center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_7378.JPEG)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Close
 
  To disconnect devices individually instead, head to**Settings > Bluetooth** . Tap the**Info (i)** button next to the device and tap**Disconnect** . Once your Bluetooth devices are disconnected, incoming calls should play via your iPhone's speakers.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Turn the Ringtone Volume Up
 
@@ -84,6 +77,13 @@ Close
  On the same page, you might also want to toggle off**Change with Buttons** . Doing so will prevent you from accidentally lowering the ringtone volume when you're changing the volume in gaming or video apps. When this option is disabled, the volume buttons only change the volume for media, not your ringtone.
 
 ![Tap Sound & Haptics in iPhone Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/tap-sound--haptics-in-iphone-settings.JPEG)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![ringtone volume iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/img_5647.jpg)
 
@@ -105,13 +105,6 @@ Follow these steps to change your iPhone's ringtone:
 
 ![Choose a ringtone in iPhone Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/choose-a-ringtone-in-iphone-settings.JPEG)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Close
 
 ## 6\. Check for Custom Contact Ringtones
@@ -125,10 +118,10 @@ Close
 ![Tap a contact in iPhone Phone or Contacts app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/tap-a-contact-in-iphone-phone-or-contacts-app.JPEG)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Tap Ringtone inside a Contact Card](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/tap-ringtone-inside-a-contact-card.JPEG)
@@ -155,20 +148,13 @@ Close
 
 ![iphone settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_7382.JPEG)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![iphone wifi settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_7379.JPEG)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Close
@@ -195,6 +181,13 @@ Close
 
 Close
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 11\. Update Your iPhone and Reset All Settings
 
  By this point, one or more of the above solutions should work if your iPhone has been receiving calls but not ringing. But in case you're still having problems, make sure you update your iPhone.
@@ -203,13 +196,20 @@ Close
 
 ![iphone settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/img_6668.JPEG)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![iphone general settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/img_6731.JPEG)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Close
@@ -247,24 +247,24 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-mastering-spotify-promos-your-comprehensive-guide/"><u>[New] 2024 Approved Mastering Spotify Promos Your Comprehensive Guide</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-backpedaling-through-imagery-an-insiders-guide-to-finding-originals-in-instagram/"><u>[Updated] Backpedaling Through Imagery An Insider's Guide to Finding Originals in Instagram</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-innovative-boomers-for-dynamic-snaps-on-snapchat/"><u>[Updated] In 2024, Innovative Boomers for Dynamic Snaps on Snapchat</u></a></li>
-<li><a href="https://win-able.techidaily.com/banishing-bugs-and-crashes-for-a-smooth-experience-with-lego-star-wars-the-skywalker-saga-on-pc-fixes-included/"><u>Banishing Bugs & Crashes for a Smooth Experience with Lego Star Wars: The Skywalker Saga on PC (Fixes Included)</u></a></li>
-<li><a href="https://fox-that.techidaily.com/bypass-the-worries-how-to-resolve-these-5-iphone-issues-with-dfu-method/"><u>Bypass the Worries: How to Resolve These 5 iPhone Issues with DFU Method</u></a></li>
-<li><a href="https://facebook.techidaily.com/deciphering-metaai-vs-conventional-chatbot-competitors/"><u>Deciphering MetaAI vs Conventional Chatbot Competitors</u></a></li>
-<li><a href="https://os-tips.techidaily.com/elevate-your-exercise-routine-with-these-essential-fitness-tracker-hacks-6-tips/"><u>Elevate Your Exercise Routine with These Essential Fitness Tracker Hacks (6 Tips)</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fix-it-discovering-hidden-events-in-your-iphones-calendar-system/"><u>Fix It: Discovering Hidden Events in Your iPhone's Calendar System</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fixing-iphones-screen-time-feature-when-it-displays-unintended-websites/"><u>Fixing iPhone's Screen Time Feature When It Displays Unintended Websites</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-address-and-fix-imessage-login-failures-on-your-ios-device/"><u>How to Address and Fix iMessage Login Failures on Your iOS Device</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-dell-speakers-not-working/"><u>How To Fix Dell Speakers Not Working</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-passcode-from-apple-iphone-6s-complete-guide-drfone-by-drfone-ios/"><u>How To Remove Passcode From Apple iPhone 6s? Complete Guide | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-a-review-best-text-plugins-for-your-after-effects-projects/"><u>In 2024, A Review Best Text Plugins For Your After Effects Projects</u></a></li>
-<li><a href="https://fox-that.techidaily.com/ios-update-issues-try-out-our-9-effective-remedies-today/"><u>IOS Update Issues? Try Out Our 9 Effective Remedies Today</u></a></li>
-<li><a href="https://fox-that.techidaily.com/master-the-technique-force-start-up-iphone-into-recovery-configuration-modes/"><u>Master the Technique: Force Start-Up iPhone Into Recovery Configuration Modes</u></a></li>
-<li><a href="https://fox-that.techidaily.com/resolving-disconnection-woes-essential-tips-for-keeping-airpods-synced-with-iphone/"><u>Resolving Disconnection Woes: Essential Tips for Keeping AirPods Synced with iPhone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/retaining-iphones-pictures-on-apples-server-post-deletion-top-8-tips/"><u>Retaining iPhones Pictures on Apple's Server Post-Deletion: Top 8 Tips</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solving-issues-top-6-methods-when-family-sharing-doesnt-work/"><u>Solving Issues: Top 6 Methods When Family Sharing Doesn't Work</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-complete-azure-guide-to-speech-to-text-integration-for-2024/"><u>The Complete Azure Guide to Speech-to-Text Integration for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-strategies-for-success-in-online-content-creation/"><u>[New] In 2024, Strategies for Success in Online Content Creation</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-integrating-third-party-tools-with-your-win11-zoom-setup-for-2024/"><u>[Updated] Integrating Third-Party Tools with Your Win11 Zoom Setup for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/10-key-strategies-to-enhance-insta-highlights/"><u>10 Key Strategies to Enhance Insta Highlights</u></a></li>
+<li><a href="https://fox-that.techidaily.com/common-iphone-screen-glitches-and-how-to-resolve-them-quickly/"><u>Common iPhone Screen Glitches and How to Resolve Them Quickly</u></a></li>
+<li><a href="https://discover-best.techidaily.com/essential-tips-streamlining-your-workflow-with-life-hacks-and-document-management-through-email-insights-from-the-abbyy-community/"><u>Essential Tips: Streamlining Your Workflow with Life Hacks & Document Management Through Email - Insights From the ABBYY Community</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/high-end-streaming-gear-for-professionals-for-2024/"><u>High-End Streaming Gear for Professionals for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-factory-reset-ipad-or-apple-iphone-se-2020-without-icloud-password-or-apple-id-by-drfone-ios/"><u>How to Factory Reset iPad or Apple iPhone SE (2020) without iCloud Password or Apple ID?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/improving-smartphone-use-essential-iphone-adaptations-for-individuals-experiencing-visual-challenges/"><u>Improving Smartphone Use: Essential iPhone Adaptations for Individuals Experiencing Visual Challenges</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-xiaomi-civi-3-disney-100th-anniversary-edition-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Xiaomi Civi 3 Disney 100th Anniversary Edition</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-unmissable-upgrades-top-8-tech-and-tools-reshaping-modern-enterprises/"><u>In 2024, Unmissable Upgrades Top 8 Tech & Tools Reshaping Modern Enterprises</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-top-rated-quicktime-editors-free-and-easy-to-use/"><u>New 2024 Approved Top-Rated QuickTime Editors Free and Easy to Use</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-location-unavailable-errors-a-step-by-step-guide-for-iphone-users/"><u>Solving 'Location Unavailable' Errors: A Step-by-Step Guide for iPhone Users</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-your-ipad-or-iphone-if-the-ios-update-just-wont-resume-downloading/"><u>Troubleshoot Your iPad or iPhone if the iOS Update Just Won't Resume Downloading</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-audio-distortions-resolving-crackles-with-arctisound-pro-v7-on-a-windows-pc/"><u>Troubleshooting Audio Distortions: Resolving Crackles with ArctiSound Pro v7 on a Windows PC</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-guide-fixing-iphoneipad-keyboard-issues-top-6-solutions/"><u>Troubleshooting Guide: Fixing iPhone/iPad Keyboard Issues – Top 6 Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-iphone-recognition-issues-with-apple-software-itunes-and-finder-tips/"><u>Troubleshooting iPhone Recognition Issues with Apple Software – iTunes & Finder Tips</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-how-to-stop-airpods-pairing-with-different-apple-gadgets/"><u>Troubleshooting: How to Stop AirPods Pairing with Different Apple Gadgets</u></a></li>
+<li><a href="https://fox-that.techidaily.com/what-you-need-to-know-about-the-iphone-14s-battery-health-issues/"><u>What You Need to Know About the iPhone 14'S Battery Health Issues</u></a></li>
+<li><a href="https://fox-that.techidaily.com/why-isnt-the-look-around-feature-functioning-on-my-iphone/"><u>Why Isn't the Look Around Feature Functioning on My iPhone?</u></a></li>
 </ul></div>
 

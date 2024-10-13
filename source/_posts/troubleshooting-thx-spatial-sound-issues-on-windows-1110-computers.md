@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting THX Spatial Sound Issues on Windows 11/10 Computers
-date: 2024-10-02T06:15:41.900Z
-updated: 2024-10-07T12:19:08.515Z
+date: 2024-10-10T22:16:54.846Z
+updated: 2024-10-13T00:39:27.230Z
 tags:
   - win11
   - win10
@@ -45,6 +45,13 @@ thumbnail: https://thmb.techidaily.com/66f3a5314b7f0b6f994f976b66c33a57ff0466854
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1: Relog into your account
 
  Re-logging to your desktop is one of the easiest workarounds for you to try. If your Start menu was only gone occasionally, you should go with this option. Here is how you relog into your account:
@@ -52,13 +59,6 @@ thumbnail: https://thmb.techidaily.com/66f3a5314b7f0b6f994f976b66c33a57ff0466854
  1) On your keyboard, press the**Ctrl + Alt + Delete** keys at the same time. Click**Sign out** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b3a03daedd.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 2) Type in your password and log in again.
 
@@ -70,25 +70,11 @@ thumbnail: https://thmb.techidaily.com/66f3a5314b7f0b6f994f976b66c33a57ff0466854
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2: Create a new user account
 
  1) Right-click the task bar on your desktop at the bottom and click **Task Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b3b34111eb.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) On the top of the Task Manager window, select**File** option and then choose**Run new task** .
 
@@ -98,13 +84,6 @@ thumbnail: https://thmb.techidaily.com/66f3a5314b7f0b6f994f976b66c33a57ff0466854
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b8a563ff80.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) In PowerShell window, copy and paste in the following command and press the**Enter** key on your keyboard:
 
 net user newusername newpassword /add
@@ -113,11 +92,25 @@ net user newusername newpassword /add
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b8bbeac77b.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5) Restart your computer and log into the new user account.
 
 6) Your**Start** menu should work now.You can change the new local account to a Microsoft account and transfer your files and settings.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3: Reinstall video card and sound card drivers
 
@@ -132,6 +125,13 @@ net user newusername newpassword /add
  3) Double-click**Sound, video and game controller** . Right-click your audio card driver and click**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b931f18df7.png)
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  When prompted with the following notification, tick the box for**Delete the driver software for this device** and click**Uninstall** .
 
@@ -183,13 +183,6 @@ net user newusername newpassword /add
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b984aa9035.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Find Dropbox, and click**Uninstall** to get it removed from your computer.
 
 ---
@@ -216,6 +209,19 @@ net user newusername newpassword /add
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b3b34111eb.png)
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) On the top of the Task Manager window, select**File** option and then choose**Run new task** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b8999a1831.png)
@@ -228,28 +234,34 @@ net user newusername newpassword /add
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b9c44015d6.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If the result you see is the same with the screen shot above, your system files are all right, and you should move on and run another test. 5) Copy and paste the following command in, and press the Enter key on your keyboard. Still, it could take a while, wait with patience.
 
 DISM /Online /Cleanup-Image /RestoreHealth
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b9c8a8bb33.png)
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6) When these two tests finishes, check if your Start menu is back.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8: Reinstall Cortana
@@ -264,16 +276,16 @@ DISM /Online /Cleanup-Image /RestoreHealth
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b8999a1831.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Then type **powershell**  and t  ick the box for**Create this task with administrative privileges** . Click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b8a563ff80.png)
+
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Copy and paste the following command in and press the **Enter** key on your keyboard.
 
@@ -311,24 +323,24 @@ Get-AppXPackage -AllUsers | Foreach {Add-AppxPackage -DisableDevelopmentMode -Re
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-how-to-add-music-to-instagram-story/"><u>[New] 2024 Approved How to Add Music to Instagram Story?</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-chorus-chronicles-music-gadgets/"><u>[Updated] In 2024, Chorus Chronicles Music Gadgets</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-live-action-top-9-gaming-portals-for-2024/"><u>[Updated] Live Action Top 9 Gaming Portals for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-transitioning-gaming-sessions-xbox-live-to-fb-live-for-2024/"><u>[Updated] Transitioning Gaming Sessions Xbox Live to FB Live for 2024</u></a></li>
-<li><a href="https://discover-best.techidaily.com/boost-your-online-presence-with-innovative-techniques-from-cookiebot-solutions/"><u>Boost Your Online Presence with Innovative Techniques From Cookiebot Solutions</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-epson-perfection-v39-printer-drivers-compatible-with-windows-7-8-and-10/"><u>Download Epson Perfection V39 Printer Drivers: Compatible with Windows 7, 8 & 10</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-mute-or-enable-sounds-on-your-iphone-without-a-working-silent-switch/"><u>How to Mute or Enable Sounds on Your iPhone Without a Working Silent Switch</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-realme-11-pro-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Realme 11 Pro FRP Locks</u></a></li>
-<li><a href="https://fox-that.techidaily.com/overcoming-obstacles-fixing-full-screen-shot-problems-in-safari-browser/"><u>Overcoming Obstacles: Fixing Full-Screen Shot Problems in Safari Browser</u></a></li>
-<li><a href="https://win-blog.techidaily.com/overcoming-technical-glitches-in-cult-of-the-lamb-on-your-windows-machine/"><u>Overcoming Technical Glitches in Cult of the Lamb on Your Windows Machine</u></a></li>
-<li><a href="https://fox-that.techidaily.com/quick-solutions-repair-airdrop-issues-with-top-16-troubleshooting-steps/"><u>Quick Solutions: Repair AirDrop Issues with Top 16 Troubleshooting Steps</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/revolutionizing-video-production-with-skillful-audio-crafting/"><u>Revolutionizing Video Production with Skillful Audio Crafting</u></a></li>
-<li><a href="https://fox-that.techidaily.com/tackle-your-iphones-phantom-tap-issue-with-these-effective-10-techniques/"><u>Tackle Your iPhone's Phantom Tap Issue with These Effective 10 Techniques</u></a></li>
-<li><a href="https://fox-that.techidaily.com/the-ultimate-tutorial-for-easily-refreshing-your-iphones-system/"><u>The Ultimate Tutorial for Easily Refreshing Your iPhone's System</u></a></li>
-<li><a href="https://fox-that.techidaily.com/time-sensitive-update-top-advantages-of-switching-to-ios-nnow-with-version-153/"><u>Time-Sensitive Update: Top Advantages of Switching to iOS Nnow with Version 15.3!</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/top-ranked-tools-for-fixing-damaged-pictures-the-ultimate-guide/"><u>Top-Ranked Tools for Fixing Damaged Pictures: The Ultimate Guide</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshoot-silent-alerts-on-ios-devices-with-these-11-proven-solutions/"><u>Troubleshoot Silent Alerts on iOS Devices with These 11 Proven Solutions</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-iphone-emergency-mode-6-steps-to-regain-control/"><u>Troubleshooting iPhone Emergency Mode: 6 Steps to Regain Control</u></a></li>
-<li><a href="https://fox-that.techidaily.com/ultimate-guide-solving-the-issue-of-non-syncing-icloud-photos-on-iphone/"><u>Ultimate Guide: Solving the Issue of Non-Syncing iCloud Photos on iPhone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-boost-your-channel-game-essential-video-editing-advice/"><u>[Updated] 2024 Approved Boost Your Channel Game Essential Video Editing Advice</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-gamers-path-to-earnings-on-youtube-for-2024/"><u>[Updated] Gamer's Path to Earnings on YouTube for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/5-minutes-or-less-expert-hacks-to-get-your-iphoneipad-widgets-up-and-running-again/"><u>5 Minutes or Less: Expert Hacks to Get Your iPhone/iPad Widgets Up and Running Again</u></a></li>
+<li><a href="https://techidaily.com/abbyy-welcomes-paul-nizov-to-head-its-digital-defense-as-chief-information-security-officer/"><u>ABBYY Welcomes Paul Nizov to Head Its Digital Defense as Chief Information Security Officer</u></a></li>
+<li><a href="https://extra-information.techidaily.com/elegant-departures-from-zero-costs-to-paid-options/"><u>Elegant Departures From Zero Costs to Paid Options</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-for-repairing-broken-usb-connections-in-the-latest-windows-operating-systems/"><u>Expert Tips for Repairing Broken USB Connections in the Latest Windows Operating Systems</u></a></li>
+<li><a href="https://howto.techidaily.com/gmail-not-working-on-infinix-note-30-5g-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Infinix Note 30 5G 7 Common Problems & Fixes | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/identifying-the-root-causes-of-slow-mobile-internet-via-wi-fi-a-guide-with-7-explanations/"><u>Identifying the Root Causes of Slow Mobile Internet via Wi-Fi – A Guide with 7 Explanations</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-icloud-unlocker-download-unlock-icloud-lock-for-your-iphone-se-2022-by-drfone-ios/"><u>In 2024, iCloud Unlocker Download Unlock iCloud Lock for your iPhone SE (2022)</u></a></li>
+<li><a href="https://fox-that.techidaily.com/mastering-your-device-a-guide-to-fixing-common-icloud-issues-for-iphone-and-ipad-users/"><u>Mastering Your Device: A Guide to Fixing Common iCloud Issues for iPhone and iPad Users</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/no-experience-no-obstacle-the-ultimate-guide-to-profits-on-reddit/"><u>No Experience? No Obstacle The Ultimate Guide to Profits on Reddit</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/no-account-necessary-a-guide-to-watching-instagram-stories/"><u>No-Account Necessary: A Guide to Watching Instagram Stories</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolve-safari-malfunctions-a-step-by-step-fix-for-iphone-users/"><u>Resolve Safari Malfunctions: A Step-by-Step Fix for iPhone Users</u></a></li>
+<li><a href="https://fox-that.techidaily.com/silent-mode-glitch-iphone-not-shaking-unveiling-the-eight-fixes-to-reactivate-it/"><u>Silent-Mode Glitch: IPhone Not Shaking - Unveiling the Eight Fixes to Reactivate It</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-sound-problems-on-your-pc-running-windows-7-operating-system/"><u>Solving Sound Problems on Your PC Running Windows 7 Operating System</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-10-explanations-behind-auto-dimming-of-iphone-displays/"><u>Top 10 Explanations Behind Auto-Dimming of iPhone Displays</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-the-iphones-dark-dilemma-solutions-to-overcome-the-black-screen-issue/"><u>Troubleshooting the iPhone's Dark Dilemma: Solutions to Overcome the Black Screen Issue</u></a></li>
+<li><a href="https://fox-that.techidaily.com/ultimate-guide-reactivating-your-inactive-iphoneipad/"><u>Ultimate Guide: Reactivating Your Inactive iPhone/iPad</u></a></li>
+<li><a href="https://fox-that.techidaily.com/usb-c-alert-on-your-iphone-heres-how-you-can-fix-the-liquid-detected-issue/"><u>USB-C Alert on Your iPhone? Here’s How You Can Fix the 'Liquid Detected' Issue</u></a></li>
 </ul></div>
 

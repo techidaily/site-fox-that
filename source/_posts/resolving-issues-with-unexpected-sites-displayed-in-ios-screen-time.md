@@ -1,7 +1,7 @@
 ---
 title: Resolving Issues with Unexpected Sites Displayed in iOS Screen Time
-date: 2024-09-30T10:34:50.013Z
-updated: 2024-10-07T00:24:31.060Z
+date: 2024-10-07T16:42:37.054Z
+updated: 2024-10-12T21:32:22.498Z
 tags:
   - iphone
   - apple
@@ -35,24 +35,18 @@ thumbnail: https://thmb.techidaily.com/286866a306a63ee3881a3e82bbbdfd6a5621a0735
 
  Now, to continue to use Screen Time to [cut down on your iPhone usage](https://www.makeuseof.com/tag/ios-screen-time/) , let's look at how to fix this iPhone Screen Time glitch.
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Fix Random Websites Showing Up in Screen Time
 
  To resolve the Screen Time glitch and stop those websites from taking up your screen time, the simplest way to do so without losing any data is to [force restart your iPhone](https://www.makeuseof.com/tag/restart-iphone-recovery-mode/) . If you haven't, you should also [install the latest iOS on your iPhone](https://www.makeuseof.com/tag/update-iphone-ios-apps-data/) because Apple updates often come with bug fixes.
 
  But if the first two solutions don't work, your next steps would be to clear your Safari website data and history on all your iCloud-linked devices. You may also need to reset the Screen Time feature.
-
-<!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How to Clear the History and Website Data on Your iPhone
 
@@ -61,10 +55,10 @@ thumbnail: https://thmb.techidaily.com/286866a306a63ee3881a3e82bbbdfd6a5621a0735
 ![iPhone Settings Safari](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/IMG_8806.PNG)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Safari Clear Website History](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/IMG_8807.PNG)
@@ -83,26 +77,38 @@ Close
 
 ![iPhone Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/IMG_8811.PNG)
 
+<!-- affiliate ads begin -->
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Screen Time Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/IMG_8810.PNG)
 
 ![Turn Off Screen Time](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/IMG_8809.PNG)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Close
 
  If you encounter some issues with this step, you can refer to our guide on [how to turn off Screen Time on your iPhone](https://www.makeuseof.com/turn-off-screen-time/) for more details.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fixing the Screen Time Glitch on Your iPhone
@@ -126,18 +132,24 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/updated-streamline-your-social-impact-with-snapchat-gifs/"><u>[Updated] Streamline Your Social Impact with Snapchat Gifs</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/accelerate-audio-stream-10-best-mobile-tools/"><u>Accelerate Audio Stream 10 Best Mobile Tools</u></a></li>
-<li><a href="https://fox-that.techidaily.com/comprehensive-fix-for-mm-2-error-when-your-phone-shows-sim-not-provisioned-a-step-by-step-guide/"><u>Comprehensive Fix for 'MM 2 Error' When Your Phone Shows 'SIM Not Provisioned': A Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-that.techidaily.com/easy-ways-to-set-up-and-utilize-bluetooth-functionality-on-your-new-iphone-device/"><u>Easy Ways to Set Up and Utilize Bluetooth Functionality on Your New iPhone Device</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/finding-premium-free-music-without-breaking-copyrights/"><u>Finding Premium, Free Music Without Breaking Copyrights</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-change-credit-card-from-your-iphone-6-apple-id-and-apple-pay-by-drfone-ios/"><u>In 2024, How to Change Credit Card from Your iPhone 6 Apple ID and Apple Pay</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-oppo-a18-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Oppo A18 to Laptop Without USB | Dr.fone</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/mondly-joins-pearsonback-buttonfilter-button/"><u>Mondly Joins PearsonBack ButtonFilter Button</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/restore-sounds-on-windows-10-solving-the-silent-anthem/"><u>Restore Sounds on Windows 10: Solving the Silent 'Anthem'</u></a></li>
-<li><a href="https://fox-that.techidaily.com/six-common-ipadiphone-keyboard-problems-and-how-to-solve-them/"><u>Six Common iPad/iPhone Keyboard Problems and How to Solve Them</u></a></li>
-<li><a href="https://fox-that.techidaily.com/the-ultimate-list-of-common-iphone-display-issues-quick-fixes-inside/"><u>The Ultimate List of Common iPhone Display Issues - Quick Fixes Inside!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/top-5-troubleshooting-steps-for-microsoft-word-executable-issues/"><u>Top 5 Troubleshooting Steps for Microsoft Word Executable Issues</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-choices-for-portable-usb-internet-adapters-2024-edition/"><u>Top Choices for Portable USB Internet Adapters - 2024 Edition</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-boost-engagement-on-instagram-stories-mastering-multi-image-techniques/"><u>[New] Boost Engagement on Instagram Stories Mastering Multi-Image Techniques</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/eamless-songstreaming-the-best-free-apps-for-youtube-music-on-android-for-2024/"><u>[New] Seamless Songstreaming The Best Free Apps for YouTube Music on Android for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-fabricate-viral-gifs-via-giphy-portal/"><u>[Updated] Fabricate Viral Gifs via Giphy Portal</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-perfect-your-android-experience-with-screen-and-video-tech/"><u>2024 Approved Perfect Your Android Experience with Screen & Video Tech</u></a></li>
+<li><a href="https://fox-that.techidaily.com/beat-the-problem-overcome-iphones-persistent-headphone-syndrome-with-these-8-tips/"><u>Beat the Problem: Overcome iPhone's Persistent Headphone Syndrome with These 8 Tips</u></a></li>
+<li><a href="https://fox-that.techidaily.com/breaking-down-barriers-connect-your-iphone-to-a-vpn-in-7-steps/"><u>Breaking Down Barriers: Connect Your iPhone to a VPN in 7 Steps</u></a></li>
+<li><a href="https://games-able.techidaily.com/evaluating-premium-nitro-services/"><u>Evaluating Premium Nitro Services</u></a></li>
+<li><a href="https://fox-that.techidaily.com/handling-the-water-found-warning-on-iphones-fixes-for-the-usb-c-contact-issue/"><u>Handling the 'Water Found' Warning on iPhones – Fixes for the USB-C Contact Issue</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/harnessing-cookiebot-technology-for-superior-web-analytics/"><u>Harnessing Cookiebot Technology for Superior Web Analytics</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-enable-and-fix-whatsapp-auto-backup-issues-on-your-iphone-with-icloud/"><u>How To Enable and Fix WhatsApp Auto-Backup Issues on Your iPhone with iCloud</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-ensure-you-dont-miss-out-on-textscalls-when-do-not-disturb-is-active-on-iphones-top-8-tips/"><u>How To Ensure You Don't Miss Out On Texts/Calls When Do Not Disturb Is Active on iPhones: Top 8 Tips</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-surface-device-when-its-connected-but-wont-charge/"><u>How to Fix Surface Device When It's Connected But Won't Charge</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-best-waterproof-gopro-filters-for-undersea-film/"><u>In 2024, Best Waterproof GoPro Filters for Undersea Film</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-alerts-missing-discover-7-effective-solutions/"><u>IPhone Alerts Missing? Discover 7 Effective Solutions!</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/r-the-visuals-top-tips-for-dynamic-and-appealing-live-videos/"><u>Master the Visuals Top Tips for Dynamic and Appealing Live Videos</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-silent-mode-issues-fix-an-iphone-when-the-ringsilent-toggle-fails/"><u>Overcoming Silent Mode Issues: Fix an iPhone When the Ring/Silent Toggle Fails</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolving-the-signed-out-error-in-messages-for-iphone-users-effective-solutions/"><u>Resolving the Signed-Out Error in Messages for iPhone Users - Effective Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/smartphone-woes-heres-how-rebooting-can-be-your-tech-savior/"><u>Smartphone Woes? Here's How Rebooting Can Be Your Tech Savior</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/top-10-choices-the-ultimate-gb-emulator-list-android-for-2024/"><u>Top 10 Choices The Ultimate GB Emulator List, Android for 2024</u></a></li>
 </ul></div>
 

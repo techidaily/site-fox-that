@@ -1,7 +1,7 @@
 ---
 title: Revive Grayed-Out iCloud Preferences in iOS with These 4 Tips
-date: 2024-09-09T11:40:43.769Z
-updated: 2024-09-10T11:40:43.769Z
+date: 2024-10-07T06:26:36.810Z
+updated: 2024-10-13T03:28:35.701Z
 tags:
   - iphone
   - apple
@@ -12,47 +12,37 @@ excerpt: This Article Describes Revive Grayed-Out iCloud Preferences in iOS with
 thumbnail: https://thmb.techidaily.com/c2347da6ec78a1b069be335abb7dc18b2b1262d176e6b4d47161337afbbb6cd1.jpeg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Revive Grayed-Out iCloud Preferences in iOS with These 4 Tips
 
  When attempting to update your iCloud settings on your iPhone, you may notice some of the options to do so are grayed out, possibly including iCloud itself. This means those options are disabled.
 
  If that's the case, there are a few fixes you could try to re-enable them and get back into your iCloud settings.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Agree to New iCloud Terms and Conditions
 
 ![New iCloud Terms and Conditions banner on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/iphone-icloud-terms-and-conditions.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  It's possible the only task you have to complete is agreeing to any updates to the iCloud Terms and Conditions. If this is the reason you don't have access to your iCloud settings, you should see a banner right at the top of Settings underneath your name that says**New iCloud Terms and Conditions** . Tap this, then tap**Terms and Conditions** in blue on the next screen.
 
  Unless you have the patience of a supreme being to read everything through, just tap**Agree** at the bottom right. Now, you should see that the Settings menu has been updated to enable iCloud and other related services.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 2\. Check for Installed Configuration Profiles
 
 ![iOS Beta Profile on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/how-to-remove-ios-beta-profile.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Sometimes, configuration profiles that you may have installed on your iPhone from work or school can restrict access to certain areas of your device. Open the Settings app, then go to**General > VPN & Device Management** .
 
@@ -70,27 +60,29 @@ thumbnail: https://thmb.techidaily.com/c2347da6ec78a1b069be335abb7dc18b2b1262d17
 
  The System Status website also serves as a terrific way to diagnose other problems that may pop up from time to time, like [apps failing to sync through iCloud](https://www.makeuseof.com/fix-apple-apps-sync-icloud/) .
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Update Your iPhone
 
 ![iOS Security Response update available on Software Update page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/rapid-security-response-update-ios.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  If you're still out of luck, it may be time to update your iPhone to the latest iOS version if you're not on it already. Sometimes, your iPhone either needs a bug fix or a fresh start that comes with a new firmware release.
 
  The most straightforward way to update your iPhone is by going to**Settings > General > Software Update** and checking to see if a new version is available. Consider following a [detailed walkthrough for installing iOS updates](https://www.makeuseof.com/tag/update-iphone-ios-apps-data/) , especially if you haven't backed up your device in a while.
 
  When you're ready, hit**Download and Install** if you're not on the latest release, or**Install Now** if the new version was already downloaded in the background. The installation process will take several minutes to complete, and you'll be unable to use your iPhone until it's finished.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Access Your iCloud Settings Without Issues
 
@@ -102,8 +94,6 @@ thumbnail: https://thmb.techidaily.com/c2347da6ec78a1b069be335abb7dc18b2b1262d17
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -111,4 +101,18 @@ thumbnail: https://thmb.techidaily.com/c2347da6ec78a1b069be335abb7dc18b2b1262d17
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-diving-deep-into-vidmas-screen-recording-features-for-2024/"><u>[New] Diving Deep Into Vidma's Screen Recording Features for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-an-easy-guide-to-embedding-mp3-files-into-presentations/"><u>[Updated] An Easy Guide to Embedding MP3 Files Into Presentations</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/2024-approved-top-8-live-selling-platforms-and-beginners-tool-suggestion/"><u>2024 Approved Top 8 Live Selling Platforms & Beginners Tool Suggestion</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/boosting-bilingualism-top-3-cognitive-routines/"><u>Boosting Bilingualism: Top 3 Cognitive Routines</u></a></li>
+<li><a href="https://fox-that.techidaily.com/expert-tips-using-the-apple-support-app-for-easy-iphone-troubleshooting/"><u>Expert Tips: Using the Apple Support App for Easy iPhone Troubleshooting</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-huawei-nova-y91-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Huawei Nova Y91 Phone Network-Ready</u></a></li>
+<li><a href="https://fox-that.techidaily.com/issues-and-solutions-navigating-the-troubles-of-iphone-14s-battery-longevity/"><u>Issues & Solutions: Navigating the Troubles of iPhone 14'S Battery Longevity</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-communication-with-artificer-intellect-implementing-the-nvidia-chatbot-using-rtx-technology/"><u>Mastering Communication with Artificer Intellect: Implementing the Nvidia Chatbot Using RTX Technology</u></a></li>
+<li><a href="https://fox-that.techidaily.com/navigating-the-process-enabling-ipads-recovery-mode-with-ease/"><u>Navigating the Process: Enabling iPad's Recovery Mode with Ease</u></a></li>
+<li><a href="https://fox-that.techidaily.com/remedies-for-iphone-proximity-recognition-failure-a-step-by-step-guide/"><u>Remedies for iPhone Proximity Recognition Failure: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-a-frozen-ios-phone-swift-fixes-that-work/"><u>Troubleshooting a Frozen iOS Phone: Swift Fixes That Work</u></a></li>
+</ul></div>
 

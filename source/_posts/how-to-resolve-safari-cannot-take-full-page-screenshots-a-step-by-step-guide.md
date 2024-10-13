@@ -1,7 +1,7 @@
 ---
 title: "How to Resolve 'Safari Cannot Take Full-Page Screenshots': A Step-by-Step Guide"
-date: 2024-10-05T18:21:00.200Z
-updated: 2024-10-06T21:06:24.526Z
+date: 2024-10-06T20:46:15.188Z
+updated: 2024-10-13T06:02:28.154Z
 tags:
   - iphone
   - apple
@@ -34,10 +34,10 @@ thumbnail: https://thmb.techidaily.com/9be41d62e85e6d9d35faed892e42e95be3740ff67
 Try these tips if you can't take full-page screenshots in Safari.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. Check Your iOS Version
@@ -47,10 +47,10 @@ Try these tips if you can't take full-page screenshots in Safari.
  If your OS is not the problem, make sure to check the app you’re using when attempting to take a full-page screenshot. It only works with Safari.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Make Sure You're in Safari
@@ -60,13 +60,26 @@ Try these tips if you can't take full-page screenshots in Safari.
 ![Full-page screenshots](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/08/Full-page-screenshots.PNG)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Save Full-page screenshots](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/08/Save-Full-page-screenshots.PNG)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close
 
@@ -79,13 +92,6 @@ Close
  However, if you don’t like a cluttered Home Screen, you can also launch Safari from the App Library.
 
  Related:[What Is the iPhone App Library and How Do I Use It?](https://www.makeuseof.com/iphone-app-library-use/)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Take Screenshots Again
 
@@ -106,20 +112,16 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-yi-hero-review-transform-your-videography-with-4k/"><u>[New] In 2024, YI Hero Review Transform Your Videography with 4K</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-the-ultimate-guide-to-vimeo-record-features/"><u>[New] The Ultimate Guide to Vimeo Record Features</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-improving-vimeo-playback-pace/"><u>[Updated] Improving Vimeo Playback Pace</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-prepare-for-success-essential-trends-in-facebook-ads-24/"><u>2024 Approved Prepare for Success Essential Trends in Facebook Ads '24</u></a></li>
-<li><a href="https://fox-that.techidaily.com/bypassing-the-blockade-how-to-enable-call-functions-on-an-iphone-stuck-in-silence/"><u>Bypassing the Blockade: How to Enable Call Functions on an iPhone Stuck in Silence</u></a></li>
-<li><a href="https://fox-that.techidaily.com/enhance-mobile-usability-with-these-8-iphone-adjustments-tailored-for-people-with-low-vision/"><u>Enhance Mobile Usability with These 8 iPhone Adjustments Tailored for People With Low Vision</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-factory-unlock-your-telstra-iphone-13-pro-by-drfone-ios/"><u>How To Factory Unlock Your Telstra iPhone 13 Pro</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-android/"><u>How to Screen Mirroring Xiaomi Redmi Note 12 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/lost-airpods-no-more-unveiling-11-tips-when-theyre-not-showed-in-find-my/"><u>Lost AirPods No More: Unveiling 11 Tips When They're Not Showed in 'Find My'</u></a></li>
-<li><a href="https://change-location.techidaily.com/pokemon-go-cooldown-chart-on-vivo-v29-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Vivo V29 | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-nokia-c02-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Nokia C02 Screen | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/step-by-step-solutions-for-unsent-imessages-in-messages-app/"><u>Step-by-Step Solutions for Unsent iMessages in Messages App</u></a></li>
-<li><a href="https://fox-that.techidaily.com/the-complete-guide-to-using-dfu-mode-on-iphones/"><u>The Complete Guide to Using DFU Mode on iPhones</u></a></li>
-<li><a href="https://fox-that.techidaily.com/the-ultimate-guide-to-finding-and-restoring-lost-notes-on-your-iphones/"><u>The Ultimate Guide to Finding and Restoring Lost Notes on Your iPhones</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-guide-how-to-fix-chatgpt-app-issues-on-iphone/"><u>Troubleshooting Guide: How to Fix ChatGPT App Issues on iPhone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-chart-a-course-to-6-figure-growth-with-powerful-tags/"><u>[New] 2024 Approved Chart a Course to 6-Figure Growth with Powerful #Tags</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-4k-clarity-comes-closer-with-asuss-innovative-mg28uq-display/"><u>[New] 4K Clarity Comes Closer with ASUS's Innovative MG28UQ Display</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-capturing-attention-a-step-by-step-guide-to-social-media-promotion/"><u>[Updated] 2024 Approved Capturing Attention A Step-by-Step Guide to Social Media Promotion</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/wav-to-flac/"><u>「高忠実度WAV to FLACコンバート：ステレオサウンドを損なわずに保存する方法」</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726029764512-android/"><u>最新の自由音楽プレイヤー - Androidユーザによるベスト選び！</u></a></li>
+<li><a href="https://fox-that.techidaily.com/eliminate-phone-glitches-with-a-simple-reset-of-your-ios-network-settings/"><u>Eliminate Phone Glitches with a Simple Reset of Your iOS Network Settings</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-a-network-locked-samsung-galaxy-a34-5g-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Samsung Galaxy A34 5G Phone?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/spotting-moisture-damage-in-iphones-identify-the-9-red-flags/"><u>Spotting Moisture Damage in iPhones - Identify the 9 Red Flags</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/the-educators-resourceful-recorder-companion-for-2024/"><u>The Educator's Resourceful Recorder Companion for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-iphone-why-is-the-visual-lookup-feature-failing/"><u>Troubleshooting iPhone: Why Is the Visual Lookup Feature Failing?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlocking-the-mystery-where-do-your-photos-end-up-after-a-facetime-call/"><u>Unlocking the Mystery: Where Do Your Photos End Up After a FaceTime Call?</u></a></li>
 </ul></div>
 

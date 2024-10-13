@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Issues with Your iPhone Screen Not Functioning Properly
-date: 2024-10-03T03:46:03.539Z
-updated: 2024-10-07T06:32:52.745Z
+date: 2024-10-08T18:54:13.083Z
+updated: 2024-10-12T18:28:43.425Z
 tags:
   - iphone
   - apple
@@ -35,13 +35,6 @@ thumbnail: https://thmb.techidaily.com/07aa9db678660a97880964bc167fdc56576717cff
 
  If your iPhone was exposed to salt water before it stopped working, then that was most likely the cause of the damage. Salt water is corrosive and, while your phone might have been fine right away, the damage could continue to progress for weeks after exposure.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Is Your Touchscreen Broken or Your LCD Screen?
 
  The iPhone actually has two parts to its screen. The top part is the digitizer and the part underneath is the LCD screen. The digitizer is the touchscreen and the LCD screen displays the contents of your iPhone.
@@ -53,16 +46,10 @@ thumbnail: https://thmb.techidaily.com/07aa9db678660a97880964bc167fdc56576717cff
  If there’s a problem with your digitizer, there are a few fixes you can try before taking your iPhone to a repair shop. However, if it’s the LCD, you’ll need to start searching for repairs straight away.
 
 <!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Make Sure Touch Accommodations Is Off
@@ -75,22 +62,22 @@ If your screen is working, but not correctly, this could be the cause.
 
 ![iphone touch accommodations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/iphone-touch-accommodations.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you’re having a hard time navigating there because of the dodgy touchscreen, just activate Siri and say “Turn off Touch Accommodations.”
 
  Alternatively, you can click the Side button three times and this will disable it on most newer devices. For older devices, you may need to tap the Home button three times.
+
+<!-- affiliate ads begin -->
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Back Up and Factory Reset Your iPhone
 
@@ -107,10 +94,10 @@ If your screen is working, but not correctly, this could be the cause.
  If you do choose to get your iPhone repaired, you’ll most likely need to do this anyway. This ensures that the technician won’t be able to access your personal data. They may also need to test Face ID to make sure the repair worked and will need the phone to be unlocked to do so, which means you’re better off erasing all your data first.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Getting Your iPhone Screen Repaired
@@ -128,6 +115,13 @@ If your screen is working, but not correctly, this could be the cause.
  You can also attempt the repair yourself, but if you make a mistake you could do more damage. If you want to try it yourself, you can buy iPhone screens online and most of them include a DIY toolkit.
 
  Related:[Learn to Fix Your Own Gadgets With Help From These Sites](https://www.makeuseof.com/tag/fix-gadgets-help-websites/)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
+  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Using Your iPhone Without a Touchscreen
 
@@ -164,16 +158,22 @@ If your screen is working, but not correctly, this could be the cause.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-master-the-art-of-youtube-seo-11-steps-to-improvement/"><u>[New] 2024 Approved Master the Art of YouTube SEO 11 Steps to Improvement</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-the-gamers-blueprint-for-a-booming-youtube-channel/"><u>[Updated] In 2024, The Gamer's Blueprint for a Booming YouTube Channel</u></a></li>
-<li><a href="https://fox-that.techidaily.com/beat-the-ice-expert-advice-to-revive-and-fix-frozen-iphones/"><u>Beat the Ice: Expert Advice to Revive and Fix Frozen iPhones</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/1722584130841-canons-sx530-your-first-step-into-the-world-of-photography/"><u>Canon’s SX530: Your First Step Into the World of Photography</u></a></li>
-<li><a href="https://techidaily.com/complete-tutorial-for-nokia-c22-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Nokia C22 Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fixing-control-center-malfunctions-in-ios-8-effective-solutions-for-iphone-users/"><u>Fixing Control Center Malfunctions in iOS - 8 Effective Solutions for iPhone Users</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-achieving-financial-freedom-joshis-youtube-tactics/"><u>In 2024, Achieving Financial Freedom Joshi’s YouTube Tactics</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-honor-magic-5-lite-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Honor Magic 5 Lite | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-vivo-y36i-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Vivo Y36i online without jailbreak</u></a></li>
-<li><a href="https://fox-that.techidaily.com/iphone-frozen-at-apple-logo-try-these-7-failsafe-fixes/"><u>IPhone Frozen at Apple Logo? Try These 7 Failsafe Fixes!</u></a></li>
-<li><a href="https://fox-that.techidaily.com/no-sound-from-iphone-speakers-heres-how-to-restore-microphone-functionality/"><u>No Sound From iPhone Speakers? Here’s How to Restore Microphone Functionality</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-unlocking-youtubes-potential-subscriber-triumph-tactics/"><u>[New] 2024 Approved Unlocking YouTube's Potential Subscriber Triumph Tactics</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-best-youtube-title-generator/"><u>[New] Best YouTube Title Generator</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-effective-methods-for-transferring-youtube-videos-to-the-social-network/"><u>[New] Effective Methods for Transferring YouTube Videos to the Social Network</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-unveiling-8-leading-cost-effective-open-source-video-solutions-for-2024/"><u>[New] Unveiling 8 Leading Cost-Effective Open Source Video Solutions for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/auto-brightness-not-working-on-your-iphone-here-are-7-ways-to-fix-it/"><u>Auto-Brightness Not Working on Your iPhone? Here Are 7 Ways to Fix It</u></a></li>
+<li><a href="https://fox-that.techidaily.com/buttonless-boot-camp-how-to-reboot-an-iphone-when-the-physical-keys-dont-work/"><u>Buttonless Boot Camp: How to Reboot an iPhone When the Physical Keys Don't Work</u></a></li>
+<li><a href="https://fox-that.techidaily.com/diy-solutions-for-restoring-your-airplay-functionality/"><u>DIY Solutions for Restoring Your AirPlay Functionality</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-easy-ways-to-factory-reset-a-locked-apple-iphone-xs-without-itunes-by-drfone-ios/"><u>In 2024, 3 Easy Ways to Factory Reset a Locked Apple iPhone XS Without iTunes</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-ultimate-guide-to-refining-your-youtube-videos-after-publishing/"><u>In 2024, The Ultimate Guide to Refining Your YouTube Videos After Publishing</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721465098529-iphone-cant-deliver-texts-discover-10-effective-remedies-and-expert-advice/"><u>IPhone Can't Deliver Texts? Discover 10 Effective Remedies & Expert Advice!</u></a></li>
+<li><a href="https://extra-support.techidaily.com/navigating-spotify-advertising-successfully-for-2024/"><u>Navigating Spotify Advertising Successfully for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcome-iphone-connectivity-hurdles-with-a-simple-network-settings-reset-guide/"><u>Overcome iPhone Connectivity Hurdles with a Simple Network Settings Reset Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solve-all-your-iphone-issues-comprehensive-guide-to-restoring-network-settings/"><u>Solve All Your iPhone Issues: Comprehensive Guide to Restoring Network Settings</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-robloxs-low-memory-alerts-on-ios-devices/"><u>Troubleshooting Roblox's Low Memory Alerts on iOS Devices</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/ultimate-speaker-change-tech-for-internet-showbiz-pros/"><u>Ultimate Speaker Change Tech for Internet Showbiz Pros</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721457398555-unlocking-solutions-overcome-iphones-apple-icon-freeze-in-just-7-steps/"><u>Unlocking Solutions: Overcome iPhone's Apple Icon Freeze in Just 7 Steps!</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-shuttering-your-essential-knowledge-pool/"><u>Windows Shuttering: Your Essential Knowledge Pool</u></a></li>
 </ul></div>
 

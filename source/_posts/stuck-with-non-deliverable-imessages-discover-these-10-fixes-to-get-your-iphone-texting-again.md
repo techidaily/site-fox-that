@@ -1,7 +1,7 @@
 ---
 title: Stuck with Non-Deliverable iMessages? Discover These 10 Fixes to Get Your iPhone Texting Again
-date: 2024-09-09T11:41:32.563Z
-updated: 2024-09-10T11:41:32.563Z
+date: 2024-10-11T06:24:35.970Z
+updated: 2024-10-13T02:45:10.241Z
 tags:
   - iphone
   - apple
@@ -18,12 +18,6 @@ thumbnail: https://thmb.techidaily.com/f93e229fc5f13225e3ec37018bd561a2847508d52
 
  Regardless, it's usually a quick fix to get your iPhone sending SMS or MMS messages again, so don't start panicking just yet. Have a look at these potential fixes.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Check Your Network Signal
 
 ![Blue Sky Metal Cell Service Tower](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/Cell-Tower-e1623314484358.jpg)
@@ -48,26 +42,8 @@ thumbnail: https://thmb.techidaily.com/f93e229fc5f13225e3ec37018bd561a2847508d52
 
 ![Messages settings in iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/02-iphone-messages-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![SMS and MMS enabled on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/03-sms-mms-enabled-iphone.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Close
 
  Your iPhone can also send MMS (Multimedia Messaging Service) messages. These are text messages that include some kind of media, such as images or video clips. You may need to enable these messages in Settings before you're able to send them.
@@ -80,18 +56,6 @@ Here's how you can activate MMS messages:
 
  Do note that your personal cell plan may not cover MMS messaging. In this case, any text message sent with multimedia will fail to send. MMS is limited, too. We recommend using one of [the best instant messaging apps](https://www.makeuseof.com/best-instant-messaging-apps-2021/) if you'd like to share media files without a fuss when iMessage fails.
 
-<!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Are You in Airplane Mode?
 
  Airplane Mode prevents your iPhone from sending and receiving cellular signals. Unless you're connected to a Wi-Fi network, you won't be able to send or receive text messages via iMessage when you enable Airplane mode.
@@ -100,13 +64,14 @@ Here's how you can activate MMS messages:
 
 ![An iPhone's Home Screen in iOS 16](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/01-ios-home-screen.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Control Center in iOS with Airplane Mode enabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/02-control-center-iphone-airplane-mode.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![Control Center in iOS with Airplane Mode disabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/03-control-center-airplane-mode-disabled.jpg)
 
@@ -114,12 +79,6 @@ Close
 
  You can do this by opening your iPhone's**Control Center** and tapping the**Airplane** toggle in the top left. This symbol is grayed out whenever Airplane Mode is off. As a bonus, sometimes toggling Airplane Mode on and off can clear up temporary signal hiccups, too.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Did You Text the Right Number?
 
  Sending text messages to inactive or unused numbers is a recipe for failure and frustration. When sending an SMS message, make sure you enter the correct number.
@@ -130,12 +89,6 @@ Close
 
  This last point is important. Sometimes, your contacts may change their numbers, or their mobile operator may disconnect them. The issue may be with someone else's phone and not yours.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Refresh and Delete Your Messages
 
  If your iPhone can't send text messages, try closing the Messages app and opening it again. This isn't the most scientific method, but some users report that it's effective.
@@ -153,25 +106,27 @@ You can also delete conversations in Messages by doing the following:
 
 ![An iPhone's Home Screen in iOS 16](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/01-ios-home-screen.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Deleting a message in Messages](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/02-deleting-message-imessage.jpg)
 
 ![Delete message pop-up confirmation in Messages](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/03-message-deletion-confirmation-imessage.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Close
 
  This method is extremely useful if a message continually tries to send but is unable to do so.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Is Your Mobile Plan Active?
 
@@ -180,6 +135,13 @@ Close
  While the vast majority of phone plans offer standard unlimited texting, you might have exceeded your monthly limit of text messages if you have a limited plan.
 
  In either case, you should contact your network provider to ensure there are no issues with your account services.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Restart Your iPhone
 
@@ -196,6 +158,19 @@ Close
 
 ![Settings app open on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/01-settings-ios-app.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Shut Down option in iPhone Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/02-shut-down-ios-option.jpg)
 
 ![Shutting down an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/03-shutting-down-iphone.jpg)
@@ -205,11 +180,12 @@ Close
  When the phone turns back on, you should be able to enter Messages and easily resend the problematic text.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 8\. Update iOS
 
 [You should always keep your iPhone updated](https://www.makeuseof.com/reasons-you-need-to-update-ios/) with the latest version of iOS. New updates for iOS can iron out software issues and bugs. So if your iPhone still can't send text messages, it's a good idea to update.
@@ -223,38 +199,21 @@ Close
 
 ![Settings app in iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/01-settings-app-iphone.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![General settings in iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/02-software-update-ios-settings.jpg)
 
 ![iOS software updates page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/03-ios-update-page.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Close
 
  If your iPhone says, "iOS is up to date," you have the latest version installed and don't need to do anything else.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 9\. Reset Your Network Settings
 
  You shouldn't take resetting your iPhone's network settings too lightly. Network settings save data such as Wi-Fi networks and passwords, so it isn't ideal to erase them.
@@ -274,28 +233,17 @@ Here's how to clear your iPhone's network settings:
 
 ![Reset iPhone option in iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/02-Reset-iPhone.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![iPhone reset options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/03-Reset-iPhone-options.jpg)
 
 Close
 
 <!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 10\. Still Not Working? Get Professional Help
 
  If your iPhone still won't send SMS messages after all this, your last option is to contact your mobile operator. Try calling the customer service line. If they can't help you, it's likely a hardware issue, and you should contact Apple or an authorized service provider for expert assistance.
@@ -314,8 +262,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -323,4 +269,22 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-explore-the-ultimate-selection-of-free-slide-show-designs/"><u>[New] 2024 Approved Explore the Ultimate Selection of Free Slide Show Designs</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expert-tips-for-smooth-cross-sounding-with-audacity/"><u>[New] Expert Tips for Smooth Cross-Sounding with Audacity</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-sunlit-scenes-android-brighten-tips/"><u>[New] Sunlit Scenes Android Brighten Tips</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-how-to-create-a-sports-highlight-video-a-simple-guide/"><u>2024 Approved How to Create a Sports Highlight Video - a Simple Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/bypass-broken-buttons-on-your-iphone-a-simple-restart-guide/"><u>Bypass Broken Buttons on Your iPhone: A Simple Restart Guide</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/discover-why-the-arcshell-ar-5-is-a-top-contender-with-superior-performance-at-an-attractive-price-point/"><u>Discover Why the ArcShell AR-5 Is a Top Contender with Superior Performance at an Attractive Price Point</u></a></li>
+<li><a href="https://fox-that.techidaily.com/diy-iphone-repairs-overcoming-five-major-challenges-with-the-power-of-dfu-mode/"><u>DIY iPhone Repairs: Overcoming Five Major Challenges with the Power of DFU Mode</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-your-code-management-on-windows-11-with-github-desktop/"><u>Elevate Your Code Management on Windows 11 with Github Desktop</u></a></li>
+<li><a href="https://fox-that.techidaily.com/eliminate-ghost-touch-disturbances-on-your-iphone-using-these-n-nifty-tricks/"><u>Eliminate Ghost Touch Disturbances on Your iPhone Using These N Nifty Tricks</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-your-logitech-m705-up-to-date-easy-driver-downloads-and-firmware-updates/"><u>Get Your Logitech M705 Up-to-Date: Easy Driver Downloads & Firmware Updates</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-recover-missing-airpods-expert-advice-on-using-the-find-my-application/"><u>How to Recover Missing AirPods: Expert Advice on Using the Find My Application</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-tecno-phantom-v-flip-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Life360 on Windows PC For Tecno Phantom V Flip? | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/non-responsive-wireless-charger-on-iphone-here-are-7-quick-fixes-to-try-out-now/"><u>Non-Responsive Wireless Charger on iPhone? Here Are 7 Quick Fixes to Try Out Now</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolve-iphone-application-downloading-problems-with-these-10-proven-fixes/"><u>Resolve iPhone Application Downloading Problems With These 10 Proven Fixes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-5-obstacles-preventing-apple-users-from-sending-gifts/"><u>Top 5 Obstacles Preventing Apple Users From Sending Gifts</u></a></li>
+</ul></div>
 

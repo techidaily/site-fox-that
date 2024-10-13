@@ -1,7 +1,7 @@
 ---
 title: "Solving the 'Location Unavailable' Error on Your iPhone: A Step-by-Step Guide"
-date: 2024-10-01T00:54:33.681Z
-updated: 2024-10-07T08:42:26.004Z
+date: 2024-10-12T00:15:53.095Z
+updated: 2024-10-13T01:30:54.011Z
 tags:
   - iphone
   - apple
@@ -27,13 +27,6 @@ thumbnail: https://thmb.techidaily.com/0ca201532589a8340625e0277d57d7a6d8a4fe5f0
 
  There isn't a lot you can do yourself if Messages or the Find My app says "Location Not Available" when someone has chosen to [share their iPhone location with you](https://www.makeuseof.com/how-to-share-location-iphone/) . But it's still easiest to try these steps first, before involving somebody else.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Quit and Relaunch Find My or Messages
 
  Sometimes, the Messages or the Find My app can bug out and result in the "Location Not Available" error. The quickest way to resolve that is to [force quit and relaunch the app](https://www.makeuseof.com/close-apps-on-ipad-iphone/) in question.
@@ -46,33 +39,53 @@ To force quit Messages or Find My:
 
 ![Home Screen on iPhone.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/1-iphone-home-screen.PNG)
 
+<!-- affiliate ads begin -->
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![App Switcher on iPhone.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/2-app-switcher.PNG)
 
 ![Force-quitting an app on iPhone.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/3-force-quit-app.PNG)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Close
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Restart Your iPhone
 
  If closing and reopening the relevant app didn't work, you might need to [restart your iPhone](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) instead. To restart your iPhone, simply open the**Settings** app and tap**General > Shut Down** . Once the screen goes black, wait for several seconds and hold the**Side** or the**Top** button until you see the Apple logo.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Fix "Location Not Available" From Someone Else's iPhone
 
  If the two fixes above didn't help, you'll need to shift your attention to your friend or family member's iPhone. Walk them through the fixes below on a call. Or, share this post with them and make sure they follow the instructions in this section.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Toggle Share My Location Off and On
 
@@ -82,16 +95,16 @@ Close
 
 ![Apple ID settings screen.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/5-apple-id-settings.PNG)
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Find My preferences.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/6-share-my-location-1.PNG)
 
 Close
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Share the Location in Messages and Find My Again
 
@@ -119,43 +132,30 @@ Close
 ![iPhone Settings screen.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/10-iphone-settings.PNG)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![General settings screen on iPhone.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/11-general-settings.PNG)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Date or time screen on iPhone.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/12date-time.PNG)
 
 Close
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Switch to Cellular Data
 
  Spotty Wi-Fi can also play a factor, so try using cellular or mobile data instead. To do that, open the iPhone's**Control Center** (swipe down from the top-right of the screen or swipe up from the bottom if your iPhone has a Home button) and tap the**Wi-Fi** icon to disable it.
 
  If cellular data is active, the iPhone should automatically start using it. If not, tap the**Cellular** icon to activate it. Just make sure you don't have any [cellular data problems on your iPhone](https://www.makeuseof.com/iphone-cellular-data-not-working-fixes/) as well.
-
-<!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Sharing Your Location Isn't Always Wise
 
@@ -176,22 +176,24 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-insiders-look-at-effective-in-game-video-documentation/"><u>[New] In 2024, Insider's Look at Effective In-Game Video Documentation</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-dominate-igtv-with-follower-growth-essential-techniques-reviewed/"><u>[Updated] Dominate IGTV With Follower Growth Essential Techniques Reviewed</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-tips-on-how-skip-edgenuity-videos-easily/"><u>2024 Approved Tips on How Skip Edgenuity Videos Easily</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/comparing-conversational-companions-le-chat-vs-gpt-3/"><u>Comparing Conversational Companions: Le Chat vs GPT-3</u></a></li>
-<li><a href="https://fox-that.techidaily.com/exploring-apples-latest-release-what-to-expect-from-iphone-14s-power-capabilities/"><u>Exploring Apple's Latest Release: What to Expect From iPhone 14'S Power Capabilities</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fix-your-solo-malfunctioning-airpod-with-these-pro-tips/"><u>Fix Your Solo Malfunctioning AirPod with These Pro Tips</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-manually-restart-your-iphone-and-navigate-into-system-recovery-protocols/"><u>How to Manually Restart Your iPhone & Navigate Into System Recovery Protocols</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-safely-reset-your-iphone-a-comprehensive-guide/"><u>How to Safely Reset Your iPhone: A Comprehensive Guide</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/in-2024-create-magic-download-premium-soundscapes-now/"><u>In 2024, Create Magic Download Premium Soundscapes Now!</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-honor-70-lite-5g-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Honor 70 Lite 5G to Any iOS Devices | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Oppo F25 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/motivational-speaker-appraisal-edition-8-for-2024/"><u>Motivational Speaker Appraisal, Edition 8 for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/phone-number-error-in-contacts-troubleshooting-steps-to-restore-name-display/"><u>Phone Number Error in Contacts: Troubleshooting Steps to Restore Name Display</u></a></li>
-<li><a href="https://review-topics.techidaily.com/quickly-remove-google-frp-lock-on-itel-by-drfone-android-unlock-remove-google-frp/"><u>Quickly Remove Google FRP Lock on Itel</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solving-iphone-deadlocks-methods-for-restarting-when-buttons-fail/"><u>Solving iPhone Deadlocks - Methods for Restarting When Buttons Fail</u></a></li>
-<li><a href="https://fox-that.techidaily.com/step-by-step-instructions-entering-dfurecovery-mode-with-your-ipad/"><u>Step-by-Step Instructions: Entering DFU/Recovery Mode with Your iPad</u></a></li>
-<li><a href="https://fox-that.techidaily.com/struggling-with-your-iphones-vpn-connection-discover-these-7-effective-fixes-now/"><u>Struggling With Your iPhone's VPN Connection? Discover These 7 Effective Fixes Now!</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-engineer-meme-creation-in-adobe-for-2024/"><u>[New] Engineer Meme Creation in Adobe for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-syncing-your-browser-with-auto-play-feature-in-facebook/"><u>[New] Syncing Your Browser with Auto-Play Feature in Facebook</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-harmonizing-music-posting-with-legal-standards/"><u>[Updated] 2024 Approved Harmonizing Music Posting with Legal Standards</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-balancing-creativity-and-logic-in-gaming-videos/"><u>[Updated] In 2024, Balancing Creativity and Logic in Gaming Videos</u></a></li>
+<li><a href="https://fox-that.techidaily.com/11-ways-to-fix-airpods-that-keep-disconnecting-from-your-iphone/"><u>11 Ways to Fix AirPods That Keep Disconnecting From Your iPhone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-giggles-on-iphones/"><u>2024 Approved Giggles on iPhones</u></a></li>
+<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-oppo-a78-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Oppo A78? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/cant-track-heres-what-to-do-when-your-device-appears-offline-on-find-my-iphone/"><u>Can't Track? Here's What to Do When Your Device Appears Offline on Find My iPhone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/error-4013-on-iphone-a-comprehensive-guide-to-correct-updaterestore-issues-successfully/"><u>Error 4013 on iPhone: A Comprehensive Guide to Correct Update/Restore Issues Successfully</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/exclusive-no-fee-fb-visual-content-craftsman/"><u>Exclusive No-Fee FB Visual Content Craftsman</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-fix-ghost-touch-on-an-iphone-10-potential-fixes-to-try/"><u>How to Fix Ghost Touch on an iPhone: 10 Potential Fixes to Try</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-keep-your-airpods-from-switching-devices-on-apples-ecosystem/"><u>How to Keep Your AirPods From Switching Devices on Apple's Ecosystem</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-perform-a-forced-reboot-on-ios-devices-for-enabling-recovery-mode/"><u>How to Perform a Forced Reboot on iOS Devices for Enabling Recovery Mode</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-digital-duet-syncing-videos-for-twitter-and-tumble/"><u>In 2024, Digital Duet Syncing Videos for Twitter and Tumble</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/seizing-stability-eliminating-instability-for-2024/"><u>Seizing Stability Eliminating Instability for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/streamlining-details-for-your-youngsters-facebook-messenger/"><u>Streamlining Details for Your Youngster’s Facebook Messenger</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-10-explanations-understanding-your-iphones-auto-dimming-display/"><u>Top 10 Explanations: Understanding Your iPhone's Auto-Dimming Display</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-8-solutions-to-free-your-iphone-from-constant-headphone-detection/"><u>Top 8 Solutions to Free Your iPhone From Constant Headphone Detection</u></a></li>
+<li><a href="https://fox-that.techidaily.com/trouble-with-imessages-not-going-through-on-your-iphone/"><u>Trouble with iMessages Not Going Through on Your iPhone?</u></a></li>
 </ul></div>
 

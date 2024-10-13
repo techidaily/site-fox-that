@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Tips: How to Resolve 'Emergency Calls' Status on Your iPhone Screen"
-date: 2024-09-27T02:41:12.327Z
-updated: 2024-10-01T20:24:51.346Z
+date: 2024-10-06T00:13:35.747Z
+updated: 2024-10-12T23:47:01.721Z
 tags:
   - iphone
   - apple
@@ -45,16 +45,16 @@ Close
 
 ![iPhone cellular data options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-settings-data-roaming.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Close
 
  To enable Data Roaming on your iPhone, go to**Settings > Cellular > Cellular Data Options** . Then, toggle on the**Data Roaming** switch.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Switch to LTE
 
@@ -63,41 +63,41 @@ Close
 ![iPhone settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-cellular-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![iPhone cellular data options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-cellular-data-options-voice-data-settings.jpg)
 
 ![iPhone 5G and LTE options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-voice-data-5g-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Close
 
  Go to**Settings > Cellular > Cellular Data Options** like before, but this time tap**Voice & Data** . If**5G On** or**5G Auto** is selected, choose**LTE** and see if that gets rid of the SOS Only status.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Restart Your iPhone
 
 ![iPhone user trying to force restart their device](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-user-trying-to-force-restart-their-device.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Of course, we have to mention the good old reboot technique. If you haven't yet tried turning your iPhone off and on again, let's go ahead and test it out. You'd be surprised how many little annoyances a quick restart can resolve.
 
 [The steps to restart your iPhone](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) are different depending on which model you have, but it's pretty easy nonetheless.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Check for Carrier Settings Update
 
@@ -106,13 +106,6 @@ Close
 ![iPhone Settings menu showing General](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-settings-general.jpg)
 
 ![iPhone General settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-settings-general-about.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Close
 
@@ -123,6 +116,13 @@ Close
  When all else fails, you should contact your carrier to see what's going on. Since having SOS Only status on your iPhone greatly limits the features you can use, you wouldn't want to have it for long.
 
  There may be an issue with your cell service that's worth getting to the bottom of. So, visit your carrier's website and search for a contact or support page to get a customer support phone number.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Getting to the Bottom of "SOS Only"
 
@@ -145,24 +145,16 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-mastering-live-video-recovery-on-facebook-2023-edition/"><u>[New] Mastering Live Video Recovery on Facebook, 2023 Edition</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-navigating-steam-with-your-switch-pro-device/"><u>[Updated] Navigating Steam with Your Switch Pro Device</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-affordable-asmr-experience-awaits/"><u>2024 Approved The Ultimate Affordable ASMR Experience Awaits</u></a></li>
-<li><a href="https://fox-that.techidaily.com/5-mins-or-less-expert-fixes-to-reactivate-your-mobile-devices-widgets/"><u>5 Mins or Less: Expert Fixes to Reactivate Your Mobile Device's Widgets</u></a></li>
-<li><a href="https://fox-that.techidaily.com/banish-the-blur-7-proven-methods-for-a-sharper-iphone-snapshots/"><u>Banish the Blur: 7 Proven Methods for a Sharper iPhone Snapshots</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721481103544-beat-these-common-iphone-x-frustrations-with-easy-fixes/"><u>Beat These Common iPhone X Frustrations with Easy Fixes!</u></a></li>
-<li><a href="https://fox-that.techidaily.com/dealing-with-iphone-messaging-glitch-solving-the-final-line-error/"><u>Dealing With iPhone Messaging Glitch: Solving the Final Line Error</u></a></li>
-<li><a href="https://fox-that.techidaily.com/getting-siri-back-online-fix-these-e-7-issues-on-your-apple-device/"><u>Getting Siri Back Online: Fix These E 7 Issues on Your Apple Device</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-infinix-smart-8-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Infinix Smart 8 | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-fix-common-iphone-screen-glitches-top-7-problems-explained/"><u>How to Fix Common iPhone Screen Glitches - Top 7 Problems Explained</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-identify-some-outdated-your-drivers-with-windows-device-manager-in-windows-11-and-10-by-drivereasy-guide/"><u>How to identify some outdated your drivers with Windows Device Manager in Windows 11 & 10</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-gionee-f3-pro-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Gionee F3 Pro Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/lullabies-and-lightheartedness-asmr-sleep-helpers/"><u>Lullabies and Lightheartedness ASMR Sleep Helpers</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/premium-filmmaking-selecting-high-resolution-lenses-for-2024/"><u>Premium Filmmaking Selecting High-Resolution Lenses for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/resolving-grayed-out-icloud-issues-in-just-four-steps-iphone-and-ipad/"><u>Resolving Grayed Out iCloud Issues in Just Four Steps (iPhone & iPad)</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-ultimate-selection-iphone-13-fashionable-and-durable-phone-cases/"><u>The Ultimate Selection: IPhone 13 Fashionable and Durable Phone Cases</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-your-iphones-wi-fi-hotspot-quick-solutions-and-tips/"><u>Troubleshooting Your iPhone's Wi-Fi Hotspot: Quick Solutions and Tips</u></a></li>
-<li><a href="https://fox-that.techidaily.com/unresponsive-tablet-screen-dilemma-8-solutions-for-smooth-operation/"><u>Unresponsive Tablet Screen Dilemma: 8 Solutions for Smooth Operation</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/why-investing-in-a-ps5-is-a-smart-choice-top-4-benefits-explained/"><u>Why Investing in a PS5 Is a Smart Choice: Top 4 Benefits Explained</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-converting-horizontals-for-igtv-tips-and-techniques-explored-for-2024/"><u>[Updated] Converting Horizontals for IGTV Tips & Techniques Explored for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721462341435-airpod-woes-try-these-6-fixes-for-auto-connect-issues-between-apple-gadgets/"><u>AirPod Woes? Try These 6 Fixes for Auto-Connect Issues Between Apple Gadgets</u></a></li>
+<li><a href="https://fox-that.techidaily.com/escape-from-earphones-entrapment-8-iphone-fixes-for-continuous-sound-problems/"><u>Escape From Earphones Entrapment: 8 iPhone Fixes for Continuous Sound Problems</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-change-your-apple-id-on-apple-iphone-6-with-or-without-password-drfone-by-drfone-ios/"><u>How To Change Your Apple ID on Apple iPhone 6 With or Without Password | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcome-iphone-brightness-control-glitches-learn-7-handy-tips-and-tricks/"><u>Overcome iPhone Brightness Control Glitches: Learn 7 Handy Tips and Tricks</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-challenges-when-your-networks-dhcp-server-is-unreachable/"><u>Overcoming Challenges When Your Network's DHCP Server Is Unreachable</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/prioritizing-pivotal-movie-moments-for-editors/"><u>Prioritizing Pivotal Movie Moments for Editors</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-the-low-memory-warning-issue-in-roblox-for-your-iphone-easily/"><u>Troubleshoot the 'Low Memory Warning' Issue in Roblox for Your iPhone Easily</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-tecno-spark-10-5g-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Tecno Spark 10 5G IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/unique-ideas-for-dynamic-fb-video-marketing-campaigns/"><u>Unique Ideas for Dynamic FB Video Marketing Campaigns</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unstuck-iphone-woes-mastering-dfu-mode-fixes-for-5-frequent-glitches/"><u>Unstuck iPhone Woes? Mastering DFU Mode Fixes for 5 Frequent Glitches</u></a></li>
 </ul></div>
 

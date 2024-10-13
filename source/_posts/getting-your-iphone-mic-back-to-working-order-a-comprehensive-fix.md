@@ -1,7 +1,7 @@
 ---
 title: Getting Your iPhone Mic Back to Working Order - A Comprehensive Fix
-date: 2024-09-23T00:20:55.600Z
-updated: 2024-09-26T19:53:39.396Z
+date: 2024-10-07T00:59:35.787Z
+updated: 2024-10-13T01:21:08.427Z
 tags:
   - iphone
   - apple
@@ -28,15 +28,22 @@ thumbnail: https://thmb.techidaily.com/bc4c1fafbeb0a4b8e3066f1ca761f451b6c08fbe8
  Test each microphone by recording using Voice Memos (bottom microphone), making a phone call on speakers (front microphone), and recording a video (back microphone). If all the microphones aren't working, it's most likely a hardware issue. If only one microphone isn't working or sounds muffled, continue to the next step.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. iPhone Microphone Muffled or Muted? Try Cleaning It
 
 ![iphone clean speaker](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/iphone-clean-speaker.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Brent Dirks/[MakeUseOf](https://www.makeuseof.com/author/brentdirks/)
 
@@ -54,13 +61,6 @@ Close
 
  This is a common issue with those who use Bluetooth headphones like AirPods or smart home systems. Check if you're connected to a Bluetooth device by [opening your iPhone's Control Center](https://www.makeuseof.com/how-to-use-customize-control-center-iphone/) , then toggle Bluetooth off. Alternatively, tap and hold it to view all your connected devices.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Make Sure Apps Have Microphone Permissions
 
 Close
@@ -70,28 +70,28 @@ Close
  To grant an app permission, head to**Settings** and select the affected app. Now, make sure the**Microphone** toggle is enabled.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Use an External Microphone or AirPods
 
 ![A guy holding AirPods Pro in charging case showing orange light](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/02/a-guy-holding-airpods-pro-in-charging-case-showing-orange-light.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Hamlin Rozario/[MakeUseOf](https://www.makeuseof.com/author/hamlin-rozario/)
 
  If you've tried all the above fixes but nothing is working, you can still use an external microphone with your iPhone. You can use this while you wait for a repair or even use an external microphone indefinitely if you can't afford a repair.
 
  Most headphones, including Apple's AirPods, have built-in microphones. Since they connect via your iPhone's Lightning/USB-C port or Bluetooth, you won't have to rely on the built-in microphones for most tasks.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Other Generic Fixes
 
@@ -118,17 +118,14 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-overcoming-the-barriers-to-distance-podcasting/"><u>[New] 2024 Approved Overcoming the Barriers to Distance Podcasting</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-storage-sizing-film-duration-in-gb/"><u>[New] In 2024, Storage Sizing Film Duration in GB</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-the-ultimate-guide-to-mobile-snapchat-screen-capture/"><u>[New] In 2024, The Ultimate Guide to Mobile Snapchat Screen Capture</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-unlocking-seamless-communication-with-top-tier-free-and-paid-zoom-applications/"><u>[New] Unlocking Seamless Communication with Top-Tier Free & Paid Zoom Applications</u></a></li>
-<li><a href="https://fox-that.techidaily.com/9-strategies-for-fixing-persistent-application-failures-on-ios-devices/"><u>9 Strategies for Fixing Persistent Application Failures on iOS Devices</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/decoding-dvd-storage-how-dvd-r-differs-from-dvdplusr-explained/"><u>Decoding DVD Storage: How DVD-R Differs From DVD+R Explained</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-solutions-to-restore-usb-functionality-in-windows-10-and-11-systems/"><u>Effective Solutions to Restore USB Functionality in Windows 10 and 11 Systems</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-samsung-galaxy-s23plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Samsung Galaxy S23+ | Dr.fone</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-pixel-pilgrimage-journey-through-one-thousand-channels/"><u>In 2024, Pixel Pilgrimage Journey Through One Thousand Channels</u></a></li>
-<li><a href="https://fox-that.techidaily.com/master-the-art-of-iphone-battery-life-a-six-step-calibration-process/"><u>Master the Art of iPhone Battery Life - A Six-Step Calibration Process</u></a></li>
-<li><a href="https://fox-that.techidaily.com/resolving-safaris-full-screen-screenshot-problem-step-by-step-solutions/"><u>Resolving Safari's Full-Screen Screenshot Problem: Step-by-Step Solutions</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-why-cant-my-iphone-pair-with-my-pc/"><u>Troubleshooting: Why Can't My iPhone Pair With My PC?</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-photography-editing-tips-for-creating-stunning-photos/"><u>[New] Photography Editing Tips for Creating Stunning Photos</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-ultraview-app-functionality-survey-for-2024/"><u>[New] UltraView App Functionality Survey for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-the-art-of-bio-storytelling-on-social-media-platforms/"><u>[Updated] In 2024, The Art of Bio Storytelling on Social Media Platforms</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/evaluating-the-ambient-weather-ws-1002-wifi-exceptional-performance-high-investment-required/"><u>Evaluating the Ambient Weather WS- 1002 WiFi - Exceptional Performance, High Investment Required</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-bypass-apple-iphone-6s-plus-passcode-easily-video-inside-by-drfone-ios/"><u>How to Bypass Apple iPhone 6s Plus Passcode Easily Video Inside</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-ghost-touch-glitch-in-iphones-explore-10-proven-remedies-for-a-smoother-screen-experience/"><u>Overcoming Ghost Touch Glitch in iPhones: Explore 10 Proven Remedies for a Smoother Screen Experience</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solve-your-ios-16-depth-effect-problem-on-lock-screen-with-these-7-key-methods/"><u>Solve Your iOS 16 Depth Effect Problem on Lock Screen With These 7 Key Methods</u></a></li>
+<li><a href="https://fox-that.techidaily.com/step-by-step-guide-initiating-a-forced-reboot-and-accessing-iphones-recovery-mode/"><u>Step-by-Step Guide: Initiating a Forced Reboot & Accessing iPhone's Recovery Mode</u></a></li>
+<li><a href="https://fox-that.techidaily.com/water-damage-prevention-how-to-dry-out-iphone-speaker-hole/"><u>Water-Damage Prevention: How to Dry Out iPhone Speaker Hole</u></a></li>
 </ul></div>
 

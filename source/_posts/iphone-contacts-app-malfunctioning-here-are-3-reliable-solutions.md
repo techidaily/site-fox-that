@@ -1,7 +1,7 @@
 ---
 title: IPhone Contacts App Malfunctioning? Here Are 3 Reliable Solutions
-date: 2024-10-04T23:44:43.994Z
-updated: 2024-10-06T19:19:11.424Z
+date: 2024-10-06T05:58:35.004Z
+updated: 2024-10-12T16:07:33.514Z
 tags:
   - iphone
   - apple
@@ -43,10 +43,10 @@ Close
  If someone you know has set up their Contact Poster and you can't see it, simply ask them to follow the steps above and ensure the feature is enabled!
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Delete and Recreate the Contact Poster
@@ -60,30 +60,31 @@ Close
 
 ![viewing my own contact photo & poster](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/viewing-my-own-contact-phot-poster-1.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![viewing my created contact posters](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/viewing-my-created-contact-posters-1.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![swiping up on my created contact poster and trash icon appears](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/swiping-up-on-my-created-contact-poster-and-trash-icon-appears.jpeg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![deleting my contact poster](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/deleting-my-contact-poster.jpeg)
 
 <!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Close
@@ -93,13 +94,6 @@ Close
  Perhaps a software bug is the culprit behind this issue. Fortunately, the simplest way to fix software glitches like this one is restarting your iPhone. Before you restart your iPhone, head to**Phone > My Card > Contact Photo & Poster** and disable**Name & Photo Sharing** .
 
  Whether you're using a model with a notch or Dynamic Island or an old-school iPhone with a physical Home button,[restarting your iPhone, even if the buttons aren't working](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) , is pretty straightforward. After you turn your iPhone back on, follow the steps above to enable**Name & Photo Sharing** again.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## It's Time to Get Your Contact Posters Back
 
@@ -120,22 +114,19 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-fullscreen-imprint-of-site/"><u>[New] 2024 Approved Fullscreen Imprint of Site</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-discover-the-top-8-android-platforms-for-large-gatherings/"><u>[New] Discover the Top 8 Android Platforms for Large Gatherings</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-no-cost-digital-revenue-prognosticator/"><u>[Updated] No-Cost Digital Revenue Prognosticator</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-youtube-taping-permissibility-concerns/"><u>2024 Approved YouTube Taping Permissibility Concerns</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/7-ways-to-unlock-a-locked-poco-f5-pro-5g-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Poco F5 Pro 5G Phone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/are-ubers-more-cost-effective-than-taxis-in-the-long-run/"><u>Are Ubers More Cost-Effective Than Taxis in the Long Run?</u></a></li>
-<li><a href="https://fox-that.techidaily.com/clearing-moisture-from-your-smartphones-sound-output-areas-safely/"><u>Clearing Moisture From Your Smartphone's Sound Output Areas Safely</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-insights-on-gadgets-and-hardware-by-toms-tech-blog/"><u>Expert Insights on Gadgets & Hardware by Tom's Tech Blog</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-fix-an-unresponsive-iphone-qr-code-scanning-app-a-list-of-5-effective-methods/"><u>How to Fix an Unresponsive iPhone QR Code Scanning App: A List of 5 Effective Methods</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-overcome-the-challenge-of-updating-an-iphoneipad-a-step-by-step-guide/"><u>How to Overcome the Challenge of Updating an iPhone/iPad - A Step-by-Step Guide</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-did-your-apple-iphone-se-2022-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>In 2024, Did Your Apple iPhone SE (2022) Passcode Change Itself? Unlock It Now</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/instagram-filter-mastery-essential-skills/"><u>Instagram Filter Mastery - Essential Skills</u></a></li>
-<li><a href="https://fox-that.techidaily.com/iphone-connectivity-problems-try-these-5-fixes-for-constant-wi-fi-disconnections/"><u>IPhone Connectivity Problems? Try These 5 Fixes for Constant Wi-Fi Disconnections</u></a></li>
-<li><a href="https://fox-that.techidaily.com/late-text-notifications-on-your-iphone-correct-it-using-our-9-expert-fixes/"><u>Late Text Notifications on Your iPhone? Correct It Using Our 9 Expert Fixes!</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solving-iphone-emergency-top-6-solutions-for-sos-signal-appearing-on-your-device/"><u>Solving iPhone Emergency: Top 6 Solutions for 'SOS Signal' Appearing on Your Device</u></a></li>
-<li><a href="https://fox-that.techidaily.com/top-10-factors-causing-your-iphones-auto-dimming-display/"><u>Top 10 Factors Causing Your iPhone's Auto-Dimming Display</u></a></li>
-<li><a href="https://fox-that.techidaily.com/unstick-your-airpods-6-guides-for-effortless-transfer-between-macbook-iphone-and-ipad/"><u>Unstick Your AirPods: 6 Guides for Effortless Transfer Between MacBook, iPhone & iPad</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-banishing-the-darkness-tips-for-a-bright-screen-on-obs-for-2024/"><u>[New] Banishing the Darkness Tips for a Bright Screen on OBS for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-laughloop-app-a-hub-for-humor-enthusiasts/"><u>[New] LaughLoop App - A Hub for Humor Enthusiasts</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/our-guide-to-exceptional-online-marketing-savor-our-selection-of-50-free-ads/"><u>[New] Your Guide to Exceptional Online Marketing – Savor Our Selection of 50 FREE Ads</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-amplifying-visuals-expert-guide-to-snapchat-zoom/"><u>[Updated] Amplifying Visuals Expert Guide to Snapchat Zoom</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-iphoneutility-mirror-photo-mastery-tips/"><u>2024 Approved Exploring iPhone'utility Mirror Photo Mastery Tips</u></a></li>
+<li><a href="https://fox-that.techidaily.com/effective-approaches-to-solving-iphone-camera-glitches-and-picture-manipulation-problems/"><u>Effective Approaches to Solving iPhone Camera Glitches and Picture Manipulation Problems</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-arrange-an-apple-remote-inspection-for-your-troublesome-iphone/"><u>How to Arrange an Apple Remote Inspection for Your Troublesome iPhone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-top-3-ways-to-use-zoom-video-converter/"><u>In 2024, Top 3 Ways to Use Zoom Video Converter</u></a></li>
+<li><a href="https://games-able.techidaily.com/next-gen-gamers-choice-high-performance-keyboards/"><u>Next Gen Gamers' Choice: High-Performance Keyboards</u></a></li>
+<li><a href="https://fox-that.techidaily.com/six-pro-tips-for-tweaking-autocorrect-settings-on-an-iphone-and-achieving-error-free-writing/"><u>Six Pro Tips for Tweaking Autocorrect Settings on an iPhone and Achieving Error-Free Writing</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solve-these-issues-difficulty-in-sharing-subscriptions-among-family-members/"><u>Solve These Issues: Difficulty in Sharing Subscriptions Among Family Members</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-revolutionary-appeal-of-apples-m1-max-clip/"><u>The Revolutionary Appeal of Apple's M1 Max Clip</u></a></li>
+<li><a href="https://fox-that.techidaily.com/ultimate-steps-to-reset-or-revamp-your-iphone-independently/"><u>Ultimate Steps to Reset or Revamp Your iPhone Independently</u></a></li>
+<li><a href="https://fox-that.techidaily.com/what-to-do-when-your-iphone-displays-dial-pads-instead-of-names-for-new-callers/"><u>What to Do When Your iPhone Displays Dial-Pads Instead of Names for New Callers</u></a></li>
 </ul></div>
 

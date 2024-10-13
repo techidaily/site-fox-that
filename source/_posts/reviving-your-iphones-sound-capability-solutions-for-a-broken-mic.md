@@ -1,7 +1,7 @@
 ---
 title: "Reviving Your iPhone's Sound Capability: Solutions for a Broken Mic"
-date: 2024-09-09T11:39:41.061Z
-updated: 2024-09-10T11:39:41.061Z
+date: 2024-10-09T20:33:32.279Z
+updated: 2024-10-13T04:26:09.118Z
 tags:
   - iphone
   - apple
@@ -12,18 +12,6 @@ excerpt: "This Article Describes Reviving Your iPhone's Sound Capability: Soluti
 thumbnail: https://thmb.techidaily.com/dfad489a283b58802ec92c884b7191bbab4a284ecb771027987a79177a9a76e0.jpg
 ---
 
-<!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Reviving Your iPhone's Sound Capability: Solutions for a Broken Mic
 
  An iPhone is almost useless without a working microphone. A broken microphone means no FaceTime, phone calls, or Siri. Sometimes, videos shot on your iPhone may not have any audio. But before you pay Apple for a costly repair, try these fixes first.
@@ -35,21 +23,23 @@ thumbnail: https://thmb.techidaily.com/dfad489a283b58802ec92c884b7191bbab4a284ec
  Test each microphone by recording using Voice Memos (bottom microphone), making a phone call on speakers (front microphone), and recording a video (back microphone). If all the microphones aren't working, it's most likely a hardware issue. If only one microphone isn't working or sounds muffled, continue to the next step.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 2\. iPhone Microphone Muffled or Muted? Try Cleaning It
 
 ![iphone clean speaker](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/iphone-clean-speaker.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Brent Dirks/[MakeUseOf](https://www.makeuseof.com/author/brentdirks/)
 
  One of the simplest ways to fix your microphone is by cleaning it. If one of your microphones sounds muffled when you speak, you might just need to clean it. iPhone microphones are sensitive, and a small piece of dust or dander can affect how they sound.
@@ -59,17 +49,12 @@ thumbnail: https://thmb.techidaily.com/dfad489a283b58802ec92c884b7191bbab4a284ec
  Isopropyl alcohol breaks up grime and dries fast, so it won't damage your iPhone. Try using the highest percentage of isopropyl alcohol you can find. While you're at it,[clean your entire iPhone thoroughly](https://www.makeuseof.com/tag/clean-iphone-guide/) if it's not in a good shape.
 
 <!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 3\. Disconnect From Bluetooth Devices
 
 Close
@@ -86,28 +71,23 @@ Close
 
  To grant an app permission, head to**Settings** and select the affected app. Now, make sure the**Microphone** toggle is enabled.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Use an External Microphone or AirPods
 
 ![A guy holding AirPods Pro in charging case showing orange light](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/02/a-guy-holding-airpods-pro-in-charging-case-showing-orange-light.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115926/19272" target="_top" id="2115926">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115926" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115926/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Hamlin Rozario/[MakeUseOf](https://www.makeuseof.com/author/hamlin-rozario/)
 
  If you've tried all the above fixes but nothing is working, you can still use an external microphone with your iPhone. You can use this while you wait for a repair or even use an external microphone indefinitely if you can't afford a repair.
 
  Most headphones, including Apple's AirPods, have built-in microphones. Since they connect via your iPhone's Lightning/USB-C port or Bluetooth, you won't have to rely on the built-in microphones for most tasks.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Other Generic Fixes
 
 Close
@@ -124,8 +104,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -133,4 +111,24 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/new-syncing-zen-and-zeal-elevating-youtube-livestreams-on-zoom/"><u>[New] Syncing Zen and Zeal Elevating YouTube Livestreams on Zoom</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-blueprint-to-establishing-zoom-meetings/"><u>[Updated] Blueprint to Establishing Zoom Meetings</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-keeping-the-joyful-jokes-techniques-to-download-tweets-animated-content/"><u>[Updated] In 2024, Keeping the Joyful Jokes Techniques to Download Tweets’ Animated Content</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-unveiling-the-secrets-to-dynamic-video-cover-design-in-facebook-space-for-2024/"><u>[Updated] Unveiling the Secrets to Dynamic Video Cover Design in Facebook Space for 2024</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/efficace-riduzione-delle-dimensioni-dei-video-mov-tecniche-essenziali-per-migliorare-le-prestazioni-del-dispositivo-e-conservare-lo-spazio/"><u>Efficace Riduzione Delle Dimensioni Dei Video MOV: Tecniche Essenziali per Migliorare Le Prestazioni Del Dispositivo E Conservare Lo Spazio</u></a></li>
+<li><a href="https://fox-that.techidaily.com/expert-techniques-to-boost-your-ipad-into-recovery-mode/"><u>Expert Techniques to Boost Your iPad Into Recovery Mode</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-a-broken-iphone-flashlight-try-these-effective-strategies-12-in-total/"><u>Fixing a Broken iPhone Flashlight? Try These Effective Strategies (12 in Total)</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-fix-when-siri-stops-responding-on-your-apple-device/"><u>How to Fix When Siri Stops Responding on Your Apple Device</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-from-roots-to-refined-rogues-journey-through-genres/"><u>In 2024, From Roots to Refined Rogue's Journey Through Genres</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-narrative-skies-and-landscapes-in-a-snapshot/"><u>In 2024, Narrative Skies and Landscapes in a Snapshot</u></a></li>
+<li><a href="https://fox-that.techidaily.com/locating-a-missing-iphone-effective-use-of-find-my-app/"><u>Locating a Missing iPhone: Effective Use of Find My App</u></a></li>
+<li><a href="https://facebook.techidaily.com/privacy-betrayed-key-themes-from-leaked-fb-papers/"><u>Privacy Betrayed: Key Themes From Leaked FB Papers</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolving-iphone-startup-jams-seven-proven-techniques-for-bypassing-the-apple-emblem/"><u>Resolving iPhone Startup Jams: Seven Proven Techniques for Bypassing the Apple Emblem</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721477101911-troubleshoot-the-iphone-contacts-app-top-3-fixes-to-try-now/"><u>Troubleshoot the iPhone Contacts App - Top 3 Fixes to Try Now</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-steps-safari-crashes-or-freezes-on-iphones/"><u>Troubleshooting Steps: Safari Crashes or Freezes on iPhones</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-vanished-contacts-solutions-for-iphone-users/"><u>Troubleshooting Vanished Contacts: Solutions for iPhone Users</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-unleash-your-inner-filmmaker-a-step-by-step-guide-to-professional-movie-making/"><u>Updated 2024 Approved Unleash Your Inner Filmmaker A Step-by-Step Guide to Professional Movie Making</u></a></li>
+</ul></div>
 

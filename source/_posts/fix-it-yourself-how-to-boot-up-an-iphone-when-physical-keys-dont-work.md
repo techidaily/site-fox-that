@@ -1,7 +1,7 @@
 ---
 title: Fix It Yourself! How to Boot Up an iPhone When Physical Keys Don't Work
-date: 2024-09-26T17:20:19.114Z
-updated: 2024-10-01T21:52:48.954Z
+date: 2024-10-11T21:45:53.351Z
+updated: 2024-10-13T00:32:52.372Z
 tags:
   - iphone
   - apple
@@ -53,27 +53,20 @@ You have successfully restarted your iPhone with a Home button.
 
 ![How to Restart iPhone With Top Power Button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/how-to-restart-iphone-with-top-power-button.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you're using iPhone SE (1st generation), 5S, 5C, 5, 4S, 4, or earlier models, the steps are the same as above (for devices with the Home button). Just make sure to press the**Power button** on the top of the device instead.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Restart an iPhone if the Buttons Are Broken or Not Working
 
  In the sections above, we detailed the steps to restart an iPhone using its physical buttons. However, there are two more methods you can use to restart your iPhone, and they don't involve using any buttons.
 
  This comes in handy if your iPhone buttons are broken or not working for any reason. It can also be helpful if you're unable to press and hold the buttons.
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How to Restart an iPhone From the Settings App
 
@@ -86,24 +79,38 @@ You have successfully restarted your iPhone with a Home button.
 
 ![iPhone Settings app showing General option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/iphone-settings-app-showing-general-option.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![iPhone Settings app showing Shut Down](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/iphone-settings-app-showing-shut-down.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![iPhone Power off screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/iphone-power-off-screen.png)
 
-<!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Close
+
+<!-- affiliate ads begin -->
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How to Restart an iPhone Using Siri
 
@@ -117,10 +124,10 @@ Close
 ![using siri to restart iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/muo-in-article-image-1200px-by-600px-21-ratio-23.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How Often Should You Restart Your iPhone?
@@ -128,13 +135,6 @@ Close
  The opinion on this varies from person to person. Some people don't restart their devices for weeks, while others frequently restart them. Most users perform a restart when their [iPhone feels slow](https://www.makeuseof.com/how-to-fix-slow-iphone/) , their [iPhone apps keep crashing](https://www.makeuseof.com/tag/iphone-ios-apps-keep-crashing-try-fixes/) , and the overall performance feels sluggish.
 
  For the best iPhone experience, you should restart your iPhone at least once every week. If you do it every three days, that's even better. This gives the device a chance to shut down and cool off. Plus, temporary files are cleared, minor issues are fixed automatically, and you'll probably face fewer situations where you need to [force stop apps on your iPhone](https://www.makeuseof.com/should-you-force-stop-apps-on-your-phone/) .
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Force Restart When a Normal Restart Doesn't Work
 
@@ -157,19 +157,22 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/new-comedy-kings-and-queens-of-2023-for-2024/"><u>[New] Comedy Kings & Queens of 2023 for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-master-the-craft-powerdirector-2024-complete-guide-and-reviews/"><u>[New] Master the Craft PowerDirector 2024 Complete Guide & Reviews</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/delete-gmail-account-withwithout-password-on-xiaomi-redmi-a2-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Xiaomi Redmi A2</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fixing-heat-issues-on-iphones-and-ipads-expert-tips-for-comfortable-use/"><u>Fixing Heat Issues on iPhones and iPads - Expert Tips for Comfortable Use</u></a></li>
-<li><a href="https://techidaily.com/hard-resetting-an-samsung-galaxy-a34-5g-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Samsung Galaxy A34 5G Device Made Easy | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-fix-an-iphone-when-the-proximity-sensor-malfunctions/"><u>How to Fix an iPhone When the Proximity Sensor Malfunctions</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-critical-approaches-to-documenting-youtube-live-video/"><u>In 2024, Critical Approaches to Documenting Youtube LIVE Video</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/labor-landscapes-altered-by-ais-advances/"><u>Labor Landscapes Altered by AI's Advances</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solution-steps-fixing-nonfunctional-alarms-on-your-ios-device/"><u>Solution Steps: Fixing Nonfunctional Alarms on Your iOS Device</u></a></li>
-<li><a href="https://win-blog.techidaily.com/step-by-step-guide-adding-a-watermark-or-emblem-to-your-videos-on-windows-and-mac/"><u>Step-by-Step Guide: Adding a Watermark or Emblem to Your Videos on Windows & Mac</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/top-15-apps-to-hack-wifi-password-on-oppo-find-x7-ultra-by-drfone-android/"><u>Top 15 Apps To Hack WiFi Password On Oppo Find X7 Ultra</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-a-single-non-functioning-airpod-expert-solutions/"><u>Troubleshooting a Single Non-Functioning AirPod: Expert Solutions</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-common-iphone-image-management-challenges-a-comprehensive-guide/"><u>Troubleshooting Common iPhone Image Management Challenges - A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-that.techidaily.com/your-iphone-home-key-stuck-or-broken-try-out-these-5-rapid-remedies/"><u>Your IPhone Home Key Stuck or Broken? Try Out These 5 Rapid Remedies</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-from-chords-to-clicks-mastering-music-on-ig-for-2024/"><u>[New] From Chords to Clicks Mastering Music on IG for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/astering-youtube-metrics-for-earning-livelihoods-for-2024/"><u>[New] Mastering YouTube Metrics for Earning Livelihoods for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-youtube-content-strategies-skyrocket-your-ranking/"><u>[New] YouTube Content Strategies Skyrocket Your Ranking</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-charge-forward-the-best-inspiration-movies/"><u>2024 Approved Charge Forward The Best Inspiration Movies</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/becoming-an-exclusive-guest-on-tiktok-live/"><u>Becoming an Exclusive Guest on TikTok Live</u></a></li>
+<li><a href="https://fox-that.techidaily.com/bring-order-to-your-devices-6-methods-for-reliable-automatic-switching-of-airpods-with-apple-tech/"><u>Bring Order to Your Devices: 6 Methods for Reliable Automatic Switching of AirPods with Apple Tech</u></a></li>
+<li><a href="https://fox-that.techidaily.com/correcting-person-recognition-errors-in-apples-photo-library-a-step-by-step-guide/"><u>Correcting Person Recognition Errors in Apple's Photo Library: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/dive-into-quality-tips-for-shooting-crystal-clear-gopro-video-below-the-surface-for-2024/"><u>Dive Into Quality Tips for Shooting Crystal Clear GoPro Video Below the Surface for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/effective-strategies-for-handling-and-organizing-your-iphone-images/"><u>Effective Strategies for Handling and Organizing Your iPhone Images</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-iphone-control-center-issues-a-step-by-step-guide/"><u>Fixing iPhone Control Center Issues: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/maintaining-privacy-techniques-to-avoid-chatgpt-from-remembering-our-dialogues/"><u>Maintaining Privacy: Techniques to Avoid ChatGPT From Remembering Our Dialogues</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-iphone-ice-age-how-to-restore-functionality-when-it-stops-responding/"><u>Overcoming iPhone Ice Age: How to Restore Functionality When It Stops Responding</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/pc-video-editing-made-easy-a-review-of-vn-editor/"><u>PC Video Editing Made Easy A Review of VN Editor</u></a></li>
+<li><a href="https://fox-that.techidaily.com/smartphone-aid-discovering-the-best-ios-features-for-sight-challenges/"><u>Smartphone Aid: Discovering the Best iOS Features for Sight Challenges</u></a></li>
+<li><a href="https://fox-that.techidaily.com/the-ultimate-fix-for-iphones-struggling-with-line-unavailable-problems-a-comprehensive-guide/"><u>The Ultimate Fix for iPhones Struggling with Line Unavailable Problems: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-9-warnings-that-reveal-water-intrusion-in-your-iphone-device/"><u>Top 9 Warnings That Reveal Water Intrusion in Your iPhone Device</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-resolving-crashes-and-hitches-for-fall-guys-on-desktop/"><u>Troubleshooting Guide: Resolving Crashes & Hitches for Fall Guys on Desktop</u></a></li>
 </ul></div>
 
