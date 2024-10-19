@@ -1,7 +1,7 @@
 ---
 title: Why Won’t My iPhone Back Up to iCloud? Here Are 9 Fixes That Work!
-date: 2024-09-09T11:34:22.778Z
-updated: 2024-09-10T11:34:22.778Z
+date: 2024-10-15T02:29:27.457Z
+updated: 2024-10-18T22:36:48.025Z
 tags:
   - iphone
   - apple
@@ -12,24 +12,12 @@ excerpt: This Article Describes Why Won’t My iPhone Back Up to iCloud? Here Ar
 thumbnail: https://thmb.techidaily.com/c6ca3bbb7e361d13998afa0471cd44f8ca13a46aad1261c352146477c64ee7d5
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Why Won’t My iPhone Back Up to iCloud? Here Are 9 Fixes That Work
 
  It's easy to back up your iPhone. So easy, in fact, that your iPhone normally backs up automatically, so you don't have to do anything. However, this doesn't always go according to plan; sometimes your iPhone fails to back up.
 
  Irrespective of the exact cause, you don't have to do anything too complicated to get your iPhone backing up to iCloud again. You just need to work out what the problem is first, and we're here to help.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Check Your iCloud Settings
 
 ![Settings page for iCloud](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2019/03/appleid_settings.png)
@@ -38,12 +26,6 @@ thumbnail: https://thmb.techidaily.com/c6ca3bbb7e361d13998afa0471cd44f8ca13a46aa
 
 ![Window for activating iCloud Backup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2019/03/start_icloud_backup.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Close
 
  In order to back up to iCloud, you first have to make sure you have the feature switched on. Because if you haven't enabled it, automatic iCloud backups simply won't happen. You'll have to [back up your iPhone](https://www.makeuseof.com/tag/how-to-backup-iphone-ipad/) using iTunes instead.
@@ -59,50 +41,21 @@ To switch on iCloud backups, you should do the following:
 
  By doing this, you'll switch automatic iCloud backups on. As such, you can now back up your iPhone simply by plugging it into a power source and connecting it to Wi-Fi. You also have to make sure that your iPhone is locked.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Check Your Wi-Fi Connection
 
 ![iPhone Settings page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2019/03/iphone_settings-1.png)
 
-<!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Switching on the iPhone's Wi-Fi](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2019/03/wifi_settings.png)
 
 <!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
+  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![Joining a Wi-Fi network](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2019/03/wifi_network_selection.png)
 
-<!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Close
 
  As mentioned, you have to connect your iPhone to a Wi-Fi network to back up to iCloud. You can check whether your iPhone is connected to Wi-Fi by looking in the top-right corner of its screen. If you see the Wi-Fi symbol (which consists of four concentric lines radiating outward), you're fine.
@@ -117,11 +70,12 @@ Close
  You also need to make sure that your iPhone is close enough to your Wi-Fi router. If you're too far away, the Wi-Fi signal might be too weak to complete the backup.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 3\. Connect to a Power Source
 
  You also need to have your iPhone charging to start a backup. In addition to a standard power outlet, you can connect it to a computer if you prefer.
@@ -134,13 +88,14 @@ Close
 
 ![iCloud Storage settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2019/03/icloud_storage.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Delete confirmation prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2019/03/delete_confirmation.png)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close
 
@@ -156,6 +111,13 @@ Here's how to check how much space you have left:
 4. Select**Manage Storage** .
 
  Once on the iCloud Storage page, you might see that you've used up all 5GB of your allotted space. If so, you'll need to take one of two actions.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Making More iCloud Space
 
@@ -179,6 +141,13 @@ This is what you should do:
 
  Here, look for**iCloud Backup** . If you see a green light next to it, everything is working as it should. In other words, your backup issue is due to a problem on your end.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Sign Out of iCloud
 
  You can sometimes solve iPhone backup issues by signing out of your iCloud account, then signing back in. This solves problems related to verification issues.
@@ -197,11 +166,12 @@ Here's how to sign out and back in:
  Once you've signed back in, you should try connecting your iPhone to Wi-Fi and a power source. Hopefully, it will begin backing up to iCloud once locked. You can also try leaving it connected overnight, so that the backup has enough time to finish.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 7\. Restart Your iPhone
 
  Next, you can try restarting your iPhone. This is a simple action, but it resets your iPhone's temporary memory. By doing this, you can sometimes get your iPhone to back up properly again.
@@ -233,16 +203,17 @@ If you have an iPhone 8 or earlier, the process is a bit different:
 
 ![iPhone General settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2019/03/iphone_general_settings.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![iPhone Software Update screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2019/03/software_update.png)
 
 ![Enter password screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2019/03/iphone_password_screen.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115948/19272" target="_top" id="2115948">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115948" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115948/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Close
 
  It's possible that some kind of software bug is preventing your iPhone from backing up to iCloud. Accordingly, you should [update your iPhone to the latest version of iOS](https://www.makeuseof.com/tag/update-iphone-ios-apps-data/) , if a new one is available.
@@ -268,8 +239,6 @@ Here's how you can update:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -277,4 +246,22 @@ Here's how you can update:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-the-10-best-trending-background-music-for-youtube-shorts/"><u>[New] 2024 Approved The 10 Best Trending Background Music for YouTube Shorts</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-irecorder-the-screen-recording-standard/"><u>[Updated] IRecorder The Screen Recording Standard</u></a></li>
+<li><a href="https://win-superb.techidaily.com/2-methods-how-to-upgrade-your-msi-laptop-hard-drive-with-an-ssd/"><u>2 Methods: How to Upgrade Your MSI Laptop Hard Drive with an SSD</u></a></li>
+<li><a href="https://fox-that.techidaily.com/5-effective-solutions-when-chatgpt-wont-work-on-ios-devices/"><u>5 Effective Solutions When ChatGPT Won't Work on iOS Devices</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/did-your-apple-iphone-12-pro-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>Did Your Apple iPhone 12 Pro Passcode Change Itself? Unlock It Now</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-realme-c53-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Realme C53 to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-vivo-y17s-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Vivo Y17s Without PUK Codes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/identifying-a-blocked-contact-a-guide-to-recognizing-when-youre-not-receiving-imessages/"><u>Identifying a Blocked Contact: A Guide to Recognizing When You're Not Receiving iMessages</u></a></li>
+<li><a href="https://driver-install.techidaily.com/implement-nvidia-driver-enhancements-in-your-win11-audio-setup/"><u>Implement NVIDIA Driver Enhancements in Your Win11 Audio Setup</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-microphone-problems-discover-proven-fixes-in-this-guide/"><u>IPhone Microphone Problems? Discover Proven Fixes in This Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/overcoming-issues-with-the-spell-check-feature-in-your-outlook-email-client/"><u>Overcoming Issues with the Spell Check Feature in Your Outlook Email Client</u></a></li>
+<li><a href="https://fox-that.techidaily.com/speedily-solving-stuck-emoji-prediction-on-apple-devices-a-list-of-7-remedies/"><u>Speedily Solving Stuck Emoji Prediction on Apple Devices: A List of 7 Remedies</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-8-tips-to-boost-your-iphones-wi-fi-connectivity-and-speed/"><u>Top 8 Tips to Boost Your iPhone's Wi-Fi Connectivity and Speed</u></a></li>
+<li><a href="https://fox-that.techidaily.com/trouble-linking-up-with-an-iphone-vpn-discover-7-effective-solutions/"><u>Trouble Linking Up with an iPhone VPN? Discover 7 Effective Solutions!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-iphone-screen-time-issues-with-unanticipated-websites-listed/"><u>Troubleshooting iPhone Screen Time Issues with Unanticipated Websites Listed</u></a></li>
+</ul></div>
 

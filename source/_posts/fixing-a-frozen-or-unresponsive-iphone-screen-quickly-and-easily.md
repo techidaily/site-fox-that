@@ -1,7 +1,7 @@
 ---
 title: Fixing a Frozen or Unresponsive iPhone Screen Quickly and Easily
-date: 2024-10-10T06:30:03.175Z
-updated: 2024-10-12T22:34:59.083Z
+date: 2024-10-16T05:20:39.937Z
+updated: 2024-10-19T04:28:38.803Z
 tags:
   - iphone
   - apple
@@ -35,13 +35,6 @@ thumbnail: https://thmb.techidaily.com/e43b0bc66a6afa452744238286fc0843b9dfd431d
 
  If your iPhone was exposed to salt water before it stopped working, then that was most likely the cause of the damage. Salt water is corrosive and, while your phone might have been fine right away, the damage could continue to progress for weeks after exposure.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Is Your Touchscreen Broken or Your LCD Screen?
 
  The iPhone actually has two parts to its screen. The top part is the digitizer and the part underneath is the LCD screen. The digitizer is the touchscreen and the LCD screen displays the contents of your iPhone.
@@ -51,6 +44,13 @@ thumbnail: https://thmb.techidaily.com/e43b0bc66a6afa452744238286fc0843b9dfd431d
  If your LCD screen is out, your iPhone won’t turn on at all and you won’t see anything on your screen. Alternatively, your screen will be blurry or fuzzy or will have some sort of visible damage.
 
  If there’s a problem with your digitizer, there are a few fixes you can try before taking your iPhone to a repair shop. However, if it’s the LCD, you’ll need to start searching for repairs straight away.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Make Sure Touch Accommodations Is Off
 
@@ -67,10 +67,10 @@ If your screen is working, but not correctly, this could be the cause.
  Alternatively, you can click the Side button three times and this will disable it on most newer devices. For older devices, you may need to tap the Home button three times.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Back Up and Factory Reset Your iPhone
@@ -80,6 +80,13 @@ If your screen is working, but not correctly, this could be the cause.
  If turning your iPhone off and on again doesn’t do anything, you’ll need to do a factory reset. Be sure to back up your iPhone before moving forward. If you can use your screen in some way, navigate to**Settings** \>**General** \>**Transfer or Reset iPhone** \>**Erase All Content and Settings** .
 
 ![iphone erase content](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/iphone-erase-content.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you can’t navigate here, you’ll need to plug your iPhone into a computer to perform a factory reset. After resetting, in rare cases, your touchscreen will work again.
 
@@ -104,10 +111,10 @@ If your screen is working, but not correctly, this could be the cause.
  Related:[Learn to Fix Your Own Gadgets With Help From These Sites](https://www.makeuseof.com/tag/fix-gadgets-help-websites/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Using Your iPhone Without a Touchscreen
@@ -123,13 +130,6 @@ If your screen is working, but not correctly, this could be the cause.
  Related:[Where to Fix iPhone Screens for Cheap: Places to Check Out](https://www.makeuseof.com/tag/places-that-fix-iphone-screens-for-cheap/)
 
  To use Voice Control, you should familiarize yourself with the basic commands.[Apple](https://support.apple.com/HT210417) has a full list of these commands on its website.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## iPhone Screen Not Working? These Fixes Should Have Helped
 
@@ -152,20 +152,14 @@ If your screen is working, but not correctly, this could be the cause.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/updated-laughing-legacy-laborer/"><u>[Updated] Laughing Legacy Laborer</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-top-audio-booster-apps-to-quicken-playback/"><u>[Updated] Top Audio Booster Apps to Quicken Playback</u></a></li>
-<li><a href="https://fox-that.techidaily.com/beating-iphone-n-th-3-annoyances-a-comprehensive-guide-to-troubleshooting/"><u>Beating iPhone N Th-3 Annoyances: A Comprehensive Guide to Troubleshooting</u></a></li>
-<li><a href="https://fox-that.techidaily.com/bypass-the-blur-effective-fixes-for-muted-icloud-settings-on-your-apple-device/"><u>Bypass the Blur: Effective Fixes for Muted iCloud Settings on Your Apple Device</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722873353061-deciphering-the-tech-buzz-samsung-galaxy-s25-pricing-launch-date-and-advanced-features/"><u>Deciphering the Tech Buzz: Samsung Galaxy S25 Pricing, Launch Date & Advanced Features</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/deciphering-your-ps4s-led-light-signals-understanding-the-meanings-of-blue-white-red-and-orange/"><u>Deciphering Your PS4's LED Light Signals: Understanding the Meanings of Blue, White, Red & Orange</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/find-the-best-way-to-enhance-cell-signal-in-2amo-top-devices-of-2024/"><u>Find the Best Way to Enhance Cell Signal in 2Amo: Top Devices of 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-resolve-unprovisioned-sim-card-mm-2-errors-effectively/"><u>How to Resolve Unprovisioned SIM Card MM 2 Errors Effectively</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-premier-mic-choices-for-4k-cameras-and-clear-audio-capture/"><u>In 2024, Premier Mic Choices for 4K Cameras & Clear Audio Capture</u></a></li>
-<li><a href="https://fox-that.techidaily.com/iphone-reboot-techniques-solving-stuck-on-logo-problem-in-seven-ways/"><u>IPhone Reboot Techniques: Solving 'Stuck on Logo' Problem in Seven Ways</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolved-issue-troubleshooting-steps-for-playing-monster-hunter-stories-2-wings-of-ruin/"><u>Resolved Issue: Troubleshooting Steps for Playing Monster Hunter Stories 2: Wings of Ruin</u></a></li>
-<li><a href="https://fox-that.techidaily.com/simple-steps-to-freshen-up-your-iphone-without-data-loss/"><u>Simple Steps to Freshen Up Your iPhone Without Data Loss</u></a></li>
-<li><a href="https://fox-that.techidaily.com/the-definitive-iphone-manual-15-must-know-strategies-to-resolve-common-issues-on-any-model/"><u>The Definitive iPhone Manual: 15 Must-Know Strategies to Resolve Common Issues on Any Model</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721480997401-troubleshooting-slow-safari-on-iphone-discover-these-4-quick-fixes/"><u>Troubleshooting Slow Safari on iPhone? Discover These 4 Quick Fixes!</u></a></li>
-<li><a href="https://techidaily.com/unlock-locked-iphone-13-pro-by-restoring-it-to-default-settings-by-drfone-ios-unlock-ios-unlock/"><u>Unlock locked iPhone 13 Pro by restoring it to default settings</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721469273944-12-quick-fixes-for-a-broken-iphone-flashlight-get-light-back-in-seconds/"><u>12 Quick Fixes for a Broken iPhone Flashlight – Get Light Back in Seconds!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721471285610-fix-your-iphones-missing-voicemail-in-just-9-simple-ways/"><u>Fix Your iPhone's Missing Voicemail in Just 9 Simple Ways!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/gratuita-conversao-de-imagens-tga-online-com-o-movavi/"><u>Gratuita Conversão De Imagens TGA Online Com O Movavi</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/in-2024-get-your-hand-on-the-latest-50-youtube-promo-banners/"><u>In 2024, Get Your Hand on the Latest 50 YouTube Promo Banners!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-the-future-emojis-as-investment-guidance-activision-security-breach-and-ais-impact-on-employment/"><u>Navigating the Future: Emojis as Investment Guidance, Activision Security Breach, and AI's Impact on Employment</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721476804182-top-6-frequent-challenges-with-the-iphone-13-solutions-inside/"><u>Top 6 Frequent Challenges with the iPhone 13: Solutions Inside!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-rated-applications-for-viewing-and-analyzing-your-iphones-backup-data/"><u>Top Rated Applications for Viewing and Analyzing Your iPhone's Backup Data</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721449546289-troubleshoot-your-non-functioning-airdrop-with-these-16-essential-techniques/"><u>Troubleshoot Your Non-Functioning AirDrop with These 16 Essential Techniques.</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-truthgpt-coin-legitimate-investment-or-fraud-alert/"><u>Understanding TruthGPT Coin: Legitimate Investment or Fraud Alert?</u></a></li>
 </ul></div>
 

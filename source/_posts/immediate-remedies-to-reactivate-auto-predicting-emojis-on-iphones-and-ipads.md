@@ -1,7 +1,7 @@
 ---
 title: Immediate Remedies to Reactivate Auto-Predicting Emojis on iPhones & iPads
-date: 2024-10-06T21:46:29.982Z
-updated: 2024-10-13T02:06:14.800Z
+date: 2024-10-17T23:15:24.798Z
+updated: 2024-10-18T17:19:36.144Z
 tags:
   - iphone
   - apple
@@ -41,16 +41,23 @@ thumbnail: https://thmb.techidaily.com/81ebff8fdaf42fd74fab3caf1df319bd8e37362bc
 
 ![Add New Keyboard in iPhone General Settings.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/3-add-new-keyboard-in-iphone-general-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Now, make sure the**Predictive** function is enabled. Go back to**Settings > General > Keyboard** , then scroll down and enable the**Predictive** toggle.
 
 ![Predictive option enabled in iPhone settings.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/4-predictive-option-enabled-in-iphone-settings.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Switch to Apple's English Keyboard
 
@@ -61,20 +68,13 @@ thumbnail: https://thmb.techidaily.com/81ebff8fdaf42fd74fab3caf1df319bd8e37362bc
 ![Selecting English keyboard on an iPhone.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/5-selecting-english-keyboard-on-an-iphone.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
-  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Make sure the keyboard language matches what you're typing, otherwise it won't know which emojis to predict.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Feed Your Device With Emojis
 
@@ -83,6 +83,13 @@ thumbnail: https://thmb.techidaily.com/81ebff8fdaf42fd74fab3caf1df319bd8e37362bc
  You need to let your iPhone or iPad know that you like using emojis for it to start predicting them. To do that, open the app that doesn't show you predictive emojis and tap the**Emoji** icon in the bottom-left corner to select the**Emoji** keyboard.
 
 ![Emoji keyboard on an iPhone.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/6-emoji-keyboard-on-an-iphone.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now start typing random emojis. They don't need to make sense, but you need to add enough of them to teach your device that you like using emojis in this app. It could take 20 or more emojis.
 
@@ -94,6 +101,13 @@ thumbnail: https://thmb.techidaily.com/81ebff8fdaf42fd74fab3caf1df319bd8e37362bc
 
  You should repeat this process for every app where predictive emoji is not working.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Reset Your Keyboard Dictionary
 
  If predictive emojis still aren't working, you should try resetting your keyboard dictionary. This will make your iPhone or iPad forget any words you've taught it, so you may need to [fix autocorrect errors on your Apple devices](https://www.makeuseof.com/tag/fix-bad-autocorrect-entries-train-iphone-spell-properly/) again. But it will also give you a clean slate to teach your device that you like using emojis again.
@@ -102,14 +116,14 @@ thumbnail: https://thmb.techidaily.com/81ebff8fdaf42fd74fab3caf1df319bd8e37362bc
 
 ![Reset option in iPhone settings.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/9-reset-option-in-iphone-settings.jpg)
 
- Now go back to the previous step and teach your iPhone or iPad that you like using emojis in all the relevant apps again.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Now go back to the previous step and teach your iPhone or iPad that you like using emojis in all the relevant apps again.
 
 ## 5\. Delete Your Emoji Keyboard
 
@@ -117,21 +131,7 @@ thumbnail: https://thmb.techidaily.com/81ebff8fdaf42fd74fab3caf1df319bd8e37362bc
 
 ![Deleting Emoji keyboard on an iPhone.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/10-deleting-emoji-keyboard-on-an-iphone.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Tap**Add New Keyboard** , then select**Emoji** to add it again.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Restart Your iPhone or iPad
 
@@ -166,16 +166,19 @@ thumbnail: https://thmb.techidaily.com/81ebff8fdaf42fd74fab3caf1df319bd8e37362bc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-frolicsome-media-repository/"><u>[New] In 2024, Frolicsome Media Repository</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-boost-podcast-visibility-through-strategic-seo-tactics/"><u>[Updated] Boost Podcast Visibility Through Strategic SEO Tactics</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-narrative-innovators-academy-elite-list/"><u>[Updated] Narrative Innovators Academy - Elite List</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-virtual-venue-vetting-picking-obs-or-twitch-for-2024/"><u>[Updated] Virtual Venue Vetting Picking OBS or Twitch for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/battle-royale-in-vr-choosing-between-oculus-htc-vive-and-ps-vr/"><u>Battle Royale in VR Choosing Between Oculus, HTC Vive & PS VR</u></a></li>
-<li><a href="https://fox-that.techidaily.com/cant-use-facetime-explore-15-diy-fixes-to-restore-functionality/"><u>Can't Use FaceTime? Explore 15 DIY Fixes to Restore Functionality</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fixing-headphone-glitch-8-effective-ways-to-resolve-iphones-audio-issue/"><u>Fixing Headphone Glitch: 8 Effective Ways to Resolve iPhone's Audio Issue</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-realme-12-pro-5g-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Realme 12 Pro 5G Current Location of a Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/introducing-microsofts-latest-upgrade-artificial-intelligence-for-a-smarter-bing-experience/"><u>Introducing Microsoft’s Latest Upgrade: Artificial Intelligence for a Smarter Bing Experience</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721480680894-issues-with-your-iphones-flashlight-try-these-12-remedies-to-restore-illumination/"><u>Issues with Your iPhone's Flashlight? Try These 12 Remedies to Restore Illumination.</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721468603845-reactivate-and-optimize-your-iphones-voicemail-in-just-nine-easy-ways/"><u>Reactivate and Optimize Your iPhone's Voicemail in Just Nine Easy Ways</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-finding-the-ideal-media-player-vlc-versus-mx-player/"><u>[New] Finding the Ideal Media Player VLC versus MX Player</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-isolating-pictures-from-video-frames-in-photos-app/"><u>[New] Isolating Pictures From Video Frames in Photos App</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-accelerated-artistry-instant-collage-creation-on-fb/"><u>2024 Approved Accelerated Artistry Instant Collage Creation on FB</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-breathe-life-into-stills-slow-video-on-iphone/"><u>2024 Approved Breathe Life Into Stills Slow Video on iPhone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/bypass-common-troubles-with-iphoneipad-widgets-the-fast-fixes-you-need/"><u>Bypass Common Troubles with iPhone/iPad Widgets – The Fast Fixes You Need</u></a></li>
+<li><a href="https://fox-that.techidaily.com/experiencing-continuous-noise-with-airpods-turn-off-dynamic-head-tracking-now/"><u>Experiencing Continuous Noise with AirPods? Turn Off Dynamic Head Tracking Now</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-iphone-voicemail-issues-in-just-9-steps/"><u>Fixing iPhone Voicemail Issues in Just 9 Steps</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-enhance-wi-fi-connectivity-and-speed-on-ios-devices/"><u>How to Enhance Wi-Fi Connectivity and Speed on iOS Devices</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-lava-blaze-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On Lava Blaze Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/in-2024-transform-text-to-trendsetter-with-top-5-tiktok-typography-in-23/"><u>In 2024, Transform Text to Trendsetter with Top 5 TikTok Typography in '23</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-your-iphones-constant-sos-display-discover-these-six-remedies/"><u>Overcoming Your iPhone’s Constant SOS Display – Discover These Six Remedies</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-to-complimentary-driver-updating-applications-july-2024/"><u>The Ultimate Guide to Complimentary Driver Updating Applications (July 2024)</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-unlimited-access-90-day-free-trial-of-final-cut-pro-inside/"><u>Updated In 2024, Unlimited Access 90-Day Free Trial of Final Cut Pro Inside</u></a></li>
+<li><a href="https://fox-that.techidaily.com/what-to-do-if-your-apple-airpod-is-silent-expert-fixes-for-solo-non-working-units/"><u>What To Do If Your Apple AirPod Is Silent? Expert Fixes for Solo Non-Working Units</u></a></li>
 </ul></div>
 

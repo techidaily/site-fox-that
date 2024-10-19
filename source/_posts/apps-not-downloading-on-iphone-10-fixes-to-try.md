@@ -1,7 +1,7 @@
 ---
 title: Apps Not Downloading on iPhone? 10 Fixes to Try
-date: 2024-10-10T00:00:04.322Z
-updated: 2024-10-12T22:33:05.642Z
+date: 2024-10-15T18:18:41.453Z
+updated: 2024-10-19T05:57:12.061Z
 tags:
   - iphone
   - apple
@@ -25,13 +25,6 @@ thumbnail: https://thmb.techidaily.com/272ead7cf67b3a822b77b0890cd7f03854b0d3a76
 
  There are several reasons your iPhone might not let you download any apps, from problems with your internet connection to a lack of storage on your device. Whatever the reason, you can use the troubleshooting steps below to fix it. We've listed them starting with the most common issues, that are the quickest to fix, so just work your way down the list to start downloading apps on your iPhone again.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Test Your Internet Connection
 
 ![Cellular settings with App Store turned on](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2019/12/Cellular-settings-with-App-Store-turned-on.jpg)
@@ -46,15 +39,22 @@ thumbnail: https://thmb.techidaily.com/272ead7cf67b3a822b77b0890cd7f03854b0d3a76
 2. Scroll down to the list of apps and turn on**App Store** .
 3. Then go to**Settings > App Store** , tap**App Downloads** and choose if you want your iPhone to ask permission before downloading apps over 200MB in size.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Make Sure Your Have Enough Free Space
 
 ![iPhone Storage settings showing 30 GB of free space](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2019/12/iPhone-Storage-settings-showing-30-GB-of-free-space.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Internal iPhone storage is not expandable. You can't download new apps on your iPhone if you've already filled up your device with photos, videos, music, and other content.
@@ -64,10 +64,10 @@ When this happens, an alert should pop up saying "Not Enough Storage."
  Go to**Settings > General > iPhone Storage** to see how much free space you have and take a look at which apps are using the most. There are plenty of ways to [create more free space on your iPhone](https://www.makeuseof.com/tag/iphone-storage-full-create-free-space-ios/) if you need to, such as offloading apps, uploading photos to the cloud, or deleting junk that you no longer need. You can do all of this from the iPhone storage settings.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Update Your Apple ID Details
@@ -81,13 +81,6 @@ Update your Apple ID details from the iPhone Settings app:
 1. Go to**Settings** and tap**\[Your Name\]** at the top of the screen.
 2. Tap**Payment & Shipping** to view your payment information.
 3. Lastly, tap**Add Payment Method** to add a payment method, or use**Edit** to edit your existing methods.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Change the Date and Time
 
@@ -120,6 +113,13 @@ To edit your restrictions:
 
 ![Quick Action menu for downloading app with pause and prioritize options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2019/12/Quick-Action-menu-for-downloading-app-with-pause-and-prioritize-options.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Sometimes, if your iPhone won't download apps, all you need to do to fix it is pause the download, then resume it again. You can do this from the Home Screen on your device.
 
  While an app is downloading, it should appear on the Home screen as a darkened app icon with a progress circle in the middle. Tap it to pause the download—causing a pause symbol to appear. Wait a few seconds, then tap it again to resume the download.
@@ -144,16 +144,10 @@ To sign out of the App Store:
 4. Now tap**Media & Purchases** again and sign in with your Apple ID account.
 
 <!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Quit Every App and Restart Your iPhone
@@ -168,6 +162,13 @@ To sign out of the App Store:
 
  Wait 30 seconds after it powers off before pressing the**Side** or**Sleep/Wake** button again to restart it.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 9\. Delete the App, Then Download It Again
 
 ![Delete Minecraft iPhone popup alert](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2019/12/Delete-Minecraft-iPhone-popup-alert.jpg)
@@ -179,13 +180,6 @@ To sign out of the App Store:
  When you want to delete an app from your iPhone, tap and hold the app icon on the Home Screen. In the quick-action menu that appears, tap**Remove App** , then confirm you want to**Delete App** .
 
  After deleting an app, restart your iPhone and download it again from the App Store.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 10\. Make Sure the App Works With Your iPhone
 
@@ -200,10 +194,10 @@ To sign out of the App Store:
  If an app doesn't work with your device, you might need to [update iOS on your iPhone](https://www.makeuseof.com/tag/update-iphone-ios-apps-data/) to the latest available version. This is a good idea even if the app is compatible, since iOS updates often fix problematic software bugs.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Find Ways to Organize Your Downloaded Apps
@@ -227,21 +221,16 @@ To sign out of the App Store:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-haul-videography-101-preparation-and-editing-for-maximum-impact/"><u>[New] In 2024, Haul Videography 101 Preparation & Editing for Maximum Impact</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-high-quality-streaming-choice-go-with-obs-or-fraps/"><u>[Updated] High-Quality Streaming Choice Go With OBS or Fraps?</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-discover-the-undiscovered-top-social-media-memes/"><u>[Updated] In 2024, Discover the Undiscovered Top Social Media Memes</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-guiding-audio-dimming-in-fl-studio/"><u>[Updated] In 2024, Guiding Audio Dimming in FL Studio</u></a></li>
-<li><a href="https://fox-that.techidaily.com/discover-how-to-track-your-elusive-airpods-with-these-11-effective-strategies-in-find-my/"><u>Discover How to Track Your Elusive AirPods with These 11 Effective Strategies in 'Find My'</u></a></li>
-<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-realme-narzo-60x-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Realme Narzo 60x 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-restore-auto-brightness-functionality-on-your-iphone-7-proven-strategies/"><u>How To Restore Auto-Brightness Functionality on Your iPhone: 7 Proven Strategies.</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-samsung-galaxy-m14-5g-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Samsung Galaxy M14 5G | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-nokia-c210-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Nokia C210 to Apple TV | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721477340025-iphone-imessage-woes-discover-how-to-ensure-message-delivery-success/"><u>IPhone iMessage Woes? Discover How to Ensure Message Delivery Success</u></a></li>
-<li><a href="https://fox-that.techidaily.com/iphone-maintenance-guide-15-crucial-steps-to-tackle-issues-on-your-ios-device/"><u>IPhone Maintenance Guide: 15 Crucial Steps to Tackle Issues on Your iOS Device</u></a></li>
-<li><a href="https://fox-that.techidaily.com/issues-with-iphone-speech-recognition-heres-how-you-can-fix-it-in-5-ways/"><u>Issues With iPhone Speech Recognition? Here's How You Can Fix It in 5 Ways</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/mastering-gamers-needs-with-the-asus-zephyrus-g14-a-comprehensive-review/"><u>Mastering Gamers' Needs with the Asus Zephyrus G14 - A Comprehensive Review</u></a></li>
-<li><a href="https://fox-that.techidaily.com/silent-iphone-discover-proven-techniques-to-restore-sound/"><u>Silent iPhone? Discover Proven Techniques to Restore Sound</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-honor-x50i-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Honor X50i Location By Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshoot-an-sos-only-display-on-iphone-discover-six-remedies/"><u>Troubleshoot an 'SOS Only' Display on iPhone: Discover Six Remedies</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-solving-the-yous-problem-seeing-myself-on-social-media/"><u>[Updated] In 2024, Solving the 'You's Problem Seeing Myself on Social Media</u></a></li>
+<li><a href="https://fox-that.techidaily.com/7-reasons-for-slow-wireless-internet-on-phones-and-how-to-fix-them/"><u>7 Reasons for Slow Wireless Internet on Phones and How to Fix Them</u></a></li>
+<li><a href="https://extra-information.techidaily.com/building-an-intriguing-vlog-conversation-guide-for-2024/"><u>Building an Intriguing Vlog Conversation Guide for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/get-siri-back-fixes-for-when-siris-suggestions-stop-appearing-on-ios-devices/"><u>Get Siri Back: Fixes for When Siri's Suggestions Stop Appearing on iOS Devices</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-soundscaping-stories-musical-elements-in-reels/"><u>In 2024, Soundscaping Stories Musical Elements in Reels</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-realme-11-5g-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Realme 11 5G Device</u></a></li>
+<li><a href="https://fox-that.techidaily.com/in-depth-iphone-assessment-through-apples-remote-hardware-testing-protocol/"><u>In-Depth iPhone Assessment Through Apple's Remote Hardware Testing Protocol</u></a></li>
+<li><a href="https://games-able.techidaily.com/master-the-ps5-with-non-standard-input-devices/"><u>Master The PS5 with Non-Standard Input Devices</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/spruce-up-your-stories-with-effortless-animated-text-techniques-for-2024/"><u>Spruce Up Your Stories With Effortless Animated Text Techniques for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-faceid-issues-top-14-solutions-if-its-down-on-your-iphone/"><u>Troubleshooting FaceID Issues: Top 14 Solutions if It's Down on Your iPhone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlock-the-mystery-of-your-iphone-stuck-on-hold-when-charging-8-tips-to-try/"><u>Unlock the Mystery of Your iPhone Stuck on Hold When Charging - 8 Tips to Try</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Overcome WhatsApp's Unintended Zoom Bug with These Easy Fixes
-date: 2024-10-11T17:23:59.770Z
-updated: 2024-10-13T02:43:05.405Z
+date: 2024-10-15T21:04:32.473Z
+updated: 2024-10-18T19:07:36.036Z
 tags:
   - iphone
   - apple
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/b82cd99f90316be66a3cb4e32afffb71769b5f64e
 
  If there is a backend issue, WhatsApp will investigate it, and all you need to do is wait. However, if the problem lies solely with you, you can begin applying the fixes listed below.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Rule Out Hardware Issues
 
  First, rule out hardware issues to ensure a problem with the hardware isn't causing the camera to appear zoomed-in on WhatsApp. For that, perform the following checks:
@@ -53,13 +60,6 @@ thumbnail: https://thmb.techidaily.com/b82cd99f90316be66a3cb4e32afffb71769b5f64e
 * Re-login to your WhatsApp account after logging out.
 
  If the above checks do not resolve the problem, continue applying the remaining fixes.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Opt-Out of Beta Testing (for Android)
 
@@ -84,10 +84,10 @@ Close
  Hopefully, opting out of WhatsApp Messenger (Beta) will resolve the issue. If not, move on to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Ensure Your Device Has Enough Storage
@@ -107,13 +107,6 @@ Follow the below steps to update WhatsApp Messenger on Android:
 
 ![Visiting the WhatsApp Messenger’s Download Page on Google Play Store on Android](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Image-1-.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![WhatsApp App Got Updated in Google Play Store on Android](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Image-2-.jpg)
 
 Close
@@ -129,14 +122,14 @@ Follow these steps to update WhatsApp Messenger on iOS:
 
 ![Selecting WhatsApp from the List of Apps with Updates Available in the App Store on iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Image-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Clicking on Update Button Next to WhatsApp in the App Store on iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Image-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close
 
@@ -155,17 +148,31 @@ To clear the WhatsApp cache on Android, follow these steps:
 ![Opening the Apps Option in the Settings App for Android](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/1-Opening-the-Apps-Option-in-the-Settings-App-for-Android.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Selecting WhatsApp from the List of Installed Apps in the Settings App for Android](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/2-Selecting-WhatsApp-from-the-List-of-Installed-Apps-in-the-Settings-App-for-Android.jpg)
 
 ![Clicking on the Storage Settings under WhatsApp’s App Info Tab in Settings App for Android](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/3-Clicking-on-the-Storage-Settings-under-WhatsApp’s-App-Info-Tab-in-Settings-App-for-Android.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Clearing Cache by Clicking on the Clear Cache Button in the Bottom-Right Corner under Storage Option in Settings App for Android](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/4-Clearing-Cache-by-Clicking-on-the-Clear-Cache-Button-in-the-Bottom-Right-Corner-under-Storage-Option-in-Settings-App-for-Android.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close
 
@@ -180,23 +187,23 @@ To clear the WhatsApp cache on iOS, follow these steps:
 
 ![Clicking on the iPhone Storage Option in the General Tab in Settings App for iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/2-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Selecting WhatsApp from the List of Installed Apps in the Storage Tab in Settings App for iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/3-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Clicking on Offload App Button Right Below WhatsApp in Settings App for iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/4-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Close
 
@@ -209,13 +216,6 @@ If clearing the cache doesn't help, move on to the next step.
 ## 8\. Use the Camera App to Take Photos Instead
 
  Hopefully, reinstalling the app will resolve the issue. But if it doesn't, try using the mobile camera app instead. This way, you can capture the perfect shots and share them directly on your status or to your contacts without using the WhatsApp built-in camera interface.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Capture the Perfect Shots Within WhatsApp
 
@@ -238,22 +238,24 @@ If clearing the cache doesn't help, move on to the next step.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-cutting-edge-text-motion-designs-for-2024/"><u>[New] Cutting-Edge Text Motion Designs for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-pros-picks-best-10-terraria-mods/"><u>[New] In 2024, Pro's Picks Best 10 Terraria Mods</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-hidden-gems-top-8-private-video-downloaders/"><u>[Updated] Hidden Gems Top 8 Private Video Downloaders</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-rise-of-remote-therapeutic-platforms/"><u>[Updated] The Rise of Remote Therapeutic Platforms</u></a></li>
-<li><a href="https://fox-that.techidaily.com/cant-see-your-iphone-app-discover-the-steps-to-retrieve-deleted-programs/"><u>Can't See Your iPhone App? Discover the Steps to Retrieve Deleted Programs</u></a></li>
-<li><a href="https://fox-that.techidaily.com/correcting-inconsistent-web-browsing-data-in-iphones-screen-time-feature/"><u>Correcting Inconsistent Web Browsing Data in iPhone's Screen Time Feature</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fixing-issues-ensuring-seamless-functionality-of-non-endorsed-iphone-extras/"><u>Fixing Issues: Ensuring Seamless Functionality of Non-Endorsed iPhone Extras</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721448901924-home-button-troubles-on-your-iphone-here-are-5-fast-solutions/"><u>Home Button Troubles on Your iPhone? Here Are 5 Fast Solutions!</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-google-pixel-7a-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Google Pixel 7a? | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-seamless-adjustment-for-videos-and-graphics/"><u>In 2024, Seamless Adjustment for Videos and Graphics</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/izing-engagement-avoiding-common-youtube-thumbnail-errors/"><u>Maximizing Engagement Avoiding Common YouTube Thumbnail Errors</u></a></li>
-<li><a href="https://fox-that.techidaily.com/overcoming-iphone-error-14-practical-solutions-and-expert-advice/"><u>Overcoming iPhone Error 14: Practical Solutions and Expert Advice</u></a></li>
-<li><a href="https://fox-that.techidaily.com/resolve-your-iphone-control-center-malfunctions-with-this-comprehensive-step-by-step-guide/"><u>Resolve Your iPhone Control Center Malfunctions with This Comprehensive Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solution-steps-for-iphones-with-stagnant-email-update-problems/"><u>Solution Steps for iPhones with Stagnant Email Update Problems</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-oppo-k11x-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Oppo K11x Device</u></a></li>
-<li><a href="https://fox-that.techidaily.com/ultimate-fixes-what-to-do-when-your-iphone-misses-a-call/"><u>Ultimate Fixes: What To Do When Your iPhone Misses a Call</u></a></li>
-<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-nokia-g22-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Nokia G22 | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-mastering-panoramic-photography-with-a-fisheye-effect/"><u>[New] 2024 Approved Mastering Panoramic Photography with a Fisheye Effect</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/he-journey-of-a-youtube-video-from-creation-to-live-streaming-for-2024/"><u>[New] The Journey of a YouTube Video From Creation to Live Streaming for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-masterful-methods-for-adding-melodies-to-ig-media/"><u>[Updated] In 2024, Masterful Methods for Adding Melodies to IG Media</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-top-12-interactive-pc-adventures-to-boost-your-clicking/"><u>[Updated] Top 12 Interactive PC Adventures to Boost Your Clicking</u></a></li>
+<li><a href="https://fox-that.techidaily.com/apple-wont-accept-my-creditdebit-here-are-6-fixes/"><u>Apple Won't Accept My Credit/Debit? Here Are 6 Fixes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/best-ways-to-tackle-the-7-biggest-headaches-with-your-iphone-x/"><u>Best Ways to Tackle the 7 Biggest Headaches with Your iPhone X</u></a></li>
+<li><a href="https://fox-that.techidaily.com/get-your-iphone-light-back-on-track-12-problem-solving-methods/"><u>Get Your iPhone Light Back on Track: 12 Problem-Solving Methods</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-correctly-address-lameencdll-malfunctions-when-recording-with-audacity/"><u>How To Correctly Address lame_enc.dll Malfunctions When Recording with Audacity</u></a></li>
+<li><a href="https://fox-that.techidaily.com/imessage-disappearing-act-heres-what-it-means-and-how-to-check-for-a-block/"><u>IMessage Disappearing Act? Here’s What It Means and How to Check for a Block</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-deciding-on-itop-recorder-an-indispensable-tool/"><u>In 2024, Deciding on ITop Recorder - An Indispensable Tool?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/navigating-the-offline-feature-on-find-my-iphone-how-to-retrieve-your-lost-phone/"><u>Navigating the Offline Feature on Find My iPhone – How to Retrieve Your Lost Phone</u></a></li>
+<li><a href="https://windows11.techidaily.com/path-to-start-driver-verifier-toolset-in-windows-11/"><u>Path to Start Driver Verifier Toolset in Windows 11</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/quick-fix-resolve-bluestacks-app-failures-in-just-five-simple-steps/"><u>Quick Fix: Resolve BlueStacks App Failures in Just Five Simple Steps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quickening-steam-download-speed-on-your-windows-system/"><u>Quickening Steam Download Speed on Your Windows System</u></a></li>
+<li><a href="https://fox-that.techidaily.com/revive-your-iphone-from-troubled-times-a-step-by-step-dfu-mode-guide-to-fixing-5-common-issues/"><u>Revive Your iPhone From Troubled Times: A Step-by-Step DFU Mode Guide to Fixing 5 Common Issues</u></a></li>
+<li><a href="https://fox-that.techidaily.com/speedily-restore-your-ios-widgets-with-these-10-easy-remedies/"><u>Speedily Restore Your iOS Widgets with These 10 Easy Remedies</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-solution-recovering-access-to-your-forgotten-ipad-lock-screen/"><u>Step-by-Step Solution: Recovering Access to Your Forgotten iPad Lock Screen</u></a></li>
+<li><a href="https://fox-that.techidaily.com/trouble-setting-up-vpn-on-iphone-discover-7-proven-solutions/"><u>Trouble Setting Up VPN on iPhone? Discover 7 Proven Solutions!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/trouble-with-itunes-and-finder-recognizing-your-iphone-heres-how-to-solve-it/"><u>Trouble With iTunes and Finder Recognizing Your iPhone? Here's How to Solve It</u></a></li>
 </ul></div>
 

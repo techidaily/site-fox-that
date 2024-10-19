@@ -1,7 +1,7 @@
 ---
 title: Correcting Problems With the Proximity Detection Function in iPhones
-date: 2024-10-10T21:36:08.093Z
-updated: 2024-10-13T00:02:14.849Z
+date: 2024-10-13T04:37:08.246Z
+updated: 2024-10-18T17:20:14.728Z
 tags:
   - iphone
   - apple
@@ -38,13 +38,6 @@ Here are some things you could do to check if it's working:
 
  Your phone's display should go off In both scenarios. If they don't, you should consult the steps below for troubleshooting.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Steps to Take if Your iPhone's Proximity Sensor Isn't Working
 
  Hardware and software issues could cause this problem. But you could try the steps below in descending order.
@@ -52,6 +45,13 @@ Here are some things you could do to check if it's working:
 1\. Clean the Top Half of the Screen
 
 ![person cleaning a phone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/cleaning-phone.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The most likely culprit is dirt and gunk that has accumulated on the top half of your screen, making it difficult for the emitter or sensor to work. You will run into this issue if you have sweaty or oily skin.
 
@@ -65,6 +65,13 @@ Here are some things you could do to check if it's working:
 
  In this case, you should restart the app first. Merely returning to the Home Screen isn't enough; you must open the App Switcher (learn how to do so in our [iPhone navigation basics](https://www.makeuseof.com/how-to-go-back-get-home-switch-apps-iphone/) guide) and swipe up on the target app's preview. Open the app again and try to use the proximity sensor. You can also try [restarting your iPhone](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) for good measure.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3\. Make Sure Your iPhone Is Up to Date
 
  As an extension of software problems, your iPhone's proximity sensor might act up due to an iOS bug. The only way to completely rule out that possibility is to update your iPhone to the latest iOS version available.
@@ -75,14 +82,14 @@ Here are some things you could do to check if it's working:
 
 ![Software update information on iOS for iOS 16.6](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/software-update-information-on-ios-for-ios-16-6.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Update terms and conditions on iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/update-terms-and-conditions-on-ios.jpeg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close
 
@@ -93,10 +100,10 @@ Close
 ![man applying screen protector to smartphone feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/man-applying-screen-protector-to-smartphone-feature.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Image Credit: Nor Gal/[Shutterstock](https://www.shutterstock.com/image-photo/man-replacing-broken-tempered-glass-screen-1106925758)
@@ -113,13 +120,6 @@ Here's a brief rundown of how to do it:
 4. Pull out the screen protector.
 
  Give the proximity sensor a test to see if that helped. But if you're still out of luck, you have a last-resort option.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 5\. Take Your Phone Back to Apple or an Authorized Service Provider
 
@@ -150,21 +150,21 @@ Here's a brief rundown of how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-adopting-innovations-mask-and-filter-methods-for-google-meet/"><u>[New] In 2024, Adopting Innovations Mask & Filter Methods for Google Meet</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-cutting-edge-360-degree-cameras-for-youtube-and-facebook/"><u>[Updated] Cutting-Edge 360-Degree Cameras for YouTube & Facebook</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-hdr-vs-sdr-a-visual-spectrum-showdown/"><u>[Updated] In 2024, HDR vs SDR A Visual Spectrum Showdown</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-tips-for-making-facebook-ad-videos-memorable/"><u>[Updated] In 2024, Tips for Making Facebook Ad Videos Memorable</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-the-ideal-mac-sniping-software-here-are-5-picks/"><u>2024 Approved The Ideal Mac Sniping Software - Here Are 5 Picks</u></a></li>
-<li><a href="https://fox-that.techidaily.com/comprehensive-tips-for-restoring-iphone-proximity-functionality-common-fixes-explored/"><u>Comprehensive Tips for Restoring iPhone Proximity Functionality: Common Fixes Explored</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/discover-the-ultimate-list-of-accessible-turkish-shows-in-2er-featuring-english-dubs-for-non-turkish-speakers-insights/"><u>Discover the Ultimate List of Accessible Turkish Shows in 2Er, Featuring English Dubs for Non-Turkish Speakers - Insights</u></a></li>
-<li><a href="https://fox-that.techidaily.com/essential-fixes-top-15-solutions-for-any-iphone-issue/"><u>Essential Fixes: Top 15 Solutions for Any iPhone Issue</u></a></li>
-<li><a href="https://fox-that.techidaily.com/essential-iphone-solutions-mastering-15-maintenance-tips-for-every-model/"><u>Essential iPhone Solutions: Mastering 15 Maintenance Tips for Every Model</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/free-download-latest-driver-updates-for-dell-thunderbolt-port-type-tb16/"><u>Free Download: Latest Driver Updates for Dell Thunderbolt Port Type TB16</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-repair-unresponsive-usb-connections-in-windows-11/"><u>How to Repair Unresponsive USB Connections in Windows 11</u></a></li>
-<li><a href="https://fox-that.techidaily.com/overcoming-image-loading-hiccups-in-safari-9-proven-methods-for-iphones/"><u>Overcoming Image Loading Hiccups in Safari: 9 Proven Methods for iPhones</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-guide-get-sound-back-in-your-discord-screenshare/"><u>Troubleshooting Guide: Get Sound Back in Your Discord Screenshare</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-tips-reviving-your-iphones-control-center/"><u>Troubleshooting Tips: Reviving Your iPhone's Control Center</u></a></li>
-<li><a href="https://fox-that.techidaily.com/unlocking-the-secrets-understanding-limitations-of-ios-for-gift-transfers/"><u>Unlocking the Secrets: Understanding Limitations of iOS for Gift Transfers</u></a></li>
-<li><a href="https://fox-that.techidaily.com/unraveling-misidentifications-enhancing-accuracy-in-apples-image-organization-tool/"><u>Unraveling Misidentifications: Enhancing Accuracy in Apple's Image Organization Tool</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-stand-out-yt-thumbnail-size-and-engagement-strategies-for-2024/"><u>[New] How to Stand Out YT Thumbnail Size and Engagement Strategies for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-5-best-full-hd-action-cameras-below-100/"><u>[New] Top 5 Best Full HD Action Cameras Below $100</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-elite-selection-top-9-free-youtube-channel-branding-apps-for-2024/"><u>[Updated] Elite Selection Top 9 Free YouTube Channel Branding Apps for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-premier-cutting-suites-on-linux-systems/"><u>[Updated] Premier Cutting Suites on Linux Systems</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-quickrestore-reviewers-thoughts/"><u>[Updated] QuickRestore Reviewers Thoughts</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/camera-troubles-no-more-with-obs-for-2024/"><u>Camera Troubles No More with OBS for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/clear-vision-effective-methods-to-resolve-iphone-image-blurriness/"><u>Clear Vision: Effective Methods to Resolve iPhone Image Blurriness</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/gopros-best-underwater-enhancement-filters/"><u>GoPro's Best Underwater Enhancement Filters</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-factory-reset-your-iphone-or-ipad/"><u>How to Factory Reset Your iPhone or iPad</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-6-ways-to-transfer-text-messages-from-asus-rog-phone-8-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 6 Ways to Transfer Text Messages from Asus ROG Phone 8 to Other Android Devices | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/missing-iphone-application-discover-methods-to-locate-and-restore-it/"><u>Missing iPhone Application? Discover Methods to Locate and Restore It</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/navigating-the-features-of-mobvoi-ticwatch-pro-3-the-impacts-of-dual-displays-on-gps-precision-and-battery-longevity/"><u>Navigating the Features of Mobvoi TicWatch Pro 3 - The Impacts of Dual Displays on GPS Precision and Battery Longevity</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-common-facetime-issues-a-step-by-step-guide-to-get-it-working-again/"><u>Solving Common FaceTime Issues: A Step-by-Step Guide to Get It Working Again</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-your-iphone-computer-connection-problems-expert-tips-and-tricks/"><u>Solving Your iPhone Computer Connection Problems - Expert Tips & Tricks</u></a></li>
+<li><a href="https://fox-that.techidaily.com/step-by-step-guide-to-restoring-functionality-for-unresponsive-airplay-feature/"><u>Step-by-Step Guide to Restoring Functionality for Unresponsive AirPlay Feature</u></a></li>
+<li><a href="https://fox-that.techidaily.com/the-ultimate-trick-to-locate-your-vanished-or-stolen-iphone-through-find-my-app/"><u>The Ultimate Trick to Locate Your Vanished or Stolen iPhone Through Find My App</u></a></li>
 </ul></div>
 

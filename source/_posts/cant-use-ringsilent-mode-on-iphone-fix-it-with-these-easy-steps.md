@@ -1,7 +1,7 @@
 ---
 title: Can't Use Ring/Silent Mode on iPhone? Fix It with These Easy Steps
-date: 2024-10-08T20:26:33.655Z
-updated: 2024-10-13T05:27:42.652Z
+date: 2024-10-13T22:42:03.371Z
+updated: 2024-10-19T04:28:04.432Z
 tags:
   - iphone
   - apple
@@ -70,15 +70,22 @@ Close
 
 ![customizing AssistiveTouch's top-level menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customizing-assistivetouch-top-level-menu-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![adding a new button to the AssistiveTouch menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customizing-assistivetouch-top-level-menu-3.jpg)
 
 ![selecting Mute action for the new AssistiveTouch button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customizing-assistivetouch-top-level-menu-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Mute action in AssistiveTouch's top-level menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customizing-assistivetouch-top-level-menu-5.jpg)
@@ -86,13 +93,6 @@ Close
 Close
 
  All you need to do now is tap the AssistiveTouch button and hit**Mute** . When you do this, the**Mute** button will change to**Unmute** , and you can tap on it again to unmute the device quickly.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Set Up a Custom Action
 
@@ -105,20 +105,14 @@ Follow these simple instructions to get this done:
 
 ![AssistiveTouch settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/setting-a-custom-action-for-assistivetouch-button-1.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![adding Mute action to Double-Tap gesture](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/setting-a-custom-action-for-assistivetouch-button-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close
 
@@ -138,10 +132,10 @@ Close
 ![Back Tap feature under Touch Accessibility settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-using-back-tap-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Close
@@ -162,10 +156,10 @@ Close
  With certain iPhone cases, especially thicker ones, you might need to tap harder for the iPhone to register your taps and trigger the action.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Broken iPhone Ring/Silent Switch? No Problem
@@ -189,19 +183,19 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-quality-overload-top-10-hd-video-apps-for-your-android/"><u>[Updated] In 2024, Quality Overload Top 10 HD Video Apps for Your Android</u></a></li>
-<li><a href="https://fox-that.techidaily.com/dealing-with-iphone-snapshots-dilemmas-expert-advice-on-management-and-correction/"><u>Dealing with iPhone Snapshots Dilemmas: Expert Advice on Management and Correction</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fixing-iphone-error-14-heres-your-ultimate-guide-to-a-smooth-screen/"><u>Fixing iPhone Error 14? Here's Your Ultimate Guide to a Smooth Screen</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/insights-into-asuss-innovative-rt-ax88u-wi-fi-6-router-features-and-performance-breakdown/"><u>Insights Into Asus's Innovative RT-AX88U Wi-Fi 6 Router – Features and Performance Breakdown</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/limpiar-sus-videos-facilmente-con-el-mejor-editor-gratuito-para-eliminar-partes-indeseadas/"><u>Limpiar Sus Videos Fácilmente Con El Mejor Editor Gratuito Para Eliminar Partes Indeseadas</u></a></li>
-<li><a href="https://blog-min.techidaily.com/mejores-monitores-de-edicion-de-video-del-ano-2cuatro-guia-comparativa-de-modelos-optimos-y-budget-friendly/"><u>Mejores Monitores De Edición De Vídeo Del Año 2Cuatro: Guía Comparativa De Modelos Óptimos Y Budget-Friendly</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1722143239568-redefine-mobile-browsing-bings-intelligent-search-now-available/"><u>Redefine Mobile Browsing - Bing's Intelligent Search Now Available.</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/revolutionize-routine-hr-responsibilities-discover-5-smart-prompt-strategies/"><u>Revolutionize Routine HR Responsibilities: Discover 5 Smart Prompt Strategies</u></a></li>
-<li><a href="https://fox-that.techidaily.com/silent-iphone-solve-the-no-sound-dilemma-with-these-easy-steps/"><u>Silent iPhone: Solve the No-Sound Dilemma with These Easy Steps</u></a></li>
-<li><a href="https://fox-that.techidaily.com/slow-mobile-data-woes-accelerate-with-these-simple-strategies/"><u>Slow Mobile Data Woes? Accelerate with These Simple Strategies</u></a></li>
-<li><a href="https://fox-that.techidaily.com/thought-you-lost-those-precious-iphone-photos-think-again-uncover-hidden-spaces-and-8-fixes/"><u>Thought You Lost Those Precious iPhone Photos? Think Again: Uncover Hidden Spaces and 8 Fixes</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/top-rated-laptop-coolers-for-optimal-performance/"><u>Top-Rated Laptop Coolers for Optimal Performance</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-honor-x50i-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Honor X50i | Dr.fone</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/windows-pc3/"><u>Windows オペレーティングシステム搭載ノートPCを工場出荷状態に復元する3つの手法</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/remier-livestream-capture-software-for-video-bards-for-2024/"><u>[New] Premier Livestream Capture Software For Video Bards for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-trilltones-techniques-how-to-cut-and-download-tamil-songs/"><u>[Updated] TrillTones Techniques How to Cut and Download Tamil Songs</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-x-digital-editor-pc-compatibility/"><u>2024 Approved X-Digital Editor PC Compatibility</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-lava-agni-2-5g-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Lava Agni 2 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/convert-your-blu-ray-discs-into-high-quality-mp3-files-easy-steps-and-tips/"><u>Convert Your Blu-Ray Discs Into High-Quality MP3 Files: Easy Steps and Tips</u></a></li>
+<li><a href="https://some-tips.techidaily.com/guia-paso-a-paso-para-convertir-videos-flv-en-formatos-de-audio-mp3-gratuitamente-mediante-movavi/"><u>Guía Paso a Paso Para Convertir Videos FLV en Formatos De Audio MP3 Gratuitamente Mediante Movavi</u></a></li>
+<li><a href="https://driver-download.techidaily.com/hassle-free-easily-find-and-download-brother-printer-drivers/"><u>Hassle-Free: Easily Find and Download Brother Printer Drivers</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-common-glitches-a-guide-to-fixing-your-iphone-13s-main-issues/"><u>Overcoming Common Glitches: A Guide to Fixing Your iPhone 13'S Main Issues</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/pioneering-the-future-revolutionary-technique-for-building-three-dimensional-chip-circuits-through-advanced/"><u>Pioneering the Future: Revolutionary Technique for Building Three-Dimensional Chip Circuits Through Advanced</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-your-whatsapp-zoom-issue-a-step-by-step-guide/"><u>Solving Your WhatsApp Zoom Issue: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721479739724-struggling-with-iphone-pc-pairing-problems-discover-the-fix-now/"><u>Struggling with iPhone-PC Pairing Problems? Discover The Fix Now</u></a></li>
+<li><a href="https://fox-that.techidaily.com/the-journey-of-facetime-pictures-understanding-their-storage-location/"><u>The Journey of FaceTime Pictures: Understanding Their Storage Location</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-tier-performance-tested-a-detailed-overview-of-the-corsair-one-pro-for-gamers/"><u>Top-Tier Performance Tested: A Detailed Overview of the Corsair One Pro for Gamers</u></a></li>
+<li><a href="https://fox-that.techidaily.com/understanding-iphone-14s-battery-life-tips-and-troubleshooting-guide/"><u>Understanding iPhone 14'S Battery Life: Tips & Troubleshooting Guide</u></a></li>
 </ul></div>
 

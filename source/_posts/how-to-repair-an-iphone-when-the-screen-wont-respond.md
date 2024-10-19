@@ -1,7 +1,7 @@
 ---
 title: How to Repair an Iphone When the Screen Won't Respond?
-date: 2024-10-06T21:33:19.605Z
-updated: 2024-10-13T03:53:29.049Z
+date: 2024-10-15T02:02:43.509Z
+updated: 2024-10-19T05:58:04.347Z
 tags:
   - iphone
   - apple
@@ -55,15 +55,22 @@ If your screen is working, but not correctly, this could be the cause.
 
 ![iphone touch accommodations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/iphone-touch-accommodations.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you’re having a hard time navigating there because of the dodgy touchscreen, just activate Siri and say “Turn off Touch Accommodations.”
 
  Alternatively, you can click the Side button three times and this will disable it on most newer devices. For older devices, you may need to tap the Home button three times.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Back Up and Factory Reset Your iPhone
@@ -79,6 +86,13 @@ If your screen is working, but not correctly, this could be the cause.
  Related:[How to Factory Reset Your iPhone or iPad](https://www.makeuseof.com/tag/how-to-factory-reset-iphone-ipad/)
 
  If you do choose to get your iPhone repaired, you’ll most likely need to do this anyway. This ensures that the technician won’t be able to access your personal data. They may also need to test Face ID to make sure the repair worked and will need the phone to be unlocked to do so, which means you’re better off erasing all your data first.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Getting Your iPhone Screen Repaired
 
@@ -96,13 +110,6 @@ If your screen is working, but not correctly, this could be the cause.
 
  Related:[Learn to Fix Your Own Gadgets With Help From These Sites](https://www.makeuseof.com/tag/fix-gadgets-help-websites/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Using Your iPhone Without a Touchscreen
 
  If your iPhone isn’t working but you need to access certain files, you can still do that. To do so, you’ll need to activate Voice Control. This can be helpful for backing up and restoring your iPhone.
@@ -112,16 +119,10 @@ If your screen is working, but not correctly, this could be the cause.
 ![iphone voice control](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/iphone-voice-control.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If Siri’s enabled, you can enable Voice Control by saying “Hey Siri, turn on Voice Control.” Once enabled, you can access your iPhone without using the touchscreen.
@@ -129,13 +130,6 @@ If your screen is working, but not correctly, this could be the cause.
  Related:[Where to Fix iPhone Screens for Cheap: Places to Check Out](https://www.makeuseof.com/tag/places-that-fix-iphone-screens-for-cheap/)
 
  To use Voice Control, you should familiarize yourself with the basic commands.[Apple](https://support.apple.com/HT210417) has a full list of these commands on its website.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## iPhone Screen Not Working? These Fixes Should Have Helped
 
@@ -158,18 +152,20 @@ If your screen is working, but not correctly, this could be the cause.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-unlocking-viewership-steps-for-your-video-to-be-a-top-pick-on-vimeo/"><u>[New] Unlocking Viewership Steps for Your Video to Be a Top Pick on Vimeo</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-free-skype-recording-made-easy-mp3-edition-for-2024/"><u>[Updated] Free Skype Recording Made Easy - MP3 Edition for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-mastering-quick-video-pace-adjustments-on-youtube-for-2024/"><u>[Updated] Mastering Quick Video Pace Adjustments on YouTube for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-oneplus-ace-2v-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your OnePlus Ace 2V | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/eradicate-ghost-touch-problems-on-iphones-with-these-10-strategies/"><u>Eradicate Ghost Touch Problems on iPhones with These 10 Strategies</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Vivo Y200e 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721481122717-iphone-iconography-gone-discover-effective-ways-to-reclaim-them/"><u>IPhone Iconography Gone? Discover Effective Ways to Reclaim Them</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/sim-unlock-samsung-galaxy-z-flip-5-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Samsung Galaxy Z Flip 5 Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
-<li><a href="https://fox-that.techidaily.com/smoothen-your-insta-experience-6-effective-fixes-for-lag-issues-across-devices/"><u>Smoothen Your Insta Experience: 6 Effective Fixes for Lag Issues Across Devices</u></a></li>
-<li><a href="https://fox-that.techidaily.com/top-7-solutions-for-unsticking-your-iphone-from-the-apple-startup-screen/"><u>Top 7 Solutions for Unsticking Your iPhone From the Apple Startup Screen</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-solving-the-corsair-icue-compatibility-issues-in-windows-11/"><u>Troubleshooting Guide: Solving the Corsair iCUE Compatibility Issues in Windows 11</u></a></li>
-<li><a href="https://fox-that.techidaily.com/uncovering-aqua-alerts-a-guide-to-the-9-most-common-signs-of-your-iphones-watery-woes/"><u>Uncovering Aqua Alerts: A Guide to the 9 Most Common Signs of Your iPhone's Watery Woes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-startup-essentials-a-step-by-step-guide/"><u>Windows Startup Essentials: A Step-by-Step Guide</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-dive-into-digital-fandom-top-6-interactive-questionnaires-to-identify-your-youtube-spirituality/"><u>[New] 2024 Approved Dive Into Digital Fandom Top 6 Interactive Questionnaires to Identify Your YouTube Spirituality</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-the-quick-and-easy-sharing-of-creative-content-for-2024/"><u>[Updated] The Quick and Easy Sharing of Creative Content for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/a-step-by-step-guide-to-reactivate-grayed-out-icloud-settings-in-ios/"><u>A Step-by-Step Guide to Reactivate Grayed-Out iCloud Settings in iOS</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-t-view-hevc-h-265-content-on-galaxy-a54-5g-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Can’t view HEVC H.265 content on Galaxy A54 5G</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723007338922-fixing-pc-issues-stop-red-dead-online-from-crashing/"><u>Fixing PC Issues: Stop Red Dead Online From Crashing!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722993587867-how-to-solve-silent-twitch-stream-problems-now-working/"><u>How to Solve Silent Twitch Stream Problems – Now Working</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-discover-the-joy-of-real-time-broadcasting-with-fb-and-roku/"><u>In 2024, Discover the Joy of Real-Time Broadcasting with FB & Roku</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-simple-guide-youtube-to-mp3-on-mac/"><u>In 2024, Simple Guide YouTube to MP3 on Mac,</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-qr-scanner-issues-here-are-10-fixes-that-work/"><u>IPhone QR Scanner Issues? Here Are 10 Fixes That Work</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-texting-issues-discover-10-effective-remedies-to-restore-sms-functionality/"><u>IPhone Texting Issues? Discover 10 Effective Remedies to Restore SMS Functionality</u></a></li>
+<li><a href="https://fox-that.techidaily.com/lost-iphone-application-discover-steps-to-retrieve-vanished-apps/"><u>Lost iPhone Application? Discover Steps to Retrieve Vanished Apps</u></a></li>
+<li><a href="https://fox-that.techidaily.com/qr-code-scanning-problems-on-iphones-solved-find-your-way-with-our-8-tips/"><u>QR Code Scanning Problems on iPhones Solved: Find Your Way with Our 8 Tips</u></a></li>
+<li><a href="https://fox-that.techidaily.com/step-by-step-guide-performing-a-complete-restore-on-your-iphoneipad/"><u>Step-by-Step Guide: Performing a Complete Restore on Your iPhone/iPad</u></a></li>
+<li><a href="https://fox-that.techidaily.com/surprisingly-your-vanished-iphone-images-may-still-live-in-the-cloud-discover-how/"><u>Surprisingly, Your Vanished iPhone Images May Still Live in the Cloud! Discover How</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On HTC U23 Pro | Dr.fone</u></a></li>
 </ul></div>
 
