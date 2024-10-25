@@ -1,7 +1,7 @@
 ---
 title: "Unstuck Your Family Sharing: Essential Steps & Quick Fixes You Must Try"
-date: 2024-10-14T18:57:54.179Z
-updated: 2024-10-18T18:47:32.740Z
+date: 2024-10-21T16:31:08.222Z
+updated: 2024-10-24T17:37:51.021Z
 tags:
   - iphone
   - apple
@@ -34,16 +34,10 @@ thumbnail: https://thmb.techidaily.com/99663f80a681577ef6d172804500e3555c286bc17
  This will hardly be the culprit, but it's worth checking before going into the more detailed fixes.
 
 <!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Turn on Purchase Sharing and Share With Family
@@ -61,35 +55,15 @@ Here's how to turn it on using an iPhone or iPad:
 
 ![Family menu on iOS 16 Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/1.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Family purchase sharing prompt screen on iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/2.jpeg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Purchase Sharing menu displaying payment options and family members on iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/3-1.jpeg)
 
 <!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Close
@@ -136,10 +110,10 @@ Here's a quick way to do it on your browser:
 ![Prompt to confirm Media & Purchases sign out on iOS Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/3-2.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Close
@@ -156,6 +130,13 @@ Close
 
 ![iOS Apple ID menu in Settings displaying Sign Out button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/1-ios-apple-id-menu-in-settings-displaying-sign-out-button.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Prompt to enter Apple ID password](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/2-prompt-to-enter-apple-id-password.jpeg)
 
 ![iOS Settings with Apple ID signed out](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/ios-settings-with-apple-id-signed-out.jpeg)
@@ -171,21 +152,7 @@ If the problematic device is a Mac, do this instead:
 
 ![System Settings Apple ID page displaying sign out button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/system-settings-apple-id-page-displaying-sign-out-button.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  This should refresh the App Store and other apps, and it should now recognize that the signed-in Apple ID has access to the shared subscriptions.
-
-<!-- affiliate ads begin -->
-<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
-  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Add the Family Member Again
 
@@ -199,7 +166,21 @@ Here's how to do it on iOS and iPadOS:
 
 ![Family menu on iOS 16 Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/1.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Faizah's Family menu displaying option to Remove Faizah from Family](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/faizah-s-family-menu-displaying-option-to-remove-faizah-from-family.jpeg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close
 
@@ -212,6 +193,13 @@ If you're on a Mac, follow these steps instead:
 ![Family member sub-window in System Settings on macOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/family-member-sub-window-in-system-settings-on-macos.jpeg)
 
  If you want to learn more about managing your family members, you can read our guide on [how to stop using Apple Family](https://www.makeuseof.com/how-to-stop-apple-family-sharing-or-remove-members/) .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Check Payments if All Else Fails
 
@@ -236,21 +224,22 @@ If you're on a Mac, follow these steps instead:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-examining-usb-type-cs-impact-on-modern-display-technology/"><u>[New] Examining USB Type-C's Impact on Modern Display Technology</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-elevate-content-impact-exclusive-access-to-the-best-20-tiktok-caption-hacks/"><u>[Updated] Elevate Content Impact Exclusive Access to the Best 20 TikTok Caption Hacks</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fix-your-non-functional-widgets-in-just-10-easy-steps-iphone-and-ipad/"><u>Fix Your Non-Functional Widgets in Just 10 Easy Steps – iPhone and iPad</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722873828096-get-more-from-your-phone-premium-verizon-upgrade-deals-available-now/"><u>Get More From Your Phone: Premium Verizon Upgrade Deals Available Now!</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-repair-broken-volume-buttons-on-your-iphone-with-these-7-methods/"><u>How to Repair Broken Volume Buttons on Your iPhone with These 7 Methods</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-songcutter-pro-turning-tamil-tracks-into-call-alerts/"><u>In 2024, SongCutter Pro Turning Tamil Tracks Into Call Alerts</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/install-new-driver-for-canon-pixma-ts3322-secure-your-free-downloads-today/"><u>Install New Driver for Canon PIXMA TS3322 – Secure Your Free Downloads Today!</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/1723007307644-insurgency-update-say-goodbye-to-sandstorm-crashing-problems/"><u>Insurgency Update: Say Goodbye to Sandstorm Crashing Problems</u></a></li>
-<li><a href="https://fox-that.techidaily.com/iphones-wi-fi-charge-woes-discover-7-effective-fixes/"><u>IPhone's Wi-Fi Charge Woes? Discover 7 Effective Fixes</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-windows-11-a-step-by-step-guide-to-overcoming-hosted-network-issues/"><u>Mastering Windows 11: A Step-by-Step Guide to Overcoming Hosted Network Issues</u></a></li>
-<li><a href="https://fox-that.techidaily.com/protect-your-iphone-from-liquid-damage-remedies-for-liquid-detected-in-connector/"><u>Protect Your iPhone From Liquid Damage – Remedies for 'Liquid Detected in Connector'</u></a></li>
-<li><a href="https://fox-that.techidaily.com/reviving-frozen-ios-update-installations-a-step-by-nstep-approach/"><u>Reviving Frozen iOS Update Installations - A Step-by-nStep Approach</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/secure-methods-for-retrieving-deletion-proof-images-from-your-iphone/"><u>Secure Methods for Retrieving Deletion-Proof Images From Your iPhone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/steps-to-recover-lost-apple-calendar-events-on-an-iphone-device/"><u>Steps to Recover Lost Apple Calendar Events on an iPhone Device</u></a></li>
-<li><a href="https://fox-that.techidaily.com/top-eight-fixes-if-your-iphone-or-ipad-wont-connect-to-wi-fi-anymore/"><u>Top Eight Fixes If Your iPhone or iPad Won't Connect to Wi-Fi Anymore</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-reaction-video-software-the-top-5-picks/"><u>Updated In 2024, Reaction Video Software The Top 5 Picks</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-optimize-youtube-for-superior-image-quality-using-av1/"><u>[Updated] Optimize YouTube for Superior Image Quality Using AV1</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-sourcing-free-frame-videos-without-a-dollar-drop/"><u>2024 Approved Sourcing Free Frame Videos Without a Dollar Drop</u></a></li>
+<li><a href="https://fox-that.techidaily.com/airplay-malfunction-heres-how-you-can-get-it-up-and-running-again/"><u>AirPlay Malfunction? Here's How You Can Get It Up and Running Again</u></a></li>
+<li><a href="https://fox-that.techidaily.com/bypassing-error-14-glitches-comprehensive-fix-for-iphone-owners/"><u>Bypassing Error 14 Glitches: Comprehensive Fix for iPhone Owners</u></a></li>
+<li><a href="https://fox-that.techidaily.com/cant-connect-expert-tips-on-reactivating-your-iphone-mobile-hotspot-service/"><u>Can't Connect? Expert Tips on Reactivating Your iPhone Mobile Hotspot Service</u></a></li>
+<li><a href="https://fox-that.techidaily.com/connect-your-iphone-to-your-desktop-effortlessly-a-comprehensive-fix/"><u>Connect Your iPhone to Your Desktop Effortlessly – A Comprehensive Fix!</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/elevate-your-edits-adding-fades-in-pro-video/"><u>Elevate Your Edits Adding Fades in Pro Video</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/from-concept-to-reel-an-extensive-guide-to-video-editing-with-vivacut-2024/"><u>From Concept to Reel An Extensive Guide to Video Editing with VivaCut 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-sharpen-your-iphone-photos-7-effective-tips/"><u>How to Sharpen Your iPhone Photos: 7 Effective Tips</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-budget-buyers-guide-to-drone-tech-under-100/"><u>In 2024, Budget Buyers' Guide to Drone Tech Under $100</u></a></li>
+<li><a href="https://video-capture.techidaily.com/mastering-the-seamless-transition-from-obs-to-facebook-live/"><u>Mastering the Seamless Transition From OBS to Facebook Live</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-make-a-fake-face-online-for-free-top-rated-tools/"><u>New In 2024, Make a Fake Face Online for Free Top Rated Tools</u></a></li>
+<li><a href="https://fox-that.techidaily.com/struggling-with-an-unresponsive-iphone-control-center-try-these-8-proven-fixes/"><u>Struggling with an Unresponsive iPhone Control Center? Try These 8 Proven Fixes</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-secret-behind-beautiful-selfies-discover-the-power-of-quality-ring-lights/"><u>The Secret Behind Beautiful Selfies? Discover the Power of Quality Ring Lights!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-your-family-share-difficulties-essential-tips-and-fixes/"><u>Troubleshoot Your Family Share Difficulties: Essential Tips and Fixes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-tips-restoring-functionality-to-your-broken-iphones-home-button/"><u>Troubleshooting Tips: Restoring Functionality to Your Broken iPhone's Home Button</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-list-the-premier-pc-vr-headsets-of-2023/"><u>Updated List The Premier PC VR Headsets of 2023</u></a></li>
 </ul></div>
 

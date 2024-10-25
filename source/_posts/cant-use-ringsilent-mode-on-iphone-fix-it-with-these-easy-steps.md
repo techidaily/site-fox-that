@@ -1,7 +1,7 @@
 ---
 title: Can't Use Ring/Silent Mode on iPhone? Fix It with These Easy Steps
-date: 2024-10-13T22:42:03.371Z
-updated: 2024-10-19T04:28:04.432Z
+date: 2024-10-19T21:49:41.930Z
+updated: 2024-10-24T18:23:05.484Z
 tags:
   - iphone
   - apple
@@ -54,6 +54,13 @@ Close
 
  So, a better approach would be to customize AssistiveTouch's top-level menu and add the**Mute** option on the main screen. Or, to set up a custom action for AssistiveTouch to mute or unmute the device directly.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Customize the Top Level Menu
 
  AssistiveTouch features six buttons in its Top Level menu by default. However, you can customize the menu to add or remove buttons according to your requirements.
@@ -68,13 +75,32 @@ Close
 
 ![AssistiveTouch settings on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customizing-assistivetouch-top-level-menu-1.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![customizing AssistiveTouch's top-level menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customizing-assistivetouch-top-level-menu-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![adding a new button to the AssistiveTouch menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customizing-assistivetouch-top-level-menu-3.jpg)
@@ -82,10 +108,10 @@ Close
 ![selecting Mute action for the new AssistiveTouch button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customizing-assistivetouch-top-level-menu-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Mute action in AssistiveTouch's top-level menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customizing-assistivetouch-top-level-menu-5.jpg)
@@ -108,10 +134,10 @@ Follow these simple instructions to get this done:
 ![adding Mute action to Double-Tap gesture](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/setting-a-custom-action-for-assistivetouch-button-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Close
@@ -131,13 +157,6 @@ Close
 
 ![Back Tap feature under Touch Accessibility settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-using-back-tap-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Close
 
  Once you're in the Back Tap accessibility menu, you can choose a couple of options:
@@ -154,13 +173,6 @@ Close
  Now, whenever you want to mute your iPhone, simply perform the double-tap or triple-tap gesture on the back of your iPhone. To unmute it, perform the same gesture again.
 
  With certain iPhone cases, especially thicker ones, you might need to tap harder for the iPhone to register your taps and trigger the action.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Broken iPhone Ring/Silent Switch? No Problem
 
@@ -183,19 +195,24 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/remier-livestream-capture-software-for-video-bards-for-2024/"><u>[New] Premier Livestream Capture Software For Video Bards for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-trilltones-techniques-how-to-cut-and-download-tamil-songs/"><u>[Updated] TrillTones Techniques How to Cut and Download Tamil Songs</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-x-digital-editor-pc-compatibility/"><u>2024 Approved X-Digital Editor PC Compatibility</u></a></li>
-<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-lava-agni-2-5g-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Lava Agni 2 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/convert-your-blu-ray-discs-into-high-quality-mp3-files-easy-steps-and-tips/"><u>Convert Your Blu-Ray Discs Into High-Quality MP3 Files: Easy Steps and Tips</u></a></li>
-<li><a href="https://some-tips.techidaily.com/guia-paso-a-paso-para-convertir-videos-flv-en-formatos-de-audio-mp3-gratuitamente-mediante-movavi/"><u>Guía Paso a Paso Para Convertir Videos FLV en Formatos De Audio MP3 Gratuitamente Mediante Movavi</u></a></li>
-<li><a href="https://driver-download.techidaily.com/hassle-free-easily-find-and-download-brother-printer-drivers/"><u>Hassle-Free: Easily Find and Download Brother Printer Drivers</u></a></li>
-<li><a href="https://fox-that.techidaily.com/overcoming-common-glitches-a-guide-to-fixing-your-iphone-13s-main-issues/"><u>Overcoming Common Glitches: A Guide to Fixing Your iPhone 13'S Main Issues</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/pioneering-the-future-revolutionary-technique-for-building-three-dimensional-chip-circuits-through-advanced/"><u>Pioneering the Future: Revolutionary Technique for Building Three-Dimensional Chip Circuits Through Advanced</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solving-your-whatsapp-zoom-issue-a-step-by-step-guide/"><u>Solving Your WhatsApp Zoom Issue: A Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721479739724-struggling-with-iphone-pc-pairing-problems-discover-the-fix-now/"><u>Struggling with iPhone-PC Pairing Problems? Discover The Fix Now</u></a></li>
-<li><a href="https://fox-that.techidaily.com/the-journey-of-facetime-pictures-understanding-their-storage-location/"><u>The Journey of FaceTime Pictures: Understanding Their Storage Location</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/top-tier-performance-tested-a-detailed-overview-of-the-corsair-one-pro-for-gamers/"><u>Top-Tier Performance Tested: A Detailed Overview of the Corsair One Pro for Gamers</u></a></li>
-<li><a href="https://fox-that.techidaily.com/understanding-iphone-14s-battery-life-tips-and-troubleshooting-guide/"><u>Understanding iPhone 14'S Battery Life: Tips & Troubleshooting Guide</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-vimeo-demystified-for-passionate-creators-and-viewers/"><u>[New] In 2024, Vimeo Demystified For Passionate Creators & Viewers</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-instagram-video-snippet-limits-a-comprehensive-overview/"><u>[Updated] 2024 Approved Instagram Video Snippet Limits A Comprehensive Overview</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-skyrocket-engagement-20-video-tricks-for-maximum-impact-for-2024/"><u>[Updated] Skyrocket Engagement 20 Video Tricks for Maximum Impact for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-undead-universe-discover-the-top-8-zombie-games/"><u>[Updated] Undead Universe Discover the Top 8 Zombie Games</u></a></li>
+<li><a href="https://fox-that.techidaily.com/cant-get-the-depth-look-in-ios-16-here-are-7-tweaks-to-make-it-happen/"><u>Can't Get the Depth Look in iOS 16? Here Are 7 Tweaks to Make It Happen</u></a></li>
+<li><a href="https://fox-that.techidaily.com/default-interface-implementation/"><u>Default Interface Implementation</u></a></li>
+<li><a href="https://fox-that.techidaily.com/easy-steps-to-restore-hidden-contacts-on-your-iphone/"><u>Easy Steps to Restore Hidden Contacts on Your iPhone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-iphone-contacts-problems-top-3-strategies-that-work/"><u>Fixing iPhone Contacts Problems – Top 3 Strategies That Work!</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/how-to-create-podcast-rss-feeds/"><u>How To Create Podcast RSS Feeds</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-repair-your-iphones-mute-button-a-guide-to-7-quick-fixes/"><u>How to Repair Your iPhone's Mute Button: A Guide to 7 Quick Fixes</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-from-social-to-storage-iphone-and-android-gif-savings/"><u>In 2024, From Social to Storage IPhone & Android GIF Savings</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-do-you-remove-restricted-mode-on-apple-iphone-xs-max-by-drfone-ios/"><u>In 2024, How Do You Remove Restricted Mode on Apple iPhone XS Max</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-maximizing-quality-in-ppt-recordings/"><u>In 2024, Maximizing Quality in PPT Recordings</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-sound-issues-learn-alternative-ways-to-control-volume/"><u>IPhone Sound Issues? Learn Alternative Ways to Control Volume</u></a></li>
+<li><a href="https://fox-that.techidaily.com/lost-sight-of-your-iphones-app-icons-discover-effective-remedies-to-restore-them/"><u>Lost Sight of Your iPhone's App Icons? Discover Effective Remedies to Restore Them!</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/quickcapture-lite-basic-chromecasting-tool-for-2024/"><u>QuickCapture Lite Basic Chromecasting Tool for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/the-complete-user-manual-for-iphones-dfu-device-firmware-update-mode/"><u>The Complete User Manual for iPhone's DFU (Device Firmware Update) Mode</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/en-youtube-regulations-to-abide-by/"><u>Top Ten YouTube Regulations to Abide By</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721479455021-unstucking-itunes-and-finder-from-ignoring-your-iphone-proven-solutions/"><u>Unstucking iTunes and Finder From Ignoring Your iPhone: Proven Solutions!</u></a></li>
 </ul></div>
 

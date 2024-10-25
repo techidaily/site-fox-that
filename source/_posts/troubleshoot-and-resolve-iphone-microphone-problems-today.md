@@ -1,7 +1,7 @@
 ---
 title: Troubleshoot and Resolve iPhone Microphone Problems Today!
-date: 2024-09-09T11:29:15.464Z
-updated: 2024-09-10T11:29:15.464Z
+date: 2024-10-19T18:39:19.831Z
+updated: 2024-10-24T17:32:56.717Z
 tags:
   - iphone
   - apple
@@ -12,12 +12,6 @@ excerpt: This Article Describes Troubleshoot and Resolve iPhone Microphone Probl
 thumbnail: https://thmb.techidaily.com/9d7c9f6d98f25a60252afdb702bb0a4fb1162bcb6cf8a3d6d173187fa448fa2e.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Troubleshoot and Resolve iPhone Microphone Problems Today
 
  An iPhone is almost useless without a working microphone. A broken microphone means no FaceTime, phone calls, or Siri. Sometimes, videos shot on your iPhone may not have any audio. But before you pay Apple for a costly repair, try these fixes first.
@@ -32,18 +26,6 @@ thumbnail: https://thmb.techidaily.com/9d7c9f6d98f25a60252afdb702bb0a4fb1162bcb6
 
 ![iphone clean speaker](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/iphone-clean-speaker.jpg)
 
-<!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Brent Dirks/[MakeUseOf](https://www.makeuseof.com/author/brentdirks/)
 
  One of the simplest ways to fix your microphone is by cleaning it. If one of your microphones sounds muffled when you speak, you might just need to clean it. iPhone microphones are sensitive, and a small piece of dust or dander can affect how they sound.
@@ -53,11 +35,12 @@ thumbnail: https://thmb.techidaily.com/9d7c9f6d98f25a60252afdb702bb0a4fb1162bcb6
  Isopropyl alcohol breaks up grime and dries fast, so it won't damage your iPhone. Try using the highest percentage of isopropyl alcohol you can find. While you're at it,[clean your entire iPhone thoroughly](https://www.makeuseof.com/tag/clean-iphone-guide/) if it's not in a good shape.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 3\. Disconnect From Bluetooth Devices
 
 Close
@@ -67,11 +50,12 @@ Close
  This is a common issue with those who use Bluetooth headphones like AirPods or smart home systems. Check if you're connected to a Bluetooth device by [opening your iPhone's Control Center](https://www.makeuseof.com/how-to-use-customize-control-center-iphone/) , then toggle Bluetooth off. Alternatively, tap and hold it to view all your connected devices.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123467/16836" target="_top" id="2123467">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123467" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123467/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 4\. Make Sure Apps Have Microphone Permissions
 
 Close
@@ -81,32 +65,34 @@ Close
  To grant an app permission, head to**Settings** and select the affected app. Now, make sure the**Microphone** toggle is enabled.
 
 <!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 5\. Use an External Microphone or AirPods
 
 ![A guy holding AirPods Pro in charging case showing orange light](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/02/a-guy-holding-airpods-pro-in-charging-case-showing-orange-light.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Hamlin Rozario/[MakeUseOf](https://www.makeuseof.com/author/hamlin-rozario/)
 
  If you've tried all the above fixes but nothing is working, you can still use an external microphone with your iPhone. You can use this while you wait for a repair or even use an external microphone indefinitely if you can't afford a repair.
 
  Most headphones, including Apple's AirPods, have built-in microphones. Since they connect via your iPhone's Lightning/USB-C port or Bluetooth, you won't have to rely on the built-in microphones for most tasks.
+
+<!-- affiliate ads begin -->
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Other Generic Fixes
 
@@ -124,8 +110,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -133,4 +117,22 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-hazy-endings-how-to-black-out-with-pro/"><u>[New] 2024 Approved Hazy Endings How to Black Out with Pro</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-visual-voyage-from-vimeo-footage-to-animated-artistry/"><u>[New] In 2024, Visual Voyage From Vimeo Footage to Animated Artistry</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-strategies-for-soaring-on-facebooks-feeds/"><u>[New] Strategies for Soaring on Facebook's Feeds</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-unveiling-sources-instagram-pictures-inverse-search-guide/"><u>[Updated] 2024 Approved Unveiling Sources Instagram Pictures' Inverse Search Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/airpod-connection-fixes-6-effective-ways-to-ensure-smooth-switching-across-apple-gadgets/"><u>AirPod Connection Fixes: 6 Effective Ways to Ensure Smooth Switching Across Apple Gadgets</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/como-migrar-tu-sistema-basado-en-gpt-a-una-unidad-ssd-en-windows-1110-tutorial-integral/"><u>Cómo Migrar Tu Sistema Basado en GPT a Una Unidad SSD en Windows 11/10 - Tutorial Integral</u></a></li>
+<li><a href="https://fox-that.techidaily.com/critical-icloud-complications-for-ios-gadgets-understanding-and-solving-them-effectively/"><u>Critical iCloud Complications for iOS Gadgets – Understanding and Solving Them Effectively</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-steps-to-tackle-and-fix-ralink-rt3290-driver-problems-in-windows-11-8-and-7-environments/"><u>Easy Steps to Tackle and Fix Ralink RT3290 Driver Problems in Windows 11, 8 & 7 Environments</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-nokia-130-music-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Nokia 130 Music | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-youtube-for-iphoneandroid-enhancing-browser-performance/"><u>In 2024, YouTube for iPhone/Android Enhancing Browser Performance</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-not-getting-android-messages-heres-the-ultimate-solution-for-connectivity-woes/"><u>IPhone Not Getting Android Messages? Here’s the Ultimate Solution for Connectivity Woes</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/e-money-tally-for-youtube-creators/"><u>Online Money Tally for YouTube Creators</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcome-silent-calls-11-tricks-for-restoring-iphone-ringers/"><u>Overcome Silent Calls: 11 Tricks for Restoring iPhone Ringers</u></a></li>
+<li><a href="https://fox-that.techidaily.com/step-by-step-guide-changing-your-screen-time-password-on-iphone-and-ipad/"><u>Step-by-Step Guide: Changing Your Screen Time Password on iPhone & iPad</u></a></li>
+<li><a href="https://fox-that.techidaily.com/trouble-with-full-page-captures-in-safari-browser-discover-the-quick-solutions/"><u>Trouble with Full-Page Captures in Safari Browser? Discover the Quick Solutions</u></a></li>
+</ul></div>
 

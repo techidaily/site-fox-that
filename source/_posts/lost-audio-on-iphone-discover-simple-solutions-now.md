@@ -1,7 +1,7 @@
 ---
 title: Lost Audio on iPhone? Discover Simple Solutions Now!
-date: 2024-10-15T04:24:01.638Z
-updated: 2024-10-18T17:10:17.675Z
+date: 2024-10-18T22:00:25.504Z
+updated: 2024-10-24T18:15:19.235Z
 tags:
   - iphone
   - apple
@@ -40,26 +40,27 @@ Close
 
  Also, check that it’s not your audio devices, such as AirPods, causing the “no sound” problem. Test this by connecting them to other smartphones or computers. If they’re working like usual, it means that the issue is with your iPhone and you can now focus on solving it through this article. For AirPods issues, read our guide on [how to solve common AirPods problems](https://www.makeuseof.com/tag/apple-airpods-problems-fix/) .
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Clean Your iPhone’s Speakers
 
  Before moving on to troubleshooting software issues, there may simply be dust and dirt affecting speaker function, causing no sound to play on your iPhone. We have instructions you can follow to [clean your iPhone safely](https://www.makeuseof.com/tag/clean-iphone-guide/) .
 
 ![black iphone and airpods on wooden surface](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/iphone-airpods.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If it’s not dust and dirt, try to recall whether you accidentally dropped your iPhone in water recently. While iPhones are water-resistant, water may still get into your speakers. You can use the [Sonic](https://apps.apple.com/app/sonic/id986999895) app to eject water from the speakers if this is the case.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Turn Off Silent Mode and Do Not Disturb
 
@@ -73,13 +74,6 @@ Here’s how to turn off Silent Mode:
 
 ![ring and silent switch on side of iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/silent-switch-iphone.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Here’s how to turn off Do Not Disturb or Focus:
 
 1. Access your iPhone’s**Control Center** . The method to [open the Control Center](http://www.makeuseof.com/how-to-use-customize-control-center-iphone/) may vary depending on your iPhone model.
@@ -90,19 +84,19 @@ Here’s how to turn off Do Not Disturb or Focus:
 ![iphone control center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/iphone-control-center.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Close
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Check Your iPhone’s Audio Output
@@ -117,6 +111,13 @@ Close
 ![bluetooth turned on iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/bluetooth-on.jpg)
 
 ![iphone control center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/bluetooth-off-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close
 
@@ -150,13 +151,6 @@ Close
 
 ![text tone on iphone settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/text-tone-iphone-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Close
 
  If the sound issue revolves around iPhone alerts, you can refer to our detailed guide on [how to fix alert sounds on your iPhone](https://www.makeuseof.com/how-to-fix-iphone-not-receiving-alerts/) .
@@ -170,16 +164,10 @@ Close
 ![audio settings in sky game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/sky-game-audio.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Exit and Relaunch the Third-Party App
@@ -190,13 +178,20 @@ Close
 
 ![person holding iphone showing instagram post](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/instagram-post.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can also opt to view the video through another route. Instead of watching the video in your Instagram feed, tap into that Instagram profile and select the video from there instead.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Update iOS and Your iPhone Apps
@@ -208,13 +203,6 @@ Close
 ## 9\. Force Restart Your iPhone
 
  If there’s still no sound on your iPhone, the next method you can try is to [force restart your iPhone](https://www.makeuseof.com/tag/restart-iphone-recovery-mode/) . Don’t worry, you won’t lose any data when you force restart your iPhone.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 10\. Restore Your iPhone to a Previous Backup
 
@@ -243,24 +231,22 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-that.techidaily.com/correcting-unintended-browser-activity-reports-on-iphone-screen-time-monitor/"><u>Correcting Unintended Browser Activity Reports on iPhone Screen Time Monitor</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721416987624-enhanced-mobile-experience-with-bings-ai-search-feature/"><u>Enhanced Mobile Experience with Bing's AI Search Feature.</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/exploring-hardware-innovations-with-toms-guide/"><u>Exploring Hardware Innovations with Tom's Guide</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-xiaomi-13-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Xiaomi 13 Ultra | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-realme-narzo-60-pro-5g-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Realme Narzo 60 Pro 5G</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-optimal-video-recording-for-instructors/"><u>In 2024, Optimal Video-Recording for Instructors</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721479103926-ineffective-auto-brightness-on-iphone-discover-7-corrective-steps-now/"><u>Ineffective Auto-Brightness on iPhone? Discover 7 Corrective Steps Now</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/mastering-call-management-setting-up-call-redirection-on-android-phones/"><u>Mastering Call Management: Setting Up Call Redirection on Android Phones</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/noble-nineties-for-pocket-pet-vids/"><u>Noble Nineties for Pocket Pet Vids</u></a></li>
-<li><a href="https://fox-that.techidaily.com/one-airpod-louder-than-the-other-discover-4-effective-ways-to-rectify-this-issue/"><u>One AirPod Louder Than the Other? Discover 4 Effective Ways to Rectify This Issue!</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/pushing-visual-limits-in-depth-analysis-of-video-enhancer-22-for-2024/"><u>Pushing Visual Limits In-Depth Analysis of Video Enhancer 2.2 for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/resolve-your-iphones-contact-app-glitch-with-these-3-tips/"><u>Resolve Your iPhone's Contact App Glitch with These 3 Tips</u></a></li>
-<li><a href="https://win-dash.techidaily.com/resolving-hp-laserjet-p2035-printer-driver-problems-on-windows-a-comprehensive-guide/"><u>Resolving HP LaserJet P2035 Printer Driver Problems on Windows: A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solving-no-service-error-restoring-gps-functionality-on-your-iphone/"><u>Solving 'No Service' Error: Restoring GPS Functionality on Your iPhone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solving-iphone-mic-issues-proven-fixes-for-non-functioning-microphones/"><u>Solving iPhone Mic Issues: Proven Fixes for Non-Functioning Microphones</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/step-up-your-gaming-skills-with-chatgpts-coolest-games/"><u>Step Up Your Gaming Skills With ChatGPT's Coolest Games</u></a></li>
-<li><a href="https://fox-that.techidaily.com/top-10-explanations-for-auto-dimming-screens-on-your-apple-iphone/"><u>Top 10 Explanations for Auto-Dimming Screens on Your Apple iPhone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshoot-non-responsive-emoji-prediction-quickly-on-your-iphoneipad/"><u>Troubleshoot Non-Responsive Emoji Prediction Quickly on Your iPhone/iPad</u></a></li>
-<li><a href="https://fox-that.techidaily.com/uncover-the-mystery-where-do-your-photo-chats-end-up-after-a-facetime-call/"><u>Uncover the Mystery: Where Do Your Photo Chats End Up After a FaceTime Call?</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-djis-quadcopters-variants-basic-model-advanced-series-uhd-edition/"><u>[Updated] DJI's Quadcopters Variants Basic Model, Advanced Series, UHD Edition</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-the-zenith-of-zoom-background-blurring-techniques/"><u>[Updated] The Zenith of Zoom Background Blurring Techniques</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-the-ultimate-selection-top-voice-recorders-for-macos/"><u>2024 Approved The Ultimate Selection Top Voice Recorders for MacOS</u></a></li>
+<li><a href="https://fox-that.techidaily.com/beating-iphone-x-bugs-the-7-most-vexing-issues-and-how-to-tackle-them/"><u>Beating iPhone X Bugs: The 7 Most Vexing Issues & How to Tackle Them</u></a></li>
+<li><a href="https://fox-that.techidaily.com/depth-effect-not-working-in-ios-16-lock-screen-try-these-7-fixes/"><u>Depth Effect Not Working in iOS 16 Lock Screen? Try These 7 Fixes</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/easy-ways-to-do-vhs-effect-with-final-cut-pro-for-2024/"><u>Easy Ways to Do VHS Effect with Final Cut Pro for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/enhancing-iphone-connectivity-8-wi-fi-optimization-tips-for-better-speed/"><u>Enhancing iPhone Connectivity: 8 Wi-Fi Optimization Tips for Better Speed</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721479133697-frustrated-with-sluggish-mobile-data-quickly-improve-speed-using-these-10-tips/"><u>Frustrated with Sluggish Mobile Data? Quickly Improve Speed Using These 10 Tips!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/getting-your-iphone-email-updates-back-on-track-a-comprehensive-guide/"><u>Getting Your iPhone Email Updates Back on Track: A Comprehensive Guide</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-infinix-note-30-5g-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Infinix Note 30 5G Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/installing-and-running-handbrake-on-windows-11-a-comprehensive-guide/"><u>Installing and Running HandBrake on Windows 11 - A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/managing-and-processing-iphone-photos-problems-and-solutions/"><u>Managing & Processing iPhone Photos: Problems & Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-iphone-download-difficulties-try-these-10-quick-and-easy-solutions/"><u>Overcoming iPhone Download Difficulties? Try These 10 Quick and Easy Solutions</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/todas-las-practicas-incluidas-en-el-software-aomei-backupper-respaldo-automatico-deshacer-cambios-mas-faciles-y-clonar-dispositivos-sin-esfuerzo/"><u>Todas Las Prácticas Incluidas en El Software AOMEI Backupper: Respaldo Automático, Deshacer Cambios Más Fáciles Y Clonar Dispositivos Sin Esfuerzo</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-vivo-y36-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Vivo Y36 Location | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-non-compatible-accessories-with-your-iphone-device/"><u>Troubleshooting Non-Compatible Accessories with Your iPhone Device</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-realme-narzo-60x-5g-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Realme Narzo 60x 5G? | Dr.fone</u></a></li>
 </ul></div>
 

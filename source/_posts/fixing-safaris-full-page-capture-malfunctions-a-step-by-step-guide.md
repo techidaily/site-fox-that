@@ -1,7 +1,7 @@
 ---
 title: "Fixing Safari’s Full Page Capture Malfunctions: A Step-by-Step Guide"
-date: 2024-10-16T02:09:08.418Z
-updated: 2024-10-18T16:48:35.145Z
+date: 2024-10-21T18:57:42.118Z
+updated: 2024-10-24T21:44:51.165Z
 tags:
   - iphone
   - apple
@@ -29,22 +29,15 @@ thumbnail: https://thmb.techidaily.com/ced9cab3bb4f4b670e0a461fa0277071d0fe6cc51
 
  Related:[How to Take Full-Page Screenshots in Safari on iOS](https://www.makeuseof.com/how-to-screenshot-full-webpage-safari-ios/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What to Do When Full-Page Screenshots Aren't Working
 
 Try these tips if you can't take full-page screenshots in Safari.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. Check Your iOS Version
@@ -54,10 +47,10 @@ Try these tips if you can't take full-page screenshots in Safari.
  If your OS is not the problem, make sure to check the app you’re using when attempting to take a full-page screenshot. It only works with Safari.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Make Sure You're in Safari
@@ -68,13 +61,26 @@ Try these tips if you can't take full-page screenshots in Safari.
 
 ![Save Full-page screenshots](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/08/Save-Full-page-screenshots.PNG)
 
+<!-- affiliate ads begin -->
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Close
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Remove Safari From Any Home Screen Folders
@@ -106,21 +112,22 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-how-to-capture-and-save-your-beloved-hulu-seasons-quickly-and-conveniently/"><u>[New] How To Capture & Save Your Beloved Hulu Seasons Quickly & Conveniently</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-the-ultimate-guide-to-altering-video-speed-in-stories/"><u>[New] In 2024, The Ultimate Guide to Altering Video Speed in Stories</u></a></li>
-<li><a href="https://fox-where.techidaily.com/2-professionelle-dashcam-video-wiederherstellungstechniken-verstanden-entdecken-sie-die-geheimnisse-mit-myrecover/"><u>2. Professionelle Dashcam-Video Wiederherstellungstechniken Verstanden – Entdecken Sie Die Geheimnisse Mit MyRecover</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-achieve-success-in-twitch-top-5-livestream-strategies/"><u>2024 Approved Achieve Success in Twitch Top 5 Livestream Strategies</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721476193860-6-effective-fixes-for-an-iphone-stuck-showing-sos-in-the-status-bar-restore-full-use/"><u>6 Effective Fixes for an iPhone Stuck Showing SOS in the Status Bar - Restore Full Use</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721458609353-flickering-phone-display-discover-these-7-quick-fixes/"><u>Flickering Phone Display? Discover These 7 Quick Fixes!</u></a></li>
-<li><a href="https://fox-that.techidaily.com/guide-utilizing-apples-distance-based-diagnostic-for-iphone-repair-assessments/"><u>Guide: Utilizing Apple's Distance-Based Diagnostic for iPhone Repair Assessments</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-can-we-unlock-our-tecno-spark-10c-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Tecno Spark 10C Phone Screen?</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/making-your-twitter-media-a-gif-masterpiece/"><u>Making Your Twitter Media A GIF Masterpiece</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/premier-vr-screens-producers-for-2024/"><u>Premier VR Screens Producers for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/resolving-undelivered-messages-in-imessage-on-ios-devices/"><u>Resolving Undelivered Messages in iMessage on iOS Devices</u></a></li>
-<li><a href="https://fox-that.techidaily.com/siri-suggestions-not-popping-up-on-iphone-heres-how-to-fix-it/"><u>Siri Suggestions Not Popping Up on iPhone? Here's How to Fix It</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solving-the-puzzle-of-icloud-desynchronization-a-guide/"><u>Solving the Puzzle of iCloud Desynchronization: A Guide</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/the-definitive-list-youtubes-premier-making-up-masters-for-2024/"><u>The Definitive List YouTube's Premier Making-Up Masters for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-iphones-silent-mic-solutions-to-reactivate-your-phones-audio-input/"><u>Troubleshooting iPhone's Silent Mic: Solutions to Reactivate Your Phone's Audio Input</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/why-delaying-the-acquisition-of-a-new-gaming-laptop-makes-sense/"><u>Why Delaying the Acquisition of a New Gaming Laptop Makes Sense</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-revolutionize-your-facebook-experience-with-auto-play-videos-for-2024/"><u>[New] Revolutionize Your Facebook Experience with Auto-Play Videos for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-windows-11-game-recording-5-methods/"><u>[Updated] 2024 Approved Windows 11 Game Recording [5 Methods]</u></a></li>
+<li><a href="https://fox-that.techidaily.com/breakthrough-techniques-to-revive-a-frozen-iphone-device/"><u>Breakthrough Techniques to Revive a Frozen iPhone Device</u></a></li>
+<li><a href="https://fox-that.techidaily.com/dealing-with-iphone-touchscreen-issues-here-are-effective-fixes/"><u>Dealing with iPhone Touchscreen Issues? Here Are Effective Fixes</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/elite-4k-displays-for-high-fidelity-games/"><u>Elite 4K Displays for High-Fidelity Games</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-iphone-lock-related-issues-preventing-spotify-from-closing/"><u>Fixing iPhone Lock-Related Issues: Preventing Spotify From Closing</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/guia-facil-para-desbloquear-todos-tus-archivos-en-una-memoria-sd-con-programas-libres/"><u>Guía Fácil Para Desbloquear Todos Tus Archivos en Una Memoria SD Con Programas Libres</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/guide-capturing-your-instagram-live-streams-from-desktop-or-mobile-devices/"><u>Guide: Capturing Your Instagram Live Streams From Desktop or Mobile Devices</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-address-and-remove-liquid-detected-notifications-from-your-iphone-charger-port/"><u>How to Address and Remove 'Liquid Detected' Notifications From Your iPhone Charger Port</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-restore-functionality-of-broken-iphone-volume-buttons-with-these-7-solutions/"><u>How To Restore Functionality of Broken iPhone Volume Buttons With These 7 Solutions</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-asus-rog-phone-7-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Asus ROG Phone 7 | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-gps-companions-top-10-drones-that-stay-close/"><u>In 2024, GPS Companions Top 10 Drones That Stay Close</u></a></li>
+<li><a href="https://fox-that.techidaily.com/mastering-stability-10-proven-fixes-when-your-iphone-apps-keep-collapsing/"><u>Mastering Stability: 10 Proven Fixes When Your iPhone Apps Keep Collapsing</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-tips-overcoming-geforce-x0001-on-w10w11-pcs/"><u>Quick Tips: Overcoming GeForce X0001 on W10/W11 PCs</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-8-strategies-for-creating-a-viral-sensation-on-youtube/"><u>Top 8 Strategies for Creating a Viral Sensation on YouTube</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-guide-solve-your-facetime-issues-with-these-15-tips/"><u>Troubleshooting Guide: Solve Your FaceTime Issues with These 15 Tips</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unveiling-the-mysteries-of-laggy-phone-wifi-connections-discover-why/"><u>Unveiling the Mysteries of Laggy Phone Wifi Connections – Discover Why</u></a></li>
 </ul></div>
 

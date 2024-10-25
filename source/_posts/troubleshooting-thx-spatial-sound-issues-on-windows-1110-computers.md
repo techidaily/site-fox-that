@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting THX Spatial Sound Issues on Windows 11/10 Computers
-date: 2024-10-16T05:23:39.075Z
-updated: 2024-10-19T06:41:07.297Z
+date: 2024-10-17T17:27:30.897Z
+updated: 2024-10-24T18:59:07.556Z
 tags:
   - win11
   - win10
@@ -54,10 +54,10 @@ thumbnail: https://thmb.techidaily.com/66f3a5314b7f0b6f994f976b66c33a57ff0466854
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b3a03daedd.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 2) Type in your password and log in again.
@@ -69,13 +69,6 @@ thumbnail: https://thmb.techidaily.com/66f3a5314b7f0b6f994f976b66c33a57ff0466854
  If the same problem keeps reoccurring, you may need to try other methods below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2: Create a new user account
 
@@ -91,6 +84,13 @@ thumbnail: https://thmb.techidaily.com/66f3a5314b7f0b6f994f976b66c33a57ff0466854
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b8a563ff80.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) In PowerShell window, copy and paste in the following command and press the**Enter** key on your keyboard:
 
 net user newusername newpassword /add
@@ -98,13 +98,6 @@ net user newusername newpassword /add
  We are using the username**“easeware”** and password “**drivereasy”** as an example in the screenshot, you can set them as per your own preference.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b8bbeac77b.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5) Restart your computer and log into the new user account.
 
@@ -127,15 +120,22 @@ net user newusername newpassword /add
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b931f18df7.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  When prompted with the following notification, tick the box for**Delete the driver software for this device** and click**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b939274834.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5) Restart your computer after the uninstall of both of your video card driver and your sound card driver.
 
@@ -162,10 +162,10 @@ net user newusername newpassword /add
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4: Disable or uninstall third-party antivirus programs
@@ -175,13 +175,6 @@ net user newusername newpassword /add
  Note that Microsoft has its own default anti-malware, **Windows Defender** . It’s automatically enabled even if you also have other antivirus applications installed. Even if you disable your other antivirus programs, Windows Defender is always there for you during that certain time range. So, no need to worry too much about temporarily turning antivirus off.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5: Uninstall Dropbox
 
@@ -196,19 +189,6 @@ net user newusername newpassword /add
  2) View by**Category** , then click**Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b984aa9035.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Find Dropbox, and click**Uninstall** to get it removed from your computer.
 
@@ -236,16 +216,22 @@ net user newusername newpassword /add
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b3b34111eb.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) On the top of the Task Manager window, select**File** option and then choose**Run new task** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b8999a1831.png)
+
+<!-- affiliate ads begin -->
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Then type **powershell**  and t  ick the box for**Create this task with administrative privileges** . Click **OK** .
 
@@ -265,6 +251,13 @@ DISM /Online /Cleanup-Image /RestoreHealth
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 8: Reinstall Cortana
 
  The reason why your Start menu and Cortana is not working could be that they are installed wrong, somehow. You can reinstall them to get the Start menu feature back. Here is how:
@@ -280,6 +273,13 @@ DISM /Online /Cleanup-Image /RestoreHealth
  3) Then type **powershell**  and t  ick the box for**Create this task with administrative privileges** . Click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b8a563ff80.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Copy and paste the following command in and press the **Enter** key on your keyboard.
 
@@ -317,20 +317,21 @@ Get-AppXPackage -AllUsers | Foreach {Add-AppxPackage -DisableDevelopmentMode -Re
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-vidma-screen-recorder-review/"><u>[New] Vidma Screen Recorder Review</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-bring-a-smile-simple-meme-creation-with-kapwing/"><u>2024 Approved Bring a Smile Simple Meme Creation With Kapwing</u></a></li>
-<li><a href="https://fox-that.techidaily.com/comprehensive-instructions-initiating-recovery-mode-on-your-ipad/"><u>Comprehensive Instructions: Initiating Recovery Mode on Your iPad</u></a></li>
-<li><a href="https://blog-min.techidaily.com/discover-the-top-5-best-alternatives-to-screenflow-for-cross-platform-usage-windowsmac/"><u>Discover the Top 5 Best Alternatives to ScreenFlow for Cross-Platform Usage (Windows/Mac)</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/experts-choice-top-5-key-discovery-devices-of-2024/"><u>Expert's Choice: Top 5 Key Discovery Devices of 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/finding-lost-words-effective-strategies-for-getting-back-your-erased-iphone-notes/"><u>Finding Lost Words: Effective Strategies for Getting Back Your Erased iPhone Notes</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fixing-hey-siri-malfunction-a-comprehensive-guide-with-17-effective-tips-for-iphone-users/"><u>Fixing 'Hey Siri' Malfunction: A Comprehensive Guide with 17 Effective Tips for iPhone Users</u></a></li>
-<li><a href="https://review-topics.techidaily.com/htc-u23-won-t-play-hevc-h-265-media-how-to-fix-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>HTC U23 won’t play HEVC H.265 media, how to fix? </u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-transforming-your-photos-into-timeless-slow-mo-artistry/"><u>In 2024, Transforming Your Photos Into Timeless Slow-Mo Artistry</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-from-shaky-to-stellar-the-best-free-online-video-stabilization-tools-reviewed/"><u>New From Shaky to Stellar The Best Free Online Video Stabilization Tools Reviewed</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solve-iphone-voicemail-problems-in-9-simple-steps/"><u>Solve iPhone Voicemail Problems in 9 Simple Steps</u></a></li>
-<li><a href="https://fox-that.techidaily.com/stop-the-glitch-top-ve-solutions-to-correct-phone-screen-flickering-issues/"><u>Stop the Glitch: Top Ve Solutions to Correct Phone Screen Flickering Issues</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-honor-magic5-ultimate-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Honor Magic5 Ultimate</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-missing-iphone-contacts-a-step-by-step-guide/"><u>Troubleshooting Missing iPhone Contacts: A Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-that.techidaily.com/unlock-the-secrets-to-restoring-your-iphones-flashlight-functionality-with-these-12-techniques/"><u>Unlock the Secrets to Restoring Your iPhone's Flashlight Functionality with These 12 Techniques</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-elevate-your-zoom-experience-syncing-speakers-and-microphones/"><u>[New] 2024 Approved Elevate Your Zoom Experience Syncing Speakers & Microphones</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-nail-the-art-of-time-lapses-with-your-gopro-hero5-black/"><u>[New] 2024 Approved Nail the Art of Time-Lapses with Your GoPro Hero5 Black</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-top-quality-economical-cam-recorder-for-2024/"><u>[Updated] Top Quality Economical Cam Recorder for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/6-effective-fixes-for-non-responsive-aol-email-apps-on-iphones/"><u>6 Effective Fixes for Non-Responsive AOL Email Apps on iPhones</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/1728497704663-hdd/"><u>運用外置HDD來解決文件備份導致的困境</u></a></li>
+<li><a href="https://fox-that.techidaily.com/carvedilol-and-labetalol-have-alpha-blocking-properties-that-lead-to-additional-vasodilation-effects/"><u>Carvedilol and Labetalol Have Alpha-Blocking Properties that Lead to Additional Vasodilation Effects.</u></a></li>
+<li><a href="https://fox-that.techidaily.com/complete-walkthrough-forcing-reboot-your-iphone-and-entering-device-service-mode/"><u>Complete Walkthrough: Forcing Reboot Your iPhone & Entering Device Service Mode</u></a></li>
+<li><a href="https://win-net.techidaily.com/effective-gmail-backup-strategies-discover-the-best-techniques/"><u>Effective Gmail Backup Strategies: Discover the Best Techniques!</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-two-ways-to-sync-contacts-from-vivo-y28-5g-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Two Ways to Sync Contacts from Vivo Y28 5G to Gmail | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/mastering-volume-transitions-in-lumafusion-for-2024/"><u>Mastering Volume Transitions in Lumafusion for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/rescue-your-wi-fi-connection-5-quick-fixes-for-iphones-with-persistent-drops/"><u>Rescue Your Wi-Fi Connection! 5 Quick Fixes for iPhones with Persistent Drops</u></a></li>
+<li><a href="https://fox-that.techidaily.com/struggling-with-sounds-shifting-on-your-airpods-try-turning-off-dynamic-head-tracking/"><u>Struggling with Sounds Shifting on Your AirPods? Try Turning Off Dynamic Head Tracking</u></a></li>
+<li><a href="https://games-able.techidaily.com/tackling-windows-11-steam-errors-effectively/"><u>Tackling Windows 11 Steam Errors Effectively</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/the-article-introduces-some-of-the-best-free-online-video-loopers-for-windows-mac-and-linux-for-2024/"><u>The Article Introduces some of the Best Free Online Video Loopers for Windows, Mac and Linux for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-5-challenges-in-sending-presents-via-iphone-or-ipad/"><u>Top 5 Challenges in Sending Presents via iPhone or iPad</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-iphone-13-glitches-with-these-6-easy-fixes/"><u>Troubleshoot iPhone 13 Glitches with These 6 Easy Fixes</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Unable to Activate iPhone Ring/Silent Feature? Discover Alternative Methods
-date: 2024-10-15T20:29:18.168Z
-updated: 2024-10-18T22:42:25.089Z
+date: 2024-10-17T21:30:09.353Z
+updated: 2024-10-24T22:50:55.716Z
 tags:
   - iphone
   - apple
@@ -76,9 +76,23 @@ Close
 
 ![Mute action in AssistiveTouch's top-level menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customizing-assistivetouch-top-level-menu-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Close
 
  All you need to do now is tap the AssistiveTouch button and hit**Mute** . When you do this, the**Mute** button will change to**Unmute** , and you can tap on it again to unmute the device quickly.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Set Up a Custom Action
 
@@ -91,13 +105,6 @@ Follow these simple instructions to get this done:
 
 ![AssistiveTouch settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/setting-a-custom-action-for-assistivetouch-button-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![adding Mute action to Double-Tap gesture](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/setting-a-custom-action-for-assistivetouch-button-2.jpg)
 
 Close
@@ -105,10 +112,10 @@ Close
  Once set up, muting and unmuting your iPhone should be even easier. Simply perform the gesture to which you've assigned the Mute action, and it'll mute the device. Repeat it again to unmute.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Mute or Unmute iPhone Using Back Tap
@@ -121,13 +128,6 @@ Close
 2. Go to**Accessibility > Touch** , scroll down to the bottom of the page, and select**Back Tap** .
 
 ![iPhone Accessibility settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-using-back-tap-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Back Tap feature under Touch Accessibility settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-using-back-tap-2.jpg)
 
@@ -143,10 +143,10 @@ Close
 ![setting Mute action to a Back Tap gesture](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-using-back-tap-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Close
@@ -156,10 +156,10 @@ Close
  With certain iPhone cases, especially thicker ones, you might need to tap harder for the iPhone to register your taps and trigger the action.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Broken iPhone Ring/Silent Switch? No Problem
@@ -183,20 +183,18 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-streamlining-audio-integration-in-youtube-videos-for-professionals/"><u>[Updated] In 2024, Streamlining Audio Integration in YouTube Videos for Professionals</u></a></li>
-<li><a href="https://fox-that.techidaily.com/9-tell-tale-signs-your-iphone-has-been-hit-by-water-damage/"><u>9 Tell-Tale Signs Your iPhone Has Been Hit by Water Damage</u></a></li>
-<li><a href="https://fox-that.techidaily.com/a-step-by-step-guide-to-recover-lost-contacts-from-your-iphone/"><u>A Step-by-Step Guide to Recover Lost Contacts From Your iPhone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/conversione-gratuita-da-ogm-a-mpeg-su-internet-movavi/"><u>Conversione Gratuita Da OGM a MPEG Su Internet - Movavi</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/easy-guide-capturing-your-windows-10-screen-without-hiccups/"><u>Easy Guide: Capturing Your Windows 10 Screen Without Hiccups</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eradicating-windows-shop-crash-overcoming-error-x00000000/"><u>Eradicating Windows Shop Crash: Overcoming Error X00000000</u></a></li>
-<li><a href="https://driver-download.techidaily.com/fixing-the-260ci-wia-drive-usb-connectivity-issue-expert-solutions/"><u>Fixing the 260CI WiA Drive USB Connectivity Issue: Expert Solutions</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/overcoming-interlaced-artifacts-in-digital-videos/"><u>Overcoming Interlaced Artifacts in Digital Videos</u></a></li>
-<li><a href="https://fox-that.techidaily.com/regaining-control-effective-methods-for-reactivating-grayed-out-icloud-settings/"><u>Regaining Control: Effective Methods for Reactivating Grayed-Out iCloud Settings</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solve-your-ios-16-depth-effect-lock-screen-error-with-ease-a-quick-tour-of-7-fixes/"><u>Solve Your iOS 16 Depth Effect Lock Screen Error With Ease: A Quick Tour of 7 Fixes</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solve-your-ipadiphones-typing-troubles-with-these-6-solutions/"><u>Solve Your iPad/iPhone's Typing Troubles with These 6 Solutions</u></a></li>
-<li><a href="https://fox-that.techidaily.com/top-9-solutions-for-dealing-with-yellow-discoloration-on-iphone-screens/"><u>Top 9 Solutions for Dealing with Yellow Discoloration on iPhone Screens</u></a></li>
-<li><a href="https://driver-error.techidaily.com/ultimate-solution-getting-your-device-recognized-with-proper-drivers-on-widows-os/"><u>Ultimate Solution: Getting Your Device Recognized with Proper Drivers on Widows OS</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-make-a-movie-online-for-free-top-9-options/"><u>Updated 2024 Approved Make a Movie Online for Free Top 9 Options</u></a></li>
-<li><a href="https://fox-that.techidaily.com/why-wont-my-iphone-switch-from-portrait-to-landscape-find-your-answer-here/"><u>Why Won't My iPhone Switch From Portrait to Landscape? Find Your Answer Here</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/eep-your-youtube-stream-lining-in-background-for-2024/"><u>[New] Keep Your YouTube Stream Lining in Background for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-essential-mixer-streaming-tips-for-mac-users/"><u>[Updated] In 2024, Essential Mixer Streaming Tips for Mac Users</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-rediscovering-retro-gaming-identifying-the-most-advanced-gb-console-emulation-programs/"><u>[Updated] Rediscovering Retro Gaming Identifying the Most Advanced GB Console Emulation Programs</u></a></li>
+<li><a href="https://fox-that.techidaily.com/comprehensive-troubleshooting-cheat-sheet-15-ways-to-resolve-iphone-problems-across-all-models/"><u>Comprehensive Troubleshooting Cheat Sheet: 15 Ways to Resolve iPhone Problems Across All Models</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-extract-water-trapped-in-your-iphones-earpiece-and-bottom-speakers/"><u>How to Extract Water Trapped in Your iPhone's Earpiece and Bottom Speakers</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-effortless-income-estimations-for-youtubers/"><u>In 2024, Effortless Income Estimations for YouTubers</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-depth-review-dji-phantom-4-in-action-for-2024/"><u>In Depth Review DJI Phantom 4 in Action for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175706813-lamptrons-latest-st060-cpu-cooler-a-mighty-large-6-inch-display-matching-iphone-15-specs-and-acts-as-an-extra-screen/"><u>Lamptron's Latest ST060 CPU Cooler: A Mighty Large 6-Inch Display Matching iPhone 15 Specs and Acts as an Extra Screen</u></a></li>
+<li><a href="https://change-location.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-samsung-galaxy-f34-5g-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Samsung Galaxy F34 5G? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-vivo-y78-5g-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Vivo Y78 5G Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/stop-matching-siri-with-chatgpt-their-uniqueness-spotlighted/"><u>Stop Matching Siri with ChatGPT: Their Uniqueness Spotlighted</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unmuted-once-more-fixing-mute-malfunctions-on-iphones/"><u>Unmuted Once More: Fixing Mute Malfunctions on iPhones</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unsticking-iphone-from-apple-logo-a-step-by-step-guide-7-methods/"><u>Unsticking iPhone From Apple Logo: A Step-by-Step Guide (7 Methods)</u></a></li>
 </ul></div>
 

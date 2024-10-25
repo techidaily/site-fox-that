@@ -1,7 +1,7 @@
 ---
 title: Can't Enjoy Depth Effect at iPhone XS/XR Lock Screen in iOS 16? Here Are 7 Fixes to Try Now!
-date: 2024-10-16T23:04:05.872Z
-updated: 2024-10-18T17:33:23.854Z
+date: 2024-10-20T18:59:15.620Z
+updated: 2024-10-24T21:00:40.434Z
 tags:
   - iphone
   - apple
@@ -49,6 +49,13 @@ thumbnail: https://thmb.techidaily.com/12e208bbd75085a265128c07333cb07b6d6f82e50
 
  The Depth Effect feature primarily requires an iPhone with an A12 Bionic processor. If you have met all the Depth Effect's requirements and cannot get it to work, try these troubleshooting tips to ensure it works again.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Update Your iPhone
 
  Since Depth Effect is a software feature, it can be buggy since it's in the initial stages. Sometimes, Apple releases fix for these bugs with the latest iOS updates, which is one of the [reasons why you need to update iOS on your iPhone](https://www.makeuseof.com/reasons-you-need-to-update-ios/) .
@@ -62,16 +69,10 @@ thumbnail: https://thmb.techidaily.com/12e208bbd75085a265128c07333cb07b6d6f82e50
 ![Tap General in iOS Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/ios-settings.jpeg)
 
 <!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Tap Software Update in iOS General Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/ios-general-settings.jpeg)
@@ -79,10 +80,10 @@ thumbnail: https://thmb.techidaily.com/12e208bbd75085a265128c07333cb07b6d6f82e50
 ![Tap Download and Install when you get iOS Software Update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/ios-software-update.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Close
@@ -102,14 +103,14 @@ Close
 
 ![Select Wallpaper in iOS Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/ios-settings-wallpaper.jpeg)
 
-![Select Customize in Wallpaper Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/ios-wallpaper-settings-customize.jpeg)
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![Select Customize in Wallpaper Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/ios-wallpaper-settings-customize.jpeg)
 
 ![Enable Depth Effect on Lock Screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/enable-depth-effect-lock-screen.jpeg)
 
@@ -132,13 +133,6 @@ Close
 
 ![iOS 16 Lock Screen without Widgets and Depth Effect working](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/ios-16-lock-screen-without-widgets.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Close
 
  Removing the Lock Screen widgets should automatically enable the Depth Effect feature. If not, allow the**Depth Effect** option from the Lock Screen.
@@ -156,10 +150,10 @@ Close
  Alternatively, you can search Google for some amazing Depth Effect wallpapers. However, check the [r/deptheffectwallpaper](https://www.reddit.com/r/deptheffectwallpaper/) Reddit community for some sure-shot wallpapers that work with Depth Effect.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 5\. Check the Wallpaper's File Format
@@ -173,13 +167,20 @@ Close
 ![Select the photo whose file format you want to check in the Photos app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/select-the-photo-whose-file-format-you-want-to-check-in-the-photos-app.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Tap the i button on the bottom of the photo](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/tap-the-i-button-on-the-bottom-of-the-photo.jpeg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![Check the file format of the image under its metadata](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/check-the-file-format-of-the-image-under-its-metadata.jpeg)
 
@@ -202,16 +203,10 @@ Close
 ![Lock Screen Wallpaper Before Repositioning](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/lock-screen-wallpaper-before-repositioning.jpeg)
 
 <!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Lock Screen Wallpaper After Repositioning](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/lock-screen-wallpaper-after-repositioning.jpeg)
@@ -219,13 +214,6 @@ Close
 Close
 
  As a result, Depth Effect should start working itself. If not, you'll have to look for a better wallpaper for Depth Effect.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 7\. Restart Your iPhone
 
@@ -256,14 +244,22 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-enhance-productivity-with-these-20-proven-cost-free-storage-services/"><u>[New] 2024 Approved Enhance Productivity With These 20 Proven, Cost-Free Storage Services</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-firefoxs-best-screen-recorders-roundup/"><u>[New] 2024 Approved Firefox's Best Screen Recorders Roundup</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-screensavers-supreme-mastering-the-art-of-twitvid-archiving/"><u>[Updated] 2024 Approved ScreenSavers Supreme Mastering the Art of TwitVid Archiving</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-steps-to-confirm-and-secure-your-tiktok-videos-for-posting/"><u>[Updated] 2024 Approved Steps to Confirm and Secure Your TikTok Videos for Posting</u></a></li>
-<li><a href="https://fox-that.techidaily.com/resolve-your-iphones-safari-problems-with-this-essential-guide-of-ten-tips/"><u>Resolve Your iPhone's Safari Problems with This Essential Guide of Ten Tips</u></a></li>
-<li><a href="https://fox-that.techidaily.com/step-by-step-tutorial-resetting-lockout-codes-for-apples-screen-time-feature/"><u>Step-by-Step Tutorial: Resetting Lockout Codes for Apple's Screen Time Feature</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-social-media-titans-an-insight-into-facebook-twitter-instagram-and-youtube/"><u>The Social Media Titans: An Insight Into Facebook, Twitter, Instagram and Youtube</u></a></li>
-<li><a href="https://fox-that.techidaily.com/top-10-solutions-to-stop-iphone-application-crashes-in-their-tracks/"><u>Top 10 Solutions to Stop iPhone Application Crashes in Their Tracks</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-your-airpods-understand-and-fix-loudness-discrepancy-between-ears/"><u>Troubleshooting Your AirPods: Understand & Fix Loudness Discrepancy Between Ears</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-calculating-the-sequence-length-of-a-20mb-file/"><u>[New] 2024 Approved Calculating the Sequence Length of a 20MB File</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-epic-prank-ideas-with-a-twist-of-anime-on-tiktok/"><u>2024 Approved Epic Prank Ideas with a Twist of Anime on TikTok</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-m1-mastery-seamless-editing-with-video-tools/"><u>2024 Approved M1 Mastery Seamless Editing with Video Tools</u></a></li>
+<li><a href="https://fox-that.techidaily.com/7-easy-fixes-for-when-hey-siri-isnt-working-correctly-on-iphones/"><u>7 Easy Fixes for When Hey Siri Isn’t Working Correctly on iPhones</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-music-infused-video-tutorials-for-enhanced-social-media-presence-fb/"><u>In 2024, Music-Infused Video Tutorials for Enhanced Social Media Presence (FB)</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-transform-text-to-trendy-memes-kapwings-magic-tool/"><u>In 2024, Transform Text to Trendy Memes - Kapwing’s Magic Tool</u></a></li>
+<li><a href="https://fox-that.techidaily.com/make-the-move-top-5-critical-motivations-for-installing-ios-153-now/"><u>Make the Move: Top 5 Critical Motivations for Installing iOS 15.3 Now</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/penning-pages-gpt-3-as-your-crafting-companion/"><u>Penning Pages: GPT-3 as Your Crafting Companion</u></a></li>
+<li><a href="https://win-dash.techidaily.com/quick-and-simple-way-to-obtain-the-newest-amd-smbus-driver-updates/"><u>Quick & Simple Way to Obtain the Newest AMD SMBus Driver Updates</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/repairing-rockalldlldll-disappearance-on-pcs/"><u>Repairing Rockalldll.dll Disappearance on PCs</u></a></li>
+<li><a href="https://fox-that.techidaily.com/simple-tricks-for-resolving-typical-apple-pay-glitches-top-10-methods/"><u>Simple Tricks for Resolving Typical Apple Pay Glitches (Top 10 Methods)</u></a></li>
+<li><a href="https://fox-that.techidaily.com/the-ultimate-how-to-for-entering-recovery-mode-on-an-ipad/"><u>The Ultimate How-To for Entering Recovery Mode on an iPad</u></a></li>
+<li><a href="https://fox-that.techidaily.com/the-ultimate-tutorial-recovering-lost-iphones-via-the-powerful-find-my-application/"><u>The Ultimate Tutorial: Recovering Lost iPhones via the Powerful Find My Application</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-6-causes-of-a-sluggish-iphone-diagnosis-and-solutions/"><u>Top 6 Causes of a Sluggish iPhone: Diagnosis & Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/ultimate-troubleshooting-guide-stop-airpods-from-dropping-the-bluetooth-link-with-your-iphone/"><u>Ultimate Troubleshooting Guide: Stop AirPods From Dropping the Bluetooth Link with Your iPhone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlocking-the-secrets-fixing-persistent-iphone-application-failures-quickly/"><u>Unlocking the Secrets: Fixing Persistent iPhone Application Failures Quickly</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/zoom-in-on-zucks-users-rapidly-pinpoint-profiles-for-2024/"><u>Zoom-In on Zuck's Users Rapidly Pinpoint Profiles for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Solving ‘Hey Siri’ Malfunctions on Your iPhone in 10 Simple Steps
-date: 2024-10-18T04:29:30.459Z
-updated: 2024-10-19T06:05:01.579Z
+date: 2024-10-20T23:15:12.144Z
+updated: 2024-10-24T17:42:47.460Z
 tags:
   - iphone
   - apple
@@ -44,21 +44,7 @@ thumbnail: https://thmb.techidaily.com/75afd5a2790c3528915ac28a66faf57312a6eb60a
 
 ![siri & search settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/img_6967.JPEG)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Close
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Don't Leave Your iPhone Face Down
 
@@ -82,33 +68,33 @@ Close
 
 ![siri responses settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/img_6968.JPEG)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Close
 
 ## 5\. Restart Your iPhone
 
  When "Hey Siri" isn't working correctly, this can be due to a temporary glitch. The easiest way to fix this is by turning off your iPhone and turning it back on after a minute. You can [restart your iPhone even if its buttons are broken](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) .
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Remove the Case if It Blocks the Microphones
 
  Are you using a case that might block your iPhone's microphones? Take a minute to check this. If you find that the microphone slots at the bottom of the device, next to the camera, or inside the top earpiece are blocked by the case, you should remove the case.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. Clean Your iPhone's Microphone Grills
 
  Carefully use a soft cloth to remove the dirt and other gunk from the microphone grills. Don't use any metal object like a needle or wire as these may cause serious damage.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 8\. Disconnect AirPods or Beats Earbuds While Not Using Them
 
@@ -144,16 +130,16 @@ Close
 
 Close
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 10\. Turn Off Low Power Mode
 
  "Hey Siri" works even when your iPhone is in [Low Power Mode](http://www.makeuseof.com/iphone-low-power-mode/) . But at times, due to extremely low battery or bugs, Low Power Mode may cause other problems. To fix this, go to**Settings > Battery** and turn off**Low Power Mode** . Hopefully, this will mean "Hey Siri" starts working again.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 11\. Disable and Re-Enable Siri
 
@@ -171,6 +157,13 @@ Close
 
 !["Hey Siri" successful setup screen on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/11/hey-siri-successful-setup-screen.PNG)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Close
 
 ## 12\. Set Up "Hey Siri" Again in a Quiet Environment
@@ -179,6 +172,13 @@ Close
 
  Go to**Settings > Siri & Search** and turn off**Listen for "Hey Siri"** . Now, move to a quieter area, enable**Listen for "Hey Siri"** , and follow its on-screen instructions to set Siri up again. Doing this will ensure the setup process catches your actual voice and thus works more efficiently.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 13\. Update Your iPhone
 
  At times, features like "Hey Siri" may not work as intended due to new software bugs. The most reliable way to fix this is by [installing the latest version of iOS on your iPhone](https://www.makeuseof.com/tag/update-iphone-ios-apps-data/) .
@@ -186,10 +186,10 @@ Close
  Go to**Settings > General > Software Update** on your device to see if one is available.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 14\. Make Sure Your iPhone Isn't Stuck in Headphone Mode
@@ -199,10 +199,10 @@ Close
  Here's [how to fix an iPhone stuck in headphone mode](https://www.makeuseof.com/tag/how-to-fix-iphone-stuck-in-headphone-mode/) . After getting out of headphone mode, "Hey Siri" should start working again.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 15\. Reset All Your iPhone Settings
@@ -217,6 +217,13 @@ Close
 
 ![iPhone Settings showing Siri & Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/11/iphone-settings-showing-siri-and-search.PNG)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Transfer or Reset iPhone in iOS 15](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/transfer-or-reset-iphone-in-ios-15.PNG)
 
 ![All Reset Options in iPhone Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/all-reset-options-in-iphone-settings.PNG)
@@ -226,13 +233,6 @@ Close
 ## 16\. Ensure "Hey Siri" Is Available in Your Country
 
  Even though Siri can be enabled no matter where you are, "Hey Siri" isn't available in all countries and regions. If you still can't use "Hey Siri" or don't see the option in Settings, head over to the official [Apple Support](https://www.apple.com/ios/feature-availability/#siri) page to check Siri's availability in your country.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 17\. Contact Apple Support
 
@@ -259,15 +259,14 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-harmonizing-hearts-interacting-with-a-diverse-subscriber-base/"><u>[New] Harmonizing Hearts Interacting with a Diverse Subscriber Base</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-making-mp3s-from-your-facebook-videos-with-ease/"><u>[New] In 2024, Making MP3s From Your Facebook Videos with Ease</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-mastery-guide-to-youtube-seo-title-tagging-and-description-tactics/"><u>2024 Approved Mastery Guide to YouTube SEO Title, Tagging & Description Tactics</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/best-photo-restoration-compannies-of-2024-comprehensive-proscons-list/"><u>Best Photo Restoration Compannies of 2024: Comprehensive Pros/Cons List</u></a></li>
-<li><a href="https://fox-that.techidaily.com/contact-poster-not-working-on-iphone-try-these-3-fixes/"><u>Contact Poster Not Working on iPhone? Try These 3 Fixes</u></a></li>
-<li><a href="https://win-blog.techidaily.com/exploring-the-17-greatest-slide-creators-for-apple-computers-featuring-movavi-as-a-top-picks/"><u>Exploring the 17 Greatest Slide Creators for Apple Computers, Featuring Movavi as a Top Picks</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721476313479-how-to-successfully-take-full-page-screenshots-using-safari-solutions-inside/"><u>How to Successfully Take Full-Page Screenshots Using Safari – Solutions Inside</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solving-the-overzoom-issue-tips-for-adjusting-your-whatsapp-camera-settings/"><u>Solving the Overzoom Issue: Tips for Adjusting Your WhatsApp Camera Settings</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/turning-tides-in-photographic-history-retrieval-on-facebook/"><u>Turning Tides in Photographic History Retrieval on Facebook</u></a></li>
-<li><a href="https://fox-that.techidaily.com/understanding-the-challenges-of-ios-gift-sending-five-key-factors-affecting-performance/"><u>Understanding the Challenges of iOS Gift-Sending: Five Key Factors Affecting Performance</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-navigating-file-migration-pc-to-iphone-setup/"><u>2024 Approved Navigating File Migration PC-to-iPhone Setup</u></a></li>
+<li><a href="https://fox-that.techidaily.com/avoid-auto-correction-blunders-6-tips-for-perfect-iphone-typing-skills/"><u>Avoid Auto-Correction Blunders: 6 Tips for Perfect iPhone Typing Skills</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1725290451235-dvd-shrinkdvd/"><u>DVD-Shrink使用時にコピー保護があるDVDのコピー不能：理由と解決手順</u></a></li>
+<li><a href="https://fox-that.techidaily.com/enhance-your-iphone-wi-fi-connection-eight-effective-solutions-for-faster-internet/"><u>Enhance Your iPhone Wi-Fi Connection: Eight Effective Solutions for Faster Internet</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/identifying-and-preventing-fraudulent-activities-with-fraudgpt-chatbots/"><u>Identifying and Preventing Fraudulent Activities with FraudGPT Chatbots</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-honor-magic-6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Honor Magic 6 Pro? | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphoneipad-keyboard-malfunctions-here-are-six-fixes-you-need-to-try/"><u>IPhone/iPad Keyboard Malfunctions? Here Are Six Fixes You Need to Try</u></a></li>
+<li><a href="https://fox-that.techidaily.com/mastering-iphone-battery-health-through-a-quick-calibration-process/"><u>Mastering iPhone Battery Health Through a Quick Calibration Process</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/simplified-guide-to-incorporating-accurate-timestamps-in-youtube-videos-for-2024/"><u>Simplified Guide to Incorporating Accurate Timestamps in YouTube Videos for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Manually Adjust Your iPhone's Sound Settings Despite a Broken Ring/Silent Switch
-date: 2024-10-12T02:58:25.366Z
-updated: 2024-10-18T18:48:46.836Z
+date: 2024-10-18T21:14:19.302Z
+updated: 2024-10-24T19:57:46.598Z
 tags:
   - iphone
   - apple
@@ -68,37 +68,37 @@ Close
 
 ![AssistiveTouch settings on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customizing-assistivetouch-top-level-menu-1.jpg)
 
-![customizing AssistiveTouch's top-level menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customizing-assistivetouch-top-level-menu-2.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![customizing AssistiveTouch's top-level menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customizing-assistivetouch-top-level-menu-2.jpg)
 
 ![adding a new button to the AssistiveTouch menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customizing-assistivetouch-top-level-menu-3.jpg)
 
 ![selecting Mute action for the new AssistiveTouch button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customizing-assistivetouch-top-level-menu-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Mute action in AssistiveTouch's top-level menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customizing-assistivetouch-top-level-menu-5.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close
 
  All you need to do now is tap the AssistiveTouch button and hit**Mute** . When you do this, the**Mute** button will change to**Unmute** , and you can tap on it again to unmute the device quickly.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Set Up a Custom Action
@@ -114,9 +114,23 @@ Follow these simple instructions to get this done:
 
 ![adding Mute action to Double-Tap gesture](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/setting-a-custom-action-for-assistivetouch-button-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Close
 
  Once set up, muting and unmuting your iPhone should be even easier. Simply perform the gesture to which you've assigned the Mute action, and it'll mute the device. Repeat it again to unmute.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Mute or Unmute iPhone Using Back Tap
 
@@ -142,25 +156,11 @@ Close
 
 ![setting Mute action to a Back Tap gesture](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-using-back-tap-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Close
 
  Now, whenever you want to mute your iPhone, simply perform the double-tap or triple-tap gesture on the back of your iPhone. To unmute it, perform the same gesture again.
 
  With certain iPhone cases, especially thicker ones, you might need to tap harder for the iPhone to register your taps and trigger the action.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Broken iPhone Ring/Silent Switch? No Problem
 
@@ -183,16 +183,14 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-efficient-tweet-strategy-embrace-aspect-ratio-specifications/"><u>[Updated] 2024 Approved Efficient Tweet Strategy Embrace Aspect Ratio Specifications</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-19-secrets-to-free-capture-of-virtual-learning-sessions/"><u>2024 Approved 19 Secrets to FREE Capture of Virtual Learning Sessions</u></a></li>
-<li><a href="https://fox-that.techidaily.com/best-ways-to-resolve-persistent-iphone-app-crashes-a-10-point-guide/"><u>Best Ways to Resolve Persistent iPhone App Crashes: A 10-Point Guide</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/delete-gmail-account-withwithout-password-on-lava-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Lava</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-essential-voice-capturing-apps-for-ipads-3-top-picks/"><u>In 2024, Essential Voice Capturing Apps for iPads #3 Top Picks</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/inside-americas-favorite-non-omegle-video-chat-websites-a-current-ranking-guide-for-2024/"><u>Inside Americas Favorite Non-Omegle Video Chat Websites A Current Ranking Guide for 2024</u></a></li>
-<li><a href="https://techidaily.com/remove-the-lock-of-motorola-moto-g73-5g-by-drfone-android-unlock-android-unlock/"><u>Remove the lock of Motorola Moto G73 5G</u></a></li>
-<li><a href="https://fox-that.techidaily.com/revive-your-iphone-contacts-app-with-these-simple-troubleshooting-steps-3-tips/"><u>Revive Your iPhone Contacts App with These Simple Troubleshooting Steps (3 Tips)</u></a></li>
-<li><a href="https://fox-that.techidaily.com/tips-and-techniques-overcoming-common-imessage-delivery-obstacles-on-apples-smartphone/"><u>Tips & Techniques: Overcoming Common iMessage Delivery Obstacles on Apple's Smartphone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/trouble-with-the-cameras-image-analysis-feature-here-are-6-things-to-check/"><u>Trouble with the Camera's Image Analysis Feature? Here Are 6 Things to Check</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ling-hidden-details-in-asmr-recordings-for-2024/"><u>Unveiling Hidden Details in ASMR Recordings for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-tailor-made-templates-for-movie-endings-all-free-of-charge/"><u>[New] Tailor-Made Templates for Movie Endings – All Free of Charge</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-transformational-tools-in-youtube-studio-for-creators/"><u>[New] Transformational Tools in YouTube Studio for Creators</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-the-essentials-of-webcam-capture-with-free2x-app/"><u>[Updated] In 2024, The Essentials of WebCam Capture with Free2X App</u></a></li>
+<li><a href="https://fox-that.techidaily.com/escape-from-stuck-headphone-mode-the-ultimate-n-fix-strategies-for-iphones/"><u>Escape From Stuck Headphone Mode: The Ultimate N-Fix Strategies for iPhones</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fix-the-messaging-gap-get-your-iphones-up-to-date-receiving-texts-from-androids/"><u>Fix the Messaging Gap - Get Your iPhones Up-to-Date Receiving Texts From Androids</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-samsung-galaxy-a34-5g-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Samsung Galaxy A34 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-messages-back-from-infinix-hot-40-by-fonelab-android-recover-messages/"><u>Simple ways to get lost messages back from Infinix Hot 40</u></a></li>
+<li><a href="https://fox-that.techidaily.com/the-simplest-guide-to-softly-rebooting-your-iphone-device/"><u>The Simplest Guide to Softly Rebooting Your iPhone Device</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-7-ways-to-restore-wireless-charging-functionality-on-your-iphone/"><u>Top 7 Ways to Restore Wireless Charging Functionality on Your iPhone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Get Your AirDrop Back On Track: Expert Advice on Rapidly Fixing It With 16 Proven Tips"
-date: 2024-10-16T01:29:13.641Z
-updated: 2024-10-18T23:13:36.494Z
+date: 2024-10-20T18:41:21.771Z
+updated: 2024-10-24T17:52:14.112Z
 tags:
   - iphone
   - apple
@@ -48,6 +48,13 @@ thumbnail: https://thmb.techidaily.com/1dd490a8bd0fd9490b2a1a7e2f3e07f4fe2881674
 
 ![iphone control center showing high screen brightness](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/iphone-control-center-showing-high-screen-brightness.JPEG)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![network options in iphone control center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/network-options-in-iphone-control-center.JPEG)
 
 ![airdrop visibility options in iphone control center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/airdrop-visibility-options-in-iphone-control-center.JPEG)
@@ -58,6 +65,13 @@ Close
 
 ![airdrop visibility settings on mac](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/airdrop-visibility-settings-on-mac.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Prepare Both Devices to Receive an AirDrop Request
 
  Your device can't be discovered if it's locked and in sleep mode. You must prepare your device for incoming AirDrop transfers, making it more likely to show up on someone else's device without delay.
@@ -66,6 +80,13 @@ Close
 
 ![go tab in mac finder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/go-tab-in-mac-finder.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Turn Off AirDrop Restrictions
 
  If AirDrop isn't showing up at all, you may have blocked it in your**Content & Privacy Restrictions** for Screen Time. On an iPhone or iPad, go to **Settings > Screen Time > Content & Privacy Restrictions > Allowed Apps** .
@@ -73,13 +94,6 @@ Close
 ![iphone limit usage settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/iphone-limit-usage-settings.JPEG)
 
 ![iphone content and privacy restrictions settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/iphone-content-and-privacy-restrictions-settings.JPEG)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![allowed apps in iphone content and privacy restriction settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/allowed-apps-in-iphone-content-and-privacy-restriction-settings.JPEG)
 
@@ -91,13 +105,6 @@ Close
 
  Make sure**AirDrop** is turned on for each device. You may need to enter your Screen Time passcode to make these changes.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Enable AirDrop Over Cellular
 
  AirDrop's (Bluetooth) range is around 30 feet, so if you move beyond that distance, AirDrop won't work anymore. But if you've updated your device to iOS/iPadOS 17.1 (or later), you can enable a setting to allow AirDrop file transfers to continue even after you leave the range.
@@ -106,9 +113,23 @@ Close
 
 ![iphone general settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/iphone-general-settings-2.JPEG)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![iPhone General settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/iphone-general-settings.JPEG)
 
 ![iphone airdrop settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/iphone-airdrop-settings.JPEG)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close
 
@@ -121,10 +142,10 @@ Close
  Note that NameDrop only lets you share new contact information. You can't update an existing contact with NameDrop.
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
-  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Turn Off Do Not Disturb Mode
@@ -153,27 +174,20 @@ Close
 
 ![browse tab in iphone files app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/browse-tab-in-iphone-files-app.JPEG)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![on my iphone folder in files app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/on-my-iphone-folder-in-files-app.JPEG)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Close
 
  On a Mac, you can usually find the**Downloads** folder by opening a new Finder window and pressing**Option + Command + L** . You may also find it next to**Trash** on your**Dock** .
 
 ![Downloads folder in macOS Sonoma](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/downloads-folder-in-macos-sonoma.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 11\. Turn Off Your VPN for AirDrop to Work
 
@@ -205,13 +219,6 @@ Close
 
 ![iphone main settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/img_7705.JPEG)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
-  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![iPhone General settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/iphone-general-settings.JPEG)
 
 Close
@@ -219,6 +226,19 @@ Close
 ## 15\. Restart Both Devices
 
  This is a classic troubleshooting tip because it's so effective.[Restarting your iPhone](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) , iPad, or Mac might be all you need to get AirDrop working again. And it only takes a moment to try it.
+
+<!-- affiliate ads begin -->
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 16\. Reset the Network Settings on Your Device
 
@@ -228,21 +248,7 @@ Close
 
 ![iphone general settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/iphone-reset.JPEG)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![reset iphone settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/iphone-reset-settings.JPEG)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Close
 
@@ -267,21 +273,22 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-fullscreen-image-of-page-layout/"><u>[New] In 2024, Fullscreen Image of Page Layout</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-battle-royale-concrete-fists-vs-digital-screens/"><u>[Updated] 2024 Approved Battle Royale Concrete Fists vs Digital Screens</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-master-the-art-of-text-sculpting-for-an-astonishing-photos-effect/"><u>[Updated] 2024 Approved Master the Art of Text Sculpting for an Astonishing PHOTOS Effect</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-efficient-backdrop-removal-methods-in-figma-design/"><u>[Updated] Efficient Backdrop Removal Methods in Figma Design</u></a></li>
-<li><a href="https://fox-that.techidaily.com/battery-health-on-the-new-iphone-14-critical-information-every-user-should-be-aware-of/"><u>Battery Health on the New iPhone 14: Critical Information Every User Should Be Aware Of</u></a></li>
-<li><a href="https://fox-that.techidaily.com/correcting-the-error-of-iphones-being-ignored-by-itunesfinder-get-expert-guidance-now/"><u>Correcting the Error of iPhones Being Ignored by iTunes/Finder – Get Expert Guidance Now</u></a></li>
-<li><a href="https://fox-that.techidaily.com/experiencing-lag-on-instagram-discover-these-6-remedies-to-enhance-your-app-speed-on-mobile-devices/"><u>Experiencing Lag on Instagram? Discover These 6 Remedies to Enhance Your App Speed on Mobile Devices</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/how-to-turn-off-default-recommended-podcast-listings-in-spotify/"><u>How to Turn Off Default Recommended Podcast Listings in Spotify</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-issues-with-discords-push-to-talk-step-by-step-solution/"><u>Resolving Issues with Discord's Push-to-Talk - Step by Step Solution</u></a></li>
-<li><a href="https://fox-that.techidaily.com/revitalize-your-iphones-battery-complete-guide-in-6-steps/"><u>Revitalize Your iPhone's Battery: Complete Guide in 6 Steps!</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-tecno-phantom-v-flip-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Tecno Phantom V Flip | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-tutorial-for-adding-automated-assistants-to-discord/"><u>The Ultimate Tutorial for Adding Automated Assistants to Discord</u></a></li>
-<li><a href="https://fox-that.techidaily.com/top-6-persistent-problems-with-the-iphone-13-solutions-revealed/"><u>Top 6 Persistent Problems with the iPhone 13: Solutions Revealed</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-guide-solving-iphone-mobile-hotspot-issues/"><u>Troubleshooting Guide: Solving iPhone Mobile Hotspot Issues</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/unleashing-creativity-a-guide-to-innovative-gopro-video-editing-for-2024/"><u>Unleashing Creativity A Guide to Innovative GoPro Video Editing for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/unsticking-silent-icons-essential-troubleshooting-steps-for-iphones-that-wont-ring/"><u>Unsticking Silent Icons: Essential Troubleshooting Steps for iPhones That Won't Ring</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-tips-for-efficient-youtube-to-mpeg-transcoding/"><u>2024 Approved Expert Tips for Efficient YouTube-to-MPEG Transcoding</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-synergy-of-content-and-platform-for-peak-performance/"><u>2024 Approved The Synergy of Content and Platform for Peak Performance</u></a></li>
+<li><a href="https://fox-that.techidaily.com/6-crucial-steps-to-ensure-smooth-operation-of-your-shared-media-library-with-family/"><u>6 Crucial Steps to Ensure Smooth Operation of Your Shared Media Library with Family</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-review-of-the-economical-apple-watch-se/"><u>Comprehensive Review of the Economical Apple Watch SE</u></a></li>
+<li><a href="https://fox-that.techidaily.com/conquering-annoying-iphone-x-issues-expert-tips-for-a-smooth-experience/"><u>Conquering Annoying iPhone X Issues: Expert Tips for a Smooth Experience</u></a></li>
+<li><a href="https://fox-that.techidaily.com/control-center-malfunction-8-effective-ways-to-restore-functionality-on-ios-devices/"><u>Control Center Malfunction? 8 Effective Ways to Restore Functionality on iOS Devices</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-apple-iphone-13-mini-screen-mirroring-you-must-know-drfone-by-drfone-ios/"><u>In 2024, Apple iPhone 13 mini Screen Mirroring You Must Know | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/incorporating-real-time-photos-into-team-conversations/"><u>Incorporating Real-Time Photos Into Team Conversations</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/integrate-twitter-and-snapchat-posting-tweets-as-snaps-for-2024/"><u>Integrate Twitter & Snapchat Posting Tweets as Snaps for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcome-apple-transaction-hurdles-discover-these-6-critical-fixes/"><u>Overcome Apple Transaction Hurdles: Discover These 6 Critical Fixes</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-display-errors-solutions-for-epic-games-launcher-blackout-scenario/"><u>Resolving Display Errors: Solutions for Epic Games Launcher Blackout Scenario</u></a></li>
+<li><a href="https://fox-that.techidaily.com/safari-struggles-discover-these-10-fixes-for-an-improved-iphone-browsing-experience/"><u>Safari Struggles? Discover These 10 Fixes for an Improved iPhone Browsing Experience</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-transformers-movie-marathon-plan-watch-them-all-without-missing-a-beat/"><u>The Ultimate Transformers Movie Marathon Plan – Watch Them All Without Missing a Beat</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-slow-safari-on-iphone-discover-these-4-quick-fixes/"><u>Troubleshooting Slow Safari on iPhone? Discover These 4 Quick Fixes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-steps-reviving-your-non-functioning-iphoneipad/"><u>Troubleshooting Steps: Reviving Your Non-Functioning iPhone/iPad</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-master-your-sound-without-spending-a-dime-top-11-free-audio-tools-for-pc-and-mac-users/"><u>Updated In 2024, Master Your Sound Without Spending a Dime Top 11 Free Audio Tools for PC & Mac Users</u></a></li>
+<li><a href="https://fox-that.techidaily.com/why-cant-i-see-my-iphone-in-find-my-understanding-and-overcoming-the-hurdles/"><u>Why Can't I See My iPhone in 'Find My'? Understanding & Overcoming the Hurdles</u></a></li>
 </ul></div>
 

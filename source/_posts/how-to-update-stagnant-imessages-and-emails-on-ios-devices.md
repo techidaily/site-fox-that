@@ -1,7 +1,7 @@
 ---
 title: How to Update Stagnant iMessages and Emails on iOS Devices
-date: 2024-09-09T11:31:50.083Z
-updated: 2024-09-10T11:31:50.083Z
+date: 2024-10-22T16:06:23.284Z
+updated: 2024-10-24T16:46:34.482Z
 tags:
   - iphone
   - apple
@@ -32,12 +32,6 @@ thumbnail: https://thmb.techidaily.com/0b4741c5a95a2eb27426575b3e77bfe93d41de0ce
 
  After that, wait 10 seconds, turn off Airplane Mode, then check your Mail app. If nothing has changed, try the manual refresh in #1 above.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Reset Network Settings
 
  You can fix any underlying connectivity issues by resetting your network settings. You can do so in the reset iPhone section, which allows you to [reset your iPhone's Home Screen layout](https://www.makeuseof.com/how-to-reset-your-iphone-home-screen/) , network settings, location, and keyboard dictionary.
@@ -46,24 +40,12 @@ thumbnail: https://thmb.techidaily.com/0b4741c5a95a2eb27426575b3e77bfe93d41de0ce
 
 ![fixing iPhone email not updating--method 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/IMG_8061.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![fixing iPhone email not updating--method 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/IMG_8062.jpg)
 
 ![fixing iPhone email not updating--method 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/IMG_8063.jpg)
 
 ![fixing iPhone email not updating--method 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/IMG_8064.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Close
 
 ## 4\. Check Mail Settings
@@ -76,32 +58,14 @@ Close
 
 ![fixing iPhone email not updating--method 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/IMG_8066.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115920/19272" target="_top" id="2115920">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115920" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115920/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![fixing iPhone email not updating](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/IMG_8067-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![fixing iPhone email not updating](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/IMG_8068-2.jpg)
 
 Close
 
  If you only have trouble with a specific mailbox, tap it from the**Accounts** list and select**Push** from the menu on the next page. And for accounts that do not offer a Push option (such as Gmail accounts), select**Fetch** . Next, select an update frequency from the Fetch Schedule below the Accounts menu. You want to set it to the quickest update interval possible—**Every 15 Minutes** . If you wish to update your email even quicker, manually refresh the Mail app.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Delete and Reinstall the Mail App
 
  A sure method to reset any possible in-app issues is to delete and reinstall the app itself. This will restore any settings you may have tampered with to default and possibly fix the problem of your iPhone emails not updating.
@@ -112,15 +76,36 @@ Close
 
 ![The General settings page in iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/01-general-settings-iphone.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![iPhone Storage management page in iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/02-iphone-storage-page.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115909/19272" target="_top" id="2115909">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115909" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![Mail app storage management in iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/03-mail-app-settings-on-iphone.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![Deleting the Mail app in iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/04-deleting-mail-app-iphone.jpg)
 
@@ -129,6 +114,13 @@ Close
  Then, reinstall the Mail app from the App Store, launch it, and sign in with your email address. You can add any additional accounts in**Settings > Mail > Accounts** \>**Add Accounts** .
 
 **Download:** [Mail](http://apps.apple.com/us/app/mail/id1108187098) (Free)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Remove and Re-Add the Account
 
@@ -150,12 +142,6 @@ Close
 
 ![fixing iPhone email not updating](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/IMG_8070.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![fixing iPhone email not updating](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/IMG_8071.jpg)
 
 Close
@@ -163,11 +149,12 @@ Close
  But notifications on iPhone can be complicated to work with, which could be why you're not getting emails on your iPhone. That's why we have a dedicated article on various [fixes to try if you're not getting any notifications on your iPhone](https://www.makeuseof.com/notifications-dont-show-up-iphone-fixes/) .
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 8\. Enable Background App Refresh
 
  Another possible fix is to enable background app refresh. This feature allows apps to update with new content even when you're not actively using them. Background App Refresh is also a useful feature for [reducing your mobile data usage](https://www.makeuseof.com/tag/everything-can-cut-iphone-cellular-data-usage/) , so that's a win.
@@ -175,29 +162,18 @@ Close
  To enable Background app refresh, go to**Settings > General > Background App Refresh** and select your preferred conditions for its use—Wi-Fi only or Wi-Fi and Mobile Data.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115943/19272" target="_top" id="2115943">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115943" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 9\. Check Cellular Data Settings
 
  Some people restrict certain apps from using cellular data to conserve data usage. If you notice that your Mail app does not update when you're on cellular data, chances are you've blocked it from using your iPhone's mobile bandwidth.
 
  To disable the setting, open the**Settings** app and select**Cellular/Mobile Data** from the menu. Then, scroll down the apps list until you find the Mail app, and turn on the switch beside it.
 
-<!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 10\. Disable Low Data Mode
 
  iOS has a [Low Data Mode](https://www.makeuseof.com/how-to-use-low-data-mode-iphone-ipad/) that conserves Wi-Fi and cellular network bandwidth. If you enabled the feature previously, it could be why your iPhone Mail is not updating, as it could be restricting internet activity on the app.
@@ -208,30 +184,26 @@ Close
 
 ![fixing iPhone email not updating](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/IMG_8072.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![fixing iPhone email not updating](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/IMG_8074.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![fixing iPhone email not updating](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/IMG_8075.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Close
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 11\. Disable Low Power Mode
 
  Another feature that could restrict internet activity on the Mail app is the Low Power Mode, which tends to limit various background activities, so you can [conserve your iPhone battery](https://www.makeuseof.com/tips-save-battery-iphone/) . To disable the feature, go to**Settings > Battery** and toggle off the Low Power Mode switch.
@@ -244,12 +216,6 @@ Close
 
  After your iPhone shuts down completely, hold down the Side button to reboot it.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 13\. Update Your iPhone
 
  If all else fails, try updating your iPhone. The Mail app may be unable to update your inbox due to bugs and glitches in the iPhone's system software. Update to the latest iOS version by going to**Settings > General > Software Update** .
@@ -264,8 +230,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -273,4 +237,22 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-the-best-ten-spotify-equipment-for-high-quality-recording/"><u>[New] The Best Ten Spotify Equipment for High-Quality Recording</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-improving-viewer-experience-with-clearer-web-content/"><u>2024 Approved Improving Viewer Experience with Clearer Web Content</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/a-how-to-guide-on-bypassing-the-iphone-13-pro-max-icloud-lock-by-drfone-ios/"><u>A How-To Guide on Bypassing the iPhone 13 Pro Max iCloud Lock</u></a></li>
+<li><a href="https://fox-that.techidaily.com/beat-the-heat-on-apple-gadgets-discover-why-iphonesipads-overheat-and-remedies/"><u>Beat the Heat on Apple Gadgets: Discover Why iPhones/iPads Overheat & Remedies</u></a></li>
+<li><a href="https://fox-that.techidaily.com/expert-solutions-resolving-issues-with-shared-family-accounts/"><u>Expert Solutions: Resolving Issues with Shared Family Accounts</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-erase-iphone-15-plus-data-permanently-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase iPhone 15 Plus Data Permanently | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721480289703-must-have-features-awaiting-in-ios-153-dont-miss-out/"><u>Must-Have Features Awaiting in iOS 15.3 – Don't Miss Out!</u></a></li>
+<li><a href="https://win-tips.techidaily.com/resolving-constant-crashes-fixing-persistent-freezing-issues-with-emeditor-v903-on-parallels/"><u>Resolving Constant Crashes: Fixing Persistent Freezing Issues with EmEditor v9.03 on Parallels</u></a></li>
+<li><a href="https://fox-access.techidaily.com/six-quick-tips-for-efficient-beginner-edits-in-ps/"><u>Six Quick Tips for Efficient Beginner Edits in PS</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solve-your-ios-wi-fi-dilemma-essential-tips-and-tricks-for-reconnecting-iphones-and-ipads-8-fixes/"><u>Solve Your iOS Wi-Fi Dilemma: Essential Tips & Tricks for Reconnecting iPhones and iPads (8 Fixes)</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/step-by-step-process-for-deleting-stickers-from-tiktok-for-2024/"><u>Step-by-Step Process for Deleting Stickers From TikTok for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-do-not-disturb-issues-8-strategies-for-getting-sms-and-voice-calls-on-your-iphone/"><u>Troubleshooting Do Not Disturb Issues: 8 Strategies for Getting SMS and Voice Calls on Your iPhone</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-nokia-c210-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Nokia C210 | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/why-does-my-iphone-lag-discover-the-main-factors-and-quick-fixes/"><u>Why Does My iPhone Lag? Discover the Main Factors & Quick Fixes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/why-does-my-iphoneipad-get-hot-discover-causes-prevention-and-fixes/"><u>Why Does My iPhone/iPad Get Hot? Discover Causes, Prevention & Fixes</u></a></li>
+</ul></div>
 

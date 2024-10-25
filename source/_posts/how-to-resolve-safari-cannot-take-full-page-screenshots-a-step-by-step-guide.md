@@ -1,7 +1,7 @@
 ---
 title: "How to Resolve 'Safari Cannot Take Full-Page Screenshots': A Step-by-Step Guide"
-date: 2024-10-17T01:01:30.652Z
-updated: 2024-10-19T03:41:32.176Z
+date: 2024-10-17T17:33:57.608Z
+updated: 2024-10-24T22:01:23.399Z
 tags:
   - iphone
   - apple
@@ -29,22 +29,21 @@ thumbnail: https://thmb.techidaily.com/9be41d62e85e6d9d35faed892e42e95be3740ff67
 
  Related:[How to Take Full-Page Screenshots in Safari on iOS](https://www.makeuseof.com/how-to-screenshot-full-webpage-safari-ios/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What to Do When Full-Page Screenshots Aren't Working
 
 Try these tips if you can't take full-page screenshots in Safari.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. Check Your iOS Version
@@ -54,10 +53,10 @@ Try these tips if you can't take full-page screenshots in Safari.
  If your OS is not the problem, make sure to check the app you’re using when attempting to take a full-page screenshot. It only works with Safari.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Make Sure You're in Safari
@@ -66,14 +65,14 @@ Try these tips if you can't take full-page screenshots in Safari.
 
 ![Full-page screenshots](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/08/Full-page-screenshots.PNG)
 
-![Save Full-page screenshots](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/08/Save-Full-page-screenshots.PNG)
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![Save Full-page screenshots](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/08/Save-Full-page-screenshots.PNG)
 
 Close
 
@@ -86,6 +85,13 @@ Close
  However, if you don’t like a cluttered Home Screen, you can also launch Safari from the App Library.
 
  Related:[What Is the iPhone App Library and How Do I Use It?](https://www.makeuseof.com/iphone-app-library-use/)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Take Screenshots Again
 
@@ -106,20 +112,16 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-a-compreran-analysis-asus-proart-pa-329qs-innovations-in-4k-monitoring-for-2024/"><u>[New] A Compreran Analysis Asus ProArt PA 329Q’s Innovations in 4K Monitoring for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-facebooks-fabulous-video-showcase/"><u>[Updated] Facebook's Fabulous Video Showcase</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-refining-screen-enlargement-for-clear-views/"><u>2024 Approved Refining Screen Enlargement for Clear Views</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-selective-picks-for-audible-transformation-technologies/"><u>2024 Approved Selective Picks for Audible Transformation Technologies</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-resolve-iphone-mobile-hotspot-connectivity-problems/"><u>How To Resolve iPhone Mobile Hotspot Connectivity Problems</u></a></li>
-<li><a href="https://fox-that.techidaily.com/icloud-backup-woes-why-is-my-whatsapp-data-not-uploading-and-how-to-correct-it/"><u>ICloud Backup Woes: Why Is My WhatsApp Data Not Uploading and How to Correct It</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-converting-youtube-videos-into-engaging-gifs-on-devices/"><u>In 2024, Converting YouTube Videos Into Engaging GIFs on Devices</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-access-your-iphone-11-when-you-forget-the-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Access Your iPhone 11 When You Forget the Passcode? | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/ion-audio-tailgater-plus-assessment-experience-endless-sound-quality-with-instant-bass-amplification/"><u>ION Audio Tailgater Plus Assessment: Experience Endless Sound Quality with Instant Bass Amplification</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/quick-steps-for-adding-speech-to-text-in-powerpoint-slides-for-2024/"><u>Quick Steps for Adding Speech-to-Text in PowerPoint Slides for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solving-iphone-app-download-issues-top-10-tips-and-tricks/"><u>Solving iPhone App Download Issues: Top 10 Tips & Tricks</u></a></li>
-<li><a href="https://fox-that.techidaily.com/step-by-step-guide-securing-an-appointment-at-the-genius-bar-for-iphone-hardware-assessments/"><u>Step-by-Step Guide: Securing an Appointment at the Genius Bar for iPhone Hardware Assessments</u></a></li>
-<li><a href="https://app-tips.techidaily.com/superior-plus-top-billion-dollar-natural-gas-provider-targeted-by-cyber-attack-insights-from-zdnet/"><u>Superior Plus, Top Billion-Dollar Natural Gas Provider, Targeted by Cyber Attack: Insights From ZDNet</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/unlocking-potential-creating-your-youtube-identity-for-2024/"><u>Unlocking Potential Creating Your YouTube Identity for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/why-your-text-might-appear-as-an-sms-are-you-experiencing-being-blocked-on-imessage/"><u>Why Your Text Might Appear as an SMS: Are You Experiencing Being Blocked on iMessage?</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-mastery-of-image-warping-made-simple-for-2024/"><u>[New] Mastery of Image Warping Made Simple for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/avoiding-tech-hassles-how-dfu-mode-can-fix-your-iphones-top-5-problems/"><u>Avoiding Tech Hassles: How DFU Mode Can Fix Your iPhone's Top 5 Problems</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/from-words-to-works-of-art-creating-striking-visuals-with-ease-using-chatgpt/"><u>From Words to Works of Art: Creating Striking Visuals with Ease Using ChatGPT</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unlocking-full-sphere-video-potential-on-ios-devices/"><u>In 2024, Unlocking Full-Sphere Video Potential on iOS Devices</u></a></li>
+<li><a href="https://fox-that.techidaily.com/mastering-the-fix-for-persistent-imessage-sign-out-issues-on-iphone-devices/"><u>Mastering the Fix for Persistent iMessage Sign-Out Issues on iPhone Devices</u></a></li>
+<li><a href="https://fox-that.techidaily.com/navigating-through-iphone-14-battery-health-challenges-a-comprehensive-guide/"><u>Navigating Through iPhone 14 Battery Health Challenges: A Comprehensive Guide</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/resolving-network-path-and-pxe-errors-a-comprehensive-guide/"><u>Resolving Network Path and PXE Errors - A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/safari-full-page-image-snags-quick-fixes-for-your-screen-capture-woes/"><u>Safari Full-Page Image Snags: Quick Fixes for Your Screen Capture Woes!</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/tage-des-deutschen-jahreszyklus-lernen/"><u>Tage Des Deutschen Jahreszyklus Lernen</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-the-effects-of-artificeus-censorship-on-your-daily-interactions-with-chatbots/"><u>Understanding the Effects of Artificeus' Censorship on Your Daily Interactions with Chatbots</u></a></li>
+<li><a href="https://fox-that.techidaily.com/workaround-strategies-maximizing-use-of-unsupported-accessories-with-your-ios-device/"><u>Workaround Strategies: Maximizing Use of Unsupported Accessories with Your iOS Device</u></a></li>
 </ul></div>
 
