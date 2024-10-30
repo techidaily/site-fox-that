@@ -1,7 +1,7 @@
 ---
 title: Can't Dial on Your iPhone? Try These 10 Proven Ways to Get It Working Again
-date: 2024-09-05T02:40:37.769Z
-updated: 2024-09-06T02:40:37.769Z
+date: 2024-10-23T19:34:07.295Z
+updated: 2024-10-30T19:22:29.554Z
 tags:
   - iphone
   - apple
@@ -32,6 +32,13 @@ Close
 
  Toggling Airplane Mode on and off can also fix seemingly unrelated calling issues.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Check Your Mobile Plan
 
  If your iPhone won't make calls but will text, you might need to check your mobile plan. To make a call using your iPhone's Phone app, you need an active mobile plan with sufficient call credit or minutes.
@@ -50,18 +57,6 @@ Close
 
  If there are no bars at all, or if you see**No Service** in the status bar, visit your network provider's website and look for a coverage map to find out if you're supposed to get any signal in your current location.
 
-<!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Turn On Wi-Fi Calling
 
  Wi-Fi calling helps you to make (and receive) calls when you have poor cellular reception but can connect to a Wi-Fi network.
@@ -70,52 +65,49 @@ Close
 
 ![iphone settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/iphone-settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![phone app settings on iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/wifi-calling-2-1.jpg)
 
 ![enable wifi calling on iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/wifi-calling.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Close
 
-<!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Check for a Carrier Settings Update
 
  Another solution is to check if your carrier provider has network-related updates. First, connect your iPhone to Wi-Fi or enable cellular data. Then, go to the**Settings** app. Select**General** and tap**About** .
 
  If an update is available, you'll see a**Carrier Settings Update** prompt. Tap**Update** to begin the installation.
 
+<!-- affiliate ads begin -->
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Restart Your iPhone
 
  A common but effective fix for most tech issues is to simply reboot your device. Different iPhone models often have different restart methods. So, if you're unsure exactly what to do, you can read our dedication guide on [restarting your iPhone](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) —it doesn't matter even if your iPhone's buttons are broken.
 
 <!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 7\. Remove and Reinsert Your iPhone's SIM Card
 
 ![nano sim card and tray](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/sim-card.jpg)
@@ -127,11 +119,12 @@ Close
  After removing the SIM card, gently wipe it with a soft, lint-free cloth. Then, place the SIM card back into the tray and slide it into your iPhone. It's important to handle these components carefully to avoid causing damage to your device in the process.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
-  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 8\. Update Your iPhone
 
  Apple's iOS software updates often come with bug fixes that fix minor software bugs. Sometimes, you can resolve your iPhone's call issues by simply keeping your iPhone up to date.
@@ -139,23 +132,24 @@ Close
  So, check out our guide on [updating your iPhone](https://www.makeuseof.com/tag/update-iphone-ios-apps-data/) , or just go to**Settings > General > Software Update** to see if an update is available for your device.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 9\. Reset Network Settings
 
  You might not be able to make calls from your iPhone if there are network-related problems. So, the next solution is to [reset network settings on your iPhone](https://www.makeuseof.com/how-to-reset-network-settings-iphone/) .
 
  Rest assured that this is not a factory reset. It simply deletes network data, such as Wi-Fi passwords and Bluetooth device connections—all of which can be easily set up again later on. All the content stored on your iPhone should be totally fine—like your apps, photos, and music.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 10\. Reset All Settings
 
  If your iPhone still can't make calls, the last solution you can attempt is to reset all the settings on your iPhone. To do this, go to**Settings > General > Transfer or Reset iPhone** . Tap**Reset** and select**Reset All Settings** . You'll be prompted to enter your device passcode to proceed.
@@ -164,22 +158,10 @@ Close
 
  However, this process can take a long time if you have a lot of data on your device. Before trying this solution, please consider whether the problem could actually be with the person you're trying to call. You may want to find another way to reach out to them to ensure their phone is working before spending more time resetting settings on your own device.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
-  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Your iPhone May Not Be the Problem
 
 ![focus modes in iphone control center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/iphone-focus-mode.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  There are a few reasons why your target recipient's device may not receive your call. For example, they may have a poor signal even if you don't. Or perhaps they put their phone into Do Not Disturb mode to block all calls.
 
  There's a quick way to confirm whether the problem lies with your iPhone's functionality. You can try calling someone in the same room as you or someone you know who is available to pick up your test call.
@@ -187,11 +169,12 @@ Close
  If the call goes through successfully, it means your iPhone can make an outgoing call without issues, so the problem must be with the other person you're trying to call.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Alternative Ways to Call Someone
 
  If you suspect the problem is with your device, the Phone app isn't your only option when you need to call someone. Here are some alternative methods to make a call from your iPhone.
@@ -203,6 +186,13 @@ Close
 ### Use Third-Party Apps
 
 ![purple iphone home screen showing social media and messaging apps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/iphone-social-media.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you can connect to a Wi-Fi network, you can [make a call using third-party apps](http://www.makeuseof.com/tag/the-ultimate-guide-to-making-a-call-using-your-iphone/) , such as WhatsApp and Messenger, instead. These apps enable you to make free calls over an internet connection.
 
@@ -224,8 +214,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -233,4 +221,18 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-how-to-do-a-poll-on-instagram-stories-a-complete-guide-for-2024/"><u>[New] How to Do a Poll on Instagram Stories - a Complete Guide for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-capture-stillness-on-the-go-without-tripods/"><u>[Updated] 2024 Approved Capture Stillness on the Go without Tripods</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-high-fidelity-remote-call-software-beyond-zoom/"><u>[Updated] 2024 Approved High-Fidelity Remote Call Software (Beyond Zoom)</u></a></li>
+<li><a href="https://fox-that.techidaily.com/5-fixes-when-dictation-is-not-working-on-your-iphone/"><u>5 Fixes When Dictation Is Not Working on Your iPhone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/audiophiles-selection-of-leading-sound-cards-for-pcs-this-year-2024/"><u>Audiophile's Selection of Leading Sound Cards for PCs This Year, 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/banish-flickering-screens-7-smart-fixes-to-restore-stability-on-your-mobile-device/"><u>Banish Flickering Screens: 7 Smart Fixes to Restore Stability on Your Mobile Device</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-look-at-the-sony-playstation-5s-enhanced-capabilities/"><u>Comprehensive Look at the Sony PlayStation 5'S Enhanced Capabilities</u></a></li>
+<li><a href="https://fox-that.techidaily.com/revive-your-iphones-voicemail-top-9-solutions/"><u>Revive Your iPhone's Voicemail: Top 9 Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/the-essential-walkthrough-for-performing-a-full-reset-on-apple-mobile-devices/"><u>The Essential Walkthrough for Performing a Full Reset on Apple Mobile Devices</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-perfect-solution-when-you-need-to-retract-your-tiktok-repost-step-by-step-instructions/"><u>The Perfect Solution When You Need to Retract Your TikTok Repost - Step-by-Step Instructions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-8-solutions-how-to-get-your-iphone-out-of-sticky-earpiece-mode/"><u>Top 8 Solutions: How to Get Your iPhone Out of Sticky Earpiece Mode</u></a></li>
+</ul></div>
 

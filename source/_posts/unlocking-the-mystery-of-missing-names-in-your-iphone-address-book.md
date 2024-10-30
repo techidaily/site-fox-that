@@ -1,7 +1,7 @@
 ---
 title: Unlocking the Mystery of Missing Names in Your iPhone Address Book
-date: 2024-10-18T23:17:31.308Z
-updated: 2024-10-24T19:15:23.857Z
+date: 2024-10-28T20:11:27.753Z
+updated: 2024-10-30T17:02:01.152Z
 tags:
   - iphone
   - apple
@@ -35,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/fddafecbf8d052882c8613835d6b91422875b8a8a
 
  There are different ways to restart your iPhone, depending on the model. Read our dedicated guide on [how to restart any iPhone](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) for step-by-step instructions. Once your iPhone is back up and running, confirm if your contacts have been restored. If not, move on to step number two.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Resync Your Contacts With iCloud
 
  You could also fix this issue by resyncing your Contacts app with iCloud. We’ll do this by disabling iCloud access to Contacts and then re-enabling it again. Here’s how:
@@ -47,14 +54,14 @@ thumbnail: https://thmb.techidaily.com/fddafecbf8d052882c8613835d6b91422875b8a8a
 
 ![iPhone Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/Settings-iPhone.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![iCloud settings in iOS 16](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/icloud-page-ios-16.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![Disabling Contacts sync in iOS 16](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/disabling-contacts-sync-ios-16.jpg)
 
@@ -80,6 +87,13 @@ Close
 
  If some contacts from a particular account weren’t showing up on your iPhone, this should fix the issue. However, read on if you still don’t see all your contacts.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Add All Your Accounts to Your iPhone
 
  If you have several accounts that you use, chances are contacts might be saved across them. To fix this, you need to add all your accounts to your iPhone to ensure you have access to all your contacts. So, follow these steps to add an account to your iPhone:
@@ -92,20 +106,13 @@ Close
 ![Contacts settings page in iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/01-contacts-settings-ios.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Accounts page in iOS settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/02-accounts-ios-settings.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Adding a new account in iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/03-add-account-ios.jpg)
 
@@ -123,36 +130,35 @@ Close
 
 ![Screenshot of iOS Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/iOS-Settings-app.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Contacts settings in iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/Contacts-option-in-iOS-settings-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Individual account settings in iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/Individual-account-settings-iOS.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close
 
  If contacts from one of your connected accounts weren’t showing up on your iPhone, this should help fix the issue.
 
  Additionally, you can try disabling and enabling Short Name on your iPhone. While this feature is handy to ensure more names fit on the screen, it can sometimes be problematic. To do this, go to**Settings > Contacts > Short Name** . Disable**Short Name** , then wait for some time and turn it on.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Rebuild Your iPhone Contacts
 
@@ -164,6 +170,13 @@ Close
 
 ![Editing contact details on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/01-edit-iphone-contact.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Editing contact details on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/02-editing-contact-details-iphone.jpg)
 
 ![An edited contact on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/edited-contact-ios.jpg)
@@ -171,13 +184,6 @@ Close
 Close
 
  When your iPhone powers on, it will have to rebuild all the contact names and details. Once your iPhone restores all the contacts, you can delete the fake information you added to the contact above. Check if your contacts have been restored after a few minutes. If this doesn’t solve your issue, try data recovery tools.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Recover Lost Data Using iCloud or Data Recovery Tools
 
@@ -190,10 +196,10 @@ Close
  If that doesn’t work, you can try using third-party [data recovery tools](https://www.makeuseof.com/tag/data-recovery-work/) to restore your contacts. There are a variety of affordable tools on the market for the job. A good example is [PhoneRescue by iMobie](https://www.imobie.com/phonerescue/buy-ios-data-recovery.htm) , which is highly reputable and works with many iOS versions, including iOS 16\. However, you’ll have to spend some cash to get it.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
+  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Seek the Help of Apple Support
@@ -223,22 +229,20 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/updated-trending-platforms-clash-can-likeeclipse-the-dominance-of-tiktok-for-2024/"><u>[Updated] Trending Platforms Clash Can LikeEclipse the Dominance of TikTok for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/10-best-cars-surveillance-systems-decoded-for-2024/"><u>10 Best Cars Surveillance Systems Decoded for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-maximizing-your-reach-with-youtube-shorts-templates/"><u>2024 Approved Maximizing Your Reach with YouTube Shorts Templates</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/cost-effective-case-for-macbook-pro-13-users-a-review-of-the-practical-and-budget-friendly-procase-choice/"><u>Cost-Effective Case for MacBook Pro 13 Users: A Review of the Practical and Budget-Friendly ProCase Choice</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/easily-fix-a-malfunctioning-wireless-or-wired-mouse-a-step-by-nstep-guide-for-laptops/"><u>Easily Fix a Malfunctioning Wireless or Wired Mouse: A Step-by-nStep Guide for Laptops</u></a></li>
-<li><a href="https://fox-that.techidaily.com/experiencing-a-glitchy-screen-here-are-7-ways-to-stop-the-flicker-on-your-device/"><u>Experiencing a Glitchy Screen? Here Are 7 Ways to Stop the Flicker on Your Device</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/futuristic-feature-unveiling-mac-via-applewatch-for-2024/"><u>Futuristic Feature Unveiling Mac via AppleWatch for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-diagnose-and-fix-pace-lag-in-your-phones-wi-fi-connection-7-key-reasons/"><u>How to Diagnose and Fix Pace Lag in Your Phone's Wi-Fi Connection: 7 Key Reasons</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>In 2024, How can I get more stardust in pokemon go On Apple iPhone 6s? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-top-12-prominent-lava-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Lava Fingerprint Not Working Solutions</u></a></li>
-<li><a href="https://fox-that.techidaily.com/locate-a-missing-or-hijacked-iphone-mastering-apples-find-my-tool/"><u>Locate a Missing or Hijacked iPhone: Mastering Apple's Find My Tool</u></a></li>
-<li><a href="https://fox-that.techidaily.com/managing-iphones-do-not-disturb-tips-for-getting-texts-and-calls-in-8-easy-steps/"><u>Managing iPhones 'Do Not Disturb': Tips for Getting Texts and Calls in 8 Easy Steps</u></a></li>
-<li><a href="https://fox-that.techidaily.com/say-goodbye-to-silent-messages-how-to-troubleshoot-and-restore-sounds-on-iphones-18-fixes-inside/"><u>Say Goodbye to Silent Messages: How To Troubleshoot and Restore Sounds on iPhones (18 Fixes Inside)</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solve-late-arrival-of-iphone-texts-discover-9-effective-strategies/"><u>Solve Late Arrival of iPhone Texts: Discover 9 Effective Strategies</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/spark-creativity-get-to-know-windows-11s-movie-maker-app-for-2024/"><u>Spark Creativity Get to Know Windows 11'S Movie Maker App for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/trouble-with-whatsapp-and-icloud-sync-learn-the-solutions/"><u>Trouble with WhatsApp and iCloud Sync? Learn the Solutions</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshoot-iphones-cellular-connection-top-10-solutions-for-when-it-stops-working/"><u>Troubleshoot iPhone's Cellular Connection: Top 10 Solutions for When It Stops Working</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-secrets-to-saving-switch-gameplay-on-video/"><u>[Updated] 2024 Approved Secrets to Saving Switch Gameplay on Video</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-trending-picture-tales-history-revealed/"><u>[Updated] Trending Picture Tales History Revealed</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-exploring-the-reasons-behind-instagram-disconnections/"><u>2024 Approved Exploring the Reasons Behind Instagram Disconnections</u></a></li>
+<li><a href="https://fox-that.techidaily.com/8-effective-tips-to-get-your-iphones-control-center-running-smoothly-again/"><u>8 Effective Tips to Get Your iPhone's Control Center Running Smoothly Again</u></a></li>
+<li><a href="https://fox-that.techidaily.com/decoding-icloud-dilemmas-on-apple-devices-the-top-9-challenges-and-how-to-overcome-them/"><u>Decoding iCloud Dilemmas on Apple Devices: The Top 9 Challenges & How to Overcome Them</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-honor-magic-5-lite-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Honor Magic 5 Lite | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-honor-magic-6-lite-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Honor Magic 6 Lite PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://fox-that.techidaily.com/important-alert-why-you-should-install-ios-153-without-delay/"><u>Important Alert: Why You Should Install iOS 15.3 Without Delay</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-realme-11-pro-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Realme 11 Pro FRP In 3 Different Ways</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-oppo-a56s-5g-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Oppo A56s 5G Android SIM Unlock APK</u></a></li>
+<li><a href="https://fox-that.techidaily.com/smooth-operations-handling-10-common-apple-pay-setbacks-with-ease/"><u>Smooth Operations: Handling 10 Common Apple Pay Setbacks with Ease</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-and-resolve-airpods-issues-silent-mode-to-crystal-clear-audio/"><u>Troubleshoot and Resolve AirPods Issues - Silent Mode to Crystal Clear Audio</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-chatgpt-ios-app-issues-top-9-solutions/"><u>Troubleshooting ChatGPT iOS App Issues: Top 9 Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-silent-messages-on-iphone-discover-15plus-methods-to-get-alerts-working-again/"><u>Troubleshooting Silent Messages on iPhone: Discover 15+ Methods to Get Alerts Working Again</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-new-electronics-on-toms-digital-platform/"><u>Unveiling New Electronics on Tom's Digital Platform</u></a></li>
 </ul></div>
 

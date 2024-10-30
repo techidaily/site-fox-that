@@ -1,7 +1,7 @@
 ---
 title: Straightforward Strategies for Restoring Functionality to iMessage Applications in iOS/macOS
-date: 2024-09-05T02:41:51.853Z
-updated: 2024-09-06T02:41:51.853Z
+date: 2024-10-23T16:13:26.372Z
+updated: 2024-10-30T18:59:52.639Z
 tags:
   - iphone
   - apple
@@ -40,12 +40,6 @@ thumbnail: https://thmb.techidaily.com/517296fb76b2495d3ca7ac9af3e02d36cfd22dc3a
 
  If iMessage is working on your iPhone but your messages aren't delivering, this is another subject entirely. If that's the case, check out [how to fix "iMessage Not Delivered" problems on your iPhone](https://www.makeuseof.com/tag/fix-imessage-not-delivered/) .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Make Sure iMessage Is Enabled Correctly
 
  Even if you've used iMessage before, you may not have it enabled for a specific number or device. This is easy to check.
@@ -59,15 +53,16 @@ On an iPhone or iPad:
 
 ![Messages in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/4-Messages-in-Settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Messages settings on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/5-Messages-settings-on-iPhone.jpg)
 
 ![Send and Receive settings on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/6-Send-and-Receive-settings-on-iPhone.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close
 
@@ -79,6 +74,13 @@ On a Mac:
 
  If you're having issues on multiple devices, repeat these steps on any device that iMessage isn't working for.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Try Different Send and Receive Options
 
  If iMessage still isn't working on your iPhone, iPad, or Mac, try using different options in the Send & Receive settings. On an iPhone or iPad, go to**Settings > Messages > Send & Receive** . On a Mac, open**Messages** and go to**Messages > Settings > iMessage** from the menu bar.
@@ -87,12 +89,6 @@ On a Mac:
 
  In general, it's also best to choose to**Start New Conversations From** your mobile number, if you're using an iPhone.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Reset iMessage and Reboot Your Device
 
  With a Mac, you likely reboot your device fairly regularly, but this is less common on an iPhone or iPad. A reboot can help fix a lot of faults, but there's another step you'll want to take to resolve iMessage issues. You'll want to turn off iMessage, reboot, then turn it back on.
@@ -111,26 +107,8 @@ On a Mac:
 
 ![Send and Receive iMessage options on Mac](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/Send-and-Receive-iMessage-options-on-Mac.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  To be extra thorough, you may want to do this for every device you use with iMessage.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
-  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Sign In to iMessage Again
 
  This is another method that is so simple it can't hurt to try: log out of iMessage, then log back in.
@@ -147,27 +125,23 @@ On an iPhone or iPad:
 ![Send and Receive settings on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/6-Send-and-Receive-settings-on-iPhone.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![Signing out of iMessage on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/Signing-out-of-iMessage-on-iPhone.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![Use your Apple ID for iMessage option on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/Use-your-Apple-ID-for-iMessage-option-on-iPhone.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Close
 
 On a Mac:
@@ -180,17 +154,12 @@ On a Mac:
 ![Signing out of iMessage on a Mac](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/Signing-out-of-iMessage-on-a-Mac.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
-  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ## 6\. Test Your Internet Connection
 
  Unlike regular texts, iMessages send over the internet. So you need to have a working Wi-Fi connection or good cell reception with available cellular data to use iMessages. Open a web browser and try loading a new webpage to test your internet connection.
@@ -198,6 +167,19 @@ On a Mac:
  If you can't get online, that will explain why iMessage isn't working on your iPhone or Mac. Try connecting to a different Wi-Fi network or check how much data you've got left.
 
  Strangely, you can't always [activate iMessage](http://www.makeuseof.com/how-to-activate-imessage/) over Wi-Fi. So if you're trying to use iMessage for the first time but can't get it working at all, try disabling Wi-Fi from the Control Center and activate iMessage on your iPhone over cellular data instead.
+
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Reset the Network Settings
 
@@ -214,18 +196,6 @@ To do so:
 
 ![Reset Settings on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/2-Reset-Settings-on-iPhone.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![All Reset options on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/3-All-Reset-options-on-iPhone.jpg)
 
 Close
@@ -239,6 +209,13 @@ Close
  You should also visit [Apple's System Status](https://www.apple.com/support/systemstatus/) website to make sure iMessage isn't down for everyone. Check there's a green circle next to iMessage. If there's anything else, it means Apple is experiencing technical issues and you'll need to wait for Apple's technicians to fix it.
 
 ![Checking the Apple System Status.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/4-photos-system-status.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Another possible fix is to check if a macOS, iOS, or iPadOS update is available. This is especially true if you've recently upgraded to a new software. Apple releases updates to improve your device and fix bugs, but these updates can sometimes introduce new problems. If this is the case, Apple may have already issued a new update to fix it.
 
@@ -256,8 +233,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -265,4 +240,19 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-astonishing-freeness-of-screen-dance-duels-for-2024/"><u>[New] Astonishing Freeness of Screen Dance Duels for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-your-ultimate-checklist-for-channel-buying-success/"><u>[New] Your Ultimate Checklist for Channel Buying Success</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-asgard-unleashed-echoes-of-ragnarok/"><u>[Updated] Asgard Unleashed Echoes of Ragnarök</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-secure-recording-methods-for-sensitive-whatsapp-discussions-for-2024/"><u>[Updated] Secure Recording Methods for Sensitive WhatsApp Discussions for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-realme-v30t-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Realme V30T | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/comparing-apples-with-oranges-not-when-it-comes-to-m1-pro-and-m1-max/"><u>Comparing Apples with Oranges? Not When It Comes to M1 Pro & M1 Max</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721475585092-frustrated-with-your-iphones-messaging-problems-fix-them-in-these-10-easy-ways/"><u>Frustrated with Your iPhone’s Messaging Problems? Fix Them in These 10 Easy Ways</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-vivo-s17t-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Vivo S17t Is Unlocked</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721472630327-qr-code-reading-woes-on-iphones-discover-6-simple-troubleshooting-tips/"><u>QR Code Reading Woes on iPhones? Discover 6 Simple Troubleshooting Tips!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolve-the-mystery-of-vanishing-icons-on-your-apple-device-today/"><u>Resolve the Mystery of Vanishing Icons on Your Apple Device Today!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/simple-steps-for-a-careful-restart-on-apples-mobile-device/"><u>Simple Steps for a Careful Restart on Apple's Mobile Device</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-iphone-display-delays-quick-guide-to-speed-up-your-screen-timeout/"><u>Solving iPhone Display Delays: Quick Guide to Speed Up Your Screen Timeout</u></a></li>
+</ul></div>
 

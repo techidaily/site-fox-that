@@ -1,7 +1,7 @@
 ---
 title: "Deactivating Apple's Do Not Disturb: A Guide to Getting Calls/Texts Back"
-date: 2024-10-18T18:52:14.017Z
-updated: 2024-10-24T23:32:37.513Z
+date: 2024-10-25T16:56:07.999Z
+updated: 2024-10-30T18:32:38.663Z
 tags:
   - iphone
   - apple
@@ -43,18 +43,25 @@ thumbnail: https://thmb.techidaily.com/5397c89a05d7c549e3c941ac0bcf9ef244a3e9feb
 
 ![focus modes on iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/focus-modes.JPEG)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![do not disturb settings on iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/do-not-disturb-settings.JPEG)
 
 ![allowed apps on do not disturb mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/dnd-allowed-apps.JPEG)
 
-Close
-
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+Close
 
 ## 3\. Disable Time-Sensitive Notifications
 
@@ -66,19 +73,6 @@ Close
 
  Alternatively, you can tap**Turn Off** for a specific app if you see its notifications pop up on your Lock Screen.
 
-<!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Change Settings for Incoming Calls
 
  When you first enable Do Not Disturb mode on your iPhone,**Favorites** tends to be the default setting for the incoming calls allowed. If you previously added quite a few family members and friends to your Favorites list, this may be why your iPhone calls are coming through even after you enabled Do Not Disturb, as if it's not working.
@@ -88,17 +82,37 @@ Close
 ![do not disturb settings on iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/do-not-disturb-settings.JPEG)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![call settings for do not disturb mode on iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/dnd-favorite-calls.JPEG)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![change calls allowed on iphone do not disturb mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/dnd-allowed-calls.JPEG)
 
 Close
+
+<!-- affiliate ads begin -->
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Don't Allow Repeated Calls
 
@@ -107,13 +121,6 @@ Close
  But if there are people who call you mindlessly the moment you don't pick up, and this feature ends up giving you more problems than convenience, you can choose to disable it. As outlined in the previous solution, go to the**People** settings in**Do Not Disturb** . Then, toggle off**Allow Repeated Calls** .
 
 ![turn off allow repeated calls for iphone do not disturb mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/2-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Turn Off or Hide Your Focus Status
 
@@ -133,44 +140,31 @@ Close
 
 ![schedule for iphone do not disturb mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/dnd-schedule.JPEG)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![automate schedule for iphone do not disturb mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/dnd-schedule-2.JPEG)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![set time for iphone do not disturb mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/dnd-change-schedule.JPEG)
 
 Close
 
-<!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8\. Restart Your iPhone and Update iOS
 
  If you went through all the steps above and your iPhone's Do Not Disturb mode is still not working, try [restarting your iPhone](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) to see if it resolves the issue. Software glitches can sometimes prevent features like Do Not Disturb from functioning as intended, which you can fix with a simple reboot.
 
  And if you haven't,[update your iPhone to the latest iOS version](https://www.makeuseof.com/tag/update-iphone-ios-apps-data/) as well. Apple's software updates often come with bug fixes and patches for performance-related issues.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## No More Disruptions on Do Not Disturb Mode
 
@@ -195,17 +189,20 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-the-double-edged-sword-of-virtual-reality/"><u>[New] In 2024, The Double-Edged Sword of Virtual Reality</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-screenflow-extensive-review-unveiling-the-mac-experience/"><u>2024 Approved ScreenFlow Extensive Review Unveiling the Mac Experience</u></a></li>
-<li><a href="https://fox-that.techidaily.com/diagnosing-the-issue-of-asymmetrical-audio-in-one-airpod-4-quick-solutions/"><u>Diagnosing the Issue of Asymmetrical Audio in One AirPod – 4 Quick Solutions</u></a></li>
-<li><a href="https://blog-min.techidaily.com/easy-guide-how-to-install-and-enjoy-hd-anime-with-the-9anime-kodi-extension-for-free/"><u>Easy Guide: How to Install and Enjoy HD Anime with the 9Anime Kodi Extension for FREE</u></a></li>
-<li><a href="https://fox-that.techidaily.com/effective-tips-to-restore-your-devices-ability-to-connect-via-airplay/"><u>Effective Tips to Restore Your Device’s Ability to Connect via AirPlay</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/expert-review-the-poweradd-pilot-pro2-ultimate-power-bank-for-your-laptop-and-electronics/"><u>Expert Review: The POWERADD Pilot Pro2 - Ultimate Power Bank for Your Laptop and Electronics</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fix-the-hazy-view-essential-techniques-for-sharpening-iphone-photos/"><u>Fix the Hazy View: Essential Techniques for Sharpening iPhone Photos</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Apple iPhone 6s | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-google-pixel-7a-drfone-by-drfone-virtual-android/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On Google Pixel 7a | Dr.fone</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-apple-iphone-13-location-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 7 Phone Number Locators To Track Apple iPhone 13 Location | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/top-6-solutions-when-your-iphone-displays-emergency-call-only/"><u>Top 6 Solutions When Your iPhone Displays Emergency Call Only</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/unearthing-timeless-treasures-a-classic-lit-exploration/"><u>Unearthing Timeless Treasures A Classic Lit Exploration</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-perfect-your-soundtracks-essential-edits-for-crafting-podcasts-in-garageband/"><u>[New] Perfect Your Soundtracks Essential Edits for Crafting Podcasts in GarageBand</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-cementing-your-place-in-youtube-by-mastering-creative-studio-techniques-for-2024/"><u>[Updated] Cementing Your Place in YouTube by Mastering Creative Studio Techniques for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-gimp-tutorial-mastering-filters-and-layers/"><u>[Updated] GIMP Tutorial Mastering Filters & Layers</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-making-waves-in-popularity-how-to-earn-vimeo-writers-picks/"><u>[Updated] In 2024, Making Waves in Popularity How to Earn Vimeo' Writers’ Picks</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/behind-the-interface-demystifying-top-9-myths-about-ai-bots/"><u>Behind the Interface: Demystifying Top 9 Myths About AI Bots</u></a></li>
+<li><a href="https://fox-that.techidaily.com/connectivity-woes-heres-how-you-can-fix-your-iphone-or-ipad-wi-fi-problems-in-8-ways/"><u>Connectivity Woes? Here's How You Can Fix Your iPhone or iPad Wi-Fi Problems in 8 Ways</u></a></li>
+<li><a href="https://fox-that.techidaily.com/inside-iphone-14s-battery-performance-what-users-should-be-aware-of/"><u>Inside iPhone 14'S Battery Performance: What Users Should Be Aware Of</u></a></li>
+<li><a href="https://fox-that.techidaily.com/mastering-your-mobile-memories-effective-strategies-to-address-iphone-snap-issues/"><u>Mastering Your Mobile Memories: Effective Strategies to Address iPhone Snap Issues</u></a></li>
+<li><a href="https://games-able.techidaily.com/reimagine-gaming-on-idevices-these-are-the-best-4-emulators/"><u>Reimagine Gaming on iDevices: These Are the Best 4 Emulators</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-motorola-g24-power-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Motorola G24 Power</u></a></li>
+<li><a href="https://fox-that.techidaily.com/step-by-step-solution-for-correcting-camera-zoom-on-whatsapp/"><u>Step-by-Step Solution for Correcting Camera Zoom on WhatsApp</u></a></li>
+<li><a href="https://fox-that.techidaily.com/step-by-step-tutorial-for-getting-back-deleted-notes-on-ios-devices/"><u>Step-by-Step Tutorial for Getting Back Deleted Notes on iOS Devices</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211166421-9780760391303-the-crystal-companion/"><u>The Crystal Companion | Free Book</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-guide-how-to-fix-contacts-app-issues-on-your-iphone/"><u>Troubleshooting Guide: How to Fix Contacts App Issues on Your iPhone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unveiling-the-must-have-features-in-ios-153-why-upgrading-is-imperative-right-now/"><u>Unveiling the Must-Have Features in iOS 15.3: Why Upgrading Is Imperative Right Now!</u></a></li>
 </ul></div>
 

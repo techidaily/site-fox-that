@@ -1,7 +1,7 @@
 ---
 title: Effective Strategies to Fix Broken AirPlay on Your Apple Devices
-date: 2024-10-18T22:05:46.919Z
-updated: 2024-10-24T17:15:05.998Z
+date: 2024-10-28T19:11:04.404Z
+updated: 2024-10-30T17:51:48.396Z
 tags:
   - iphone
   - apple
@@ -48,25 +48,11 @@ thumbnail: https://thmb.techidaily.com/a5e56b77e4674926b57f0f9161817ac7d31c24b7d
 
  If you're interested, browse our recommendations of the [best AirPlay receivers](https://www.makeuseof.com/tag/4-airplay-receivers-that-are-cheaper-than-apple-tv/) .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Adjust AirPlay Receiver Settings in macOS
 
 [Modern Macs running macOS Monterey or later can double as an AirPlay receiver](https://www.makeuseof.com/how-to-airplay-to-a-mac/) . This makes it possible to AirPlay content from another device to your Mac and even share a Mac's screen via AirPlay, provided the AirPlay Receiver setting is turned on, as discussed below.
 
 ![iPhone 15 Pro Mac AirPlaying video to a Mac](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/apple-iphone-15-pro-airplay-video-to-mac.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  To protect your privacy, only devices that use the same Apple ID as your computer are permitted to AirPlay content to your Mac. To change that, venture into**System Settings > General > AirDrop & HandOff** and turn on the**AirPlay Receiver** setting on the right.
 
@@ -78,18 +64,18 @@ thumbnail: https://thmb.techidaily.com/a5e56b77e4674926b57f0f9161817ac7d31c24b7d
 
  Apple recommends using an iPhone 7 or later and at least a 2018 Mac for an ideal experience. However, you can still use AirPlay on older devices at a lower video resolution. For example, we could AirPlay from an iPhone 6s, which isn't on Apple's compatibility list.
 
+<!-- affiliate ads begin -->
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Wake Devices and Keep Them Close
 
  If it wasn't clear enough, remember that all your devices must be turned on and unlocked to use AirPlay. When using AirPlay on your Apple TV, ensure the device isn't in sleep mode by clicking the remote to wake it from sleep.
 
 ![AirPlay menu on iPhone 15 Pro Max listing nearby devices](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/apple-iphone-15-pro-max-airplay-audio-menu.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Since AirPlay typically relies on peer-to-peer discovery, bring them as close to each other as possible to increase the connection strength.
 
@@ -101,6 +87,13 @@ thumbnail: https://thmb.techidaily.com/a5e56b77e4674926b57f0f9161817ac7d31c24b7d
 
  Now, you can quickly start or stop AirPlay, mirror your Mac's screen, or use a nearby iPad as a second display—all from the menu bar.
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Disable Automatic AirPlay to TVs
 
  An iPhone or iPad may automatically AirPlay content to your Apple TV or AirPlay-compatible smart TV every time you use the feature. To stop that from happening, go to **Settings > General > AirPlay & Handoff > Automatically AirPlay** and choose**Never** .
@@ -111,16 +104,16 @@ thumbnail: https://thmb.techidaily.com/a5e56b77e4674926b57f0f9161817ac7d31c24b7d
 
 ![iOS 17 AirPlay settings with the Automatically AirPlay option set to Never](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/apple-ios-17-settings-app-airplay-and-handoff-section-automatically-airplay-never-highlighted.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Close
 
  Doing so shall stop your iPhone from automatically connecting to a nearby AirPlay receiver like your Apple TV whenever you want to cast something on your Mac.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Turn Off Airplane Mode
 
@@ -137,10 +130,10 @@ Close
 ![iOS 17 Settings with the Bluetooth section highlighted and disabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/apple-ios-17-settings-app-bluetooth-section-disabled-highlighted.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![iOS 17 Settings with Bluetooth enabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/apple-ios-17-settings-app-bluetooth-enabled.jpg)
@@ -149,19 +142,6 @@ Close
 
  One way is to pull down from the top-right corner and enable the**Bluetooth** toggle in the Control Center. Alternatively, you can go to**Settings > Bluetooth** on your iPhone and use the toggle to disable the feature.
 
-<!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8\. Use the Same Wi-Fi Network
 
  Peer-to-peer AirPlay lets AirPlay work even if the devices aren't on the same Wi-Fi network or any network for that matter. If peer-to-peer discovery isn't working for you, you should ensure both devices are connected to the same Wi-Fi network for best results.
@@ -169,6 +149,13 @@ Close
  To check what network you're currently using on your iOS or iPadOS device, visit**Settings > Wi-Fi** to view the current network name.
 
 ![iOS 17 Settings with the Wi-Fi section showing the current network](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/apple-ios-17-settings-app-wi-fi-section-highlighted-disabled.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![iOS 17 Settings with the Wi-Fi highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/apple-ios-17-settings-app-wi-fi-section-network-name-highlighted.jpg)
 
@@ -182,13 +169,26 @@ Close
 
 ![Apple TV 4K displaying the Wi-Fi network name in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/apple-tv-4k-settings-wi-fi-network-name.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If your Apple TV uses an Ethernet connection, be sure to connect it to the same router that creates your home's Wi-Fi connection.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 9\. Restart Your Devices
@@ -201,6 +201,13 @@ Close
 
 ![image of ethernet cables connected to router](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/ethernet-router-connection.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 11\. Tweak Your Firewall Settings in macOS
 
  If your AirPlay issue is Mac-specific, chances are that the firewall is using a rule that blocks the AirPlay connection. Luckily, you can modify the macOS firewall options in a few clicks.
@@ -208,13 +215,6 @@ Close
  Head over to**System Settings > Network** and click**Firewall** on the right. Next, click**Options** below the**Firewall** toggle if it's enabled. Now, turn off the**Block all incoming connections** switch at the top and enable the option labeled **Automatically allow downloaded signed software to receive incoming connections** .
 
 ![Firewall settings on macOS Sonoma with the option to allow signed software enabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/apple-macos-sonoma-firewall-settings-allow-singed-software-enabled.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Lastly, click**OK** to save your changes.
 
@@ -248,24 +248,19 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-momentum-at-rest-best-idle-pc-games/"><u>[New] 2024 Approved Momentum at Rest Best Idle PC Games</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ilmmaker-tips-youtube-trailers-using-filmora-for-2024/"><u>[New] Filmmaker Tips YouTube Trailers Using Filmora for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-demystifying-the-use-of-luts-in-professional-photoshop-workflows/"><u>[Updated] 2024 Approved Demystifying the Use of LUTs in Professional Photoshop Workflows</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721478173164-clear-images-on-whatsapp-heres-how-you-can-correct-zoom-distortion/"><u>Clear Images on WhatsApp? Here's How You Can Correct Zoom Distortion!</u></a></li>
-<li><a href="https://fox-that.techidaily.com/deciphering-imessage-silence-are-you-on-the-no-text-list/"><u>Deciphering iMessage Silence: Are You on the No-Text List?</u></a></li>
-<li><a href="https://fox-that.techidaily.com/discover-the-location-of-your-deleted-facetime-pictures/"><u>Discover the Location of Your Deleted FaceTime Pictures</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fix-your-silent-iphone-7-ways-to-restore-missing-notifications/"><u>Fix Your Silent iPhone: 7 Ways to Restore Missing Notifications.</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/1716169248309-how-to-use-the-instagram-green-screen-effect-for-2024/"><u>How to Use the Instagram Green Screen Effect for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/ideal-video-editor-unleashed-for-vimeo-videos-for-2024/"><u>Ideal Video Editor Unleashed for Vimeo Videos for 2024</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-a-cascade-of-curiosity-concurrent-video-watching-made-easy/"><u>In 2024, A Cascade of Curiosity Concurrent Video Watching Made Easy</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-activation-lock-on-apple-watch-or-apple-iphone-15-plus-by-drfone-ios/"><u>In 2024, How To Bypass Activation Lock On Apple Watch Or Apple iPhone 15 Plus?</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-use-ispoofer-on-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on Poco M6 5G? | Dr.fone</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-obs-studio-vs-fraps-deciding-the-ultimate-screen-grab-software/"><u>In 2024, OBS Studio vs Fraps Deciding the Ultimate Screen Grab Software</u></a></li>
-<li><a href="https://fox-that.techidaily.com/iphone-contact-app-not-responding-resolve-the-issue-using-our-3-simple-fixes/"><u>IPhone Contact App Not Responding? Resolve The Issue Using Our 3 Simple Fixes</u></a></li>
-<li><a href="https://fox-that.techidaily.com/iphone-screen-malfunction-here-are-the-best-fixes-to-restore-functionality/"><u>IPhone Screen Malfunction? Here Are The Best Fixes to Restore Functionality</u></a></li>
-<li><a href="https://techidaily.com/is-your-xiaomi-redmi-k70-pro-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Xiaomi Redmi K70 Pro working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/one-airpod-loud-and-proud-the-other-quiet-unravel-this-mystery-and-learn-the-four-solutions/"><u>One AirPod Loud and Proud, The Other Quiet – Unravel This Mystery & Learn the Four Solutions!</u></a></li>
-<li><a href="https://fox-that.techidaily.com/top-11-fixes-what-to-do-when-your-iphone-ignores-call-notifications/"><u>Top 11 Fixes: What To Do When Your iPhone Ignores Call Notifications</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-how-to-resolve-face-id-issues-when-its-down-on-your-iphone/"><u>Troubleshooting: How to Resolve Face ID Issues When It's Down on Your iPhone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-elite-iphone-and-android-edits-to-improve-gopro-content-for-2024/"><u>[New] Elite iPhone & Android Edits to Improve GoPro Content for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-cutting-through-content-clutter-youtube-shorts-essentials-for-2024/"><u>[Updated] Cutting Through Content Clutter YouTube Shorts Essentials for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-sponsoring-made-simple-boosting-your-channel-budget-efficiently/"><u>[Updated] Sponsoring Made Simple Boosting Your Channel Budget Efficiently</u></a></li>
+<li><a href="https://games-able.techidaily.com/adventure-gamers-vault-of-virtual-getaway-ideas/"><u>Adventure Gamers' Vault of Virtual Getaway Ideas</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/easy-guide-how-to-make-talking-head-videos/"><u>Easy Guide How To Make Talking Head Videos</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-step-by-step-find-download-and-update-intel-ethernet-driver-on-your-pc-windows/"><u>Easy Step-by-Step: Find, Download & Update Intel Ethernet Driver on Your PC (Windows)</u></a></li>
+<li><a href="https://fox-that.techidaily.com/essential-troubleshooting-techniques-for-when-your-iphone-fails-to-deliver-text-messages-10-methods/"><u>Essential Troubleshooting Techniques for When Your iPhone Fails to Deliver Text Messages (10 Methods)</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/expert-level-workshop-programming-timer-functions-for-obs-productions/"><u>Expert-Level Workshop Programming Timer Functions for OBS Productions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-enter-and-utilize-dfu-mode-on-your-iphone/"><u>How to Enter and Utilize DFU Mode on Your iPhone?</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-all-you-need-to-know-mastering-adobe-and-beyond-storage/"><u>In 2024, All You Need to Know Mastering Adobe and Beyond Storage</u></a></li>
+<li><a href="https://fox-that.techidaily.com/mastering-the-art-of-fixing-iphone-camera-roll-problems-with-easy-tips/"><u>Mastering the Art of Fixing iPhone Camera Roll Problems with Easy Tips</u></a></li>
+<li><a href="https://fox-that.techidaily.com/steps-to-conduct-an-iphone-hardware-test-via-apples-online-remote-service/"><u>Steps to Conduct an iPhone Hardware Test via Apple's Online Remote Service</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/teachers-guide-to-use-video-in-teaching-for-2024/"><u>Teacher's Guide To Use Video In Teaching for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-steps-to-get-your-iphoneipad-back-in-action/"><u>Troubleshooting Steps to Get Your iPhone/iPad Back in Action</u></a></li>
 </ul></div>
 

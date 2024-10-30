@@ -1,7 +1,7 @@
 ---
 title: "Reviving iPhone Functionality: How To Restore Non-Emergency Features When SOS Is Persistent"
-date: 2024-10-19T21:29:45.868Z
-updated: 2024-10-24T21:28:12.036Z
+date: 2024-10-29T17:42:01.583Z
+updated: 2024-10-30T19:51:05.389Z
 tags:
   - iphone
   - apple
@@ -35,13 +35,6 @@ Close
 
  Head into**Settings > Cellular** . It should be already on, so turn the**Cellular Data** switch off. Give it a few seconds, then turn**Cellular Data** back on. It may have just needed a quick reset, but if there is still no luck, move on to our next suggestion.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Enable Data Roaming
 
  You may need to turn Data Roaming on, especially if you're traveling internationally. This allows your iPhone to connect to another network in a different country without having to sign up for a new service. Beware that turning this on can come with additional fees on your phone bill.
@@ -62,35 +55,55 @@ Close
 
 ![iPhone settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-cellular-settings.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![iPhone cellular data options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-cellular-data-options-voice-data-settings.jpg)
 
 ![iPhone 5G and LTE options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-voice-data-5g-settings.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Close
 
  Go to**Settings > Cellular > Cellular Data Options** like before, but this time tap**Voice & Data** . If**5G On** or**5G Auto** is selected, choose**LTE** and see if that gets rid of the SOS Only status.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Restart Your iPhone
 
 ![iPhone user trying to force restart their device](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-user-trying-to-force-restart-their-device.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Of course, we have to mention the good old reboot technique. If you haven't yet tried turning your iPhone off and on again, let's go ahead and test it out. You'd be surprised how many little annoyances a quick restart can resolve.
 
 [The steps to restart your iPhone](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) are different depending on which model you have, but it's pretty easy nonetheless.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Check for Carrier Settings Update
 
@@ -98,31 +111,24 @@ Close
 
 ![iPhone Settings menu showing General](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-settings-general.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![iPhone General settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-settings-general-about.jpg)
 
 Close
 
  If your device needs a carrier settings update, you'll get a pop-up on this screen. If you don't see one, you're up-to-date already.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Contact Your Carrier
 
  When all else fails, you should contact your carrier to see what's going on. Since having SOS Only status on your iPhone greatly limits the features you can use, you wouldn't want to have it for long.
 
  There may be an issue with your cell service that's worth getting to the bottom of. So, visit your carrier's website and search for a contact or support page to get a customer support phone number.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Getting to the Bottom of "SOS Only"
 
@@ -145,18 +151,17 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-audio-player-insights-and-critiques/"><u>[New] 2024 Approved Audio Player Insights & Critiques</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-seamlessly-download-igtv-for-iphoneandroid-users/"><u>[New] In 2024, Seamlessly Download IGTV for iPhone/Android Users</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-uncover-the-best-6-screen-recording-software-on-mac/"><u>[Updated] Uncover the Best 6 Screen Recording Software on Mac</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-uncovering-potential-through-skilled-interviewing/"><u>2024 Approved Uncovering Potential Through Skilled Interviewing</u></a></li>
-<li><a href="https://solve-manuals.techidaily.com/a-retrospective-journey-through-2018-what-has-changed-thought-leadership-at-abbyy-blog/"><u>A Retrospective Journey Through 2018: What Has Changed? | Thought Leadership at ABBYY Blog</u></a></li>
-<li><a href="https://fox-that.techidaily.com/enhance-your-safari-speed-4-efficient-methods-for-optimizing-iphone-usage/"><u>Enhance Your Safari Speed: 4 Efficient Methods for Optimizing iPhone Usage</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fixing-iphone-control-center-issues-discover-these-8-effective-solutions/"><u>FIXING Iphone Control Center Issues – Discover These 8 Effective Solutions</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-iphone-12-pro-online-without-jailbreak-by-drfone-ios/"><u>In 2024, How to Unlock SIM Card on iPhone 12 Pro online without jailbreak</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-prime-retro-elements-reviving-classic-vhs-tricks/"><u>In 2024, Prime Retro Elements Reviving Classic VHS Tricks</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-iphone-photography-playbook/"><u>In 2024, The Ultimate iPhone Photography Playbook</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>In 2024, What is Geo-Blocking and How to Bypass it On Motorola Moto G04? | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/missing-app-on-your-iphone-discover-the-techniques-to-retrieve-it-now/"><u>Missing App on Your iPhone? Discover the Techniques to Retrieve It Now!</u></a></li>
-<li><a href="https://fox-that.techidaily.com/top-11-troubleshooting-steps-for-airpods-connectivity-problems-with-iphones/"><u>Top 11 Troubleshooting Steps for AirPods Connectivity Problems with iPhones</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-micro-movie-plot-draft/"><u>[Updated] 2024 Approved Micro-Movie Plot Draft</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/achieving-prominence-with-apples-listings/"><u>Achieving Prominence with Apple's Listings</u></a></li>
+<li><a href="https://fox-that.techidaily.com/bluetooth-basics-for-iphones-a-comprehensive-guide-for-first-timers/"><u>Bluetooth Basics for iPhones: A Comprehensive Guide for First-Timers</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-realme-12plus-5g-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Realme 12+ 5G Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/dont-wait-any-longer-the-essential-reasons-for-upgrading-to-ios-153/"><u>Don't Wait Any Longer: The Essential Reasons for Upgrading to iOS 15.3</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/freecam-x-an-in-depth-webcam-capture-analysis-for-2024/"><u>FreeCam X An In-Depth Webcam Capture Analysis for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-sign-out-of-apple-id-on-apple-iphone-13-mini-without-password-by-drfone-ios/"><u>How to Sign Out of Apple ID On Apple iPhone 13 mini without Password?</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-external-display-not-recognized-problem-in-windows/"><u>Overcoming External Display Not Recognized Problem in Windows</u></a></li>
+<li><a href="https://fox-that.techidaily.com/step-by-step-solutions-when-your-iphones-emails-arent-refreshing/"><u>Step-by-Step Solutions When Your iPhone's Emails Aren't Refreshing</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-risks-of-using-chatgpt-from-the-mac-app-store-what-every-user-needs-to-know/"><u>The Risks of Using ChatGPT From the Mac App Store: What Every User Needs to Know</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlock-the-secrets-of-forcing-a-reset-on-iphones-plus-entering-into-recovery-mode-easily/"><u>Unlock the Secrets of Forcing a Reset on iPhones + Entering Into Recovery Mode Easily</u></a></li>
+<li><a href="https://fox-that.techidaily.com/what-to-do-when-iphone-contacts-go-missing-practical-fixes-for-users/"><u>What to Do When iPhone Contacts Go Missing: Practical Fixes for Users</u></a></li>
 </ul></div>
 

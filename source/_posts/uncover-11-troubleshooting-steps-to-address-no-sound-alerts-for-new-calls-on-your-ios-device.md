@@ -1,7 +1,7 @@
 ---
 title: Uncover 11 Troubleshooting Steps to Address No Sound Alerts for New Calls on Your iOS Device
-date: 2024-09-05T02:44:37.361Z
-updated: 2024-09-06T02:44:37.361Z
+date: 2024-10-23T19:20:03.223Z
+updated: 2024-10-30T17:29:48.242Z
 tags:
   - iphone
   - apple
@@ -48,12 +48,6 @@ Close
 
  To disconnect devices individually instead, head to**Settings > Bluetooth** . Tap the**Info (i)** button next to the device and tap**Disconnect** . Once your Bluetooth devices are disconnected, incoming calls should play via your iPhone's speakers.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Turn the Ringtone Volume Up
 
  If your ringtone volume is too low, you may not hear a call coming in if your iPhone is in your bag. So, it may appear that your iPhone didn't ring at all. You can quickly fix this by increasing the ring volume. Here's how:
@@ -65,19 +59,14 @@ Close
 
 ![Tap Sound & Haptics in iPhone Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/tap-sound--haptics-in-iphone-settings.JPEG)
 
-<!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ringtone volume iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/img_5647.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close
 
@@ -100,17 +89,12 @@ Follow these steps to change your iPhone's ringtone:
 Close
 
 <!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 6\. Check for Custom Contact Ringtones
 
  The ringtone you set above applies to all contacts unless you've added a custom tone to someone. If you miss calls from only certain people, follow these steps to ensure their custom tone is clear:
@@ -125,6 +109,13 @@ Close
 
 ![Choose a Loud Ringtone for the Contact](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/choose-a-loud-ringtone-for-the-contact.JPEG)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Close
 
 ## 7\. Restart Your iPhone
@@ -133,12 +124,6 @@ Close
 
  Fortunately, it's easy to [restart your iPhone, even if its buttons are broken](http://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) .
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 8\. Enable Cellular Data or Connect to a Wi-Fi Network
 
  This particular solution applies if you're receiving notifications of missed calls on apps like WhatsApp and Messenger, yet found that your iPhone did not ring at all when the caller was contacting you.
@@ -153,26 +138,21 @@ Close
 
 ![iphone wifi settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_7379.JPEG)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Close
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 9\. Fix an iPhone Stuck in Headphone Mode
 
  In rare situations, your iPhone may incorrectly think it is still connected to wired earphones, even though it isn't. As a result, there may be no sound from the built-in speakers when you play media or receive phone calls.
 
  To get out of this inconvenience, check out [how to fix an iPhone stuck in headphone mode](https://www.makeuseof.com/tag/how-to-fix-iphone-stuck-in-headphone-mode/) .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 10\. Try Turning Off Calls on Other Devices
 
  If you own other Apple devices and have opted to [receive iPhone calls on your Mac](https://www.makeuseof.com/how-to-text-and-call-with-your-mac/) , consider turning this feature off to see if it fixes the ring issue for you. Here's how:
@@ -186,27 +166,30 @@ Close
 ![Calls on Other Devices Screen in iPhone Phone Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/calls-on-other-devices-screen-in-iphone-phone-settings.JPEG)
 
 <!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![Calls on Other Devices turned off in iPhone Phone Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/calls-on-other-devices-turned-off-in-iphone-phone-settings.JPEG)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 11\. Update Your iPhone and Reset All Settings
 
  By this point, one or more of the above solutions should work if your iPhone has been receiving calls but not ringing. But in case you're still having problems, make sure you update your iPhone.
@@ -215,58 +198,29 @@ Close
 
 ![iphone settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/img_6668.JPEG)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![iphone general settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/img_6731.JPEG)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Close
 
  Finally, if nothing else works, open **Settings > General > Transfer or Reset iPhone > Reset > Reset All Settings** . This won't erase personal data like music, photos, and apps. However, all the settings you've changed, like Wi-Fi, your Home Screen layout, notifications, and more, will return to default.
 
 ![iphone general settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_7383.JPEG)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![transfer or reset iphone settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_7384.JPEG)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![transfer or reset iphone settings confirmation window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_7385.JPEG)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Close
 
  It's a bit of a hassle, but it confirms that no settings prevent your iPhone from ringing when you get a call or text.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Hopefully, Your iPhone Rings Perfectly Now
 
  The problem with your iPhone not ringing should be fixed by now, ensuring you don't miss any future calls or texts. To check, ask a friend or family member to call you, or try calling yourself from a Google Voice number instead.
@@ -279,8 +233,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -288,4 +240,24 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-immersive-history-education-from-youtubes-best-10-vlogs/"><u>[New] 2024 Approved Immersive History Education From YouTube's Best 10 Vlogs</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-tracing-your-instagram-fanbase-shifts/"><u>[New] In 2024, Tracing Your Instagram Fanbase Shifts</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-unveiling-hidden-shared-memories-in-messenger/"><u>[New] In 2024, Unveiling Hidden Shared Memories in Messenger</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-maximizing-your-youtube-click-through-rate-upload-schedule-insights-for-2024/"><u>[Updated] Maximizing Your YouTube Click-Through Rate Upload Schedule Insights for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-ultimate-guide-to-saving-memories-as-videos-on-iphone/"><u>2024 Approved Ultimate Guide to Saving Memories as Videos on iPhone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/battle-the-wi-fi-disconnect-issue-fix-it-in-5-steps-for-iphones/"><u>Battle the Wi-Fi Disconnect Issue: Fix It in 5 Steps for iPhones</u></a></li>
+<li><a href="https://fox-that.techidaily.com/clear-the-air-with-ios-4-effective-techniques-to-enable-locked-out-icloud-settings/"><u>Clear the Air with iOS: 4 Effective Techniques to Enable Locked-Out iCloud Settings</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/easy-guide-to-tecno-spark-10-5g-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Tecno Spark 10 5G FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722975962062-easy-maintenance-is-a-significant-advantage-due-to-less-fouling-potential/"><u>Easy Maintenance Is a Significant Advantage Due to Less Fouling Potential.</u></a></li>
+<li><a href="https://fox-that.techidaily.com/elevating-mobile-data-velocity-a-guide-to-rapid-enhancements-through-10-simple-strategies/"><u>Elevating Mobile Data Velocity: A Guide to Rapid Enhancements Through 10 Simple Strategies</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-can-we-bypass-samsung-galaxy-a15-4g-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Samsung Galaxy A15 4G FRP?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-screen-not-functioning-discover-quick-fixes-here/"><u>Iphone Screen Not Functioning? Discover Quick Fixes Here!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/no-more-silent-phones-the-ultimate-11-iphone-ring-troubleshooting-guide/"><u>No More Silent Phones: The Ultimate 11 iPhone Ring Troubleshooting Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolve-surprising-website-appearances-from-iphones-screen-time-feature/"><u>Resolve Surprising Website Appearances From iPhone's Screen Time Feature</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolved-fixing-silent-gameplay-in-hearthstone/"><u>Resolved: Fixing Silent Gameplay in Hearthstone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resurrect-your-iphone-without-using-itunes-a-comprehensive-tutorial/"><u>Resurrect Your iPhone Without Using iTunes – A Comprehensive Tutorial</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-wi-fi-and-cellular-problems-on-iphone-via-network-recovery-mode/"><u>Troubleshoot Wi-Fi and Cellular Problems on iPhone via Network Recovery Mode</u></a></li>
+</ul></div>
 

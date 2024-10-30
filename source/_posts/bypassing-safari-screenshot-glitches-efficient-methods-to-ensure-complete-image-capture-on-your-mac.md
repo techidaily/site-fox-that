@@ -1,7 +1,7 @@
 ---
 title: "Bypassing Safari Screenshot Glitches: Efficient Methods to Ensure Complete Image Capture on Your Mac"
-date: 2024-09-09T11:29:17.573Z
-updated: 2024-09-10T11:29:17.573Z
+date: 2024-10-24T18:24:57.602Z
+updated: 2024-10-30T19:20:31.831Z
 tags:
   - iphone
   - apple
@@ -12,24 +12,12 @@ excerpt: "This Article Describes Bypassing Safari Screenshot Glitches: Efficient
 thumbnail: https://thmb.techidaily.com/66474ad3ea796bd372c3cdc425ee2c1b3cee0dd881c03ccdd13266e6df3b21d0.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115928/19272" target="_top" id="2115928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115928" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Bypassing Safari Screenshot Glitches: Efficient Methods to Ensure Complete Image Capture on Your Mac
 
  Safari is a wonderful browser that allows you to browse the internet with minimal distractions. It even allows you to take full-page screenshots of webpages, documents, or emails that exceed your iPhone screen, allowing you to save these long files as a PDF.
 
  Unfortunately, full-page screenshots don't always work how they're supposed to. But we'll show you how to fix that below.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Take a Full-Page Screenshot
 
  To take a full-page, scrolling screenshot of a webpage, take a screenshot as you normally would while on Safari, then tap the preview and select**Full Page** at the top. You can then choose**Save PDF to Files** or the Share icon to send it elsewhere.
@@ -41,11 +29,12 @@ thumbnail: https://thmb.techidaily.com/66474ad3ea796bd372c3cdc425ee2c1b3cee0dd88
 Try these tips if you can't take full-page screenshots in Safari.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 1\. Check Your iOS Version
 
  Full-page screenshots are available for iPhone users running on iOS 13 and later. First, make sure that your iPhone is running an iOS version that supports the feature by going to**Settings > General > About** .
@@ -53,11 +42,12 @@ Try these tips if you can't take full-page screenshots in Safari.
  If your OS is not the problem, make sure to check the app you’re using when attempting to take a full-page screenshot. It only works with Safari.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 2\. Make Sure You're in Safari
 
  There are times that, depending on what you’re browsing, Safari will redirect you to another built-in app, like Apple Books, Files, or Messages. Full-page screenshots are not available in other apps or browsers.
@@ -65,27 +55,23 @@ Try these tips if you can't take full-page screenshots in Safari.
 ![Full-page screenshots](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/08/Full-page-screenshots.PNG)
 
 <!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![Save Full-page screenshots](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/08/Save-Full-page-screenshots.PNG)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115924/19272" target="_top" id="2115924">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115924" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115924/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3\. Remove Safari From Any Home Screen Folders
 
  A recent update may have a bug where full-page screenshots aren't accessible if you open Safari from a folder.
@@ -100,14 +86,11 @@ Close
 
  Full-page screenshots are a handy way to save whole web pages for later offline reading or other purposes. With these easy troubleshooting tips, you can make use of this simple hack again.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -116,4 +99,20 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/updated-top-snapchat-content-strategies-to-stand-out/"><u>[Updated] Top Snapchat Content Strategies to Stand Out</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-instabeats-intellectual-property-overview/"><u>2024 Approved InstaBeats Intellectual Property Overview</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1726218649488-mxf-mp4/"><u>馬達錢姆電影格式 (MXF) 轉換成 MP4: 最快、最容易的教學指南</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/download-the-ultimate-list-of-15-free-windows-11-themes-here/"><u>Download the Ultimate List of 15 Free Windows 11 Themes Here!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-windows-update-issue-how-to-resolve-the-0x80070490-error/"><u>Fixing the Windows Update Issue: How to Resolve the 0X80070490 Error</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/get-your-file-explorer-back-to-work-fixes-for-windows-10-lag-issues/"><u>Get Your File Explorer Back to Work - Fixes for Windows 10 Lag Issues</u></a></li>
+<li><a href="https://fox-that.techidaily.com/instant-fixes-for-non-responsive-widgets-on-iphone-and-ipad/"><u>Instant Fixes for Non-Responsive Widgets on iPhone and iPad</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722978585742-logitech-m705-driver-download-and-update-easily/"><u>Logitech M705 – Driver Download and Update Easily</u></a></li>
+<li><a href="https://fox-that.techidaily.com/lost-iphone-application-discover-the-steps-to-retrieve-misplaced-apps/"><u>Lost iPhone Application? Discover the Steps to Retrieve Misplaced Apps</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/master-the-art-of-unique-image-generation-through-microsofts-advanced-ai-tool/"><u>Master the Art of Unique Image Generation Through Microsoft's Advanced AI Tool</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-honor-x50-gt-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from Honor X50 GT</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-guide-how-to-fix-chatgpt-issues-on-an-iphone/"><u>Troubleshooting Guide: How to Fix ChatGPT Issues on an iPhone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unable-to-link-up-with-an-iphone-vpn-try-these-7-fixes/"><u>Unable to Link Up with an iPhone VPN? Try These 7 Fixes</u></a></li>
+</ul></div>
 

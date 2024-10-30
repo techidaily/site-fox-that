@@ -1,7 +1,7 @@
 ---
 title: Turn Off Unwanted Rings on Your iPad when an iPhone Is Ringing – Easy Steps to Follow
-date: 2024-10-22T19:45:32.098Z
-updated: 2024-10-24T18:52:05.271Z
+date: 2024-10-28T17:43:23.269Z
+updated: 2024-10-30T20:03:03.767Z
 tags:
   - iphone
   - apple
@@ -57,38 +57,31 @@ thumbnail: https://thmb.techidaily.com/773bcb287706a7e5add3e76fb4807bc2dd418c60c
 
 ![Creating a Focus Mode on iPadOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/how-to-stop-ipad-ringing-create-focus.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  On this screen, you can select the people and apps you want to manage notifications from. Select**Choose Apps** , then select**Allow Notifications From** at the top of the list. The list below will populate with a few apps, but you can add more.
 
  To add an app you want to allow notifications from, tap the**Add Apps** button on the left, then select it from the list of available apps. Once apps are added to the list, you can tap the checkbox in the top-left of each app to enable or disable notifications. There are [plenty of other aspects to Focus modes](https://www.makeuseof.com/focus-mode-ideas-to-set-up-in-ios/) , but this is all you need for notifications.
 
 ![Allowing notifications for certain apps in a new Focus Mode on iPadOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/how-to-stop-ipad-ringing-allow-notification.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After you've created your custom Focus mode, you need to enable it from the Control Center. Pull down from the top-right of the iPad's screen, then long-press on**Focus** and choose your custom Focus Mode. ​​​​​​
 
 ![Enabling a Focus Mode on iPadOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/how-to-stop-ipad-ringing-turn-focus-on.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  When you want to disable it, you can tap the**Focus** toggle.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Disable "Calls on Other Devices"
 
@@ -100,18 +93,37 @@ thumbnail: https://thmb.techidaily.com/773bcb287706a7e5add3e76fb4807bc2dd418c60c
 
 ![allow calls on other devices iPhone setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/allow-calls-on-other-devices-iphone-setting.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Choosing which devices to ring when your iPhone rings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/how-to-stop-ipad-ringing-iphone-calls-on-other-devices-custom.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close
 
  If you want to disable calls everywhere but on your iPhone, disable the**Allow Calls on Other Devices** toggle. But if you only want to disable calls ringing on your iPad, leave this toggle enabled but look for your iPad under the "Allow Calls On" section further down on the screen, and then disable the slider next to it.
+
+<!-- affiliate ads begin -->
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Plenty of Ways to Silence iPad Calls
 
@@ -134,22 +146,18 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-sculpting-visual-clarity-overcoming-gopro-lens-distortion/"><u>[New] 2024 Approved Sculpting Visual Clarity Overcoming GoPro Lens Distortion</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-essential-stardew-enhancements-for-maximum-farming-fun-for-2024/"><u>[Updated] Essential Stardew Enhancements for Maximum Farming Fun for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-snappy-screen-recording-tool-for-pcs/"><u>[Updated] In 2024, Snappy Screen Recording Tool for PCs</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-mastering-asmr-for-restful-slumber/"><u>[Updated] Mastering ASMR for Restful Slumber</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/activate-windows-1110-offline-file-feature-three-effective-methods/"><u>Activate Windows 11/10 Offline File Feature: Three Effective Methods</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/decoding-windows-steps-to-access-and-manage-printers-efficiently/"><u>Decoding Windows: Steps to Access and Manage Printers Efficiently</u></a></li>
-<li><a href="https://win-latest.techidaily.com/free-methods-for-creating-a-bootable-drive-restore-on-windows-11/"><u>Free Methods for Creating a Bootable Drive Restore on Windows 11</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-restore-functionality-of-guided-access-on-your-iphone-a-guide/"><u>How to Restore Functionality of Guided Access on Your iPhone – A Guide</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-restore-your-iphones-microphone-capabilities-diagnosis-and-fixes-at-hand/"><u>How to Restore Your iPhone's Microphone Capabilities: Diagnosis and Fixes at Hand</u></a></li>
-<li><a href="https://fox-that.techidaily.com/iphoneipad-turned-oven-diagnose-and-resolve-your-devices-overheating-problems/"><u>IPhone/iPad Turned Oven? Diagnose & Resolve Your Device's Overheating Problems</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/must-try-mp3-transformers-superior-substitutes-for-mp3-rocket/"><u>Must-Try MP3 Transformers: Superior Substitutes for MP3 Rocket</u></a></li>
-<li><a href="https://fox-that.techidaily.com/navigating-apples-technical-assistance-a-users-manual-for-iphone-support-app/"><u>Navigating Apple’s Technical Assistance: A User’s Manual for iPhone Support App</u></a></li>
-<li><a href="https://fox-that.techidaily.com/navigating-obstacles-top-6-fixes-for-troubled-shared-subscription-services-among-families/"><u>Navigating Obstacles: Top 6 Fixes for Troubled Shared Subscription Services Among Families</u></a></li>
-<li><a href="https://fox-that.techidaily.com/overcome-iphone-detection-problems-in-itunes-or-finder-a-step-by-step-guide/"><u>Overcome iPhone Detection Problems in iTunes or Finder - A Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-that.techidaily.com/reviving-a-faulty-tablet-screen-discover-8-key-techniques-for-improvement/"><u>Reviving a Faulty Tablet Screen: Discover 8 Key Techniques for Improvement</u></a></li>
-<li><a href="https://fox-that.techidaily.com/the-ultimate-walkthrough-to-remote-diagnostic-examination-of-your-iphone-with-apple/"><u>The Ultimate Walkthrough to Remote Diagnostic Examination of Your iPhone with Apple</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722961602043-wifi-drivers-for-windows-7-download-and-update-easily/"><u>WiFi Drivers for Windows 7 Download & Update. Easily!</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-enhancing-meeting-success-with-microsoft-teams-snap-camera/"><u>[Updated] 2024 Approved Enhancing Meeting Success with Microsoft Teams Snap Camera</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-seamless-srt-file-engagement-for-os-users/"><u>[Updated] Seamless SRT File Engagement for OS Users</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-steps-to-create-a-compelling-community-giving-event-post-for-2024/"><u>[Updated] Steps to Create a Compelling Community Giving Event Post for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-turbulence-tamer-for-mobile-cinematography/"><u>[Updated] Turbulence Tamer for Mobile Cinematography</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fix-iphones-that-cant-receive-sms-from-android-devices-essential-tips-and-tricks/"><u>Fix iPhones That Can’t Receive SMS From Android Devices: Essential Tips and Tricks</u></a></li>
+<li><a href="https://fox-that.techidaily.com/four-essential-fixes-for-an-unresponsive-iphone-standby-mode/"><u>Four Essential Fixes for an Unresponsive iPhone Standby Mode</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-realtek-rtl81/"><u>Get Your Realtek RTL81</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721457999620-idevice-not-receiving-new-updates-learn-these-9-troubleshooting-tips-immediately/"><u>IDevice Not Receiving New Updates? Learn These 9 Troubleshooting Tips Immediately</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/nine-proven-fixes-for-when-safari-doesnt-load-images-on-your-iphone/"><u>Nine Proven Fixes for When Safari Doesn't Load Images on Your iPhone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210432855-9781684860081-satans-masterpiece-and-the-way-to-freedom/"><u>Satan's Masterpiece, And The Way To Freedom | Free Book</u></a></li>
+<li><a href="https://fox-that.techidaily.com/step-by-step-tutorial-how-to-update-your-ios-and-macos-screen-time-lock-code-easily/"><u>Step-by-Step Tutorial: How to Update Your iOS & macOS Screen Time Lock Code Easily</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-vanishing-app-icons-on-iphone-expert-tips-and-tricks/"><u>Troubleshooting Vanishing App Icons on iPhone - Expert Tips & Tricks</u></a></li>
 </ul></div>
 

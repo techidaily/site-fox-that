@@ -1,7 +1,7 @@
 ---
 title: "Mastering iPhone Battery Care: A 6-Step Restoration Method"
-date: 2024-10-21T23:15:09.614Z
-updated: 2024-10-24T23:37:30.484Z
+date: 2024-10-25T19:08:50.098Z
+updated: 2024-10-30T16:39:14.191Z
 tags:
   - iphone
   - apple
@@ -35,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/0f9975c7424be8ab80f0e3edfa04cf204d756fbbd
 
  While you shouldn't need to calibrate regularly, it's worth a try if your iPhone is older or you've had battery issues that other steps didn't resolve.
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Preparing to Calibrate Your iPhone's Battery
 
  Before starting the calibration process, you should take a few steps in preparation. They all revolve around disabling features and services, so as few tasks as possible draw power.
@@ -53,32 +60,25 @@ To disable location services on your iPhone, follow these steps:
 ![privacy settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/privacy-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![location services settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/location-services-settings.jpg)
 
 ![location services on off](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/location-services-on-off.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Close
 
  Remember, you can [use Location Services to track a lost iPhone](https://www.makeuseof.com/tag/how-to-trace-a-mobile-phone-location-with-google-latitude/) , so make sure you don't forget to re-enable this after you're done calibrating.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Disable Background Refresh
@@ -94,20 +94,20 @@ Close
 
 ![ios app refresh settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/03/ios-app-refresh-1.png)
 
-<!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Close
+
+<!-- affiliate ads begin -->
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Decrease Your Screen Brightness
 
@@ -119,23 +119,16 @@ Here's how to lower the screen brightness on an iPhone:
 
 ![ios brightness menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/03/ios-brightness-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![ios brightness slider](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/03/ios-brightness.png)
 
-Close
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+Close
 
 ### Turn Off Automatic App Updates
 
@@ -149,14 +142,14 @@ Finally, to turn off automatic updates, follow these three steps:
 
 ![app updates off](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/app-updates-off.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Close
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Calibrate Your iPhone's Battery
 
@@ -185,6 +178,19 @@ Close
 ### Step 4: Drain Your iPhone
 
  Now, you need to repeat the whole process a second time. It's the same drill as before: completely drain the power out of your device. Either use it as you normally would or play videos on loop to move it along faster.
+
+<!-- affiliate ads begin -->
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Step 5: Wait Another Three Hours
 
@@ -215,10 +221,10 @@ Close
  Head to **Settings > Battery > Battery Health & Charging > Optimized Battery Charging** to toggle this on. This slows down the aging of your iPhone's battery, keeping its maximum capacity from degrading quickly.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Other Battery-Saving iPhone Tips
@@ -242,24 +248,15 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-simplified-blur-methods-for-perfect-iphone-pics-a-quick-guide/"><u>[New] Simplified Blur Methods for Perfect iPhone Pics - A Quick Guide</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-srt-fundamentals-explored-in-detail-and-clarity/"><u>[New] SRT Fundamentals Explored in Detail and Clarity</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-installation-route-to-windows-movie-maker-6-version-6/"><u>[Updated] 2024 Approved Installation Route to Windows Movie Maker 6 Version 6</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-harness-your-contents-potential-with-ideal-post-days/"><u>[Updated] In 2024, Harness Your Content's Potential with Ideal Post Days</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-best-online-vaults-exclusive-ringtone-archives/"><u>2024 Approved Best Online Vaults Exclusive Ringtone Archives</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/encompassing-explanation-what-is-googles-podcast-service/"><u>Encompassing Explanation What Is Google's Podcast Service?</u></a></li>
-<li><a href="https://fox-that.techidaily.com/experiencing-issues-with-facetime-try-these-15-methods-for-immediate-repairs/"><u>Experiencing Issues with FaceTime? Try These 15 Methods for Immediate Repairs</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-insiders-look-at-creating-movies-using-windows-8-movie-maker/"><u>In 2024, The Insider's Look at Creating Movies Using Windows 8 Movie Maker</u></a></li>
-<li><a href="https://fox-that.techidaily.com/mastering-screen-time-security-updating-your-ios-device-passcode-effortlessly/"><u>Mastering Screen Time Security: Updating Your iOS Device Passcode Effortlessly</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solutions-for-unsupported-iphone-accessories-troubleshooting-guide/"><u>Solutions for Unsupported iPhone Accessories: Troubleshooting Guide</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solving-connectivity-issues-11-solutions-when-your-airpods-and-iphone-fail-to-sync/"><u>Solving Connectivity Issues: 11 Solutions When Your AirPods & iPhone Fail to Sync</u></a></li>
-<li><a href="https://fox-that.techidaily.com/swift-solutions-for-a-non-responsive-iphone-or-ipad/"><u>Swift Solutions for a Non-Responsive iPhone or iPad</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-portable-pro-with-extended-zoom-meet-the-sx70/"><u>The Portable Pro with Extended Zoom - Meet the SX70!</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/the-ultimate-guide-to-recording-hulu-episodes-on-multiple-devices-for-2024/"><u>The Ultimate Guide to Recording Hulu Episodes on Multiple Devices for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/the-ultimate-guide-7-key-reasons-your-iphones-touchscreen-may-fail-to-respond/"><u>The Ultimate Guide: 7 Key Reasons Your iPhone's Touchscreen May Fail to Respond</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/top-7-easy-ways-to-secure-your-pdfs-with-passwords/"><u>Top 7 Easy Ways to Secure Your PDFs with Passwords</u></a></li>
-<li><a href="https://fox-that.techidaily.com/uncovering-the-causes-of-muted-imessage-notifications-top-strategies-for-iphone-users/"><u>Uncovering the Causes of Muted iMessage Notifications: Top Strategies for iPhone Users</u></a></li>
-<li><a href="https://fox-that.techidaily.com/unlocking-full-features-how-to-get-depth-effects-running-smoothly-in-ios-n-16s-lock-screen/"><u>Unlocking Full Features: How to Get Depth Effects Running Smoothly in iOS N 16'S Lock Screen</u></a></li>
-<li><a href="https://fox-that.techidaily.com/why-isnt-my-iphone-receiving-texts-learn-quick-fixes-here/"><u>Why Isn't My iPhone Receiving Texts? Learn Quick Fixes Here</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-best-8-sbt-to-srtr-conversion-tools-pcmac-compatibility/"><u>[Updated] 2024 Approved Best 8 SBT to SRTR Conversion Tools - PC/Mac Compatibility</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/bypass-reset-honor-90-lite-phone-screen-passcode-pattern-pin-by-drfone-android-unlock-android-unlock/"><u>Bypass/Reset Honor 90 Lite Phone Screen Passcode/Pattern/Pin</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-music-from-motorola-moto-g84-5g-by-fonelab-android-recover-music/"><u>Easy steps to recover deleted music from Motorola Moto G84 5G</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-reclaim-deleted-journal-entries-in-ios-notetaking-applications/"><u>How to Reclaim Deleted Journal Entries in iOS Notetaking Applications</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/iconic-imagery-tales-untold-for-2024/"><u>Iconic Imagery Tales Untold for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-tecno-spark-20-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Tecno Spark 20 to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/step-by-step-instructions-to-thaw-a-frozen-ios-smartphone/"><u>Step-by-Step Instructions to Thaw a Frozen iOS Smartphone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/struggling-with-non-appearing-iphone-notifications-try-these-7-fixes-now/"><u>Struggling with Non-Appearing iPhone Notifications? Try These 7 Fixes Now!</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-lenovo-thinkphone-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Lenovo ThinkPhone Phone Network-Ready</u></a></li>
+<li><a href="https://fox-that.techidaily.com/why-is-siri-not-responding-on-your-ios-device-solve-these-common-glitches/"><u>Why Is Siri Not Responding on Your iOS Device? Solve These Common Glitches</u></a></li>
 </ul></div>
 
