@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting THX Spatial Sound Issues on Windows 11/10 Computers
-date: 2024-10-23T17:34:54.327Z
-updated: 2024-10-30T19:12:34.007Z
+date: 2024-10-29T07:10:31.663Z
+updated: 2024-11-05T10:22:45.769Z
 tags:
   - win11
   - win10
@@ -53,28 +53,15 @@ thumbnail: https://thmb.techidaily.com/66f3a5314b7f0b6f994f976b66c33a57ff0466854
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b3a03daedd.png)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
-  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 2) Type in your password and log in again.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b3a59dfeba.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3) Check if your Start menu works all right now.
@@ -84,10 +71,10 @@ thumbnail: https://thmb.techidaily.com/66f3a5314b7f0b6f994f976b66c33a57ff0466854
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2: Create a new user account
@@ -100,9 +87,23 @@ thumbnail: https://thmb.techidaily.com/66f3a5314b7f0b6f994f976b66c33a57ff0466854
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b8999a1831.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Then type **powershell**  and t  ick the box for**Create this task with administrative privileges** . Click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b8a563ff80.png)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) In PowerShell window, copy and paste in the following command and press the**Enter** key on your keyboard:
 
@@ -129,10 +130,10 @@ net user newusername newpassword /add
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b92b357675.png)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Double-click**Sound, video and game controller** . Right-click your audio card driver and click**Uninstall device** .
@@ -186,16 +187,10 @@ net user newusername newpassword /add
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b98211438e.png)
 
 <!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) View by**Category** , then click**Uninstall a program** .
@@ -232,13 +227,6 @@ net user newusername newpassword /add
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b8999a1831.png)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Then type **powershell**  and t  ick the box for**Create this task with administrative privileges** . Click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b8a563ff80.png)
@@ -253,6 +241,13 @@ DISM /Online /Cleanup-Image /RestoreHealth
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b9c8a8bb33.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6) When these two tests finishes, check if your Start menu is back.
 
 ---
@@ -265,27 +260,20 @@ DISM /Online /Cleanup-Image /RestoreHealth
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b3b34111eb.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) On the top of the Task Manager window, select**File** option and then choose**Run new task** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b8999a1831.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Then type **powershell**  and t  ick the box for**Create this task with administrative privileges** . Click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b8a563ff80.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Copy and paste the following command in and press the **Enter** key on your keyboard.
 
@@ -323,19 +311,16 @@ Get-AppXPackage -AllUsers | Foreach {Add-AppxPackage -DisableDevelopmentMode -Re
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-gamer-centric-streaming-tool-selection/"><u>[New] In 2024, Gamer-Centric Streaming Tool Selection</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-incor-writes-photo-kinetic-vibrance/"><u>[New] Incor Writes Photo Kinetic Vibrance</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-expressiveness-enhancing-youtube-comments-via-emojis/"><u>[Updated] Expressiveness Enhancing YouTube Comments via Emojis</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-filmoquery-your-guide-to-video-editing-insights/"><u>[Updated] FilmoQuery Your Guide to Video Editing Insights</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-deciphering-microsofts-windows-movie-maker-versions/"><u>2024 Approved Deciphering Microsoft's Windows Movie Maker Versions</u></a></li>
-<li><a href="https://fox-that.techidaily.com/easy-iphone-pairing-with-bluetooth-devices-beginners-manual/"><u>Easy iPhone Pairing with Bluetooth Devices - Beginner's Manual</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-resolve-performance-problems-with-star-wars-jedi-fallen-order-on-pc/"><u>How to Resolve Performance Problems with Star Wars Jedi: Fallen Order on PC</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Realme C33 2023 | Dr.fone</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/ipad-pro-versus-surface-pro-a-comprehensive-guide-to-choose-your-perfect-device/"><u>IPad Pro Versus Surface Pro - A Comprehensive Guide to Choose Your Perfect Device</u></a></li>
-<li><a href="https://fox-that.techidaily.com/iphone-photo-collection-made-simple-uncover-8-proven-strategies-and-insights-to-fix-camera-roll-challenges/"><u>IPhone Photo Collection Made Simple: Uncover 8 Proven Strategies & Insights to Fix Camera Roll Challenges</u></a></li>
-<li><a href="https://fox-that.techidaily.com/lost-iphone-apps-effective-techniques-for-tracking-down-disappeared-mobile-programs/"><u>Lost iPhone Apps: Effective Techniques for Tracking Down Disappeared Mobile Programs</u></a></li>
-<li><a href="https://fox-that.techidaily.com/overcoming-iphone-carrier-issues-discover-these-easy-to-follow-fixes/"><u>Overcoming iPhone Carrier Issues - Discover These Easy-to-Follow Fixes</u></a></li>
-<li><a href="https://fox-that.techidaily.com/reviving-your-personal-assistant-fixing-siri-problems-on-ios-devices-quickly/"><u>Reviving Your Personal Assistant: Fixing Siri Problems on iOS Devices Quickly</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/zoom-conference-configuration-essentials-for-2024/"><u>Zoom Conference Configuration Essentials for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-ice-warriors-unleashed-at-2022-games/"><u>[New] In 2024, Ice Warriors Unleashed at 2022 Games</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-capture-clarity-optimal-tripods-for-iphone-and-android/"><u>[Updated] Capture Clarity Optimal Tripods for iPhone & Android</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-ultimate-visuals-top-18-camcorders-for-4k-content/"><u>[Updated] In 2024, Ultimate Visuals - Top 18 Camcorders for 4K Content</u></a></li>
+<li><a href="https://win11.techidaily.com/blue-screen-demystified-how-to-resolve-windows-crashes-quickly/"><u>Blue Screen Demystified: How To Resolve Windows Crashes Quickly</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-non-deliverable-text-alerts-on-iphone-step-by-step-instructions/"><u>Fixing Non-Deliverable Text Alerts on iPhone: Step-by-Step Instructions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-boost-picture-clarity-on-an-iphone-with-low-megapixels/"><u>How to Boost Picture Clarity on an iPhone with Low Megapixels?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/"><u>How to Find iSpoofer Pro Activation Key On Apple iPhone 15 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-rated-recs-prime-websites-for-grabbing-snapalert-beats/"><u>In 2024, Rated Recs Prime Websites for Grabbing SnapAlert Beats</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-volume-button-malfunction-discover-7-ways-to-fix-it-easily-and-quickly/"><u>IPhone Volume Button Malfunction? Discover 7 Ways to Fix It Easily and Quickly</u></a></li>
+<li><a href="https://fox-that.techidaily.com/say-goodbye-to-airdrop-problems-swiftly-solve-them-using-these-16-key-guides/"><u>Say Goodbye to AirDrop Problems – Swiftly Solve Them Using These 16 Key Guides!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-complete-lack-of-sound-on-your-iphone-effective-methods-inside/"><u>Troubleshooting Complete Lack of Sound on Your iPhone - Effective Methods Inside</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Can't Use the Silent Switch on Your iPhone? Learn Alternative Ways to Control Sound Settings
-date: 2024-10-23T17:43:00.215Z
-updated: 2024-10-30T18:40:17.256Z
+date: 2024-11-03T10:30:00.652Z
+updated: 2024-11-04T16:42:01.108Z
 tags:
   - iphone
   - apple
@@ -54,6 +54,13 @@ Close
 
  So, a better approach would be to customize AssistiveTouch's top-level menu and add the**Mute** option on the main screen. Or, to set up a custom action for AssistiveTouch to mute or unmute the device directly.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Customize the Top Level Menu
 
  AssistiveTouch features six buttons in its Top Level menu by default. However, you can customize the menu to add or remove buttons according to your requirements.
@@ -68,38 +75,31 @@ Close
 
 ![AssistiveTouch settings on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customizing-assistivetouch-top-level-menu-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![customizing AssistiveTouch's top-level menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customizing-assistivetouch-top-level-menu-2.jpg)
 
 ![adding a new button to the AssistiveTouch menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customizing-assistivetouch-top-level-menu-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![selecting Mute action for the new AssistiveTouch button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customizing-assistivetouch-top-level-menu-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Mute action in AssistiveTouch's top-level menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customizing-assistivetouch-top-level-menu-5.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Close
 
  All you need to do now is tap the AssistiveTouch button and hit**Mute** . When you do this, the**Mute** button will change to**Unmute** , and you can tap on it again to unmute the device quickly.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Set Up a Custom Action
 
@@ -112,14 +112,14 @@ Follow these simple instructions to get this done:
 
 ![AssistiveTouch settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/setting-a-custom-action-for-assistivetouch-button-1.jpg)
 
-![adding Mute action to Double-Tap gesture](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/setting-a-custom-action-for-assistivetouch-button-2.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![adding Mute action to Double-Tap gesture](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/setting-a-custom-action-for-assistivetouch-button-2.jpg)
 
 Close
 
@@ -150,16 +150,16 @@ Close
 ![setting Mute action to a Back Tap gesture](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-using-back-tap-4.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Close
@@ -189,18 +189,24 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-comparing-livestream-tools-is-streamlabs-the-answer-to-your-broadcast-needs/"><u>[Updated] 2024 Approved Comparing Livestream Tools Is Streamlabs the Answer to Your Broadcast Needs?</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-high-definition-horizons-with-lgs-newest-tv-review-27ud68/"><u>[Updated] 2024 Approved High-Definition Horizons with LG's Newest TV Review (27UD68)</u></a></li>
-<li><a href="https://fox-that.techidaily.com/defeating-the-iphone-black-screen-of-death-expert-repair-techniques/"><u>Defeating the iPhone 'Black Screen of Death': Expert Repair Techniques</u></a></li>
-<li><a href="https://fox-that.techidaily.com/effective-fixes-for-the-roblox-memory-warning-problem-on-iphones/"><u>Effective Fixes for the Roblox Memory Warning Problem on iPhones</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fix-it-the-ultimate-guide-to-solving-your-iphones-camera-glitches-top-7-causes-unveiled/"><u>Fix It! The Ultimate Guide to Solving Your iPhone's Camera Glitches - Top 7 Causes Unveiled</u></a></li>
-<li><a href="https://change-location.techidaily.com/home-button-not-working-on-vivo-g2-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Vivo G2? Here Are Real Fixes | Dr.fone</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-deciphering-and-dissolving-the-fisheye-illusion-in-your-gopro-videos/"><u>In 2024, Deciphering & Dissolving The Fisheye Illusion in Your GoPro Videos</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-infinix-hot-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Infinix Hot 30 5G? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-universal-unlock-pattern-for-htc-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for HTC</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-vive-review-where-real-and-virtual-collide-for-maximum-impact/"><u>In 2024, Vive Review Where Real and Virtual Collide for Maximum Impact</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solve-your-single-airpod-issue-with-these-simple-fixes/"><u>Solve Your Single AirPod Issue with These Simple Fixes</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solving-silent-siri-a-step-by-step-guide-to-restoring-audio-on-your-iphone/"><u>Solving Silent Siri: A Step-by-Step Guide to Restoring Audio on Your iPhone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/the-ultimate-guide-to-solving-iphone-n-th-3s-most-frequent-glitches/"><u>The Ultimate Guide to Solving iPhone N Th-3's Most Frequent Glitches</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-10-most-shared-tiktoks-in-social-media-circles-for-2024/"><u>[New] 10 Most Shared TikToks in Social Media Circles for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-expert-tips-on-amassing-stock-art-resources/"><u>[Updated] Expert Tips on Amassing Stock Art Resources</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-best-five-full-frame-cameras-for-uhd-capture/"><u>[Updated] In 2024, Best Five Full Frame Cameras for UHD Capture</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-revolutionizing-video-revenue-a-conducive-guide-to-youtube-profits/"><u>[Updated] Revolutionizing Video Revenue A Conducive Guide to Youtube Profits</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-simplify-coordination-blending-zoom-into-your-gmail-schedule/"><u>[Updated] Simplify Coordination Blending Zoom Into Your Gmail Schedule</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-steady-shots-how-to-avoid-lens-cloudiness/"><u>[Updated] Steady Shots How to Avoid Lens Cloudiness</u></a></li>
+<li><a href="https://fox-that.techidaily.com/consumer-perception-management/"><u>Consumer Perception Management</u></a></li>
+<li><a href="https://common-error.techidaily.com/definitive-guide-to-resolving-nier-automata-freezing-and-crashing-for-pc-users/"><u>Definitive Guide to Resolving NieR: Automata Freezing and Crashing for PC Users</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-overcome-sim-card-issues-correcting-the-error-of-mm-2-not-provided/"><u>How to Overcome SIM Card Issues: Correcting the Error of MM 2 – Not Provided</u></a></li>
+<li><a href="https://fox-that.techidaily.com/icloud-not-syncing-how-to-solve-icloud-sync-issues/"><u>ICloud Not Syncing? How to Solve iCloud Sync Issues</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-exploring-roleplayings-boundaries-rogues-and-roguities/"><u>In 2024, Exploring Roleplaying's Boundaries Rogues & Roguities</u></a></li>
+<li><a href="https://fox-that.techidaily.com/master-the-art-of-iphone-battery-optimization-using-these-6-tips/"><u>Master the Art of iPhone Battery Optimization Using These 6 Tips</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-electronics-with-toms-advice/"><u>Navigating the World of Electronics with Tom's Advice</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-low-storage-alerts-during-playtime-fixing-roblox-issues-on-apples-mobile-phones/"><u>Overcoming Low Storage Alerts During Playtime: Fixing Roblox Issues on Apple's Mobile Phones</u></a></li>
+<li><a href="https://driver-install.techidaily.com/overcoming-printer-setbacks-on-pc-10/"><u>Overcoming Printer Setbacks on PC 10</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-roblox-low-memory-messages-on-your-apple-device/"><u>Overcoming Roblox Low Memory Messages on Your Apple Device</u></a></li>
+<li><a href="https://fox-that.techidaily.com/restore-lost-apple-iconography-essential-troubleshooting-steps-for-iphones/"><u>Restore Lost Apple Iconography: Essential Troubleshooting Steps for iPhones</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-iphone-cellular-data-issues-top-10-effective-solutions/"><u>Solving iPhone Cellular Data Issues: Top 10 Effective Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-tips-for-persistent-airpod-and-iphone-pairing-problems/"><u>Troubleshooting Tips for Persistent AirPod and iPhone Pairing Problems</u></a></li>
 </ul></div>
 

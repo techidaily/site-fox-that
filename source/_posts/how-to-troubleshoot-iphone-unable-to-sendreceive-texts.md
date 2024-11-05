@@ -1,7 +1,7 @@
 ---
 title: How to Troubleshoot 'iPhone Unable to Send/Receive Texts'
-date: 2024-08-31T21:09:36.291Z
-updated: 2024-09-01T21:09:36.291Z
+date: 2024-10-31T18:44:18.868Z
+updated: 2024-11-04T18:09:30.205Z
 tags:
   - iphone
   - apple
@@ -34,6 +34,13 @@ thumbnail: https://thmb.techidaily.com/92290ca438acc7b53d6d463fb220788f23c7aae03
 
  If you're receiving messages from other iPhones but not Android phones, this could be the reason. If that still doesn't help, but you are receiving iMessage texts, you can learn more about what to do if you're [not receiving texts from Android](https://www.makeuseof.com/iphone-not-receiving-android-texts/) .
 
+<!-- affiliate ads begin -->
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Edit Send & Receive Settings
 
 ![iOS settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/messages-settings-ios16.jpg)
@@ -41,6 +48,13 @@ thumbnail: https://thmb.techidaily.com/92290ca438acc7b53d6d463fb220788f23c7aae03
 ![iphone messages settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/iphone-messages-settings.jpg)
 
 ![selecting email address for imessage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/apple-imessage-settings.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close
 
@@ -58,9 +72,6 @@ Close
 
  To solve this issue, reconnect to Wi-Fi or cellular data. And if you don't have a good connection, you can try the next step.
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Bad Connection? Turn on Send as SMS
 
  If you don't have access to a stable internet connection, consider turning on the Send as SMS feature. This will enable you to send regular SMS texts instead of iMessage texts when you don't have service.
@@ -72,11 +83,12 @@ Close
 ![send as sms](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/send-as-sms.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ## 5\. Turn Off Message Filtering
 
 [iPhones allow you to filter text messages](https://www.makeuseof.com/how-to-filter-iphone-messages/) from unknown senders. While this is off by default, you may have accidentally turned it on. If that's the case, you could be missing text messages from numbers you don't have saved on your phone.
@@ -85,10 +97,14 @@ Close
 
 ![filter unknown senders](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/filter-unknown-senders.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Once you turn it off, head to the Messages app to find any unread messages that the filter hid. Filtered messages don't get deleted. Instead, they get stored in another folder. Once you turn off Message Filtering, you'll see them in the**Messages** app.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Reset Your Network Settings
 
@@ -100,9 +116,6 @@ Close
 
 ![reset network settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/reset-network-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
  After resetting your network settings, get someone to send you another text message. If you still can't receive it, you can always try [resetting your iPhone entirely](https://www.makeuseof.com/tag/how-to-factory-reset-iphone-ipad/) . However, that is time-consuming and might not work.
 
 ## 7\. Contact Your Carrier
@@ -114,8 +127,12 @@ Close
  When calling your carrier, just let them know you aren't receiving text messages. If the carrier can't help you, consider switching to a different network provider unless you have a [carrier-locked phone](https://www.makeuseof.com/unlocked-vs-locked-phone/) .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## iPhone Not Receiving Texts? There Are Things You Can Do
 
  You could miss important events or updates if you're not receiving text messages on your iPhone. This can be difficult for anybody. Because of this, you'll want to get this fixed as soon as possible. After all, you might have already missed some important messages and don't want to miss them anymore.
@@ -130,8 +147,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -139,4 +154,24 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-leading-hd-video-capture-technology-for-2024/"><u>[New] Leading HD Video Capture Technology for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-the-fabric-of-future-cutting-edge-vr-technology-for-2024/"><u>[New] The Fabric of Future Cutting-Edge VR Technology for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-avoiding-obscurity-tips-for-staff-picked-videos-at-vimeo/"><u>[Updated] Avoiding Obscurity Tips for Staff-Picked Videos at Vimeo</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-invaluable-resource-for-zero-cost-video-and-photo-providers/"><u>[Updated] In 2024, Invaluable Resource for Zero-Cost Video and Photo Providers</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-skys-limit-for-your-visual-stories-unlimited-free-options-and-premium-choices/"><u>[Updated] Sky's Limit for Your Visual Stories Unlimited Free Options and Premium Choices</u></a></li>
+<li><a href="https://fox-that.techidaily.com/bypassing-apples-refusal-to-accept-your-card-discover-these-6-effective-methods/"><u>Bypassing Apple's Refusal to Accept Your Card: Discover These 6 Effective Methods</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-boost-your-iphones-performance-understanding-the-top-6-issues/"><u>How to Boost Your iPhone's Performance: Understanding the Top 6 Issues</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-obtain-the-newest-canon-dslr-driver-for-your-eos-d530/"><u>How to Obtain the Newest Canon DSLR Driver for Your EOS D530</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-tackle-these-7-common-problems-on-your-iphones-display/"><u>How To Tackle These 7 Common Problems on Your iPhone's Display</u></a></li>
+<li><a href="https://fox-that.techidaily.com/improving-iphone-wireless-connection-eight-practical-fixes/"><u>Improving iPhone Wireless Connection: Eight Practical Fixes</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-oppo-find-n3-flip-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Oppo Find N3 Flip Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-nokia-105-classic-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Nokia 105 Classic Phone Hassle-Free</u></a></li>
+<li><a href="https://fox-that.techidaily.com/mastering-iphone-error-fixes-a-guide-to-addressing-the-issue-when-last-line-disappears/"><u>Mastering iPhone Error Fixes: A Guide to Addressing the Issue When Last Line Disappears</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/tales-that-echo-through-time-top-8-halls-for-storytellers-for-2024/"><u>Tales That Echo Through Time Top 8 Halls for Storytellers for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-your-mobile-widgets-swift-solutions-for-iphoneipad-issues/"><u>Troubleshoot Your Mobile Widgets: Swift Solutions for iPhone/iPad Issues</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-iphone-dealing-with-a-faulty-proximity-detector/"><u>Troubleshooting iPhone: Dealing with a Faulty Proximity Detector</u></a></li>
+<li><a href="https://fox-that.techidaily.com/ultimate-guide-solve-airpods-continuous-connection-issues-with-your-iphone/"><u>Ultimate Guide: Solve AirPods Continuous Connection Issues with Your iPhone</u></a></li>
+</ul></div>
 

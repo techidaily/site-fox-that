@@ -1,7 +1,7 @@
 ---
 title: How to Rectify Person Recognition Blunders with Ease on Your iPhone/iPad
-date: 2024-09-05T02:40:41.778Z
-updated: 2024-09-06T02:40:41.778Z
+date: 2024-10-30T08:51:26.797Z
+updated: 2024-11-04T20:15:38.567Z
 tags:
   - iphone
   - apple
@@ -48,16 +48,24 @@ Close
 
 ![select photos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/select-photos.PNG)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![this is not X option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/this-is-not-X-option.PNG)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Fix Misidentified People in Photos on a Mac
 
  Removing photos from another person's album on a Mac is just as easy as it is on your iPhone. Follow these steps to do so:
@@ -71,37 +79,30 @@ Close
 ![Person is not in this photo option in Photos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/Person-is-not-in-this-photo-option-in-Photos.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 <!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Easily Sort Pictures With the People Album
 
  The People album in Photos is a great way to view your photo library in an organized way. You can easily look back at all your memories with a particular person without needing to scroll past a sea of unrelated pictures.
 
  However, having misidentified photos in the wrong albums can be quite a nuisance to deal with. Fortunately, the problem has a relatively quick and easy fix. You can review uncategorized photos to avoid the problem in the future, and you can remove any mismatched pictures you stumble across using the Share button.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -110,4 +111,20 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://common-error.techidaily.com/solved-device-not-migrated-on-windows-11/"><u>[Solved] Device Not Migrated on Windows 11</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-picks-for-cutting-edge-websites-of-text-styling-tools/"><u>[Updated] Top Picks for Cutting-Edge Websites of Text Styling Tools</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-embracing-diversity-easeus-tech-assessment/"><u>2024 Approved Embracing Diversity, EaseUS Tech Assessment</u></a></li>
+<li><a href="https://fox-http.techidaily.com/best-free-live-streaming-software-and-app-for-all-platforms-for-2024/"><u>Best Free Live Streaming Software and App for All Platforms for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-honor-magic-6-pro-device-sim-by-drfone-android/"><u>Easily Unlock Your Honor Magic 6 Pro Device SIM</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/key-steps-to-accurate-and-effective-market-research-analysis-for-2024/"><u>Key Steps to Accurate and Effective Market Research Analysis for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721456103684-problem-no-iphone-alerts-appearing-correct-with-these-7-tips/"><u>Problem: No iPhone Alerts Appearing? Correct with These 7 Tips</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721468374007-rotation-locked-learn-how-to-activate-landscape-on-your-ios-gadget/"><u>Rotation Locked? Learn How to Activate Landscape on Your iOS Gadget!</u></a></li>
+<li><a href="https://driver-install.techidaily.com/seamless-wireless-integration-with-updated-atheros-drivers-for-windows-pcs/"><u>Seamless Wireless Integration with Updated Atheros Drivers for Windows PCs</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721472795401-struggling-with-sluggish-mobile-speeds-boost-your-data-velocity-in-just-10-easy-ways/"><u>Struggling with Sluggish Mobile Speeds? Boost Your Data Velocity in Just 10 Easy Ways!</u></a></li>
+<li><a href="https://some-skills.techidaily.com/subtitled-on-the-go-zip-to-srt-conversion-techniques-for-2024/"><u>Subtitled on the Go ZIP-to-SRT Conversion Techniques for 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/the-best-ispoofer-alternative-to-try-on-nubia-red-magic-9-proplus-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721463940528-why-isnt-my-iphone-buzzing-on-silentring-settings-fix-it-with-these-8-steps/"><u>Why Isn't My iPhone Buzzing on Silent/Ring Settings? Fix It With These 8 Steps!</u></a></li>
+</ul></div>
 

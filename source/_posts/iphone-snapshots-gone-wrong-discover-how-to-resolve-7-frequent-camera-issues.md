@@ -1,7 +1,7 @@
 ---
 title: IPhone Snapshots Gone Wrong? Discover How to Resolve 7 Frequent Camera Issues
-date: 2024-09-05T02:40:40.785Z
-updated: 2024-09-06T02:40:40.785Z
+date: 2024-10-31T08:48:07.677Z
+updated: 2024-11-05T00:53:25.707Z
 tags:
   - iphone
   - apple
@@ -34,11 +34,31 @@ Close
 4. Restart the Camera app. To do so, swipe up to the middle of the screen on an iPhone X or later, or double-click the Home button on an iPhone 8 or earlier. Then close the Camera app by sliding it off the top of the screen.
 5. Turn off your iPhone by holding the Side button (along with either Volume button on the iPhone X and later), then slide to power off. Wait 30 seconds before pressing the Side button again to restart your iPhone. If that doesn't work,[force restart your iPhone](https://www.makeuseof.com/tag/restart-iphone-recovery-mode/) instead.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. iPhone Photos Are Blurry or Out of Focus
 
 ![iPhone camera blurry close up](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/01/iPhone-camera-blurry-close-up.jpg)
 
 ![iPhone camera in focus close up](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/01/iPhone-camera-in-focus-close-up.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close
 
@@ -50,11 +70,12 @@ Close
 4. Keep your hand steady while tapping the shutter button. Sometimes it's easier to press one of the Volume buttons to take steady pictures instead. Be careful in the dark when the shutter needs to stay open for longer.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 3\. iPhone Camera Flash Isn't Working
 
 ![iPhone Flashlight Control Center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2018/06/ios-control-center.png)
@@ -65,22 +86,17 @@ Close
 2. Make sure you set the flash to**On** or**Auto** in the Camera app. To do this, tap the lightning bolt icon on the left side of the screen to see your flash options (you can't use the flash for panoramic photographs or time-lapse videos).
 3. Be careful when using the flash for long videos or in hot environments. If your iPhone gets too hot, it might disable the flash entirely until it has cooled down again.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. iPhone Photos Are Flipped the Wrong Way
 
 ![iPhone photo flipped the wrong way](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/01/iPhone-photo-flipped-the-wrong-way.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![iPhone photo rotated in edit screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/01/iPhone-photo-rotated-in-edit-screen.jpg)
 
 Close
@@ -98,11 +114,12 @@ Close
 ![Screen Time settings on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/01/Screen-Time-settings-on-iPhone.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![Allowed Apps in Screen Time restrictions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/01/Allowed-Apps-in-Screen-Time-restrictions.jpg)
 
 Close
@@ -117,12 +134,6 @@ Close
 
 ![Reset All Settings iPhone confirmation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/01/Reset-All-Settings-iPhone-confirmation.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you experience any other oddities with your iPhone camera not working, it's a good idea to try some general software troubleshooting tips. Test your iPhone camera again after each of the tips below.
 
 1. Close all the apps on your iPhone.
@@ -131,15 +142,16 @@ Close
 4. Go to**Settings > General > Reset > Reset All Settings** . This doesn't delete any of your content---such as photos or apps---but it does reset all your iPhone settings.
 5. Finally,[factory reset your iPhone](https://www.makeuseof.com/tag/how-to-factory-reset-iphone-ipad/) and set it up as a new device. This erases everything and is the last resort, but should resolve any software issues that stop your iPhone camera from working.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. General iPhone Camera Hardware Fixes
 
 ![iPhone 11 camera](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/01/iPhone-11-camera.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you've tried everything above and your front or back iPhone camera is still not working, you might have a hardware problem instead. Try the troubleshooting steps below to fix it:
 
@@ -147,12 +159,6 @@ Close
 2. Make sure there are no smudges, dirt, or debris on the camera lens. Smudges and fingerprints should wipe away easily with a microfiber cloth.
 3. [Contact Apple Support](https://getsupport.apple.com/) to arrange a hardware repair at the Apple Store or at an Apple Authorized Service Provider. If your iPhone is out of warranty, you may need to pay for this repair yourself.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Get Back to Taking Great Photos With Your iPhone
 
  These tips cover the most common reasons your iPhone camera might not be working. If you didn't see your exact issue, hopefully the general tips helped you fix the camera anyway. Otherwise, you may need to speak to Apple about a hardware repair.
@@ -167,8 +173,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -176,4 +180,24 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-beyond-wonders-the-unseen-disadvantages-in-vr/"><u>[New] Beyond Wonders The Unseen Disadvantages in VR</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-top-8-mobile-tools-transforming-slow-mo-to-fast-forward-for-2024/"><u>[New] Top 8 Mobile Tools Transforming Slow Mo to Fast-Forward for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-posting-tweets-with-vids-check-the-aspect-ratio/"><u>[Updated] In 2024, Posting Tweets with Vids? Check the Aspect Ratio</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-mastering-visual-identity-top-6-sources-for-youtube-icons-and-logos/"><u>[Updated] Mastering Visual Identity Top 6 Sources for YouTube Icons & Logos</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-webs-frontier-leading-browsers-for-screen-recording-for-2024/"><u>[Updated] Web's Frontier Leading Browsers for Screen Recording for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/10-ways-to-fix-safari-not-working-on-an-iphone/"><u>10 Ways to Fix Safari Not Working on an iPhone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/bluetooth-basics-for-new-iphone-users-an-easy-guide/"><u>Bluetooth Basics for New iPhone Users: An Easy Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/can-iphone-save-images-in-the-cloud-post-deletion-top-8-solutions/"><u>Can iPhone Save Images in the Cloud Post-Deletion? Top 8 Solutions!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/cant-access-chatgpt-on-iphone-discover-these-9-effective-remedies/"><u>Can't Access ChatGPT on iPhone? Discover These 9 Effective Remedies</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/comparing-the-gopro-max-360-and-hero-11-determining-the-superior-gopro-video-camera/"><u>Comparing the GoPro Max 360 and Hero 11 Determining the Superior GoPro Video Camera</u></a></li>
+<li><a href="https://fox-that.techidaily.com/dont-delay-discover-how-ios-153-enhances-security-and-features-on-your-apple-device/"><u>Don't Delay! Discover How iOS 15.3 Enhances Security and Features on Your Apple Device</u></a></li>
+<li><a href="https://fox-that.techidaily.com/first-steps-in-pairing-devices-a-comprehensive-guide-for-iphones/"><u>First Steps in Pairing Devices: A Comprehensive Guide for iPhones</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-vivo-y28-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Vivo Y28 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-solve-your-iphones-persistent-portrait-only-display-problem/"><u>How to Solve Your iPhone's Persistent Portrait-Only Display Problem</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-about-oppo-a56s-5g-frp-bypass-by-drfone-android/"><u>In 2024, About Oppo A56s 5G FRP Bypass</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solution-steps-for-dealing-with-iphones-malfunctioning-close-window-sensor/"><u>Solution Steps for Dealing with iPhone's Malfunctioning Close Window Sensor</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-nokia-130-music-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Nokia 130 Music without Him Knowing | Dr.fone</u></a></li>
+</ul></div>
 

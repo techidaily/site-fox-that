@@ -1,7 +1,7 @@
 ---
 title: "Revive Your iPhone Flashlight: A Step-by-Step Guide to Fixing Common Issues (12 Tips)"
-date: 2024-08-31T21:05:47.855Z
-updated: 2024-09-01T21:05:47.855Z
+date: 2024-10-31T18:26:26.269Z
+updated: 2024-11-05T02:35:09.709Z
 tags:
   - iphone
   - apple
@@ -47,8 +47,12 @@ Close
 ![blue iphone pro on white surface](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/blue-iphone-pro.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  To allow your device's temperature to drop naturally, place your iPhone in a cool, dry place away from direct sunlight. Do not attempt to put your device into the fridge, though, as this will cause damage to it. Just find somewhere that's naturally cool and shady. Once your device cools down, your iPhone's flashlight should start working again.
 
 ## 4\. Remove the Flashlight From the Control Center
@@ -64,21 +68,10 @@ Close
 
 ![customize iphone control center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/iphone-settings-3.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ![customize iphone control center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/iphone-settings-4.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 Close
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Close Your iPhone's Camera App
 
  Your iPhone's camera's flash function uses the same light as the flashlight. If you have the**Camera** app opened, it's normal to see the Control Center's flashlight icon grayed out. This is because you can't use both features at the same time.
@@ -86,22 +79,12 @@ Close
  To solve this, just exit the**Camera** app and access your**Control Center** again. You should see that the flashlight button can once more be selected as usual.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 6\. Turn On Your Flashlight Using the Camera Flash
 
  If you can't turn on your iPhone's flashlight from the Control Center, a workaround is to turn it on in the**Camera** app by activating the flash function. Here's how:
@@ -113,29 +96,45 @@ Key features:
 ![iphone camera video mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/video-mode-1.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![iphone camera video mode options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/video-mode-2.JPG)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![turn on iphone camera flash](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/video-mode-3.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Close
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 7\. Toggle the Flash in Your iPhone's Camera App
 
  To get rid of glitches that stop your iPhone's flashlight from working, you can also try turning your camera flash on and off. The steps are the same as the workaround to turn on your iPhone's camera flash, as discussed in the previous solution. But instead of leaving the**Flash** set to**On** , toggle between**On** and**Off** a few times.
@@ -149,6 +148,13 @@ Close
 ![siri icon on iphone screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/img_7829.JPEG)
 
 ![siri response after turning on iphone flashlight](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/img_7830.JPEG)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close
 
@@ -166,16 +172,10 @@ Close
 
  The method you need to follow varies depending on the iPhone model you have. But in general, you can go to **Settings > General > Shut Down > Slide to power off** . Then, hold the**Side** button to restart your iPhone once it powers off.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 11\. Restore Your iPhone to a Previous Backup
 
  Besides updating and restarting your iPhone, you can also try [restoring your iPhone to a previous backup](https://www.makeuseof.com/tag/restore-iphone-ipad-from-backup/) from when the flashlight was still working as usual. However, when you use this method, keep in mind that you will also lose any new data that was added to your device since you made that backup.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 12\. Reset All Settings on Your iPhone
 
  If all else fails, the last solution you can attempt is to reset your iPhone's settings by going to**Settings > General > Transfer or Reset iPhone** . Tap**Reset** and choose**Reset All Settings** from the pop-up menu. You won't lose any data from your iPhone; all this does is revert your iPhone's settings to factory default values.
@@ -183,6 +183,13 @@ Close
  Take note that the reset process can take a long time, especially if you have a lot of data on your iPhone. So, if you're stuck in the dark and urgently need a flashlight, don't rely on resetting your iPhone right there and then!
 
  Make sure you don't accidentally choose**Erase All Content and Settings** from the**Reset** menu. Doing that would delete all the data on your device.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Effective Solutions When Your iPhone's Flashlight Is Not Working
 
@@ -196,8 +203,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -205,4 +210,22 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/updated-10-best-free-luts-roundup-download-links-galore/"><u>[Updated] 10 Best Free LUTs Roundup - Download Links Galore</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-visual-filmmaking-resources-environmentally-conscious/"><u>[Updated] 2024 Approved Visual Filmmaking Resources - Environmentally Conscious</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-groundbre-folio-of-gaming-loggers-alternatives-to-fbx-for-2024/"><u>[Updated] Groundbre Folio of Gaming Loggers Alternatives to FBX for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-guide-a-detailed-walkthrough-of-internet-radio-logging/"><u>[Updated] The Ultimate Guide A Detailed Walkthrough of Internet Radio Logging</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-guide-to-picking-prime-stream-services/"><u>[Updated] The Ultimate Guide to Picking Prime Stream Services</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-oppo-find-n3-flip-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Oppo Find N3 Flip by Name | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/cant-see-alerts-on-ios-device-7-tricks-to-restore-notification-functionality/"><u>Can't See Alerts on iOS Device? 7 Tricks to Restore Notification Functionality</u></a></li>
+<li><a href="https://fox-that.techidaily.com/effective-strategies-to-correct-acrocefexe-error-issues-on-your-pc/"><u>Effective Strategies to Correct AcroCEF.exe Error Issues on Your PC</u></a></li>
+<li><a href="https://fox-that.techidaily.com/find-lock-and-erase-secure-your-stolen-iphone-through-apples-find-my-service/"><u>Find, Lock, and Erase: Secure Your Stolen iPhone Through Apple’s Find My Service</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-realme-12-5g-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Realme 12 5G | Dr.fone</u></a></li>
+<li><a href="https://win-trending.techidaily.com/instruzioni-dettagliate-per-linstallazione-gratuita-di-windows-11/"><u>Instruzioni Dettagliate per L'installazione Gratuita Di Windows 11</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolving-person-recognition-errors-in-apples-photo-library-made-easy/"><u>Resolving Person Recognition Errors in Apple's Photo Library Made Easy!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/say-cheese-without-worry-tackling-the-top-7-camera-glitches-on-your-phone/"><u>Say Cheese Without Worry: Tackling the Top 7 Camera Glitches on Your Phone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/-and-save-how-to-edit-youtube-videos-quickly-for-2024/"><u>Slash and Save How to Edit YouTube Videos Quickly for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-iphones-made-easy-navigating-through-apples-in-app-tech-support/"><u>Troubleshooting iPhones Made Easy - Navigating Through Apple's In-App Tech Support</u></a></li>
+</ul></div>
 

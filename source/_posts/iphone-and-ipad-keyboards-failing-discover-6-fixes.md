@@ -1,7 +1,7 @@
 ---
 title: IPhone & iPad Keyboards Failing? Discover 6 Fixes!
-date: 2024-09-05T02:40:42.150Z
-updated: 2024-09-06T02:40:42.150Z
+date: 2024-11-03T22:54:03.677Z
+updated: 2024-11-05T12:47:46.022Z
 tags:
   - iphone
   - apple
@@ -43,26 +43,28 @@ Close
 
 ![iphone keyboard language list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/iphone-keyboard-language-list.PNG)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![keyboard language list on iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/keyboard-language-list-on-iphone.PNG)
 
 Close
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 2\. iPhone or iPad Keyboard Typing the Wrong Letters and Words
 
  Almost everyone has had a text message needlessly autocorrected by their iPhone or iPad. But if this happens too frequently, and there are more mistakes than accurate corrections, here's what you should do.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Test Your iPhone or iPad Screen
 
  If the on-screen keyboard seems to type on its own and input the wrong letters and words, the issue may lie with your iPhone screen. Test to see if your iPhone works normally when you're not using the keyboard.
@@ -72,11 +74,18 @@ Close
  But if the cause of ghost touch is damaged hardware—for example, you dropped your iPhone recently, and there are visible screen cracks—you probably need to replace your iPhone's display. While we recommend getting it fixed by Apple, you have [options if you want to fix your iPhone's screen for cheap](https://www.makeuseof.com/tag/places-that-fix-iphone-screens-for-cheap/) .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Check Your Text Replacement Setting
 
  Let's say you're typing the phrase "I'm studying" in a message, but it autocorrects to "I'm napping" every time. This is probably caused by a text replacement setting.
@@ -88,23 +97,18 @@ Close
 ![expanded iphone keyboards setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/expanded-iphone-keyboards-setting.PNG)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![iphone text replacement setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/iphone-text-replacement-setting.PNG)
 
 ![removal of preset text in iphone text replacement setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/removal-of-preset-text-in-iphone-text-replacement-setting.PNG)
 
 Close
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. iPhone or iPad Keyboard Is Lagging
 
  If you're typing swiftly on your iPhone keyboard but the text takes a while to show up on the screen, the cause might be a temporary software glitch or an incorrect iPhone setting. Try the solutions below.
@@ -119,28 +123,10 @@ Close
 
 ![transfer or reset iphone settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_7384.JPEG)
 
-<!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![transfer or reset iphone settings confirmation window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_7385.JPEG)
 
 Close
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Review Your Touch Accommodations Settings in Accessibility
 
  If you're using a pre-owned iPhone or iPad, the previous owner might have changed some accessibility settings that affect how sensitive the screen (including the on-screen keyboard) is to touch. Therefore, these settings may cause a delay between typing on the keyboard and the text actually appearing on the screen.
@@ -151,13 +137,20 @@ Close
 
 ![ipohne touch setting with touch accommodations toggled on](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/ipohne-touch-setting-with-touch-accommodations-toggled-on.PNG)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![iphone touch accommodations setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/iphone-touch-accommodations-setting.PNG)
+
+<!-- affiliate ads begin -->
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close
 
@@ -170,19 +163,14 @@ Close
 ![iphone settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/iphone-settings-app-1.PNG)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2030373/7443" target="_top" id="2030373">
-  <img src="//a.impactradius-go.com/display-ad/7443-2030373" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030373/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![iphone sounds and haptics settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/iphone-sounds-and-haptics-settings.PNG)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![iphone keyboard feedback setting with sound and haptic enabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/iphone-keyboard-feedback-setting-with-sound-and-haptic-enabled.PNG)
 
 Close
@@ -205,6 +193,13 @@ Close
 
  For example, Apple's Magic Keyboard for iPad accessory only works with selected iPad Pro and iPad Air models. You can refer to [Apple's iPad Keyboards page](https://www.apple.com/ipad-keyboards/) to identify the right keyboard case for your iPad.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Disconnect and Reconnect Your iPad Keyboard
 
  Once you're certain you have [the right keyboard case for your iPad](https://www.makeuseof.com/which-ipad-keyboard-case-right-for-you/) , you can try disconnecting and reconnecting the keyboard to see if that resolves the issue. If the physical keyboard is magnetically attached to your iPad, simply remove and reattach it.
@@ -219,28 +214,17 @@ Close
 
 ![iphone general settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/iphone-general-settings-2.JPEG)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
-  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![iPhone General settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/iphone-general-settings.JPEG)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![iphone ios 17.0.3 software update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/img_7670.JPEG)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Close
 
  Similarly, if you've been using a third-party iPhone keyboard app, it's best to [update the iPhone app](https://www.makeuseof.com/how-to-manually-or-automatically-update-apps-iphone/) to get the latest bug fixes as well.
@@ -253,8 +237,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -262,4 +244,26 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-steady-craft-fights-against-camera-jiggles-for-2024/"><u>[New] Steady Craft Fights Against Camera Jiggles for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-the-fundamentals-of-youtube-video-archiving/"><u>[Updated] The Fundamentals of YouTube Video Archiving</u></a></li>
+<li><a href="https://fox-that.techidaily.com/11-proven-fixes-to-tackle-the-problem-of-no-ringing-for-incoming-calls-on-iphones/"><u>11 Proven Fixes to Tackle the Problem of No Ringing for Incoming Calls on iPhones</u></a></li>
+<li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-vivo-y17s-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Vivo Y17s to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721466622660-analyze-and-adapt-your-strategy/"><u>Analyze and Adapt Your Strategy</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721448507606-diy-repair-why-isnt-my-iphone-internet-sharing-function-working-heres-how-to-fix-it/"><u>DIY Repair: Why Isn't My iPhone Internet Sharing Function Working? Here’s How to Fix It</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/essential-workout-logging-applications-to-optimize-your-fitness-routine/"><u>Essential Workout Logging Applications to Optimize Your Fitness Routine</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721444549080-facing-delayed-shutdown-on-your-iphone-screen-heres-what-you-can-do/"><u>Facing Delayed Shutdown on Your iPhone Screen? Here's What You Can Do</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/harmonizing-iphone-footage-like-a-pro-for-2024/"><u>Harmonizing iPhone Footage Like a Pro for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721467378973-how-to-get-your-iphone-texting-again-discover-10-effective-fixes/"><u>How to Get Your iPhone Texting Again? Discover 10 Effective Fixes</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-6s-without-passcode-4-easy-methods-drfone-by-drfone-ios/"><u>In 2024, How To Unlock iPhone 6s Without Passcode? 4 Easy Methods | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-the-ultimate-guide-to-effective-instagram-tagging-with-these-top-25-hashes/"><u>In 2024, The Ultimate Guide to Effective Instagram Tagging with These Top 25 Hashes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721462489547-iphone-flashlight-issues-here-are-12-quick-fixes/"><u>IPhone Flashlight Issues? Here Are 12 Quick Fixes!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721461648634-iphone-frozen-at-apple-logo-try-these-7-failsafe-fixes/"><u>IPhone Frozen at Apple Logo? Try These 7 Failsafe Fixes</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-gadget-selection-tips-and-advice-from-toms-hardware-experts/"><u>Mastering Gadget Selection: Tips and Advice From Tom's Hardware Experts</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721469947717-say-goodbye-to-that-annoying-yellow-cast-on-your-iphone-screen-discover-these-9-fixing-methods/"><u>Say Goodbye to That Annoying Yellow Cast on Your iPhone Screen – Discover These 9 Fixing Methods</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-to-fix-unresponsive-usb-cases-win-xpvista7810/"><u>Strategies to Fix Unresponsive USB Cases: Win XP/Vista/7/8/10</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721447478013-struggling-with-your-iphones-vpn-connection-here-are-7-quick-fixes/"><u>Struggling With Your iPhone's VPN Connection? Here Are 7 Quick Fixes</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-lag-and-stuttering-in-overwatch-tips-and-guides/"><u>Troubleshooting Lag & Stuttering in Overwatch - Tips and Guides</u></a></li>
+</ul></div>
 

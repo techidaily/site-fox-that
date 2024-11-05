@@ -1,7 +1,7 @@
 ---
 title: "Clear as Day: 7 Strategies for Fixing a Foggy iPhone Lens Capture"
-date: 2024-09-05T02:40:40.608Z
-updated: 2024-09-06T02:40:40.608Z
+date: 2024-11-01T12:40:52.754Z
+updated: 2024-11-05T00:17:48.447Z
 tags:
   - iphone
   - apple
@@ -30,16 +30,17 @@ thumbnail: https://thmb.techidaily.com/7b81e5a1677e5963f8851410568bf197590afb572
 
 ![iPhone 14 Pro's big camera module](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/iphone-14-pro-camera.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Cameras are allergic to dust, fingerprints, smudges, and other debris. If there are smudges, dust, or any debris on your iPhone's camera lenses, images won't be clear because of the obstruction. You can fix this by cleaning your camera lenses.[Apple recommends](https://support.apple.com/en-us/HT203040) you use a dry microfiber cloth to clean your camera lens.
 
  However, even so, there are cases where this might not work. For example, if there's debris inside the lens, you have no option but to take your device to an Apple Store or an Apple Authorized Service Provider. You should also do the same if you notice damage to your camera's protector glass (the glass covering the camera lens).
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Keep Your Hands Steady While Shooting
 
  Shooting clear images also requires you to be steady. Even if everything else works fine, but your hands are shaky while shooting, your photos will look blurry because of the motion. And camera lenses are specifically sensitive to movement. Keep your hands steady while pressing the Shutter button for the best results.
@@ -48,28 +49,10 @@ thumbnail: https://thmb.techidaily.com/7b81e5a1677e5963f8851410568bf197590afb572
 
 ![Person taking a photo with an iPhone Pro](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/how-to-keep-iphone-camera-night-mode-always-off-in-ios-15.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you struggle with this, you can place your iPhone on a surface, or if you're ready to spend a few bucks, you can invest in a tripod stand for your iPhone.
 
  For expert recommendations, check out our roundup of [the best phone tripods](https://www.makeuseof.com/tag/whats-best-phone-tripod/) . If you're the DIY type and are willing to invest time in making your own, here are [cheap and easy DIY smartphone tripod stands](https://www.makeuseof.com/tag/3-cheap-easy-diy-smartphone-tripod-mounts-made-tested-si-x3/) that will keep you engaged this weekend.
 
-<!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Disable the AE/AF Lock
 
  Auto-exposure (AE) and Auto-focus (AF) features on your iPhone camera are important for setting fixed focus and exposure values. AE/AF ensures that your device always retains the exposure and focus on the subject. Even if you change the distance between you and the subject by either walking towards or away from it, your device will not refocus.
@@ -78,26 +61,15 @@ thumbnail: https://thmb.techidaily.com/7b81e5a1677e5963f8851410568bf197590afb572
 
 ![AE/AF Lock enabled on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/aeaf-lock-enabled-iphone.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![AE/AF Lock disabled on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/aeaf-lock-disabled-ios.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Close
 
  You can turn it off by tapping anywhere in the camera preview. This will ensure that your iPhone automatically refocuses when you or the subject moves. You should also explore more [iPhone camera settings for taking better photos](https://www.makeuseof.com/tag/iphone-camera-settings/) .
@@ -110,17 +82,38 @@ Close
 
 ![Zoomed-in view in iOS Camera app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/zoomed-in-view-iphone-camera.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Standard view in iOS Camera app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/standard-view-iphone-camera.jpg)
 
 Close
 
  We recommend using optical zoom instead of digital zoom to get the best results. You can see this by tapping the number at the bottom of your image preview with the Camera app open. You can pinch out with two fingers to slightly increase the level to a point where the image still looks detailed. However, just remember that while digital zoom gives you a better range, the quality won't be nearly as good.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Remove Accessories From Your iPhone
 
  If you have magnetic or metallic accessories on your iPhone, they might interfere with your camera's ability to focus. Common culprits include phone cases and camera accessories like a magnetic lens mount or a lens converter.
 
 ![iPhone covered in case with moment macro lens attached](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/iphone-with-moment-lens-case.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  These accessories commonly cause motion blur in low-light situations, according to Apple. So, remove the accessories and try taking a photo, then see if the issue has been fixed. If this fixes your blurry iPhone camera, remove the accessory whenever you want to shoot.
 
@@ -130,12 +123,6 @@ Close
 
  You might not be a believer in this catch-all solution, but it's been proven that [restarting fixes most smartphone problems](https://www.makeuseof.com/why-restarting-smartphone-fixes-most-problems/) . Go ahead and do it, then [open your iPhone's Camera app](https://www.makeuseof.com/alternate-ways-to-open-iphone-camera/) again and check if your problem is fixed.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Take Clear Pictures on Your iPhone
 
  Taking clear images on your iPhone requires the software and hardware to be in great condition or set up correctly. If your iPhone's camera has been taking blurry pictures, try all the solutions above.
@@ -148,8 +135,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -157,4 +142,23 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-smart-selections-essential-mac-programs-for-videograbbing/"><u>[New] 2024 Approved Smart Selections Essential Mac Programs for Videograbbing</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-excellent-ios-tools-the-hottest-choices-for-simulating-psp-games/"><u>[Updated] 2024 Approved Excellent iOS Tools The Hottest Choices for Simulating PSP Games</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-earning-mastery-in-streams-a-comprehensive-review/"><u>[Updated] In 2024, Earning Mastery in Streams A Comprehensive Review</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-youtubes-adsense-income-strategy-calculating-per-thousand-viewers/"><u>2024 Approved Youtube's AdSense Income Strategy Calculating Per Thousand Viewers</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-on-your-fingertips-how-to-get-the-cutting-edge-ios-application/"><u>ChatGPT on Your Fingertips - How to Get the Cutting-Edge iOS Application</u></a></li>
+<li><a href="https://windows11.techidaily.com/controlling-highlight-features-on-windows-11-pcs/"><u>Controlling Highlight Features on Windows 11 PCs</u></a></li>
+<li><a href="https://fox-that.techidaily.com/cool-down-your-idevice-why-they-get-hot-and-how-to-fix-it-quickly/"><u>Cool Down Your iDevice: Why They Get Hot and How to Fix It Quickly</u></a></li>
+<li><a href="https://fox-that.techidaily.com/effective-techniques-to-get-past-an-hanging-ios-update-error-on-apple-devices/"><u>Effective Techniques to Get Past an Hanging iOS Update Error on Apple Devices</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-fix-a-failed-app-store-purchase-on-iphone-or-ipad/"><u>How to Fix a Failed App Store Purchase on iPhone or iPad</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-samsung-galaxy-m34-5g-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Samsung Galaxy M34 5G</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-tecno-spark-10-pro-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Tecno Spark 10 Pro Is Unlocked</u></a></li>
+<li><a href="https://fox-that.techidaily.com/ios-restoration-explained-simple-steps-for-a-fresh-start-on-your-apple-gadget/"><u>IOS Restoration Explained: Simple Steps for a Fresh Start on Your Apple Gadget</u></a></li>
+<li><a href="https://fox-that.techidaily.com/procedure-to-remotely-test-your-iphone-with-apple-diagnostics-tools/"><u>Procedure to Remotely Test Your iPhone with Apple Diagnostics Tools</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolve-your-iphones-ghostly-touch-problem-with-these-10-effective-strategies/"><u>Resolve Your iPhone's Ghostly Touch Problem with These 10 Effective Strategies</u></a></li>
+<li><a href="https://win-blog.techidaily.com/winning-strategies-against-persistent-fifa-n22-pc-crashing-troubleshooting-tips/"><u>Winning Strategies Against Persistent FIFA N22 PC Crashing - Troubleshooting Tips</u></a></li>
+<li><a href="https://fox-that.techidaily.com/your-iphones-vanished-app-effective-strategies-for-finding-whats-missing/"><u>Your iPhone's Vanished App: Effective Strategies for Finding What's Missing</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Top 9 Signs Your iPhone Has Been Exposed To Liquid
-date: 2024-09-05T02:40:39.629Z
-updated: 2024-09-06T02:40:39.629Z
+date: 2024-10-29T16:41:22.024Z
+updated: 2024-11-04T17:37:41.283Z
 tags:
   - iphone
   - apple
@@ -28,6 +28,13 @@ thumbnail: https://thmb.techidaily.com/0f034b01e896bfeb1b76fcb002ff3f08bf8065e80
 
  If you use your iPhone's camera and your pictures look like they're from a low-budget movie from the 50s, then it might be water-damaged. If you see a photo like this, turn off your phone and dry it thoroughly.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Face ID or Touch ID Malfunctioning
 
 ![iPhone with Face ID is not available message on the lock screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/iphone-with-face-id-is-not-available-message-on-the-lock-screen.jpg)
@@ -39,17 +46,12 @@ thumbnail: https://thmb.techidaily.com/0f034b01e896bfeb1b76fcb002ff3f08bf8065e80
  Likewise, Touch ID could also be negatively affected by water if it slips through the side of the Home button and gets into the sensors. This is less likely to happen if you use an iPhone 7 or 8, but it's still possible if the phone falls into extremely dirty water.
 
 <!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 3\. Misbehaving Buttons
 
  Dirty water often contains all sorts of particles that can get into small gaps and block them. If you notice that the buttons on an iPhone feel stuck, make a grainy sound, or simply do not respond, then you could be holding a water-damaged iPhone.
@@ -63,11 +65,12 @@ thumbnail: https://thmb.techidaily.com/0f034b01e896bfeb1b76fcb002ff3f08bf8065e80
  Once you see signs of water under the display, dry the device and [back up all your iPhone's data](https://www.makeuseof.com/tag/how-to-backup-iphone-ipad/) . Whatever you do, do not put it in rice because that myth may accelerate your problem. If there's still a dark spot after your phone is dry, you might need to change the screen assembly.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 5\. Faulty Touchscreen and Flickering Display
 
  This is rare on iPhones, but if you see no cracks on your screen, yet the phone's touch function seems partially or completely unresponsive, you can assume that water may have affected a part of the screen. You might also experience "ghost touches," meaning the phone's screen seems to work itself.
@@ -76,40 +79,16 @@ thumbnail: https://thmb.techidaily.com/0f034b01e896bfeb1b76fcb002ff3f08bf8065e80
 
  The phone's display module may have been affected by water. You should return it to Apple or an Apple Authorized Service Provider to replace that part of the screen.
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
-  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Muffled Speakers
 
 ![iPhone 11 in the hands of a woman with volume control options on the screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/iphone-11-in-the-hands-of-a-woman-with-volume-control-options-on-the-screen.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Another clear sign that an iPhone is water-damaged is muffled speakers. If you want to purchase a used phone, after checking the cameras, you should play some sounds on the speakers to see what it sounds like.
 
  If the sounds on the iPhone come out muffled, then you can assume that the phone likely had some water damage to its speaker hardware at some point. You can also test the front speaker by playing a voice note on iMessage and placing it against your ear.
 
  You should dry out the speakers for iPhones that just fell into some water. If that still doesn't help, try some DIY [iPhone speaker fixes](https://www.makeuseof.com/tag/fix-iphone-speaker-not-working/) before you spend money on an expert.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
-  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. Signs of Rust and Corrosion
 
  iPhones are typically made of stainless steel or aluminum, a sturdy lightweight metal, but a metal nonetheless. This means that when iPhones are exposed to moisture or salty water for too long, the metals can corrode and cause rust or pitting.
@@ -118,22 +97,17 @@ thumbnail: https://thmb.techidaily.com/0f034b01e896bfeb1b76fcb002ff3f08bf8065e80
 
  If you're skilled at DIY repairs, you can try opening up the iPhone to search the interior components for signs of rust.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 8\. Unstable Charging
 
 ![Plugged-in iPhone resting on a black surface](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/plugged-in-iphone-resting-on-a-black-surface.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  In most scenarios where a phone falls into some water, it will likely be dirty water. And dirty water could contain all sorts of things like sand, mud, or other icky particles. These particles can get into your phone's charging port and block the pins. When the pins are blocked in this manner, your charger might not be able to fully nest in your phone, stopping your phone from charging properly or charging at all.
 
  If your phone falls in muddy water, try to remove mud from the charging port as quickly as possible. When your phone dries, give the charging port a thorough clean. You can check our guide on [how to clean your dirty iPhone](https://www.makeuseof.com/tag/clean-iphone-guide/) for better assistance with that.
@@ -145,6 +119,13 @@ thumbnail: https://thmb.techidaily.com/0f034b01e896bfeb1b76fcb002ff3f08bf8065e80
  If you're looking to buy a used iPhone that you suspect has been water-damaged, you can sniff the charging port area to find out if it has been in water recently. If you smell something grimy, salty, or a little like burning wire, it may be water-damaged.
 
  Turning on your phone after water makes its way inside can cause the water inside to turn to vapor as the phone heats up. Not only can vapor cause more damage, but it could cause strange odors to ooze out of your phone.
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Avoid a Water-Damaged iPhone at All Costs
 
@@ -160,8 +141,6 @@ thumbnail: https://thmb.techidaily.com/0f034b01e896bfeb1b76fcb002ff3f08bf8065e80
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -169,4 +148,18 @@ thumbnail: https://thmb.techidaily.com/0f034b01e896bfeb1b76fcb002ff3f08bf8065e80
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-enthusiastic-presentation-appraisal-version-08/"><u>[New] Enthusiastic Presentation Appraisal, Version 08</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-hidden-features-top-30-unknown-window-11-tips/"><u>[New] In 2024, Hidden Features Top 30 Unknown WINDOW 11 Tips</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-unlock-the-magic-crafting-impactful-photos-for-insta-cover-highlights-for-2024/"><u>[Updated] Unlock the Magic Crafting Impactful Photos for Insta Cover Highlights for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-breakneck-beats-short-track-highlights/"><u>2024 Approved Breakneck Beats Short Track Highlights</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-youtube-content-protection-can-you-record-playbacks/"><u>2024 Approved YouTube Content Protection Can You Record Playbacks?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/complete-guide-steps-to-perform-a-full-restoration-on-your-iphoneipad/"><u>Complete Guide: Steps to Perform a Full Restoration on Your iPhone/iPad</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-app-installation-issues-top-1n-10-fixes-for-a-smooth-download-experience/"><u>IPhone App Installation Issues: Top 1N 10 Fixes for a Smooth Download Experience</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721459006085-iphone-missing-push-messages-resolve-with-these-7-quick-fixes/"><u>IPhone Missing Push Messages? Resolve with These 7 Quick Fixes!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/steps-to-stop-spotify-crashing-on-your-iphone-once-its-locked/"><u>Steps to Stop Spotify Crashing on Your iPhone Once It's Locked</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-10-hassle-free-tips-to-resolve-your-apple-pay-difficulties/"><u>Top 10 Hassle-Free Tips to Resolve Your Apple Pay Difficulties</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-nokia-c12-pro-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Nokia C12 Pro | Dr.fone</u></a></li>
+</ul></div>
 

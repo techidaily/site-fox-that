@@ -1,7 +1,7 @@
 ---
 title: Silent iPhone Messages? Here Are 15+ Ways to Restore Your SMS Alerts and Ringtones
-date: 2024-09-05T02:40:42.106Z
-updated: 2024-09-06T02:40:42.106Z
+date: 2024-11-03T12:56:19.500Z
+updated: 2024-11-05T11:28:23.908Z
 tags:
   - iphone
   - apple
@@ -42,6 +42,13 @@ Close
 
  After following the above steps, new text messages via SMS and iMessage should show up on your iPhone and make a sound when the device is locked.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Ensure the Person Isn't Muted
 
  If you're wondering why your iPhone is not notifying you when you receive a text from one person, you might have muted that person. Once you mute a person or group, your iPhone won't alert you when they send you a new text or iMessage. Below, you'll find out how to fix this:
@@ -57,17 +64,12 @@ Close
 Close
 
 <!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 3\. Turn Off Silent Mode and Focus
 
  After you put your iPhone in silent mode, new texts won't have a notification tone. To fix this, turn off silent mode by pushing up the mute switch located above your iPhone's volume buttons.
@@ -75,6 +77,13 @@ Close
  Secondly, when your iPhone is in Focus (or Do Not Disturb) mode, it does not vibrate or play a sound for new texts. You can fix this by [opening the iOS Control Center](https://www.makeuseof.com/how-to-use-customize-control-center-iphone/) and ensuring the Focus toggle (crescent moon icon) isn't purple. If it is, tap on it to toggle the feature off.
 
  That said, you can [set up Focus modes](https://www.makeuseof.com/how-to-use-focus-modes-ios/) that let you configure which apps and people you want to allow notifications from.
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Force Quit the Messages App
 
@@ -84,42 +93,18 @@ Close
 
  After a few seconds, open this app again, and hopefully, this should smoothen the notification issues.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2024333/7443" target="_top" id="2024333">
-  <img src="//a.impactradius-go.com/display-ad/7443-2024333" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024333/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Ensure iMessage Is Enabled
 
  Before you move ahead, it's essential to check if [iMessage is activated](http://www.makeuseof.com/how-to-activate-imessage/) and switched on or not. To do that, go to**Settings** \>**Messages** and make sure**iMessage** is enabled.
 
  Next, tap**Send & Receive** and check you have the correct phone number and email here. You should start receiving notifications again after doing this.
 
-<!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Restart Your iPhone
 
  Often, things might not work correctly on your iPhone due to temporary glitches. Usually, a quick restart fixes these issues.
 
  To turn off your iPhone, use the physical buttons or go to**Settings** \>**General** and tap**Shut Down** . After a minute, turn on your iPhone either by using the power button or plugging in your charger.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. Turn Off Filter Unknown Senders
 
  iPhone lets you automatically [filter spam and texts from unknown people](https://www.makeuseof.com/how-to-filter-iphone-messages/) . When you enable this, you might miss a few meaningful text notifications in rare cases. Plus, if someone who isn't in your contact list messages you, the Messages app will sort their text into a separate list and not notify you of it.
@@ -130,12 +115,6 @@ Close
 
 ![Tap Unknown and Spam in iPhone Messages Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/tap-unknown-and-spam-in-iphone-messages-settings.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Turn off Filter Unknown Senders in iPhone Messages Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/turn-off-filter-unknown-senders-in-iphone-messages-settings.png)
 
 Close
@@ -156,42 +135,19 @@ Close
 
 ![Tap Messages in iPhone Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/tap-messages-in-iphone-settings.png)
 
-<!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Tap Unknown and Spam in iPhone Messages Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/tap-unknown-and-spam-in-iphone-messages-settings.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![Swipe left on blocked iPhone contact and tap Unblock](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/swipe-left-on-blocked-iphone-contact-and-tap-unblock.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2024326/7443" target="_top" id="2024326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2024326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024326/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Close
 
-<!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 10\. Ensure Custom Text Tone Isn't Set to "None"
 
  Did you ever set "None" as the alert tone for a particular contact and forget about it? If yes, here is how to revert that and have a proper tone for new texts from that person:
@@ -202,13 +158,14 @@ Close
 
 ![Tap Text Tone for a Contact in iPhone Phone or Contacts app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/tap-text-tone-for-a-contact-in-iphone-phone-or-contacts-app.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Choose a different custom tone for contact](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/choose-a-different-custom-tone-for-contact.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close
 
@@ -222,32 +179,28 @@ Close
 
 ![Tap Text Message Forwarding in iPhone Messages Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/tap-text-message-forwarding-in-iphone-messages-settings.png)
 
-<!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Turn off Text Message Forwarding for all your other Apple devices](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/turn-off-text-message-forwarding-for-all-your-other-apple-devices.png)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Close
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 13\. Are You Using an Apple Watch?
 
  If you have enabled text notifications on your Apple Watch, it may not show them on the iPhone or play the tone. To address this, make sure your iPhone and Apple Watch are running the latest versions of iOS and watchOS, respectively. Then, turn off text notifications on the Apple Watch from the Watch app on your iPhone.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 14\. Have You Opened the Messages App on Your Mac?
 
  If you keep the Messages app open on your Mac, new messages may appear there, and your iPhone may not play the text notification sound for them. To fix this,[quit the Messages app on your Mac](https://www.makeuseof.com/ways-to-quit-apps-on-mac/) . Or, you may use it there if you're already working on your computer.
@@ -259,6 +212,19 @@ If none of the solutions above help, don't worry—hope isn't lost yet.
  The first thing you can do is make sure that your mobile plan allows you to receive text messages. Make sure your cellular plan is active and that you have no pending bills.
 
  If you think that glitches are causing your device to not receive iPhone text message notifications, you may need to update your iPhone's firmware. You can do that by going to**Settings** \>**General** \>**Software Update** . At times, bugs like failing text notifications are fixed by installing the newest iOS update.
+
+<!-- affiliate ads begin -->
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Not Getting Text Notifications on iPhone? Let's Fix That
 
@@ -272,8 +238,6 @@ If none of the solutions above help, don't worry—hope isn't lost yet.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -281,4 +245,26 @@ If none of the solutions above help, don't worry—hope isn't lost yet.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/new-optimal-storage-solution-for-sony-a7c-cameras/"><u>[New] Optimal Storage Solution for Sony A7C Cameras</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-creative-command-center-studio-for-youtubers/"><u>[Updated] In 2024, Creative Command Center Studio for YouTubers</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-quick-lenovo-screen-capture-tips/"><u>[Updated] Quick Lenovo Screen Capture Tips</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-choreographing-ideal-canon-time-lapse-shots/"><u>2024 Approved Choreographing Ideal Canon Time-Lapse Shots</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/2024s-ultimate-smartwatch-guide-expert-evaluations-and-ratings/"><u>2024'S Ultimate Smartwatch Guide: Expert Evaluations and Ratings</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721470323921-dynamic-headtracking-issue-on-airpods-fix-it-by-turning-off-the-feature-now/"><u>Dynamic Headtracking Issue on AirPods: Fix It by Turning Off the Feature Now</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721475027685-easy-solution-for-when-apples-itunes-and-finder-cant-find-your-iphone/"><u>Easy Solution for When Apple's iTunes and Finder Can't Find Your iPhone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/error-code-30-unraveled-fixing-the-cmos-bios-protection-failure-on-your-pc/"><u>Error Code 30 Unraveled: Fixing the CMOS BIOS Protection Failure on Your PC</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721439318936-experiencing-device-update-failures-on-iphone-or-ipad-heres-how-to-resolve-them-in-9-ways/"><u>Experiencing Device Update Failures on iPhone or iPad? Here's How to Resolve Them in 9 Ways</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721476007641-instagram-sluggish-here-are-six-proven-tips-to-speed-up-on-any-device/"><u>Instagram Sluggish? Here Are Six Proven Tips to Speed Up on Any Device!</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/skype-recording-excellence-the-years-leading-tools/"><u>Skype Recording Excellence The Year's Leading Tools</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solve-your-cast-to-device-woes-on-windows-11-with-these-expert-tips/"><u>Solve Your Cast To Device Woes on Windows 11 with These Expert Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stop-hypervisor-errors-with-these-5-strategies/"><u>Stop HYPERVISOR Errors with These 5 Strategies</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721471739014-stumped-by-missing-alerts-on-iphone-discover-7-troubleshooting-steps/"><u>Stumped by Missing Alerts on iPhone? Discover 7 Troubleshooting Steps</u></a></li>
+<li><a href="https://win-studio.techidaily.com/top-losungen-zum-wiederherstellen-von-geloschten-profilen-unter-windows-10-eine-umfassende-liste/"><u>Top-Lösungen Zum Wiederherstellen Von Gelöschten Profilen Unter Windows 10: Eine Umfassende Liste!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721472694629-troubleshoot-the-low-memory-warning-issue-in-roblox-for-your-iphone-easily/"><u>Troubleshoot the 'Low Memory Warning' Issue in Roblox for Your iPhone Easily!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721471578557-unable-to-download-apps-on-your-iphone-here-are-10-fixes-you-can-try/"><u>Unable to Download Apps on Your iPhone? Here Are 10 Fixes You Can Try!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721474151947-why-cant-my-iphone-get-messages-from-an-android-let-us-help-you-fix-it/"><u>Why Can't My iPhone Get Messages From an Android? Let Us Help You Fix It!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721462442163-why-wont-my-iphone-display-siris-suggestions-solutions-inside/"><u>Why Won’t My iPhone Display Siri's Suggestions? Solutions Inside</u></a></li>
+</ul></div>
 

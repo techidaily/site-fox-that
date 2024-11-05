@@ -1,7 +1,7 @@
 ---
 title: "Duplicate Alert Suppression Techniques: Hushing the iPad During an iPhone Incoming Call"
-date: 2024-08-31T21:08:17.407Z
-updated: 2024-09-01T21:08:17.407Z
+date: 2024-10-30T16:19:56.121Z
+updated: 2024-11-05T00:47:26.746Z
 tags:
   - iphone
   - apple
@@ -41,14 +41,12 @@ thumbnail: https://thmb.techidaily.com/d10946fd797c909f3b766507ccc413e54b73231c6
  Still, this is a great option for quickly muting your iPad notifications.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Stop Your iPad From Ringing With Focus Modes
 
  If your iPad is running iPadOS 15 or later, you can [set up and use Focus modes](https://www.makeuseof.com/how-to-use-focus-modes-ipad/) to help you deal with that annoying ringer. Focus is essentially an evolution of the Do Not Disturb feature that can let you manually tweak what apps and services are allowed to launch notifications in various situations or times of the day.
@@ -62,8 +60,12 @@ thumbnail: https://thmb.techidaily.com/d10946fd797c909f3b766507ccc413e54b73231c6
 ![Creating a Focus Mode on iPadOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/how-to-stop-ipad-ringing-create-focus.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  On this screen, you can select the people and apps you want to manage notifications from. Select**Choose Apps** , then select**Allow Notifications From** at the top of the list. The list below will populate with a few apps, but you can add more.
 
  To add an app you want to allow notifications from, tap the**Add Apps** button on the left, then select it from the list of available apps. Once apps are added to the list, you can tap the checkbox in the top-left of each app to enable or disable notifications. There are [plenty of other aspects to Focus modes](https://www.makeuseof.com/focus-mode-ideas-to-set-up-in-ios/) , but this is all you need for notifications.
@@ -74,11 +76,15 @@ thumbnail: https://thmb.techidaily.com/d10946fd797c909f3b766507ccc413e54b73231c6
 
 ![Enabling a Focus Mode on iPadOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/how-to-stop-ipad-ringing-turn-focus-on.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  When you want to disable it, you can tap the**Focus** toggle.
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Disable "Calls on Other Devices"
 
  All the other options we've looked at to stop your iPad from ringing involve addressing the issue on the iPad. These all have downsides, though, from silencing other notifications to having to use Focus Modes to manage the ringer. Those are fine options if you want to disable the ringer for a short while, but what about turning it off for good?
@@ -89,21 +95,19 @@ thumbnail: https://thmb.techidaily.com/d10946fd797c909f3b766507ccc413e54b73231c6
 
 ![allow calls on other devices iPhone setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/allow-calls-on-other-devices-iphone-setting.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Choosing which devices to ring when your iPhone rings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/how-to-stop-ipad-ringing-iphone-calls-on-other-devices-custom.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Close
 
  If you want to disable calls everywhere but on your iPhone, disable the**Allow Calls on Other Devices** toggle. But if you only want to disable calls ringing on your iPad, leave this toggle enabled but look for your iPad under the "Allow Calls On" section further down on the screen, and then disable the slider next to it.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Plenty of Ways to Silence iPad Calls
 
  For most people, the best way to silence calls ringing on your iPad is to disable the "Calls on Other Devices" setting on your iPhone, as it leaves the rest of the notifications on your iPad untouched. This lets you manage which devices do and don't ring when you receive an incoming call.
@@ -116,8 +120,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -125,4 +127,17 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-amplify-detail-top-tips-for-shooting-up-closer-with-videoleap/"><u>[New] Amplify Detail Top Tips for Shooting Up Closer with VideoLeap</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-from-large-files-to-tiny-previews-crafting-stunning-thumbnails-for-2024/"><u>[Updated] From Large Files to Tiny Previews Crafting Stunning Thumbnails for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-top-30-webcams-built-for-windows-os-for-2024/"><u>[Updated] Top 30 Webcams Built for Windows OS for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-vivo-s18e-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Vivo S18e Location Settings | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-harnessing-skypes-potential-on-pc-and-mac-with-ease/"><u>In 2024, Harnessing Skype's Potential on PC & Mac with Ease</u></a></li>
+<li><a href="https://fox-that.techidaily.com/is-facetime-not-working-15-potential-fixes-to-try/"><u>Is FaceTime Not Working? 15 Potential Fixes to Try</u></a></li>
+<li><a href="https://fox-that.techidaily.com/revive-your-iphones-connection-the-ultimate-guide-to-network-setting-reboots/"><u>Revive Your iPhone's Connection: The Ultimate Guide to Network Setting Reboots</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-your-iphone-solutions-for-last-line-unavailable-errors/"><u>Troubleshooting Your iPhone: Solutions for 'Last Line Unavailable' Errors</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlock-the-secrets-of-iphone-recovery-mode-with-an-experts-power-off-and-restart-tutorial/"><u>Unlock the Secrets of iPhone Recovery Mode with an Expert's Power Off and Restart Tutorial</u></a></li>
+<li><a href="https://apple-account.techidaily.com/your-account-has-been-disabled-in-the-app-store-and-itunes-from-iphone-8-plus-by-drfone-ios/"><u>Your Account Has Been Disabled in the App Store and iTunes From iPhone 8 Plus?</u></a></li>
+</ul></div>
 

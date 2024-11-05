@@ -1,7 +1,7 @@
 ---
 title: Unstuck with Your iPhone's Flashlight? Try These Proven Fixes (12 Tips)
-date: 2024-09-05T02:40:42.487Z
-updated: 2024-09-06T02:40:42.487Z
+date: 2024-11-03T22:09:09.903Z
+updated: 2024-11-05T03:45:51.193Z
 tags:
   - iphone
   - apple
@@ -41,11 +41,12 @@ Close
  The flashlight feature should start working again once your iPhone has sufficient power.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 3\. Check Your iPhone Isn't Too Hot
 
  When your iPhone gets too hot, the flashlight may stop working. It's not advisable to continue using an overheating iPhone. If your device exceeds a particular temperature limit, it will eventually shut down until it cools off. You'll also see a warning appear on your screen if the temperature gets too high.
@@ -70,19 +71,21 @@ Close
 ![customize iphone control center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/iphone-settings-4.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Close
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 5\. Close Your iPhone's Camera App
 
  Your iPhone's camera's flash function uses the same light as the flashlight. If you have the**Camera** app opened, it's normal to see the Control Center's flashlight icon grayed out. This is because you can't use both features at the same time.
@@ -99,33 +102,29 @@ Close
 
 ![iphone camera video mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/video-mode-1.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![iphone camera video mode options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/video-mode-2.JPG)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![turn on iphone camera flash](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/video-mode-3.JPG)
 
-<!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Close
 
 ## 7\. Toggle the Flash in Your iPhone's Camera App
 
  To get rid of glitches that stop your iPhone's flashlight from working, you can also try turning your camera flash on and off. The steps are the same as the workaround to turn on your iPhone's camera flash, as discussed in the previous solution. But instead of leaving the**Flash** set to**On** , toggle between**On** and**Off** a few times.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 8\. Ask Siri to Turn On Your iPhone's Flashlight
 
@@ -135,28 +134,17 @@ Close
 
 ![siri icon on iphone screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/img_7829.JPEG)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
-  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![siri response after turning on iphone flashlight](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/img_7830.JPEG)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close
 
-<!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 9\. Update Your iPhone's iOS
 
  iOS updates usually come with fixes for performance bugs and various glitches. So, perhaps all you need to do to fix your iPhone's flashlight is to [update your iPhone to the latest version of iOS](https://www.makeuseof.com/tag/update-iphone-ios-apps-data/) .
@@ -164,34 +152,30 @@ Close
  Go to**Settings > General > Software Update** to see if an update is available for your iPhone. Make sure your iPhone is charging or has more than 50% battery before you proceed with the update process.
 
 <!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 10\. Restart Your iPhone
 
  If the above methods don't solve the problem and your iPhone's flashlight still isn't working, the next step you should try is [restarting your iPhone](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) .
 
 ![iphone on wooden surface showing hello welcome screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/iphone-hello-screen-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The method you need to follow varies depending on the iPhone model you have. But in general, you can go to **Settings > General > Shut Down > Slide to power off** . Then, hold the**Side** button to restart your iPhone once it powers off.
 
 ## 11\. Restore Your iPhone to a Previous Backup
 
  Besides updating and restarting your iPhone, you can also try [restoring your iPhone to a previous backup](https://www.makeuseof.com/tag/restore-iphone-ipad-from-backup/) from when the flashlight was still working as usual. However, when you use this method, keep in mind that you will also lose any new data that was added to your device since you made that backup.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 12\. Reset All Settings on Your iPhone
 
@@ -201,12 +185,6 @@ Close
 
  Make sure you don't accidentally choose**Erase All Content and Settings** from the**Reset** menu. Doing that would delete all the data on your device.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
-  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Effective Solutions When Your iPhone's Flashlight Is Not Working
 
  If you've been stuck wondering why the flashlight won't work on your iPhone, we hope this list of fixes has helped you resolve the problem effectively.
@@ -219,8 +197,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -228,4 +204,20 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-apowersofts-latest-capture-tech-for-efficient-pc-recording/"><u>[New] Apowersoft's Latest Capture Tech for Efficient PC Recording</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-background-excision-tool-affinity-photo/"><u>[New] In 2024, Background Excision Tool Affinity Photo</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-design-memes-effortlessly-kapwing-pro-for-2024/"><u>[Updated] Design Memes Effortlessly - Kapwing Pro for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721444934165-dont-panic-you-can-get-your-forgotten-iphone-notes-back/"><u>Don't Panic, You Can Get Your Forgotten iPhone Notes Back!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721464703564-facetime-glitched-out-here-are-15-fixes-you-can-try-right-now/"><u>FaceTime Glitched Out? Here Are 15 Fixes You Can Try Right Now!</u></a></li>
+<li><a href="https://games-able.techidaily.com/fire-or-ice-comparing-amazon-fire-and-apples-ipad-features/"><u>Fire or Ice? Comparing Amazon Fire and Apple's iPad Features</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-persistent-screen-shimmer-issues-on-windows-11/"><u>Fixing Persistent Screen Shimmer Issues on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/guidance-for-overcoming-indexer-service-start-up-issues/"><u>Guidance for Overcoming Indexer Service Start-Up Issues</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-manage-excel-bookmark-alternatives-a-clever-hack-you-need/"><u>How to Manage Excel Bookmark Alternatives: A Clever Hack You Need</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721462618674-iphone-text-message-woes-fix-incoming-mms-from-android-devices-now/"><u>IPhone Text Message Woes? Fix Incoming MMS From Android Devices Now!</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-working-through-the-details-of-imovie-slow-motion-video-making-100-effective/"><u>New 2024 Approved Working Through the Details of iMovie Slow Motion Video Making 100 Effective</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721449668830-top-solutions-what-to-do-if-your-airpods-are-missing-from-find-my/"><u>Top Solutions: What To Do If Your AirPods Are Missing From Find My</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/understanding-slug-lines-an-essential-guide/"><u>Understanding Slug Lines An Essential Guide</u></a></li>
+</ul></div>
 

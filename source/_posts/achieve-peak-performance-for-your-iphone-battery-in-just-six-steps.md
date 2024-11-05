@@ -1,7 +1,7 @@
 ---
 title: Achieve Peak Performance for Your iPhone Battery in Just Six Steps
-date: 2024-08-31T21:05:42.711Z
-updated: 2024-09-01T21:05:42.711Z
+date: 2024-10-31T10:46:18.461Z
+updated: 2024-11-05T01:56:17.906Z
 tags:
   - iphone
   - apple
@@ -36,14 +36,6 @@ thumbnail: https://thmb.techidaily.com/396dd6f1f5f85b43c32a2f0c48b141d6c784c244e
 
  This will help lead to an accurate reading later in the process. After you've reset the battery, you can re-enable all of these options. It's also worth ensuring you haven't accidentally enabled Low Power Mode by going to**Settings > Battery** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ### Disable Location Services
 
 To disable location services on your iPhone, follow these steps:
@@ -55,19 +47,27 @@ To disable location services on your iPhone, follow these steps:
 
 ![privacy settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/privacy-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ![location services settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/location-services-settings.jpg)
 
 ![location services on off](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/location-services-on-off.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Close
 
  Remember, you can [use Location Services to track a lost iPhone](https://www.makeuseof.com/tag/how-to-trace-a-mobile-phone-location-with-google-latitude/) , so make sure you don't forget to re-enable this after you're done calibrating.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Disable Background Refresh
 
@@ -80,10 +80,14 @@ Close
 
 ![ios app refresh menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/03/ios-app-refresh-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 ![ios app refresh settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/03/ios-app-refresh-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close
 
@@ -99,9 +103,6 @@ Here's how to lower the screen brightness on an iPhone:
 
 ![ios brightness slider](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/03/ios-brightness.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 Close
 
 ### Turn Off Automatic App Updates
@@ -114,11 +115,22 @@ Finally, to turn off automatic updates, follow these three steps:
 
 ![app store settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/app-store-settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![app updates off](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/app-updates-off.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Close
 
 ## How to Calibrate Your iPhone's Battery
@@ -127,15 +139,17 @@ Close
 
  Luckily, you don't need any third-party tools or apps. Anything you see in the App Store promising to reset your iPhone's battery is, at best, unnecessary and, at worst, a scam. iPhone's battery calibration is easy to perform without extra help.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Step 1: Drain Your iPhone's Battery
 
  The first step is to completely drain your iPhone's battery. You can do so during normal usage. If you want to speed up the process, you can play a long video on YouTube with the volume turned up to the maximum level.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ### Step 2: Wait Three Hours
 
  You may have noticed that your iPhone will automatically shut down even if the battery has a small percentage left. This process is by design; it gives the device a chance to save the current state of your apps so you don't lose data.
@@ -151,8 +165,18 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 * Continue to charge for a couple of hours even after your phone shows the battery as 100 percent full. You need to ensure you squeeze in every drop of power to ensure the calibration works correctly.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Step 4: Drain Your iPhone
 
  Now, you need to repeat the whole process a second time. It's the same drill as before: completely drain the power out of your device. Either use it as you normally would or play videos on loop to move it along faster.
@@ -161,9 +185,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
  It's getting repetitive by now but stick with it. Once again, you need to ensure you drain that last bit of battery power from your iPhone. Like before, the longer you can leave it, the better.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ### Step 6: Charge Your iPhone Again
 
  To finish the process, you need to recharge your device. Follow the same guidelines as earlier, ensuring you let your phone continue charging for a couple of hours even after it's full.
@@ -180,19 +201,17 @@ And that's it. Now, your iPhone's battery has been recalibrated.
 
 ![battery settings iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/battery-settings-iphone.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![battery health settings iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/battery-health-settings-iphone.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![optimized battery charging iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/optimized-battery-charging-iphone.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Close
 
  Head to **Settings > Battery > Battery Health & Charging > Optimized Battery Charging** to toggle this on. This slows down the aging of your iPhone's battery, keeping its maximum capacity from degrading quickly.
@@ -209,8 +228,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -218,4 +235,19 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tech-revival.techidaily.com/best-replacements-for-animeultima-discover-the-ultimate-list-of-sites-to-stream-and-download-your-favorite-anime-without-cost/"><u>Best Replacements for AnimeUltima: Discover the Ultimate List of Sites to Stream & Download Your Favorite Anime Without Cost</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-hands-on-the-ultimate-gaming-setup-logitech-momo-racing-wheel-pc-drivers-now-available/"><u>Get Your Hands on the Ultimate Gaming Setup: Logitech MOMO Racing Wheel PC Drivers Now Available!</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/guidance-for-archiving-your-windows-10-system-on-a-qnap-network-attached-storage-device-dual-approaches-unveiled/"><u>Guidance for Archiving Your Windows 10 System on a QNAP Network Attached Storage Device - Dual Approaches Unveiled</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-honor-play-40c-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Honor Play 40C Location | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ring-the-past-through-youtube-top-10-for-students-and-enthusiasts/"><u>Mastering the Past Through YouTube Top 10 for Students & Enthusiasts</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/tactics-for-topical-tweets-virality-in-the-facebook-era/"><u>Tactics for Topical Tweets Virality in the Facebook Era</u></a></li>
+<li><a href="https://fox-that.techidaily.com/the-definitive-troubleshooter-how-to-resurrect-an-iphone-with-a-blackened-screen/"><u>The Definitive Troubleshooter: How to Resurrect an iPhone with a Blackened Screen</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-rising-with-sunlight-reviews-of-the-heimvision-a80s-and-its-exceptional-morning-light-therapy/"><u>The Ultimate Guide to Rising with Sunlight - Reviews of the HeimVision A80S and Its Exceptional Morning Light Therapy</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-10-solutions-for-airpods-playing-silent-or-having-audio-issues/"><u>Top 10 Solutions for AirPods Playing Silent or Having Audio Issues</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-7-factors-contributing-to-sluggish-wi-fi-performance-on-mobile-devices/"><u>Top 7 Factors Contributing to Sluggish Wi-Fi Performance on Mobile Devices</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-8-iphone-settings-for-enhanced-visibility-a-guide-for-users-with-sight-impairments/"><u>Top 8 iPhone Settings for Enhanced Visibility: A Guide for Users with Sight Impairments</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/transferring-images-via-airdrop-tips-for-seamless-transfer-from-older-devices-to-new-iphones/"><u>Transferring Images via AirDrop: Tips for Seamless Transfer From Older Devices to New iPhones</u></a></li>
+</ul></div>
 

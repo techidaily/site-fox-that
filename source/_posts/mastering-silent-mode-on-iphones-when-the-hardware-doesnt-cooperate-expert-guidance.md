@@ -1,7 +1,7 @@
 ---
 title: "Mastering Silent Mode on iPhones When the Hardware Doesn’t Cooperate: Expert Guidance"
-date: 2024-10-26T16:13:32.893Z
-updated: 2024-10-30T20:01:27.060Z
+date: 2024-10-30T23:09:53.160Z
+updated: 2024-11-05T07:59:58.862Z
 tags:
   - iphone
   - apple
@@ -54,6 +54,13 @@ Close
 
  So, a better approach would be to customize AssistiveTouch's top-level menu and add the**Mute** option on the main screen. Or, to set up a custom action for AssistiveTouch to mute or unmute the device directly.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Customize the Top Level Menu
 
  AssistiveTouch features six buttons in its Top Level menu by default. However, you can customize the menu to add or remove buttons according to your requirements.
@@ -68,16 +75,16 @@ Close
 
 ![AssistiveTouch settings on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customizing-assistivetouch-top-level-menu-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![customizing AssistiveTouch's top-level menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customizing-assistivetouch-top-level-menu-2.jpg)
 
 ![adding a new button to the AssistiveTouch menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customizing-assistivetouch-top-level-menu-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![selecting Mute action for the new AssistiveTouch button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customizing-assistivetouch-top-level-menu-4.jpg)
 
@@ -86,6 +93,13 @@ Close
 Close
 
  All you need to do now is tap the AssistiveTouch button and hit**Mute** . When you do this, the**Mute** button will change to**Unmute** , and you can tap on it again to unmute the device quickly.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Set Up a Custom Action
 
@@ -98,6 +112,13 @@ Follow these simple instructions to get this done:
 
 ![AssistiveTouch settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/setting-a-custom-action-for-assistivetouch-button-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![adding Mute action to Double-Tap gesture](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/setting-a-custom-action-for-assistivetouch-button-2.jpg)
 
 Close
@@ -105,10 +126,10 @@ Close
  Once set up, muting and unmuting your iPhone should be even easier. Simply perform the gesture to which you've assigned the Mute action, and it'll mute the device. Repeat it again to unmute.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Mute or Unmute iPhone Using Back Tap
@@ -133,34 +154,13 @@ Close
 
 ![Back Tap gesture options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-using-back-tap-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![setting Mute action to a Back Tap gesture](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-using-back-tap-4.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Close
 
  Now, whenever you want to mute your iPhone, simply perform the double-tap or triple-tap gesture on the back of your iPhone. To unmute it, perform the same gesture again.
 
  With certain iPhone cases, especially thicker ones, you might need to tap harder for the iPhone to register your taps and trigger the action.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
-  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Broken iPhone Ring/Silent Switch? No Problem
 
@@ -183,14 +183,16 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-discover-popular-tiktok-background-images/"><u>[New] Discover Popular TikTok Background Images</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-expert-tips-for-stunning-iphone-close-ups-and-macros/"><u>[New] Expert Tips for Stunning iPhone Close-Ups & Macros</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-high-quality-capture-the-best-applications-reviewed/"><u>2024 Approved High-Quality Capture The Best Applications Reviewed</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-optimize-your-iphones-camera-for-perfection/"><u>2024 Approved Optimize Your iPhone's Camera for Perfection</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-iphone-13-device-from-icloud-by-drfone-ios/"><u>In 2024, How to Remove iPhone 13 Device from iCloud</u></a></li>
-<li><a href="https://fox-that.techidaily.com/overcoming-iphone-14s-charging-concerns-a-comprehensive-guide/"><u>Overcoming iPhone 14'S Charging Concerns: A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-that.techidaily.com/restoring-visibility-for-lost-iphone-contacts-easily/"><u>Restoring Visibility for Lost iPhone Contacts Easily</u></a></li>
-<li><a href="https://fox-that.techidaily.com/safari-lag-solutions-4-strategies-to-boost-browsing-speed-on-iphone/"><u>Safari Lag Solutions: 4 Strategies to Boost Browsing Speed on iPhone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721468110154-why-isnt-my-iphone-receiving-texts-learn-quick-fixes-here/"><u>Why Isn't My iPhone Receiving Texts? Learn Quick Fixes Here!</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-unlocking-steam-gameplay-footage-secrets-for-2024/"><u>[Updated] Unlocking Steam Gameplay Footage Secrets for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-vr-classics-dont-miss-out/"><u>2024 Approved Top VR Classics - Don’t Miss Out</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-enabled-resume-writing-a-game-changer/"><u>ChatGPT-Enabled Résumé Writing: A Game-Changer</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-honor-magic-5-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Honor Magic 5 | Dr.fone</u></a></li>
+<li><a href="https://win-hot.techidaily.com/mastering-account-recovery-changing-your-password-with-windows-setup-media/"><u>Mastering Account Recovery: Changing Your Password with Windows Setup Media</u></a></li>
+<li><a href="https://fox-that.techidaily.com/mastering-screen-time-security-updating-your-ios-device-passcode-effortlessly/"><u>Mastering Screen Time Security: Updating Your iOS Device Passcode Effortlessly</u></a></li>
+<li><a href="https://fox-that.techidaily.com/swift-solutions-for-a-non-responsive-iphone-or-ipad/"><u>Swift Solutions for a Non-Responsive iPhone or iPad</u></a></li>
+<li><a href="https://fox-that.techidaily.com/the-ultimate-guide-7-key-reasons-your-iphones-touchscreen-may-fail-to-respond/"><u>The Ultimate Guide: 7 Key Reasons Your iPhone's Touchscreen May Fail to Respond</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlocking-full-features-how-to-get-depth-effects-running-smoothly-in-ios-n-16s-lock-screen/"><u>Unlocking Full Features: How to Get Depth Effects Running Smoothly in iOS N 16'S Lock Screen</u></a></li>
+<li><a href="https://change-location.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-samsung-galaxy-m54-5g-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Samsung Galaxy M54 5G | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-samsung-galaxy-m34-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Samsung Galaxy M34 | Dr.fone</u></a></li>
 </ul></div>
 

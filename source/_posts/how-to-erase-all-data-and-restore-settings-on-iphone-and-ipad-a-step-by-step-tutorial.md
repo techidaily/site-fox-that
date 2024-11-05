@@ -1,7 +1,7 @@
 ---
 title: How To Erase All Data and Restore Settings on iPhone & iPad - A Step-by-Step Tutorial
-date: 2024-09-05T02:40:40.411Z
-updated: 2024-09-06T02:40:40.411Z
+date: 2024-10-31T06:16:21.674Z
+updated: 2024-11-04T21:27:15.924Z
 tags:
   - iphone
   - apple
@@ -29,11 +29,25 @@ thumbnail: https://thmb.techidaily.com/7e8f336fc2079d7aea2b749496409ce99e4eee388
 
  Whether you need to erase your iPhone because you're selling it or are trying a reset to fix a problem, it's not difficult to do. Here's a complete guide on how to factory reset your iPhone or iPad.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Preparing Your iPhone or iPad for a Factory Reset
 
  Modern versions of iOS and iPadOS simplify the factory reset process because they handle several important steps at once, rather than requiring you to do them beforehand. Still, there are a few important points to be aware of before you jump into the reset.
 
  Make sure you know your device's passcode and your Apple ID login before continuing. You can [reset your Apple ID password](https://www.makeuseof.com/tag/forgot-apple-id-icloud-password/) if needed.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Back Up Your iPhone or iPad
 
@@ -42,11 +56,12 @@ thumbnail: https://thmb.techidaily.com/7e8f336fc2079d7aea2b749496409ce99e4eee388
  See our [guide to backing up your iPhone](https://www.makeuseof.com/tag/how-to-backup-iphone-ipad/) for complete instructions on backing up to iCloud or your computer.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Check Two-Factor Authentication Settings
 
  Another important consideration is making sure you don't lock yourself out of your account.[Apple's two-factor authentication (2FA) requires a code](https://www.makeuseof.com/tag/apple-two-factor-authentication/) sent to your trusted Apple devices or phone numbers when you log into your Apple ID. This can pose a problem if the device you're resetting is your only 2FA option.
@@ -58,12 +73,26 @@ thumbnail: https://thmb.techidaily.com/7e8f336fc2079d7aea2b749496409ce99e4eee388
 ![iCloud Settings on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/01a-icloud-settings-iphone.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![iPhone Security Settings iCloud](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/01a-iphone-security-settings-icloud.png)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![iPhone 2FA Settings iCloud](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/01b-iphone-2fa-settings-icloud.png)
 
@@ -75,18 +104,6 @@ Close
 
  When you're performing a factory reset to troubleshoot issues, you don't need to worry about these steps since you're keeping the device.
 
-<!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Reset Your iPhone or iPad to Factory Settings
 
  Just like backing up your device, there are two ways you can erase your iPhone or iPad: on the device itself or using a computer. We recommend resetting using Settings on your device unless you need to use the computer method for some reason.
@@ -99,34 +116,10 @@ Close
 
 ![iPhone General Bottom of Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/02a-iphone-general-bottom-of-menu.png)
 
-<!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![iPhone Transfer or Reset Page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/02b-iphone-transfer-or-reset-page.png)
 
 ![iPhone Transfer or Reset Summary](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/02c-iphone-transfer-or-reset-summary.png)
 
-<!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Close
 
  When you tap**Continue** , you'll see an option to**Keep** or**Delete** any eSIMs on your phone. If you're keeping this phone, keep them; if you're selling it or trading it in, erase them. Consult your carrier for guidance on how to move your eSIM to your new phone.
@@ -140,11 +133,12 @@ Close
  As your phone resets, you'll see an Apple logo with a progress bar. Once your data has been wiped, your iPhone or iPad will restart.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How to Reset Your iPhone or iPad Using a Computer
 
  In case you need to factory reset your iPhone and the convenient on-device method doesn't work, you can use Finder (on a Mac) or the [Apple Devices app](https://apps.microsoft.com/detail/9NP83LWLPZ9K) (on Windows) to reset.
@@ -154,17 +148,12 @@ Close
 ![Find My Settings iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/03a-find-my-settings-iphone.png)
 
 <!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![Find My iPhone Disable Slider](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/03b-find-my-iphone-disable-slider.png)
 
 Close
@@ -179,20 +168,8 @@ Close
 
 ![Apple Devices app iPhone General Tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/apple-devices-iphone-general-tab.png)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you didn't turn Find My off, you'll see a warning that you must do this before proceeding. Assuming that's done, click**Restore** (or**Restore and Update** if there's a new OS update available) to confirm. This will start the reset process on your device.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## After Resetting Your iPhone: Shut Down or Restore
 
  Once the reset finishes, when you see the**Hello** screen, you're clear to turn off the device if you're not keeping it. It's ready for the next owner to set up.
@@ -207,8 +184,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -216,4 +191,24 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/2024-approved-stream-to-stardom-mastering-live-with-xsplit-or-obs/"><u>2024 Approved Stream to Stardom Mastering Live with XSplit or OBS?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/5-reliable-techniques-to-restore-functionality-of-an-unresponsive-iphones-home-button/"><u>5 Reliable Techniques to Restore Functionality of an Unresponsive iPhone's Home Button</u></a></li>
+<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-xiaomi-redmi-note-12-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Xiaomi Redmi Note 12 4G | Dr.fone</u></a></li>
+<li><a href="https://fox-within.techidaily.com/1728475916565-aomei/"><u>AOMEI一键系统恢复技术人员及个性化数据保存功能</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/play-youtube-keep-it-hidden-stay-connected-for-2024/"><u>Auto-Play YouTube - Keep It Hidden, Stay Connected for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/disconnect-the-sound-link-between-your-devices-stop-ipad-from-ringing-when-iphone-rings/"><u>Disconnect the Sound Link Between Your Devices: Stop iPad From Ringing When iPhone Rings</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721460553683-dont-be-stuck-solve-the-mystery-of-disappearing-messages-and-phone-notifications-in-ios-do-not-disturb/"><u>DON'T BE STUCK: Solve the Mystery of Disappearing Messages and Phone Notifications in iOS Do Not Disturb</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721480547116-from-freezing-to-battery-woes-tackling-the-iphone-13s-six-major-setbacks-and-fixing-them-up/"><u>From Freezing to Battery Woes - Tackling the iPhone 13'S Six Major Setbacks and Fixing Them Up!</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-nubia-z50s-pro-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Nubia Z50S Pro | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-tecno-pova-5-drfone-by-drfone-virtual-android/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Tecno Pova 5 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-honor-magic-6-lite-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Honor Magic 6 Lite by Name | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-notification-issues-here-are-7-solutions-to-get-them-working/"><u>IPhone Notification Issues? Here Are 7 Solutions to Get Them Working</u></a></li>
+<li><a href="https://fox-that.techidaily.com/quick-solutions-get-your-imessage-up-and-running-again-on-ios-and-macos/"><u>Quick Solutions: Get Your iMessage Up and Running Again on iOS & macOS</u></a></li>
+<li><a href="https://fox-that.techidaily.com/rectifying-outdated-email-notifications-on-ios-devices-expert-advice-for-iphones/"><u>Rectifying Outdated Email Notifications on iOS Devices: Expert Advice for iPhones</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-5-from-poco-m6-pro-5g-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 5 from Poco M6 Pro 5G to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-made-simple-learn-to-softly-restart-your-iphone/"><u>Troubleshooting Made Simple: Learn to Softly Restart Your iPhone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/unlock-high-res-video-leading-4k-conversion-tools/"><u>Unlock High-Res Video Leading 4K Conversion Tools</u></a></li>
+</ul></div>
 

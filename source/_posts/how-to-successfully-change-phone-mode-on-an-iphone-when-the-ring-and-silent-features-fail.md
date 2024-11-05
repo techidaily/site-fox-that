@@ -1,7 +1,7 @@
 ---
 title: How To Successfully Change Phone Mode on An iPhone When The Ring and Silent Features Fail
-date: 2024-09-05T02:40:40.805Z
-updated: 2024-09-06T02:40:40.805Z
+date: 2024-11-04T05:59:06.657Z
+updated: 2024-11-04T19:56:50.457Z
 tags:
   - iphone
   - apple
@@ -63,6 +63,19 @@ Close
 
 ![AssistiveTouch settings on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customizing-assistivetouch-top-level-menu-1.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![customizing AssistiveTouch's top-level menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customizing-assistivetouch-top-level-menu-2.jpg)
 
 ![adding a new button to the AssistiveTouch menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customizing-assistivetouch-top-level-menu-3.jpg)
@@ -76,11 +89,12 @@ Close
  All you need to do now is tap the AssistiveTouch button and hit**Mute** . When you do this, the**Mute** button will change to**Unmute** , and you can tap on it again to unmute the device quickly.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 2\. Set Up a Custom Action
 
  AssistiveTouch also supports executing custom actions using gestures. It has three customizable gestures:**Single-Tap** ,**Double-Tap** , and**Long Press** , and you can assign a wide range of actions to these gestures, including the mute action. By default, the Single-Tap gesture is set to the**Open Menu** action, so you'll need to assign the Mute action to either Double-Tap or Long Press gestures.
@@ -92,12 +106,6 @@ Follow these simple instructions to get this done:
 
 ![AssistiveTouch settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/setting-a-custom-action-for-assistivetouch-button-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![adding Mute action to Double-Tap gesture](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/setting-a-custom-action-for-assistivetouch-button-2.jpg)
 
 Close
@@ -115,19 +123,14 @@ Close
 
 ![iPhone Accessibility settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-using-back-tap-1.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Back Tap feature under Touch Accessibility settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-using-back-tap-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close
 
@@ -139,19 +142,14 @@ Close
 ![Back Tap gesture options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-using-back-tap-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![setting Mute action to a Back Tap gesture](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-using-back-tap-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2030395/7443" target="_top" id="2030395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2030395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Close
 
  Now, whenever you want to mute your iPhone, simply perform the double-tap or triple-tap gesture on the back of your iPhone. To unmute it, perform the same gesture again.
@@ -159,11 +157,12 @@ Close
  With certain iPhone cases, especially thicker ones, you might need to tap harder for the iPhone to register your taps and trigger the action.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Broken iPhone Ring/Silent Switch? No Problem
 
  A broken or malfunctioning Ring/Silent switch can make things inconvenient. This can be particularly problematic if you frequently switch between Ring and Silent sound profiles on your iPhone.
@@ -176,8 +175,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -185,4 +182,23 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-capture-lifes-movement-integrating-motion-blur-into-face-photography-with-picsart/"><u>[New] 2024 Approved Capture Life's Movement Integrating Motion Blur Into Face Photography with Picsart</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-expert-tips-for-memorable-youtube-names/"><u>[New] 2024 Approved Expert Tips for Memorable YouTube Names</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-charting-success-with-youtube-income-streams/"><u>[New] Charting Success with YouTube Income Streams</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-best-mac-video-capturing-software-post-bandicam-revolution/"><u>[New] In 2024, Best Mac Video Capturing Software Post-Bandicam Revolution</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-realizing-your-potential-in-360-video-streams-for-social-media/"><u>[New] In 2024, Realizing Your Potential in 360 Video Streams for Social Media</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-exclusive-5-ios-backdrop-change-programs-for-apple-devices/"><u>[Updated] Exclusive 5 iOS Backdrop Change Programs for Apple Devices</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-steps-to-skip-the-water-stained-stock-photos/"><u>[Updated] In 2024, Steps to Skip the Water-Stained Stock Photos</u></a></li>
+<li><a href="https://fox-that.techidaily.com/expert-advice-utilizing-apples-online-tools-for-iphone-hardware-check-ups/"><u>Expert Advice: Utilizing Apple's Online Tools for iPhone Hardware Check-Ups</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/fast-and-simple-installation-guide-for-acer-predator-xb271h-display-drivers/"><u>Fast & Simple Installation Guide for Acer Predator XB271H Display Drivers</u></a></li>
+<li><a href="https://fox-that.techidaily.com/guide-to-restoring-your-iphone-functionality-after-it-shows-emergency-signal-on-status-bar/"><u>Guide to Restoring Your iPhone Functionality After It Shows Emergency Signal on Status Bar</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-restore-siri-suggestions-feature-when-missing-from-your-iphone-screen/"><u>How to Restore Siri Suggestions Feature When Missing From Your iPhone Screen</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-running-slow-here-are-6-culprits-and-how-to-solve-them-quickly/"><u>IPhone Running Slow? Here Are 6 Culprits & How to Solve Them Quickly</u></a></li>
+<li><a href="https://fox-that.techidaily.com/lost-connection-discover-why-your-iphones-locator-app-might-be-offline/"><u>Lost Connection: Discover Why Your iPhone's Locator App Might Be Offline</u></a></li>
+<li><a href="https://fox-that.techidaily.com/mastering-the-repair-of-imessage-issues-in-one-easy-method-tips-for-iphone-ipad-and-mac-enthusiasts/"><u>Mastering the Repair of iMessage Issues in One Easy Method: Tips for iPhone, iPad, and Mac Enthusiasts</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/mastery-in-your-hands-the-ultimate-xp-pen-artist-16-pro-digital-brushboard-review/"><u>Mastery in Your Hands: The Ultimate XP-Pen Artist 16 Pro Digital Brushboard Review</u></a></li>
+<li><a href="https://fox-that.techidaily.com/why-your-iphones-alarm-might-not-be-working-and-how-to-fix-it/"><u>Why Your iPhone's Alarm Might Not Be Working – And How to Fix It</u></a></li>
+</ul></div>
 

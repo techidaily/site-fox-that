@@ -1,7 +1,7 @@
 ---
 title: IPhone Lost Its Track? Fixing the 'Location Not Available' Problem Easily
-date: 2024-09-05T02:40:39.345Z
-updated: 2024-09-06T02:40:39.345Z
+date: 2024-10-29T22:32:56.546Z
+updated: 2024-11-05T12:25:38.008Z
 tags:
   - iphone
   - apple
@@ -22,6 +22,13 @@ thumbnail: https://thmb.techidaily.com/62c8ecc88aff429d62093b18bad06f55833353ec7
 
  There isn't a lot you can do yourself if Messages or the Find My app says "Location Not Available" when someone has chosen to [share their iPhone location with you](https://www.makeuseof.com/how-to-share-location-iphone/) . But it's still easiest to try these steps first, before involving somebody else.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Quit and Relaunch Find My or Messages
 
  Sometimes, the Messages or the Find My app can bug out and result in the "Location Not Available" error. The quickest way to resolve that is to [force quit and relaunch the app](https://www.makeuseof.com/close-apps-on-ipad-iphone/) in question.
@@ -36,19 +43,34 @@ To force quit Messages or Find My:
 
 ![App Switcher on iPhone.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/2-app-switcher.PNG)
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Force-quitting an app on iPhone.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/3-force-quit-app.PNG)
 
 Close
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
-  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Restart Your iPhone
 
  If closing and reopening the relevant app didn't work, you might need to [restart your iPhone](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) instead. To restart your iPhone, simply open the**Settings** app and tap**General > Shut Down** . Once the screen goes black, wait for several seconds and hold the**Side** or the**Top** button until you see the Apple logo.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Fix "Location Not Available" From Someone Else's iPhone
 
@@ -61,41 +83,18 @@ Close
 ![Settings app on iPhone.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/4-settings-app.PNG)
 
 <!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![Apple ID settings screen.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/5-apple-id-settings.PNG)
 
-<!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Find My preferences.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/6-share-my-location-1.PNG)
 
 Close
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Share the Location in Messages and Find My Again
 
  Next, disable and re-enable location sharing in the Messages or Find My app:
@@ -105,20 +104,15 @@ Close
 
 ![iMessage chat.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/7-messages-chat.PNG)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Stop Sharing My Location.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/8-info-pane.PNG)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
-  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![Start sharing my location.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/9-info-pane-alt.PNG)
 
 Close
@@ -128,11 +122,12 @@ Close
  The simplest method is to go to**Settings > General > Shut Down** . Then, press and hold the**Side** or**Top** button to restart the iPhone.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Check the Date and Time
 
  An incorrect date or time can create issues with location sharing. To check this, go to**Settings > General > Date & Time** . If the date or time is wrong, turn on the switch next to**Set Automatically** to get the correct date and time from Apple's servers. If this doesn't help, deactivate the switch and set the correct time manually.
@@ -143,18 +138,6 @@ Close
 
 ![Date or time screen on iPhone.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/12date-time.PNG)
 
-<!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Close
 
 ### Switch to Cellular Data
@@ -173,8 +156,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -182,4 +163,19 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/iving-by-the-youtube-number-game-understanding-your-view-requirements-for-2024/"><u>[New] Living by the YouTube Number Game Understanding Your View Requirements for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-correct-inactive-user-profiles-on-fb/"><u>[Updated] 2024 Approved Correct Inactive User Profiles on FB</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-unleash-your-inner-comedy-with-gif-mastery/"><u>[Updated] In 2024, Unleash Your Inner Comedy with GIF Mastery</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/a-guide-to-harnessing-gpt-3s-full-capabilities-in-openai-arena/"><u>A Guide to Harnessing GPT-3's Full Capabilities in OpenAI Arena</u></a></li>
+<li><a href="https://fox-that.techidaily.com/does-heshe-just-ignore-or-have-i-been-blocked-uncovering-imessage-secrets/"><u>Does He/She Just Ignore or Have I Been Blocked? Uncovering iMessage Secrets</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-honor-magic-6-pro-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Honor Magic 6 Pro | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-detailed-guide-on-removing-apple-iphone-14-activation-lock-without-previous-owner-by-drfone-ios/"><u>In 2024, Detailed Guide on Removing Apple iPhone 14 Activation Lock without Previous Owner?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcome-mobile-connectivity-hiccups-10-ways-to-restore-iphone-calls/"><u>Overcome Mobile Connectivity Hiccups: 10 Ways to Restore iPhone Calls</u></a></li>
+<li><a href="https://fox-that.techidaily.com/removing-liquid-from-inside-smartphone-speakers-a-step-by-step-guide/"><u>Removing Liquid From Inside Smartphone Speakers: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/restoring-lost-iphone-notes-a-step-by-step-guide/"><u>Restoring Lost iPhone Notes: A Step-by-Step Guide</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-ambient-weather-ws-2902a-osprey-starter-kit-top-features-for-economical-meteorology-enthusiasts/"><u>The Ambient Weather WS-2902A Osprey Starter Kit: Top Features for Economical Meteorology Enthusiasts</u></a></li>
+<li><a href="https://fox-that.techidaily.com/why-wont-my-iphone-touchscreen-work-exploring-7-possible-reasons/"><u>Why Won't My iPhone Touchscreen Work? Exploring 7 Possible Reasons</u></a></li>
+</ul></div>
 

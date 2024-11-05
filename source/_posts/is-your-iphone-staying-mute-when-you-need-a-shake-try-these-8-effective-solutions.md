@@ -1,7 +1,7 @@
 ---
 title: Is Your iPhone Staying Mute When You Need a Shake? Try These 8 Effective Solutions
-date: 2024-08-31T21:07:31.276Z
-updated: 2024-09-01T21:07:31.276Z
+date: 2024-11-02T00:18:47.119Z
+updated: 2024-11-05T12:21:55.050Z
 tags:
   - iphone
   - apple
@@ -40,9 +40,6 @@ thumbnail: https://thmb.techidaily.com/d5e8491d3f34992956d5390f8a8c8192037db1bb4
 
 Close
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Enable Vibration in Accessibility
 
  Besides**Sounds & Haptics** , another place you need to check is your**Accessibility** settings. If vibration isn't enabled here, your iPhone will not vibrate on Silent or Ring mode either.
@@ -78,19 +75,39 @@ Close
 ![sounds & haptics settings on iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/sounds--haptics-2.JPEG)
 
 <!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![iphone ringtone settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/ringtone-settings.JPEG)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![iphone ringtone vibration settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/vibration-settings.JPEG)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 Close
 
  After you select a valid vibration pattern for**Ringtone** , go back to the**Sounds and Haptics Pattern** list. Repeat these steps for**Text Tone** ,**New Voicemail** ,**New Mail** , and so on.
+
+<!-- affiliate ads begin -->
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Update Your iPhone
 
@@ -99,8 +116,12 @@ Close
  Therefore,[updating your iPhone](https://www.makeuseof.com/tag/update-iphone-ios-apps-data/) may be the solution when your device doesn't vibrate on Silent or Ring mode.
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 7\. Restart Your iPhone
 
  Software glitches can sometimes prevent your iPhone from vibrating, whether it's on Ring or Silent mode. In such cases, simply restarting your iPhone will resolve the problem, making this troubleshooting step worth trying. Note that different steps may be required to [restart your iPhone](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) , depending on the model you own.
@@ -118,23 +139,32 @@ Close
 ![iPhone Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/settings-general.JPEG)
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![general settings in iphone settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/general-3.JPEG)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![options to reset iphone settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/reset-iphone-options.JPEG)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Close
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Can You Enable Vibration for Calls and Texts Only on Your iPhone?
 
  If the solutions above worked and your iPhone can vibrate on Silent and Ring mode again, there's still a dilemma—what if you want your iPhone to only vibrate for incoming calls and texts, but not system haptics?
@@ -150,8 +180,12 @@ Close
 ![turn on play haptics in silent mode and system haptics](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/IMG_4013.JPEG)
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![touch settings in iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/touch-settings.JPEG)
 
 Close
@@ -160,9 +194,6 @@ Close
 
 ![iphone keyboard feedback settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/img_6645.JPEG)
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Use Your iPhone's Vibrations to Be Aware of Alerts
 
  We hope this list of fixes helped you solve the problem if your iPhone wasn't vibrating in Silent or Ring mode. Since the old days of Nokia phones, vibrations have always helped us make sure we don't miss out on a call or text.
@@ -175,8 +206,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -184,4 +213,22 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-sonic-scenes-from-still-shots/"><u>[New] Sonic Scenes From Still Shots</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-splitcam-examination-camera-quality-showdown/"><u>[New] SplitCam Examination - Camera Quality Showdown?</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-going-from-end-to-start-the-instagram-video-technique/"><u>[Updated] Going From End to Start The Instagram Video Technique</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-seo-explosion-leading-tech-for-your-videos-for-2024/"><u>[Updated] SEO Explosion Leading Tech for Your Videos for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-the-right-to-appeal-steps-following-abrupt-video-content-suspension-for-2024/"><u>[Updated] The Right to Appeal Steps Following Abrupt Video Content Suspension for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/ensuring-iphone-accessory-compatibility-and-support-a-guide/"><u>Ensuring iPhone Accessory Compatibility and Support – A Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/facing-delayed-shutdown-on-your-iphone-screen-heres-what-you-can-do/"><u>Facing Delayed Shutdown on Your iPhone Screen? Here's What You Can Do!</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-techniques-for-correcting-motion-blur-from-drones/"><u>In 2024, Techniques for Correcting Motion Blur From Drones</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-unresponsive-screen-discover-these-quick-repair-techniques/"><u>IPhone Unresponsive Screen? Discover These Quick Repair Techniques</u></a></li>
+<li><a href="https://fox-that.techidaily.com/revive-your-ios-notifications-18-proven-fixes-for-missing-text-alerts-and-sounds-on-iphones/"><u>Revive Your iOS Notifications: 18 Proven Fixes for Missing Text Alerts & Sounds on iPhones</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-itel-a70-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Itel A70</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-held-charger-errors-in-ios-devices-eight-tactics/"><u>Troubleshoot Held Charger Errors in iOS Devices – Eight Tactics</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unstick-the-backup-button-top-9-tricks-when-your-iphone-fails-to-save-data-to-icloud/"><u>Unstick the Backup Button: Top 9 Tricks When Your iPhone Fails to Save Data to iCloud</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/updated-2024-approved-ai-portrait-generator-getting-closer-to-the-artistic-marvels/"><u>Updated 2024 Approved AI Portrait Generator Getting Closer to the Artistic Marvels</u></a></li>
+<li><a href="https://win-data.techidaily.com/windows-11-acer/"><u>Windows 11 環境下 Acer 系列電腦重新點數解除方法</u></a></li>
+</ul></div>
 

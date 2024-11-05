@@ -1,7 +1,7 @@
 ---
 title: Why Won't the Picture Analysis Function Work on Your iPhone Camera?
-date: 2024-08-31T21:06:47.616Z
-updated: 2024-09-01T21:06:47.616Z
+date: 2024-11-01T04:56:19.414Z
+updated: 2024-11-04T22:19:41.039Z
 tags:
   - iphone
   - apple
@@ -38,6 +38,13 @@ thumbnail: https://thmb.techidaily.com/9741597441538b9063ba6395b36f1ab44380cf26c
 
  If you have a compatible device but Visual Look Up is still not working, here are some possible reasons and workarounds.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. You're Using an Unsupported Language
 
  Whether Visual Look Up will work or not depends upon the language set on your iPhone. So, if you're using an unsupported language, the feature will not work as intended. To make sure you're able to use the feature, change your primary iPhone language to one of the currently supported languages.
@@ -51,13 +58,24 @@ Here's how to change the primary language on your iPhone:
 
 ![An image showing the Language & Region Option between Fonts and Dictionary sections within the General section](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/steps-to-change-iphone-language-2.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Menu that lets you add another language to your iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/steps-to-change-iphone-language-3.jpeg)
 
 Close
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 2\. Siri Look Up Is Not Enabled
 
  Visual Look Up is much like a new skill your virtual assistant Siri has learned. No content will show up if you don't allow Siri to use on-device learning to suggest relevant information based on your device usage. To enable this, here's what you need to do:
@@ -67,19 +85,10 @@ Close
 
 ![Siri & Search Under Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/Siri--Search-Under-Settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Show in Look Up, in Siri & Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/Show-in-Look-Up-in-Siri--Search.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 Close
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. There Is a Problem With the Image
 
  Visual Look Up doesn't work well when there are too many objects in the picture, but it usually works fine when only a single object is in the photo. Hence, when you take a photo, try to ensure it's centered and focusing on a single object.
@@ -88,10 +97,14 @@ Close
 
 ![Obscured Image Still Showing Visual Look Up Icon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/Obscured-Image-Still-Showing-Visual-Look-Up-Icon.PNG)
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Obscured Image Not Showing Visual Look Up Icon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/Obscured-Image-Not-Showing-Visual-Look-Up-Icon.PNG)
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close
 
@@ -99,20 +112,31 @@ Close
 
 ![Visual Look Up Detecting Two Objects](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/Visual-Look-Up-Detecting-Two-Objects.PNG)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Visual Look Up Showing No results for two objects](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/Visual-Look-Up-Showing-No-results-for-two-objects.PNG)
 
 Close
 
  If you've taken a photo of the object on its own and your device still can't detect the object, the quality of the image may be a culprit. Check for lighting issues and glare before taking a photo, as you can greatly improve the accuracy of Visual Look Up if you [master how to take photos on an iPhone](https://www.makeuseof.com/tag/iphone-camera-settings/) .
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. You Aren't Connected to the Internet
 
  Siri requires an internet connection to fetch relevant data whenever you tap the**Visual Look Up** icon. You'll know your issue is a lack of internet connection when your device shows a Visual Look Up icon, but you get a**No Content Found** displayed in the results.
 
 ![Visual Look Up icon Showing for an Image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/Visual-Look-Up-icon-Showing-for-an-Image.PNG)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![Content Not Found after tapping Visual Look Up icon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/Content-Not-Found-after-tapping-Visual-Look-Up-icon.PNG)
 
@@ -128,9 +152,6 @@ Close
 
  Like other features on the iPhone, Visual Look Up may not work due to random errors. If none of the steps listed above help,[restart your iPhone](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) and check for new iOS updates to clear up the software bugs and other glitches that may be causing an error.
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Ready to Look Up Some Photos?
 
  Visual Look Up is a simple feature that makes it easier to learn about the various things around you, be it a pet, plant, or more. So make sure to try out each of the suggested workarounds, as various reasons can prevent the Visual Look Up feature from working as intended.
@@ -143,8 +164,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -152,4 +171,19 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-zoom-mastery-best-approaches-to-video-transcoding/"><u>[New] Zoom Mastery Best Approaches to Video Transcoding</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-5-best-photo-editor-for-android-phone/"><u>[Updated] In 2024, 5 Best Photo Editor for Android Phone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-revealed-the-best-10-in-4k-no-hassle/"><u>[Updated] In 2024, Revealed The Best 10 in 4K, No Hassle</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-mastering-desktop-merging-images-seamlessly/"><u>[Updated] Mastering Desktop Merging Images Seamlessly</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-deciphering-the-function-of-the-blue-icon-in-messenger/"><u>2024 Approved Deciphering the Function of the Blue Icon in Messenger</u></a></li>
+<li><a href="https://fox-that.techidaily.com/8-proven-techniques-to-resolve-your-iphones-unwanted-headphone-connectivity-issue/"><u>8 Proven Techniques to Resolve Your iPhone's Unwanted Headphone Connectivity Issue</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/tifying-the-math-of-youtube-ratio-perfection-for-2024/"><u>Demystifying the Math of YouTube Ratio Perfection for 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Poco M6 5G | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-motorola-moto-g14-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Motorola Moto G14 | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/step-by-step-troubleshooting-techniques-for-iphone-blackout-crisis/"><u>Step-by-Step Troubleshooting Techniques for iPhone Blackout Crisis</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-itunesfinder-solutions-when-they-cant-detect-your-iphone/"><u>Troubleshooting iTunes/Finder: Solutions When They Can't Detect Your iPhone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-methods-for-error-4013-in-iphones-update-and-restore-solutions/"><u>Troubleshooting Methods for Error 4013 in iPhones: Update and Restore Solutions</u></a></li>
+</ul></div>
 

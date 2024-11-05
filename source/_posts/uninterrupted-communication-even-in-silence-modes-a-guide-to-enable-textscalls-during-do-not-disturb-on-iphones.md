@@ -1,7 +1,7 @@
 ---
 title: "Uninterrupted Communication Even in Silence Modes: A Guide to Enable Texts/Calls During Do Not Disturb on iPhones"
-date: 2024-08-31T21:09:31.735Z
-updated: 2024-09-01T21:09:31.735Z
+date: 2024-11-01T18:48:49.158Z
+updated: 2024-11-05T07:04:35.833Z
 tags:
   - iphone
   - apple
@@ -42,11 +42,22 @@ thumbnail: https://thmb.techidaily.com/acc4624304fa10f6661dcbd0f5aeeaf72266dc481
 
 ![allowed apps on do not disturb mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/dnd-allowed-apps.JPEG)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Close
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 3\. Disable Time-Sensitive Notifications
 
  Examples of time-sensitive notifications are reminders, emails, or messages that contain references to date and time. So, for instance, even if the**Messages** app is not in your list of Allowed Apps, an iPhone text message may still pass through Do Not Disturb due to the nature of its content, thus making it seem that Do Not Disturb is not working on your iPhone.
@@ -55,9 +66,6 @@ Close
 
 ![disable time sensitive notifications for iphone do not disturb mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/3-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
  Alternatively, you can tap**Turn Off** for a specific app if you see its notifications pop up on your Lock Screen.
 
 ## 4\. Change Settings for Incoming Calls
@@ -70,17 +78,17 @@ Close
 
 ![call settings for do not disturb mode on iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/dnd-favorite-calls.JPEG)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![change calls allowed on iphone do not disturb mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/dnd-allowed-calls.JPEG)
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 Close
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## 5\. Don't Allow Repeated Calls
 
  If someone calls you more than once in a three-minute timespan, Do Not Disturb lets their call come through, regardless of the incoming call preferences you indicated earlier. This feature ensures that people can reach you in cases of emergencies, and it's not because Do Not Disturb is not working.
@@ -90,8 +98,12 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ![turn off allow repeated calls for iphone do not disturb mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/2-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 6\. Turn Off or Hide Your Focus Status
 
  When you turn on Do Not Disturb, you can also share your Focus status to let your contacts know that you're temporarily unavailable.
@@ -100,9 +112,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  To stop receiving texts and calls in this manner, you can [turn off your Focus status](https://www.makeuseof.com/how-to-stop-notify-anyway-focus-mode-iphone/) or [hide your Focus status from certain iPhone contacts](https://www.makeuseof.com/how-to-hide-focus-status-from-certain-contacts-iphone/) .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ## 7\. Review Your Do Not Disturb Schedule
 
  Let's say you used to work morning shifts every day and had set your Do Not Disturb schedule to match. If you suddenly switch to afternoon shifts, you may feel that Do Not Disturb is not working because you're receiving unwanted texts and calls on your iPhone during your new working hours.
@@ -113,16 +122,33 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![schedule for iphone do not disturb mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/dnd-schedule.JPEG)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![automate schedule for iphone do not disturb mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/dnd-schedule-2.JPEG)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![set time for iphone do not disturb mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/dnd-change-schedule.JPEG)
 
 Close
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 8\. Restart Your iPhone and Update iOS
 
  If you went through all the steps above and your iPhone's Do Not Disturb mode is still not working, try [restarting your iPhone](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) to see if it resolves the issue. Software glitches can sometimes prevent features like Do Not Disturb from functioning as intended, which you can fix with a simple reboot.
@@ -143,8 +169,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -152,4 +176,26 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-device-friendly-tutorial-inserting-your-shorts-into-youtube/"><u>[Updated] 2024 Approved Device-Friendly Tutorial Inserting Your Shorts Into YouTube</u></a></li>
+<li><a href="https://fox-that.techidaily.com/correcting-unintended-browser-activity-reports-on-iphone-screen-time-monitor/"><u>Correcting Unintended Browser Activity Reports on iPhone Screen Time Monitor</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/experience-swift-iphone-data-restoration-purchase-instantly/"><u>Experience Swift iPhone Data Restoration – Purchase Instantly</u></a></li>
+<li><a href="https://windows11.techidaily.com/flawless-shopping-experience-eradicating-error-x80072f30-on-pc/"><u>Flawless Shopping Experience: Eradicating Error X80072F30 on PC</u></a></li>
+<li><a href="https://fox-that.techidaily.com/get-your-apple-device-back-online-the-ultimate-guide-to-connecting-iphones-and-ipads-to-wi-fi/"><u>Get Your Apple Device Back Online: The Ultimate Guide to Connecting iPhones and iPads to Wi-Fi</u></a></li>
+<li><a href="https://fox-that.techidaily.com/getting-your-idevices-keyboard-back-to-work-six-crucial-solutions-for-iphone-and-ipad-users/"><u>Getting Your iDevice's Keyboard Back to Work: Six Crucial Solutions for iPhone and iPad Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-successfully-download-and-set-up-the-hp-laserjet-1018-printer-driver/"><u>How to Successfully Download & Set Up the HP LaserJet 1018 Printer Driver</u></a></li>
+<li><a href="https://fox-that.techidaily.com/imessage-reroutes-to-text-what-does-it-mean-for-your-contact-status/"><u>IMessage Reroutes to Text: What Does It Mean for Your Contact Status?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-vivo-y100-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Vivo Y100? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-motorola-moto-g13-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Motorola Moto G13 | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-asus-rog-phone-8-pro-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Asus ROG Phone 8 Pro Device</u></a></li>
+<li><a href="https://fox-that.techidaily.com/maximizing-photography-performance-techniques-for-iphones-with-fewer-mp/"><u>Maximizing Photography Performance: Techniques for iPhones with Fewer MP</u></a></li>
+<li><a href="https://fox-that.techidaily.com/navigating-iphone-media-library-proven-fixes-for-usual-photography-hiccups/"><u>Navigating iPhone Media Library: Proven Fixes for Usual Photography Hiccups</u></a></li>
+<li><a href="https://fox-that.techidaily.com/pinpoint-and-rectify-7-frequent-glitches-in-your-iphones-camera-for-flawless-photography/"><u>Pinpoint & Rectify 7 Frequent Glitches in Your iPhone's Camera for Flawless Photography</u></a></li>
+<li><a href="https://extra-support.techidaily.com/prepping-for-progress-a-technological-lifesaver-for-2024/"><u>Prepping for Progress A Technological Lifesaver for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/quick-fix-correcting-internet-and-wi-fi-glitches-on-ios-devices-via-settings-reset/"><u>Quick Fix: Correcting Internet and Wi-Fi Glitches on iOS Devices via Settings Reset</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solve-your-broken-iphone-volume-buttons-issue-in-just-7-steps/"><u>Solve Your Broken iPhone Volume Buttons Issue in Just 7 Steps!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/video-invitation-made-easy-top-apps-for-iphone-and-android-for-2024/"><u>Video Invitation Made Easy Top Apps for iPhone and Android for 2024</u></a></li>
+</ul></div>
 

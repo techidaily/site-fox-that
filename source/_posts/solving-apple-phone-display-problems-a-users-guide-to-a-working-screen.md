@@ -1,7 +1,7 @@
 ---
 title: "Solving Apple Phone Display Problems: A User's Guide to a Working Screen"
-date: 2024-08-31T21:07:02.571Z
-updated: 2024-09-01T21:07:02.571Z
+date: 2024-11-04T12:11:07.906Z
+updated: 2024-11-05T13:18:08.610Z
 tags:
   - iphone
   - apple
@@ -30,6 +30,13 @@ thumbnail: https://thmb.techidaily.com/0f08e68155172a78a589fb6b8f18fbb5a0a1a4069
 
  If your iPhone was exposed to salt water before it stopped working, then that was most likely the cause of the damage. Salt water is corrosive and, while your phone might have been fine right away, the damage could continue to progress for weeks after exposure.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Is Your Touchscreen Broken or Your LCD Screen?
 
  The iPhone actually has two parts to its screen. The top part is the digitizer and the part underneath is the LCD screen. The digitizer is the touchscreen and the LCD screen displays the contents of your iPhone.
@@ -50,16 +57,17 @@ If your screen is working, but not correctly, this could be the cause.
 
 ![iphone touch accommodations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/iphone-touch-accommodations.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
  If you’re having a hard time navigating there because of the dodgy touchscreen, just activate Siri and say “Turn off Touch Accommodations.”
 
  Alternatively, you can click the Side button three times and this will disable it on most newer devices. For older devices, you may need to tap the Home button three times.
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Back Up and Factory Reset Your iPhone
 
  If your touchscreen isn’t working correctly, you might have a software issue. While this is rare, it can happen.
@@ -69,17 +77,18 @@ If your screen is working, but not correctly, this could be the cause.
 ![iphone erase content](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/iphone-erase-content.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  If you can’t navigate here, you’ll need to plug your iPhone into a computer to perform a factory reset. After resetting, in rare cases, your touchscreen will work again.
 
  Related:[How to Factory Reset Your iPhone or iPad](https://www.makeuseof.com/tag/how-to-factory-reset-iphone-ipad/)
 
  If you do choose to get your iPhone repaired, you’ll most likely need to do this anyway. This ensures that the technician won’t be able to access your personal data. They may also need to test Face ID to make sure the repair worked and will need the phone to be unlocked to do so, which means you’re better off erasing all your data first.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Getting Your iPhone Screen Repaired
 
  If the above fixes didn’t work, this means you almost certainly need a physical repair.
@@ -96,9 +105,6 @@ If your screen is working, but not correctly, this could be the cause.
 
  Related:[Learn to Fix Your Own Gadgets With Help From These Sites](https://www.makeuseof.com/tag/fix-gadgets-help-websites/)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Using Your iPhone Without a Touchscreen
 
  If your iPhone isn’t working but you need to access certain files, you can still do that. To do so, you’ll need to activate Voice Control. This can be helpful for backing up and restoring your iPhone.
@@ -107,15 +113,19 @@ If your screen is working, but not correctly, this could be the cause.
 
 ![iphone voice control](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/iphone-voice-control.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If Siri’s enabled, you can enable Voice Control by saying “Hey Siri, turn on Voice Control.” Once enabled, you can access your iPhone without using the touchscreen.
 
  Related:[Where to Fix iPhone Screens for Cheap: Places to Check Out](https://www.makeuseof.com/tag/places-that-fix-iphone-screens-for-cheap/)
 
  To use Voice Control, you should familiarize yourself with the basic commands.[Apple](https://support.apple.com/HT210417) has a full list of these commands on its website.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## iPhone Screen Not Working? These Fixes Should Have Helped
 
  If your iPhone stopped responding to touch after damage, heat, or salt water exposure, a repair is likely needed. However, a user might have activated Touch Accommodations, which could be the culprit. There are also rare cases where a software problem can cause the touchscreen to work and a factory reset could solve the problem.
@@ -128,8 +138,6 @@ If your screen is working, but not correctly, this could be the cause.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -137,4 +145,23 @@ If your screen is working, but not correctly, this could be the cause.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-cutting-edge-guide-to-youtube-audio-editing/"><u>[New] In 2024, Cutting-Edge Guide to YouTube Audio Editing</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-from-dull-to-delightful-text-that-tumbles-and-twirls/"><u>[New] In 2024, From Dull to Delightful Text that Tumbles and Twirls</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-pinnacle-12-apps-for-unlimited-screen-recording-for-2024/"><u>[Updated] Pinnacle 12 Apps for Unlimited Screen Recording for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-expert-strategies-for-finding-no-cost-art/"><u>2024 Approved Expert Strategies for Finding No-Cost Art</u></a></li>
+<li><a href="https://win-blog.techidaily.com/age-of-empires-iv-stability-guide-no-more-frustrating-crashes/"><u>Age of Empires IV Stability Guide – No More Frustrating Crashes!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/bypassing-bug-1-7-in-your-iphone-x-quick-fix-guides-revealed/"><u>Bypassing Bug #1-#7 in Your iPhone X - Quick Fix Guides Revealed!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-stagnant-ios-mailboxes-a-comprehensive-fix-for-non-updating-emails-on-iphone/"><u>Fixing Stagnant iOS Mailboxes - A Comprehensive Fix for Non-Updating Emails on iPhone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/free-upgrade-to-windows-11-step-by-step-instructions-and-tips/"><u>Free Upgrade to Windows 11: Step-by-Step Instructions and Tips</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-volume-buttons-not-working-try-these-7-fixes/"><u>IPhone Volume Buttons Not Working? Try These 7 Fixes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723002117009-say-goodbye-to-obs-woes-unlock-perfect-screen-recording-techniques-today/"><u>Say Goodbye to OBS Woes: Unlock Perfect Screen Recording Techniques Today!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/speeding-up-your-slow-iphone-explore-these-6-issues-and-remedies/"><u>Speeding Up Your Slow iPhone: Explore These 6 Issues & Remedies</u></a></li>
+<li><a href="https://fox-that.techidaily.com/the-ultimate-list-of-prevalent-iphone-display-troubles-fixes-inside/"><u>The Ultimate List of Prevalent iPhone Display Troubles - Fixes Inside</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-audio-problems-in-airpods-deactivating-head-movement-sync/"><u>Troubleshooting Audio Problems in AirPods: Deactivating Head Movement Sync</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-guide-8-solutions-when-iphone-control-center-fails/"><u>Troubleshooting Guide: 8 Solutions When iPhone Control Center Fails</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-stuck-audio-during-video-streaming-in-google-chrome-and-mozilla-firefox/"><u>Troubleshooting Stuck Audio During Video Streaming in Google Chrome and Mozilla Firefox</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-mastering-compressor-a-step-by-step-guide-for-fcpx-users-for-2024/"><u>Updated Mastering Compressor A Step-by-Step Guide for FCPX Users for 2024</u></a></li>
+</ul></div>
 

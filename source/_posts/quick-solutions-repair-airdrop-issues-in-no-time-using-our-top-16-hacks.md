@@ -1,7 +1,7 @@
 ---
 title: "Quick Solutions: Repair AirDrop Issues in No Time Using Our Top 16 Hacks"
-date: 2024-08-31T21:10:46.878Z
-updated: 2024-09-01T21:10:46.878Z
+date: 2024-10-30T07:39:18.285Z
+updated: 2024-11-05T03:06:54.653Z
 tags:
   - iphone
   - apple
@@ -45,6 +45,13 @@ thumbnail: https://thmb.techidaily.com/2813317b01db0f7c4ae52564fdce492f88f001632
 
 ![network options in iphone control center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/network-options-in-iphone-control-center.JPEG)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![airdrop visibility options in iphone control center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/airdrop-visibility-options-in-iphone-control-center.JPEG)
 
 Close
@@ -62,9 +69,12 @@ Close
 ![go tab in mac finder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/go-tab-in-mac-finder.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 3\. Turn Off AirDrop Restrictions
 
  If AirDrop isn't showing up at all, you may have blocked it in your**Content & Privacy Restrictions** for Screen Time. On an iPhone or iPad, go to **Settings > Screen Time > Content & Privacy Restrictions > Allowed Apps** .
@@ -74,22 +84,20 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ![iphone content and privacy restrictions settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/iphone-content-and-privacy-restrictions-settings.JPEG)
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![allowed apps in iphone content and privacy restriction settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/allowed-apps-in-iphone-content-and-privacy-restriction-settings.JPEG)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 Close
 
  On a Mac, go to **System Settings > Screen Time > Content & Privacy > App Restrictions** .
 
 ![content and privacy settings on mac](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/content-and-privacy-settings-on-mac.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Make sure**AirDrop** is turned on for each device. You may need to enter your Screen Time passcode to make these changes.
 
 ## 4\. Enable AirDrop Over Cellular
@@ -102,17 +110,24 @@ Close
 
 ![iPhone General settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/iphone-general-settings.JPEG)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![iphone airdrop settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/iphone-airdrop-settings.JPEG)
 
 Close
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 5\. Allow Sharing by Bringing Devices Together
 
  This particular fix is specific to NameDrop, a feature Apple introduced alongside iOS 17\. You can [use NameDrop to share contact information](https://www.makeuseof.com/how-to-share-contacts-namedrop-iphone/) by placing the top edge of two iPhones close to each other.
@@ -128,27 +143,16 @@ No advertising on the website.
 ![Control Center on Mac](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/Control-Center-on-Mac.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
+
 ## 7\. Restart Wi-Fi and Bluetooth on Both Devices
 
  A particularly useful solution if AirDrop isn't working is to disable and re-enable Wi-Fi and Bluetooth. Open**Control Center** on your iPhone, iPad, or Mac and hit the**Wi-Fi** and**Bluetooth** icons to turn them off, then select them again to turn them back on.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 8\. Use AirDrop From a Third Apple Device
 
  This isn't an option for everyone, but if you have a spare Apple device, you should try using that to connect over AirDrop. Usually, if your iPhone, iPad, or Mac shows up on this new device, it will suddenly appear on the original device as well.
@@ -165,29 +169,33 @@ No advertising on the website.
 
 ![browse tab in iphone files app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/browse-tab-in-iphone-files-app.JPEG)
 
+<!-- affiliate ads begin -->
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![on my iphone folder in files app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/on-my-iphone-folder-in-files-app.JPEG)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 Close
 
  On a Mac, you can usually find the**Downloads** folder by opening a new Finder window and pressing**Option + Command + L** . You may also find it next to**Trash** on your**Dock** .
 
 ![Downloads folder in macOS Sonoma](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/downloads-folder-in-macos-sonoma.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ## 11\. Turn Off Your VPN for AirDrop to Work
 
  Some users found that AirDrop didn't work until they [turned off the VPN on their iPhone](https://www.makeuseof.com/how-to-turn-off-vpn-on-iphone/) or Mac. You might need to do this in the VPN app or your device settings.
 
  On an iPhone or iPad, go to**Settings > VPN** to do this. On a Mac, go to**System Settings > Network > VPN** .
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 12\. Open Your Mac's Firewall to More Connections
 
  The firewall on your Mac might be set to block all incoming connections, which often includes new AirDrop transfers. You'll need to loosen these restrictions from System Settings if AirDrop still isn't working.
@@ -195,6 +203,13 @@ Close
  Go to**System Settings > Network > Firewall** . Toggle off**Firewall** and enter your Mac's admin password if prompted.
 
 ![Firewall option in macOS System Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Firewall-option-in-macOS-System-Settings.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 13\. Sign In to Your Apple ID Account Again
 
@@ -212,9 +227,6 @@ Close
 
 ![iphone main settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/img_7705.JPEG)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![iPhone General settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/iphone-general-settings.JPEG)
 
 Close
@@ -223,9 +235,6 @@ Close
 
  This is a classic troubleshooting tip because it's so effective.[Restarting your iPhone](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) , iPad, or Mac might be all you need to get AirDrop working again. And it only takes a moment to try it.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 16\. Reset the Network Settings on Your Device
 
  You can reset the network settings on an iPhone or iPad to fix all kinds of Wi-Fi or Bluetooth problems, including issues with getting AirDrop to work. When you reset these settings, your device forgets any Wi-Fi passwords you've saved, so you'll have to manually reconnect to trusted networks again.
@@ -234,14 +243,8 @@ Close
 
 ![iphone general settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/iphone-reset.JPEG)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 ![reset iphone settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/iphone-reset-settings.JPEG)
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 Close
 
  Unfortunately, macOS doesn't have a similar reset network option, so you'll have to follow a different set of instructions to [reset the network settings on your Mac](https://www.makeuseof.com/mac-network-settings-how-to-reset/) .
@@ -256,8 +259,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -265,4 +266,26 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-13-ways-to-fine-tune-colors-in-photoshop-effortlessly/"><u>[New] 13 Ways to Fine-Tune Colors in Photoshop Effortlessly</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-journey-into-the-metaverse-top-8-vr-headgear/"><u>[Updated] Journey Into the Metaverse Top 8 VR Headgear</u></a></li>
+<li><a href="https://fox-that.techidaily.com/7-rapid-repairs-restore-predictive-emoji-feature-on-iphone-and-ipad-instantly/"><u>7 Rapid Repairs: Restore Predictive Emoji Feature on iPhone and iPad Instantly!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/addressing-undelivered-imessages-techniques-for-iphone-owners/"><u>Addressing Undelivered iMessages: Techniques for iPhone Owners</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/best-slogan-generator-for-virtual-events/"><u>Best Slogan Generator for Virtual Events</u></a></li>
+<li><a href="https://fox-that.techidaily.com/giveaway-glitches-5-common-hurdles-in-apples-gifting-feature/"><u>Giveaway Glitches: 5 Common Hurdles in Apple's Gifting Feature</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-photos-from-oppo-a78-by-fonelab-android-recover-photos/"><u>How to get back lost photos from Oppo A78.</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-handle-changing-phone-number-displays-in-your-messaging-app/"><u>How to Handle Changing Phone Number Displays in Your Messaging App</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-avchd-mts-files-on-edge-40-pro-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to play AVCHD MTS files on Edge 40 Pro?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-any-vivo-y100i-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Vivo Y100i Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-the-blueprint-for-successful-youtube-video-plans-and-outlines/"><u>In 2024, The Blueprint for Successful YouTube Video Plans and Outlines</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-alert-fixes-while-on-dnd-mode-a-guide-to-getting-your-messages-and-calls-through-including-8-tactics/"><u>IPhone Alert Fixes While on DND Mode: A Guide to Getting Your Messages & Calls Through, Including 8 Tactics</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/legal-implications-of-using-chatgpt-recent-revisions-to-googles-news-algorithms-and-maximizing-mobile-internet-access-while-touring/"><u>Legal Implications of Using ChatGPT, Recent Revisions to Google's News Algorithms, & Maximizing Mobile Internet Access While Touring</u></a></li>
+<li><a href="https://fox-making.techidaily.com/mastering-powershell-a-guide-to-the-options-configuration-panel/"><u>Mastering Powershell: A Guide to the Options Configuration Panel</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-fixes-for-when-your-desktop-mouse-stops-working/"><u>Quick Fixes for When Your Desktop Mouse Stops Working</u></a></li>
+<li><a href="https://fox-that.techidaily.com/sounds-keep-moving-in-your-airpods-you-need-to-disable-dynamic-head-tracking/"><u>Sounds Keep Moving in Your AirPods? You Need to Disable Dynamic Head Tracking</u></a></li>
+<li><a href="https://fox-that.techidaily.com/step-by-step-tutorial-on-seeking-help-for-your-iphone-with-apples-dedicated-app/"><u>Step-by-Step Tutorial on Seeking Help for Your iPhone with Apple's Dedicated App</u></a></li>
+<li><a href="https://fox-that.techidaily.com/struggling-with-iphone-notifications-disappearing-implement-7-proven-fixes-today/"><u>Struggling with iPhone Notifications Disappearing? Implement 7 Proven Fixes Today</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlocking-iphone-message-and-call-settings-in-dnd-mode-eight-effective-fixes-revealed/"><u>Unlocking iPhone Message and Call Settings in DND Mode: Eight Effective Fixes Revealed</u></a></li>
+</ul></div>
 

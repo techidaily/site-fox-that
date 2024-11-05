@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Guide for Fixing Sound Issues on HP PCs with Windows 10
-date: 2024-08-31T21:05:31.556Z
-updated: 2024-09-01T21:05:31.556Z
+date: 2024-10-30T00:05:29.919Z
+updated: 2024-11-04T19:00:26.898Z
 tags:
   - win11
   - win10
@@ -28,6 +28,13 @@ thumbnail: https://thmb.techidaily.com/7ac27936311540a3f6119be289d1db9f62edf4aff
 
 ###
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Make sure Microphone is set to On for Skype (Windows 10 users)
 
  If you’re running Skype on**Windows 10** , firstly please check if the Microphone is set to **On**  for Skype in the Privacy settings.
@@ -42,19 +49,26 @@ Follow these:
 
 ###
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Adjust the audio settings on Skype
 
 1. Login Skype with your own account.
 2. On Skype window, Click**Tools** \>**Options** .![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599a3fd935df2.png)
 3. Click**Audio settings** on the left pane. Then set your Microphone device and un-tick**Automatically adjust microphone settings** .  
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
  Click**Save** .![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59969244028ac.jpg)
 4. Check to see if your Microphone works.
+
+<!-- affiliate ads begin -->
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###
 
@@ -67,13 +81,15 @@ Follow these:
 1. [Download](https://tools.techidaily.com/drivereasy/download/)  and install Driver Easy.
 2. Run Driver Easy and click **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers. You sound driver is no exception.![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5992731451721.jpg)
 3. In the **[Free Version](https://tools.techidaily.com/drivereasy/download/)**  , Driver Easy will show you the latest display driver you’ll need to install. And you can update the drivers one by one using the   **Update** button.  But if you upgrade to the **[PRO Version](https://tools.techidaily.com/drivereasy/download/)** , you can update all your drivers with one click — **Update All** . ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5992c06e8e725.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 4. Restart your computer and run Skype to see if your Microphone works.
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###
 
@@ -83,12 +99,13 @@ Follow these:
 2. Type**services.msc** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5996978261d98.png)
 3. Right-click on the **Windows Audio** service. Click**Restart** .![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5996976eeec58.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Log in Skype and check to see if your Microphone works.
+
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * [sound problem](https://tools.techidaily.com/drivereasy/download/)
@@ -99,8 +116,6 @@ Follow these:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -108,4 +123,21 @@ Follow these:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/-comprehensive-guide-to-making-gifs-from-youtube-tracks/"><u>[New] A Comprehensive Guide to Making GIFs From YouTube Tracks</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-fast-fixes-syncing-iphone-photos-with-computer/"><u>[New] Fast Fixes Syncing iPhone Photos with Computer</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-a-comprehensive-review-camera-lenses-for-youtube/"><u>[Updated] 2024 Approved A Comprehensive Review Camera Lenses for YouTube</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-master-video-capturing-with-the-top-3-smartphone-titans/"><u>[Updated] Master Video Capturing with the Top 3 Smartphone Titans</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-the-essential-checklist-to-amplify-video-income-on-youtube/"><u>[Updated] The Essential Checklist to Amplify Video Income on YouTube</u></a></li>
+<li><a href="https://fox-that.techidaily.com/addressing-iphone-data-connectivity-problems-10-reliable-solutions/"><u>Addressing iPhone Data Connectivity Problems: 10 Reliable Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixed-full-screen-shot-problems-with-safari-discover-the-ultimate-guide/"><u>Fixed Full-Screen Shot Problems with Safari – Discover the Ultimate Guide</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-poco-m6-5g-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Poco M6 5G Location by Number | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-essential-tech-for-instant-time-lapse-videos/"><u>In 2024, Essential Tech for Instant Time-Lapse Videos</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/innovative-and-elite-tech-devices-for-the-savvy-shopper/"><u>Innovative and Elite Tech Devices for the Savvy Shopper</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resetting-your-iphone-gently-a-comprehensive-tutorial/"><u>Resetting Your iPhone Gently: A Comprehensive Tutorial</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/samsung-galaxy-watch-active2-review-more-connectivity-control-and-insights-than-the-original/"><u>Samsung Galaxy Watch Active2 Review: More Connectivity, Control, and Insights Than the Original</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-ios-photography-handling-issues-with-image-capture-and-processing/"><u>Troubleshooting iOS Photography: Handling Issues with Image Capture and Processing</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unify-multiple-photos-of-the-same-person-using-iphone-or-mac-techniques/"><u>Unify Multiple Photos of The Same Person Using iPhone Or Mac Techniques</u></a></li>
+</ul></div>
 

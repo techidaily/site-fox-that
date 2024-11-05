@@ -1,7 +1,7 @@
 ---
 title: Can't Use Ring/Silent Mode on iPhone? Fix It with These Easy Steps
-date: 2024-10-23T16:24:06.864Z
-updated: 2024-10-30T18:30:21.908Z
+date: 2024-11-01T00:52:49.995Z
+updated: 2024-11-05T00:35:21.667Z
 tags:
   - iphone
   - apple
@@ -68,11 +68,25 @@ Close
 
 ![AssistiveTouch settings on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customizing-assistivetouch-top-level-menu-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![customizing AssistiveTouch's top-level menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customizing-assistivetouch-top-level-menu-2.jpg)
 
 ![adding a new button to the AssistiveTouch menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customizing-assistivetouch-top-level-menu-3.jpg)
 
 ![selecting Mute action for the new AssistiveTouch button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customizing-assistivetouch-top-level-menu-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![Mute action in AssistiveTouch's top-level menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customizing-assistivetouch-top-level-menu-5.jpg)
 
@@ -92,13 +106,26 @@ Follow these simple instructions to get this done:
 ![AssistiveTouch settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/setting-a-custom-action-for-assistivetouch-button-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![adding Mute action to Double-Tap gesture](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/setting-a-custom-action-for-assistivetouch-button-2.jpg)
+
+<!-- affiliate ads begin -->
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close
 
@@ -115,14 +142,14 @@ Close
 
 ![iPhone Accessibility settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-using-back-tap-1.jpg)
 
-![Back Tap feature under Touch Accessibility settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-using-back-tap-2.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![Back Tap feature under Touch Accessibility settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-using-back-tap-2.jpg)
 
 Close
 
@@ -133,34 +160,13 @@ Close
 
 ![Back Tap gesture options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-using-back-tap-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![setting Mute action to a Back Tap gesture](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-using-back-tap-4.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Close
 
  Now, whenever you want to mute your iPhone, simply perform the double-tap or triple-tap gesture on the back of your iPhone. To unmute it, perform the same gesture again.
 
  With certain iPhone cases, especially thicker ones, you might need to tap harder for the iPhone to register your taps and trigger the action.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Broken iPhone Ring/Silent Switch? No Problem
 
@@ -183,20 +189,18 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-storage-galore-selecting-top-ps5-hddsssds/"><u>[New] In 2024, Storage Galore Selecting Top PS5 HDDs/SSDs</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-the-ultimate-iphone-manual-for-capturing-and-adjusting-pace-in-motion/"><u>[Updated] 2024 Approved The Ultimate iPhone Manual for Capturing and Adjusting Pace in Motion</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-revolutionize-your-snapchat-experience-a-compendium-of-over-120-innovative-story-titles/"><u>[Updated] Revolutionize Your Snapchat Experience A Compendium of Over 120 Innovative Story Titles</u></a></li>
-<li><a href="https://fox-that.techidaily.com/11-proven-fixes-for-when-your-airpods-keep-disconnecting-from-iphone/"><u>11 Proven Fixes for When Your AirPods Keep Disconnecting From iPhone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/12-proven-techniques-to-repair-your-nonfunctional-iphone-flashlight/"><u>12 Proven Techniques to Repair Your Nonfunctional iPhone Flashlight</u></a></li>
-<li><a href="https://win-answers.techidaily.com/borderlands-e-experiencing-fps-dips-expert-solutions-and-tweaks-for-your-pc/"><u>Borderlands E Experiencing FPS Dips? Expert Solutions and Tweaks for Your PC</u></a></li>
-<li><a href="https://fox-that.techidaily.com/bypass-widget-glitches-swiftly-for-your-iphoneipad-with-these-10-tips/"><u>Bypass Widget Glitches Swiftly for Your iPhone/iPad with These 10 Tips</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/comprehensive-microsoft-sculpt-ergonomic-keyboard-evaluation-exceptional-worth/"><u>Comprehensive Microsoft Sculpt Ergonomic Keyboard Evaluation – Exceptional Worth</u></a></li>
-<li><a href="https://fox-that.techidaily.com/disappearing-apps-on-your-iphone-expert-advice-on-how-to-find-them-again/"><u>Disappearing Apps on Your iPhone: Expert Advice on How to Find Them Again</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fixing-persistent-iphone-email-sync-errors-step-by-step-tips/"><u>Fixing Persistent iPhone Email Sync Errors - Step by Step Tips</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/the-youtube-timeline-increase-or-decrease-sound/"><u>Hack the YouTube Timeline Increase or Decrease Sound</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-contacts-from-zte-nubia-z60-ultra-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from ZTE Nubia Z60 Ultra To Phone | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/recover-apple-iphone-15-pro-max-data-from-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 15 Pro Max Data From iTunes | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-iphone-se-by-drfone-ios/"><u>Top 11 Free Apps to Check IMEI on iPhone SE</u></a></li>
-<li><a href="https://fox-that.techidaily.com/unveiling-the-iphone-14-a-comprehensive-guide-to-its-battery-performance-concerns/"><u>Unveiling the iPhone 14: A Comprehensive Guide to Its Battery Performance Concerns</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-digital-chronicling-of-live-audio-content-on-the-net-for-2024/"><u>[New] Digital Chronicling of Live Audio Content on the Net for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-harness-the-hype-tactics-to-supercharge-your-social-media-status-for-2024/"><u>[New] Harness the Hype Tactics to Supercharge Your Social Media Status for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-cut-down-on-effort-schedule-fb-posts-for-free/"><u>[New] In 2024, Cut Down on Effort Schedule Fb Posts for Free</u></a></li>
+<li><a href="https://fox-that.techidaily.com/achieving-peaceful-coexistence-turn-off-overlapping-ringtones-between-your-ipad-and-iphone/"><u>Achieving Peaceful Coexistence: Turn Off Overlapping Ringtones Between Your iPad and iPhone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-successfully-take-full-page-screenshots-using-safari-solutions-inside/"><u>How to Successfully Take Full-Page Screenshots Using Safari – Solutions Inside!</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-catchy-lyrics-on-the-rise-with-tiktoks-newest-songs/"><u>In 2024, Catchy Lyrics on the Rise with TikTok's Newest Songs</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Oppo Reno 10 Pro+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/leading-360-action-footage-options/"><u>Leading 360° Action Footage Options</u></a></li>
+<li><a href="https://fox-that.techidaily.com/locating-your-missing-facetime-images-a-guide-on-where-they-are-stored/"><u>Locating Your Missing FaceTime Images: A Guide on Where They Are Stored</u></a></li>
+<li><a href="https://fox-that.techidaily.com/quick-solutions-resolve-airdrop-issues-in-no-time-with-our-top-16-tips/"><u>Quick Solutions: Resolve AirDrop Issues in No Time with Our Top 16 Tips</u></a></li>
+<li><a href="https://games-able.techidaily.com/revolutionize-your-matches-explore-these-6-innovative-chess-tools/"><u>Revolutionize Your Matches: Explore These 6 Innovative Chess Tools</u></a></li>
+<li><a href="https://fox-that.techidaily.com/struggling-with-hidden-alerts-on-your-iphone-discover-7-solutions/"><u>Struggling with Hidden Alerts on Your iPhone? Discover 7 Solutions!</u></a></li>
+<li><a href="https://video-capture.techidaily.com/ultimate-mac-capture-hacks-top-5-methods-reviewed-for-2024/"><u>Ultimate Mac Capture Hacks Top 5 Methods Reviewed for 2024</u></a></li>
 </ul></div>
 

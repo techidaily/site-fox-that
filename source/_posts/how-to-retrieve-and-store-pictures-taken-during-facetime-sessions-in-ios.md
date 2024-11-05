@@ -1,7 +1,7 @@
 ---
 title: How to Retrieve and Store Pictures Taken During FaceTime Sessions in iOS
-date: 2024-08-31T21:07:56.732Z
-updated: 2024-09-01T21:07:56.732Z
+date: 2024-11-03T09:02:32.268Z
+updated: 2024-11-05T12:45:25.181Z
 tags:
   - iphone
   - apple
@@ -26,6 +26,13 @@ thumbnail: https://thmb.techidaily.com/8f94bf7c2b99f85ff1fa63d2bea22e03cd2a105f9
 
  You can simplify matters by viewing only your Live Photos. To do this, go to the**Albums** tab and look for the**Live Photos** album. Your iPhone, iPad, or Mac creates this album automatically as soon as you add a Live Photo to your library.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Create a Smart Album for All Your FaceTime Live Photos
 
  If you want to keep all your FaceTime Live Photos in the same place, create a Smart Album to automatically capture them all. You need to [use a Mac to create a Smart Album in the Photos app](http://www.makeuseof.com/how-to-create-and-use-smart-albums-on-mac/) . Unfortunately, you can't create Smart Albums from the Photos app on an iPhone or iPad.
@@ -34,20 +41,31 @@ thumbnail: https://thmb.techidaily.com/8f94bf7c2b99f85ff1fa63d2bea22e03cd2a105f9
 
 ![Creating a smart album in Photos on Mac](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/create-smart-albums-photos-mac.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You'll need to type "FaceTime" into the third box manually since it isn't an option in the dropdown menu.
 
  Click**OK** to create your Smart Album. Photos should fill the album with all the Live Photos you've captured during FaceTime calls. Any new FaceTime photos you take should also appear in the album automatically.
 
  If you [sync Photos over iCloud](https://www.makeuseof.com/how-to-set-up-sync-icloud-photos/) , this Smart Album will become available from the**Albums** tab on your other devices as well.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Take Photos During FaceTime Calls
 
  You can take a Live Photo during a FaceTime call using the**shutter** button. This appears when you tap the screen on an iPhone, iPad, or iPod touch or when you hover your mouse over the FaceTime window on a Mac. It looks like two white circles, one inside the other.
 
 ![Making a FaceTime video call on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/facetime-call-in-progress-ios.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![Capturing a FaceTime Live Photo](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/taking-a-facetime-live-photo.jpg)
 
@@ -57,9 +75,6 @@ Close
 
  A Live Photo is better than taking a screenshot because it doesn't capture the FaceTime user interface. It also saves a couple of seconds of video and audio from right before and after you take the photo. In the future, you can even [turn your Live Photos into videos](https://www.makeuseof.com/how-to-turn-live-photos-into-videos-on-iphone-mac/) .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ### How to Take a FaceTime Photo Without Telling the Other Person
 
  When you take a photo of someone using FaceTime, it sends a notification to their device to let them know that you took a picture. There's no way to avoid sending this notification when you take a photo, but you can get around it by taking a screenshot instead.
@@ -68,9 +83,6 @@ Close
 
  Alternatively, hit**Cmd + Shift + 3** to take a screenshot of your entire screen. Aside from these two options, there are other [ways to take screenshots on your Mac](https://www.makeuseof.com/tag/how-to-take-a-screenshot-on-a-mac/) .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ## How to Enable Live Photos in Your FaceTime Settings
 
  Before you can take a Live Photo in FaceTime, both you and the person you're taking a photo of need to enable Live Photos in your FaceTime Settings. So, if you don't want other people to take photos of you during FaceTime calls, you should disable this option. Keep in mind that other people will still be able to take a screenshot, though.
@@ -79,15 +91,8 @@ Close
 
 ![iOS Settings menu FaceTime selected](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ios-settings-menu-facetime-selected.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ![FaceTime Live Photos toggle enabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/facetime-live-photos-toggle-enabled.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 Close
 
  On a Mac, open**FaceTime** and go to**FaceTime > Settings** from the menu bar. In the**Settings** tab, turn on the option to**Allow Live Photos to be captured during video calls** .
@@ -96,9 +101,6 @@ Close
 
  There are lots of problems that might stop you from being able to snap a Live Photo during your FaceTime calls. If you can't find the shutter button, FaceTime isn't saving your photos, or you have trouble finding FaceTime photos after you take them, try these troubleshooting tips to fix it.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. Enable FaceTime Live Photos on Both Devices
 
  To take a photo of someone during a FaceTime call, everyone on the call needs to turn on FaceTime Live Photos from their device settings. Go to**Settings > FaceTime** to do this. Make sure the person you're taking a photo of checks their settings as well.
@@ -110,8 +112,19 @@ Close
 ![Photos app on an iPhone Home Screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/share-shared-albums-with-non-apple-users.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3\. Update to the Latest Operating System
 
  In some older versions of iOS, Apple temporarily removed the ability to take Live Photos on FaceTime. This was presumably due to a FaceTime security bug. FaceTime photos are available now, but you need to update your device to the latest software to use them. The person you're taking a photo of needs to update their device to the latest software as well.
@@ -120,15 +133,19 @@ Close
 
 ![Software update available in macOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/software-update-macos-settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Install any updates that are available there by clicking**Update Now** .
 
 ### 4\. Restart Your Device
 
  No matter what [FaceTime problem you're encountering](https://www.makeuseof.com/tag/facetime-not-working/) , you should always try to fix it by restarting your device. This is a remarkably effective troubleshooting step that only takes a moment to try out. Power off your iPhone, iPad, or Mac as you usually would, then wait 30 seconds before restarting it again.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 5\. Restart FaceTime on Your Device
 
  Finally, try turning FaceTime off and on in your device settings. You may need to sign in to your Apple ID account again when you do this.
@@ -139,13 +156,17 @@ Close
 
 ![FaceTime enabled in iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/facetime-enabled-ios-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Close
 
  On a Mac, open the**FaceTime** app and go to**FaceTime > Settings** from the menu bar. In the**Settings** tab, uncheck the box for**Enable this account** , then check the box again to re-enable FaceTime.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Revisit Your FaceTime Photos on iPhone, iPad and Mac
 
  All the FaceTime Live Photos you take during a call are permanently stored on your device. Whether you're using an iPhone, iPad, or Mac, FaceTime Live Photos are automatically saved in the Photos app.
@@ -158,8 +179,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -167,4 +186,20 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-influencers-insight-quick-pathways-to-instagram-fame-with-our-ultimate-list-of-15-tips-for-2024/"><u>[New] Influencer's Insight Quick Pathways to Instagram Fame with Our Ultimate List of 15 Tips for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-imovie-for-beginners-building-intriguing-openers-for-youtube/"><u>[Updated] IMovie for Beginners Building Intriguing Openers for YouTube</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-professionals-handbook-to-video-editing-in-youtube-studio/"><u>[Updated] The Professional's Handbook to Video Editing in YouTube Studio</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-from-blurry-to-sharp-mastering-vce-version-22/"><u>2024 Approved From Blurry to Sharp Mastering VCE Version 2.2</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-saving-social-media-stories-chromes-top-5-tools/"><u>2024 Approved Saving Social Media Stories Chromes' Top 5 Tools</u></a></li>
+<li><a href="https://fox-that.techidaily.com/7-effective-solutions-for-a-stable-smartphone-screen-no-more-flicker/"><u>7 Effective Solutions for a Stable Smartphone Screen: No More Flicker</u></a></li>
+<li><a href="https://fox-that.techidaily.com/effortless-troubleshooting-guide-to-restarting-imessage-across-apple-platforms/"><u>Effortless Troubleshooting Guide to Restarting iMessage Across Apple Platforms</u></a></li>
+<li><a href="https://fox-that.techidaily.com/expose-public-properties-or-methods-for-controlled-access/"><u>Expose Public Properties or Methods for Controlled Access.</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-updated-logitech-g35-device-drivers-for-various-windows-versions/"><u>Get Updated Logitech G35 Device Drivers for Various Windows Versions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-fix-a-non-functional-proximity-sensor-on-your-iphone/"><u>How to Fix a Non-Functional Proximity Sensor on Your iPhone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-and-icloud-photos-not-updating-try-these-7-fixes/"><u>IPhone and iCloud Photos Not Updating? Try These 7 Fixes</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-failed-d3d-initialization/"><u>Resolving Failed D3D Initialization</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-11-users-rejoice-solving-chrome-error-unable-to-load-plugin-successfully-explained/"><u>Windows 11 Users Rejoice! Solving Chrome Error: Unable to Load Plugin Successfully Explained</u></a></li>
+</ul></div>
 

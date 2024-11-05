@@ -1,7 +1,7 @@
 ---
 title: "IMessage Glossary Guide: Dealing with Contacts Showing as Numbers, Not Names"
-date: 2024-08-31T21:06:35.733Z
-updated: 2024-09-01T21:06:35.733Z
+date: 2024-11-04T04:17:54.495Z
+updated: 2024-11-04T18:30:16.397Z
 tags:
   - iphone
   - apple
@@ -30,11 +30,25 @@ thumbnail: https://thmb.techidaily.com/f1f88a30ef6a6045fdd8de1ae1bff22298ec89fff
 
  However, this is usually a temporary issue and should fix itself. If this isn't the case, you can try a few quick fixes to get things back to normal quickly.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Restart Your iPhone
 
  A quick fix to getting your contact names back instead of phone numbers is to [restart your iPhone](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) . As with many other issues, a quick reboot usually does the trick, and you should be able to see your contact names instead of phone numbers in Messages.
 
  In the case that this doesn't work and you are still facing the same issue, follow the fixes below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Add or Remove the Country Code
 
@@ -51,9 +65,6 @@ thumbnail: https://thmb.techidaily.com/f1f88a30ef6a6045fdd8de1ae1bff22298ec89fff
 
 ![Add Country Code to Number](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Fix-Messages-Not-Showing-Contact-Number.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Close
 
  You'll have to do this directly from the Contacts app because Messages doesn't recognize the phone number as a contact and hence won't make the change.
@@ -63,8 +74,12 @@ Close
  Once you fix a phone number, you'll see Messages will automatically merge the conversations split across different chats.
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Toggle iCloud Contacts
 
  Some people have reported iCloud contacts being the reason behind this issue. If you are syncing your contacts with your iCloud account, it might be worth re-syncing them, which might fix the issue.
@@ -81,29 +96,19 @@ To do this, follow these steps on your iPhone:
 
 ![Settings on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Fix-Messages-Not-Showing-iCloud.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Password and Security in iPhone iCloud Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/2FA-iPhone-Password-and-Security.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Contacts in iCloud Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Fix-Messages-Not-Showing-iCloud-Contacts.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Close
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Fix Messages Showing Phone Numbers Instead of Contact Names
 
  Hopefully, these three fixes should fix the issue of the Messages app showing phone numbers instead of contact names, and you'll be able to resume your normal conservation with your friends and loved ones. If none of these tips work, you may want to contact Apple support to help you get it fixed.
@@ -114,8 +119,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -123,4 +126,26 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/raft-clearer-crisper-youtube-videos-with-quality-tools/"><u>[New] Craft Clearer, Crisper YouTube Videos with Quality Tools</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-the-ultimate-guide-to-online-streaming-audio-logging-for-2024/"><u>[New] The Ultimate Guide to Online Streaming Audio Logging for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-studio-strategies-for-video-impact-and-growth/"><u>[Updated] 2024 Approved Studio Strategies for Video Impact and Growth</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-transforming-plain-words-into-3d-marvels-ps-guide/"><u>[Updated] Transforming Plain Words Into 3D Marvels PS Guide</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-battlefield-brilliance-the-exclusive-selection-of-top-7-total-war-chronicles/"><u>2024 Approved Battlefield Brilliance The Exclusive Selection of Top 7 Total War Chronicles</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/1728470633693-windows-10/"><u>如何在 Windows 10 中進行電源管理資料夾鏡像產生指南</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/arrow-key-calm-a-guide-for-win-users/"><u>Arrow Key Calm: A Guide for Win Users</u></a></li>
+<li><a href="https://fox-that.techidaily.com/common-airplay-problems-and-how-to-fix-them-efficiently/"><u>Common AirPlay Problems and How to Fix Them Efficiently</u></a></li>
+<li><a href="https://fox-that.techidaily.com/face-id-malfunctioning-on-iphone-uncover-14-strategies-for-successful-recovery/"><u>Face ID Malfunctioning on iPhone: Uncover 14 Strategies for Successful Recovery</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-refresh-your-iphone-safely-using-soft-reset-methods/"><u>How To Refresh Your iPhone Safely Using Soft Reset Methods</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-resolve-the-mmi2-no-active-subscriber-error-effectively/"><u>How To Resolve The 'MMI2: No Active Subscriber' Error Effectively</u></a></li>
+<li><a href="https://facebook.techidaily.com/how-to-shield-your-digital-life-from-facebooks-tracking-feature/"><u>How to Shield Your Digital Life From Facebook’s Tracking Feature</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/managing-insider-release-privacy-parameters/"><u>Managing Insider Release Privacy Parameters</u></a></li>
+<li><a href="https://fox-that.techidaily.com/mastering-single-device-connectivity-a-guide-to-manage-your-airpods-with-apple-products/"><u>Mastering Single Device Connectivity: A Guide to Manage Your AirPods with Apple Products</u></a></li>
+<li><a href="https://fox-that.techidaily.com/quick-fixes-to-address-iphone-guide-mode-malfunctions-effectively/"><u>Quick Fixes to Address iPhone Guide Mode Malfunctions Effectively</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-11-solutions-to-retrieve-missing-airpods-from-apples-find-my-app/"><u>Top 11 Solutions to Retrieve Missing AirPods From Apple's Find My App</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-downloading-and-setting-up-linksys-wusb6300-network-adapter-on-your-pc/"><u>Ultimate Guide: Downloading & Setting Up Linksys WUSB6300 Network Adapter on Your PC</u></a></li>
+<li><a href="https://fox-that.techidaily.com/what-is-the-purpose-of-iphone-dfu-mode-and-how-can-you-use-it-effectively/"><u>What Is the Purpose of iPhone DFU Mode & How Can You Use It Effectively?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/why-is-my-cell-phones-wi-fi-so-frustratingly-slow-explore-these-7-factors/"><u>Why Is My Cell Phone's Wi-Fi So Frustratingly Slow? Explore These 7 Factors</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Trouble with Your iPhone Screen? Top Solutions Revealed
-date: 2024-09-05T02:40:42.126Z
-updated: 2024-09-06T02:40:42.126Z
+date: 2024-10-29T09:55:06.754Z
+updated: 2024-11-05T08:01:21.431Z
 tags:
   - iphone
   - apple
@@ -30,6 +30,13 @@ thumbnail: https://thmb.techidaily.com/ef126118f50b6cc91b0e402fe75cfce958a6a6e6b
 
  If your iPhone was exposed to salt water before it stopped working, then that was most likely the cause of the damage. Salt water is corrosive and, while your phone might have been fine right away, the damage could continue to progress for weeks after exposure.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Is Your Touchscreen Broken or Your LCD Screen?
 
  The iPhone actually has two parts to its screen. The top part is the digitizer and the part underneath is the LCD screen. The digitizer is the touchscreen and the LCD screen displays the contents of your iPhone.
@@ -40,12 +47,6 @@ thumbnail: https://thmb.techidaily.com/ef126118f50b6cc91b0e402fe75cfce958a6a6e6b
 
  If there’s a problem with your digitizer, there are a few fixes you can try before taking your iPhone to a repair shop. However, if it’s the LCD, you’ll need to start searching for repairs straight away.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Make Sure Touch Accommodations Is Off
 
  Some users might have activated certain accessibility settings that can interfere with how the touchscreen works. The most common culprit is Touch Accommodations. If enabled, your iPhone screen will seem buggy and you’ll have a difficult time navigating the touchscreen.
@@ -56,12 +57,6 @@ If your screen is working, but not correctly, this could be the cause.
 
 ![iphone touch accommodations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/iphone-touch-accommodations.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you’re having a hard time navigating there because of the dodgy touchscreen, just activate Siri and say “Turn off Touch Accommodations.”
 
  Alternatively, you can click the Side button three times and this will disable it on most newer devices. For older devices, you may need to tap the Home button three times.
@@ -74,12 +69,6 @@ If your screen is working, but not correctly, this could be the cause.
 
 ![iphone erase content](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/iphone-erase-content.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you can’t navigate here, you’ll need to plug your iPhone into a computer to perform a factory reset. After resetting, in rare cases, your touchscreen will work again.
 
  Related:[How to Factory Reset Your iPhone or iPad](https://www.makeuseof.com/tag/how-to-factory-reset-iphone-ipad/)
@@ -87,17 +76,12 @@ If your screen is working, but not correctly, this could be the cause.
  If you do choose to get your iPhone repaired, you’ll most likely need to do this anyway. This ensures that the technician won’t be able to access your personal data. They may also need to test Face ID to make sure the repair worked and will need the phone to be unlocked to do so, which means you’re better off erasing all your data first.
 
 <!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Getting Your iPhone Screen Repaired
 
  If the above fixes didn’t work, this means you almost certainly need a physical repair.
@@ -114,18 +98,6 @@ If your screen is working, but not correctly, this could be the cause.
 
  Related:[Learn to Fix Your Own Gadgets With Help From These Sites](https://www.makeuseof.com/tag/fix-gadgets-help-websites/)
 
-<!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Using Your iPhone Without a Touchscreen
 
  If your iPhone isn’t working but you need to access certain files, you can still do that. To do so, you’ll need to activate Voice Control. This can be helpful for backing up and restoring your iPhone.
@@ -134,6 +106,13 @@ If your screen is working, but not correctly, this could be the cause.
 
 ![iphone voice control](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/iphone-voice-control.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If Siri’s enabled, you can enable Voice Control by saying “Hey Siri, turn on Voice Control.” Once enabled, you can access your iPhone without using the touchscreen.
 
  Related:[Where to Fix iPhone Screens for Cheap: Places to Check Out](https://www.makeuseof.com/tag/places-that-fix-iphone-screens-for-cheap/)
@@ -141,11 +120,18 @@ If your screen is working, but not correctly, this could be the cause.
  To use Voice Control, you should familiarize yourself with the basic commands.[Apple](https://support.apple.com/HT210417) has a full list of these commands on its website.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## iPhone Screen Not Working? These Fixes Should Have Helped
 
  If your iPhone stopped responding to touch after damage, heat, or salt water exposure, a repair is likely needed. However, a user might have activated Touch Accommodations, which could be the culprit. There are also rare cases where a software problem can cause the touchscreen to work and a factory reset could solve the problem.
@@ -158,8 +144,6 @@ If your screen is working, but not correctly, this could be the cause.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -167,4 +151,22 @@ If your screen is working, but not correctly, this could be the cause.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-drone-guide-for-beginners-facts-you-cant-afford-to-miss/"><u>[New] Drone Guide for Beginners Facts You Can't Afford to Miss</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-fusionflix-your-all-inclusive-tv-streaming-companion/"><u>[New] FusionFlix Your All-Inclusive TV Streaming Companion</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-harnessing-altitude-live-streaming-with-dji-drones/"><u>[New] Harnessing Altitude Live-Streaming with DJI Drones</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-capturing-both-webcam-and-monitor-live-feed/"><u>[Updated] Capturing Both Webcam & Monitor Live Feed</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-prime-windows-11-photo-inspector/"><u>2024 Approved Prime Windows 11 Photo Inspector</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-oppo-reno-11-pro-5g-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Oppo Reno 11 Pro 5G FRP Bypass Instantly</u></a></li>
+<li><a href="https://facebook.techidaily.com/are-secret-dialogues-on-facebook-well-guarded/"><u>Are Secret Dialogues on Facebook Well-Guarded?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721455832225-cant-send-texts-on-your-iphone-discover-10-essential-fixes/"><u>Can't Send Texts on Your iPhone? Discover 10 Essential Fixes</u></a></li>
+<li><a href="https://techtrends.techidaily.com/cookiebot-enhanced-boost-your-sites-engagement-with-advanced-tracking/"><u>Cookiebot-Enhanced: Boost Your Site's Engagement with Advanced Tracking</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721476030023-diy-iphone-reset-methods-no-itunes-required/"><u>DIY iPhone Reset Methods - No iTunes Required!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721465414461-invisible-iphone-contacts-uncover-the-fix-with-our-expert-tips/"><u>Invisible iPhone Contacts? Uncover The Fix With Our Expert Tips</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721475257903-iphone-and-icloud-photos-not-updating-try-these-7-fixes/"><u>IPhone and iCloud Photos Not Updating? Try These 7 Fixes!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721459907018-iphone-screen-malfunction-discover-how-to-fix-it-now/"><u>IPhone Screen Malfunction? Discover How to Fix It Now</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721468343792-quick-fixes-for-lagging-mobile-internet-speed-up-in-just-10-steps/"><u>Quick Fixes for Lagging Mobile Internet – Speed Up in Just 10 Steps</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721463469996-struggling-with-delayed-messaging-on-your-iphone-try-these-9-quick-fixes/"><u>Struggling with Delayed Messaging on Your iPhone? Try These 9 Quick Fixes!</u></a></li>
+</ul></div>
 

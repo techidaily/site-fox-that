@@ -1,7 +1,7 @@
 ---
 title: One AirPod Not Working? Here's How You Can Fix It!
-date: 2024-08-31T21:07:26.151Z
-updated: 2024-09-01T21:07:26.151Z
+date: 2024-11-01T16:56:58.853Z
+updated: 2024-11-05T02:56:51.685Z
 tags:
   - iphone
   - apple
@@ -51,8 +51,12 @@ Close
 [Reboot your iPhone](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) , Windows computer, Android device, or Mac—whatever it is that you use with your AirPods. Once your device is powered on and Bluetooth is enabled, check if both your AirPods connect and work properly again.
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 3\. Adjust the Audio Balance on Your Devices
 
  Most devices allow you to set the volume level for each AirPod individually. If you or someone else has tweaked this adjustment and routed the audio to only one of the AirPods, that may be why you're not hearing any sound from the other. It could also be [why one AirPod sounds louder than the other](https://www.makeuseof.com/why-one-airpod-louder-than-other-fixes/) when they're both working.
@@ -69,16 +73,17 @@ Close
 
 ![mac sound system settings airpods balance](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/mac-sound-system-settings-airpods-balance.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
  You can adjust the AirPods audio balance on Windows 11 by opening**Settings > System > Sound** . Then, select your AirPods from the list of output devices and adjust the**Left channel** and**Right channel** sliders so that they're equal.
 
 ![Windows Sound Settings for AirPods Pro](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/windows-sound-settings-for-airpods-pro.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 4\. Try Your AirPods With Other Devices
 
  It isn't always your AirPods that have issues. Sometimes, one of your AirPods stops working because of a problem with your smartphone or your computer.
@@ -88,8 +93,12 @@ Close
  If both AirPods work just fine on any other device, you know the issue is with your primary device, and you'll need to fix it instead. Read [our AirPods troubleshooting guide](https://www.makeuseof.com/tag/apple-airpods-problems-fix/) for your specific device to see if one of the suggested fixes can rectify your problem.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 5\. Forget Your AirPods From Your Devices
 
  One of the best ways to fix issues with Bluetooth devices is to forget them on your phone or other device and then re-pair them. This allows your device to establish a fresh Bluetooth connection.
@@ -108,9 +117,6 @@ Close
 
  After unpairing, you need to [re-pair your AirPods to your device](https://www.makeuseof.com/tag/how-to-connect-airpods-mac-iphone-pc-android/) . Then, see if both your AirPods work.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ## 6\. Reset Your AirPods to Factory Settings
 
  If your AirPods still don't work after unpairing and re-pairing them, try resetting them to their factory settings. Once they're unpaired, put your AirPods in their charging case, but don't close the lid.
@@ -120,13 +126,12 @@ Close
  Your iPhone will prompt you to set them up. If you're using another device, follow the standard Bluetooth setup steps.
 
 <!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 7\. Reset Your Phone's Network Settings
 
  Your phone's network settings define how it connects to various other devices. It's worth changing back to the default settings to see if this fixes the AirPod that's not working.
@@ -151,8 +156,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -160,4 +163,22 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-a-blueprint-for-success-three-core-writing-principles-for-compelling-fb-ad-content-for-2024/"><u>[Updated] A Blueprint for Success Three Core Writing Principles for Compelling FB Ad Content for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-how-to-convert-avi-to-gif-on-windows-and-mac-with-filmora/"><u>[Updated] How to Convert AVI to GIF on Windows & Mac with Filmora</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-nokia-g42-5g-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Nokia G42 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/capturing-motion-spectacle-with-polaroid-camplus-cube/"><u>Capturing Motion Spectacle with Polaroid Cam+ Cube</u></a></li>
+<li><a href="https://fox-that.techidaily.com/conquer-screen-flicker-on-your-device-with-these-7-easy-troubleshooting-steps/"><u>Conquer Screen Flicker on Your Device with These 7 Easy Troubleshooting Steps</u></a></li>
+<li><a href="https://fox-that.techidaily.com/delayed-text-alerts-discover-the-9-best-ways-to-fix-your-iphones-message-timing/"><u>Delayed Text Alerts? Discover the 9 Best Ways to Fix Your iPhone's Message Timing</u></a></li>
+<li><a href="https://win-answers.techidaily.com/escape-from-tarkov-server-problems-fixing-your-connection-lost-glitch-now/"><u>Escape From Tarkov Server Problems? Fixing Your Connection Lost Glitch Now</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-silent-mode-expert-advice-on-reactivating-iphone-speakers/"><u>Fixing Silent Mode: Expert Advice on Reactivating iPhone Speakers</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-from-poco-f5-5g-by-drfone-android/"><u>How to Bypass FRP from Poco F5 5G?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-stop-the-low-memory-message-in-roblox-on-your-iphone-easily-and-quickly/"><u>How to Stop the Low Memory Message in Roblox on Your iPhone Easily and Quickly</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-successfully-retry-and-complete-your-ipads-halted-system-upgrade/"><u>How to Successfully Retry and Complete Your iPad’s Halted System Upgrade</u></a></li>
+<li><a href="https://games-able.techidaily.com/improve-visual-flow-in-gaming-with-xbox-series-vrr-tuning-steps/"><u>Improve Visual Flow in Gaming with Xbox Series VRR Tuning Steps</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-how-to-fix-the-witcher-3-on-pc-when-it-keeps-crashing/"><u>Resolved: How to Fix The Witcher 3 on PC When It Keeps Crashing</u></a></li>
+<li><a href="https://fox-that.techidaily.com/ten-effective-ways-to-resolve-iphone-application-download-problems/"><u>Ten Effective Ways to Resolve iPhone Application Download Problems</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-xiaomi-redmi-note-12t-pro-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Xiaomi Redmi Note 12T Pro Phone Network-Ready</u></a></li>
+</ul></div>
 

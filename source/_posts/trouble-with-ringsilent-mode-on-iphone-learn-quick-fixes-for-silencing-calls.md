@@ -1,7 +1,7 @@
 ---
 title: Trouble with Ring/Silent Mode on iPhone? Learn Quick Fixes for Silencing Calls!
-date: 2024-08-31T21:10:25.661Z
-updated: 2024-09-01T21:10:25.661Z
+date: 2024-11-04T02:56:52.030Z
+updated: 2024-11-04T20:48:03.311Z
 tags:
   - iphone
   - apple
@@ -69,6 +69,13 @@ Close
 
 ![selecting Mute action for the new AssistiveTouch button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customizing-assistivetouch-top-level-menu-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Mute action in AssistiveTouch's top-level menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customizing-assistivetouch-top-level-menu-5.jpg)
 
 Close
@@ -89,15 +96,23 @@ Follow these simple instructions to get this done:
 ![adding Mute action to Double-Tap gesture](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/setting-a-custom-action-for-assistivetouch-button-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Close
 
  Once set up, muting and unmuting your iPhone should be even easier. Simply perform the gesture to which you've assigned the Mute action, and it'll mute the device. Repeat it again to unmute.
 
 <!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Mute or Unmute iPhone Using Back Tap
 
  AssistiveTouch used to be the only way to mute or unmute your iPhone when the Ring/Silent switch stopped working for the longest time. And sure, it works fine and gets the job done, but for some, it isn't aesthetically pleasing to have the button on the screen at all times.
@@ -109,15 +124,8 @@ Close
 
 ![iPhone Accessibility settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-using-back-tap-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Back Tap feature under Touch Accessibility settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-using-back-tap-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 Close
 
  Once you're in the Back Tap accessibility menu, you can choose a couple of options:
@@ -127,20 +135,28 @@ Close
 
 ![Back Tap gesture options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-using-back-tap-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![setting Mute action to a Back Tap gesture](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-using-back-tap-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Close
 
  Now, whenever you want to mute your iPhone, simply perform the double-tap or triple-tap gesture on the back of your iPhone. To unmute it, perform the same gesture again.
 
  With certain iPhone cases, especially thicker ones, you might need to tap harder for the iPhone to register your taps and trigger the action.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Broken iPhone Ring/Silent Switch? No Problem
 
  A broken or malfunctioning Ring/Silent switch can make things inconvenient. This can be particularly problematic if you frequently switch between Ring and Silent sound profiles on your iPhone.
@@ -153,8 +169,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -162,4 +176,26 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-audio-visual-accomplishments-the-best-10-recording-devices-for-education-for-2024/"><u>[New] Audio-Visual Accomplishments The Best 10 Recording Devices for Education for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-proven-ways-to-create-engaging-intros-on-iphones-and-android/"><u>[New] In 2024, Proven Ways to Create Engaging Intros on iPhones & Android</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-simultaneous-capture-excellence-with-iphones-features/"><u>[New] Simultaneous Capture Excellence with iPhone's Features</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-top-5-secret-story-viewers-tools/"><u>[Updated] 2024 Approved Top 5 Secret Story Viewers' Tools</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-peals-of-laughter-fun-tones-websites-unveiled/"><u>2024 Approved Peals of Laughter Fun Tones Websites Unveiled</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/das-ultimative-handbuch-wie-man-partitionen-sicher-entfernt-und-formatierungsblocke-auf-einer-externen-festplatte-mit-windows-11-loscht/"><u>Das Ultimative Handbuch: Wie Man Partitionen Sicher Entfernt Und Formatierungsblöcke Auf Einer Externen Festplatte Mit Windows 11 Löscht</u></a></li>
+<li><a href="https://fox-that.techidaily.com/disconnected-fixing-idevices-wi-fi-problems-in-just-8-simple-steps/"><u>Disconnected? Fixing iDevice's Wi-Fi Problems in Just 8 Simple Steps</u></a></li>
+<li><a href="https://win-dash.techidaily.com/enhanced-connectivity-awaits-downloading-improved-wireless-network-drivers/"><u>Enhanced Connectivity Awaits - Downloading Improved Wireless Network Drivers</u></a></li>
+<li><a href="https://games-able.techidaily.com/evaluating-founders-series-vs-asus-vega-graphics/"><u>Evaluating Founder's Series Vs. ASUS Vega Graphics</u></a></li>
+<li><a href="https://fox-that.techidaily.com/experiencing-a-blinking-display-on-your-mobile-device-discover-7-remedies-to-restore-stability/"><u>Experiencing a Blinking Display on Your Mobile Device? Discover 7 Remedies to Restore Stability</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/fast-frame-freedom-in-photography-for-2024/"><u>Fast Frame Freedom in Photography for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-get-safari-displaying-photos-again-on-your-iphone-explore-these-9-fixes/"><u>How to Get Safari Displaying Photos Again on Your iPhone? Explore These 9 Fixes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-reset-network-settings-and-resolve-common-iphone-connectivity-issues/"><u>How to Reset Network Settings & Resolve Common iPhone Connectivity Issues</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solution-guide-restoring-functionality-to-an-inactive-apple-mobile-device/"><u>Solution Guide: Restoring Functionality to an Inactive Apple Mobile Device</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solve-your-iphone-issue-making-siri-suggestions-visible-again-with-easy-tips/"><u>Solve Your iPhone Issue: Making Siri Suggestions Visible Again with Easy Tips</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-ineffective-microphones-on-iphones-step-by-step-fixes/"><u>Solving Ineffective Microphones on iPhones: Step-by-Step Fixes</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solving-vertical-lines-and-bands-on-your-samsung-televisions-tips-and-solutions/"><u>Solving Vertical Lines and Bands on Your Samsung Televisions: Tips & Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/step-by-step-guide-entering-recovery-mode-on-your-ipad/"><u>Step-by-Step Guide: Entering Recovery Mode on Your iPad</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlock-the-full-potential-of-depth-effect-in-ios-16-a-guide-to-7-essential-repairs/"><u>Unlock the Full Potential of Depth Effect in iOS 16: A Guide to 7 Essential Repairs</u></a></li>
+</ul></div>
 

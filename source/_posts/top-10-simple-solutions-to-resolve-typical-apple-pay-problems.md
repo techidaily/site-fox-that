@@ -1,7 +1,7 @@
 ---
 title: Top 10 Simple Solutions to Resolve Typical Apple Pay Problems
-date: 2024-09-05T02:40:41.001Z
-updated: 2024-09-06T02:40:41.001Z
+date: 2024-11-01T06:29:11.801Z
+updated: 2024-11-05T02:56:40.591Z
 tags:
   - iphone
   - apple
@@ -49,31 +49,27 @@ thumbnail: https://thmb.techidaily.com/17e9bdf0ca4901af161680238bb761b46415b8f3d
  Go to **Settings > \[Your Name\] > Payment and Shipping > Apple Pay** . Then tap**Remove Apple Pay** . Afterward, sign out of your Apple ID, restart your iPhone, then sign in to your account and set up Apple Pay again.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 5\. Manually Select Your Card
 
 ![Woman changing the card on her mobile wallet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/woman-holding-card-and-smartphone.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Apple Pay automatically uses your default card for all payments—online and offline. Although this feature streamlines checkouts, the NFC chips on POS terminals don’t always read Apple Pay properly.
 
  In these instances, you’ll need to select your preferred card manually. To pay with a card manually, go to the**Wallet** app by double-clicking the**Side** button or the**Home** button and choose the card you want to use for the purchase. Afterward, bring your phone up near the POS terminal. If the reason why Apple Pay wasn’t working involved NFC connectivity, your transaction should finally push through.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Remove Then Re-Add Your Credit Card
 
  If you’ve already tried choosing a card manually, you might need to remove, add, and reshuffle the credit and debit cards in the Wallet app. This tip best applies to users with multiple cards. Keeping a malfunctioning card in your Wallet app compromises the other ones registered, causing payment glitches.
@@ -81,6 +77,13 @@ thumbnail: https://thmb.techidaily.com/17e9bdf0ca4901af161680238bb761b46415b8f3d
  Also, newly added credit cards might not register with Apple Pay right from the get-go. The system might need some time to read and update your payment preferences, especially if your new credit card has a different billing address.
 
  To add and remove cards, go to**Settings > Wallet & Apple Pay > Payment Cards** , then select**Remove This Card** on the malfunctioning card—or all your accounts. Afterward, restart your iPhone to clear the cache. Go back to the**Payment Cards** section and select**Add Card** . Repeat this as many times as needed.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Check Your Address and ZIP Code
 
@@ -96,26 +99,8 @@ thumbnail: https://thmb.techidaily.com/17e9bdf0ca4901af161680238bb761b46415b8f3d
 
 ![Screenshot of changing the billing address](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/screenshot-of-changing-billing-address.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Close
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 8\. Recheck Push Notifications
 
  Make sure Apple Pay push notifications are enabled. Although they don’t directly affect the app’s performance, it’s helpful to receive timely transaction notifications while configuring payments, especially if you’re adding and removing cards. In the worst cases, you might miss crucial error prompts and system updates.
@@ -124,40 +109,30 @@ Close
 
 ![Starting the iPhone settings homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/iphone-settings-homepage-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The notifications settings of an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/notifications-settings-iphone.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![The notifications settings of the Apple Pay wallet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/notifications-settings-wallet.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Close
+
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 9\. Recalibrate the Time and Date
 
  If you’re having trouble adding and removing credit cards to your Apple Pay app, check your device’s date and time. You might have accidentally changed it. Go to**Settings > General > Date and Time** , then toggle the**Set Automatically** feature to ensure that your device always stays updated no matter where you go.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 10\. Ask the Apple Pay Support Communities
 
  There’s a high chance that another Apple Pay user has already encountered the issue you’re experiencing before. Seek help from them. Visit [Apple’s Apple Pay Support Communities](https://discussions.apple.com/community/apple%5Fpay) , then click**Start a discussion** . Input your Apple ID and password, follow the account authentication procedure, read the terms and conditions, then create a username.
@@ -167,11 +142,25 @@ Close
 ![Screenshot of Apple Pay Community questions page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/screenshot-apple-pay-community-questions.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## If All Else Fails, Contact Customer Support
 
  Contact [Apple’s customer support](https://getsupport.apple.com) team if Apple Pay still isn’t working so that they can scan for hardware defects. They’ll likely check your NFC chip. However, hopefully one of the troubleshooting tips mentioned above gets Apple Pay properly running again on your iPhone.
@@ -184,8 +173,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -193,4 +180,19 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-educational-power-leveraging-youtube-in-academic-settings/"><u>[New] In 2024, Educational Power Leveraging YouTube in Academic Settings</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-twilight-treasures-iphone-night-photography-secrets/"><u>[Updated] In 2024, Twilight Treasures IPhone Night Photography Secrets</u></a></li>
+<li><a href="https://fox-that.techidaily.com/deciphering-the-offline-status-of-find-my-iphone-causes-and-how-to-reconnect/"><u>Deciphering the 'Offline' Status of Find My iPhone - Causes and How to Reconnect</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/execute-command-in-custom-directory-efficient-file-management/"><u>Execute Command in Custom Directory - Efficient File Management</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-an-unresponsive-iphone-flashlight-a-comprehensive-guide-with-12-solutions/"><u>Fixing an Unresponsive iPhone Flashlight - A Comprehensive Guide with 12 Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-incorrectly-tagged-individuals-in-your-apple-iphonesipads-pictures/"><u>Fixing Incorrectly Tagged Individuals in Your Apple iPhones/iPads Pictures</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-realme-c53-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Realme C53 to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-poco-c50-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Poco C50 | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/stop-the-annoyance-discover-these-10-fixes-for-persistent-iphone-app-crashes/"><u>Stop the Annoyance! Discover These 10 Fixes for Persistent iPhone App Crashes</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlock-the-potential-of-gpt-3-with-this-expert-openai-playground-walkthrough/"><u>Unlock the Potential of GPT-3 with This Expert OpenAI Playground Walkthrough</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unlocking-the-potential-of-sound-in-your-powerpoint-sessions/"><u>Unlocking the Potential of Sound in Your PowerPoint Sessions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlocking-the-secrets-to-fixing-major-glitches-by-restarting-your-mobile/"><u>Unlocking the Secrets to Fixing Major Glitches by Restarting Your Mobile</u></a></li>
+</ul></div>
 

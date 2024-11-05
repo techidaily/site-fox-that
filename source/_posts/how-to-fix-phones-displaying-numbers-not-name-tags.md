@@ -1,7 +1,7 @@
 ---
 title: How to Fix Phones Displaying Numbers, Not Name Tags
-date: 2024-08-31T21:08:18.659Z
-updated: 2024-09-01T21:08:18.659Z
+date: 2024-10-31T03:16:31.428Z
+updated: 2024-11-05T03:56:30.947Z
 tags:
   - iphone
   - apple
@@ -30,15 +30,19 @@ thumbnail: https://thmb.techidaily.com/749c8b13fba53b16e3cca7c517e32ea283379a232
 
  However, this is usually a temporary issue and should fix itself. If this isn't the case, you can try a few quick fixes to get things back to normal quickly.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Restart Your iPhone
 
  A quick fix to getting your contact names back instead of phone numbers is to [restart your iPhone](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) . As with many other issues, a quick reboot usually does the trick, and you should be able to see your contact names instead of phone numbers in Messages.
 
  In the case that this doesn't work and you are still facing the same issue, follow the fixes below.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Add or Remove the Country Code
 
  Sometimes the issue may be caused by Messages not associating phone numbers without a country code with their entries in your contact list. For example, the international dialing code for the UK is +44\. If Messages thought that +447981234532 was different from 07981234532, it would show the chat under a phone number.
@@ -53,8 +57,18 @@ thumbnail: https://thmb.techidaily.com/749c8b13fba53b16e3cca7c517e32ea283379a232
 ![Contact Edit menu in iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/contact-edit-menu-in-ios.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![Add Country Code to Number](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Fix-Messages-Not-Showing-Contact-Number.jpg)
 
 Close
@@ -65,9 +79,6 @@ Close
 
  Once you fix a phone number, you'll see Messages will automatically merge the conversations split across different chats.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Toggle iCloud Contacts
 
  Some people have reported iCloud contacts being the reason behind this issue. If you are syncing your contacts with your iCloud account, it might be worth re-syncing them, which might fix the issue.
@@ -84,22 +95,26 @@ To do this, follow these steps on your iPhone:
 
 ![Settings on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Fix-Messages-Not-Showing-iCloud.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![Password and Security in iPhone iCloud Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/2FA-iPhone-Password-and-Security.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![Contacts in iCloud Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Fix-Messages-Not-Showing-iCloud-Contacts.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Close
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Fix Messages Showing Phone Numbers Instead of Contact Names
 
  Hopefully, these three fixes should fix the issue of the Messages app showing phone numbers instead of contact names, and you'll be able to resume your normal conservation with your friends and loved ones. If none of these tips work, you may want to contact Apple support to help you get it fixed.
@@ -110,8 +125,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -119,4 +132,26 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-investigating-the-top-10-cost-effective-video-collaboration-tools-in-corporateedu-settings-for-2024/"><u>[New] Investigating the Top 10 Cost-Effective Video Collaboration Tools in Corporate/Edu Settings for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-unlocking-content-easy-downloads-of-vimeo-hd-videos-mp4-for-2024/"><u>[New] Unlocking Content Easy Downloads of Vimeo HD Videos (MP4) for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-rooting-in-cities-cultivating-urban-biodiversity/"><u>[Updated] 2024 Approved Rooting in Cities Cultivating Urban Biodiversity</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-cutting-out-distractions-in-photos-for-2024/"><u>[Updated] Cutting Out Distractions in Photos for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-top-8-discreet-2023-video-downloader-apps/"><u>[Updated] Top 8 Discreet 2023 Video Downloader Apps</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/bridging-language-barriers-adding-subtitles-to-windows-media-player-for-2024/"><u>Bridging Language Barriers Adding Subtitles to Windows Media Player for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/conquering-the-ominous-iphone-screenscape-tips-and-tricks-for-restoring-display-colour/"><u>Conquering the Ominous iPhone Screenscape: Tips and Tricks for Restoring Display Colour</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fix-airpods-issues-top-10-solutions-for-zero-volume-and-distorted-sounds/"><u>Fix AirPods Issues: Top 10 Solutions for Zero Volume & Distorted Sounds</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-a6400-video-display-issues-troubleshooting-tips/"><u>In 2024, A6400 Video Display Issues Troubleshooting Tips</u></a></li>
+<li><a href="https://fox-that.techidaily.com/instant-remedies-to-restore-iphones-predictive-emoji-feature/"><u>Instant Remedies to Restore iPhone's Predictive Emoji Feature</u></a></li>
+<li><a href="https://fox-that.techidaily.com/missing-icon-crisis-on-your-iphone-implement-these-methods-to-bring-back-the-buttons/"><u>Missing Icon Crisis on Your iPhone? Implement These Methods to Bring Back the Buttons</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-iphone-icloud-backup-problems-with-these-9-reliable-fixes/"><u>Overcoming iPhone iCloud Backup Problems with These 9 Reliable Fixes</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-on-creating-a-pdf-from-assorted-jpeg-photos/"><u>Step-by-Step Tutorial on Creating a PDF From Assorted JPEG Photos</u></a></li>
+<li><a href="https://fox-that.techidaily.com/tackling-last-character-unavailable-glitch-on-your-ios-device-expert-strategies-for-success/"><u>Tackling 'Last Character Unavailable' Glitch on Your iOS Device: Expert Strategies for Success</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-6-solutions-when-family-sharing-isnt-working-a-comprehensive-guide/"><u>Top 6 Solutions When Family Sharing Isn't Working: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/trouble-with-airdrop-here-are-16-tips-to-get-it-running-smoothly-again-fast/"><u>Trouble With AirDrop? Here Are 16 Tips to Get It Running Smoothly Again Fast</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-continuous-errors-and-crashing-in-the-pc-version-of-msfs-2020/"><u>Troubleshooting Continuous Errors and Crashing in the PC Version of MSFS 2020</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/two-screens-one-goal-the-best-split-screen-video-apps-for-ios-and-android-users/"><u>Two Screens, One Goal The Best Split-Screen Video Apps for iOS and Android Users</u></a></li>
+<li><a href="https://fox-that.techidaily.com/understanding-why-your-cellphones-wi-fi-connection-may-lag-a-look-at-7-reasons/"><u>Understanding Why Your Cellphone's Wi-Fi Connection May Lag: A Look at 7 Reasons</u></a></li>
+</ul></div>
 

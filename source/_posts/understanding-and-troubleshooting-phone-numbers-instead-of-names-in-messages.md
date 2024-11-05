@@ -1,7 +1,7 @@
 ---
 title: Understanding and Troubleshooting Phone Numbers Instead of Names in Messages
-date: 2024-08-31T21:06:39.721Z
-updated: 2024-09-01T21:06:39.721Z
+date: 2024-11-02T02:03:02.683Z
+updated: 2024-11-05T12:27:28.141Z
 tags:
   - iphone
   - apple
@@ -36,9 +36,6 @@ thumbnail: https://thmb.techidaily.com/99b109a018ec790ad915859b13c869439cc17a979
 
  In the case that this doesn't work and you are still facing the same issue, follow the fixes below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ## Add or Remove the Country Code
 
  Sometimes the issue may be caused by Messages not associating phone numbers without a country code with their entries in your contact list. For example, the international dialing code for the UK is +44\. If Messages thought that +447981234532 was different from 07981234532, it would show the chat under a phone number.
@@ -52,14 +49,15 @@ thumbnail: https://thmb.techidaily.com/99b109a018ec790ad915859b13c869439cc17a979
 
 ![Contact Edit menu in iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/contact-edit-menu-in-ios.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Add Country Code to Number](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Fix-Messages-Not-Showing-Contact-Number.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Close
 
  You'll have to do this directly from the Contacts app because Messages doesn't recognize the phone number as a contact and hence won't make the change.
@@ -69,8 +67,12 @@ Close
  Once you fix a phone number, you'll see Messages will automatically merge the conversations split across different chats.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Toggle iCloud Contacts
 
  Some people have reported iCloud contacts being the reason behind this issue. If you are syncing your contacts with your iCloud account, it might be worth re-syncing them, which might fix the issue.
@@ -89,29 +91,24 @@ To do this, follow these steps on your iPhone:
 
 ![Password and Security in iPhone iCloud Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/2FA-iPhone-Password-and-Security.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Contacts in iCloud Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Fix-Messages-Not-Showing-iCloud-Contacts.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Close
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Fix Messages Showing Phone Numbers Instead of Contact Names
 
  Hopefully, these three fixes should fix the issue of the Messages app showing phone numbers instead of contact names, and you'll be able to resume your normal conservation with your friends and loved ones. If none of these tips work, you may want to contact Apple support to help you get it fixed.
@@ -122,8 +119,6 @@ No advertising on the website.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -131,4 +126,24 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-instant-insight-snapshots-for-windows-enthusiasts/"><u>[Updated] 2024 Approved Instant Insight Snapshots for Windows Enthusiasts</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-the-top-5-cameras-for-professional-grade-twitch-broadcasting/"><u>2024 Approved The Top 5 Cameras for Professional-Grade Twitch Broadcasting</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/apple-iphone-15-pro-vs-pro-max/"><u>Apple iPhone 15 Pro Vs. Pro Max</u></a></li>
+<li><a href="https://fox-that.techidaily.com/apple-pay-declined-discover-the-6-key-methods-to-restore-your-purchasing-power/"><u>Apple Pay Declined: Discover the 6 Key Methods to Restore Your Purchasing Power</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721481133736-cant-access-your-vpn-from-an-iphone-try-these-7-effective-remedies-first/"><u>Can't Access Your VPN From an iPhone? Try These 7 Effective Remedies First</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/easy-guide-to-xiaomi-civi-3-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Xiaomi Civi 3 FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-your-safari-full-page-screenshot-woes-tips-and-tricks-for-a-smooth-experience/"><u>Fixing Your Safari Full Page Screenshot Woes: Tips & Tricks for a Smooth Experience</u></a></li>
+<li><a href="https://fox-that.techidaily.com/four-proven-fixes-for-disabled-icloud-services-on-your-apple-devices/"><u>Four Proven Fixes for Disabled iCloud Services on Your Apple Devices</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-voice-customization-leaders-beyond-echo-magic/"><u>In 2024, Voice Customization Leaders Beyond Echo Magic</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-repair-tips-the-definitive-guide-on-forced-reboots-and-navigating-recovery-mode-settings/"><u>IPhone Repair Tips: The Definitive Guide on Forced Reboots & Navigating Recovery Mode Settings</u></a></li>
+<li><a href="https://fox-that.techidaily.com/issue-with-iphone-wi-fi-try-these-five-methods-for-a-stable-connection/"><u>Issue with iPhone Wi-Fi? Try These Five Methods for a Stable Connection</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-unlock-free-video-blurring-easy-online-solution-for-2024/"><u>New Unlock Free Video Blurring Easy Online Solution for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/social-media-rhythms-to-mobile-melodies-setting-up-your-tiktok-ringtone-for-2024/"><u>Social Media Rhythms to Mobile Melodies Setting Up Your TikTok Ringtone for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/tackling-the-most-common-icloud-challenges-for-iphone-and-ipad-users-fix-them-here/"><u>Tackling the Most Common iCloud Challenges for iPhone and iPad Users – Fix Them Here</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-best-logitech-gaming-mice/"><u>The Best Logitech Gaming Mice</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlocking-iphone-secrets-forced-reboot-methods-and-diving-into-recovery-settings/"><u>Unlocking iPhone Secrets: Forced Reboot Methods & Diving Into Recovery Settings</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/566593-9781101444726-wonders-in-the-sky/"><u>Wonders in the Sky | Free Book</u></a></li>
+</ul></div>
 

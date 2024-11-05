@@ -1,7 +1,7 @@
 ---
 title: Solve Unresponsive Face ID Problems on iPhones with These 14 Key Fixes
-date: 2024-10-24T17:18:53.501Z
-updated: 2024-10-30T19:57:04.040Z
+date: 2024-11-02T22:21:48.893Z
+updated: 2024-11-04T17:03:39.074Z
 tags:
   - iphone
   - apple
@@ -55,15 +55,22 @@ And now, let's check out our Face ID fixes.
 
 ![The iPhone Settings app with the Face ID and Passcode option highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/apple-ios-16-4-settings-face-id-and-passcode-option-highlighted.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The Face ID and Passcode settings on iPhone with the Use Face ID For section highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/apple-ios-16-4-settings-face-id-and-passcode-use-face-id-for-highlighted.jpg)
 
 Close
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Allow Face ID in Third-Party Apps
@@ -103,16 +110,16 @@ Close
 
  Face ID uses infrared light invisible to the human eye. Apple designed the feature to work with hats, scarves, glasses, contact lenses, and many sunglasses. Unfortunately, most polarized sunglasses and lenses interfere with infrared light. If your device doesn't unlock with Face ID while wearing a pair of shades, take them off and try again.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Hold Your iPhone Correctly
 
 ![A person holding their iPhone in portrait orientation and using Face ID to unlock the device](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/iphone-unlocking-with-face-id.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  To use Face ID properly, hold your iPhone or iPad at a comfortable distance, not too far away or close to your face. Face ID works best at arm's length or closer (10-20 inches or 25–50 centimeters). If you cover or obstruct the Face ID sensors with something like your finger, you'll see a "Camera covered" message with an arrow pointing at the TrueDepth camera.
 
@@ -125,10 +132,10 @@ Close
  The Face ID components that stopped functioning should now work perfectly. But for security reasons, you must enter your passcode to re-enable Face ID after a restart.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Update iOS to the Latest Version
@@ -138,10 +145,10 @@ Close
 ![Apple iOS 16.3 iPhone Settings app Software Update option highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/apple-ios-16-3-iphone-settings-app-software-update-option-highlighted.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Apple iOS 16.3 iPhone Settings app Software Update no updates](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/apple-ios-16-3-iphone-settings-app-software-update-no-updates.jpg)
@@ -151,10 +158,10 @@ Close
  Apple regularly updates iOS and iPadOS to fix bugs, patch vulnerabilities, and improve its software. If Face ID doesn't work, the problem may be at a deeper software level. In that case,[update your iPhone](https://www.makeuseof.com/tag/update-iphone-ios-apps-data/) to the latest version of iOS by heading over to**Settings > General > Software Update** .
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 9\. Set Up an Alternate Appearance
@@ -182,13 +189,6 @@ Here's how to reset Face ID on your iPhone:
 
 ![The iPhone Settings app with the Reset Face ID option highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/apple-ios-16-3-iphone-settings-app-reset-face-id-option-highlighted.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Apple iOS 16.3 iPhone Settings app Set Up Face ID option highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/apple-ios-16-3-iphone-settings-app-set-up-face-id-option-highlighted.jpg)
 
  The iPhone Settings app with the Set Up Face ID option highlighted
@@ -201,6 +201,13 @@ Close
 
 ![iOS 16.3 Settings app with the Transfer or Reset iPhone option highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/apple-ios-16-3-settings-app-transfer-reset-iphone-option-highlighted.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The iPhone Settings app with the Reset option highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/apple-ios-16-3-settings-app-reset-iphone-option-highlighted.jpg)
 
 ![The iPhone Settings app with the Reset All Settings highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/apple-ios-16-3-iphone-settings-app-reset-all-settings-option-highlighted.jpg)
@@ -208,13 +215,6 @@ Close
 Close
 
  To reset your iPhone or iPad, venture into **Settings > General > Transfer or Reset iPhone > Reset** , then hit the**Reset All Settings** option. You'll need to enter your passcode to confirm the action. With the reset completed, set up Face ID again and see if it works.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 12\. Erase and Factory Reset Your iPhone
 
@@ -224,16 +224,16 @@ Close
 
  Did you recently get your iPhone's screen replaced? Or did you get it repaired for some hardware problem at an unauthorized service center? Face ID might only work after being fixed at an Apple Store or authorized repair shop. That's because official repairs need to authenticate the new Face ID sensor with Apple's servers. Using non-genuine Face ID parts might prevent the feature from functioning correctly.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 14\. Contact Apple Support
 
  If you've recently dropped your iPhone and damaged the TrueDepth camera, Face ID will probably crash on the setup screen, be unavailable, or not work at all. Face ID might also act up if your iPhone was dunked in the water or spent underwater for a long time. So, contact Apple Support to schedule a store visit in any of those cases.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Face ID Should Be Working Smoothly Now
 
@@ -256,15 +256,18 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/our-journey-to-glamorous-guruship-launching-an-aesthetic-channel-for-2024/"><u>[New] Your Journey to Glamorous Guruship Launching an Aesthetic Channel for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/arise-and-conquer-eliminating-critical-glitches-in-ue4/"><u>Arise and Conquer: Eliminating Critical Glitches in UE4</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/backpack-essentials-for-filming-tours/"><u>Backpack Essentials for Filming Tours</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/crafting-an-authentic-online-presence-in-the-world-of-fb/"><u>Crafting an Authentic Online Presence in the World of FB</u></a></li>
-<li><a href="https://fox-that.techidaily.com/diy-solutions-for-overcoming-the-iphone-black-display-problem/"><u>DIY Solutions for Overcoming the iPhone Black Display Problem</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-realme-gt-5-pro-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Realme GT 5 Pro Phone Hassle-Free</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/on-the-go-bibliophiles-choice-expert-insights-into-kobo-clara-hd/"><u>On-the-Go Bibliophile's Choice: Expert Insights Into Kobo Clara HD</u></a></li>
-<li><a href="https://fox-that.techidaily.com/overcome-your-chatgpt-iphone-problems-with-these-proven-9-fixes/"><u>Overcome Your ChatGPT iPhone Problems with These Proven 9 Fixes</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721449830266-struggling-with-find-my-iphone-heres-why-it-shows-offline-and-how-to-fix-it/"><u>Struggling with Find My iPhone? Here’s Why It Shows ‘Offline’ & How to Fix It!</u></a></li>
-<li><a href="https://fox-that.techidaily.com/top-strategies-to-solve-continuous-airpod-connectivity-issues-with-iphone/"><u>Top Strategies to Solve Continuous AirPod Connectivity Issues with iPhone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-connectivity-handbook-for-insta-and-tik/"><u>[New] The Ultimate Connectivity Handbook for Insta & Tik</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-download-mastery-securing-the-livestream-lifeline/"><u>2024 Approved Download Mastery Securing the Livestream Lifeline</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-insider-tips-skyrocketing-your-canva-experience/"><u>2024 Approved Insider Tips Skyrocketing Your Canva Experience</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-melodic-mastery-add-songs-to-video-seamlessly-on-windows-11-pcs/"><u>2024 Approved Melodic Mastery Add Songs to Video Seamlessly on Windows 11 PCs</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-advice-how-to-repair-missing-disc-drive-controller-or-device-driver-alerts/"><u>Expert Advice: How To Repair Missing Disc Drive Controller or Device Driver Alerts</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-oneplus-ace-2-pro-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix OnePlus Ace 2 Pro Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/icloud-desync-woes-heres-the-ultimate-solution-for-data-alignment/"><u>ICloud Desync Woes? Here's the Ultimate Solution for Data Alignment</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-honor-x9b-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Honor X9b | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-snap-savvy-8-insider-fixes-and-hacks-for-conquering-common-camera-roll-troubles/"><u>IPhone Snap Savvy: 8 Insider Fixes and Hacks for Conquering Common Camera Roll Troubles</u></a></li>
+<li><a href="https://fox-that.techidaily.com/rotation-locked-learn-how-to-activate-landscape-on-your-ios-gadget/"><u>Rotation Locked? Learn How to Activate Landscape on Your iOS Gadget</u></a></li>
+<li><a href="https://fox-that.techidaily.com/struggling-with-iphone-vpn-connection-issues-here-are-7-effective-solutions/"><u>Struggling with iPhone VPN Connection Issues? Here Are 7 Effective Solutions</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-contacts-on-vivo-s17-pro-without-backup-by-fonelab-android-recover-contacts/"><u>The way to recover deleted contacts on Vivo S17 Pro without backup.</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-overcoming-windows-compatibility-issues-with-your-xbox-360-ds4-controller/"><u>Troubleshooting Guide: Overcoming Windows Compatibility Issues with Your Xbox 360 DS4 Controller</u></a></li>
 </ul></div>
 

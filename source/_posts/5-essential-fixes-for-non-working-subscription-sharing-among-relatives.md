@@ -1,7 +1,7 @@
 ---
 title: 5 Essential Fixes for Non-Working Subscription Sharing Among Relatives
-date: 2024-09-05T02:40:40.732Z
-updated: 2024-09-06T02:40:40.732Z
+date: 2024-10-28T18:58:10.533Z
+updated: 2024-11-05T00:23:09.929Z
 tags:
   - iphone
   - apple
@@ -27,6 +27,13 @@ thumbnail: https://thmb.techidaily.com/6a3b42ee0f491feaaae6060437bee4c1fe86f210f
 ![Apple's System Status page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/apple-s-system-status-page.jpeg)
 
  This will hardly be the culprit, but it's worth checking before going into the more detailed fixes.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Turn on Purchase Sharing and Share With Family
 
@@ -75,11 +82,18 @@ Here's a quick way to do it on your browser:
 ![Dreamchild's Apple ID personal information page on the Apple ID website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/dreamchild-s-apple-id-personal-information-page-on-the-apple-id-website.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 4\. Sign Out and Sign In to Media & Purchases
 
  First, you must ensure you're using the same Apple ID for Family Sharing and Media & Purchases. You can find it in**Settings** \>**Family** \>**Your Name** \>**Purchases** \>**Apple ID for Purchases** . Confirm that your Apple ID for purchases is the same as your regular Apple ID.
@@ -92,28 +106,17 @@ Here's a quick way to do it on your browser:
 
 ![Settings home screen on iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/1-1.jpeg)
 
-<!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Media & Purchases sub-settings in Apple ID menu on iOS Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/2-1.jpeg)
 
 ![Prompt to confirm Media & Purchases sign out on iOS Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/3-2.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Close
 
 ## 5\. Sign Out, Restart, and Sign In
@@ -130,20 +133,15 @@ Close
 
 ![Prompt to enter Apple ID password](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/2-prompt-to-enter-apple-id-password.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![iOS Settings with Apple ID signed out](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/ios-settings-with-apple-id-signed-out.jpeg)
 
-<!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Close
 
 If the problematic device is a Mac, do this instead:
@@ -155,20 +153,8 @@ If the problematic device is a Mac, do this instead:
 
 ![System Settings Apple ID page displaying sign out button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/system-settings-apple-id-page-displaying-sign-out-button.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  This should refresh the App Store and other apps, and it should now recognize that the signed-in Apple ID has access to the shared subscriptions.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Add the Family Member Again
 
  As an extension of refreshing it all, you can re-organize the Family Sharing group by disbanding it and adding everyone back again.
@@ -181,20 +167,22 @@ Here's how to do it on iOS and iPadOS:
 
 ![Family menu on iOS 16 Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/1.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Faizah's Family menu displaying option to Remove Faizah from Family](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/faizah-s-family-menu-displaying-option-to-remove-faizah-from-family.jpeg)
 
 <!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Close
 
 If you're on a Mac, follow these steps instead:
@@ -206,17 +194,12 @@ If you're on a Mac, follow these steps instead:
 ![Family member sub-window in System Settings on macOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/family-member-sub-window-in-system-settings-on-macos.jpeg)
 
 <!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
+  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  If you want to learn more about managing your family members, you can read our guide on [how to stop using Apple Family](https://www.makeuseof.com/how-to-stop-apple-family-sharing-or-remove-members/) .
 
 ## Check Payments if All Else Fails
@@ -233,8 +216,6 @@ If you're on a Mac, follow these steps instead:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -242,4 +223,17 @@ If you're on a Mac, follow these steps instead:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/avoid-ps5-mistake-4-warning-signs/"><u>Avoid PS5 Mistake: 4 Warning Signs</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/connect-to-live-broadcasts-activating-mobile-fm-radio-functionality-on-iphonesandroids/"><u>Connect to Live Broadcasts: Activating Mobile FM Radio Functionality on iPhones/Androids</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/decoding-smart-technology-which-powers-up-your-life-better-llama-or-gpt-4/"><u>Decoding Smart Technology: Which Powers Up Your Life Better, Llama or GPT-4</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-unveiling-the-most-effective-budget-friendly-video-collaboration-tools-for-companies-and-classrooms/"><u>In 2024, Unveiling the Most Effective Budget-Friendly Video Collaboration Tools For Companies & Classrooms</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-depth-analysis-the-powerhouse-that-is-dji-phantom-3/"><u>In-Depth Analysis The Powerhouse That Is DJI Phantom 3</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-messenger-issues-solved-why-are-my-images-missing/"><u>IPhone Messenger Issues Solved: Why Are My Images Missing?</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/on-demand-video-preservation/"><u>On-Demand Video Preservation</u></a></li>
+<li><a href="https://fox-that.techidaily.com/track-down-your-vanished-iphone-expert-tips-on-utilizing-find-my-feature/"><u>Track Down Your Vanished iPhone - Expert Tips on Utilizing Find My Feature</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-a-broken-proximity-detector-on-your-apple-device/"><u>Troubleshooting a Broken Proximity Detector on Your Apple Device</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-steps-making-your-airpods-seamlessly-sync-with-multiple-iphonesipads/"><u>Troubleshooting Steps: Making Your AirPods Seamlessly Sync with Multiple iPhones/iPads</u></a></li>
+</ul></div>
 

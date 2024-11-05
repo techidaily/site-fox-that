@@ -1,7 +1,7 @@
 ---
 title: Experiencing Issues with FaceTime? Try These 15 Methods for Immediate Repairs
-date: 2024-08-31T21:08:53.985Z
-updated: 2024-09-01T21:08:53.985Z
+date: 2024-11-03T17:55:40.804Z
+updated: 2024-11-05T08:45:01.212Z
 tags:
   - iphone
   - apple
@@ -44,13 +44,17 @@ thumbnail: https://thmb.techidaily.com/43ea76cba9094b7e586764e6bda808f45025f3885
 
  Play the video back to find out if there are any problems with the audio or video you recorded. You'll need to [troubleshoot your iPhone's camera issues](https://www.makeuseof.com/tag/iphone-camera-not-working/) first if so.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Turn On Your Camera and Microphone in FaceTime
 
 ![FaceTime controls on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/08/FaceTime-controls-on-iPhone.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If people can't see or hear you on FaceTime, it could be because you've accidentally disabled your camera or microphone for that call.
 
  During a FaceTime call, reveal more controls by tapping the screen on an iPhone or iPad or hovering your mouse over the FaceTime window on a Mac. Click the**Video** and**Microphone** icons to turn your camera or microphone on and off during the call.
@@ -58,8 +62,12 @@ thumbnail: https://thmb.techidaily.com/43ea76cba9094b7e586764e6bda808f45025f3885
  Similarly, if you can't see or hear the other person on FaceTime but they can see you, it's best to ask them to confirm if they have video and mic enabled on their end.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 3\. Test the Internet Connection on Your Device
 
  Unlike regular phone calls, FaceTime needs an internet connection to work. If FaceTime isn't connecting, load a webpage on your iPhone, iPad, or Mac to test the internet connection.
@@ -73,53 +81,53 @@ thumbnail: https://thmb.techidaily.com/43ea76cba9094b7e586764e6bda808f45025f3885
 ![iphone mobile service settings for apps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/iphone-mobile-service-settings-for-apps.JPEG)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Close
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## 4\. Restart Your iPhone, iPad, or Mac
 
  Restarting your device is one of the best troubleshooting tips for any app. When you [restart your iPhone](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) or [reboot your Mac](https://www.makeuseof.com/tag/how-to-restart-force-shut-down-mac/) , you'll often find that software glitches are resolved in the process. That's because the operating system is refreshed due to the device powering off and turning back on.
 
  It sounds simple, but don't overlook this useful step when FaceTime isn't working.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Find Out if FaceTime Is Down for Everyone
 
 ![apple system status webpage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/apple-system-status-webpage.jpg)
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Apple services sometimes experience technical issues, which means FaceTime won't connect or be available for anyone. When this happens, there's nothing you can do but wait for Apple to implement a solution.
 
  Take a look at the current status of every Apple service on [Apple's System Status page](https://www.apple.com/support/systemstatus/) . If the status indicator next to FaceTime isn't green, it means the service is experiencing an outage and you'll need to wait.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ## 6\. Check if FaceTime Works in Your Country
 
  Unfortunately, FaceTime isn't available worldwide—although it certainly comes close. It also isn't available with every single network provider.
 
  Take a look at [Apple's carrier support page](https://support.apple.com/HT204039) to find out if your carrier supports FaceTime in your country. If FaceTime isn't available where you live, you might be able to bypass these limitations by using a [free VPN app for your iPhone](https://www.makeuseof.com/best-free-vpn-iphone-ipad/) .
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. Make Sure You Use the Right Contact Details
 
  On your iPhone, you can check your own FaceTime contact details by going to **Settings > FaceTime > You Can Be Reached By FaceTime At** . Ask the person you're calling to do the same to make sure you have the right details for them.
 
 ![iphone stock app settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/iphone-stock-app-settings.JPEG)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![iphone facetime settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/iphone-facetime-settings.JPEG)
 
@@ -150,24 +158,12 @@ For Group FaceTime chats, you need one of the following devices:
 
  If FaceTime doesn't connect for anyone at all, there must be an issue with your device or internet connection. However, if FaceTime isn't working with one person in particular, the problem probably lies at their end.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 ## 10\. Update the Software on Your Device
 
  FaceTime might run into issues if you aren't running the latest software on your iPhone, iPad, or Mac. Update your device to the latest OS release to fix this issue. Also, make sure the person you're trying to call updates their device as well.
 
  On an iPhone or iPad, go to**Settings > General > Software Update** . On a Mac, go to**System Settings > General > Software Update** to check for a newer version.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ## 11\. Set the Date and Time Automatically
 
  Apple suggests you set the date and time automatically if FaceTime isn't working on your iPhone, iPad, or Mac. Most of us do this anyway, but you should ensure it's enabled in the settings on your device.
@@ -179,22 +175,20 @@ For Group FaceTime chats, you need one of the following devices:
 ![iPhone General settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/iphone-general-settings.JPEG)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![iphone date and time settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/iphone-date-and-time-settings.JPEG)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 Close
 
  On a Mac, go to**System Settings > General > Date & Time** . Toggle on**Set time and date automatically** at the top. You may need to click the padlock and enter your Mac's admin password to unlock changes first.
 
 ![date and time settings on mac](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/date-and-time-settings-on-mac-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 12\. Temporarily Disable FaceTime in Settings
 
  You can turn FaceTime off and on from the FaceTime settings menu on your iPhone, iPad, or Mac. You might need to sign back into your Apple ID account when you turn it on again.
@@ -205,10 +199,14 @@ Close
 
 ![iphone facetime settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/iphone-facetime-settings.JPEG)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ![iphone facetime toggled off in settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/iphone-facetime-toggled-off-in-settings.JPEG)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close
 
@@ -222,9 +220,6 @@ Close
 
 ![iphone facetime settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/iphone-facetime-settings.JPEG)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![sign out of facetime popup on iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/sign-out-of-facetime-popup-on-iphone.JPEG)
 
 Close
@@ -243,9 +238,6 @@ Close
 
 ![allowed apps in iphone content and privacy restriction settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/allowed-apps-in-iphone-content-and-privacy-restriction-settings.JPEG)
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Close
 
  On a Mac, go to**System Settings > Screen Time** **\>** **Content & Privacy > App Restrictions** . Ensure that**Camera** and**FaceTime** are enabled.
@@ -253,13 +245,14 @@ Close
 ![app restrictions on mac](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/app-restrictions-on-mac.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  If prompted on either device, enter your Screen Time passcode, which usually differs from your device passcode.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 15\. Enable Certain Ports in Your Firewall
 
  FaceTime may not work on a Mac if your computer firewall blocks the necessary connections. This can happen with third-party firewalls that aren't configured to work with FaceTime. You can fix these issues without disabling your firewall by opening particular ports.
@@ -276,8 +269,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -285,4 +276,21 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-10-best-free-photo-collage-apps-for-iphone/"><u>[New] 2024 Approved 10 Best FREE Photo Collage Apps for iPhone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-artistic-arenas-of-2022s-olympians/"><u>[New] Artistic Arenas of 2022'S Olympians</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-introduction-to-stories-essence-and-art/"><u>[Updated] 2024 Approved Introduction to Stories' Essence and Art</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-streaming-wars-the-digital-platform-showdown/"><u>[Updated] Streaming Wars The Digital Platform Showdown</u></a></li>
+<li><a href="https://fox-that.techidaily.com/eliminating-liquid-detection-warnings-on-iphones-with-usb-c-what-you-need-to-know/"><u>Eliminating Liquid Detection Warnings on iPhones with USB-C - What You Need to Know</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-on-samsung-galaxy-s24plus-by-drfone-android/"><u>How to Bypass FRP on Samsung Galaxy S24+?</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-infinix-smart-8-hd-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Infinix Smart 8 HD phone? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-oppo-find-x7-ultra-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Oppo Find X7 Ultra Phone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On Oppo Reno 8T? | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/silence-no-more-top-17-ways-to-get-sms-alerts-and-sound-back-on-your-iphone/"><u>Silence No More: Top 17 Ways to Get SMS Alerts and Sound Back on Your iPhone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solutions-for-when-your-iphone-fails-to-pick-up-callers/"><u>Solutions for When Your iPhone Fails to Pick Up Callers</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-and-resolving-iphone-gps-connectivity-issues-when-location-data-is-missing/"><u>Troubleshooting and Resolving iPhone GPS Connectivity Issues When Location Data Is Missing</u></a></li>
+<li><a href="https://fox-that.techidaily.com/ultimate-guide-resolving-ringtone-issues-with-incoming-calls-on-an-iphone-device/"><u>Ultimate Guide: Resolving Ringtone Issues with Incoming Calls on an iPhone Device</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/unlocking-the-potential-of-adobe-presenters-video-features/"><u>Unlocking the Potential of Adobe Presenter's Video Features</u></a></li>
+</ul></div>
 

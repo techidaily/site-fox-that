@@ -1,7 +1,7 @@
 ---
 title: Stuck at Installing Apps on Your iPhone? Here Are 10 Quick Fixes to Get Them Working Again
-date: 2024-08-31T21:07:10.692Z
-updated: 2024-09-01T21:07:10.692Z
+date: 2024-10-31T02:33:25.181Z
+updated: 2024-11-05T05:35:31.556Z
 tags:
   - iphone
   - apple
@@ -39,20 +39,28 @@ thumbnail: https://thmb.techidaily.com/e6c4e66a053f4adf51b38aa148d1e7f1b0fe37b06
 ![iPhone Storage settings showing 30 GB of free space](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2019/12/iPhone-Storage-settings-showing-30-GB-of-free-space.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Internal iPhone storage is not expandable. You can't download new apps on your iPhone if you've already filled up your device with photos, videos, music, and other content.
 
 When this happens, an alert should pop up saying "Not Enough Storage."
 
  Go to**Settings > General > iPhone Storage** to see how much free space you have and take a look at which apps are using the most. There are plenty of ways to [create more free space on your iPhone](https://www.makeuseof.com/tag/iphone-storage-full-create-free-space-ios/) if you need to, such as offloading apps, uploading photos to the cloud, or deleting junk that you no longer need. You can do all of this from the iPhone storage settings.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Update Your Apple ID Details
 
 ![Apple ID Payment Information page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2019/12/Apple-ID-Payment-Information-page.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Even if you only download free apps from the App Store, you still need to have valid payment information and contact details linked to your Apple ID account. It's possible that the payment details on your account expired, so you should check if you need to update them.
 
@@ -79,11 +87,6 @@ To correct the date and time on your iPhone:
 
 ![Content & Privacy Restrictions for Installing Apps on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2019/12/Content-Privacy-Restrictions-for-Installing-Apps-on-iPhone.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
  The content and privacy restrictions on an iPhone let you limit settings, apps, or features to keep the device safe for children. However, those same limitations explain why you can't download new apps on your iPhone.
 
 To edit your restrictions:
@@ -98,9 +101,6 @@ To edit your restrictions:
 
 ![Quick Action menu for downloading app with pause and prioritize options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2019/12/Quick-Action-menu-for-downloading-app-with-pause-and-prioritize-options.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
  Sometimes, if your iPhone won't download apps, all you need to do to fix it is pause the download, then resume it again. You can do this from the Home Screen on your device.
 
  While an app is downloading, it should appear on the Home screen as a darkened app icon with a progress circle in the middle. Tap it to pause the download—causing a pause symbol to appear. Wait a few seconds, then tap it again to resume the download.
@@ -110,8 +110,18 @@ To edit your restrictions:
  Alternatively, you have the option to**Prioritize Download** from the quick-action menu. This is a good idea if your iPhone is downloading other content as well, since it prioritizes this app above all other downloads.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 7\. Sign Out of the App Store, Then Sign In Again
 
 ![Apple Sign In window for iPhone App Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2019/12/Apple-Sign-In-window-for-iPhone-App-Store.jpg)
@@ -127,12 +137,16 @@ To sign out of the App Store:
 3. Confirm you want to**Sign Out** .
 4. Now tap**Media & Purchases** again and sign in with your Apple ID account.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 8\. Quit Every App and Restart Your iPhone
 
 ![App Switcher view on iPhone with App Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2019/12/App-Switcher-view-on-iPhone-with-App-Store.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After downloading an app to your iPhone, it might appear as a white icon with gray lines running through it. This happens when an app doesn't download or install correctly. You can usually fix it by restarting your device. This step can also be useful if your iPhone won't download any apps from the App Store, since you'll also restart the App Store itself.
 
@@ -142,13 +156,30 @@ To sign out of the App Store:
 
  Wait 30 seconds after it powers off before pressing the**Side** or**Sleep/Wake** button again to restart it.
 
+<!-- affiliate ads begin -->
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 9\. Delete the App, Then Download It Again
 
 ![Delete Minecraft iPhone popup alert](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2019/12/Delete-Minecraft-iPhone-popup-alert.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Sometimes a download becomes so corrupted that the only way to fix it is deleting the half-downlaoded app and downloading it again from scratch. If you never used the app before, there's nothing to lose from doing this.
 
  However, if you were trying to update an app rather than download it for the first time, deleting it might also delete any data you have saved in the app. You should [make a backup of your iPhone](https://www.makeuseof.com/tag/how-to-backup-iphone-ipad/) before deleting apps to protect your data.
@@ -157,12 +188,16 @@ To sign out of the App Store:
 
  After deleting an app, restart your iPhone and download it again from the App Store.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 10\. Make Sure the App Works With Your iPhone
 
 ![App Store Information with Compatibility details](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2019/12/App-Store-Information-with-Compatibility-details.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Sometimes, you can't download or install an app because it's not compatible with your device. This might happen when the app depends on a piece of hardware your iPhone doesn't have—like Face ID or dual cameras—or when the app developer discontinues support for older versions of iOS.
 
@@ -172,9 +207,6 @@ To sign out of the App Store:
 
  If an app doesn't work with your device, you might need to [update iOS on your iPhone](https://www.makeuseof.com/tag/update-iphone-ios-apps-data/) to the latest available version. This is a good idea even if the app is compatible, since iOS updates often fix problematic software bugs.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ## Find Ways to Organize Your Downloaded Apps
 
  By now, you should be able to download as many apps as you want. If your iPhone still won't download apps from the App Store, contact [Apple Support](https://getsupport.apple.com/) for more help.
@@ -187,8 +219,6 @@ To sign out of the App Store:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -196,4 +226,22 @@ To sign out of the App Store:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/new-swift-navigation-for-iphone-zooming-features/"><u>[New] Swift Navigation for iPhone Zooming Features</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-exclusive-guide-to-the-best-10-vector-images-online/"><u>[Updated] Exclusive Guide to the Best 10 Vector Images Online</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-essential-steps-for-skype-capture-via-obs/"><u>[Updated] In 2024, Essential Steps for Skype Capture via OBS</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-perfect-your-storytelling-with-these-6-reel-apps/"><u>2024 Approved Perfect Your Storytelling with These 6 Reel Apps</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/banishing-facebook-broadcasts-from-laptoptablet/"><u>Banishing Facebook Broadcasts From Laptop/Tablet</u></a></li>
+<li><a href="https://fox-that.techidaily.com/cant-use-facetime-here-are-16-ways-to-fix-it-and-get-connected-again/"><u>Can't Use FaceTime? Here Are 16 Ways To Fix It and Get Connected Again</u></a></li>
+<li><a href="https://fox-that.techidaily.com/comprehensive-troubleshooting-checklist-for-all-iphones-discover-15-critical-tips/"><u>Comprehensive Troubleshooting Checklist for All iPhones - Discover 15 Critical Tips!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/has-someone-blocked-me-uncovering-the-truth-about-your-imessage-status/"><u>Has Someone Blocked Me? Uncovering the Truth About Your iMessage Status</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-rebooting-your-phone-resolves-most-technical-issues/"><u>How Rebooting Your Phone Resolves Most Technical Issues</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-set-up-miracast-in-windows-1011-fix-it-if-it-stops-working-solved/"><u>How to Set up Miracast in Windows 10/11; Fix It if It Stops Working? [Solved]</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/innovative-content-crafting-exploring-eight-key-impacts-of-artificial-intelligence-driven-chatbots/"><u>Innovative Content Crafting: Exploring Eight Key Impacts of Artificial Intelligence-Driven Chatbots</u></a></li>
+<li><a href="https://win-blog.techidaily.com/nier-replicant-remaster-launch-problem-fixes-and-solutions-available/"><u>NieR Replicant Remaster Launch Problem: Fixes and Solutions Available</u></a></li>
+<li><a href="https://fox-that.techidaily.com/rescue-your-frozen-iphone-seven-techniques-to-overcome-the-apple-logo-hurdle/"><u>Rescue Your Frozen iPhone: Seven Techniques to Overcome the Apple Logo Hurdle</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-guide-solutions-when-one-apple-earbud-fails-to-function/"><u>Troubleshooting Guide: Solutions When One Apple Earbud Fails to Function</u></a></li>
+<li><a href="https://fox-that.techidaily.com/urgent-update-discover-why-upgrading-to-ios-153-is-essential-today/"><u>Urgent Update: Discover Why Upgrading to iOS 15.3 Is Essential Today</u></a></li>
+</ul></div>
 

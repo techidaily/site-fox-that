@@ -1,7 +1,7 @@
 ---
 title: Why Does My iPhone Still Show Pictures I've Deleted From the Camera Roll? Top 8 Fixes Explored
-date: 2024-09-05T02:40:42.697Z
-updated: 2024-09-06T02:40:42.697Z
+date: 2024-10-28T21:08:29.001Z
+updated: 2024-11-04T22:29:34.893Z
 tags:
   - iphone
   - apple
@@ -44,12 +44,6 @@ Close
 
  Rebooting the system is a conventional fix to numerous bugs and errors. After you've removed a huge chunk of media from your storage, it's important to [restart your iPhone](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) . This will hopefully clear out any temporary hiccups causing your available storage to show incorrectly.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Update to the Latest iOS Software
 
  More often than not, there may be a minor bug in the current version of iOS you're using that's causing the problem. Apple usually fixes this in the next version of iOS, so make sure you have updated your iPhone to the latest iOS. To update your software, follow these steps:
@@ -81,32 +75,34 @@ Close
 
 ![iOS Settings General Page Open](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/ios-general-settings.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![date & time general settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/date-time-general-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![date & time set automatically toggle turned off](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/date-time-set-automatically-toggle-turned-off.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close
 
  Deleting these "ghost files" that reappear should help free up that extra space on your iPhone (and even iCloud). Don't forget to set the time option back to automatic when you're done!
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 5\. Disable iCloud Sync (After Completing a Backup)
 
  iCloud Photos allows you to upload your iPhone's pictures to iCloud automatically. While this is convenient and a good way to protect your photos, it can also lead to your photos taking up too much space in iCloud.
@@ -124,12 +120,26 @@ Close
 ![iCloud options under Apple ID settings on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/icloud-options-under-apple-id-settings-on-iphone.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![sync this iPhone toggle in iCloud photos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/sync-this-iphone-toggle-in-icloud-photos-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close
 
@@ -145,22 +155,24 @@ Close
 
 ![photos in iPhone settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/photos-in-iphone-settings-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![optimise iPhone storage option in iCloud settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/optimise-iphone-storage-option-in-icloud-settings.JPG)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close
 
-<!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. Factory Reset Your iPhone
 
  If you've tried all the above steps and your storage is still taken up by photos that don't exist, you should next opt for a [full iPhone reset](https://www.makeuseof.com/tag/how-to-factory-reset-iphone-ipad/) . This is a drastic measure, but it will hopefully clear out any persistent issues causing the storage glitch.
@@ -179,34 +191,24 @@ To factory reset your iPhone, follow these steps:
 
 ![Settings on iOS 17 showing the Transfer or Reset iPhone option highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/apple-ios-17-settings-transfer-or-reset-iphone-highlighted.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![reset iPhone options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/reset-iphone-options.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2024347/7443" target="_top" id="2024347">
-  <img src="//a.impactradius-go.com/display-ad/7443-2024347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024347/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Close
 
 <!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 8\. Contact Apple Support
 
  You need to get in touch with an expert when all else fails. If the problem persists even after a factory reset, then it's likely severe, and you should get professional support from Apple.
@@ -226,12 +228,6 @@ Close
 * [Offload apps](https://www.makeuseof.com/tag/delete-offload-apps-save-space-iphone-ipad/) that take up a great amount of storage.
 * Disable iCloud Photos if you don't use it—consider backing up photos to another cloud service.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Your iPhone Storage Can Breathe Now
 
  This iPhone and iCloud storage error, experienced by many, is definitely a pain. Fortunately, there are some ways around it. Hopefully, the methods presented here let you get your photo storage usage back to normal.
@@ -244,8 +240,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -253,4 +247,17 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-gaining-traction-on-youtube-the-successful-sponsorship-roadmap-by-famebit/"><u>[New] In 2024, Gaining Traction on YouTube The Successful Sponsorship Roadmap by FameBit</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-videography-equipment/"><u>[New] Top Videography Equipment</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721460468933-cant-adjust-the-volume-on-your-iphone-fix-it-with-these-7-remedies/"><u>Can't Adjust the Volume on Your iPhone? Fix It with These 7 Remedies!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/entertainment-unrestricted-discover-watch-and-enjoy-films-for-free-on-the-crackle-platform/"><u>Entertainment Unrestricted: Discover, Watch & Enjoy Films for Free on the Crackle Platform</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-oppo-a1x-5g-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Oppo A1x 5G in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/how-to-update-or-repair-faulty-graphics-drivers-for-an-optimized-oculus-session/"><u>How to Update or Repair Faulty Graphics Drivers for an Optimized Oculus Session</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721474710283-stuck-with-late-imessages-on-iphone-try-these-effective-methods-for-swift-communication/"><u>Stuck with Late iMessages on iPhone? Try These Effective Methods for Swift Communication.</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-inside-scoop-on-bingchatgpt-token-schemes-strategies-to-spot-and-sidestep-online-crypto-scams/"><u>The Inside Scoop on BingChatGPT Token Schemes - Strategies to Spot and Sidestep Online Crypto Scams</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721463571995-top-6-solutions-when-apple-wont-accept-your-card-get-paid/"><u>Top 6 Solutions When Apple Won't Accept Your Card: Get Paid!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721471667281-tutorial-to-prevent-unwanted-switching-of-airpods-across-various-apple-devices/"><u>Tutorial to Prevent Unwanted Switching of AirPods Across Various Apple Devices</u></a></li>
+</ul></div>
 

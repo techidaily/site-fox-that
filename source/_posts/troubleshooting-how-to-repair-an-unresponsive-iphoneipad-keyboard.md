@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting: How to Repair an Unresponsive iPhone/iPad Keyboard"
-date: 2024-10-26T16:34:03.955Z
-updated: 2024-10-30T18:15:25.852Z
+date: 2024-10-30T22:29:15.851Z
+updated: 2024-11-05T06:28:51.403Z
 tags:
   - iphone
   - apple
@@ -48,34 +48,13 @@ Close
 
 ![iphone keyboard language list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/iphone-keyboard-language-list.PNG)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![keyboard language list on iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/keyboard-language-list-on-iphone.PNG)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Close
 
 ## 2\. iPhone or iPad Keyboard Typing the Wrong Letters and Words
 
  Almost everyone has had a text message needlessly autocorrected by their iPhone or iPad. But if this happens too frequently, and there are more mistakes than accurate corrections, here's what you should do.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Test Your iPhone or iPad Screen
 
@@ -84,6 +63,13 @@ Close
  If your iPhone is also opening apps randomly when you're not touching the screen at all, this is a problem known as "ghost touch." You can try solutions such as cleaning your iPhone screen and replacing the screen protector to [fix ghost touch on your iPhone](https://www.makeuseof.com/tag/fix-ghost-touch-on-iphone/) .
 
  But if the cause of ghost touch is damaged hardware—for example, you dropped your iPhone recently, and there are visible screen cracks—you probably need to replace your iPhone's display. While we recommend getting it fixed by Apple, you have [options if you want to fix your iPhone's screen for cheap](https://www.makeuseof.com/tag/places-that-fix-iphone-screens-for-cheap/) .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Check Your Text Replacement Setting
 
@@ -95,42 +81,22 @@ Close
 
 ![expanded iphone keyboards setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/expanded-iphone-keyboards-setting.PNG)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![iphone text replacement setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/iphone-text-replacement-setting.PNG)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![removal of preset text in iphone text replacement setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/removal-of-preset-text-in-iphone-text-replacement-setting.PNG)
-
-<!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Close
 
 ## 3\. iPhone or iPad Keyboard Is Lagging
 
  If you're typing swiftly on your iPhone keyboard but the text takes a while to show up on the screen, the cause might be a temporary software glitch or an incorrect iPhone setting. Try the solutions below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Reset the Keyboard Dictionary
 
@@ -144,7 +110,21 @@ Close
 
 ![transfer or reset iphone settings confirmation window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_7385.JPEG)
 
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Close
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Review Your Touch Accommodations Settings in Accessibility
 
@@ -178,16 +158,23 @@ Close
 
 ![iphone accessibility setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/iphone-accessibility-setting.PNG)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![iphone touch accessibility setting with vibration toggled on](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/iphone-touch-accessibility-setting-with-vibration-toggled-on.PNG)
 
-Close
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+Close
 
 ## 5\. Physical Keyboard Not Working With Your iPad
 
@@ -198,6 +185,13 @@ Close
  If the keyboard connected to your iPad isn't working, it may be because it isn't compatible with your iPad model or the iPadOS version installed on your device.
 
  For example, Apple's Magic Keyboard for iPad accessory only works with selected iPad Pro and iPad Air models. You can refer to [Apple's iPad Keyboards page](https://www.apple.com/ipad-keyboards/) to identify the right keyboard case for your iPad.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Disconnect and Reconnect Your iPad Keyboard
 
@@ -218,10 +212,16 @@ Close
 ![iphone ios 17.0.3 software update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/img_7670.JPEG)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Close
@@ -245,24 +245,18 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-top-5-affordable-gaming-mice-and-keyboards-99plus-for-2024/"><u>[New] Top 5 Affordable Gaming Mice & Keyboards $99+ for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-boundless-treasure-tales-of-instagram-flair/"><u>[Updated] Boundless Treasure Tales of Instagram Flair</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-saving-your-whatsapp-chat-history-with-confidence/"><u>[Updated] In 2024, Saving Your WhatsApp Chat History with Confidence</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-how-to-move-and-manage-your-social-snapshots-locally/"><u>2024 Approved How To Move and Manage Your Social SnapShots Locally</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/best-free-iphone-14-plus-imei-checker-by-drfone-ios/"><u>Best Free iPhone 14 Plus IMEI Checker</u></a></li>
-<li><a href="https://fox-that.techidaily.com/bypassing-airdrop-hiccups-in-no-time-with-16-effective-techniques/"><u>Bypassing AirDrop Hiccups in No Time with 16 Effective Techniques</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/enhance-your-photography-journey-with-google-photos-tutorials/"><u>Enhance Your Photography Journey with Google Photos Tutorials</u></a></li>
-<li><a href="https://fox-that.techidaily.com/facing-challenges-with-your-apple-device-updates-use-our-9-top-tips/"><u>Facing Challenges with Your Apple Device Updates? Use Our 9 Top Tips</u></a></li>
-<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-itel-p55-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Itel P55 | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fix-predictive-emoji-issues-swiftly-a-guide-for-iphone-and-ipad-users/"><u>Fix Predictive Emoji Issues Swiftly - A Guide for iPhone and iPad Users</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-watch-hulu-outside-us-on-oneplus-open-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On OnePlus Open | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/latest-guide-on-ipad-23-and-apple-iphone-14-plus-icloud-activation-lock-bypass-by-drfone-ios/"><u>Latest Guide on iPad 2/3 and Apple iPhone 14 Plus iCloud Activation Lock Bypass</u></a></li>
-<li><a href="https://fox-that.techidaily.com/master-the-process-of-activating-recovery-mode-on-an-ipad-device/"><u>Master the Process of Activating Recovery Mode on an iPad Device</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/next-gen-odyssey-explore-the-best-of-windows-10s-apps-and-games-for-2024/"><u>Next-Gen Odyssey Explore the Best of Windows 10'S Apps & Games for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/resolving-iphones-usb-c-water-damage-warning-a-step-by-step-guide/"><u>Resolving iPhone's USB-C Water Damage Warning - A Step by Step Guide</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-guide-7-effective-solutions-when-iphone-wireless-charge-fails/"><u>Troubleshooting Guide: 7 Effective Solutions When iPhone Wireless Charge Fails</u></a></li>
-<li><a href="https://fox-that.techidaily.com/uncover-hidden-iphone-contacts-restore-and-resolve-disappearances/"><u>Uncover Hidden iPhone Contacts: Restore and Resolve Disappearances</u></a></li>
-<li><a href="https://fox-that.techidaily.com/unlocking-your-iphones-full-potential-6-common-issues-causing-slowness/"><u>Unlocking Your iPhone's Full Potential: 6 Common Issues Causing Slowness</u></a></li>
-<li><a href="https://fox-that.techidaily.com/why-wont-my-iphone-touchscreen-respond-exploring-7-critical-factors/"><u>Why Won't My iPhone Touchscreen Respond? Exploring 7 Critical Factors</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-expertly-selected-graphics-cards-for-peak-streaming-clarity/"><u>[New] In 2024, Expertly Selected Graphics Cards for Peak Streaming Clarity</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-high-end-8-cam-modifiers-for-crystal-clear-feeds/"><u>[New] In 2024, High-End 8 Cam Modifiers for Crystal Clear Feeds</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-enhancing-photos-with-text-a-windowsmac-methodology-for-2024/"><u>[Updated] Enhancing Photos with Text A Windows/Mac Methodology for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/chirp-with-charisma-producing-text-memes-now/"><u>Chirp with Charisma Producing Text Memes Now</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/enhancing-vimeo-videos-with-effective-end-credits-for-2024/"><u>Enhancing Vimeo Videos with Effective End Credits for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixed-why-safaris-full-screen-screenshot-feature-might-be-malfunctioning-and-how-to-resolve-it/"><u>Fixed: Why Safari's Full-Screen Screenshot Feature Might Be Malfunctioning & How To Resolve It</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-not-buzzing-when-you-expect-it-to-try-these-eight-effective-fixes-for-quiet-modes/"><u>IPhone Not Buzzing When You Expect It To? Try These Eight Effective Fixes for Quiet Modes!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resetting-your-iphone-safely-without-erasing-data/"><u>Resetting Your iPhone Safely Without Erasing Data</u></a></li>
+<li><a href="https://techtrends.techidaily.com/separating-fact-from-fiction-is-your-connection-to-nintendo-switch-online-compromised-or-just-server-issues/"><u>Separating Fact From Fiction: Is Your Connection to Nintendo Switch Online Compromised or Just Server Issues?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-the-ghost-touch-issue-on-your-iphone-discover-10-effective-solutions/"><u>Solving the Ghost Touch Issue on Your iPhone: Discover 10 Effective Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/struggling-with-iphone-wireless-charge-discover-our-erhaps-top-7-solutions-for-restoring-wireless-power-to-your-iphone/"><u>Struggling With iPhone Wireless Charge? Discover Our Erhaps, Top 7 Solutions for Restoring Wireless Power to Your iPhone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-missing-contact-information-on-your-iphone-a-step-by-step-guide/"><u>Troubleshooting Missing Contact Information on Your iPhone: A Step-by-Step Guide</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/what-you-want-to-know-about-two-factor-authentication-for-icloud-on-your-apple-iphone-6s-plus-by-drfone-ios/"><u>What You Want To Know About Two-Factor Authentication for iCloud On your Apple iPhone 6s Plus</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Fixing an Unresponsive iPhone Screen - Expert Solutions for You
-date: 2024-08-31T21:09:14.402Z
-updated: 2024-09-01T21:09:14.402Z
+date: 2024-11-01T01:46:05.842Z
+updated: 2024-11-05T02:46:59.485Z
 tags:
   - iphone
   - apple
@@ -40,9 +40,6 @@ thumbnail: https://thmb.techidaily.com/98af3c33462a260586336a96ddc2cbdb473875d7a
 
  If there’s a problem with your digitizer, there are a few fixes you can try before taking your iPhone to a repair shop. However, if it’s the LCD, you’ll need to start searching for repairs straight away.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ## Make Sure Touch Accommodations Is Off
 
  Some users might have activated certain accessibility settings that can interfere with how the touchscreen works. The most common culprit is Touch Accommodations. If enabled, your iPhone screen will seem buggy and you’ll have a difficult time navigating the touchscreen.
@@ -57,9 +54,6 @@ If your screen is working, but not correctly, this could be the cause.
 
  Alternatively, you can click the Side button three times and this will disable it on most newer devices. For older devices, you may need to tap the Home button three times.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ## Back Up and Factory Reset Your iPhone
 
  If your touchscreen isn’t working correctly, you might have a software issue. While this is rare, it can happen.
@@ -69,17 +63,24 @@ If your screen is working, but not correctly, this could be the cause.
 ![iphone erase content](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/iphone-erase-content.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  If you can’t navigate here, you’ll need to plug your iPhone into a computer to perform a factory reset. After resetting, in rare cases, your touchscreen will work again.
 
  Related:[How to Factory Reset Your iPhone or iPad](https://www.makeuseof.com/tag/how-to-factory-reset-iphone-ipad/)
 
  If you do choose to get your iPhone repaired, you’ll most likely need to do this anyway. This ensures that the technician won’t be able to access your personal data. They may also need to test Face ID to make sure the repair worked and will need the phone to be unlocked to do so, which means you’re better off erasing all your data first.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Getting Your iPhone Screen Repaired
 
  If the above fixes didn’t work, this means you almost certainly need a physical repair.
@@ -97,8 +98,12 @@ If your screen is working, but not correctly, this could be the cause.
  Related:[Learn to Fix Your Own Gadgets With Help From These Sites](https://www.makeuseof.com/tag/fix-gadgets-help-websites/)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Using Your iPhone Without a Touchscreen
 
  If your iPhone isn’t working but you need to access certain files, you can still do that. To do so, you’ll need to activate Voice Control. This can be helpful for backing up and restoring your iPhone.
@@ -107,6 +112,13 @@ If your screen is working, but not correctly, this could be the cause.
 
 ![iphone voice control](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/iphone-voice-control.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If Siri’s enabled, you can enable Voice Control by saying “Hey Siri, turn on Voice Control.” Once enabled, you can access your iPhone without using the touchscreen.
 
  Related:[Where to Fix iPhone Screens for Cheap: Places to Check Out](https://www.makeuseof.com/tag/places-that-fix-iphone-screens-for-cheap/)
@@ -114,8 +126,12 @@ If your screen is working, but not correctly, this could be the cause.
  To use Voice Control, you should familiarize yourself with the basic commands.[Apple](https://support.apple.com/HT210417) has a full list of these commands on its website.
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## iPhone Screen Not Working? These Fixes Should Have Helped
 
  If your iPhone stopped responding to touch after damage, heat, or salt water exposure, a repair is likely needed. However, a user might have activated Touch Accommodations, which could be the culprit. There are also rare cases where a software problem can cause the touchscreen to work and a factory reset could solve the problem.
@@ -128,8 +144,6 @@ If your screen is working, but not correctly, this could be the cause.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -137,4 +151,24 @@ If your screen is working, but not correctly, this could be the cause.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-unlocking-youtubes-encrypted-video-secrets/"><u>[Updated] 2024 Approved Unlocking YouTube's Encrypted Video Secrets</u></a></li>
+<li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-zte-blade-a73-5g-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from ZTE Blade A73 5G to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-smart-compilation-best-6-fb-lite-videos/"><u>2024 Approved Smart Compilation Best 6 FB Lite Videos</u></a></li>
+<li><a href="https://fox-that.techidaily.com/diy-solutions-for-deactivating-your-sim-addressing-mm-2-setup-failures/"><u>DIY Solutions for Deactivating Your SIM: Addressing MM 2 Setup Failures</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-some-outdated-hardware-drivers-with-windows-device-manager-on-windows-1110-by-drivereasy-guide/"><u>How to identify some outdated hardware drivers with Windows Device Manager on Windows 11/10</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-improve-image-quality-when-shooting-on-an-iphone-with-lower-mp-cameras/"><u>How To Improve Image Quality When Shooting On An iPhone With Lower MP Cameras</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-zte-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from ZTE</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-utilize-the-find-my-tool-for-locating-a-lost-ios-device/"><u>How to Utilize the Find My Tool for Locating a Lost iOS Device</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-xiaomi-redmi-a2plus-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Xiaomi Redmi A2+ to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/integrating-my-bots-into-board-games-learning-experience-and-creative-processes/"><u>Integrating My Bots Into Board Games Learning Experience & Creative Processes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/intensify-visual-power-with-graphics-upgrade-for-app-guard-edge/"><u>Intensify Visual Power with Graphics Upgrade for App Guard Edge</u></a></li>
+<li><a href="https://fox-that.techidaily.com/say-goodbye-to-fuzzy-memories-7-solutions-for-enhancing-your-iphones-camera-quality/"><u>Say Goodbye to Fuzzy Memories: 7 Solutions for Enhancing Your iPhone's Camera Quality</u></a></li>
+<li><a href="https://fox-that.techidaily.com/step-by-step-guide-resolving-your-iphone-freezing-issues/"><u>Step-by-Step Guide: Resolving Your iPhone Freezing Issues</u></a></li>
+<li><a href="https://blog-min.techidaily.com/troubleshooting-a-non-responsive-windows-start-menu-effective-solutions/"><u>Troubleshooting a Non-Responsive Windows Start Menu: Effective Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/ultimate-guide-clear-up-blurry-photos-with-these-7-iphone-camera-tips/"><u>Ultimate Guide: Clear Up Blurry Photos with These 7 iPhone Camera Tips</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unable-to-install-ios-updates-on-iphoneipad-here-are-9-troubleshooting-steps/"><u>Unable to Install iOS Updates on iPhone/iPad? Here Are 9 Troubleshooting Steps</u></a></li>
+<li><a href="https://fox-that.techidaily.com/why-is-my-phones-wi-fi-internet-so-slow-exploring-7-key-reasons/"><u>Why Is My Phone's Wi-Fi Internet So Slow? Exploring 7 Key Reasons</u></a></li>
+</ul></div>
 
