@@ -1,7 +1,7 @@
 ---
 title: "Solving iPhone 'SOS' Signal: 6 Effective Ways to Restore Your Phone"
-date: 2024-08-31T21:05:15.583Z
-updated: 2024-09-01T21:05:15.583Z
+date: 2024-11-11T16:37:21.405Z
+updated: 2024-11-15T16:00:33.343Z
 tags:
   - iphone
   - apple
@@ -38,11 +38,31 @@ Close
 
 ![iPhone cellular settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-settings-cellular-data-options.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![iPhone cellular data options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-settings-data-roaming.jpg)
 
 Close
 
  To enable Data Roaming on your iPhone, go to**Settings > Cellular > Cellular Data Options** . Then, toggle on the**Data Roaming** switch.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Switch to LTE
 
@@ -52,11 +72,15 @@ Close
 
 ![iPhone cellular data options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-cellular-data-options-voice-data-settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![iPhone 5G and LTE options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-voice-data-5g-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 Close
 
  Go to**Settings > Cellular > Cellular Data Options** like before, but this time tap**Voice & Data** . If**5G On** or**5G Auto** is selected, choose**LTE** and see if that gets rid of the SOS Only status.
@@ -66,33 +90,28 @@ Close
 ![iPhone user trying to force restart their device](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-user-trying-to-force-restart-their-device.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Of course, we have to mention the good old reboot technique. If you haven't yet tried turning your iPhone off and on again, let's go ahead and test it out. You'd be surprised how many little annoyances a quick restart can resolve.
 
 [The steps to restart your iPhone](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) are different depending on which model you have, but it's pretty easy nonetheless.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ## 5\. Check for Carrier Settings Update
 
  Sometimes, carriers roll out over-the-air updates that can solve problems with connectivity. To check if one is available for your iPhone, open**Settings** , then go to**General > About** and wait for a few seconds.
 
 ![iPhone Settings menu showing General](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-settings-general.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ![iPhone General settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-settings-general-about.jpg)
 
 Close
 
  If your device needs a carrier settings update, you'll get a pop-up on this screen. If you don't see one, you're up-to-date already.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 6\. Contact Your Carrier
 
  When all else fails, you should contact your carrier to see what's going on. Since having SOS Only status on your iPhone greatly limits the features you can use, you wouldn't want to have it for long.
@@ -100,8 +119,12 @@ Close
  There may be an issue with your cell service that's worth getting to the bottom of. So, visit your carrier's website and search for a contact or support page to get a customer support phone number.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Getting to the Bottom of "SOS Only"
 
  It's frustrating when you don't have cell service on your iPhone. So, we hope one of these solutions aids in getting your service up and running again.
@@ -114,8 +137,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -123,4 +144,26 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-the-ultimate-journey-in-sky-high-4k-clarity-for-2024/"><u>[New] The Ultimate Journey in Sky High 4K Clarity for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-pro-techniques-recording-your-twitch-showcase/"><u>2024 Approved Pro Techniques Recording Your Twitch Showcase</u></a></li>
+<li><a href="https://win11.techidaily.com/activating-windows-11-spatial-audio-setup-guide/"><u>Activating Windows 11: Spatial Audio Setup Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/enhance-your-iphone-experience-with-effective-battery-calibration-learn-how/"><u>Enhance Your iPhone Experience with Effective Battery Calibration – Learn How</u></a></li>
+<li><a href="https://fox-that.techidaily.com/experiencing-delay-in-iphone-messages-fix-with-these-9-tips/"><u>Experiencing Delay in iPhone Messages? Fix with These 9 Tips</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-fixes-for-paladins-stability-avoid-crashes-and-play-smoothly/"><u>Expert Fixes for Paladins Stability: Avoid Crashes and Play Smoothly</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fix-your-iphones-charge-on-hold-warning-in-just-8-steps/"><u>Fix Your iPhone's Charge-On-Hold Warning in Just 8 Steps!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-only-sos-issue-effective-methods-for-reviving-an-iphones-status-bar-features/"><u>Fixing 'Only SOS' Issue: Effective Methods for Reviving an iPhone's Status Bar Features</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-activate-and-restart-your-iphone-without-button-functionality-easy-fixes-for-common-issues/"><u>How To Activate and Restart Your iPhone Without Button Functionality - Easy Fixes for Common Issues</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/how-to-make-asmr-videos-all-you-need-to-know-for-2024/"><u>How to Make ASMR Videos All You Need to Know for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-apple-iphone-15-pro-max-to-mac-drfone-by-drfone-ios/"><u>How to Mirror Apple iPhone 15 Pro Max to Mac? | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/immersive-metaverse-reflections-inspirational-messages/"><u>Immersive Metaverse Reflections Inspirational Messages</u></a></li>
+<li><a href="https://fox-that.techidaily.com/navigating-iphone-bluetooth-pairing-for-beginners-a-simple-guide/"><u>Navigating iPhone Bluetooth Pairing for Beginners - A Simple Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/roblox-crashing-due-to-insufficient-memory-heres-how-to-resolve-it/"><u>Roblox Crashing Due to Insufficient Memory? Here's How to Resolve It!</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/step-up-your-english-game-with-mondly-insights/"><u>Step Up Your English Game with Mondly Insights</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/toms-tech-specs-expert-reviews-and-insightful-analyses/"><u>Tom's Tech Specs: Expert Reviews and Insightful Analyses</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-6-ways-to-restore-functionality-of-your-idevices-keypad/"><u>Top 6 Ways to Restore Functionality of Your iDevice's Keypad</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-apps-and-online-tools-to-track-infinix-smart-8-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Infinix Smart 8 Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721479762042-unstick-your-iphone-phone-calls-discover-these-10-fixes/"><u>Unstick Your iPhone Phone Calls – Discover These 10 Fixes!</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Your iPhone's Audio Problem: A Guide to Repairing the Microphone"
-date: 2024-08-31T21:01:17.314Z
-updated: 2024-09-01T21:01:17.314Z
+date: 2024-11-10T18:13:51.537Z
+updated: 2024-11-15T16:41:50.248Z
 tags:
   - iphone
   - apple
@@ -22,9 +22,23 @@ thumbnail: https://thmb.techidaily.com/188c04f255d93e67211a2465a27faabcbf2c001ac
 
  Test each microphone by recording using Voice Memos (bottom microphone), making a phone call on speakers (front microphone), and recording a video (back microphone). If all the microphones aren't working, it's most likely a hardware issue. If only one microphone isn't working or sounds muffled, continue to the next step.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. iPhone Microphone Muffled or Muted? Try Cleaning It
 
 ![iphone clean speaker](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/iphone-clean-speaker.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Brent Dirks/[MakeUseOf](https://www.makeuseof.com/author/brentdirks/)
 
@@ -35,9 +49,12 @@ thumbnail: https://thmb.techidaily.com/188c04f255d93e67211a2465a27faabcbf2c001ac
  Isopropyl alcohol breaks up grime and dries fast, so it won't damage your iPhone. Try using the highest percentage of isopropyl alcohol you can find. While you're at it,[clean your entire iPhone thoroughly](https://www.makeuseof.com/tag/clean-iphone-guide/) if it's not in a good shape.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 3\. Disconnect From Bluetooth Devices
 
 Close
@@ -46,9 +63,6 @@ Close
 
  This is a common issue with those who use Bluetooth headphones like AirPods or smart home systems. Check if you're connected to a Bluetooth device by [opening your iPhone's Control Center](https://www.makeuseof.com/how-to-use-customize-control-center-iphone/) , then toggle Bluetooth off. Alternatively, tap and hold it to view all your connected devices.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Make Sure Apps Have Microphone Permissions
 
 Close
@@ -57,16 +71,10 @@ Close
 
  To grant an app permission, head to**Settings** and select the affected app. Now, make sure the**Microphone** toggle is enabled.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Use an External Microphone or AirPods
 
 ![A guy holding AirPods Pro in charging case showing orange light](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/02/a-guy-holding-airpods-pro-in-charging-case-showing-orange-light.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
  Hamlin Rozario/[MakeUseOf](https://www.makeuseof.com/author/hamlin-rozario/)
 
  If you've tried all the above fixes but nothing is working, you can still use an external microphone with your iPhone. You can use this while you wait for a repair or even use an external microphone indefinitely if you can't afford a repair.
@@ -74,8 +82,12 @@ Close
  Most headphones, including Apple's AirPods, have built-in microphones. Since they connect via your iPhone's Lightning/USB-C port or Bluetooth, you won't have to rely on the built-in microphones for most tasks.
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 6\. Other Generic Fixes
 
 Close
@@ -92,8 +104,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -101,4 +111,19 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-a-complete-resource-for-aspiring-xbox-streaming-pros-for-2024/"><u>[New] A Complete Resource for Aspiring Xbox Streaming Pros for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-journey-from-monochrome-masterpieces-to-vivid-hdri-imagery/"><u>[Updated] In 2024, Journey From Monochrome Masterpieces to Vivid HDRI Imagery</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-the-minimum-view-count-for-youtube-success-stories/"><u>2024 Approved The Minimum View Count for YouTube Success Stories</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-x-professional-studio-for-windows/"><u>2024 Approved X-Professional Studio for Windows</u></a></li>
+<li><a href="https://fox-that.techidaily.com/comprehensive-troubleshooting-updatereset-your-screen-time-security-code-on-ios-and-macos-systems/"><u>Comprehensive Troubleshooting: Update/Reset Your Screen Time Security Code on iOS & macOS Systems</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-restore-natural-colors-to-a-yellowish-iphone-panel/"><u>How To Restore Natural Colors to A Yellowish iPhone Panel</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/how-to-transfer-your-outlook-contact-list-to-an-exterior-hard-disk/"><u>How to Transfer Your Outlook Contact List to an Exterior Hard Disk</u></a></li>
+<li><a href="https://fox-that.techidaily.com/lost-airpods-no-more-unveiling-11-tips-when-theyre-not-showed-in-find-my/"><u>Lost AirPods No More: Unveiling 11 Tips When They're Not Showed in 'Find My'</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolving-delayed-sms-delivery-issues-top-9-solutions-for-your-iphone/"><u>Resolving Delayed SMS Delivery Issues: Top 9 Solutions for Your iPhone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/speed-up-your-instagram-experience-6-effective-fixes-for-iphone-and-android/"><u>Speed Up Your Instagram Experience: 6 Effective Fixes for iPhone & Android</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unleash-potential-understanding-and-altering-account-numbers/"><u>Unleash Potential Understanding and Altering Account Numbers</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unveiling-the-elite-comprehensive-oculus-review-guide/"><u>Unveiling the Elite Comprehensive Oculus Review Guide</u></a></li>
+</ul></div>
 

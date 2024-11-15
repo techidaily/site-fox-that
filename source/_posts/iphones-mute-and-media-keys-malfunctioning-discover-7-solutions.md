@@ -1,7 +1,7 @@
 ---
 title: IPhone's Mute and Media Keys Malfunctioning? Discover 7 Solutions
-date: 2024-10-17T19:26:13.681Z
-updated: 2024-10-18T21:55:45.051Z
+date: 2024-11-08T18:06:45.539Z
+updated: 2024-11-15T19:20:18.034Z
 tags:
   - iphone
   - apple
@@ -31,9 +31,23 @@ thumbnail: https://thmb.techidaily.com/1fa3b9714516519d17cdc00ae160f98cb4b200553
 
  To check this, head to**Settings > Sounds & Haptics** and toggle on**Change with Buttons** . If this isn't enabled, this could be why your volume buttons aren't working. If it's already enabled, proceed to the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Remove Your iPhone From Its Case
 
 ![iPhone in a leather case](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/iphone-in-a-leather-case.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  iPhones are expensive, so it's likely that most of you use a case to protect them. In some instances, your case can interfere with your volume buttons. This is especially true with cases that have layers or have built-in screen protectors.
 
@@ -53,6 +67,13 @@ thumbnail: https://thmb.techidaily.com/1fa3b9714516519d17cdc00ae160f98cb4b200553
 
  After cleaning, wait a few minutes for the alcohol to dry. If your volume buttons are working now, great! If they are only working a bit better, that's a sign that they are still dirty, and you should keep cleaning them. It's worth [cleaning your entire iPhone if it's dirty](https://www.makeuseof.com/tag/clean-iphone-guide/) .
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Reset or Restore Your iPhone
 
  Sometimes, firmware updates can change how the buttons on our phones work. This is especially true for older iPhone models. If you recently updated your iPhone and the volume buttons stopped working, try [restarting your iPhone](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) by turning it off and on again.
@@ -62,13 +83,6 @@ thumbnail: https://thmb.techidaily.com/1fa3b9714516519d17cdc00ae160f98cb4b200553
  To do this, first, you'll need to [back up your iPhone](https://www.makeuseof.com/tag/how-to-backup-iphone-ipad/) . Then, go to **Settings > General > Transfer or Reset iPhone > Erase All Content and Settings** .
 
 ![iphone erase settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/iphone-erase-settings.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  This will wipe your phone clean and essentially make it like new. Before restoring a backup, go into the device and test the volume buttons. If they work, restore your backup.
 
@@ -86,33 +100,19 @@ thumbnail: https://thmb.techidaily.com/1fa3b9714516519d17cdc00ae160f98cb4b200553
 
 ![iphone screen volume control](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/iphone-screen-volume-control.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you use apps like Spotify, you can control the volume within the app without a physical button. If all else fails, there are still ways to control your volume without using the buttons. The easiest way is to use the Control Center.
 
  You can open the Control Center and adjust your volume by swiping down from the top-right corner of your iPhone. If your iPhone has a Home button, you'll need to swipe up from the bottom of the screen instead.
 
 ![iphone control panel volume control](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/iphone-control-panel-volume-control-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you have AirPods, you can say, "Hey Siri, turn up the volume." Other Bluetooth headphones typically have built-in volume controls, which you can use as well. This means that you won't have to keep going to your phone when you want to change the volume.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Control the Volume With AssistiveTouch
@@ -124,10 +124,10 @@ thumbnail: https://thmb.techidaily.com/1fa3b9714516519d17cdc00ae160f98cb4b200553
 ![assistive touch iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/IMG_2959.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Get Your Volume Buttons Repaired
@@ -161,22 +161,18 @@ thumbnail: https://thmb.techidaily.com/1fa3b9714516519d17cdc00ae160f98cb4b200553
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-expert-strategies-for-managing-facebook-lives-in-two-screens/"><u>[Updated] 2024 Approved Expert Strategies for Managing Facebook Lives in Two Screens</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-top-tips-streaming-via-obs-directly-to-facebook/"><u>[Updated] 2024 Approved Top Tips Streaming via OBS Directly to Facebook</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-cultivating-partnerships-for-commercial-success-on-youtube-for-2024/"><u>[Updated] Cultivating Partnerships for Commercial Success on Youtube for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-discover-top-gratis-graphic-shops-where-quality-matters-most/"><u>2024 Approved Discover Top Gratis Graphic Shops Where Quality Matters Most</u></a></li>
-<li><a href="https://facebook.techidaily.com/bypassing-online-security-after-losing-your-phonefb/"><u>Bypassing Online Security After Losing Your Phone:FB</u></a></li>
-<li><a href="https://fox-that.techidaily.com/cant-use-facetime-here-are-16-ways-to-fix-it-and-get-connected-again/"><u>Can't Use FaceTime? Here Are 16 Ways To Fix It and Get Connected Again</u></a></li>
-<li><a href="https://fox-that.techidaily.com/comprehensive-troubleshooting-checklist-for-all-iphones-discover-15-critical-tips/"><u>Comprehensive Troubleshooting Checklist for All iPhones - Discover 15 Critical Tips!</u></a></li>
-<li><a href="https://win-tutorials.techidaily.com/easy-to-use-samsung-ssd-migration-app-and-complete-step-by-step-tutorial-guide/"><u>Easy-to-Use Samsung SSD Migration App & Complete Step-by-Step Tutorial Guide</u></a></li>
-<li><a href="https://fox-that.techidaily.com/has-someone-blocked-me-uncovering-the-truth-about-your-imessage-status/"><u>Has Someone Blocked Me? Uncovering the Truth About Your iMessage Status</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-rebooting-your-phone-resolves-most-technical-issues/"><u>How Rebooting Your Phone Resolves Most Technical Issues</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-overcome-initial-black-outages-when-playing-monster-hunter-world/"><u>How to Overcome Initial Black Outages When Playing Monster Hunter: World?</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-from-oneplus-ace-2-pro-by-drfone-android/"><u>In 2024, How to Bypass FRP from OnePlus Ace 2 Pro?</u></a></li>
-<li><a href="https://fox-that.techidaily.com/rescue-your-frozen-iphone-seven-techniques-to-overcome-the-apple-logo-hurdle/"><u>Rescue Your Frozen iPhone: Seven Techniques to Overcome the Apple Logo Hurdle</u></a></li>
-<li><a href="https://fox-that.techidaily.com/stop-airpods-connecting-to-multiple-idevices-tips-and-tricks/"><u>Stop AirPods Connecting to Multiple iDevices: Tips and Tricks</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/the-beginners-handbook-to-igtv-mastery/"><u>The Beginner's Handbook to IGTV Mastery</u></a></li>
-<li><a href="https://fox-that.techidaily.com/update-impasse-overcome-your-ipodiphone-software-issue-with-these-6-effective-strategies/"><u>Update Impasse? Overcome Your iPod/iPhone Software Issue with These 6 Effective Strategies</u></a></li>
-<li><a href="https://fox-that.techidaily.com/urgent-update-discover-why-upgrading-to-ios-153-is-essential-today/"><u>Urgent Update: Discover Why Upgrading to iOS 15.3 Is Essential Today</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-amplify-your-videos-impact-increasing-view-count-on-youtube-shorts/"><u>[Updated] In 2024, Amplify Your Video's Impact Increasing View Count on YouTube Shorts</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-sierras-icloud-drive-essentials-for-seamless-workflows/"><u>[Updated] Sierra’s iCloud Drive Essentials for Seamless Workflows</u></a></li>
+<li><a href="https://win-best.techidaily.com/0swfgif-movavi/"><u>0円で簡単なSWFファイルからGIFへの変換: Movavi</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-airplay-problems-a-comprehensive-diy-tutorial-for-smooth-streaming/"><u>Fixing AirPlay Problems: A Comprehensive DIY Tutorial for Smooth Streaming</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/o-create-a-sports-youtube-channel-on-mac-in-2024/"><u>How to Create a Sports YouTube Channel on Mac, In 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-resolve-the-issue-of-grayed-out-icloud-options-in-ios-devices/"><u>How to Resolve the Issue of Grayed-Out iCloud Options in iOS Devices</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Meizu 21 Pro? | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-guiding-you-through-youtubes-view-limitations/"><u>In 2024, Guiding You Through YouTube's View Limitations</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-phantom-touch-malfunction-explore-10-diagnostic-steps-for-a-flawless-repair/"><u>IPhone Phantom Touch Malfunction? Explore 10 Diagnostic Steps for a Flawless Repair</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-update-lenovo-thinkpad-usb-c-docking-station-software/"><u>Latest Update: Lenovo ThinkPad USB-C Docking Station Software</u></a></li>
+<li><a href="https://fox-that.techidaily.com/reviving-lost-icon-designs-on-iphone-proven-methods-to-fix-icon-issues/"><u>Reviving Lost Icon Designs on iPhone: Proven Methods to Fix Icon Issues</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-roblox-memory-issues-a-step-by-step-guide-for-iphone-users/"><u>Solving Roblox Memory Issues: A Step-by-Step Guide for iPhone Users</u></a></li>
+<li><a href="https://fox-that.techidaily.com/whatsapp-sync-failures-with-icloud-discover-tips-to-secure-your-messages-on-apples-cloud-service/"><u>WhatsApp Sync Failures with iCloud? Discover Tips to Secure Your Messages on Apple's Cloud Service</u></a></li>
 </ul></div>
 

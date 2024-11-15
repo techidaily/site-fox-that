@@ -1,7 +1,7 @@
 ---
 title: "Unlock the Secrets: Top 17 Strategies for Reactivating Message Sounds on Your iPhone"
-date: 2024-10-31T12:26:05.415Z
-updated: 2024-11-05T11:22:36.964Z
+date: 2024-11-10T16:49:34.122Z
+updated: 2024-11-15T20:05:52.876Z
 tags:
   - iphone
   - apple
@@ -47,19 +47,6 @@ Close
 
  After following the above steps, new text messages via SMS and iMessage should show up on your iPhone and make a sound when the device is locked.
 
-<!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Ensure the Person Isn't Muted
 
  If you're wondering why your iPhone is not notifying you when you receive a text from one person, you might have muted that person. Once you mute a person or group, your iPhone won't alert you when they send you a new text or iMessage. Below, you'll find out how to fix this:
@@ -81,6 +68,13 @@ Close
  Secondly, when your iPhone is in Focus (or Do Not Disturb) mode, it does not vibrate or play a sound for new texts. You can fix this by [opening the iOS Control Center](https://www.makeuseof.com/how-to-use-customize-control-center-iphone/) and ensuring the Focus toggle (crescent moon icon) isn't purple. If it is, tap on it to toggle the feature off.
 
  That said, you can [set up Focus modes](https://www.makeuseof.com/how-to-use-focus-modes-ios/) that let you configure which apps and people you want to allow notifications from.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Force Quit the Messages App
 
@@ -110,32 +104,18 @@ Close
 
 ![Tap Messages in iPhone Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/tap-messages-in-iphone-settings.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Tap Unknown and Spam in iPhone Messages Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/tap-unknown-and-spam-in-iphone-messages-settings.png)
 
 ![Turn off Filter Unknown Senders in iPhone Messages Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/turn-off-filter-unknown-senders-in-iphone-messages-settings.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Close
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 8\. Disconnect Bluetooth Devices
 
@@ -155,7 +135,21 @@ Close
 
 ![Tap Unknown and Spam in iPhone Messages Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/tap-unknown-and-spam-in-iphone-messages-settings.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Swipe left on blocked iPhone contact and tap Unblock](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/swipe-left-on-blocked-iphone-contact-and-tap-unblock.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close
 
@@ -169,14 +163,20 @@ Close
 
 ![Tap Text Tone for a Contact in iPhone Phone or Contacts app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/tap-text-tone-for-a-contact-in-iphone-phone-or-contacts-app.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Choose a different custom tone for contact](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/choose-a-different-custom-tone-for-contact.png)
+
+<!-- affiliate ads begin -->
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close
 
@@ -190,15 +190,22 @@ Close
 
 ![Tap Text Message Forwarding in iPhone Messages Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/tap-text-message-forwarding-in-iphone-messages-settings.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Turn off Text Message Forwarding for all your other Apple devices](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/turn-off-text-message-forwarding-for-all-your-other-apple-devices.png)
 
 Close
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 13\. Are You Using an Apple Watch?
@@ -209,13 +216,6 @@ Close
 
  If you keep the Messages app open on your Mac, new messages may appear there, and your iPhone may not play the text notification sound for them. To fix this,[quit the Messages app on your Mac](https://www.makeuseof.com/ways-to-quit-apps-on-mac/) . Or, you may use it there if you're already working on your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 15\. Other Solutions
 
 If none of the solutions above help, don't worry—hope isn't lost yet.
@@ -225,10 +225,10 @@ If none of the solutions above help, don't worry—hope isn't lost yet.
  If you think that glitches are causing your device to not receive iPhone text message notifications, you may need to update your iPhone's firmware. You can do that by going to**Settings** \>**General** \>**Software Update** . At times, bugs like failing text notifications are fixed by installing the newest iOS update.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Not Getting Text Notifications on iPhone? Let's Fix That
@@ -252,24 +252,20 @@ If none of the solutions above help, don't worry—hope isn't lost yet.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/updated-navigating-the-realm-of-sponsorships-on-instagram-influencer-edition/"><u>[Updated] Navigating the Realm of Sponsorships on Instagram Influencer Edition</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Oppo Find X6 Pro | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-realme-narzo-n55-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Realme Narzo N55 | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/breeze-through-it-the-10-simplest-methods-for-solving-typical-apple-pay-glitches/"><u>Breeze Through It: The 10 Simplest Methods for Solving Typical Apple Pay Glitches</u></a></li>
-<li><a href="https://fox-that.techidaily.com/bypass-calling-problems-on-your-iphone-10-effective-fixes-you-need-to-know/"><u>Bypass Calling Problems on Your iPhone - 10 Effective Fixes You Need to Know</u></a></li>
-<li><a href="https://fox-that.techidaily.com/getting-qr-codes-right-on-iphone-10-essential-fixes-for-scanner-glitches/"><u>Getting QR Codes Right on iPhone? 10 Essential Fixes for Scanner Glitches</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/how-to-capture-computer-screens-and-webcam-video-simultaneously-on-windows10/"><u>How to Capture Computer Screens and Webcam Video Simultaneously on Windows10?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-to-pair-sony-wireless-bluetooth-headphones-a-simple-guide/"><u>How to Pair Sony Wireless Bluetooth Headphones: A Simple Guide</u></a></li>
-<li><a href="https://fox-that.techidaily.com/ios-16-depth-effect-malfunction-here-are-7-fixes-to-restore-your-lock-screen-magic/"><u>IOS 16 Depth Effect Malfunction? Here Are 7 Fixes to Restore Your Lock Screen Magic</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/mpow-bluetooth-driver-downloads-and-updates-for-enhanced-compatibility-with-windows/"><u>MPOW Bluetooth Driver Downloads & Updates for Enhanced Compatibility with Windows</u></a></li>
-<li><a href="https://fox-that.techidaily.com/overcoming-icloud-challenges-expert-tips-for-ensuring-seamless-device-synchronization/"><u>Overcoming iCloud Challenges: Expert Tips for Ensuring Seamless Device Synchronization</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/pivotal-movie-edits-ranked-by-professionals/"><u>Pivotal Movie Edits Ranked by Professionals</u></a></li>
-<li><a href="https://fox-that.techidaily.com/remote-iphone-hardware-inspection-tips-with-apples-specialist-services/"><u>Remote iPhone Hardware Inspection Tips with Apple’s Specialist Services</u></a></li>
-<li><a href="https://fox-that.techidaily.com/step-by-step-tutorial-updating-your-iosipados-screen-time-code/"><u>Step-by-Step Tutorial: Updating Your iOS/iPadOS Screen Time Code</u></a></li>
-<li><a href="https://fox-that.techidaily.com/stop-distracting-sounds-in-airpods-by-deactivating-head-tracking-technology/"><u>Stop Distracting Sounds in AirPods by Deactivating Head-Tracking Technology</u></a></li>
-<li><a href="https://some-skills.techidaily.com/strategies-for-creating-a-positive-interview-environment-for-2024/"><u>Strategies for Creating a Positive Interview Environment for 2024</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/the-ultimate-guide-to-permanently-removing-files-with-7-strategies/"><u>The Ultimate Guide to Permanently Removing Files with 7 Strategies</u></a></li>
-<li><a href="https://fox-that.techidaily.com/top-6-solutions-to-resolve-instagram-slowness-tips-for-both-android-and-iphone-users/"><u>Top 6 Solutions to Resolve Instagram Slowness: Tips for Both Android & iPhone Users</u></a></li>
-<li><a href="https://blog-min.techidaily.com/universal-video-editor-suite-with-high-definition-support-compatible-with-iphones-blackberrys-and-nokia-phones/"><u>Universal Video Editor Suite with High Definition Support Compatible with iPhones, BlackBerrys, and Nokia Phones</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-navigating-youtubes-livestream-landscape-without-massive-followings/"><u>[New] Navigating YouTube's Livestream Landscape without Massive Followings</u></a></li>
+<li><a href="https://fox-that.techidaily.com/11-crucial-fixes-to-restore-your-iphones-call-ringing-functionality/"><u>11 Crucial Fixes to Restore Your iPhone’s Call-Ringing Functionality</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-assessing-djis-flight-vision-tx-headset-performance/"><u>2024 Approved Assessing DJI's Flight Vision TX Headset Performance</u></a></li>
+<li><a href="https://fox-that.techidaily.com/correcting-mistaken-identities-a-guide-to-editing-apples-photo-library/"><u>Correcting Mistaken Identities: A Guide to Editing Apple's Photo Library</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/did-your-apple-iphone-15-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>Did Your Apple iPhone 15 Passcode Change Itself? Unlock It Now</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Sony Xperia 10 V | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-troubleshoot-an-unresponsive-proximity-sensor-on-your-iphone/"><u>How to Troubleshoot an Unresponsive Proximity Sensor on Your iPhone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ng-media-memorable-ends/"><u>Mapping Media Memorable Ends</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reimagining-windows-operations-ais-influence-on-11th-edition/"><u>Reimagining Windows Operations: AI's Influence on 11Th Edition</u></a></li>
+<li><a href="https://fox-that.techidaily.com/step-by-step-fixes-to-overcome-common-airplay-setup-challenges/"><u>Step-by-Step Fixes to Overcome Common AirPlay Setup Challenges</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/step-by-step-instructions-activating-and-configuring-your-new-iphone-models-15-or-14/"><u>Step-by-Step Instructions: Activating and Configuring Your New iPhone (Models 15 or 14)</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/techniques-for-effective-publication-of-chatgpt-exchange-links/"><u>Techniques for Effective Publication of ChatGPT Exchange Links</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-airdrop-issues-quickly-discover-16-essential-solutions/"><u>Troubleshoot AirDrop Issues Quickly: Discover 16 Essential Solutions!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721469348960-troubleshooting-tips-for-issues-with-apple-family-sharing-discover-6-fixes/"><u>Troubleshooting Tips for Issues with Apple Family Sharing – Discover 6 Fixes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlock-the-power-of-siri-why-and-how-to-get-disappeared-suggestions-back-on-iphone/"><u>Unlock the Power of Siri: Why and How to Get Disappeared Suggestions Back on iPhone</u></a></li>
 </ul></div>
 

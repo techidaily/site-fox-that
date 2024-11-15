@@ -1,7 +1,7 @@
 ---
 title: Dealing with a Broken Silent Switch? Discover Alternative Ways to Control Your iPhone's Muting Settings
-date: 2024-10-29T23:39:18.859Z
-updated: 2024-11-04T16:54:50.068Z
+date: 2024-11-08T16:05:24.399Z
+updated: 2024-11-15T17:42:14.760Z
 tags:
   - iphone
   - apple
@@ -55,10 +55,10 @@ Close
  So, a better approach would be to customize AssistiveTouch's top-level menu and add the**Mute** option on the main screen. Or, to set up a custom action for AssistiveTouch to mute or unmute the device directly.
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. Customize the Top Level Menu
@@ -75,26 +75,40 @@ Close
 
 ![AssistiveTouch settings on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customizing-assistivetouch-top-level-menu-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![customizing AssistiveTouch's top-level menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customizing-assistivetouch-top-level-menu-2.jpg)
 
 ![adding a new button to the AssistiveTouch menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customizing-assistivetouch-top-level-menu-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![selecting Mute action for the new AssistiveTouch button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customizing-assistivetouch-top-level-menu-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Mute action in AssistiveTouch's top-level menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customizing-assistivetouch-top-level-menu-5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Close
@@ -131,13 +145,6 @@ Close
 
 ![Back Tap feature under Touch Accessibility settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-using-back-tap-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Close
 
  Once you're in the Back Tap accessibility menu, you can choose a couple of options:
@@ -148,13 +155,6 @@ Close
 ![Back Tap gesture options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-using-back-tap-3.jpg)
 
 ![setting Mute action to a Back Tap gesture](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-using-back-tap-4.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
-  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Close
 
@@ -183,20 +183,19 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-retro-playback-inverting-your-youtube-content/"><u>[Updated] In 2024, Retro Playback Inverting Your YouTube Content</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-iphone-7-live-view-recording-tutorial/"><u>[Updated] IPhone 7 Live View Recording Tutorial</u></a></li>
-<li><a href="https://fox-that.techidaily.com/chatgpt-not-working-on-iphone-discover-9-effective-fixes-for-optimal-performance/"><u>ChatGPT Not Working on iPhone? Discover 9 Effective Fixes for Optimal Performance</u></a></li>
-<li><a href="https://fox-that.techidaily.com/essential-steps-to-restore-non-responsive-airplay-features-on-your-devices/"><u>Essential Steps to Restore Non-Responsive AirPlay Features on Your Devices</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/exclusive-insights-where-to-snag-the-best-current-offers-for-ipad-pro-ipad-air-and-apple-pencil-pro-expert-tips/"><u>Exclusive Insights: Where to Snag the Best Current Offers for iPad Pro, iPad Air, and Apple Pencil Pro - Expert Tips</u></a></li>
-<li><a href="https://fox-that.techidaily.com/get-smarter-about-iphone-photography-fixing-common-snags-in-8-steps/"><u>Get Smarter About iPhone Photography: Fixing Common Snags in 8 Steps</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-add-a-digital-signature-field-to-a-pdf-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>How to add a digital signature field to a PDF</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-ensure-your-iphone-receives-all-texts-on-android-easy-fix-tips-inside/"><u>How to Ensure Your iPhone Receives All Texts on Android: Easy Fix Tips Inside</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-fix-apple-iphone-7-could-not-be-activatedreached-issue-by-drfone-ios/"><u>How To Fix Apple iPhone 7 Could Not Be Activated/Reached Issue</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-realme-v30-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Realme V30 Current Location of a Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/prime-selections-of-maximum-digital-safekeeping-for-2024/"><u>Prime Selections of Maximum Digital Safekeeping for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/quick-fixes-overcoming-iphone-voicemail-malfunctions-in-9-easy-steps/"><u>Quick Fixes: Overcoming iPhone Voicemail Malfunctions in 9 Easy Steps</u></a></li>
-<li><a href="https://fox-that.techidaily.com/reviving-lost-memos-a-step-by-step-guide-to-restoring-your-deleted-iphone-notes/"><u>Reviving Lost Memos: A Step-by-Step Guide to Restoring Your Deleted iPhone Notes</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solving-robloxs-memory-alert-issues-on-an-iphone/"><u>Solving Roblox's Memory Alert Issues on an iPhone</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-contacts-from-magic-6-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from Magic 6.</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-craft-engaging-visual-narratives-with-soundtrack-integration/"><u>[New] 2024 Approved Craft Engaging Visual Narratives with Soundtrack Integration</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-peering-into-pixels-with-polaroids-camplus-action-device/"><u>[New] Peering Into Pixels with Polaroid's Cam+ Action Device</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-the-ultimate-collection-of-chuckle-inducing-stickers/"><u>[New] The Ultimate Collection of Chuckle-Inducing Stickers</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-windows-11-game-recordings-the-ultimate-guide-to-successful-techniques-for-2024/"><u>[New] Windows 11 Game Recordings The Ultimate Guide to Successful Techniques for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/6-solutions-to-fix-non-working-aol-email-applications-in-iphone-settings/"><u>6 Solutions to Fix Non-Working AOL Email Applications in iPhone Settings</u></a></li>
+<li><a href="https://fox-that.techidaily.com/get-your-airdrop-back-on-track-in-no-time-discover-16-effective-troubleshooting-steps/"><u>Get Your AirDrop Back on Track in No Time – Discover 16 Effective Troubleshooting Steps</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-resolve-iphone-message-delivery-issues-7-methods/"><u>How to Resolve iPhone Message Delivery Issues (7 Methods)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-music-files-from-samsung-galaxy-a15-5g-by-fonelab-android-recover-music/"><u>How To Restore Missing Music Files from Samsung Galaxy A15 5G</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-samsung-galaxy-s23plus-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Samsung Galaxy S23+? | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/merge-duplicate-individual-images-into-one-on-iphone-and-mac-devices/"><u>Merge Duplicate Individual Images Into One On iPhone & Mac Devices</u></a></li>
+<li><a href="https://fox-that.techidaily.com/persistent-wi-fi-disconnection-try-these-5-fixes-for-iphone-users/"><u>Persistent Wi-Fi Disconnection? Try These 5 Fixes for iPhone Users</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/revolutionize-your-pc-setup-the-asrock-z89et-taichi-aqua-motherboard-comes-with-10x-usb-type-c-and-2x-lightning-fast-thunderbolt-ports/"><u>Revolutionize Your PC Setup: The ASRock Z89eT Taichi Aqua Motherboard Comes with 10X USB Type-C & 2X Lightning-Fast Thunderbolt Ports</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/starting-an-online-platform-for-consumer-goods-reviews/"><u>Starting an Online Platform for Consumer Goods Reviews</u></a></li>
+<li><a href="https://fox-that.techidaily.com/why-is-one-earbud-silent-discover-how-to-repair-the-issue/"><u>Why Is One Earbud Silent? Discover How to Repair the Issue</u></a></li>
 </ul></div>
 

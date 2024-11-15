@@ -1,7 +1,7 @@
 ---
 title: How To Stop Your AirPods From Jumping Between iOS Devices - A Step-by-Step Guide
-date: 2024-11-01T22:09:01.778Z
-updated: 2024-11-04T20:39:11.173Z
+date: 2024-11-09T18:33:38.864Z
+updated: 2024-11-15T18:25:41.654Z
 tags:
   - iphone
   - apple
@@ -45,6 +45,13 @@ Close
 
  If you see**A2031** or a later model number, your AirPods are compatible with automatic switching. In that case, move on to the rest of the fixes.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Update Your System Software
 
  Your AirPods will only automatically switch on devices with iOS 14, iPadOS 14, and macOS 11 Big Sur or later installed. Thus, you should next check the operating system version on each iPhone, iPad, and Mac you own and upgrade them if necessary.
@@ -57,21 +64,7 @@ Close
 
 ![iPhone Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/01/4-iphone-settings.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![General Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/01/5-iphone-general.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![About iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/01/6-iphone-about.png)
 
@@ -85,13 +78,6 @@ Close
 
 ![Checking the system software version on Mac.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/1-macos-version.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Confirm You’re Using the Same Apple ID on Each Device
 
  To use automatic AirPods switching, you must be signed in to the same Apple ID across all of your Apple devices. If not, your AirPods will not switch between them automatically.
@@ -104,13 +90,20 @@ Close
 
 ![iPhone Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/01/8-iphone-settings.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![iPhone Apple ID](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/01/9-apple-id.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Sign Out](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/01/10-apple-id-sign-out.png)
@@ -127,13 +120,6 @@ Close
 
  Each of your Apple devices has a specific setting that allows your AirPods to switch to them automatically. Confirm that this is enabled on each iPhone, iPad, and Mac you own.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How to Enable Automatic Audio Switching on iPhone and iPad
 
 Follow these steps to enable automatic switching on an iPhone or iPad:
@@ -148,16 +134,23 @@ Follow these steps to enable automatic switching on an iPhone or iPad:
 
 ![AirPods Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/01/14-airpods-settings.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Automatic Audio Switching](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/01/15-transfer-audio-route.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Close
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Enable Automatic Audio Switching on Mac
 
@@ -173,10 +166,16 @@ Follow these steps to enable automatic switching on a Mac:
 ![Checking the AirPods settings on Mac.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/3-airpods-settings.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Upgrade Your AirPods Firmware
@@ -193,22 +192,29 @@ Follow these steps to enable automatic switching on a Mac:
 
 ![General Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/01/19-general-settings.png)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![About iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/01/20-about-iphone.png)
 
 ![AirPods Firmware Version](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/01/21-firmware-version.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close
 
  If you see an outdated firmware version number (you can check the latest firmware version on the [Wikipedia page for AirPods](https://en.wikipedia.org/wiki/AirPods) ), you must install the latest firmware on your AirPods. While there’s no option to do this manually, it’s possible to “nudge” your AirPods into upgrading the firmware.
 
  To do that, put your AirPods in their charging case or Smart Case and connect them to a power source. Then, leave your iPhone next to your AirPods and connected to Wi-Fi. Check back again after 15–30 minutes. The firmware on your AirPods should have updated automatically in the meantime.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Reset Your AirPods
 
@@ -249,17 +255,21 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-cost-free-creative-twitter-videos-to-gif-magic-for-2024/"><u>[New] Cost-Free Creative Twitter Videos to Gif Magic for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/9-key-strategies-to-resolve-iphone-voicemail-malfunctions-swiftly/"><u>9 Key Strategies to Resolve iPhone Voicemail Malfunctions Swiftly</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fix-your-whatsapp-why-it-wont-backup-to-icloud-and-what-to-do-about-it/"><u>Fix Your WhatsApp: Why It Won't Backup to iCloud and What to Do About It</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-se-2020-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone SE (2020) Without Losing Anything? | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-insights-into-instagrams-intermittent-video-flow/"><u>In 2024, Insights Into Instagram's Intermittent Video Flow</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-samsung-galaxy-f15-5gfrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Samsung Galaxy F15 5GFRP Lock</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/investigating-truthgpt-coin-how-to-tell-if-its-a-scam-or-not/"><u>Investigating TruthGPT Coin - How to Tell If It's A Scam Or Not</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-filmora-for-beginners-a-comprehensive-guide-to-creating-stunning-reaction-videos/"><u>New Filmora for Beginners A Comprehensive Guide to Creating Stunning Reaction Videos</u></a></li>
-<li><a href="https://fox-that.techidaily.com/resolve-iphones-phantom-tap-problem-with-these-10-proven-techniques/"><u>Resolve iPhone's Phantom Tap Problem with These 10 Proven Techniques</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solution-steps-how-to-restore-functionality-of-mystic-light-feature-for-msi-users-on-windows-pcs/"><u>Solution Steps: How to Restore Functionality of Mystic Light Feature for MSI Users on Windows PCs</u></a></li>
-<li><a href="https://fox-that.techidaily.com/teach-your-iphone-to-type-correctly-a-guide-to-fixing-autocorrect-issues-in-six-steps/"><u>Teach Your iPhone to Type Correctly: A Guide to Fixing Autocorrect Issues in Six Steps</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/the-updated-method-to-bypass-honor-90-lite-frp-by-drfone-android/"><u>The Updated Method to Bypass Honor 90 Lite FRP</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-unleashing-potential-enhancing-your-tiktok-videos/"><u>[Updated] Unleashing Potential Enhancing Your TikTok Videos</u></a></li>
+<li><a href="https://fox-that.techidaily.com/7-rapid-remedies-to-get-your-iphoneipads-predictive-emojis-working-again/"><u>7 Rapid Remedies to Get Your iPhone/iPad's Predictive Emojis Working Again</u></a></li>
+<li><a href="https://driver-download.techidaily.com/effortless-bcm20702a0-driver-acquisition-on-windows-systems/"><u>Effortless BCM20702A0 Driver Acquisition on Windows Systems</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-your-iphones-quiet-mode-issue-tips-for-a-hands-free-solution/"><u>Fixing Your iPhone's Quiet Mode Issue - Tips for a Hands-Free Solution</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/guide-to-the-top-10-historical-education-channels-for-2024/"><u>Guide to the Top 10 Historical Education Channels for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-itel-s23plus-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Itel S23+ Phone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-psvrs-upcoming-must-try-titles-the-ultimate-5-list/"><u>In 2024, PSVR's Upcoming Must-Try Titles The Ultimate 5 List</u></a></li>
+<li><a href="https://fox-that.techidaily.com/navigating-through-common-icloud-challenges-for-ios-devices-a-step-by-step-guide/"><u>Navigating Through Common iCloud Challenges for iOS Devices - A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-iphone-wireless-charge-issues-top-7-quick-fixes/"><u>Solving iPhone Wireless Charge Issues: Top 7 Quick Fixes</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211314264-9781440543883-the-art-of-mandala-meditation/"><u>The Art of Mandala Meditation | Free Book</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/the-most-trending-templates-transforming-social-video-for-2024/"><u>The Most Trending Templates Transforming Social Video for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-quest-for-visual-excellence-can-pickup-be-the-top-photo-editor-on-android-in-2024/"><u>The Quest for Visual Excellence – Can PickUp Be the Top Photo Editor on Android, In 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/unlocking-the-potential-of-bulk-tiktok-media-extraction-for-2024/"><u>Unlocking the Potential of Bulk TikTok Media Extraction for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlocking-the-secrets-of-bluetooth-technology-on-apple-smartphones/"><u>Unlocking the Secrets of Bluetooth Technology on Apple Smartphones</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlocking-the-secrets-how-to-restore-depth-effect-on-your-ios-16-device-learn-from-these-7-tips/"><u>Unlocking the Secrets: How to Restore Depth Effect on Your iOS 16 Device - Learn From These 7 Tips!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721461916180-why-cant-i-get-any-calls-on-my-iphone-heres-what-to-do/"><u>Why Can't I Get Any Calls on My iPhone? Here's What to Do</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: AirPlay Not Working? Here's How You Can Get It Running Smoothly Again!
-date: 2024-11-02T17:24:21.114Z
-updated: 2024-11-05T12:21:45.910Z
+date: 2024-11-13T17:47:53.614Z
+updated: 2024-11-15T18:49:29.400Z
 tags:
   - iphone
   - apple
@@ -49,10 +49,10 @@ thumbnail: https://thmb.techidaily.com/4aaf8bbfbdfb57b83b54a7e30f7b8f03d80755a12
  If you're interested, browse our recommendations of the [best AirPlay receivers](https://www.makeuseof.com/tag/4-airplay-receivers-that-are-cheaper-than-apple-tv/) .
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Adjust AirPlay Receiver Settings in macOS
@@ -68,10 +68,10 @@ thumbnail: https://thmb.techidaily.com/4aaf8bbfbdfb57b83b54a7e30f7b8f03d80755a12
 ![System Settings on macOS Sonoma displaying the Allow AirPlay for everyone option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/apple-macos-sonoma-system-settings-allow-airplay-for-everyone-menu-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can also let new devices AirPlay to your Mac without password verification by turning off the**Require password** option.
@@ -85,6 +85,13 @@ thumbnail: https://thmb.techidaily.com/4aaf8bbfbdfb57b83b54a7e30f7b8f03d80755a12
 ![AirPlay menu on iPhone 15 Pro Max listing nearby devices](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/apple-iphone-15-pro-max-airplay-audio-menu.jpg)
 
  Since AirPlay typically relies on peer-to-peer discovery, bring them as close to each other as possible to increase the connection strength.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Enable Screen Mirroring in the Menu Bar
 
@@ -100,13 +107,6 @@ thumbnail: https://thmb.techidaily.com/4aaf8bbfbdfb57b83b54a7e30f7b8f03d80755a12
 
 ![Apple iOS 17 Settings App Airplay and Handoff Section Highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/apple-ios-17-settings-app-airplay-and-handoff-section-highlighted.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Apple iOS 17 Settings App Airplay and Handoff Section Automatically AirPlay Highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/apple-ios-17-settings-app-airplay-and-handoff-section-automatically-airplay-highlighted.jpg)
 
 ![iOS 17 AirPlay settings with the Automatically AirPlay option set to Never](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/apple-ios-17-settings-app-airplay-and-handoff-section-automatically-airplay-never-highlighted.jpg)
@@ -114,6 +114,13 @@ thumbnail: https://thmb.techidaily.com/4aaf8bbfbdfb57b83b54a7e30f7b8f03d80755a12
 Close
 
  Doing so shall stop your iPhone from automatically connecting to a nearby AirPlay receiver like your Apple TV whenever you want to cast something on your Mac.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Turn Off Airplane Mode
 
@@ -130,10 +137,16 @@ Close
 ![iOS 17 Settings with the Bluetooth section highlighted and disabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/apple-ios-17-settings-app-bluetooth-section-disabled-highlighted.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![iOS 17 Settings with Bluetooth enabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/apple-ios-17-settings-app-bluetooth-enabled.jpg)
@@ -152,44 +165,30 @@ Close
 
 ![iOS 17 Settings with the Wi-Fi highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/apple-ios-17-settings-app-wi-fi-section-network-name-highlighted.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Close
 
  To check the Wi-Fi network you're connected to on macOS, click the Wi-Fi icon in the menu bar or go to**System Settings > Wi-Fi** .
 
 ![macOS menu bar with the Wi-Fi menu showing the current network name](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/apple-macos-sonoma-menu-bar-wi-fi-network-highlighted.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  In case of any problems, we recommend checking our [tips for when your Mac won't connect to Wi-Fi](https://www.makeuseof.com/tag/mac-wont-connect-wifi/) . Apple TV users can check their current network in the**Settings > Network** menu.
 
 ![Apple TV 4K displaying the Wi-Fi network name in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/apple-tv-4k-settings-wi-fi-network-name.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If your Apple TV uses an Ethernet connection, be sure to connect it to the same router that creates your home's Wi-Fi connection.
+
+<!-- affiliate ads begin -->
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 9\. Restart Your Devices
 
@@ -201,6 +200,13 @@ Close
 
 ![image of ethernet cables connected to router](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/ethernet-router-connection.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 11\. Tweak Your Firewall Settings in macOS
 
  If your AirPlay issue is Mac-specific, chances are that the firewall is using a rule that blocks the AirPlay connection. Luckily, you can modify the macOS firewall options in a few clicks.
@@ -209,14 +215,14 @@ Close
 
 ![Firewall settings on macOS Sonoma with the option to allow signed software enabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/apple-macos-sonoma-firewall-settings-allow-singed-software-enabled.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Lastly, click**OK** to save your changes.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 12\. Update Your Devices to the Latest Software
 
@@ -248,24 +254,22 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-navigating-instagram-blocking-basics/"><u>[New] Navigating Instagram Blocking Basics</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-perfectly-crafted-online-meeting-backdrops-for-2024/"><u>[New] Perfectly Crafted Online Meeting Backdrops for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-the-ultimate-guide-to-youtubes-best-vr-video-sets/"><u>[Updated] 2024 Approved The Ultimate Guide to YouTube's Best VR Video Sets</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-the-great-video-editing-tools-debate-bandicam-vs-camtasia/"><u>[Updated] In 2024, The Great Video Editing Tools Debate Bandicam Vs Camtasia</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-must-know-facts-for-asmr-content-lovers/"><u>[Updated] Must-Know Facts for ASMR Content Lovers</u></a></li>
-<li><a href="https://solve-news.techidaily.com/3gpp-mpeg-movavi/"><u>3GPP MPEG 변환을 위한 무료 온라인 도구 - Movavi</u></a></li>
-<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-poco-m6-pro-4g-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Poco M6 Pro 4G | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/diagnosing-iphone-woes-7-common-reasons-for-unresponsive-touchscreens-explored/"><u>Diagnosing iPhone Woes: 7 Common Reasons for Unresponsive Touchscreens Explored</u></a></li>
-<li><a href="https://article-tips.techidaily.com/eliminate-jitters-stabilizing-techniques-for-gopro-video/"><u>Eliminate Jitters Stabilizing Techniques for GoPro Video</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-restore-audio-on-your-airpods-for-a-seamless-listening-experience/"><u>How To Restore Audio on Your AirPods for a Seamless Listening Experience</u></a></li>
-<li><a href="https://fox-that.techidaily.com/icloud-troubles-on-ios-devices-heres-how-you-can-resolve-the-top-9-problems/"><u>ICloud Troubles on iOS Devices? Here's How You Can Resolve the Top 9 Problems</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-accurate-mac-photography-mastery-of-five-proven-snapshot-ways/"><u>In 2024, Accurate Mac Photography Mastery of Five Proven Snapshot Ways</u></a></li>
-<li><a href="https://fox-that.techidaily.com/restore-gps-functionality-on-your-iphone-overcoming-location-unavailable-challenges/"><u>Restore GPS Functionality on Your iPhone: Overcoming 'Location Unavailable' Challenges</u></a></li>
-<li><a href="https://fox-that.techidaily.com/siris-helpful-tips-not-showing-get-them-back-with-these-simple-fixes-for-your-iphone/"><u>Siri's Helpful Tips Not Showing? Get Them Back with These Simple Fixes for Your iPhone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solve-your-instagram-lag-issues-a-guide-to-enhancing-speed-on-android-and-ios/"><u>Solve Your Instagram Lag Issues: A Guide to Enhancing Speed on Android & iOS</u></a></li>
-<li><a href="https://fox-that.techidaily.com/top-6-persistent-problems-with-iphone-13-and-effective-solutions-for-each-issue/"><u>Top 6 Persistent Problems with iPhone 13 & Effective Solutions for Each Issue</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-your-iphones-broken-nearness-detection-feature/"><u>Troubleshooting Your iPhone's Broken Nearness Detection Feature</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-power-of-modern-electronics-at-toms-hardware-resource-center/"><u>Unveiling the Power of Modern Electronics at Tom's Hardware Resource Center</u></a></li>
-<li><a href="https://fox-that.techidaily.com/why-is-my-iphone-quiet-and-how-can-i-turn-up-the-volume/"><u>Why Is My iPhone Quiet and How Can I Turn Up the Volume?</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-leading-5-internet-screenshot-kits-for-2024/"><u>[New] Leading 5 Internet Screenshot Kits for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-skys-the-limit-with-dji-spark-an-in-depth-miniature-drone-study/"><u>[New] Sky's the Limit with DJI Spark An In-Depth Miniature Drone Study</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-soundscape-synthesis-studio-mac-basics/"><u>[Updated] In 2024, Soundscape Synthesis Studio Mac Basics</u></a></li>
+<li><a href="https://fox-place.techidaily.com/1-unlock-exclusive-educational-content-free-downloads-from-discovery-ed/"><u>1. Unlock Exclusive Educational Content: Free Downloads From Discovery Ed</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-the-easy-way-to-download-and-use-the-ifunny-meme-app/"><u>2024 Approved The Easy Way to Download and Use the iFunny Meme App</u></a></li>
+<li><a href="https://fox-that.techidaily.com/facilitating-recovery-mechanisms/"><u>Facilitating Recovery Mechanisms</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-tackling-cc-issues-with-ease-in-window-10/"><u>Guide to Tackling CC Issues with Ease in Window 10</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-eliminate-lags-in-instagram-best-practices-for-users-of-android-phones-and-iphones/"><u>How to Eliminate Lags in Instagram: Best Practices for Users of Android Phones & iPhones</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721475672495-iphones-wi-fi-charge-woes-discover-7-effective-fixes/"><u>IPhone's Wi-Fi Charge Woes? Discover 7 Effective Fixes!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721456760270-iphoneipad-typing-troubles-heres-a-solution-for-6-prevalent-keyboard-glitches/"><u>IPhone/iPad Typing Troubles? Here's a Solution for 6 Prevalent Keyboard Glitches</u></a></li>
+<li><a href="https://fox-that.techidaily.com/keep-calm-and-avoid-heat-expert-advice-on-preventing-your-idevice-from-warming-up/"><u>Keep Calm & Avoid Heat: Expert Advice on Preventing Your iDevice From Warming Up</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/moveavi-free-video-converter-upload-convert-and-download-videos-at-no-cost/"><u>Moveavi Free Video Converter - Upload, Convert & Download Videos at No Cost</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/navigating-ig-videos-successfully-building-an-efficient-marketing-blueprint-for-2024/"><u>Navigating IG Videos Successfully Building an Efficient Marketing Blueprint for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcome-slow-mobile-data-woes-with-this-quick-10-step-fix/"><u>Overcome Slow Mobile Data Woes with This Quick 10-Step Fix!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-eleven-solutions-resolving-airpods-not-detected-on-find-my/"><u>Top Eleven Solutions: Resolving 'AirPods Not Detected' On Find My</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-iphones-sound-recording-issues-effective-solutions/"><u>Troubleshooting iPhone's Sound Recording Issues: Effective Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-overcoming-casting-problems-on-windows-11-fixed/"><u>Ultimate Guide: Overcoming Casting Problems on Windows 11 [Fixed]</u></a></li>
 </ul></div>
 

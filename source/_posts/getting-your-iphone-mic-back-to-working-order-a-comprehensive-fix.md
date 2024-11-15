@@ -1,7 +1,7 @@
 ---
 title: Getting Your iPhone Mic Back to Working Order - A Comprehensive Fix
-date: 2024-10-11T19:30:05.041Z
-updated: 2024-10-18T19:27:56.950Z
+date: 2024-11-11T18:43:22.419Z
+updated: 2024-11-15T18:34:23.812Z
 tags:
   - iphone
   - apple
@@ -27,15 +27,22 @@ thumbnail: https://thmb.techidaily.com/bc4c1fafbeb0a4b8e3066f1ca761f451b6c08fbe8
 
  Test each microphone by recording using Voice Memos (bottom microphone), making a phone call on speakers (front microphone), and recording a video (back microphone). If all the microphones aren't working, it's most likely a hardware issue. If only one microphone isn't working or sounds muffled, continue to the next step.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. iPhone Microphone Muffled or Muted? Try Cleaning It
 
 ![iphone clean speaker](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/iphone-clean-speaker.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Brent Dirks/[MakeUseOf](https://www.makeuseof.com/author/brentdirks/)
@@ -46,13 +53,6 @@ thumbnail: https://thmb.techidaily.com/bc4c1fafbeb0a4b8e3066f1ca761f451b6c08fbe8
 
  Isopropyl alcohol breaks up grime and dries fast, so it won't damage your iPhone. Try using the highest percentage of isopropyl alcohol you can find. While you're at it,[clean your entire iPhone thoroughly](https://www.makeuseof.com/tag/clean-iphone-guide/) if it's not in a good shape.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Disconnect From Bluetooth Devices
 
 Close
@@ -62,10 +62,10 @@ Close
  This is a common issue with those who use Bluetooth headphones like AirPods or smart home systems. Check if you're connected to a Bluetooth device by [opening your iPhone's Control Center](https://www.makeuseof.com/how-to-use-customize-control-center-iphone/) , then toggle Bluetooth off. Alternatively, tap and hold it to view all your connected devices.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Make Sure Apps Have Microphone Permissions
@@ -87,10 +87,10 @@ Close
  Most headphones, including Apple's AirPods, have built-in microphones. Since they connect via your iPhone's Lightning/USB-C port or Bluetooth, you won't have to rely on the built-in microphones for most tasks.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Other Generic Fixes
@@ -118,15 +118,24 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-ultimate-players-guide-best-of-terraria-mods/"><u>[New] In 2024, Ultimate Player's Guide Best of Terraria Mods</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-final-flourishes-crafting-memorable-video-closures/"><u>[Updated] In 2024, Final Flourishes Crafting Memorable Video Closures</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-simple-techniques-for-building-a-stunning-iphone-collage/"><u>[Updated] Simple Techniques for Building a Stunning iPhone Collage</u></a></li>
-<li><a href="https://fox-that.techidaily.com/8-effective-solutions-for-enabling-smscall-alerts-in-iphones-do-not-disturb-mode/"><u>8 Effective Solutions for Enabling SMS/Call Alerts in iPhone's Do Not Disturb Mode</u></a></li>
-<li><a href="https://android-frp.techidaily.com/full-guide-to-bypass-samsung-galaxy-s23-ultra-frp-by-drfone-android/"><u>Full Guide to Bypass Samsung Galaxy S23 Ultra FRP</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-gt-neo-5-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Realme GT Neo 5 Phone with Broken Screen</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-vivo-y100i-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Vivo Y100i | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/iphone-recovery-made-easy-steps-to-rebuild-your-device-without-using-itunes/"><u>IPhone Recovery Made Easy: Steps to Rebuild Your Device without Using iTunes</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshoot-when-your-iphone-displays-sos-on-screen-with-these-6-fixes/"><u>Troubleshoot When Your iPhone Displays SOS on Screen with These 6 Fixes</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-guide-8-solutions-when-iphone-control-center-fails/"><u>Troubleshooting Guide: 8 Solutions When iPhone Control Center Fails</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-enhancing-reels-perfecting-sound-in-instagram-videos/"><u>[New] Enhancing Reels Perfecting Sound in Instagram Videos</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-unlock-instagrams-hidden-features-voice-modification-for-2024/"><u>[New] Unlock Instagram's Hidden Features Voice Modification for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-overlay-wizardry-on-your-windows-desktop/"><u>[Updated] Overlay Wizardry on Your Windows Desktop</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-unveiling-the-secrets-of-high-quality-ps4-game-broadcasts/"><u>2024 Approved Unveiling the Secrets of High-Quality PS4 Game Broadcasts</u></a></li>
+<li><a href="https://fox-that.techidaily.com/a-comprehensive-guide-to-reactivating-disabled-ios-devices/"><u>A Comprehensive Guide to Reactivating Disabled iOS Devices</u></a></li>
+<li><a href="https://fox-that.techidaily.com/dealing-with-overheating-ios-devices-why-it-happens-and-how-to-prevent-it-on-your-ipad-or-iphone/"><u>Dealing with Overheating iOS Devices: Why It Happens and How to Prevent It on Your iPad or iPhone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/decoding-the-differences-ipad-mini-versus-ipad-air-analyzed/"><u>Decoding the Differences: IPad Mini Versus iPad Air Analyzed</u></a></li>
+<li><a href="https://fox-that.techidaily.com/easy-ways-to-update-person-tags-in-the-apple-photos-app-for-accurate-memories/"><u>Easy Ways to Update Person Tags in the Apple Photos App for Accurate Memories</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-recover-lost-airpods-using-the-find-my-application-a-step-by-step-guide-11-fixes/"><u>How to Recover Lost AirPods Using the Find My Application: A Step-by-Step Guide (11 Fixes)</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-regain-access-and-fix-imessage-disconnection-alerts-on-iphone-devices/"><u>How to Regain Access and Fix iMessage Disconnection Alerts on iPhone Devices</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-100-working-method-for-adding-link-to-tiktok-bio/"><u>In 2024, 100% Working Method for Adding Link to TikTok Bio</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-a-buyers-guide-to-exceptional-hdr-photography-equipment/"><u>In 2024, A Buyer's Guide to Exceptional HDR Photography Equipment</u></a></li>
+<li><a href="https://fox-that.techidaily.com/mastering-the-art-of-iphone-reboot-into-recovery-mode-a-complete-walkthrough/"><u>Mastering the Art of iPhone Reboot Into Recovery Mode: A Complete Walkthrough</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/maximizing-engagement-how-to-pick-perfect-youtube-collaborators-for-2024/"><u>Maximizing Engagement How to Pick Perfect YouTube Collaborators for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-winget-hurdles-on-windows-11-systems/"><u>Overcoming Winget Hurdles on Windows 11 Systems</u></a></li>
+<li><a href="https://fox-that.techidaily.com/tired-of-audio-bouncing-around-in-your-airpods-disable-dynamic-head-tracking-now/"><u>Tired of Audio Bouncing Around in Your AirPods? Disable Dynamic Head Tracking Now!</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-how-to-fix-a-non-functional-corsair-hs50-headset-microphone/"><u>Troubleshooting Guide: How to Fix a Non-Functional Corsair HS50 Headset Microphone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlock-the-power-of-your-iphone-flashlight-again-with-these-12-fixes/"><u>Unlock the Power of Your iPhone Flashlight Again with These 12 Fixes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/why-doesnt-picture-recognition-work-on-my-iphone-exploring-6-possible-causes/"><u>Why Doesn't Picture Recognition Work on My iPhone? Exploring 6 Possible Causes</u></a></li>
 </ul></div>
 

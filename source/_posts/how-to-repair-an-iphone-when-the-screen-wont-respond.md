@@ -1,7 +1,7 @@
 ---
 title: How to Repair an Iphone When the Screen Won't Respond?
-date: 2024-11-04T03:28:06.704Z
-updated: 2024-11-05T09:17:55.898Z
+date: 2024-11-14T19:26:55.088Z
+updated: 2024-11-15T19:20:36.684Z
 tags:
   - iphone
   - apple
@@ -56,15 +56,28 @@ If your screen is working, but not correctly, this could be the cause.
 ![iphone touch accommodations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/iphone-touch-accommodations.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you’re having a hard time navigating there because of the dodgy touchscreen, just activate Siri and say “Turn off Touch Accommodations.”
 
  Alternatively, you can click the Side button three times and this will disable it on most newer devices. For older devices, you may need to tap the Home button three times.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Back Up and Factory Reset Your iPhone
 
@@ -81,10 +94,10 @@ If your screen is working, but not correctly, this could be the cause.
  If you do choose to get your iPhone repaired, you’ll most likely need to do this anyway. This ensures that the technician won’t be able to access your personal data. They may also need to test Face ID to make sure the repair worked and will need the phone to be unlocked to do so, which means you’re better off erasing all your data first.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Getting Your iPhone Screen Repaired
@@ -103,13 +116,6 @@ If your screen is working, but not correctly, this could be the cause.
 
  Related:[Learn to Fix Your Own Gadgets With Help From These Sites](https://www.makeuseof.com/tag/fix-gadgets-help-websites/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Using Your iPhone Without a Touchscreen
 
  If your iPhone isn’t working but you need to access certain files, you can still do that. To do so, you’ll need to activate Voice Control. This can be helpful for backing up and restoring your iPhone.
@@ -119,10 +125,10 @@ If your screen is working, but not correctly, this could be the cause.
 ![iphone voice control](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/iphone-voice-control.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If Siri’s enabled, you can enable Voice Control by saying “Hey Siri, turn on Voice Control.” Once enabled, you can access your iPhone without using the touchscreen.
@@ -152,19 +158,21 @@ If your screen is working, but not correctly, this could be the cause.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-launchpad-to-digital-society-the-essentials-of-facebook-account-creation/"><u>[New] 2024 Approved Launchpad to Digital Society The Essentials of Facebook Account Creation</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-the-counterplay-creative-ways-to-watch-youtube-in-reverse/"><u>[Updated] The Counterplay Creative Ways to Watch YouTube in Reverse</u></a></li>
-<li><a href="https://fox-that.techidaily.com/avoid-auto-correction-blunders-6-tips-for-perfect-iphone-typing-skills/"><u>Avoid Auto-Correction Blunders: 6 Tips for Perfect iPhone Typing Skills</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/effortlessly-deactivate-sticky-keys-functionality-on-your-windows-10-pc-an-illustrated-tutorial/"><u>Effortlessly Deactivate Sticky Keys Functionality on Your Windows 10 PC – An Illustrated Tutorial</u></a></li>
-<li><a href="https://fox-that.techidaily.com/enhance-your-iphone-wi-fi-connection-eight-effective-solutions-for-faster-internet/"><u>Enhance Your iPhone Wi-Fi Connection: Eight Effective Solutions for Faster Internet</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-address-and-remove-liquid-detected-notifications-from-your-iphone-charger-port/"><u>How to Address and Remove 'Liquid Detected' Notifications From Your iPhone Charger Port</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-open-your-apple-iphone-8-without-a-home-button-drfone-by-drfone-ios/"><u>In 2024, How To Open Your Apple iPhone 8 Without a Home Button | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-oneplus-11r-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On OnePlus 11R | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/iphoneipad-keyboard-malfunctions-here-are-six-fixes-you-need-to-try/"><u>IPhone/iPad Keyboard Malfunctions? Here Are Six Fixes You Need to Try</u></a></li>
-<li><a href="https://fox-that.techidaily.com/mastering-iphone-battery-health-through-a-quick-calibration-process/"><u>Mastering iPhone Battery Health Through a Quick Calibration Process</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ul-moments-elite-yoga-routines-for-serenity-for-2024/"><u>Mindful Moments Elite Yoga Routines for Serenity for 2024</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/navigating-to-the-best-10-affordable-online-channels-for-graphic-design/"><u>Navigating to the Best 10 Affordable Online Channels for Graphic Design</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-call-logs-from-oppo-a38-by-fonelab-android-recover-call-logs/"><u>Possible solutions to restore deleted call logs from Oppo A38</u></a></li>
-<li><a href="https://games-able.techidaily.com/sonys-subscription-service-assessing-its-monthly-cost/"><u>Sony's Subscription Service: Assessing Its Monthly Cost</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-leveraging-live-streaming-for-maximum-impact-on-youtube-with-limited-subscribers/"><u>[New] Leveraging Live Streaming for Maximum Impact on YouTube with Limited Subscribers</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-step-by-step-guide-for-seamless-sending-of-large-videos-from-iphones/"><u>[New] Step by Step Guide for Seamless Sending of Large Videos From iPhones</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-streaming-fb-video-content-on-television-devices/"><u>[Updated] 2024 Approved Streaming FB Video Content On Television Devices</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-youtube-to-igtv-migration-step-by-step-guide/"><u>[Updated] YouTube-to-IGTV Migration Step-by-Step Guide</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/a-guide-oppo-a56s-5g-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Oppo A56s 5G Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/clear-out-glitches-in-one-move-the-effectiveness-of-smartphone-restarts/"><u>Clear Out Glitches in One Move: The Effectiveness of Smartphone Restarts</u></a></li>
+<li><a href="https://fox-that.techidaily.com/demystifying-iphones-dfu-mode-and-step-by-step-usage-instructions/"><u>Demystifying iPhone's DFU Mode and Step-by-Step Usage Instructions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/diagnosing-and-repairing-a-lone-misbehaving-airpod-a-complete-guide/"><u>Diagnosing and Repairing a Lone Misbehaving AirPod - A Complete Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/leveraging-apples-off-site-diagnostic-tools-for-iphone-technical-analysis/"><u>Leveraging Apple's Off-Site Diagnostic Tools for iPhone Technical Analysis</u></a></li>
+<li><a href="https://fox-that.techidaily.com/precise-people-identification-tips-to-rectify-mistakes-in-apples-photo-organization-tool/"><u>Precise People Identification Tips to Rectify Mistakes in Apple's Photo Organization Tool</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolved-why-arent-my-iphone-contacts-displaying-troubleshooting-steps-inside/"><u>Resolved! Why Aren't My iPhone Contacts Displaying? Troubleshooting Steps Inside</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/sea-of-thieves-launch-glitches-tips-for-unsticking-your-game/"><u>Sea of Thieves Launch Glitches? Tips for Unsticking Your Game</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/tetap-desimalan-pintasan-dari-komputer-desktop-pelaksanaa-6-utama/"><u>Tetap Desimalan Pintasan Dari Komputer Desktop | Pelaksanaa 6 Utama</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/the-ultimate-list-of-3d-animation-and-modelling-programs-for-2024/"><u>The Ultimate List of 3D Animation and Modelling Programs for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlocking-tips-how-to-restart-your-ipad-after-forgetting-its-security-code/"><u>Unlocking Tips: How to Restart Your iPad After Forgetting Its Security Code</u></a></li>
+<li><a href="https://fox-that.techidaily.com/what-to-do-when-an-iphone-app-goes-missing-recovery-techniques-explained/"><u>What to Do When an iPhone App Goes Missing: Recovery Techniques Explained</u></a></li>
 </ul></div>
 

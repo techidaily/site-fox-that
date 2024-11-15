@@ -1,7 +1,7 @@
 ---
 title: Essential Troubleshooting Steps for Silent iPhones Receiving Calls
-date: 2024-10-13T21:06:10.776Z
-updated: 2024-10-18T19:35:24.021Z
+date: 2024-11-14T19:23:05.528Z
+updated: 2024-11-15T16:30:22.757Z
 tags:
   - iphone
   - apple
@@ -31,20 +31,27 @@ thumbnail: https://thmb.techidaily.com/c72cccdf9cacc0fda207b45b24ab86cf2fde475b8
 
  Once you're confident that the speaker is working, the likely reasons your iPhone doesn't ring are bad settings or temporary software glitches.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Turn Off Silent Mode
 
 ![iPhone Ring/Silent switch](https://thmb.techidaily.com/14af88c4727edfc68754682f8d9e5a16b4632ead51b56f451896cf5d83dd52e4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If your iPhone is set to Silent mode, it won't ring when you get a call. To fix this, put your phone back in Ring mode by pressing the Ring/Silent switch towards the screen. You'll find this switch on the top-left side of your iPhone, above the volume buttons.
 
  When in Ring mode, the slider will be closer to your iPhone's screen. In Silent mode, it displays an orange strip.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Disconnect Bluetooth Audio Devices
 
@@ -55,13 +62,6 @@ thumbnail: https://thmb.techidaily.com/c72cccdf9cacc0fda207b45b24ab86cf2fde475b8
 ![bluetooth enabled in iphone control center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_7377.JPEG)
 
 ![bluetooth disabled in iphone control center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_7378.JPEG)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Close
 
@@ -77,13 +77,6 @@ Close
  On the same page, you might also want to toggle off**Change with Buttons** . Doing so will prevent you from accidentally lowering the ringtone volume when you're changing the volume in gaming or video apps. When this option is disabled, the volume buttons only change the volume for media, not your ringtone.
 
 ![Tap Sound & Haptics in iPhone Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/tap-sound--haptics-in-iphone-settings.JPEG)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![ringtone volume iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/img_5647.jpg)
 
@@ -117,18 +110,25 @@ Close
 
 ![Tap a contact in iPhone Phone or Contacts app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/tap-a-contact-in-iphone-phone-or-contacts-app.JPEG)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Tap Ringtone inside a Contact Card](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/tap-ringtone-inside-a-contact-card.JPEG)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![Choose a Loud Ringtone for the Contact](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/choose-a-loud-ringtone-for-the-contact.JPEG)
 
 Close
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Restart Your iPhone
 
@@ -158,19 +158,6 @@ Close
 
  To get out of this inconvenience, check out [how to fix an iPhone stuck in headphone mode](https://www.makeuseof.com/tag/how-to-fix-iphone-stuck-in-headphone-mode/) .
 
-<!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 10\. Try Turning Off Calls on Other Devices
 
  If you own other Apple devices and have opted to [receive iPhone calls on your Mac](https://www.makeuseof.com/how-to-text-and-call-with-your-mac/) , consider turning this feature off to see if it fixes the ring issue for you. Here's how:
@@ -181,29 +168,16 @@ Close
 
 ![Tap Calls on Other Devices in iPhone Phone Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/tap-calls-on-other-devices-in-iphone-phone-settings.JPEG)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Calls on Other Devices Screen in iPhone Phone Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/calls-on-other-devices-screen-in-iphone-phone-settings.JPEG)
 
-<!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Calls on Other Devices turned off in iPhone Phone Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/calls-on-other-devices-turned-off-in-iphone-phone-settings.JPEG)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Close
 
@@ -215,7 +189,21 @@ Close
 
 ![iphone settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/img_6668.JPEG)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![iphone general settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/img_6731.JPEG)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close
 
@@ -225,24 +213,18 @@ Close
 
 ![transfer or reset iphone settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_7384.JPEG)
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![transfer or reset iphone settings confirmation window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_7385.JPEG)
 
 Close
 
  It's a bit of a hassle, but it confirms that no settings prevent your iPhone from ringing when you get a call or text.
-
-<!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Hopefully, Your iPhone Rings Perfectly Now
 
@@ -265,17 +247,19 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-expand-access-to-creative-works-pick-from-the-best-free-youtube-shorts-downloader-apps/"><u>[Updated] 2024 Approved Expand Access to Creative Works Pick From the Best Free YouTube Shorts Downloader Apps</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-fundamental-definitions-in-virtual-narrative-art/"><u>[Updated] Fundamental Definitions in Virtual Narrative Art</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/a-complete-guide-to-oem-unlocking-on-motorola-edge-40-pro-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Motorola Edge 40 Pro</u></a></li>
-<li><a href="https://fox-that.techidaily.com/diagnosing-and-repairing-the-dark-display-problem-on-iphones/"><u>Diagnosing and Repairing the Dark Display Problem on iPhones</u></a></li>
-<li><a href="https://techtrends.techidaily.com/explore-the-elite-premium-wi-fi-enhancers-for-expansive-coverage/"><u>Explore the Elite: Premium Wi-Fi Enhancers for Expansive Coverage</u></a></li>
-<li><a href="https://fox-that.techidaily.com/guide-initiating-a-forced-reboot-on-your-iphone-and-accessing-recovery-mode/"><u>Guide: Initiating a Forced Reboot on Your iPhone & Accessing Recovery Mode</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/iphone-brightness-adjustment-failures-discover-these-7-quick-fixes/"><u>IPhone Brightness Adjustment Failures – Discover These 7 Quick Fixes!</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/kostenloze-online-omzetting-von-ogm-naar-mp4-movavi/"><u>Kostenloze Online Omzetting Von OGM Naar MP4 - Movavi</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/m1-vs-m2-ipad-pro-comparison-picking-the-perfect-tablet-for-your-needs-expert-analysis/"><u>M1 Vs. M2 iPad Pro Comparison: Picking the Perfect Tablet for Your Needs Expert Analysis</u></a></li>
-<li><a href="https://fox-that.techidaily.com/navigating-tech-assistance-on-your-iphone-with-apples-official-support-application/"><u>Navigating Tech Assistance on Your iPhone with Apple's Official Support Application</u></a></li>
-<li><a href="https://fox-that.techidaily.com/why-are-my-iphone-contacts-not-appearing-easy-fixes-inside/"><u>Why Are My iPhone Contacts Not Appearing? Easy Fixes Inside!</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-discover-the-top-5-pc-clipping-utilities-for-quick-samples/"><u>[New] In 2024, Discover the Top 5 PC Clipping Utilities for Quick Samples</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/uick-thumbnail-tips-for-youtube-success-for-2024/"><u>[New] Quick Thumbnail Tips for YouTube Success for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-transforming-slow-motion-into-fast-action/"><u>[New] Transforming Slow Motion Into Fast Action</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-instagram-videography-size-guide-ready/"><u>[Updated] In 2024, Instagram Videography Size Guide - Ready</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-perfect-your-technique-recording-the-modern-presentation/"><u>[Updated] In 2024, Perfect Your Technique Recording the Modern Presentation</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-substitutes-to-moviemaker-in-the-windows-realm/"><u>2024 Approved Substitutes to MovieMaker in the Windows Realm</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/detailed-guide-to-overcoming-steam-auth-problems-with-rust-on-windows/"><u>Detailed Guide to Overcoming Steam Auth Problems with Rust on Windows</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/efficient-cost-strategies-for-cloud-space-usage/"><u>Efficient Cost Strategies for Cloud Space Usage</u></a></li>
+<li><a href="https://fox-that.techidaily.com/elevating-your-smartphone-photography-despite-having-a-lower-megapixel-iphone-camera/"><u>Elevating Your Smartphone Photography Despite Having a Lower Megapixel iPhone Camera</u></a></li>
+<li><a href="https://fox-that.techidaily.com/find-my-app-mastery-how-to-track-down-your-vanished-iphone/"><u>Find My App Mastery: How to Track Down Your Vanished iPhone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-auto-brightness-glitches-on-iphones-made-easy-with-our-top-7-fixes/"><u>Fixing Auto-Brightness Glitches on iPhones Made Easy with Our Top 7 Fixes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/is-your-find-my-iphone-not-working-discover-why-and-fix-it-here/"><u>Is Your Find My iPhone Not Working? Discover Why and Fix It Here!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/secrets-to-retrieving-deleted-iphone-photos-that-appear-lost-learn-these-8-tricks/"><u>Secrets to Retrieving Deleted iPhone Photos That Appear Lost - Learn These 8 Tricks</u></a></li>
+<li><a href="https://win-answers.techidaily.com/stop-rogue-company-from-freezing-troubleshooting-steps-for-stable-gameplay/"><u>Stop Rogue Company From Freezing: Troubleshooting Steps for Stable Gameplay</u></a></li>
 </ul></div>
 

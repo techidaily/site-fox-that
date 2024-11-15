@@ -1,7 +1,7 @@
 ---
 title: Nine Surefire Telltale Symptoms Your iPhone Has Been Compromised by Water
-date: 2024-10-29T17:28:55.586Z
-updated: 2024-11-04T23:36:55.164Z
+date: 2024-11-14T20:07:48.228Z
+updated: 2024-11-15T17:48:22.909Z
 tags:
   - iphone
   - apple
@@ -33,22 +33,29 @@ thumbnail: https://thmb.techidaily.com/de7e32da454b1a64d1a9e174bd2f0af6c1c09ee74
 
  If you use your iPhone's camera and your pictures look like they're from a low-budget movie from the 50s, then it might be water-damaged. If you see a photo like this, turn off your phone and dry it thoroughly.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Face ID or Touch ID Malfunctioning
 
 ![iPhone with Face ID is not available message on the lock screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/iphone-with-face-id-is-not-available-message-on-the-lock-screen.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Apple's biometric security features are one of the features you could lose when your iPhone takes an unfortunate bath in water.
 
  Face ID works using the TrueDepth camera system embedded into the notch or Dynamic Island. While your front camera might dry, and your picture quality may return to what it used to be, Face ID could still remain unavailable. You can try to [fix Face ID on your iPhone](https://www.makeuseof.com/how-to-fix-face-id-not-working-or-not-available-on-iphone/) , but your best bet is to get it to an expert as soon as possible.
 
  Likewise, Touch ID could also be negatively affected by water if it slips through the side of the Home button and gets into the sensors. This is less likely to happen if you use an iPhone 7 or 8, but it's still possible if the phone falls into extremely dirty water.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Misbehaving Buttons
 
@@ -71,10 +78,10 @@ thumbnail: https://thmb.techidaily.com/de7e32da454b1a64d1a9e174bd2f0af6c1c09ee74
  The phone's display module may have been affected by water. You should return it to Apple or an Apple Authorized Service Provider to replace that part of the screen.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Muffled Speakers
@@ -82,10 +89,10 @@ thumbnail: https://thmb.techidaily.com/de7e32da454b1a64d1a9e174bd2f0af6c1c09ee74
 ![iPhone 11 in the hands of a woman with volume control options on the screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/iphone-11-in-the-hands-of-a-woman-with-volume-control-options-on-the-screen.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Another clear sign that an iPhone is water-damaged is muffled speakers. If you want to purchase a used phone, after checking the cameras, you should play some sounds on the speakers to see what it sounds like.
@@ -94,6 +101,13 @@ thumbnail: https://thmb.techidaily.com/de7e32da454b1a64d1a9e174bd2f0af6c1c09ee74
 
  You should dry out the speakers for iPhones that just fell into some water. If that still doesn't help, try some DIY [iPhone speaker fixes](https://www.makeuseof.com/tag/fix-iphone-speaker-not-working/) before you spend money on an expert.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. Signs of Rust and Corrosion
 
  iPhones are typically made of stainless steel or aluminum, a sturdy lightweight metal, but a metal nonetheless. This means that when iPhones are exposed to moisture or salty water for too long, the metals can corrode and cause rust or pitting.
@@ -101,13 +115,6 @@ thumbnail: https://thmb.techidaily.com/de7e32da454b1a64d1a9e174bd2f0af6c1c09ee74
  If you take your time to observe the body of the iPhone and you find tiny, flaky pits in the metal, that phone might have been in some water once in its life, and its owner didn't dry it out properly.
 
  If you're skilled at DIY repairs, you can try opening up the iPhone to search the interior components for signs of rust.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 8\. Unstable Charging
 
@@ -124,13 +131,6 @@ thumbnail: https://thmb.techidaily.com/de7e32da454b1a64d1a9e174bd2f0af6c1c09ee74
  If you're looking to buy a used iPhone that you suspect has been water-damaged, you can sniff the charging port area to find out if it has been in water recently. If you smell something grimy, salty, or a little like burning wire, it may be water-damaged.
 
  Turning on your phone after water makes its way inside can cause the water inside to turn to vapor as the phone heats up. Not only can vapor cause more damage, but it could cause strange odors to ooze out of your phone.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Avoid a Water-Damaged iPhone at All Costs
 
@@ -155,24 +155,20 @@ thumbnail: https://thmb.techidaily.com/de7e32da454b1a64d1a9e174bd2f0af6c1c09ee74
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-transform-instagram-videos-into-mp4-with-top-free-online-tools-windowsosx-for-2024/"><u>[New] Transform Instagram Videos Into MP4 with Top Free Online Tools [Windows/OSX] for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-the-golden-threshold-of-youtubes-monetization/"><u>[Updated] The Golden Threshold of YouTube's Monetization</u></a></li>
-<li><a href="https://fox-that.techidaily.com/banish-blurry-images-on-your-iphone-with-these-7-pro-camera-correction-steps/"><u>Banish Blurry Images on Your iPhone with These 7 Pro Camera Correction Steps</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/bose-qc35-ii-rating-pinnacle-of-noise-cancellation-tech/"><u>Bose QC35 II Rating: Pinnacle of Noise-Cancellation Tech</u></a></li>
-<li><a href="https://fox-that.techidaily.com/comprehensive-fixes-overcoming-the-challenge-of-disconnected-steam-clients/"><u>Comprehensive Fixes: Overcoming the Challenge of Disconnected Steam Clients</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/crafting-a-distinctive-tiktok-stream-hashcode/"><u>Crafting a Distinctive TikTok Stream Hashcode</u></a></li>
-<li><a href="https://games-able.techidaily.com/discords-super-boost-a-must-or-not/"><u>Discord's Super Boost: A Must or Not?</u></a></li>
-<li><a href="https://fox-that.techidaily.com/guidance-for-fixing-not-signed-in-mistakes-with-apples-messaging-service-on-ios/"><u>Guidance for Fixing 'Not Signed In' Mistakes with Apple's Messaging Service on iOS</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-sound-blaster-microphone-not-working/"><u>How to Fix Sound Blaster Microphone Not Working</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-solve-the-persistent-dark-screen-issue-on-iphones/"><u>How To Solve The Persistent Dark Screen Issue On iPhones</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-5-solutions-for-samsung-galaxy-m14-4g-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Samsung Galaxy M14 4G Unlock Without Password</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/monthly-income-for-content-creators-on-youtube-in-2024/"><u>Monthly Income for Content Creators on YouTube, In 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/overcome-iphone-glitches-with-these-6-fixes-for-persistent-sos-indicators/"><u>Overcome iPhone Glitches with These 6 Fixes for Persistent SOS Indicators</u></a></li>
-<li><a href="https://fox-that.techidaily.com/restoring-invisible-contacts-on-your-iphone-simple-troubleshooting-steps/"><u>Restoring Invisible Contacts on Your iPhone: Simple Troubleshooting Steps</u></a></li>
-<li><a href="https://fox-that.techidaily.com/roboix-crashing-with-low-memory-alert-heres-how-you-can-resolve-it-on-ios-devices/"><u>Roboix Crashing with Low Memory Alert? Here's How You Can Resolve It on iOS Devices</u></a></li>
-<li><a href="https://fox-that.techidaily.com/safari-cant-take-full-page-screenshots-here-are-fixes-that-work/"><u>Safari Can't Take Full Page Screenshots? Here Are Fixes That Work!</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solve-your-iphones-flashlight-woes-with-these-12-troubleshooting-steps/"><u>Solve Your iPhone's Flashlight Woes with These 12 Troubleshooting Steps</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-unleash-engaging-videos-the-top-explainer-video-software-for-2024/"><u>Updated Unleash Engaging Videos The Top Explainer Video Software for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/webcam-wizardry-for-creative-minds-for-2024/"><u>Webcam Wizardry for Creative Minds for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/free-download-official-windows-compatible-msi-gs65-drivers-get-them-now/"><u>[Free Download] Official Windows-Compatible MSI GS65 Drivers - Get Them Now!</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-deciphering-cameras-smart-hdr-features-and-their-impact-for-2024/"><u>[New] Deciphering Camera's Smart HDR Features and Their Impact for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-joining-in-on-tiktok-gigs-without-causing-a-ruckus/"><u>[Updated] Joining in on TikTok Gigs Without Causing a Ruckus</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210185884-9780997507836-art-hope-the-way-to-creative-wellness/"><u>ART HOPE The Way To Creative Wellness | Free Book</u></a></li>
+<li><a href="https://fox-that.techidaily.com/bring-back-the-sound-a-guide-to-fixing-iphone-audio-problems/"><u>Bring Back the Sound: A Guide to Fixing iPhone Audio Problems</u></a></li>
+<li><a href="https://fox-that.techidaily.com/enhance-performance-the-remarkable-impact-of-restarting-your-mobile-for-problem-free-use/"><u>Enhance Performance: The Remarkable Impact of Restarting Your Mobile for Problem-Free Use</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-alternate-escapades-where-the-gta-v-lives-are-missing/"><u>In 2024, Alternate Escapades - Where the GTA V Lives Are Missing</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-capture-and-share-with-confidence-a-step-by-step-guide-to-desktop-video-uploads-on-instagram/"><u>In 2024, Capture & Share with Confidence A Step-by-Step Guide to Desktop Video Uploads on Instagram</u></a></li>
+<li><a href="https://fox-that.techidaily.com/revamp-your-iphone-experience-four-strategies-to-accelerate-safari-browser-efficiency/"><u>Revamp Your iPhone Experience: Four Strategies to Accelerate Safari Browser Efficiency</u></a></li>
+<li><a href="https://fox-that.techidaily.com/revive-your-iphones-snapshots-tackling-the-7-most-prevalent-camera-glitches/"><u>Revive Your iPhone's Snapshots: Tackling the 7 Most Prevalent Camera Glitches</u></a></li>
+<li><a href="https://fox-that.techidaily.com/step-by-step-strategies-for-addressing-sim-card-provisioning-issue-mmi-mm2-errors/"><u>Step-by-Step Strategies for Addressing SIM Card Provisioning Issue MMI (MM2) Errors</u></a></li>
+<li><a href="https://fox-that.techidaily.com/the-critical-need-for-instant-installation-of-ios-153-heres-why/"><u>The Critical Need for Instant Installation of iOS 15.3 – Here's Why</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-6-uses-for-chatgpts-code-interpreter/"><u>Top 6 Uses for ChatGPT's Code Interpreter</u></a></li>
+<li><a href="https://fox-that.techidaily.com/track-down-a-missing-iphone-effective-strategies-with-apples-find-my/"><u>Track Down a Missing iPhone: Effective Strategies with Apple's 'Find My'</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-add-wow-to-your-videos-best-animated-text-apps-for-phone/"><u>Updated Add Wow to Your Videos Best Animated Text Apps for Phone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Fix Unresponsive Microphone During iPhone Dictation
-date: 2024-08-31T21:00:01.102Z
-updated: 2024-09-01T21:00:01.102Z
+date: 2024-11-12T19:33:16.447Z
+updated: 2024-11-15T16:06:10.234Z
 tags:
   - iphone
   - apple
@@ -24,6 +24,13 @@ thumbnail: https://thmb.techidaily.com/5323ab269b6d5447358ffbce683d20a8b0db809b5
 
  Having issues converting voice to text on your iPhone? Or perhaps the dictation icon is nowhere to be found at all? Don't worry; these are several simple troubleshooting steps you can follow when dictation isn't working on your iPhone.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Check if Dictation Is Enabled on Your iPhone
 
  The dictation feature is represented by a microphone icon at the bottom of your iPhone's on-screen keyboard. While dictation is enabled by default, you'll need to turn it on in Settings first if you don't see the microphone icon on the keyboard.
@@ -36,6 +43,19 @@ thumbnail: https://thmb.techidaily.com/5323ab269b6d5447358ffbce683d20a8b0db809b5
 
 ![enable dictation confirmation popup on iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/enable-dictation-confirmation-popup-on-iphone.PNG)
 
+<!-- affiliate ads begin -->
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Close
 
  If dictation is already enabled, but the icon is still missing, try disabling and re-enabling the feature. In the same**Keyboards** setting page, toggle off**Enable Dictation** , tap**Turn Off Dictation** to confirm, then toggle on**Enable Dictation** again.
@@ -44,11 +64,15 @@ Close
 
 ![turn off dictation confirmation popup on iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/turn-off-dictation-confirmation-popup-on-iphone.PNG)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Close
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Add the Dictation Language to Your iPhone Keyboard
 
  Let's say you typically type in English on your iPhone but want to dictate something in Chinese. The iPhone's dictation feature won't recognize what you're saying if Chinese hasn't been added to the keyboard yet.
@@ -57,12 +81,16 @@ Close
 
 ![expanded iphone keyboards setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/expanded-iphone-keyboards-setting.PNG)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![iphone keyboard language list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/iphone-keyboard-language-list.PNG)
 
 ![keyboard language list on iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/keyboard-language-list-on-iphone.PNG)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close
 
@@ -70,32 +98,40 @@ Close
 
 ![iphone keyboard dictation setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/iphone-keyboard-dictation-setting.PNG)
 
+<!-- affiliate ads begin -->
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![iphone dictation languages setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/iphone-dictation-languages-setting.PNG)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Close
 
  Now, when it comes to dictating your text, remember to switch the dictation language too. Tap the**microphone** icon, tap**EN** (which stands for English), and choose your new preferred dictation language.
 
 ![dictation button in iphone notes app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/dictation-button-in-iphone-notes-app.PNG)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![change dictation language in iphone notes app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/change-dictation-language-in-iphone-notes-app.PNG)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Close
 
  Dictation isn't available for all languages. You can check [Apple's site](http://www.apple.com/ios/feature-availability/#quicktype-keyboard-dictation) for a list of dictation languages available for the iPhone.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Allow Siri & Dictation in Your iPhone's Screen Time Settings
 
  If dictation still isn't working on your iPhone, it may be due to your iPhone's Screen Time settings, which can restrict the dictation feature on your device.
@@ -106,9 +142,6 @@ Close
 
 ![iphone content and privacy restrictions setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/iphone-content-and-privacy-restrictions-setting.PNG)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ![allowed apps on iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/allowed-apps-on-iphone.PNG)
 
 Close
@@ -120,6 +153,13 @@ Close
  A quick way to test it is to record a short audio clip [using your iPhone's Voice Memos app](https://www.makeuseof.com/voice-memos-app-guide-iphone/) . If it's a software issue, there are [solutions to fix your iPhone's microphone](https://www.makeuseof.com/iphone-microphone-fixes/) quickly.
 
  But if it's a hardware problem, you'll likely need to contact Apple Support or an Apple Authorized Service Provider.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. General Fixes: Restart, Update, or Reset Your iPhone
 
@@ -133,14 +173,17 @@ Close
 
 ![General settings showing Transfer or Reset option in iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/general-settings-showing-transfer-or-reset-option-in-ios.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![transfer or reset iphone settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_7384.JPEG)
 
 ![transfer or reset iphone settings confirmation window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_7385.JPEG)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 Close
 
  To sum up, you'll need to ensure that dictation is enabled in your iPhone's Settings app first. Then, add the right languages to the keyboard and switch between your preferred languages before dictating.
@@ -153,8 +196,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -162,4 +203,23 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/ed-amplify-engagement-increase-youtube-viewers-for-2024/"><u>[Updated] Amplify Engagement Increase YouTube Viewers for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-depth-review-elevating-your-recording-game-with-showmore-for-2024/"><u>[Updated] In-Depth Review Elevating Your Recording Game with ShowMore for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-nikon-j5-unleashed-embracing-4k-camera-technology/"><u>2024 Approved Nikon J5 Unleashed Embracing 4K Camera Technology</u></a></li>
+<li><a href="https://fox-that.techidaily.com/boosting-mobile-internet-speeds-a-quick-guide-with-10-effective-tips/"><u>Boosting Mobile Internet Speeds: A Quick Guide with 10 Effective Tips</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/bring-the-theater-experience-to-you-a-step-by-step-guide-for-streaming-incredible-aturas-in-3d-using-fandango-at-home/"><u>Bring the Theater Experience to You: A Step by Step Guide for Streaming Incredible Aturas in 3D Using Fandango at Home</u></a></li>
+<li><a href="https://fox-that.techidaily.com/decoding-wi-fi-sluggishness-the-7-main-issues-affecting-your-phones-connection-speed/"><u>Decoding Wi-Fi Sluggishness: The 7 Main Issues Affecting Your Phone's Connection Speed</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/exquisite-scenery-tips-for-live-shows-for-2024/"><u>Exquisite Scenery Tips for Live Shows for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-stop-audio-sync-issues-with-airpods-turn-off-head-tracking/"><u>How to Stop Audio Sync Issues with AirPods: Turn Off Head Tracking</u></a></li>
+<li><a href="https://extra-information.techidaily.com/ideal-ae-text-sets-for-professional-work/"><u>Ideal AE Text Sets for Professional Work</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-a-honor-x8b-easily-by-drfone-android/"><u>In 2024, How To Unlock a Honor X8b Easily?</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-the-average-income-derived-from-each-video-watcher/"><u>In 2024, The Average Income Derived From Each Video Watcher</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/-how-to-add-youtube-video-to-google-slides/"><u>Learn How to Add YouTube Video to Google Slides</u></a></li>
+<li><a href="https://fox-that.techidaily.com/the-ultimate-fixes-for-when-imessage-says-youre-not-connected-on-an-iphone/"><u>The Ultimate Fixes for When iMessage Says You're Not Connected on an iPhone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/the-ultimate-guide-to-correcting-iphone-ghost-touch-malfunctions-in-just-10-steps/"><u>The Ultimate Guide to Correcting iPhone Ghost Touch Malfunctions in Just 10 Steps</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-a-single-malfunctioning-airpod-a-step-by-step-guide/"><u>Troubleshooting a Single Malfunctioning AirPod: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-iphone-icloud-backup-failures-discover-9-handy-fixes/"><u>Troubleshooting iPhone iCloud Backup Failures: Discover 9 Handy Fixes</u></a></li>
+</ul></div>
 

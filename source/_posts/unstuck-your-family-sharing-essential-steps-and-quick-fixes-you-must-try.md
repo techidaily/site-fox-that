@@ -1,7 +1,7 @@
 ---
 title: "Unstuck Your Family Sharing: Essential Steps & Quick Fixes You Must Try"
-date: 2024-11-01T00:10:26.428Z
-updated: 2024-11-04T21:29:01.933Z
+date: 2024-11-08T18:06:37.295Z
+updated: 2024-11-15T18:49:36.529Z
 tags:
   - iphone
   - apple
@@ -33,13 +33,6 @@ thumbnail: https://thmb.techidaily.com/99663f80a681577ef6d172804500e3555c286bc17
 
  This will hardly be the culprit, but it's worth checking before going into the more detailed fixes.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Turn on Purchase Sharing and Share With Family
 
  Purchase Sharing is a feature that allows family members to share apps, movies, TV shows, songs, and books they bought with each other. The family organizer will pay for it using a shared payment method, but all the family members will get to download it if they want. You can learn more about it in [our guide on Apple Family Sharing](https://www.makeuseof.com/tag/set-family-sharing-share-apps-music-itunes-purchases/) .
@@ -55,14 +48,20 @@ Here's how to turn it on using an iPhone or iPad:
 
 ![Family menu on iOS 16 Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/1.jpeg)
 
-![Family purchase sharing prompt screen on iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/2.jpeg)
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![Family purchase sharing prompt screen on iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/2.jpeg)
 
 ![Purchase Sharing menu displaying payment options and family members on iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/3-1.jpeg)
 
@@ -75,6 +74,13 @@ And here's how to do the same on a Mac:
 3. Follow the on-screen prompts by clicking**Continue,** then**Turn On Purchase Sharing.**
 
 ![Purchase Sharing prompt in System Settings on macOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/purchase-sharing-prompt-in-system-settings-on-macos.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 This might fix your issue, but try the next step if it doesn't.
 
@@ -93,13 +99,6 @@ Here's a quick way to do it on your browser:
 
 ![Dreamchild's Apple ID personal information page on the Apple ID website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/dreamchild-s-apple-id-personal-information-page-on-the-apple-id-website.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Sign Out and Sign In to Media & Purchases
 
  First, you must ensure you're using the same Apple ID for Family Sharing and Media & Purchases. You can find it in**Settings** \>**Family** \>**Your Name** \>**Purchases** \>**Apple ID for Purchases** . Confirm that your Apple ID for purchases is the same as your regular Apple ID.
@@ -112,14 +111,14 @@ Here's a quick way to do it on your browser:
 
 ![Settings home screen on iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/1-1.jpeg)
 
-![Media & Purchases sub-settings in Apple ID menu on iOS Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/2-1.jpeg)
-
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![Media & Purchases sub-settings in Apple ID menu on iOS Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/2-1.jpeg)
 
 ![Prompt to confirm Media & Purchases sign out on iOS Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/3-2.jpeg)
 
@@ -136,13 +135,6 @@ Close
 3. Now, restart your iPhone, go back to**Settings** , and select**Sign Into Your iPhone** .
 
 ![iOS Apple ID menu in Settings displaying Sign Out button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/1-ios-apple-id-menu-in-settings-displaying-sign-out-button.jpeg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Prompt to enter Apple ID password](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/2-prompt-to-enter-apple-id-password.jpeg)
 
@@ -161,6 +153,13 @@ If the problematic device is a Mac, do this instead:
 
  This should refresh the App Store and other apps, and it should now recognize that the signed-in Apple ID has access to the shared subscriptions.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Add the Family Member Again
 
  As an extension of refreshing it all, you can re-organize the Family Sharing group by disbanding it and adding everyone back again.
@@ -175,6 +174,13 @@ Here's how to do it on iOS and iPadOS:
 
 ![Faizah's Family menu displaying option to Remove Faizah from Family](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/faizah-s-family-menu-displaying-option-to-remove-faizah-from-family.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Close
 
 If you're on a Mac, follow these steps instead:
@@ -186,19 +192,25 @@ If you're on a Mac, follow these steps instead:
 ![Family member sub-window in System Settings on macOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/family-member-sub-window-in-system-settings-on-macos.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you want to learn more about managing your family members, you can read our guide on [how to stop using Apple Family](https://www.makeuseof.com/how-to-stop-apple-family-sharing-or-remove-members/) .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Check Payments if All Else Fails
@@ -224,18 +236,24 @@ If you're on a Mac, follow these steps instead:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-innovating-filming-techniques-smartphones-as-webcams-for-2024/"><u>[New] Innovating Filming Techniques Smartphones as Webcams for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-best-time-lapse-tools-and-techniques-no5/"><u>[Updated] In 2024, Best Time-Lapse Tools & Techniques - No.5</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-optimize-your-viewing-experience-on-youtube-with-speed-settings/"><u>[Updated] Optimize Your Viewing Experience on YouTube with Speed Settings</u></a></li>
-<li><a href="https://fox-that.techidaily.com/addressing-and-fixing-imessage-authentication-errors-for-a-seamless-iphone-chat-experience/"><u>Addressing and Fixing iMessage Authentication Errors for a Seamless iPhone Chat Experience</u></a></li>
-<li><a href="https://program-issues.techidaily.com/battlefield-2042-stability-issues-fixes-for-pc-crashes/"><u>Battlefield 2042 Stability Issues: Fixes for PC Crashes</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/convert-and-save-your-favorite-jibjab-content-in-various-formats-mp4-wmv-avi/"><u>Convert and Save Your Favorite JibJab Content in Various Formats (MP4, WMV, AVI)</u></a></li>
-<li><a href="https://fox-that.techidaily.com/diy-troubleshooting-fix-five-prevalent-iphone-glitches-using-dfu-method/"><u>DIY Troubleshooting: Fix Five Prevalent iPhone Glitches Using DFU Method</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/dsdpcm/"><u>DSDからPCMに切り替える時、なぜ音質が失われるのかとその解決策</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-windows-11-dir-not-empty-error-0x80070091/"><u>Overcoming Windows 11 Dir Not Empty Error (0X80070091)</u></a></li>
-<li><a href="https://fox-that.techidaily.com/quick-fixes-for-a-nonfunctional-imessage-on-iphoneipadmac-7-essential-tips/"><u>Quick Fixes for a Nonfunctional iMessage on iPhone/iPad/Mac - 7 Essential Tips</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721477467006-stuck-at-installing-apps-on-your-iphone-here-are-10-quick-fixes-to-get-them-working-again/"><u>Stuck at Installing Apps on Your iPhone? Here Are 10 Quick Fixes to Get Them Working Again</u></a></li>
-<li><a href="https://fox-that.techidaily.com/uncover-hidden-events-a-step-by-step-fix-for-apple-calendar-glitches/"><u>Uncover Hidden Events: A Step by Step Fix for Apple Calendar Glitches</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/unlock-sony-xperia-10-v-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Sony Xperia 10 V Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-the-roadmap-to-an-influential-instagram-profile-six-simple-steps-for-following-and-verified-recognition-for-2024/"><u>[New] The Roadmap to an Influential Instagram Profile Six Simple Steps for Following and Verified Recognition for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-mastering-privacy-stopping-followers-on-ig/"><u>[Updated] 2024 Approved Mastering Privacy Stopping Followers on IG</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-mastering-your-fb-profile-top-tips-for-impressive-biographies/"><u>[Updated] 2024 Approved Mastering Your FB Profile Top Tips for Impressive Biographies</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-boost-your-mobile-film-game-best-9-camera-add-ons-for-vloggers-for-2024/"><u>[Updated] Boost Your Mobile Film Game Best 9 Camera Add-Ons For Vloggers for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/effective-solutions-to-handle-roblox-memory-warnings-on-iphone/"><u>Effective Solutions to Handle Roblox Memory Warnings on iPhone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/efficiently-upgrade-intel-g3000-driver-in-windows-11/"><u>Efficiently Upgrade Intel G3000 Driver in Windows 11</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-xiaomi-redmi-13c-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Xiaomi Redmi 13C For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-fix-apple-iphone-8-plus-could-not-be-activatedreached-issue-by-drfone-ios/"><u>How To Fix Apple iPhone 8 Plus Could Not Be Activated/Reached Issue</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-get-unstuck-from-qbittorrent-slowdowns-and-stalls-effective-solutions/"><u>How to Get Unstuck From qBittorrent Slowdowns and Stalls - Effective Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-improve-image-quality-when-iphone-captures-lower-mp-shots/"><u>How to Improve Image Quality When iPhone Captures Lower MP Shots?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-locate-missing-events-on-your-iphones-calendar-app/"><u>How to Locate Missing Events on Your iPhone's Calendar App</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-prevent-frequent-iphone-app-crashes-a-step-by-step-guide/"><u>How to Prevent Frequent iPhone App Crashes: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721464428076-iphoneipad-keyboard-malfunctions-here-are-six-fixes-you-need-to-try/"><u>IPhone/iPad Keyboard Malfunctions? Here Are Six Fixes You Need to Try!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/lost-volume-control-revive-the-soundscape-of-your-apple-device/"><u>Lost Volume Control: Revive the Soundscape of Your Apple Device</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/pianificazione-di-un-tutorial-per-i-numeri-italiani/"><u>Pianificazione Di Un Tutorial per I Numeri Italiani</u></a></li>
+<li><a href="https://fox-that.techidaily.com/starting-out-with-iphone-bluetooth-a-step-by-step-tutorial/"><u>Starting Out with iPhone Bluetooth: A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://fox-that.techidaily.com/the-ultimate-guide-solving-hey-siri-problems-for-a-smoother-iphone-experience/"><u>The Ultimate Guide: Solving 'Hey Siri' Problems for a Smoother iPhone Experience</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-apple-devices-solving-itunes-and-finder-iphone-recognition-issues/"><u>Troubleshoot Apple Devices: Solving iTunes and Finder iPhone Recognition Issues</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/ultimate-storyboard-designers-den/"><u>Ultimate Storyboard Designer's Den</u></a></li>
 </ul></div>
 

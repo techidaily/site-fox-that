@@ -1,7 +1,7 @@
 ---
 title: "Fixing Safari’s Full Page Capture Malfunctions: A Step-by-Step Guide"
-date: 2024-11-02T19:25:50.900Z
-updated: 2024-11-05T07:58:37.849Z
+date: 2024-11-11T17:36:29.371Z
+updated: 2024-11-15T16:02:51.579Z
 tags:
   - iphone
   - apple
@@ -29,16 +29,16 @@ thumbnail: https://thmb.techidaily.com/ced9cab3bb4f4b670e0a461fa0277071d0fe6cc51
 
  Related:[How to Take Full-Page Screenshots in Safari on iOS](https://www.makeuseof.com/how-to-screenshot-full-webpage-safari-ios/)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What to Do When Full-Page Screenshots Aren't Working
 
 Try these tips if you can't take full-page screenshots in Safari.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. Check Your iOS Version
 
@@ -47,10 +47,16 @@ Try these tips if you can't take full-page screenshots in Safari.
  If your OS is not the problem, make sure to check the app you’re using when attempting to take a full-page screenshot. It only works with Safari.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Make Sure You're in Safari
@@ -62,19 +68,19 @@ Try these tips if you can't take full-page screenshots in Safari.
 ![Save Full-page screenshots](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/08/Save-Full-page-screenshots.PNG)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Close
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Remove Safari From Any Home Screen Folders
@@ -106,22 +112,17 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-groundbreaking-method-to-insert-gopro-clips-into-virtual-panoramic-movies/"><u>[New] In 2024, Groundbreaking Method to Insert GoPro Clips Into Virtual Panoramic Movies</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-the-art-of-perfection-in-tiktok-production-with-designed-video-templates-for-2024/"><u>[New] The Art of Perfection in TikTok Production with Designed Video Templates for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-foremost-frame-openers-identifying-the-most-effective-16-youtube-intros-for-2024/"><u>[Updated] Foremost Frame Openers Identifying the Most Effective 16 YouTube Intros for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/achieve-stardom-in-the-digital-world-by-growing-your-facebook-followers-for-2024/"><u>Achieve Stardom in the Digital World by Growing Your Facebook Followers for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/conquer-common-iphone-x-glitches-essential-tips-for-users/"><u>Conquer Common iPhone X Glitches: Essential Tips for Users</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/cure-for-blacked-out-windows-11-with-fall-patch/"><u>Cure for Blacked-Out Windows 11 with Fall Patch</u></a></li>
-<li><a href="https://techtrends.techidaily.com/gratis-convertidor-de-archivos-multimedia-en-linea-mp4-y-avi-a-mov-con-movavi/"><u>Gratis Convertidor De Archivos Multimedia en Línea - MP4 Y AVI a MOV Con Movavi</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-honor-magic-5-lite-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Honor Magic 5 Lite to PC? | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/icloud-not-updating-expert-tips-to-resolve-your-synchronization-woes/"><u>ICloud Not Updating? Expert Tips to Resolve Your Synchronization Woes!</u></a></li>
-<li><a href="https://fox-that.techidaily.com/mastering-ipad-fixes-a-comprehensive-walkthrough-to-recovery-mode-setup/"><u>Mastering iPad Fixes: A Comprehensive Walkthrough to Recovery Mode Setup</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solving-iphone-wireless-charger-issues-a-step-by-step-fix-list-for-non-working-charges/"><u>Solving iPhone Wireless Charger Issues: A Step-by-Step Fix List for Non-Working Charges</u></a></li>
-<li><a href="https://fox-that.techidaily.com/step-by-step-fixes-for-dealing-with-error-14-on-iphones/"><u>Step-by-Step Fixes for Dealing with Error 14 on iPhones</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-solutions-for-fixing-the-clownfish-voice-alteration-device/"><u>Step-by-Step Solutions for Fixing the Clownfish Voice Alteration Device</u></a></li>
-<li><a href="https://android-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-oneplus-ace-2v-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass OnePlus Ace 2V FRP</u></a></li>
-<li><a href="https://fox-that.techidaily.com/the-essentials-of-using-dfu-mode-on-iphones-expert-insights-and-guidance/"><u>The Essentials of Using DFU Mode on iPhones: Expert Insights & Guidance</u></a></li>
-<li><a href="https://fox-that.techidaily.com/top-10-solutions-how-to-stop-iphone-applications-from-frequently-crashing/"><u>Top 10 Solutions: How to Stop iPhone Applications From Frequently Crashing</u></a></li>
-<li><a href="https://fox-that.techidaily.com/unstuck-from-earbuds-discover-eight-techniques-to-resolve-your-iphones-audio-limitation-problems/"><u>Unstuck From Earbuds: Discover Eight Techniques to Resolve Your iPhone's Audio Limitation Problems</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-hdr-editing-essentials-for-pc-users/"><u>[New] HDR Editing Essentials for PC Users</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-depth-look-at-voice-memo-features-on-your-ios-device/"><u>[New] In-Depth Look at Voice Memo Features on Your iOS Device</u></a></li>
+<li><a href="https://windows11.techidaily.com/a-users-guide-to-windows-11-system-anomalies-analysis/"><u>A User’s Guide to Windows 11 System Anomalies Analysis</u></a></li>
+<li><a href="https://facebook.techidaily.com/facial-id-discarding-what-does-it-mean-for-facebook-users-protection/"><u>Facial ID Discarding: What Does It Mean for Facebook Users' Protection?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-nail-the-art-of-time-lapses-with-your-gopro-hero5-black/"><u>In 2024, Nail the Art of Time-Lapses with Your GoPro Hero5 Black</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-the-stepwise-approach-to-voice-recognition-integration-in-powerpoint-presentations/"><u>In 2024, The Stepwise Approach to Voice Recognition Integration in PowerPoint Presentations</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721445536785-iphone-home-button-not-working-try-these-5-easy-repairs-first/"><u>IPhone Home Button Not Working? Try These 5 Easy Repairs First!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcome-icloud-connection-issues-with-these-proven-fixes/"><u>Overcome iCloud Connection Issues with These Proven Fixes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/retrieve-unintentionally-erased-reminders-from-your-ipad-with-ease/"><u>Retrieve Unintentionally Erased Reminders From Your iPad with Ease</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ing-from-spotify-playlists-to-customized-youtube-music-catalogs-for-2024/"><u>Shifting From Spotify Playlists to Customized YouTube Music Catalogs for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-8-tips-to-enhance-iphones-wi-fi-connectivity-and-speed/"><u>Top 8 Tips to Enhance iPhone's Wi-Fi Connectivity and Speed</u></a></li>
+<li><a href="https://fox-that.techidaily.com/understanding-iphone-unresponsiveness-a-list-of-7-common-issues-and-fixes/"><u>Understanding iPhone Unresponsiveness: A List of 7 Common Issues and Fixes</u></a></li>
 </ul></div>
 

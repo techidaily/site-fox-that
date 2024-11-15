@@ -1,7 +1,7 @@
 ---
 title: Top 7 Simple Steps to Get Your iMessage Back Working on Apple Gadgets
-date: 2024-10-28T20:19:44.442Z
-updated: 2024-11-05T04:40:45.049Z
+date: 2024-11-10T17:24:28.780Z
+updated: 2024-11-15T16:08:54.934Z
 tags:
   - iphone
   - apple
@@ -45,13 +45,6 @@ thumbnail: https://thmb.techidaily.com/6c7b51dcfdae2a8da726c75853a324eb9a3939b33
 
  If iMessage is working on your iPhone but your messages aren't delivering, this is another subject entirely. If that's the case, check out [how to fix "iMessage Not Delivered" problems on your iPhone](https://www.makeuseof.com/tag/fix-imessage-not-delivered/) .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Make Sure iMessage Is Enabled Correctly
 
  Even if you've used iMessage before, you may not have it enabled for a specific number or device. This is easy to check.
@@ -65,20 +58,13 @@ On an iPhone or iPad:
 
 ![Messages in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/4-Messages-in-Settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Messages settings on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/5-Messages-settings-on-iPhone.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Send and Receive settings on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/6-Send-and-Receive-settings-on-iPhone.jpg)
@@ -92,13 +78,6 @@ On a Mac:
 3. Again, make sure any numbers or email addresses you want to use with iMessage are enabled here.
 
  If you're having issues on multiple devices, repeat these steps on any device that iMessage isn't working for.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Try Different Send and Receive Options
 
@@ -126,6 +105,13 @@ On a Mac:
 
 ![Send and Receive iMessage options on Mac](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/Send-and-Receive-iMessage-options-on-Mac.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To be extra thorough, you may want to do this for every device you use with iMessage.
 
 ## 5\. Sign In to iMessage Again
@@ -143,22 +129,22 @@ On an iPhone or iPad:
 
 ![Send and Receive settings on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/6-Send-and-Receive-settings-on-iPhone.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Signing out of iMessage on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/Signing-out-of-iMessage-on-iPhone.jpg)
 
 ![Use your Apple ID for iMessage option on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/Use-your-Apple-ID-for-iMessage-option-on-iPhone.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Close
 
@@ -172,10 +158,10 @@ On a Mac:
 ![Signing out of iMessage on a Mac](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/Signing-out-of-iMessage-on-a-Mac.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Test Your Internet Connection
@@ -185,6 +171,13 @@ On a Mac:
  If you can't get online, that will explain why iMessage isn't working on your iPhone or Mac. Try connecting to a different Wi-Fi network or check how much data you've got left.
 
  Strangely, you can't always [activate iMessage](http://www.makeuseof.com/how-to-activate-imessage/) over Wi-Fi. So if you're trying to use iMessage for the first time but can't get it working at all, try disabling Wi-Fi from the Control Center and activate iMessage on your iPhone over cellular data instead.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Reset the Network Settings
 
@@ -203,16 +196,16 @@ To do so:
 
 ![All Reset options on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/3-All-Reset-options-on-iPhone.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Close
 
  Don't worry too much about losing any data; all apps and files on your iPhone or iPad will remain untouched. However, your phone will forget saved Wi-Fi networks, so you'll need to enter their passwords again.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Other Possible iMessage Fixes Worth Trying
 
@@ -221,6 +214,13 @@ Close
  You should also visit [Apple's System Status](https://www.apple.com/support/systemstatus/) website to make sure iMessage isn't down for everyone. Check there's a green circle next to iMessage. If there's anything else, it means Apple is experiencing technical issues and you'll need to wait for Apple's technicians to fix it.
 
 ![Checking the Apple System Status.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/4-photos-system-status.png)
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Another possible fix is to check if a macOS, iOS, or iPadOS update is available. This is especially true if you've recently upgraded to a new software. Apple releases updates to improve your device and fix bugs, but these updates can sometimes introduce new problems. If this is the case, Apple may have already issued a new update to fix it.
 
@@ -247,24 +247,22 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-mastering-iphone-photography-focus-on-shadows/"><u>[New] Mastering iPhone Photography Focus on Shadows</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-connect-with-community-spots-a-dynamic-guide-for-local-explorers-on-the-move/"><u>[Updated] Connect with Community Spots A Dynamic Guide for Local Explorers on the Move</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-enhance-real-time-broadcasts-our-picks-for-9-prime-filters/"><u>2024 Approved Enhance Real-Time Broadcasts Our Picks for 9 Prime Filters</u></a></li>
-<li><a href="https://fox-that.techidaily.com/5-essential-fixes-for-non-working-subscription-sharing-among-relatives/"><u>5 Essential Fixes for Non-Working Subscription Sharing Among Relatives</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/facing-trouble-with-chatgpt-follow-these-steps-to-check-its-availability-now/"><u>Facing Trouble with ChatGPT? Follow These Steps to Check Its Availability Now</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/from-older-os-to-windows-11-the-evolution-process-for-2024/"><u>From Older OS to Windows 11 The Evolution Process for 2024</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-access-your-apple-iphone-12-pro-when-you-forget-the-passcode-drfone-by-drfone-ios/"><u>How to Access Your Apple iPhone 12 Pro When You Forget the Passcode? | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-successfully-change-phone-mode-on-an-iphone-when-the-ring-and-silent-features-fail/"><u>How To Successfully Change Phone Mode on An iPhone When The Ring and Silent Features Fail</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-14-pro-max-to-other-iphone-11-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 14 Pro Max To Other iPhone 11 devices? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-meizu-21-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Meizu 21 | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-vivo-y100t-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Vivo Y100t | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/iphone-snapshots-gone-wrong-discover-how-to-resolve-7-frequent-camera-issues/"><u>IPhone Snapshots Gone Wrong? Discover How to Resolve 7 Frequent Camera Issues</u></a></li>
-<li><a href="https://fox-that.techidaily.com/mastering-iphone-dfu-mode-setup-and-operations-for-troubleshooting/"><u>Mastering iPhone DFU Mode Setup & Operations for Troubleshooting</u></a></li>
-<li><a href="https://fox-that.techidaily.com/restoring-iphone-functionality-the-art-of-a-non-destructive-restart-process/"><u>Restoring iPhone Functionality: The Art of a Non-Destructive Restart Process</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/secure-boot-stability-top-strategies-to-sidestep-system-setbacks/"><u>Secure Boot Stability: Top Strategies to Sidestep System Setbacks</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solutions-for-when-you-cant-see-any-app-icons-on-your-iphone-get-them-back-now/"><u>Solutions for When You Can't See Any App Icons on Your iPhone - Get Them Back Now!</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-iphone-gps-issues-how-to-restore-location-services/"><u>Troubleshooting iPhone GPS Issues - How to Restore Location Services</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-resolving-unsupported-accessory-issues-with-your-iphone/"><u>Troubleshooting: Resolving 'Unsupported Accessory' Issues with Your iPhone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/unlocking-gifting-hurdles-5-common-problems-with-sending-tokens-from-ios-gadgets/"><u>Unlocking Gifting Hurdles: 5 Common Problems with Sending Tokens From iOS Gadgets</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-fundamental-constructs-in-creating-effective-fb-ad-copy/"><u>[New] Fundamental Constructs in Creating Effective FB Ad Copy</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-cultivating-connection-not-compulsion-in-subscriptions/"><u>[New] In 2024, Cultivating Connection, Not Compulsion in Subscriptions</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-crafting-cinematic-audio-in-inshot-videos/"><u>[Updated] Crafting Cinematic Audio in InShot Videos</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-eco-visuals-cost-free-download/"><u>[Updated] In 2024, Eco Visuals, Cost-Free Download</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-no-cost-memes-made-simple-our-meme-kit/"><u>[Updated] No-Cost Memes Made Simple Our Meme Kit</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721467704422-10-rapid-repairs-to-get-your-iphoneipad-widgets-working-again/"><u>10 Rapid Repairs to Get Your iPhone/iPad Widgets Working Again!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/apple-pay-dilemmas-decoded-simple-strategies-for-the-top-10-common-errors/"><u>Apple Pay Dilemmas Decoded: Simple Strategies for the Top 10 Common Errors</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/essential-mobile-media-creation-tools-iphone-vs-android-review/"><u>Essential Mobile Media Creation Tools IPhone vs Android Review</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-tips-combatting-windows-not-found-problem/"><u>Essential Tips: Combatting Windows Not Found Problem</u></a></li>
+<li><a href="https://fox-that.techidaily.com/facing-challenges-with-your-apple-device-updates-use-our-9-top-tips/"><u>Facing Challenges with Your Apple Device Updates? Use Our 9 Top Tips</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-mastering-channel-artistry-explore-these-10-visual-creation-tools/"><u>In 2024, Mastering Channel Artistry Explore These 10 Visual Creation Tools</u></a></li>
+<li><a href="https://fox-that.techidaily.com/master-the-process-of-activating-recovery-mode-on-an-ipad-device/"><u>Master the Process of Activating Recovery Mode on an iPad Device</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/pinnacle-apps-androids-ultimate-cloud-keepsakes/"><u>Pinnacle Apps Android's Ultimate Cloud Keepsakes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-your-iphoneipad-and-wi-fi-connection-woes-top-8-remedies/"><u>Solving Your iPhone/iPad and Wi-Fi Connection Woes: Top 8 Remedies</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-11-solutions-for-missing-airpods-on-apples-find-my-application/"><u>Top 11 Solutions for Missing AirPods on Apple's 'Find My' Application</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-tips-why-are-my-iphone-contacts-disappearing/"><u>Troubleshooting Tips: Why Are My iPhone Contacts Disappearing?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlock-better-battery-efficiency-on-your-iphone-with-these-six-steps/"><u>Unlock Better Battery Efficiency on Your iPhone with These Six Steps!</u></a></li>
 </ul></div>
 
