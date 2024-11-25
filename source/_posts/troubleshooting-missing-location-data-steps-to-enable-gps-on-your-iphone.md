@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Missing Location Data: Steps to Enable GPS on Your iPhone"
-date: 2024-08-27T14:41:36.730Z
-updated: 2024-08-28T14:41:36.730Z
+date: 2024-11-23T19:44:19.266Z
+updated: 2024-11-25T05:20:50.723Z
 tags:
   - iphone
   - apple
@@ -18,9 +18,17 @@ thumbnail: https://thmb.techidaily.com/7ca1823a541bb8f1b1b4e3f36dc533291122ea53e
 
  So without any further ado, let's check out what it takes to fix the "Location Not Available" error on an iPhone. We'll start with the steps you can try yourself, before moving onto what the person you're trying to track needs to do.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Fix "Location Not Available" From Your Own iPhone
 
  There isn't a lot you can do yourself if Messages or the Find My app says "Location Not Available" when someone has chosen to [share their iPhone location with you](https://www.makeuseof.com/how-to-share-location-iphone/) . But it's still easiest to try these steps first, before involving somebody else.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quit and Relaunch Find My or Messages
 
@@ -34,7 +42,15 @@ To force quit Messages or Find My:
 
 ![Home Screen on iPhone.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/1-iphone-home-screen.PNG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![App Switcher on iPhone.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/2-app-switcher.PNG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![Force-quitting an app on iPhone.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/3-force-quit-app.PNG)
 
@@ -43,6 +59,10 @@ Close
 ### Restart Your iPhone
 
  If closing and reopening the relevant app didn't work, you might need to [restart your iPhone](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) instead. To restart your iPhone, simply open the**Settings** app and tap**General > Shut Down** . Once the screen goes black, wait for several seconds and hold the**Side** or the**Top** button until you see the Apple logo.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Fix "Location Not Available" From Someone Else's iPhone
 
@@ -56,12 +76,17 @@ Close
 
 ![Apple ID settings screen.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/5-apple-id-settings.PNG)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![Find My preferences.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/6-share-my-location-1.PNG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Close
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Share the Location in Messages and Find My Again
 
@@ -72,54 +97,32 @@ Close
 
 ![iMessage chat.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/7-messages-chat.PNG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Stop Sharing My Location.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/8-info-pane.PNG)
 
 ![Start sharing my location.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/9-info-pane-alt.PNG)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 Close
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ### Restart the iPhone
 
  The simplest method is to go to**Settings > General > Shut Down** . Then, press and hold the**Side** or**Top** button to restart the iPhone.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Check the Date and Time
 
  An incorrect date or time can create issues with location sharing. To check this, go to**Settings > General > Date & Time** . If the date or time is wrong, turn on the switch next to**Set Automatically** to get the correct date and time from Apple's servers. If this doesn't help, deactivate the switch and set the correct time manually.
 
 ![iPhone Settings screen.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/10-iphone-settings.PNG)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ![General settings screen on iPhone.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/11-general-settings.PNG)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Date or time screen on iPhone.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/12date-time.PNG)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 Close
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Switch to Cellular Data
 
  Spotty Wi-Fi can also play a factor, so try using cellular or mobile data instead. To do that, open the iPhone's**Control Center** (swipe down from the top-right of the screen or swipe up from the bottom if your iPhone has a Home button) and tap the**Wi-Fi** icon to disable it.
@@ -136,8 +139,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -145,4 +146,21 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-unleash-creativity-a-comprehensive-guide-to-instagrams-gif-features-for-2024/"><u>[New] Unleash Creativity A Comprehensive Guide to Instagram's GIF Features for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-free-tools-make-screencapture-a-breeze-for-tv-lovers/"><u>[Updated] Free Tools Make ScreenCapture a Breeze for TV Lovers</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-tweeting-trouble-laughter-league-for-2024/"><u>[Updated] Tweeting Trouble Laughter League for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-unmissable-upgrades-top-8-tech-and-tools-reshaping-modern-enterprises-for-2024/"><u>[Updated] Unmissable Upgrades Top 8 Tech & Tools Reshaping Modern Enterprises for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Asus ROG Phone 7 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/bypassing-iphone-safari-glitches-effective-techniques-and-best-practices-in-10-steps/"><u>Bypassing iPhone Safari Glitches: Effective Techniques & Best Practices in 10 Steps</u></a></li>
+<li><a href="https://article-tips.techidaily.com/essential-mobile-editing-app-the-mac-version-easy-erase-and-cleanup/"><u>Essential Mobile Editing App: The Mac Version - Easy Erase and Cleanup</u></a></li>
+<li><a href="https://fox-that.techidaily.com/family-sharing-woes-here-are-6-fixes-for-smooth-access-across-apple-products/"><u>Family Sharing Woes? Here Are 6 Fixes for Smooth Access Across Apple Products</u></a></li>
+<li><a href="https://fox-access.techidaily.com/game-masters-unleashed-an-in-depth-look-at-kinemaster-on-android-for-2024/"><u>Game Masters Unleashed An In-Depth Look at KineMaster on Android for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721478347986-hack-the-lag-how-to-get-your-iphones-safari-up-to-speed-with-these-4-solutions/"><u>Hack the Lag - How to Get Your iPhone's Safari Up to Speed with These 4 Solutions!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-improve-picture-quality-when-your-iphone-captures-low-mp-photographs/"><u>How to Improve Picture Quality When Your iPhone Captures Low MP Photographs</u></a></li>
+<li><a href="https://fox-links.techidaily.com/inside-the-drone-world-detailed-look-at-dji-phantom-4/"><u>Inside the Drone World Detailed Look at DJI Phantom 4</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solutions-troubleshooting-non-supported-accessories-with-your-iphone/"><u>Solutions: Troubleshooting Non-Supported Accessories with Your iPhone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-oppo-f23-5g-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Oppo F23 5G for Streaming | Dr.fone</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Identifying a Block: How to Tell If You've Been Banned From Messaging"
-date: 2024-08-27T14:39:11.862Z
-updated: 2024-08-28T14:39:11.862Z
+date: 2024-11-21T19:04:43.920Z
+updated: 2024-11-25T03:10:04.441Z
 tags:
   - iphone
   - apple
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/566a3e2bc8245fad4b04c4a436c7a48f60131ea01
 * [You Can't Reach Your Contact by Call or on Other Apps](https://www.makeuseof.com/check-if-someone-blocked-you-imessage/#you-can-39-t-reach-your-contact-by-call-or-on-other-apps)
 * [You Can Reach Your Contact From Other Numbers](https://www.makeuseof.com/check-if-someone-blocked-you-imessage/#you-can-reach-your-contact-from-other-numbers)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * An iMessage sent as a green text message and the absence of read receipts may indicate, but not confirm, that you're blocked.
@@ -32,26 +36,29 @@ thumbnail: https://thmb.techidaily.com/566a3e2bc8245fad4b04c4a436c7a48f60131ea01
  You're likely only blocked if you encounter all the listed scenarios. If you see only one or two signs, it's probably due to other reasons, not because you're blocked, which we'll also explain below.
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Your iMessage Is Sent as a Text Message
 
 ![blue iMessage text bubble and green text message bubble on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/muo-in-article-image-1200px-by-600px-21-ratio-46.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Typically, iMessage text bubbles are blue. If your iMessage is sent as a green SMS text message, it's possible you're blocked. That's why your iPhone can't recognize their Apple device and send an iMessage successfully to them.
 
  However, there are other reasons [why your iMessage is sent as a text message](https://www.makeuseof.com/imessage-sent-as-text-message/) as well. For example, if the other person's Apple device isn't connected to the internet, the Messages app will fall back to SMS and send your message as a green text bubble.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Read Receipts Are Not Appearing
 
 ![iMessage on iPhone with no read receipts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/muo-in-article-image-1200px-by-600px-21-ratio-47.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
  Typically after you send an iMessage, you'll see a read receipt indicating when the other party opened it. If you're blocked on iMessage, read receipts won't appear anymore because the text never reached their device in the first place.
 
  At most, you'll see a**Delivered** status if their device received your iMessage before they blocked you.
@@ -60,16 +67,14 @@ thumbnail: https://thmb.techidaily.com/566a3e2bc8245fad4b04c4a436c7a48f60131ea01
 
  If your target recipient's internet connection is spotty, a blue iMessage text you sent may also not have a**Read** or**Delivered** status for quite a while.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. You Can't Reach Your Contact by Call or on Other Apps
 
 ![The Social Media apps folder on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/social-media-apps-folder-on-an-iphone.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  19 STUDIO/[Shutterstock](https://www.shutterstock.com/image-photo/hand-use-iphone11-max-pro-social-1889239063)
 
  If someone blocked you on iMessage, they would have to block your phone number entirely. It's impossible for users to block a person on iMessage while still allowing phone calls from them.
@@ -82,9 +87,6 @@ thumbnail: https://thmb.techidaily.com/566a3e2bc8245fad4b04c4a436c7a48f60131ea01
 
  However, it might not just be you that they've blocked. With smartphones becoming increasingly entangled with our lives, people may choose to enable Focus mode and go on a digital detox by deleting their social media to take care of their health and ensure they're not easily contactable.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. You Can Reach Your Contact From Other Numbers
 
  If you can send an iMessage and call your contact normally from someone else's phone, it may indeed mean that the other party has specifically blocked you.
@@ -103,8 +105,6 @@ thumbnail: https://thmb.techidaily.com/566a3e2bc8245fad4b04c4a436c7a48f60131ea01
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -112,4 +112,23 @@ thumbnail: https://thmb.techidaily.com/566a3e2bc8245fad4b04c4a436c7a48f60131ea01
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-fabricate-funny-faces/"><u>[New] Fabricate Funny Faces</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-adding-closed-captions-to-vimeo-footage/"><u>[New] In 2024, Adding Closed Captions to Vimeo Footage</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-essential-guide-to-xbox-screen-recording-techniques/"><u>[New] In 2024, Essential Guide to Xbox Screen Recording Techniques</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-the-hidden-economics-of-youtube-content-production/"><u>[Updated] 2024 Approved The Hidden Economics of YouTube Content Production</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-from-the-grave-to-gameplay-top-8-zombies-unleashed/"><u>2024 Approved From the Grave to Gameplay Top 8 Zombies Unleashed</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/all-you-need-to-know-about-podcast-funding/"><u>All You Need To Know About Podcast Funding</u></a></li>
+<li><a href="https://fox-that.techidaily.com/battle-iphone-and-wi-fi-connection-dropouts-5-proven-fixes-to-try-now/"><u>Battle iPhone and Wi-Fi Connection Dropouts: 5 Proven Fixes to Try Now!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/expert-tips-for-resolving-iphone-13s-six-key-complications/"><u>Expert Tips for Resolving iPhone 13'S Six Key Complications</u></a></li>
+<li><a href="https://fox-that.techidaily.com/getting-texts-and-calls-on-iphones-do-not-disturb-mode-here-are-8-potential-fixes/"><u>Getting Texts and Calls on iPhone's Do Not Disturb Mode? Here Are 8 Potential Fixes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/guide-securing-expert-assistance-for-your-iphone-through-the-apple-support-application/"><u>Guide: Securing Expert Assistance for Your iPhone Through the Apple Support Application</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-use-life360-on-windows-pc-for-poco-x5-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Poco X5? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-secure-passcodes-longer-windows-11-and-11-pins/"><u>Mastering Secure Passcodes: Longer Windows 11 and 11 PINs</u></a></li>
+<li><a href="https://win-able.techidaily.com/outriders-picture-perfect-strategies-to-tackle-and-fix-pixelated-views/"><u>Outriders Picture Perfect: Strategies to Tackle and Fix Pixelated Views</u></a></li>
+<li><a href="https://fox-that.techidaily.com/snap-crisp-pictures-how-to-overcome-blurriness-in-iphone-photography-7-techniques/"><u>Snap Crisp Pictures: How to Overcome Blurriness in iPhone Photography (7 Techniques)</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solve-the-issue-top-7-methods-for-restoring-icloud-photo-synchronization-on-iphone/"><u>Solve the Issue: Top 7 Methods for Restoring iCloud Photo Synchronization on iPhone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/step-by-step-solution-for-fixing-the-last-line-no-longer-available-problem-on-iphones/"><u>Step-by-Step Solution for Fixing the ‘Last Line No Longer Available’ Problem on iPhones</u></a></li>
+</ul></div>
 

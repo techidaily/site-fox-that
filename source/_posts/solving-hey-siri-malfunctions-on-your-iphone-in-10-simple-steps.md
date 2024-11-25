@@ -1,7 +1,7 @@
 ---
 title: Solving ‘Hey Siri’ Malfunctions on Your iPhone in 10 Simple Steps
-date: 2024-11-08T16:16:32.462Z
-updated: 2024-11-15T16:32:24.405Z
+date: 2024-11-19T23:00:08.091Z
+updated: 2024-11-24T23:11:50.635Z
 tags:
   - iphone
   - apple
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/75afd5a2790c3528915ac28a66faf57312a6eb60a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Not All iPhones Are Compatible With "Hey Siri"
 
  On an iPhone 6s or later, "Hey Siri" works even when the iPhone isn't charging. That means if you have an iPhone model released in 2015 or later, you are good to go. These iPhones have low-power, always-on microphones that listen for the "Hey Siri" hot word and jump to action when you say those words.
@@ -32,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/75afd5a2790c3528915ac28a66faf57312a6eb60a
  If you're trying to use Siri offline, note that this feature is only available for iPhones that possess the A12 Bionic chip and are updated to at least iOS 15\. In addition, there are limits on [what you can and can't do with offline Siri](https://www.makeuseof.com/what-you-can-do-with-offline-siri/) .
 
  So, if you're sure you have a compatible iPhone and "Hey Siri" still isn't working, the tips below should be able to fix it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Make Sure "Hey Siri" Is Set Up Correctly
 
@@ -43,27 +51,26 @@ thumbnail: https://thmb.techidaily.com/75afd5a2790c3528915ac28a66faf57312a6eb60a
 ![iPhone Settings showing Siri & Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/11/iphone-settings-showing-siri-and-search.PNG)
 
 <!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![siri & search settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/img_6967.JPEG)
 
 Close
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Don't Leave Your iPhone Face Down
 
  When you keep the iPhone facing downwards on a table or bed, you can't call it by saying, "Hey Siri." For this feature to work, make sure your iPhone screen is facing up.
 
  If you want to use Siri when your iPhone is facing down or covered, go to**Settings > Accessibility > Siri** and enable the**Always Listen for "Hey Siri"** option.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Enable Bluetooth if You Have Multiple "Hey Siri" Devices
 
@@ -81,6 +88,10 @@ Close
 
 ![siri responses settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/img_6968.JPEG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Close
 
 ## 5\. Restart Your iPhone
@@ -92,10 +103,7 @@ Close
  Are you using a case that might block your iPhone's microphones? Take a minute to check this. If you find that the microphone slots at the bottom of the device, next to the camera, or inside the top earpiece are blocked by the case, you should remove the case.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Clean Your iPhone's Microphone Grills
@@ -130,42 +138,19 @@ Close
 
 ![iPhone Settings showing Siri & Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/11/iphone-settings-showing-siri-and-search.PNG)
 
-<!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![siri & search settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/img_6967.JPEG)
 
 ![List of Siri languages on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/11/list-of-siri-languages.PNG)
 
-Close
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+Close
 
 ## 10\. Turn Off Low Power Mode
 
  "Hey Siri" works even when your iPhone is in [Low Power Mode](http://www.makeuseof.com/iphone-low-power-mode/) . But at times, due to extremely low battery or bugs, Low Power Mode may cause other problems. To fix this, go to**Settings > Battery** and turn off**Low Power Mode** . Hopefully, this will mean "Hey Siri" starts working again.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 11\. Disable and Re-Enable Siri
 
@@ -185,25 +170,11 @@ Close
 
 Close
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 12\. Set Up "Hey Siri" Again in a Quiet Environment
 
  If you completed the "Hey Siri" setup in a noisy environment, with lots of background noise like a fan or AC, it might cause errors with Siri failing to recognize the trigger words.
 
  Go to**Settings > Siri & Search** and turn off**Listen for "Hey Siri"** . Now, move to a quieter area, enable**Listen for "Hey Siri"** , and follow its on-screen instructions to set Siri up again. Doing this will ensure the setup process catches your actual voice and thus works more efficiently.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 13\. Update Your iPhone
 
@@ -216,6 +187,10 @@ Close
  In rare situations, your iPhone may think it's connected to headphones even though it isn't. When this happens, the on-device speakers and microphones may not work because your iPhone is trying to use your non-existent headphone speakers and microphones instead.
 
  Here's [how to fix an iPhone stuck in headphone mode](https://www.makeuseof.com/tag/how-to-fix-iphone-stuck-in-headphone-mode/) . After getting out of headphone mode, "Hey Siri" should start working again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 15\. Reset All Your iPhone Settings
 
@@ -233,14 +208,11 @@ Close
 
 ![All Reset Options in iPhone Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/all-reset-options-in-iphone-settings.PNG)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Close
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 16\. Ensure "Hey Siri" Is Available in Your Country
 
@@ -271,22 +243,16 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-channeling-success-emulating-top-video-bloggers-techniques/"><u>[New] In 2024, Channeling Success Emulating Top Video Bloggers' Techniques</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-cartoonkingdom-comprehensive-24-guide-for-2024/"><u>[Updated] CartoonKingdom Comprehensive '24 Guide for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-chortlechamber-personalize-everyday-humor-online/"><u>[Updated] ChortleChamber Personalize Everyday Humor Online</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-enhance-your-contents-visibility-peak-days-for-2024/"><u>[Updated] Enhance Your Content's Visibility - Peak Days for 2024</u></a></li>
-<li><a href="https://win-dash.techidaily.com/easy-step-by-step-instructions-to-download-and-install-logitech-hd-webcam-c525-drivers-on-windows-os/"><u>Easy Step-by-Step Instructions to Download and Install Logitech HD Webcam C525 Drivers on Windows OS</u></a></li>
-<li><a href="https://fox-that.techidaily.com/easy-steps-to-clearing-your-iphones-network-data-for-improved-performance/"><u>Easy Steps to Clearing Your iPhone's Network Data for Improved Performance</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-fix-an-unresponsive-iphone-display-expert-tips-and-tricks/"><u>How To Fix an Unresponsive iPhone Display: Expert Tips & Tricks</u></a></li>
-<li><a href="https://fox-that.techidaily.com/icloud-synchronization-woes-heres-what-to-do/"><u>ICloud Synchronization Woes? Here's What To Do</u></a></li>
-<li><a href="https://fox-that.techidaily.com/iphone-qr-scanner-issues-discover-the-best-10-fixes-for-seamless-scanning/"><u>IPhone QR Scanner Issues? Discover the Best 10 Fixes for Seamless Scanning</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-trim-cut-and-edit-avi-videos-top-software-for-windows-mac-and-mobile/"><u>New 2024 Approved Trim, Cut, and Edit AVI Videos Top Software for Windows, MAC, and Mobile</u></a></li>
-<li><a href="https://fox-that.techidaily.com/preventing-persistent-wi-fi-issues-a-guide-for-iphone-users-5-fixes/"><u>Preventing Persistent Wi-Fi Issues: A Guide for iPhone Users (5 Fixes)</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-realme-11-pro-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Realme 11 Pro to PC- Detailed Steps | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-the-problem-of-a-broken-shift-key-step-by-step-guide/"><u>Solving the Problem of a Broken Shift Key – Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-that.techidaily.com/step-by-step-process-completely-restoring-your-iphoneipad-with-a-factory-reset/"><u>Step-by-Step Process: Completely Restoring Your iPhone/iPad with a Factory Reset</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/strategic-advantages-for-companies-using-chatgpt-technology/"><u>Strategic Advantages for Companies Using ChatGPT Technology</u></a></li>
-<li><a href="https://fox-that.techidaily.com/the-need-to-know-guide-on-why-ios-153-should-be-your-next-update/"><u>The Need-to-Know Guide on Why iOS 15.3 Should Be Your Next Update</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-tips-activating-iphone-recovery-mode-via-forced-startup-sequence/"><u>Troubleshooting Tips: Activating iPhone Recovery Mode via Forced Startup Sequence</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-leverage-the-power-of-live-streaming-strategies-for-facebook-dominance/"><u>[New] Leverage the Power of Live Streaming Strategies for Facebook Dominance</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-the-essential-guide-to-blurring-images-with-your-iphone-for-2024/"><u>[New] The Essential Guide to Blurring Images with Your iPhone for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-the-ultimate-list-of-8-real-world-youtube-boosters/"><u>[Updated] 2024 Approved The Ultimate List of 8 Real-World YouTube Boosters</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-professional-techniques-editing-and-saving-movies-in-win-11/"><u>[Updated] Professional Techniques Editing and Saving Movies in Win 11</u></a></li>
+<li><a href="https://fox-that.techidaily.com/aqua-alert-recognizing-the-9-warning-signs-of-your-iphones-brush-with-moisture/"><u>Aqua Alert: Recognizing the 9 Warning Signs of Your iPhone's Brush with Moisture</u></a></li>
+<li><a href="https://fox-that.techidaily.com/bottlenecks-in-mobile-internet-discovering-why-your-phones-wi-fi-is-slow/"><u>Bottlenecks in Mobile Internet: Discovering Why Your Phone's Wi-Fi Is Slow</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-honor-90-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Honor 90 | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-a-paused-ipad-software-upgrade-top-6-solutions/"><u>Fixing a Paused iPad Software Upgrade: Top 6 Solutions</u></a></li>
+<li><a href="https://win-blog.techidaily.com/quick-fixes-for-improving-fps-and-reducing-lag-in-counter-strike-go/"><u>Quick Fixes for Improving FPS and Reducing Lag in Counter-Strike GO</u></a></li>
+<li><a href="https://fox-that.techidaily.com/quick-fixes-restoring-access-by-resetting-your-iphone-ipad-or-mac-screen-time-passcode/"><u>Quick Fixes: Restoring Access by Resetting Your iPhone, iPad or Mac Screen Time Passcode</u></a></li>
+<li><a href="https://fox-that.techidaily.com/speed-up-your-iphone-safari-essential-techniques-for-a-faster-web-browsing-experience/"><u>Speed up Your iPhone Safari: Essential Techniques for a Faster Web Browsing Experience</u></a></li>
 </ul></div>
 

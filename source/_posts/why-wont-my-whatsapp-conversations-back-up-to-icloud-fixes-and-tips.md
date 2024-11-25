@@ -1,7 +1,7 @@
 ---
 title: Why Won’t My WhatsApp Conversations Back Up to iCloud? Fixes and Tips
-date: 2024-08-27T14:42:57.614Z
-updated: 2024-08-28T14:42:57.614Z
+date: 2024-11-18T16:54:39.935Z
+updated: 2024-11-24T22:57:30.153Z
 tags:
   - iphone
   - apple
@@ -22,7 +22,15 @@ thumbnail: https://thmb.techidaily.com/8902585d66f327811523945d1407154d052552e15
 
 ![name in iphone settings-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/name-in-iphone-settings-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![icloud settings in iphone settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/icloud-settings-in-iphone-settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![show all option in icloud iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/show-all-option-in-icloud-iphone.jpg)
 
@@ -60,22 +68,28 @@ To check your available iCloud storage space:
 
 ![icloud settings in iphone settings-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/icloud-settings-in-iphone-settings-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![manage account storage option in iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/manage-account-storage-option-in-iphone.jpg)
 
 Close
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Perform a Manual Backup on WhatsApp
 
 ![chat backup option in whatsapp-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/chat-backup-option-in-whatsapp-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 ![Backing up now in Whatsapp](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/backing-up-now-in-whatsapp.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Close
 
  Sometimes, the issue of failed WhatsApp backups can be resolved by manually backing up your chats through the app.
@@ -87,20 +101,18 @@ Here's how you can do that:
 
  While not necessary, consider keeping WhatsApp open during this manual backup. This means not swiping the WhatsApp page up in the app switcher. You may use other apps or put your iPhone to sleep during this time though.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Check the iCloud Server Status
 
 ![Apple server status](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/apple-server-status.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Sometimes, the issue may not be with your device or with WhatsApp, but rather with iCloud services. Visit the [Apple System Status](https://www.apple.com/support/systemstatus/) page to see whether iCloud servers are down or having server issues.
 
  If the circle beside**iCloud Backup** isn't green, consider backing up WhatsApp once it is working again.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ## 5\. Restart Your iPhone
 
  Restarting your iPhone will fix a number of software-related issues, including those involving iCloud backups.
@@ -112,14 +124,19 @@ To restart your device:
 3. After a little while, press and hold the power button to switch your iPhone back on.
 4. Check to see if the WhatsApp backup succeeds now.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Update Your iPhone and WhatsApp
 
 ![General Section in iPhone Setttings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/general-section-in-iphone-setttings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Software Update in iPhone General Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/software-update-in-iphone-general-settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -148,9 +165,6 @@ To do this, follow these steps:
 
 ![whatsapp messenger section in icloud settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/whatsapp-messenger-section-in-icloud-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 ![whatsapp data in icloud](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/whatsapp-data-in-icloud.jpg)
 
 Close
@@ -163,8 +177,9 @@ Close
 4. Once the backup has been deleted, return to WhatsApp and start a fresh backup.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Seamless WhatsApp Backups Can Give You Peace of Mind
 
  It might be frustrating when WhatsApp keeps failing at successfully backing up your chats to iCloud. But there are some easy fixes that you can try to remedy this. Start with the basics, like double-checking your settings and making sure you have enough iCloud storage.
@@ -177,8 +192,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -186,4 +199,21 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-camera-quest-gopro-hero5-b-vs-session-edition/"><u>[New] Camera Quest – GoPro Hero5 B vs Session Edition</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/armonize-body-and-mind-through-these-top-10-yogis-videos/"><u>[New] Harmonize Body and Mind Through These Top 10 Yogis' Videos</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-masterclass-youtube-music-arrangement/"><u>[New] In 2024, Masterclass YouTube Music Arrangement</u></a></li>
+<li><a href="https://fox-that.techidaily.com/dual-device-alert-control-how-to-keep-your-ipad-silent-if-your-iphone-is-ringing/"><u>Dual-Device Alert Control: How to Keep Your iPad Silent If Your iPhone Is Ringing</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-overcome-unrecognized-accessory-errors-on-iphone-devices/"><u>How to Overcome Unrecognized Accessory Errors on iPhone Devices</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/ifunny-memes-unlocked-download-and-use-in-a-flash-for-2024/"><u>IFunny Memes Unlocked Download & Use in a Flash for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-squaring-the-circle-of-facebook-engagement-with-visuals/"><u>In 2024, Squaring the Circle of Facebook Engagement with Visuals</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-vivo-s17-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Vivo S17 Phone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-maximize-your-macs-storage-the-ultimate-guide-to-running-fcpx-smoothly/"><u>New Maximize Your Macs Storage The Ultimate Guide to Running FCPX Smoothly</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/revivemediakit-efficient-flawed-file-fixing/"><u>ReviveMediaKit: Efficient Flawed File Fixing</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solve-your-iphones-phantom-touch-issue-with-these-10-effective-strategies/"><u>Solve Your iPhone's Phantom Touch Issue with These 10 Effective Strategies</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721446205316-struggling-with-iphone-vpn-connections-discover-these-7-troubleshooting-tips/"><u>Struggling with iPhone VPN Connections? Discover These 7 Troubleshooting Tips</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-qr-code-scanner-issues-10-solutions-for-iphones/"><u>Troubleshooting QR Code Scanner Issues: 10 Solutions for iPhones</u></a></li>
+<li><a href="https://fox-that.techidaily.com/ultimate-troubleshooting-guide-15-steps-for-your-iphone/"><u>Ultimate Troubleshooting Guide: 15 Steps for Your iPhone</u></a></li>
+</ul></div>
 

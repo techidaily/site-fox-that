@@ -1,7 +1,7 @@
 ---
 title: "Fixing Safari’s Full Page Capture Malfunctions: A Step-by-Step Guide"
-date: 2024-11-11T17:36:29.371Z
-updated: 2024-11-15T16:02:51.579Z
+date: 2024-11-20T16:03:41.198Z
+updated: 2024-11-25T04:06:53.077Z
 tags:
   - iphone
   - apple
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/ced9cab3bb4f4b670e0a461fa0277071d0fe6cc51
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Take a Full-Page Screenshot
 
  To take a full-page, scrolling screenshot of a webpage, take a screenshot as you normally would while on Safari, then tap the preview and select**Full Page** at the top. You can then choose**Save PDF to Files** or the Share icon to send it elsewhere.
@@ -33,13 +37,6 @@ thumbnail: https://thmb.techidaily.com/ced9cab3bb4f4b670e0a461fa0277071d0fe6cc51
 
 Try these tips if you can't take full-page screenshots in Safari.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. Check Your iOS Version
 
  Full-page screenshots are available for iPhone users running on iOS 13 and later. First, make sure that your iPhone is running an iOS version that supports the feature by going to**Settings > General > About** .
@@ -47,16 +44,7 @@ Try these tips if you can't take full-page screenshots in Safari.
  If your OS is not the problem, make sure to check the app you’re using when attempting to take a full-page screenshot. It only works with Safari.
 
 <!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Make Sure You're in Safari
@@ -68,19 +56,13 @@ Try these tips if you can't take full-page screenshots in Safari.
 ![Save Full-page screenshots](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/08/Save-Full-page-screenshots.PNG)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Close
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Remove Safari From Any Home Screen Folders
@@ -92,6 +74,10 @@ Close
  However, if you don’t like a cluttered Home Screen, you can also launch Safari from the App Library.
 
  Related:[What Is the iPhone App Library and How Do I Use It?](https://www.makeuseof.com/iphone-app-library-use/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Take Screenshots Again
 
@@ -112,17 +98,16 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-hdr-editing-essentials-for-pc-users/"><u>[New] HDR Editing Essentials for PC Users</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-depth-look-at-voice-memo-features-on-your-ios-device/"><u>[New] In-Depth Look at Voice Memo Features on Your iOS Device</u></a></li>
-<li><a href="https://windows11.techidaily.com/a-users-guide-to-windows-11-system-anomalies-analysis/"><u>A User’s Guide to Windows 11 System Anomalies Analysis</u></a></li>
-<li><a href="https://facebook.techidaily.com/facial-id-discarding-what-does-it-mean-for-facebook-users-protection/"><u>Facial ID Discarding: What Does It Mean for Facebook Users' Protection?</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-nail-the-art-of-time-lapses-with-your-gopro-hero5-black/"><u>In 2024, Nail the Art of Time-Lapses with Your GoPro Hero5 Black</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-the-stepwise-approach-to-voice-recognition-integration-in-powerpoint-presentations/"><u>In 2024, The Stepwise Approach to Voice Recognition Integration in PowerPoint Presentations</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721445536785-iphone-home-button-not-working-try-these-5-easy-repairs-first/"><u>IPhone Home Button Not Working? Try These 5 Easy Repairs First!</u></a></li>
-<li><a href="https://fox-that.techidaily.com/overcome-icloud-connection-issues-with-these-proven-fixes/"><u>Overcome iCloud Connection Issues with These Proven Fixes</u></a></li>
-<li><a href="https://fox-that.techidaily.com/retrieve-unintentionally-erased-reminders-from-your-ipad-with-ease/"><u>Retrieve Unintentionally Erased Reminders From Your iPad with Ease</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ing-from-spotify-playlists-to-customized-youtube-music-catalogs-for-2024/"><u>Shifting From Spotify Playlists to Customized YouTube Music Catalogs for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/top-8-tips-to-enhance-iphones-wi-fi-connectivity-and-speed/"><u>Top 8 Tips to Enhance iPhone's Wi-Fi Connectivity and Speed</u></a></li>
-<li><a href="https://fox-that.techidaily.com/understanding-iphone-unresponsiveness-a-list-of-7-common-issues-and-fixes/"><u>Understanding iPhone Unresponsiveness: A List of 7 Common Issues and Fixes</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-unveiling-the-artist-within-using-auditions-gradual-volume-increase/"><u>[New] Unveiling the Artist Within Using Audition's Gradual Volume Increase</u></a></li>
+<li><a href="https://fox-that.techidaily.com/expert-solutions-to-overcome-the-iphone-black-screen-dilemma/"><u>Expert Solutions to Overcome the iPhone Black Screen Dilemma</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-iphone-mute-functionality-without-the-side-button-expert-tips-and-tricks/"><u>Fixing iPhone Mute Functionality Without the Side Button - Expert Tips & Tricks</u></a></li>
+<li><a href="https://techtrends.techidaily.com/maximizing-movie-magic-the-ultimate-guide-to-home-viewed-3d-films-via-fandango/"><u>Maximizing Movie Magic: The Ultimate Guide to Home Viewed 3D Films via Fandango</u></a></li>
+<li><a href="https://android-frp.techidaily.com/nokia-105-classic-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Nokia 105 Classic ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/nvidias-display-armada-back-online/"><u>Nvidia's Display Armada Back Online</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/octobers-best-deals-alert-snag-the-discounted-apple-m2-macbook-air-for-just-749-on-amazon-prime-day-zdnet-coverage/"><u>October's Best Deals Alert: Snag the Discounted Apple M2 MacBook Air for Just $749 on Amazon Prime Day | ZDNet Coverage</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/primes-premier-pieces-the-watched-and-tweeted-superstars-for-2024/"><u>Prime’s Premier Pieces The #Watched & Tweeted Superstars for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/revive-your-iphone-5-remedies-for-a-non-responsive-home-pushbutton/"><u>Revive Your iPhone: 5 Remedies for a Non-Responsive Home Pushbutton</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-6-causes-of-iphone-sluggishness-and-solutions-to-speed-it-up/"><u>Top 6 Causes of iPhone Sluggishness & Solutions to Speed It Up</u></a></li>
+<li><a href="https://fox-that.techidaily.com/tracking-down-your-apple-facetime-images-a-comprehensive-guide/"><u>Tracking Down Your Apple FaceTime Images - A Comprehensive Guide</u></a></li>
 </ul></div>
 

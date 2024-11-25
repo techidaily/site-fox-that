@@ -1,7 +1,7 @@
 ---
 title: How to Quickly Force Restart Your iPhone & Switch Over to Advanced Repair Modes
-date: 2024-08-27T14:45:19.575Z
-updated: 2024-08-28T14:45:19.575Z
+date: 2024-11-17T19:08:23.070Z
+updated: 2024-11-24T19:38:54.374Z
 tags:
   - iphone
   - apple
@@ -13,6 +13,10 @@ thumbnail: https://thmb.techidaily.com/c9271a8faf33c0a549b22ca0028cd9619d63965df
 ---
 
 ## How to Quickly Force Restart Your iPhone & Switch Over to Advanced Repair Modes
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -38,6 +42,10 @@ thumbnail: https://thmb.techidaily.com/c9271a8faf33c0a549b22ca0028cd9619d63965df
 
 ![The recovery mode image shown on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/04/iPhone-Recovery-Mode.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Note that when you reinstall iOS, you'll lose all the data on your iPhone. This isn't a problem if you [make regular iPhone backups](https://www.makeuseof.com/tag/how-to-backup-iphone-ipad/) , which you can do using iCloud or locally in iTunes or Finder. Unfortunately, you can't back up your device in recovery mode, since the process will only offer to restore the firmware.
 
  As such, if you are stuck with an iPhone that won't boot and you don't have [a backup to restore](https://www.makeuseof.com/tag/restore-iphone-ipad-from-backup/) , there's nothing you can do to save your data. You'll have to proceed with these steps and then start fresh.
@@ -46,9 +54,6 @@ thumbnail: https://thmb.techidaily.com/c9271a8faf33c0a549b22ca0028cd9619d63965df
 
 ![iPhone 13 Mini - One hand navigation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/DSC05683.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The iPhone 8 and later, including every iPhone model with Face ID, all use the same set of steps to force restart and enter recovery mode. The below steps will work with the iPhone 8/8 Plus, iPhone X, XS, XR, iPhone 11 line, second-generation iPhone SE, iPhone 12 series, and iPhone 13 devices.
 
  Note that you'll need to perform these button combinations fairly quickly. If they don't work once, try them again but faster.
@@ -60,8 +65,9 @@ thumbnail: https://thmb.techidaily.com/c9271a8faf33c0a549b22ca0028cd9619d63965df
 3. Hold the**Side** button until you see an Apple logo. Let go of the button when you see this logo.
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### How to Put an iPhone 8 or Newer Into Recovery Mode
 
 1. Connect your iPhone to a computer.  
@@ -76,16 +82,25 @@ thumbnail: https://thmb.techidaily.com/c9271a8faf33c0a549b22ca0028cd9619d63965df
 ![iPhone 7 display](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/07/features-we-miss-in-modern-iphones-6.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  The iPhone 7/7 Plus was the first iPhone model to lack a mechanical Home button, meaning that the Home button doesn't function when the phone is turned off. This required Apple to change the force restart and recovery mode shortcuts for the first time since the iPhone launched in 2007.
 
  These steps also work to force restart the seventh-generation iPod touch, which released in 2019\. This is currently the final iPod touch model that Apple released.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to Force Restart the iPhone 7 or 7 Plus
 
 1. Press and hold the**Side** button (or**Top** button on the iPod touch) and**Volume Down** buttons at the same time.
 2. Continue holding the buttons until you see the Apple logo, then let go.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to Put the iPhone 7 or 7 Plus Into Recovery Mode
 
@@ -95,21 +110,12 @@ thumbnail: https://thmb.techidaily.com/c9271a8faf33c0a549b22ca0028cd9619d63965df
 3. Keep holding the buttons, even once you see the Apple logo.
 4. Release both buttons when you see the**Recovery Mode** screen, then proceed through the steps (explained below).
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Enter Recovery Mode on iPhone 6s and Older
 
 ![iPhone 6S Touch ID](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/11/iPhone-6S-Touch-ID.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
  The iPhone 6s, released in 2015, was Apple's last iPhone with a mechanical home button. The following steps work for that device, as well as all iPhones that came before it. This includes the Plus models, first-generation iPhone SE, and sixth-generation iPod touch and earlier.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### How to Force Restart the iPhone 6s and Older
 
 1. Press and hold both the**Home** and**Side** (or**Top**) buttons.  
@@ -128,6 +134,10 @@ thumbnail: https://thmb.techidaily.com/c9271a8faf33c0a549b22ca0028cd9619d63965df
 
 ![iPad Home Screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/iPad-Home-Screen.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Need to force restart or use recovery mode on your iPad? The process is simple.
 
  To perform these procedures on an iPad model with a Home button, follow the same instructions for the iPhone 6s and earlier, described above. You'll need to press and hold the**Top** and**Home** buttons at the same time. Let go when you see the Apple logo if you want to force restart, or keep holding if you want to enter recovery mode.
@@ -136,9 +146,6 @@ thumbnail: https://thmb.techidaily.com/c9271a8faf33c0a549b22ca0028cd9619d63965df
 
  Remember that on iPad models, the power button is on top, not on the side.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ## How to Recover Your iPhone Using Recovery Mode
 
  When you put your device into recovery mode using the above instructions, you'll have 15 minutes to begin reinstalling iOS or iPadOS before your device automatically exits recovery mode. You'll need to repeat the combination of button presses to put it back into recovery mode if this happens.
@@ -149,9 +156,6 @@ thumbnail: https://thmb.techidaily.com/c9271a8faf33c0a549b22ca0028cd9619d63965df
 
 ![iTunes Repair iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2018/03/problem_iphone_recovery.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
  Once your iPhone reboots following the restore process, you'll need to walk through the setup again like it's a new iPhone. Part of this is logging in with your Apple ID credentials to remove [Apple's Activation Lock](https://support.apple.com/en-us/HT201365) . This is a security feature that prevents someone else from using your device if it's reset without signing out of iCloud.
 
  Because of this, you should never [buy a secondhand iPhone](https://www.makeuseof.com/things-to-check-before-buying-second-hand-iphone-online/) if the seller refuses to unlock it in front of you. A reset phone with Activation Lock still enabled will ask for the owner's Apple ID before you can begin the setup process, making it useless to you without this info.
@@ -168,8 +172,6 @@ thumbnail: https://thmb.techidaily.com/c9271a8faf33c0a549b22ca0028cd9619d63965df
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -177,4 +179,26 @@ thumbnail: https://thmb.techidaily.com/c9271a8faf33c0a549b22ca0028cd9619d63965df
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-focusing-the-lens-advanced-cinematic-techniques/"><u>[New] Focusing the Lens Advanced Cinematic Techniques</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-epic-gaming-recorded-an-analysis/"><u>[New] In 2024, Epic Gaming Recorded An Analysis</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-joke-jingles-guide-best-ringtones-online/"><u>[Updated] 2024 Approved Joke Jingles Guide Best Ringtones Online</u></a></li>
+<li><a href="https://fox-that.techidaily.com/avoid-missing-key-communications-with-these-8-fixes-for-enabling-dnd-on-iphones/"><u>Avoid Missing Key Communications with These 8 Fixes for Enabling DND on iPhones</u></a></li>
+<li><a href="https://fox-that.techidaily.com/effortless-troubleshooting-a-guide-to-overcoming-apple-pay-glitches-top-10-tips/"><u>Effortless Troubleshooting: A Guide to Overcoming Apple Pay Glitches (Top 10 Tips)</u></a></li>
+<li><a href="https://extra-information.techidaily.com/essential-phones-for-optimal-gear-vr-performance-update-2023/"><u>Essential Phones for Optimal Gear VR Performance - Update 2023</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-samsung-galaxy-s23-ultra-is-unlocked-by-drfone-android/"><u>How To Check if Your Samsung Galaxy S23 Ultra Is Unlocked</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-enable-seamless-whatsapp-synchronization-with-icloud/"><u>How to Enable Seamless WhatsApp Synchronization with iCloud</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-get-behringers-professional-audio-driver-for-seamless-usb-connectivity/"><u>How to Get Behringer's Professional Audio Driver for Seamless USB Connectivity</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-install-and-update-lenovo-ideapad-100-drivers-on-windows-10/"><u>How to Install and Update Lenovo IdeaPad 100 Drivers on Windows 10</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-high-end-online-locations-for-metallic-3d-lettering/"><u>In 2024, High-End Online Locations for Metallic 3D Lettering</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-icloud-on-iphone-8-smoothly-by-drfone-ios/"><u>In 2024, How To Remove iCloud On iPhone 8 Smoothly</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-maximizing-revenue-crafting-engaging-fb-animation-ads/"><u>In 2024, Maximizing Revenue Crafting Engaging FB Animation Ads</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721463455963-iphone-control-center-not-responding-discover-8-fixes-that-work/"><u>IPhone Control Center Not Responding? Discover 8 Fixes That Work</u></a></li>
+<li><a href="https://fox-that.techidaily.com/lost-an-app-on-your-iphone-heres-how-you-can-find-and-restore-it-easily/"><u>Lost an App on Your iPhone? Here's How You Can Find and Restore It Easily</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-broken-button-blues-effective-ways-to-reset-your-iphone-without-a-hitch/"><u>Overcoming Broken Button Blues: Effective Ways to Reset Your iPhone Without a Hitch</u></a></li>
+<li><a href="https://fox-that.techidaily.com/quick-solutions-repair-airdrop-issues-with-these-16-essential-tips/"><u>Quick Solutions: Repair AirDrop Issues with These 16 Essential Tips</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-the-issue-revive-non-responsive-icloud-options-in-ios-devices/"><u>Solving the Issue: Revive Non-Responsive iCloud Options in iOS Devices</u></a></li>
+<li><a href="https://fox-that.techidaily.com/trouble-receiving-late-imessages-discover-9-effective-solutions/"><u>Trouble Receiving Late iMessages? Discover 9 Effective Solutions!</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "How to Get Siri Working Again: A Guide Through the Most Common iPhone/iPad Setbacks"
-date: 2024-08-27T14:45:33.148Z
-updated: 2024-08-28T14:45:33.148Z
+date: 2024-11-21T23:42:02.152Z
+updated: 2024-11-24T16:10:26.606Z
 tags:
   - iphone
   - apple
@@ -13,6 +13,10 @@ thumbnail: https://thmb.techidaily.com/9e54865f3f57ec57dc69d69631538169245afb52f
 ---
 
 ## How to Get Siri Working Again: A Guide Through the Most Common iPhone/iPad Setbacks
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -27,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/9e54865f3f57ec57dc69d69631538169245afb52f
 
  Having trouble getting Siri to work or activate on your iPhone or iPad? We'll cover the most common problems you're likely to experience with Siri, along with some general troubleshooting advice (like how to reset Siri) for good measure.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Siri Doesn't React When You Try to Activate It
 
  In most cases, you'd think Siri isn't working when it doesn't activate after you press the**Side** button (or the**Home** button on iPhone 8 and earlier, including iPhone SE).
@@ -35,6 +43,10 @@ thumbnail: https://thmb.techidaily.com/9e54865f3f57ec57dc69d69631538169245afb52f
 
 ![iphone settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/iphone-settings.PNG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![iphone siri & search settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/iphone-siri-search-settings-2.PNG)
 
 Close
@@ -42,8 +54,9 @@ Close
  You may also want to turn on the option to**Allow Siri When Locked** so you don't need to unlock your iPhone to access Siri.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Siri Is Missing From Your iPhone or iPad Entirely
 
  Perhaps the suggestions above can't help you because Siri is missing from the Settings app on your iPhone or iPad. There are a couple of reasons why this might be the case.
@@ -54,35 +67,27 @@ Close
 
 ![iphone general settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/iphone-general-settings.PNG)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ![iphone language & region settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/iphone-language-region-settings.PNG)
 
 ![iphone region select list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/iphone-region-select-list.PNG)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 Close
 
  Second, make sure you haven't disabled Siri using Screen Time on your iPhone by mistake. Go to **Settings > Screen Time > Content & Privacy Restrictions** to check. If it's toggled on, tap**Allowed Apps** and make sure**Siri & Dictation** is enabled.
 
 ![iphone screen time setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/iphone-screen-time-setting.PNG)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![iphone content and privacy restrictions setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/iphone-content-and-privacy-restrictions-setting.PNG)
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![allowed apps on iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/allowed-apps-on-iphone.PNG)
 
 Close
 
  If only Siri suggestions are missing, apply these [solutions to make Siri suggestions show up on your iPhone](https://www.makeuseof.com/siri-suggestions-not-appearing-on-iphone-fixes/) again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Siri Doesn't React When You Say "Hey Siri"
 
@@ -96,9 +101,6 @@ Close
 
 ![iphone siri settings in accessibility](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/iphone-siri-settings-in-accessibility.PNG)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Close
 
 ## 4\. Siri Can't Hear You or Doesn't Understand What You Say
@@ -125,9 +127,6 @@ Close
 
 ![iphone siri responses settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/iphone-siri-responses-settings.PNG)
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![iphone siri voice settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/iphone-siri-voice-settings.PNG)
 
 Close
@@ -146,10 +145,11 @@ Close
 
 ![iphone reset settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/iphone-reset-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![reset iphone settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/iphone-reset-settings.JPEG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -165,42 +165,26 @@ Close
 
 ![iphone bluetooth turned on](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/iphone-bluetooth-turned-on.PNG)
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Close
 
  If that doesn't work, make sure each device is logged into the same Apple account by looking at the profile name at the top of the**Settings** app. If one of your devices is not on the same Apple ID, tap the name, scroll down, and tap**Sign Out** . Then tap**Sign in to your iPhone** to use another account.
 
 ![iphone settings showing apple id](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/iphone-settings-showing-apple-id.PNG)
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![iphone showing apple id sign out button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/iphone-showing-apple-id-sign-out-button.PNG)
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![iphone settings showing apple id not signed in yet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/iphone-settings-showing-apple-id-not-signed-in-yet.PNG)
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 Close
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Resetting Siri and Other General Fixes
 
  We've shown you how to fix the most common problems with Siri, but those solutions aren't going to work for everyone. If Siri still isn't working on your iPhone or iPad, you can try resetting Siri on your iPhone.
@@ -212,9 +196,14 @@ Close
 ![iphone listen for siri settings showing hey siri selected](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/iphone-listen-for-siri-settings-showing-hey-siri-selected.PNG)
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![prompt to set up hey siri on iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/prompt-to-set-up-hey-siri-on-iphone.PNG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -232,8 +221,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -241,4 +228,20 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-chuckling-and-crying-on-the-same-ig-feed-top-memetic-pages/"><u>[Updated] 2024 Approved Chuckling and Crying on the Same IG Feed Top Memetic Pages</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-stop-video-capture-a-quicktime-guide/"><u>[Updated] 2024 Approved Stop Video Capture A QuickTime Guide</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-halt-real-time-audiovideo-capturing-on-apples-platform/"><u>[Updated] Halt Real-Time Audio/Video Capturing on Apple's Platform</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-examining-instagram-video-selfie-credibility-questions/"><u>2024 Approved Examining Instagram Video Selfie Credibility Questions</u></a></li>
+<li><a href="https://win-blog.techidaily.com/enhancing-playability-a-comprehensive-fix-up-for-low-fps-and-glitchy-moments-in-dragons-dogma-2/"><u>Enhancing Playability: A Comprehensive Fix-Up For Low FPS And Glitchy Moments In Dragon's Dogma 2</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-prevent-recurring-app-crashes-on-your-ios-device-a-guide-with-10-fixes/"><u>How to Prevent Recurring App Crashes on Your iOS Device: A Guide with 10 Fixes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-restore-auto-brightness-functionality-on-your-iphone-7-proven-strategies/"><u>How To Restore Auto-Brightness Functionality on Your iPhone: 7 Proven Strategies.</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-honor-x50-gt-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Honor X50 GT</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721477340025-iphone-imessage-woes-discover-how-to-ensure-message-delivery-success/"><u>IPhone iMessage Woes? Discover How to Ensure Message Delivery Success</u></a></li>
+<li><a href="https://win-blog.techidaily.com/red-dead-redemption-2-optimized-smoothing-out-lag-and-boosting-frames-per-second-fps/"><u>Red Dead Redemption 2 Optimized: Smoothing Out Lag and Boosting Frames Per Second (FPS)</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/samsung-galaxy-tab-s6-review-s-pen-dex-mode-and-more/"><u>Samsung Galaxy Tab S6 Review: S Pen, DeX Mode, and More</u></a></li>
+<li><a href="https://fox-that.techidaily.com/silent-iphone-discover-proven-techniques-to-restore-sound/"><u>Silent iPhone? Discover Proven Techniques to Restore Sound</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-an-sos-only-display-on-iphone-discover-six-remedies/"><u>Troubleshoot an 'SOS Only' Display on iPhone: Discover Six Remedies</u></a></li>
+</ul></div>
 

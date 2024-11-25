@@ -1,7 +1,7 @@
 ---
 title: "Solving the Launch Error for Age of Empires 4: Expert Tips & Solutions"
-date: 2024-11-11T20:19:22.984Z
-updated: 2024-11-15T18:09:53.168Z
+date: 2024-11-17T23:19:58.793Z
+updated: 2024-11-24T22:44:18.998Z
 tags:
   - win11
   - win10
@@ -37,6 +37,10 @@ thumbnail: https://thmb.techidaily.com/c23fd39a2d5eab7804c8c0b256c287da5a7d97c2d
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: End the Epic Games Launcher process in Task Manager
 
  Make sure the Epic Games launcher is not running in the background. If it is, when you double-click its shortcut on your desktop, it won’t launch. So you need to end the processes related to Epic Games Launcher in Task Manager first. Here’s how to do it:
@@ -48,13 +52,6 @@ thumbnail: https://thmb.techidaily.com/c23fd39a2d5eab7804c8c0b256c287da5a7d97c2d
  2) In Task Manager, select**EpicGamesLauncher** and click**End task** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1047-1024x543.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3) Run Epic Games Launcher to see if you’ve resolved this issue.
 
@@ -70,16 +67,13 @@ thumbnail: https://thmb.techidaily.com/c23fd39a2d5eab7804c8c0b256c287da5a7d97c2d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1048.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  See if you can launch the program. If so, you should delete its shortcut on your desktop and create a new one. If it still won’t launch, don’t worry. Try the next fix, below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Adjust your display settings
 
@@ -89,16 +83,13 @@ thumbnail: https://thmb.techidaily.com/c23fd39a2d5eab7804c8c0b256c287da5a7d97c2d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1053.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) In the**Scale and layout** section, make sure it is set to**100%** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1056.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3) Run Epic Games Launcher again to see if this issue reappears.
 
@@ -107,10 +98,7 @@ thumbnail: https://thmb.techidaily.com/c23fd39a2d5eab7804c8c0b256c287da5a7d97c2d
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Update your graphics driver
@@ -133,17 +121,14 @@ thumbnail: https://thmb.techidaily.com/c23fd39a2d5eab7804c8c0b256c287da5a7d97c2d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1072.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 _You can do it for free if you like, but it’s partly manual._
 
  The Pro version of Driver Easy comes with full technical support.  
  If you need assistance, please contact**Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Change Epic Games Launcher Properties
 
@@ -154,10 +139,7 @@ _You can do it for free if you like, but it’s partly manual._
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-496.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Under the**Shortcut** tab, locate the**Target:** field. Add_\-OpenGL_ to the end of the path filed. The contents of the Target field should look like the following:
@@ -173,6 +155,10 @@ _You can do it for free if you like, but it’s partly manual._
  If it won’t open, try the next fix to disable your antivirus software temporarily.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Add Epic Games Launcher as an exception to your third-party antivirus application
 
@@ -204,6 +190,10 @@ _You can do it for free if you like, but it’s partly manual._
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 8: Reinstall Epic Games Launcher
 
  If none of the fixes above work for you, you may need to reinstall Epic Games Launcher. You can follow the steps below:
@@ -215,13 +205,6 @@ _You can do it for free if you like, but it’s partly manual._
  2)**Right-click** on**Epic Games Launcher** and select**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1070.png)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3) Restart your computer.
 
@@ -251,24 +234,24 @@ Normally, after you reinstall Epic Games Launcher, it should open.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-top-10-apps-for-creating-spectacular-instagram-reels/"><u>[New] In 2024, Top 10 Apps for Creating Spectacular Instagram Reels</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-unleash-the-power-of-visuals-with-top-free-slideshow-designs/"><u>[New] Unleash the Power of Visuals with Top Free Slideshow Designs</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-screen-spectrum-your-gateway-to-gameplay/"><u>[Updated] 2024 Approved Screen Spectrum Your Gateway to Gameplay</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-oneplus-12r-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From OnePlus 12R to iPhone (13/14/15) | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/blocked-on-imessage-how-to-confirm-if-someone-is-ignoring-you-or-not-receiving-messages-anymore/"><u>Blocked on iMessage? How to Confirm if Someone Is Ignoring You or Not Receiving Messages Anymore</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/brainstorm-blueprint-gpt-3-meets-mindmaps/"><u>Brainstorm Blueprint: GPT-3 Meets Mindmaps</u></a></li>
-<li><a href="https://fox-that.techidaily.com/decoding-iphone-silence-strategies-to-confirm-whether-someone-has-blocked-your-imessages-and-phone-calls/"><u>Decoding iPhone Silence: Strategies to Confirm Whether Someone Has Blocked Your iMessages and Phone Calls</u></a></li>
-<li><a href="https://win-answers.techidaily.com/exclusive-insights-into-why-maf/"><u>Exclusive Insights Into Why Maf</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fix-your-airdrop-woes-instantly-discover-these-16-easy-to-follow-remedies/"><u>Fix Your AirDrop Woes Instantly - Discover These 16 Easy-to-Follow Remedies</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fixing-issues-ensuring-seamless-functionality-of-non-endorsed-iphone-extras/"><u>Fixing Issues: Ensuring Seamless Functionality of Non-Endorsed iPhone Extras</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721468804050-how-to-restore-functionality-to-a-broken-iphone-home-push-5-easy-fixes/"><u>How to Restore Functionality to a Broken iPhone Home Push: 5 Easy Fixes!</u></a></li>
-<li><a href="https://fox-that.techidaily.com/overcoming-whatsapp-sync-hurdles-step-by-step-solutions-for-icloud-backups-not-working/"><u>Overcoming WhatsApp Sync Hurdles: Step-by-Step Solutions for iCloud Backups Not Working</u></a></li>
-<li><a href="https://fox-that.techidaily.com/resolve-your-iphone-control-center-malfunctions-with-this-comprehensive-step-by-step-guide/"><u>Resolve Your iPhone Control Center Malfunctions with This Comprehensive Step-by-Step Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/six-essential-tips-to-prevent-stray-games-from-crashing-on-windows-systems/"><u>Six Essential Tips to Prevent Stray Games From Crashing on Windows Systems</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/streamline-your-writing-process-transcribing-with-microsoft-word-for-2024/"><u>Streamline Your Writing Process Transcribing with Microsoft Word for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/struggling-with-the-disappearing-depth-effect-on-ios-16-try-out-these-7-easy-fixes-today/"><u>Struggling with the Disappearing Depth Effect on iOS 16? Try Out These 7 Easy Fixes Today!</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-history-and-evolution-of-street-mapping-techniques-and-tools/"><u>The History and Evolution of Street Mapping Techniques and Tools;</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/ultimate-review-the-moto-g-powers-impressive-energy-longevity-meets-stunning-design-quality/"><u>Ultimate Review: The Moto G Power's Impressive Energy Longevity Meets Stunning Design Quality</u></a></li>
-<li><a href="https://fox-that.techidaily.com/ultimate-troubleshooting-guide-solving-connectivity-issues-with-your-iphone-and-airpods/"><u>Ultimate Troubleshooting Guide: Solving Connectivity Issues with Your iPhone and AirPods</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-the-ultimate-guide-to-irecorders-features/"><u>[New] 2024 Approved The Ultimate Guide to iRecorder's Features</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-high-quality-capture-on-mac-a-review-of-top-10-software/"><u>[New] High-Quality Capture on Mac A Review of Top 10 Software</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-raucous-reels-crafting-7-comedy-storylines-for-social-media-stars/"><u>[Updated] Raucous Reels Crafting 7 Comedy Storylines for Social Media Stars</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-youtubes-prime-moments-celebrations-beyond-vidcon/"><u>[Updated] Youtube's Prime Moments Celebrations Beyond VidCon</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-videotwitter-audible-direct-download/"><u>2024 Approved VideoTwitter Audible Direct Download</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/cing-video-soundtracks-on-digital-platforms/"><u>Enhancing Video Soundtracks on Digital Platforms</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-your-iphones-call-problem-top-10-tips-and-tricks/"><u>Fixing Your iPhone's Call Problem: Top 10 Tips and Tricks</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Honor X50 GT? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-factory-reset-ipad-or-iphone-6s-without-icloud-password-or-apple-id-by-drfone-ios/"><u>How to Factory Reset iPad or iPhone 6s without iCloud Password or Apple ID?</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-10-essential-methods-to-record-virtual-seminars-at-no-expense/"><u>In 2024, 10 Essential Methods to Record Virtual Seminars at No Expense</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-utilizing-cross-platform-strategies-for-video-success/"><u>In 2024, Utilizing Cross-Platform Strategies for Video Success</u></a></li>
+<li><a href="https://fox-that.techidaily.com/mastering-iphone-display-settings-how-to-enable-smooth-mode-transitions/"><u>Mastering iPhone Display Settings: How to Enable Smooth Mode Transitions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcome-safaris-limitations-easy-steps-for-full-page-imaging/"><u>Overcome Safari's Limitations: Easy Steps for Full Page Imaging</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolve-non-functional-widgets-on-ios-devices-in-just-10-steps/"><u>Resolve Non-Functional Widgets on iOS Devices in Just 10 Steps</u></a></li>
+<li><a href="https://fox-that.techidaily.com/silencing-duplicate-notifications-keeping-your-ipad-quiet-when-the-iphone-dials/"><u>Silencing Duplicate Notifications: Keeping Your iPad Quiet When the iPhone Dials</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-5-solutions-why-does-my-iphone-keep-losing-wi-fi-connection/"><u>Top 5 Solutions: Why Does My iPhone Keep Losing Wi-Fi Connection?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-9-solutions-to-correct-the-orange-hue-on-your-iphone-display/"><u>Top 9 Solutions to Correct the Orange Hue on Your iPhone Display</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-a-non-responsive-iphone-display-effective-solutions/"><u>Troubleshooting a Non-Responsive iPhone Display: Effective Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unstuck-from-safaris-full-page-shot-glitch-easy-fixes-for-a-smooth-snapshot-experience/"><u>Unstuck From Safari's Full Page Shot Glitch: Easy Fixes for a Smooth Snapshot Experience</u></a></li>
 </ul></div>
 

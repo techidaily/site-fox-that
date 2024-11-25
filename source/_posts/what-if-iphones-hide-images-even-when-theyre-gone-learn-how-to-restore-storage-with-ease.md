@@ -1,7 +1,7 @@
 ---
 title: What If iPhones Hide Images Even When They're Gone? Learn How to Restore Storage with Ease
-date: 2024-08-27T14:40:59.226Z
-updated: 2024-08-28T14:40:59.226Z
+date: 2024-11-20T05:03:13.233Z
+updated: 2024-11-24T20:10:17.146Z
 tags:
   - iphone
   - apple
@@ -34,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/b44ba119c3a3d46ced364c534eba92d8a8e7f5db9
 
 ![all photos selected to delete](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/all-photos-selected-to-delete.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![recover and delete options in recently deleted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/recover-and-delete-options-in-recently-deleted.jpg)
 
 Close
@@ -56,16 +60,18 @@ Close
 
 ![software update in general settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/software-update-in-general-settings-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![software update available in settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/software-update-available-in-settings-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 Close
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Modify the Date and Time to Reveal Old Photos
 
  The exact reasoning behind this fix isn't clear, but it often happens that media you deleted in the past returns as hidden files on your device. You won't know they exist, and you can't see them in the Recents album either.
@@ -81,23 +87,18 @@ Close
 
 ![iOS Settings General Page Open](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/ios-general-settings.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ![date & time general settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/date-time-general-settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![date & time set automatically toggle turned off](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/date-time-set-automatically-toggle-turned-off.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Close
 
  Deleting these "ghost files" that reappear should help free up that extra space on your iPhone (and even iCloud). Don't forget to set the time option back to automatic when you're done!
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Disable iCloud Sync (After Completing a Backup)
 
  iCloud Photos allows you to upload your iPhone's pictures to iCloud automatically. While this is convenient and a good way to protect your photos, it can also lead to your photos taking up too much space in iCloud.
@@ -112,18 +113,16 @@ Close
 
 ![iCloud settings in Apple ID](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/icloud-settings-in-apple-id-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![iCloud options under Apple ID settings on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/icloud-options-under-apple-id-settings-on-iphone.jpeg)
 
 ![sync this iPhone toggle in iCloud photos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/sync-this-iphone-toggle-in-icloud-photos-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Close
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 6\. Optimize iPhone Photos for Storage
 
  If photos are taking up too much space on your iPhone's storage all the time, the optimization option is handy. This has your iPhone decrease the resolution of media saved locally in Photos but retains a full-resolution copy in iCloud. There, you will have to toggle on iCloud Photos for this fix, unlike the previous one.
@@ -136,11 +135,16 @@ Close
 
 ![photos in iPhone settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/photos-in-iphone-settings-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![optimise iPhone storage option in iCloud settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/optimise-iphone-storage-option-in-icloud-settings.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Close
 
 ## 7\. Factory Reset Your iPhone
@@ -159,18 +163,20 @@ To factory reset your iPhone, follow these steps:
 
 ![general in iPhone settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/general-in-iphone-settings-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Settings on iOS 17 showing the Transfer or Reset iPhone option highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/apple-ios-17-settings-transfer-or-reset-iphone-highlighted.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![reset iPhone options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/reset-iphone-options.jpg)
 
 Close
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 8\. Contact Apple Support
 
  You need to get in touch with an expert when all else fails. If the problem persists even after a factory reset, then it's likely severe, and you should get professional support from Apple.
@@ -202,8 +208,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -211,4 +215,26 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-is-higher-frame-rate-better-weighing-30-vs-60fps-in-video/"><u>[New] 2024 Approved Is Higher Frame Rate Better? Weighing 30 Vs. 60Fps in Video</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-bridging-social-media-posting-tweets-on-fb-for-2024/"><u>[New] Bridging Social Media Posting Tweets on FB for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-convert-twitter-vids-to-customized-soundtracks-for-2024/"><u>[New] Convert Twitter Vids to Customized Soundtracks for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-global-youtube-rich-list-pinnacle/"><u>[New] In 2024, Global YouTube Rich List Pinnacle</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-accelerate-your-editing-with-these-10-pro-plugins/"><u>[Updated] Accelerate Your Editing with These 10 Pro Plugins</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-seamlessly-turning-tiktok-videos-into-gifs-with-best-tools/"><u>[Updated] In 2024, Seamlessly Turning TikTok Videos Into GIFs with Best Tools</u></a></li>
+<li><a href="https://fox-that.techidaily.com/bypassing-the-apple-logo-dilemma-effective-strategies-for-iphone-recovery/"><u>Bypassing the Apple Logo Dilemma: Effective Strategies for iPhone Recovery</u></a></li>
+<li><a href="https://fox-that.techidaily.com/error-14-on-your-iphone-heres-how-to-fix-it/"><u>Error 14 on Your iPhone? Here's How to Fix It</u></a></li>
+<li><a href="https://fox-that.techidaily.com/home-button-woes-on-iphones-quick-and-easy-repair-techniques-you-should-know/"><u>Home Button Woes on iPhones: Quick and Easy Repair Techniques You Should Know</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-repair-your-iphones-malfunctioning-camera-top-er-7-troubleshooting-steps/"><u>How to Repair Your iPhone's Malfunctioning Camera - Top Er 7 Troubleshooting Steps</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcome-airpods-audio-hiccups-a-list-of-top-10-fixes-for-clearer-sounds/"><u>Overcome AirPods Audio Hiccups: A List of Top 10 Fixes for Clearer Sounds</u></a></li>
+<li><a href="https://fox-that.techidaily.com/rescuing-your-iphone-after-a-water-spill-methods-for-drying-phone-speakers/"><u>Rescuing Your iPhone After a Water Spill: Methods for Drying Phone Speakers</u></a></li>
+<li><a href="https://fox-that.techidaily.com/safari-not-responding-on-iphone-here-are-10-fixes-to-try-now/"><u>Safari Not Responding on iPhone? Here Are 10 Fixes to Try Now!</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/-for-inspirational-daily-living-visual-stories-for-2024/"><u>Steps for Inspirational Daily Living Visual Stories for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721472258366-struggling-with-iphones-contact-list-discover-3-effective-troubleshooting-tips/"><u>Struggling with iPhone's Contact List? Discover 3 Effective Troubleshooting Tips!</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/the-learners-guide-to-best-rated-history-yt-channels-1-10/"><u>The Learner's Guide to Best-Rated History YT Channels #1-10</u></a></li>
+<li><a href="https://extra-information.techidaily.com/top-5-fpv-monitors-to-dominate-the-skies/"><u>Top 5 FPV Monitors to Dominate the Skies</u></a></li>
+<li><a href="https://fox-that.techidaily.com/understanding-the-causes-7-reasons-for-poor-iphone-and-android-connection-pace/"><u>Understanding the Causes: 7 Reasons for Poor iPhone and Android Connection Pace</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/virtual-city-escapades-a-list-of-flavorful-pals-to-gta-v/"><u>Virtual City Escapades - A List of Flavorful Pals to GTA V</u></a></li>
+</ul></div>
 

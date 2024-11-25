@@ -1,7 +1,7 @@
 ---
 title: Are Your iPhones Keeping Pics in Space After You Erase Them? Here Are 8 Fixes to Look Into
-date: 2024-09-27T05:19:34.271Z
-updated: 2024-10-02T01:08:09.438Z
+date: 2024-11-19T02:24:23.375Z
+updated: 2024-11-25T03:59:49.666Z
 tags:
   - iphone
   - apple
@@ -39,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/b1298562b7193494067b08625dc9c68d20eae1f23
 
 ![all photos selected to delete](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/all-photos-selected-to-delete.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![recover and delete options in recently deleted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/recover-and-delete-options-in-recently-deleted.jpg)
 
 Close
@@ -46,22 +50,12 @@ Close
  If the problem isn't fixed after clearing out this folder, the rest of the below tips will lead you to a fix.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Restart Your iPhone
 
  Rebooting the system is a conventional fix to numerous bugs and errors. After you've removed a huge chunk of media from your storage, it's important to [restart your iPhone](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) . This will hopefully clear out any temporary hiccups causing your available storage to show incorrectly.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Update to the Latest iOS Software
 
@@ -77,14 +71,11 @@ Close
 
 ![software update available in settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/software-update-available-in-settings-1.jpg)
 
-Close
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+Close
 
 ## 4\. Modify the Date and Time to Reveal Old Photos
 
@@ -103,31 +94,14 @@ Close
 
 ![date & time general settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/date-time-general-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![date & time set automatically toggle turned off](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/date-time-set-automatically-toggle-turned-off.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Close
 
  Deleting these "ghost files" that reappear should help free up that extra space on your iPhone (and even iCloud). Don't forget to set the time option back to automatic when you're done!
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Disable iCloud Sync (After Completing a Backup)
@@ -144,16 +118,13 @@ Close
 
 ![iCloud settings in Apple ID](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/icloud-settings-in-apple-id-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![iCloud options under Apple ID settings on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/icloud-options-under-apple-id-settings-on-iphone.jpeg)
 
 ![sync this iPhone toggle in iCloud photos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/sync-this-iphone-toggle-in-icloud-photos-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -171,7 +142,15 @@ Close
 
 ![optimise iPhone storage option in iCloud settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/optimise-iphone-storage-option-in-icloud-settings.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Close
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Factory Reset Your iPhone
 
@@ -190,10 +169,7 @@ To factory reset your iPhone, follow these steps:
 ![general in iPhone settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/general-in-iphone-settings-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Settings on iOS 17 showing the Transfer or Reset iPhone option highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/apple-ios-17-settings-transfer-or-reset-iphone-highlighted.jpg)
@@ -221,6 +197,10 @@ Close
 * [Offload apps](https://www.makeuseof.com/tag/delete-offload-apps-save-space-iphone-ipad/) that take up a great amount of storage.
 * Disable iCloud Photos if you don't use it—consider backing up photos to another cloud service.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Your iPhone Storage Can Breathe Now
 
  This iPhone and iCloud storage error, experienced by many, is definitely a pain. Fortunately, there are some ways around it. Hopefully, the methods presented here let you get your photo storage usage back to normal.
@@ -242,16 +222,19 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-navigate-video-trimming-with-ease-on-windows-11-photos/"><u>[New] Navigate Video Trimming with Ease on Windows 11 Photos</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/expert-analysis-cyberpower-cp685avrg-survives-as-a-reliable-entry-level-uninterruptible-power-supply/"><u>Expert Analysis: Cyberpower CP685AVRG Survives as a Reliable Entry-Level Uninterruptible Power Supply</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-factory-unlock-your-telstra-apple-iphone-6-plus-by-drfone-ios/"><u>How To Factory Unlock Your Telstra Apple iPhone 6 Plus</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-avs-video-editor-review-features-pricing-and-performance/"><u>New AVS Video Editor Review Features, Pricing, and Performance</u></a></li>
-<li><a href="https://fox-that.techidaily.com/restoring-removed-text-notes-on-apples-iphone-with-ease/"><u>Restoring Removed Text Notes on Apple's iPhone with Ease</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solving-your-iphoneipad-wi-fi-connection-issues-top-8-solutions/"><u>Solving Your iPhone/iPad Wi-Fi Connection Issues: Top 8 Solutions</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/the-gamers-blueprint-for-a-booming-youtube-channel/"><u>The Gamer's Blueprint for a Booming YouTube Channel</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-palette-of-the-future-creating-with-ai-and-chatgpt/"><u>The Palette of the Future: Creating with AI & ChatGPT</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721478466335-trouble-with-iphone-display-orientation-learn-the-quick-fix/"><u>Trouble with iPhone Display Orientation? Learn the Quick Fix</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshoot-iphone-notification-issues-with-7-proven-tips/"><u>Troubleshoot iPhone Notification Issues with 7 Proven Tips</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/verstandnis-der-richtlinien-fur-die-ruckerstattung-bei-kauf-von-winxdvd-software-durch-digiarty-kunden/"><u>Verständnis Der Richtlinien Für Die Rückerstattung Bei Kauf Von WinXDVD Software Durch DigiArty Kunden</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-budget-buyers-guide-to-drone-tech-under-100/"><u>[New] 2024 Approved Budget Buyers' Guide to Drone Tech Under $100</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-avoiding-pitfalls-securing-your-skype-recordings-in-obs-for-2024/"><u>[New] Avoiding Pitfalls Securing Your Skype Recordings in OBS for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-editorial-elegance-at-the-end/"><u>[New] Editorial Elegance at the End</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-facebooks-guide-to-enhancing-past-recordings-for-live-streaming-for-2024/"><u>[Updated] Facebook's Guide to Enhancing Past Recordings for Live Streaming for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/apples-restrictions-a-closer-look-at-why-sending-presents-is-troublesome/"><u>Apple's Restrictions: A Closer Look at Why Sending Presents Is Troublesome</u></a></li>
+<li><a href="https://article-files.techidaily.com/bring-life-to-your-photos-motion-blur-techniques-for-illustration/"><u>Bring Life to Your Photos Motion Blur Techniques for Illustration</u></a></li>
+<li><a href="https://fox-that.techidaily.com/dealing-with-a-non-functioning-iphone-screen-top-recommendations/"><u>Dealing with a Non-Functioning iPhone Screen - Top Recommendations</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/te-your-content-game-perfectly-tailored-youtube-shorts-thumbnails-for-2024/"><u>Elevate Your Content Game Perfectly Tailored YouTube Shorts Thumbnails for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/getting-iphone-text-messages-working-again-a-guide-to-10-key-solutions/"><u>Getting iPhone Text Messages Working Again: A Guide to 10 Key Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/identifying-and-correcting-wrong-persons-in-applecuestamislabrephotos-app-a-quick-guide/"><u>Identifying and Correcting Wrong Persons in Apple'cuestamislabrephotos App: A Quick Guide</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-detailed-methods-to-convert-tiktok-melodies-into-phone-ringtones/"><u>In 2024, Detailed Methods to Convert TikTok Melodies Into Phone Ringtones</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigate-through-latest-technology-breakthroughs-at-toms-equipment-corner/"><u>Navigate Through Latest Technology Breakthroughs at Tom's Equipment Corner</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-fixes-for-voicemod-malfunction-as-of-2024/"><u>Ultimate Fixes for Voicemod Malfunction as of 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlock-better-performance-the-ultimate-6-step-battery-calibration-guide-for-iphones/"><u>Unlock Better Performance: The Ultimate 6 Step Battery Calibration Guide for iPhones</u></a></li>
 </ul></div>
 

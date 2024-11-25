@@ -1,7 +1,7 @@
 ---
 title: Trouble with iPhone's Volume Controls? Discover 7 Quick Solutions!
-date: 2024-08-27T14:43:55.936Z
-updated: 2024-08-28T14:43:55.936Z
+date: 2024-11-19T02:26:48.696Z
+updated: 2024-11-24T17:41:09.655Z
 tags:
   - iphone
   - apple
@@ -24,11 +24,23 @@ thumbnail: https://thmb.techidaily.com/80e9505289538424f43d5ba12eaf938497fe9485f
 
 ![iphone enable volume button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/iphone-enable-volume-button.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To check this, head to**Settings > Sounds & Haptics** and toggle on**Change with Buttons** . If this isn't enabled, this could be why your volume buttons aren't working. If it's already enabled, proceed to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Remove Your iPhone From Its Case
 
 ![iPhone in a leather case](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/iphone-in-a-leather-case.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  iPhones are expensive, so it's likely that most of you use a case to protect them. In some instances, your case can interfere with your volume buttons. This is especially true with cases that have layers or have built-in screen protectors.
 
@@ -36,15 +48,14 @@ thumbnail: https://thmb.techidaily.com/80e9505289538424f43d5ba12eaf938497fe9485f
 
  It's also possible that prolonged use of a case can cause your volume buttons to get dirty. If that's the case, proceed to the next step.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Clean Your iPhone's Volume Buttons Using Alcohol
 
 ![iPhone Ring/Silent switch](https://thmb.techidaily.com/14af88c4727edfc68754682f8d9e5a16b4632ead51b56f451896cf5d83dd52e4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
  We use our phones so much that dirt and grime can sometimes get under the buttons, especially when not using a case. So, press down on your buttons a few times to check if your buttons are stuck. You might need to clean them if they're stuck or don't seem to click down.
 
  To clean your volume buttons, take a cotton swab and dip it in isopropyl alcohol. The best option for cleaning electronics is 99 percent isopropyl alcohol, as it dries quickly and doesn't contain much water. It also removes dirt and grime by breaking up oils.
@@ -63,13 +74,14 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
 ![iphone erase settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/iphone-erase-settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This will wipe your phone clean and essentially make it like new. Before restoring a backup, go into the device and test the volume buttons. If they work, restore your backup.
 
  In some cases, restoring your backup might make them not work again. If that's the case, it might have been an app you tried to download, or your backup could be corrupted. Sadly, this means starting from scratch unless you have an older backup you can try restoring.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Update Your iPhone
 
  Not updating your iPhone can also cause issues with your iPhone's volume buttons. Outdated iPhones might not work with the latest apps, and the volume controls might not work correctly as a result.
@@ -78,16 +90,14 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
  You can update it by heading to**Settings > General > Software Update** . Here, you can see if a new iOS version is available. If you're using a beta version of iOS, it might be time to switch back to the stable public build and report this issue to Apple.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ## 6\. Control Your iPhone's Volume Without Using Volume Buttons
 
 ![iphone screen volume control](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/iphone-screen-volume-control.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If you use apps like Spotify, you can control the volume within the app without a physical button. If all else fails, there are still ways to control your volume without using the buttons. The easiest way is to use the Control Center.
 
  You can open the Control Center and adjust your volume by swiping down from the top-right corner of your iPhone. If your iPhone has a Home button, you'll need to swipe up from the bottom of the screen instead.
@@ -96,9 +106,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
  If you have AirPods, you can say, "Hey Siri, turn up the volume." Other Bluetooth headphones typically have built-in volume controls, which you can use as well. This means that you won't have to keep going to your phone when you want to change the volume.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ### Control the Volume With AssistiveTouch
 
  If you're looking for another way to control the volume, consider using AssistiveTouch. You can set the AssistiveTouch button to open a menu to control your volume on the screen or have it either turn up or down when tapped.
@@ -117,9 +124,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
  While repairing your iPhone's volume buttons out of pocket can be expensive, it's cheaper than buying a new phone. But if you don't want to pay this price, maybe it's [time to upgrade your iPhone](https://www.makeuseof.com/7-signs-its-time-to-upgrade-your-iphone/) .
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Will Apple Discontinue the Volume Button?
 
  Considering Apple has discontinued the Home button, headphone jack, and Ring/Silent switch, it's logical to assume that one day the volume buttons might disappear too. For now, the volume buttons remain—even the iPhone 15 models have volume buttons.
@@ -132,8 +136,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -141,4 +143,24 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-voice-personalization-tips-for-instagram-users/"><u>[New] 2024 Approved Voice Personalization Tips for Instagram Users</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-how-to-add-narration-to-your-videos/"><u>[Updated] How to Add Narration to Your Videos</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-exploring-all-windows-movie-maker-editions/"><u>2024 Approved Exploring All Windows Movie Maker Editions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/7-annoying-quirks-of-iphone-x-and-their-easy-fixes-revealed/"><u>7 Annoying Quirks of iPhone X and Their Easy Fixes Revealed</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/achieving-realistic-blur-on-images-using-photoshop-techniques-for-2024/"><u>Achieving Realistic Blur on Images Using Photoshop Techniques for 2024</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/el-mejor-software-de-captura-de-pantalla-compatible-con-windows-1087-grabar-cualquier-parte-del-monitor-facilmente/"><u>El Mejor Software De Captura De Pantalla Compatible Con Windows 10/8/7 - Grabar Cualquier Parte Del Monitor Fácilmente</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/expert-analysis-of-google-wifi-why-its-the-perfect-choice-for-seamless-home-connectivity/"><u>Expert Analysis of Google WiFi – Why It’s the Perfect Choice for Seamless Home Connectivity</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-remove-photos-permanently-on-iphone-8-effective-strategies/"><u>How to Remove Photos Permanently on iPhone: 8 Effective Strategies</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-retrieve-your-iphone-when-it-seems-missing-from-find-my-app/"><u>How To Retrieve Your iPhone When It Seems Missing From Find My App</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-oneplus-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock OnePlus Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-contact-app-malfunctioning-discover-the-top-3-solutions-for-a-smooth-fix/"><u>IPhone Contact App Malfunctioning? Discover the Top 3 Solutions for a Smooth Fix</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-compatibility-challenges-stop-total-war-warhammer-iii-from-crashing-on-windows-based-systems/"><u>Overcoming Compatibility Challenges: Stop TOTAL WAR: WARHAMMER III From Crashing on Windows-Based Systems</u></a></li>
+<li><a href="https://fox-that.techidaily.com/stop-the-echo-configuring-your-ipad-to-remain-silent-on-ringing-iphone-notifications/"><u>Stop the Echo: Configuring Your iPad to Remain Silent on Ringing iPhone Notifications</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-oppo-reno-8t-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Oppo Reno 8T Location | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-iphone-call-reception-issues-effectively/"><u>Troubleshooting iPhone Call Reception Issues Effectively</u></a></li>
+<li><a href="https://fox-that.techidaily.com/understanding-iphone-14-top-facts-on-its-battery-performance-concerns/"><u>Understanding iPhone 14: Top Facts on Its Battery Performance Concerns</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unstick-your-iphone-a-comprehensive-list-of-troubleshooting-tips-for-headphone-lockup-issues/"><u>Unstick Your iPhone: A Comprehensive List of Troubleshooting Tips for Headphone Lockup Issues</u></a></li>
+</ul></div>
 

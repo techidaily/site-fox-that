@@ -1,7 +1,7 @@
 ---
 title: "Solve This: Why Won't My iPhone Send or Receive Texts?"
-date: 2024-08-27T14:42:06.776Z
-updated: 2024-08-28T14:42:06.776Z
+date: 2024-11-23T20:18:09.038Z
+updated: 2024-11-25T01:47:06.168Z
 tags:
   - iphone
   - apple
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/92ce41ef8b05767b09e5cccf1de47f0c1a1c9c1b0
 
 ![imessage settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/imessage-settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Below iMessage, you will also see a setting for**Send & Receive** . Make sure you have an address enabled to receive iMessages. While you're here, be sure to also enable**MMS** and**Group Messaging** . If you scroll down, you will see the options for these.
 
 ![mms group messages](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/mms-group-messages.jpg)
@@ -42,6 +46,10 @@ thumbnail: https://thmb.techidaily.com/92ce41ef8b05767b09e5cccf1de47f0c1a1c9c1b0
 
 ![selecting email address for imessage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/apple-imessage-settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Close
 
  If your iPhone isn't receiving picture messages from other iOS devices, or if you're having an issue with iMessage, there is a simple solution. The solution is to edit your Send & Receive settings to include your email.
@@ -50,9 +58,6 @@ Close
 
  Some people might be sending you messages to your email address unknowingly, so changing this particular setting will make it possible to receive these messages.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Make Sure You Have Cellular or Wi-Fi for iMessage
 
  If you are waiting for an iMessage from another iPhone user and aren't getting it, you could have a bad connection. iMessage requires Wi-Fi or cellular data to work.
@@ -61,9 +66,6 @@ Close
 
  To solve this issue, reconnect to Wi-Fi or cellular data. And if you don't have a good connection, you can try the next step.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Bad Connection? Turn on Send as SMS
 
  If you don't have access to a stable internet connection, consider turning on the Send as SMS feature. This will enable you to send regular SMS texts instead of iMessage texts when you don't have service.
@@ -74,9 +76,6 @@ Close
 
 ![send as sms](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/send-as-sms.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Turn Off Message Filtering
 
 [iPhones allow you to filter text messages](https://www.makeuseof.com/how-to-filter-iphone-messages/) from unknown senders. While this is off by default, you may have accidentally turned it on. If that's the case, you could be missing text messages from numbers you don't have saved on your phone.
@@ -88,8 +87,9 @@ Close
  Once you turn it off, head to the Messages app to find any unread messages that the filter hid. Filtered messages don't get deleted. Instead, they get stored in another folder. Once you turn off Message Filtering, you'll see them in the**Messages** app.
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Reset Your Network Settings
 
  Sometimes, third-party apps, updates, and bugs can cause your network settings to malfunction. If this happens, you might not receive iMessages or even text messages in general.
@@ -100,11 +100,16 @@ Close
 
 ![reset network settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/reset-network-settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After resetting your network settings, get someone to send you another text message. If you still can't receive it, you can always try [resetting your iPhone entirely](https://www.makeuseof.com/tag/how-to-factory-reset-iphone-ipad/) . However, that is time-consuming and might not work.
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Contact Your Carrier
 
  If you tried the above fixes and still aren't receiving text messages on your iPhone, it's time to call your carrier. After all, there are many other ways your carrier can help you. For example, there could be a cell tower outage near you that they can inform you of, or you could have an issue with your account.
@@ -114,8 +119,9 @@ Close
  When calling your carrier, just let them know you aren't receiving text messages. If the carrier can't help you, consider switching to a different network provider unless you have a [carrier-locked phone](https://www.makeuseof.com/unlocked-vs-locked-phone/) .
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## iPhone Not Receiving Texts? There Are Things You Can Do
 
  You could miss important events or updates if you're not receiving text messages on your iPhone. This can be difficult for anybody. Because of this, you'll want to get this fixed as soon as possible. After all, you might have already missed some important messages and don't want to miss them anymore.
@@ -130,8 +136,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -139,4 +143,22 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://discord-videos.techidaily.com/new-prime-apps-as-substitutes-for-discord-for-2024/"><u>[New] Prime Apps as Substitutes for Discord for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-twittervidstowebm-direct-media-conversion-for-2024/"><u>[New] TwitterVidsToWebM Direct Media Conversion for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-reverse-video-techniques-for-android-devices-for-2024/"><u>[Updated] Reverse Video Techniques for Android Devices for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-how-to-optimize-solo-streaming-with-flawless-execution/"><u>2024 Approved How to Optimize Solo Streaming with Flawless Execution</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-oppo-a38-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Oppo A38 | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721453827116-cant-see-your-iphone-app-discover-the-steps-to-retrieve-deleted-programs/"><u>Can't See Your iPhone App? Discover the Steps to Retrieve Deleted Programs!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-analysis-of-the-netgear-nighthawk-x4-wi-fi-mesh-system-performance/"><u>Comprehensive Analysis of the Netgear Nighthawk X4 Wi-Fi Mesh System Performance</u></a></li>
+<li><a href="https://fox-that.techidaily.com/dealing-with-restless-noise-changes-in-your-airpods-try-disabling-audio-tracking-technology/"><u>Dealing With Restless Noise Changes In Your AirPods? Try Disabling Audio Tracking Technology</u></a></li>
+<li><a href="https://fox-that.techidaily.com/identifying-liquid-impact-the-ultimate-list-of-9-signs-for-a-damaged-iphone/"><u>Identifying Liquid Impact: The Ultimate List of 9 Signs for a Damaged iPhone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-nokia-xr21-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Nokia XR21 | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-sculpting-visual-clarity-overcoming-gopro-lens-distortion/"><u>In 2024, Sculpting Visual Clarity Overcoming GoPro Lens Distortion</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolving-incorrect-person-tagging-issues-on-apples-photo-library/"><u>Resolving Incorrect Person Tagging Issues on Apple's Photo Library</u></a></li>
+<li><a href="https://fox-that.techidaily.com/restoring-access-to-grayed-out-icloud-settings-on-ios-gadgets/"><u>Restoring Access to Grayed-Out iCloud Settings on iOS Gadgets</u></a></li>
+<li><a href="https://fox-that.techidaily.com/tips-and-tricks-to-optimize-photo-quality-on-low-megapixel-iphone-devices/"><u>Tips & Tricks to Optimize Photo Quality on Low-Megapixel iPhone Devices</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-face-id-top-14-solutions-when-it-fails-on-iphones/"><u>Troubleshooting Face ID: Top 14 Solutions When It Fails on iPhones</u></a></li>
+</ul></div>
 

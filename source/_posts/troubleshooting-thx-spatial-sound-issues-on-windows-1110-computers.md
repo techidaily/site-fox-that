@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting THX Spatial Sound Issues on Windows 11/10 Computers
-date: 2024-11-14T16:21:06.096Z
-updated: 2024-11-15T17:25:19.124Z
+date: 2024-11-21T01:43:24.174Z
+updated: 2024-11-24T18:44:53.169Z
 tags:
   - win11
   - win10
@@ -45,6 +45,10 @@ thumbnail: https://thmb.techidaily.com/66f3a5314b7f0b6f994f976b66c33a57ff0466854
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1: Relog into your account
 
  Re-logging to your desktop is one of the easiest workarounds for you to try. If your Start menu was only gone occasionally, you should go with this option. Here is how you relog into your account:
@@ -52,13 +56,6 @@ thumbnail: https://thmb.techidaily.com/66f3a5314b7f0b6f994f976b66c33a57ff0466854
  1) On your keyboard, press the**Ctrl + Alt + Delete** keys at the same time. Click**Sign out** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b3a03daedd.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 2) Type in your password and log in again.
 
@@ -70,6 +67,10 @@ thumbnail: https://thmb.techidaily.com/66f3a5314b7f0b6f994f976b66c33a57ff0466854
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2: Create a new user account
 
  1) Right-click the task bar on your desktop at the bottom and click **Task Manager** .
@@ -79,6 +80,10 @@ thumbnail: https://thmb.techidaily.com/66f3a5314b7f0b6f994f976b66c33a57ff0466854
  2) On the top of the Task Manager window, select**File** option and then choose**Run new task** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b8999a1831.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Then type **powershell**  and t  ick the box for**Create this task with administrative privileges** . Click **OK** .
 
@@ -98,13 +103,6 @@ net user newusername newpassword /add
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
-  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3: Reinstall video card and sound card drivers
 
  Many Windows users say that their video card driver and sound card driver are the culprit, especially after the latest Windows update, and quite a number of them got their Start menu back after they reinstall or update their video and sound card drivers to the recent correct version. Here is what you can do to get your Start menu working like a charm again:
@@ -123,13 +121,6 @@ net user newusername newpassword /add
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b939274834.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  5) Restart your computer after the uninstall of both of your video card driver and your sound card driver.
 
  6) Going forward, you need to update your video and sound card driver.
@@ -144,11 +135,19 @@ net user newusername newpassword /add
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b960cea017.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  6.3) Click the **Update** button next to the flagged video and audio card to automatically download and install the correct versions of them (you can do this with the FREE version).
 
  Or click **Update All**  to automatically download and install the correct version of **_all_** the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b963732280.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 7) Check if your Start menu is back.
 
@@ -162,6 +161,10 @@ net user newusername newpassword /add
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5: Uninstall Dropbox
 
  Many Windows users find that Dropbox somehow conflicted with the Start menu, making it impossible to use all the feature in the Start panel.
@@ -171,13 +174,6 @@ net user newusername newpassword /add
  1) On your keyboard, press the**Windows logo key** and**R**  at the same time, type**control** in and press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b98211438e.png)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) View by**Category** , then click**Uninstall a program** .
 
@@ -209,29 +205,9 @@ net user newusername newpassword /add
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b3b34111eb.png)
 
-<!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) On the top of the Task Manager window, select**File** option and then choose**Run new task** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b8999a1831.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Then type **powershell**  and t  ick the box for**Create this task with administrative privileges** . Click **OK** .
 
@@ -247,9 +223,17 @@ DISM /Online /Cleanup-Image /RestoreHealth
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b9c8a8bb33.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6) When these two tests finishes, check if your Start menu is back.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8: Reinstall Cortana
 
@@ -259,6 +243,10 @@ DISM /Online /Cleanup-Image /RestoreHealth
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b3b34111eb.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) On the top of the Task Manager window, select**File** option and then choose**Run new task** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b8999a1831.png)
@@ -267,13 +255,6 @@ DISM /Online /Cleanup-Image /RestoreHealth
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b8a563ff80.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Copy and paste the following command in and press the **Enter** key on your keyboard.
 
 Get-AppXPackage -Name Microsoft.Windows.Cortana | Foreach {Add-AppxPackage -DisableDevelopmentMo  
@@ -281,18 +262,15 @@ de -Register "$($_.InstallLocation)\AppXManifest.xml"}
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b9cce6260c.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If this command is not working in your case, try the following command instead:
 
 Get-AppXPackage -AllUsers | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register "$($_.InstallLocation)\AppXManifest.xml"}
 
  4) There, your Cortana is reinstalled, and your Start menu should also be back now.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Last but not least: refresh your PC
 
@@ -317,16 +295,22 @@ Get-AppXPackage -AllUsers | Foreach {Add-AppxPackage -DisableDevelopmentMode -Re
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-mastering-zooms-filters-for-clear-premium-calls/"><u>[New] Mastering Zoom's Filters for Clear, Premium Calls</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-elite-no-price-facebook-visual-storytelling-suite/"><u>[Updated] Elite No-Price Facebook Visual Storytelling Suite</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-how-to-edit-blur-or-remove-photo-background/"><u>[Updated] How to Edit, Blur or Remove Photo Background?</u></a></li>
-<li><a href="https://fox-that.techidaily.com/decode-and-address-the-issue-understanding-the-unprovisioned-sim-card-error-mm/"><u>Decode and Address the Issue: Understanding the Unprovisioned SIM Card Error MM</u></a></li>
-<li><a href="https://fox-that.techidaily.com/expert-advice-wiping-and-rebuilding-the-settings-on-your-apple-tablet-or-phone/"><u>Expert Advice: Wiping and Rebuilding the Settings on Your Apple Tablet or Phone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlock-apple-id-on-your-apple-iphone-11-without-security-questions-by-drfone-ios/"><u>In 2024, How to Unlock Apple ID On your Apple iPhone 11 without Security Questions?</u></a></li>
-<li><a href="https://fox-that.techidaily.com/iphone-not-feeling-the-vibe-learn-how-to-restore-your-devices-vibrating-function-in-quiet-modes/"><u>IPhone Not Feeling the Vibe? Learn How to Restore Your Device's Vibrating Function in Quiet Modes</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/magixs-image-sphere-a-thorough-exploration-for-2024/"><u>MAGIX's Image Sphere A Thorough Exploration for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solutions-how-to-enable-seamless-switching-of-airpods-across-iphones-and-macs/"><u>Solutions: How to Enable Seamless Switching of AirPods Across iPhones and Macs</u></a></li>
-<li><a href="https://fox-that.techidaily.com/ultimate-fix-for-everyday-iphone-12-challenges-discover-how-to-overcome-them/"><u>Ultimate Fix for Everyday iPhone 12 Challenges: Discover How to Overcome Them</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-the-11-leading-applications-for-photoshop-skin-imperfections-discovered-by-movavi/"><u>Ultimate Guide: The 11 Leading Applications for Photoshop Skin Imperfections - Discovered by Movavi</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-video-tales-in-reverse-perfecting-instagram-posts/"><u>[New] In 2024, Video Tales in Reverse Perfecting Instagram Posts</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-the-ultimate-iphone-guide-to-slow-motion-magic/"><u>[Updated] In 2024, The Ultimate iPhone Guide to Slow-Motion Magic</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-prime-selection-optimal-free-and-paid-bd-players-for-windows-macos/"><u>[Updated] Prime Selection Optimal Free & Paid BD Players for Windows, macOS</u></a></li>
+<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-infinix-gt-10-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Infinix GT 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/arcade-racings-legacy-do-wheels-outperform-touchpads-now/"><u>Arcade Racing's Legacy: Do Wheels Outperform Touchpads Now?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/cant-sync-your-iphone-to-icloud-here-are-9-remedies-that-could-help/"><u>Can't Sync Your iPhone to iCloud? Here Are 9 Remedies That Could Help!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/dealing-with-iphones-slow-display-shutdown-here-are-effective-fixes/"><u>Dealing with iPhone's Slow Display Shutdown? Here Are Effective Fixes!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/determining-the-best-ai-chatgpt-vs-microsofts-and-googles-bards/"><u>Determining the Best AI: ChatGPT Vs. Microsoft's & Google's Bards</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-a-broken-iphone-mute-function-a-guide-to-solving-silentring-mode-issues-without-the-switch/"><u>Fixing a Broken iPhone Mute Function: A Guide to Solving Silent/Ring Mode Issues Without The Switch</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-high-memory-usage-in-the-roblox-app-for-iphones-efficiently/"><u>Fixing High Memory Usage in the Roblox App for iPhones Efficiently</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-cutting-edge-liquid-simulations-for-gamers/"><u>In 2024, Cutting Edge Liquid Simulations for Gamers</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-from-nokia-g310-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Nokia G310 FRP Bypass</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722895853627-supercharge-your-computer-in-minutes-with-these-ps-here-are-five-new-seo-titles-that-convey-similar-meanings-to-the-7-best-ways-to-speed-up-your-computer/"><u>Supercharge Your Computer in Minutes with These Ps, Here Are Five New SEO Titles that Convey Similar Meanings to The 7 Best Ways to Speed Up Your Computer:</u></a></li>
+<li><a href="https://fox-that.techidaily.com/tablet-touch-issues-demystified-follow-our-8-essential-fixes/"><u>Tablet Touch Issues Demystified: Follow Our 8 Essential Fixes!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-in-a-flash-resolving-ios-devices-predictive-emoji-glitches/"><u>Troubleshoot in a Flash: Resolving iOS Device's Predictive Emoji Glitches</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unexpected-glitch-how-to-resolve-non-compatible-iphone-gadget-issues/"><u>Unexpected Glitch? How to Resolve Non-Compatible iPhone Gadget Issues</u></a></li>
+<li><a href="https://fox-that.techidaily.com/what-to-do-when-your-iphone-wont-recognize-an-accessory/"><u>What to Do When Your iPhone Won't Recognize an Accessory?</u></a></li>
 </ul></div>
 

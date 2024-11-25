@@ -1,7 +1,7 @@
 ---
 title: "Reveal Hidden Contacts: A Step-by-Step Guide for iPhone Users"
-date: 2024-10-01T00:21:06.981Z
-updated: 2024-10-01T22:34:53.025Z
+date: 2024-11-17T16:02:39.563Z
+updated: 2024-11-25T04:01:59.961Z
 tags:
   - iphone
   - apple
@@ -36,16 +36,7 @@ thumbnail: https://thmb.techidaily.com/d8bc1833c243f47afb83a105ed80a45f4c9ab816d
  There are different ways to restart your iPhone, depending on the model. Read our dedicated guide on [how to restart any iPhone](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) for step-by-step instructions. Once your iPhone is back up and running, confirm if your contacts have been restored. If not, move on to step number two.
 
 <!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Resync Your Contacts With iCloud
@@ -60,13 +51,14 @@ thumbnail: https://thmb.techidaily.com/d8bc1833c243f47afb83a105ed80a45f4c9ab816d
 
 ![iPhone Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/Settings-iPhone.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![iCloud settings in iOS 16](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/icloud-page-ios-16.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Disabling Contacts sync in iOS 16](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/disabling-contacts-sync-ios-16.jpg)
@@ -89,6 +81,10 @@ So, follow these steps to show hidden contact groups:
 
 ![All Accounts option in iOS 16](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/accounts-options-contacts-app.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Close
 
  If some contacts from a particular account weren’t showing up on your iPhone, this should fix the issue. However, read on if you still don’t see all your contacts.
@@ -104,30 +100,9 @@ Close
 
 ![Contacts settings page in iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/01-contacts-settings-ios.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Accounts page in iOS settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/02-accounts-ios-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Adding a new account in iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/03-add-account-ios.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Close
 
@@ -143,16 +118,17 @@ Close
 
 ![Screenshot of iOS Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/iOS-Settings-app.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Contacts settings in iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/Contacts-option-in-iOS-settings-app.jpg)
 
-![Individual account settings in iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/Individual-account-settings-iOS.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Individual account settings in iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/Individual-account-settings-iOS.jpg)
 
 Close
 
@@ -172,18 +148,19 @@ Close
 
 ![Editing contact details on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/02-editing-contact-details-iphone.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![An edited contact on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/edited-contact-ios.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
  When your iPhone powers on, it will have to rebuild all the contact names and details. Once your iPhone restores all the contacts, you can delete the fake information you added to the contact above. Check if your contacts have been restored after a few minutes. If this doesn’t solve your issue, try data recovery tools.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Recover Lost Data Using iCloud or Data Recovery Tools
 
@@ -194,13 +171,6 @@ Close
  You need to have an archive of your contacts that you can restore. If you've never archived your contacts in the past, there won't be any to restore.
 
  If that doesn’t work, you can try using third-party [data recovery tools](https://www.makeuseof.com/tag/data-recovery-work/) to restore your contacts. There are a variety of affordable tools on the market for the job. A good example is [PhoneRescue by iMobie](https://www.imobie.com/phonerescue/buy-ios-data-recovery.htm) , which is highly reputable and works with many iOS versions, including iOS 16\. However, you’ll have to spend some cash to get it.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 8\. Seek the Help of Apple Support
 
@@ -229,24 +199,22 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-your-pathway-to-successful-youtube-beginnings-techniques-1-and-2/"><u>[Updated] 2024 Approved Your Pathway to Successful YouTube Beginnings (Techniques 1 & 2)</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-free-video-embedding-for-dynamic-online-articles/"><u>[Updated] Free Video Embedding for Dynamic Online Articles</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-ultimate-utilities-free-and-paid-macpc-bd-software-compared/"><u>[Updated] Ultimate Utilities Free & Paid Mac/PC BD Software Compared</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-cinematic-clarity-expert-4k-screens-for-editing-artistry/"><u>2024 Approved Cinematic Clarity Expert 4K Screens for Editing Artistry</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-pixelflame-recorders-for-firefox/"><u>2024 Approved PixelFlame Recorders for Firefox</u></a></li>
-<li><a href="https://fox-that.techidaily.com/avoid-missing-key-communications-with-these-8-fixes-for-enabling-dnd-on-iphones/"><u>Avoid Missing Key Communications with These 8 Fixes for Enabling DND on iPhones</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/best-6-cheap-4k-projectors-for-2024/"><u>Best 6 Cheap 4K Projectors for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/effective-solutions-for-non-responsive-logitech-g-hub-in-the-windows-environment/"><u>Effective Solutions for Non-Responsive Logitech G Hub in the Windows Environment</u></a></li>
-<li><a href="https://fox-that.techidaily.com/effortless-troubleshooting-a-guide-to-overcoming-apple-pay-glitches-top-10-tips/"><u>Effortless Troubleshooting: A Guide to Overcoming Apple Pay Glitches (Top 10 Tips)</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-7-top-ways-to-resolve-apple-id-not-active-issue-for-apple-iphone-11-pro-max-by-drfone-ios/"><u>In 2024, 7 Top Ways To Resolve Apple ID Not Active Issue For Apple iPhone 11 Pro Max</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Samsung Galaxy A05s | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/navigating-your-phone-with-ease-accessibility-options-on-the-iphone/"><u>Navigating Your Phone with Ease: Accessibility Options on the iPhone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/overcoming-broken-button-blues-effective-ways-to-reset-your-iphone-without-a-hitch/"><u>Overcoming Broken Button Blues: Effective Ways to Reset Your iPhone Without a Hitch</u></a></li>
-<li><a href="https://fox-that.techidaily.com/quick-solutions-repair-airdrop-issues-with-these-16-essential-tips/"><u>Quick Solutions: Repair AirDrop Issues with These 16 Essential Tips</u></a></li>
-<li><a href="https://fox-that.techidaily.com/resolve-airpods-connection-issues-no-more-unwanted-switching-between-apple-products/"><u>Resolve AirPods Connection Issues: No More Unwanted Switching Between Apple Products</u></a></li>
-<li><a href="https://fox-that.techidaily.com/restoring-lost-texts-a-step-by-step-guide-to-retrieving-deleted-iphone-notes/"><u>Restoring Lost Texts: A Step-by-Step Guide to Retrieving Deleted iPhone Notes</u></a></li>
-<li><a href="https://windows11.techidaily.com/secure-your-sign-in-overcoming-access-restrictions-in-win/"><u>Secure Your Sign-In: Overcoming Access Restrictions in Win</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solving-the-issue-revive-non-responsive-icloud-options-in-ios-devices/"><u>Solving the Issue: Revive Non-Responsive iCloud Options in iOS Devices</u></a></li>
-<li><a href="https://fox-that.techidaily.com/trouble-receiving-late-imessages-discover-9-effective-solutions/"><u>Trouble Receiving Late iMessages? Discover 9 Effective Solutions!</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-8-premier-resources-download-free-high-quality-green-screen-footage/"><u>[New] In 2024, 8 Premier Resources Download Free, High-Quality Green Screen Footage</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-smart-approach-to-video-marketing-for-smbs/"><u>[New] The SMART Approach to Video Marketing for SMBs</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-empower-your-application-with-microsoft-azure-speech-services/"><u>[Updated] Empower Your Application with Microsoft Azure Speech Services</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-full-narrative-what-the-google-podcasts-app-offers-for-2024/"><u>[Updated] Full Narrative What the Google Podcasts App Offers for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-exclusive-ranking-of-advanced-online-tutorial-providers-excluding-udemy/"><u>2024 Approved Exclusive Ranking of Advanced Online Tutorial Providers (Excluding Udemy)</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/best-nubia-red-magic-8s-pro-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Nubia Red Magic 8S Pro Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://fox-that.techidaily.com/empathetic-algorithms-the-next-step-in-human-computer-interaction/"><u>Empathetic Algorithms: The Next Step in Human-Computer Interaction</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/enhancing-online-presence-obs-and-facebook-synergy-for-2024/"><u>Enhancing Online Presence OBS & Facebook Synergy for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/enhancing-your-iphones-wi-fi-8-effective-strategies-for-better-performance/"><u>Enhancing Your iPhone's Wi-Fi: 8 Effective Strategies for Better Performance</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-graphic-geniuses-discover-the-best-10-free-sketch-for-mac/"><u>In 2024, Graphic Geniuses Discover the Best 10 Free Sketch for Mac</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/is-fake-gps-location-spoofer-a-good-choice-on-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>Is Fake GPS Location Spoofer a Good Choice On Vivo V30 Pro? | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/master-the-art-of-icloud-synchronization-discover-absolutely-7-reliable-solutions-for-iphone-users-facing-non-sync-issues/"><u>Master the Art of iCloud Synchronization: Discover Absolutely 7 Reliable Solutions for iPhone Users Facing Non-Sync Issues</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-location-unavailable-a-guide-to-reactivating-iphone-gps-services/"><u>Overcoming 'Location Unavailable': A Guide to Reactivating iPhone GPS Services</u></a></li>
+<li><a href="https://fox-that.techidaily.com/slow-mobile-internet-woes-a-comprehensive-guide-to-boosting-speeds-in-just-10-simple-steps/"><u>Slow Mobile Internet Woes: A Comprehensive Guide to Boosting Speeds in Just 10 Simple Steps</u></a></li>
+<li><a href="https://fox-that.techidaily.com/snagged-by-slow-text-messages-on-your-iphone-try-these-effective-9-tricks-to-resolve-the-issue/"><u>Snagged by Slow Text Messages on Your iPhone? Try These Effective 9 Tricks to Resolve the Issue</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-the-issue-correcting-sim-not-provisioned-mmi-mm2-error/"><u>Solving The Issue: Correcting 'SIM Not Provisioned MMI' (MM2) Error</u></a></li>
+<li><a href="https://fox-that.techidaily.com/trouble-with-ringsilent-mode-on-iphone-learn-quick-fixes-for-silencing-calls/"><u>Trouble with Ring/Silent Mode on iPhone? Learn Quick Fixes for Silencing Calls!</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Correcting Incorrect Person Tagging on Your iPhone: A Guide Using Apple's Photos App"
-date: 2024-08-27T14:45:23.308Z
-updated: 2024-08-28T14:45:23.308Z
+date: 2024-11-22T16:11:34.822Z
+updated: 2024-11-24T21:51:49.303Z
 tags:
   - iphone
   - apple
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/1003c2d436af1af88200a4fecafa1c9b55219d7d2
 
  Here's how you can review photos of identified people in the Photos app and fix any cases of mistaken identity, where your iPhone has tagged one person as someone else.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Review People in Photos on an iPhone or iPad
 
  To search for any misidentified photos of someone, you should first review your confirmed and uncategorized photos for that person to help your device learn what each person is supposed to look like. Here's how to do that:
@@ -29,7 +33,15 @@ thumbnail: https://thmb.techidaily.com/1003c2d436af1af88200a4fecafa1c9b55219d7d2
 
 ![review confirmed photos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/review-confirmed-photos.PNG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![review more photos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/review-more-photos.PNG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![confirm person](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/confirm-person.PNG)
 
@@ -53,8 +65,9 @@ Close
 Close
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Fix Misidentified People in Photos on a Mac
 
  Removing photos from another person's album on a Mac is just as easy as it is on your iPhone. Follow these steps to do so:
@@ -68,26 +81,20 @@ Close
 ![Person is not in this photo option in Photos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/Person-is-not-in-this-photo-option-in-Photos.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
+
 ## Easily Sort Pictures With the People Album
 
  The People album in Photos is a great way to view your photo library in an organized way. You can easily look back at all your memories with a particular person without needing to scroll past a sea of unrelated pictures.
 
  However, having misidentified photos in the wrong albums can be quite a nuisance to deal with. Fortunately, the problem has a relatively quick and easy fix. You can review uncategorized photos to avoid the problem in the future, and you can remove any mismatched pictures you stumble across using the Share button.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -96,4 +103,21 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-video-quality-edge-mirrorless-versus-dslr-cameras/"><u>[New] 2024 Approved Video Quality Edge Mirrorless Versus DSLR Cameras</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-crafting-an-impactful-online-presence-with-perfect-yt-dimensions-for-2024/"><u>[New] Crafting an Impactful Online Presence with Perfect YT Dimensions for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-the-essential-checklist-archiving-internet-music-with-ease/"><u>[Updated] 2024 Approved The Essential Checklist Archiving Internet Music with Ease</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-sync-your-style-across-ios-and-android-with-a-customized-whatsapp-sound/"><u>2024 Approved Sync Your Style Across iOS and Android with a Customized WhatsApp Sound</u></a></li>
+<li><a href="https://fox-that.techidaily.com/4-effective-solutions-to-get-your-iphones-standby-feature-up-and-running-again/"><u>4 Effective Solutions to Get Your iPhone's Standby Feature Up and Running Again</u></a></li>
+<li><a href="https://fox-that.techidaily.com/expert-solutions-to-fix-imessage-signed-out-errors-on-iphone/"><u>Expert Solutions to Fix 'iMessage Signed Out' Errors on iPhone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fix-airpod-sounds-that-move-with-you-by-disabling-head-movement-feature/"><u>Fix AirPod Sounds That Move with You by Disabling Head Movement Feature</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-samsung-galaxy-m54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Samsung Galaxy M54 5G? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-vivo-s18e-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Vivo S18e | Dr.fone</u></a></li>
+<li><a href="https://tools.techidaily.com/keenthemes/products/"><u>Keenthemes's Products</u></a></li>
+<li><a href="https://howto.techidaily.com/reasons-for-huawei-p60-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Huawei P60 Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/revive-your-ios-devices-emoji-predictions-with-these-7-swift-strategies/"><u>Revive Your iOS Device's Emoji Predictions with These 7 Swift Strategies</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/richtigstellung-fehler-beim-remote-desktop-auf-windows-server-2019-behoben/"><u>Richtigstellung: Fehler Beim Remote Desktop Auf Windows Server 2019 Behoben</u></a></li>
+<li><a href="https://fox-that.techidaily.com/understanding-dfu-mode-on-iphone-a-complete-guide/"><u>Understanding DFU Mode on iPhone: A Complete Guide</u></a></li>
+</ul></div>
 

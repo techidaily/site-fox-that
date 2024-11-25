@@ -1,7 +1,7 @@
 ---
 title: "Optimize Your Photography Library by Combining Similar Portraits: Tips for Apple Products Users"
-date: 2024-08-27T14:43:37.784Z
-updated: 2024-08-28T14:43:37.784Z
+date: 2024-11-20T21:31:20.536Z
+updated: 2024-11-25T01:08:07.132Z
 tags:
   - iphone
   - apple
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/84523bff91adaad5f05da4dc5462c4e758d2c84a6
 
  If that happens, here's how you can fix it by merging multiple people together in the Photos app on your iPhone or Mac.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Merge Multiple People in Photos on an iPhone or iPad
 
  Luckily, it's easy to fix duplicate people albums in Photos by merging them together. You can even merge People albums for totally different people into one, if you want to create one album for your entire family or group of friends. Follow these steps to merge different People albums into one on an iPhone or iPad:
@@ -33,11 +37,23 @@ thumbnail: https://thmb.techidaily.com/84523bff91adaad5f05da4dc5462c4e758d2c84a6
 
 ![select profiles](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/select-profiles.PNG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![merge people albums](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/merge-people-albums.PNG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
  Related:[Tips That Will Help You Master the People Album in Photos](https://www.makeuseof.com/tips-to-master-people-album-photos-iphone/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Merge Multiple People in Photos on a Mac
 
@@ -56,22 +72,20 @@ Close
  Read More:[Ways to Fix iCloud Photos Not Syncing on Your Mac](http://www.makeuseof.com/how-to-fix-icloud-photos-not-syncing-mac/)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Sort Through Your Photos by People
 
  Merging multiple albums is quick and easy to do. The steps are the same on an iPhone, iPad, and Mac. All you have to do is select the profiles you want to merge together, then choose to**Merge** them together.
 
  Merging albums of people will ensure your gallery is organized and error-free. Or you can use the option to create an album of a specific group of people together, though it's usually best to use the Search feature for that.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -80,4 +94,19 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-effortless-techniques-for-stunning-time-lapse-photography-using-samsungs/"><u>[New] Effortless Techniques for Stunning Time Lapse Photography Using Samsungs</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-on-mobile-discover-why-its-ios-app-outshines-the-traditional-web-interface-in-6-ways/"><u>ChatGPT on Mobile: Discover Why Its iOS App Outshines the Traditional Web Interface in 6 Ways</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ensure-smooth-operation-of-your-canon-mx340-with-updated-windows-drivers-win-1087/"><u>Ensure Smooth Operation of Your Canon MX340 with Updated Windows Drivers (Win 10/8/7)</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721471675831-iphone-contacts-malfunctioning-discover-our-top-3-quick-solutions/"><u>IPhone Contacts Malfunctioning? Discover Our Top 3 Quick Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphones-unresponsive-home-button-top-5-fast-solutions/"><u>Iphone's Unresponsive Home Button: Top 5 Fast Solutions</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ture-music-menus-actors-in-audio-world/"><u>Miniature Music Menus Actors in Audio World</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/mycam-recorder-review-for-2024/"><u>MyCam Recorder Review for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/navigate-and-rectify-your-iphone-image-gallery-a-guide-to-8-key-fixes/"><u>Navigate and Rectify Your iPhone Image Gallery: A Guide to 8 Key Fixes</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/smart-picks-top-free-online-recorder-software-for-2024/"><u>Smart Picks Top Free Online Recorder Software for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-iphones-silent-alarm-issue-step-by-step-guide/"><u>Solving iPhone's Silent Alarm Issue - Step-by-Step Guide</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-instructions-for-getting-the-latest-surface-drivers/"><u>Step-by-Step Instructions for Getting the Latest Surface Drivers</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-why-your-iphone-isnt-getting-messages-from-android-devices/"><u>Troubleshooting: Why Your iPhone Isn't Getting Messages From Android Devices</u></a></li>
+</ul></div>
 

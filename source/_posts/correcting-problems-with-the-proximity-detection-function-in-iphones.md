@@ -1,7 +1,7 @@
 ---
 title: Correcting Problems With the Proximity Detection Function in iPhones
-date: 2024-11-10T19:36:41.908Z
-updated: 2024-11-15T18:52:48.596Z
+date: 2024-11-19T20:43:36.218Z
+updated: 2024-11-25T03:54:19.384Z
 tags:
   - iphone
   - apple
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/6658e9df1d38e14ee675787c7264985ccf523b4b4
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Test the Proximity Sensor on an iPhone
 
 ![A gray iPhone 6 on a woman's ear](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/a-gray-iphone-6-on-a-woman-s-ear.jpg)
@@ -38,13 +42,6 @@ Here are some things you could do to check if it's working:
 
  Your phone's display should go off In both scenarios. If they don't, you should consult the steps below for troubleshooting.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Steps to Take if Your iPhone's Proximity Sensor Isn't Working
 
  Hardware and software issues could cause this problem. But you could try the steps below in descending order.
@@ -53,6 +50,10 @@ Here are some things you could do to check if it's working:
 
 ![person cleaning a phone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/cleaning-phone.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The most likely culprit is dirt and gunk that has accumulated on the top half of your screen, making it difficult for the emitter or sensor to work. You will run into this issue if you have sweaty or oily skin.
 
  While you could try a quick wipe against your shirt or some other cloth, the best thing to do is [clean your iPhone properly](https://www.makeuseof.com/tag/clean-iphone-guide/) . Use a moist, lint-free cloth and gently but thoroughly wipe the dirt away in one direction.
@@ -60,10 +61,7 @@ Here are some things you could do to check if it's working:
  Be careful not to use rubbing alcohol, window cleaners, vinegar, or any similar grease-cutting products, as they could eat away your screen's coating.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Restart the Target Application or Your iPhone
@@ -84,27 +82,17 @@ Here are some things you could do to check if it's working:
 
 ![Update terms and conditions on iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/update-terms-and-conditions-on-ios.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Close
 
  Your phone will restart a couple of times, but it will stabilize when it's finished. Test the proximity sensor again using our steps above.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 4\. Remove the Screen Protector
 
 ![man applying screen protector to smartphone feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/man-applying-screen-protector-to-smartphone-feature.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Image Credit: Nor Gal/[Shutterstock](https://www.shutterstock.com/image-photo/man-replacing-broken-tempered-glass-screen-1106925758)
 
@@ -120,6 +108,10 @@ Here's a brief rundown of how to do it:
 4. Pull out the screen protector.
 
  Give the proximity sensor a test to see if that helped. But if you're still out of luck, you have a last-resort option.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 5\. Take Your Phone Back to Apple or an Authorized Service Provider
 
@@ -150,18 +142,19 @@ Here's a brief rundown of how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-fix-facebook-watch-video-icon-tap-missing-for-2024/"><u>[New] Fix Facebook Watch Video Icon Tap Missing for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-from-live-demos-to-replays-tapping-into-aiseesoft-screencast-potential/"><u>[New] From Live Demos to Replays Tapping Into Aiseesoft Screencast Potential</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-secret-tips-for-stunning-sketches-and-scans/"><u>[New] Secret Tips for Stunning Sketches & Scans</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/vating-the-culture-of-creativity-within-youtube-shorts/"><u>Cultivating the Culture of Creativity Within YouTube Shorts</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/discover-cost-free-vfx-wonders-on-the-net/"><u>Discover Cost-Free VFX Wonders on the Net</u></a></li>
-<li><a href="https://fox-that.techidaily.com/dynamic-headtracking-issue-on-airpods-fix-it-by-turning-off-the-feature-now/"><u>Dynamic Headtracking Issue on AirPods: Fix It by Turning Off the Feature Now!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fix-your-warzone-microphone-and-voice-chat-comprehensive-solutions-for-pcconsole-players/"><u>Fix Your Warzone Microphone and Voice Chat – Comprehensive Solutions for PC/Console Players</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fixing-your-iphones-non-functional-light-beam-top-12-strategies/"><u>Fixing Your iPhone's Non-Functional Light Beam: Top 12 Strategies</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/leading-8-linux-tools-for-seamless-editing/"><u>Leading 8 Linux Tools for Seamless Editing</u></a></li>
-<li><a href="https://fox-that.techidaily.com/lost-in-translation-make-sure-your-android-delivers-texts-to-your-iphone-without-fail/"><u>Lost in Translation? Make Sure Your Android Delivers Texts to Your iPhone Without Fail</u></a></li>
-<li><a href="https://fox-that.techidaily.com/sluggish-mobile-data-woes-discover-easy-fixes-for-lightning-fast-browsing/"><u>Sluggish Mobile Data Woes? Discover Easy Fixes for Lightning-Fast Browsing</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshoot-poor-iphone-dictation-performance-with-these-five-effective-techniques/"><u>Troubleshoot Poor iPhone Dictation Performance with These Five Effective Techniques</u></a></li>
-<li><a href="https://fox-that.techidaily.com/what-to-do-when-your-iphone-wont-respond-expert-advice/"><u>What to Do When Your iPhone Won't Respond: Expert Advice</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-exploring-video-threads-on-youtube/"><u>[New] 2024 Approved Exploring Video Threads on YouTube</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-navigating-the-maximum-duration-limit-for-instagram-videos/"><u>[New] 2024 Approved Navigating the Maximum Duration Limit for Instagram Videos</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-unleashing-potential-top-8-efficiency-boosters-for-social-media-tasks/"><u>[New] 2024 Approved Unleashing Potential Top 8 Efficiency Boosters for Social Media Tasks</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-crafting-the-next-big-thing-your-guide-to-youtubes-best-video-types-for-2024/"><u>[New] Crafting the Next Big Thing Your Guide to YouTube's Best Video Types for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/easy-process-to-turn-any-tiktok-sound-into-cellphone-alerts/"><u>Easy Process to Turn Any TikTok Sound Into Cellphone Alerts</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-oppo-reno-11-pro-5g-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Oppo Reno 11 Pro 5G</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-users-resolve-common-issues-in-the-contacts-application-here/"><u>IPhone Users: Resolve Common Issues in the Contacts Application Here</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/methode-facile-et-gratuite-pour-convertir-des-fichiers-aifc-en-aiff-en-ligne-avec-movavi/"><u>Méthode Facile Et Gratuite Pour Convertir Des Fichiers AIFC en AIFF en Ligne Avec Movavi</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/precise-and-wireless-the-sabrent-portable-traveling-mouse-with-high-quality-cable-connections/"><u>Precise & Wireless: The Sabrent Portable Traveling Mouse with High-Quality Cable Connections</u></a></li>
+<li><a href="https://fox-that.techidaily.com/revive-your-iphone-effective-strategies-to-troubleshoot-non-responsive-standby-features/"><u>Revive Your iPhone: Effective Strategies to Troubleshoot Non-Responsive Standby Features</u></a></li>
+<li><a href="https://fox-that.techidaily.com/tips-to-restore-functionality-from-an-iphones-devastating-black-screen-problem/"><u>Tips to Restore Functionality From an iPhone's Devastating Black Screen Problem</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-and-restore-imessage-functionality-for-apple-devices-in-7-steps/"><u>Troubleshoot & Restore iMessage Functionality for Apple Devices in 7 Steps</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-icloud-photo-sync-a-comprehensive-guide-for-iphone-users/"><u>Troubleshoot iCloud Photo Sync: A Comprehensive Guide for iPhone Users</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-get-rid-of-tiktok-watermarks-top-rated-online-removers/"><u>Updated In 2024, Get Rid of TikTok Watermarks Top-Rated Online Removers</u></a></li>
 </ul></div>
 

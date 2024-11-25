@@ -1,7 +1,7 @@
 ---
 title: What to Do When Your iPhone Can't Recognize Nearness Anymore
-date: 2024-09-30T21:51:25.178Z
-updated: 2024-10-01T22:38:35.442Z
+date: 2024-11-18T20:11:36.231Z
+updated: 2024-11-24T21:53:18.439Z
 tags:
   - iphone
   - apple
@@ -23,9 +23,17 @@ thumbnail: https://thmb.techidaily.com/f386bcd1cdef2e7eae82e10cf44eeb6665615e5a1
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Test the Proximity Sensor on an iPhone
 
 ![A gray iPhone 6 on a woman's ear](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/a-gray-iphone-6-on-a-woman-s-ear.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The iPhone's proximity sensor uses infrared light from an emitter at the top of your screen. The sensor measures how long it takes for the rays to reflect off a surface to determine the distance.
 
@@ -38,6 +46,10 @@ Here are some things you could do to check if it's working:
 
  Your phone's display should go off In both scenarios. If they don't, you should consult the steps below for troubleshooting.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Steps to Take if Your iPhone's Proximity Sensor Isn't Working
 
  Hardware and software issues could cause this problem. But you could try the steps below in descending order.
@@ -46,6 +58,10 @@ Here are some things you could do to check if it's working:
 
 ![person cleaning a phone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/cleaning-phone.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The most likely culprit is dirt and gunk that has accumulated on the top half of your screen, making it difficult for the emitter or sensor to work. You will run into this issue if you have sweaty or oily skin.
 
  While you could try a quick wipe against your shirt or some other cloth, the best thing to do is [clean your iPhone properly](https://www.makeuseof.com/tag/clean-iphone-guide/) . Use a moist, lint-free cloth and gently but thoroughly wipe the dirt away in one direction.
@@ -53,10 +69,7 @@ Here are some things you could do to check if it's working:
  Be careful not to use rubbing alcohol, window cleaners, vinegar, or any similar grease-cutting products, as they could eat away your screen's coating.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Restart the Target Application or Your iPhone
@@ -73,27 +86,7 @@ Here are some things you could do to check if it's working:
 
 ![iPhone searching for updates in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-searching-for-updates-in-settings.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Software update information on iOS for iOS 16.6](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/software-update-information-on-ios-for-ios-16-6.jpeg)
-
-<!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Update terms and conditions on iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/update-terms-and-conditions-on-ios.jpeg)
 
@@ -119,13 +112,6 @@ Here's a brief rundown of how to do it:
 4. Pull out the screen protector.
 
  Give the proximity sensor a test to see if that helped. But if you're still out of luck, you have a last-resort option.
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 5\. Take Your Phone Back to Apple or an Authorized Service Provider
 
@@ -156,21 +142,20 @@ Here's a brief rundown of how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-simple-guide-transforming-fb-videos-into-720p1080p-mp4-format-free/"><u>[New] 2024 Approved Simple Guide Transforming FB Videos Into 720P/1080p MP4 Format (Free)</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-boosting-zoom-clarity-the-guide-to-using-filters-wisely/"><u>[New] In 2024, Boosting Zoom Clarity The Guide to Using Filters Wisely</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-what-you-missed-a-closer-look-at-facebooks-2023-upgrades/"><u>[New] What You Missed A Closer Look at Facebook's 2023 Upgrades</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-the-ultimate-skype-call-recording-methodology-explained/"><u>[Updated] 2024 Approved The Ultimate Skype Call Recording Methodology Explained</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-capturing-perfection-the-top-review-of-screensnapper-2023/"><u>[Updated] Capturing Perfection The Top Review of 'ScreenSnapper' 2023</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-the-artisans-guide-to-professional-level-vr-captures/"><u>2024 Approved The Artisan's Guide to Professional-Level VR Captures</u></a></li>
-<li><a href="https://fox-that.techidaily.com/breakthrough-techniques-for-reviving-your-frozen-apple-phone/"><u>Breakthrough Techniques for Reviving Your Frozen Apple Phone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fixing-locked-iphone-display-enable-rotation-between-portrait-and-landscape-modes/"><u>Fixing Locked Iphone Display: Enable Rotation Between Portrait and Landscape Modes</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-instagram-aesthetics-tips-for-video-reversal/"><u>In 2024, Instagram Aesthetics Tips for Video Reversal</u></a></li>
-<li><a href="https://review-topics.techidaily.com/infinix-bypass-tools-to-bypass-lock-screen-infinix-note-30-vip-by-drfone-android-unlock-android-unlock/"><u>Infinix Bypass Tools to Bypass Lock Screen(Infinix Note 30 VIP)</u></a></li>
-<li><a href="https://fox-that.techidaily.com/revive-your-iphone-like-a-pro-itunes-free-solutions-to-factory-reset/"><u>Revive Your iPhone Like a Pro: ITunes-Free Solutions to Factory Reset</u></a></li>
-<li><a href="https://fox-that.techidaily.com/reviving-your-personal-assistant-fixing-siri-problems-on-ios-devices-quickly/"><u>Reviving Your Personal Assistant: Fixing Siri Problems on iOS Devices Quickly</u></a></li>
-<li><a href="https://fox-that.techidaily.com/top-9-warnings-that-reveal-water-intrusion-in-your-iphone-device/"><u>Top 9 Warnings That Reveal Water Intrusion in Your iPhone Device</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/transform-your-videos-a-step-by-step-guide-to-cartoon-conversion-for-2024/"><u>Transform Your Videos A Step-by-Step Guide to Cartoon Conversion for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-image-loading-issues-in-safari-top-9-tips/"><u>Troubleshooting Image Loading Issues in Safari: Top 9 Tips</u></a></li>
-<li><a href="https://fox-that.techidaily.com/unlocking-the-secrets-to-optimizing-iphone-amos-battery-efficiency-and-health-issues/"><u>Unlocking the Secrets to Optimizing iPhone Amo's Battery Efficiency and Health Issues</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-step-by-step-fixes-for-youtube-short-failures/"><u>[New] 2024 Approved Step-by-Step Fixes for YouTube Short Failures</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-rise-above-the-crowd-10-proven-techniques-for-video-standout-for-2024/"><u>[Updated] Rise Above the Crowd 10 Proven Techniques for Video Standout for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721478529608-beat-iphone-x-irritations-discover-your-fixes-here/"><u>Beat iPhone X Irritations: Discover Your Fixes Here!</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/best-vivo-y36i-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Vivo Y36i Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://fox-http.techidaily.com/detailed-guide-on-voice-memos-best-practices/"><u>Detailed Guide on Voice Memos Best Practices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-protection-fixing-defenders-unavailable-threat-detection/"><u>Enhancing Protection: Fixing Defender's Unavailable Threat Detection</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-persistent-sos-mode-on-iphone-6-proven-techniques-for-restoring-normal-operation/"><u>Fixing Persistent SOS Mode on iPhone - 6 Proven Techniques for Restoring Normal Operation</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/gionee-f3-pro-music-recovery-recover-deleted-music-from-gionee-f3-pro-by-fonelab-android-recover-music/"><u>Gionee F3 Pro Music Recovery - Recover Deleted Music from Gionee F3 Pro</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-work-with-bmp-image-formats-introduction-to-bmp-files-and-methods-for-accessing-them-easily/"><u>How To Work With BMP Image Formats: Introduction to .bmp Files And Methods for Accessing Them Easily</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-oppo-a58-4g-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Oppo A58 4G FRP</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/in-2024-50-free-youtube-banners-come-see-them-all/"><u>In 2024, 50 FREE YouTube Banners - Come See Them All!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/simple-techniques-for-softly-rebooting-your-iphone-without-data-loss/"><u>Simple Techniques for Softly Rebooting Your iPhone Without Data Loss</u></a></li>
+<li><a href="https://fox-that.techidaily.com/trouble-with-airdrop-here-are-16-fast-fixes-to-get-it-running-smoothly-again/"><u>Trouble With AirDrop? Here Are 16 Fast Fixes to Get It Running Smoothly Again</u></a></li>
+<li><a href="https://fox-that.techidaily.com/ultimate-tutorial-master-the-art-of-iphone-and-ipad-hardware-resets/"><u>Ultimate Tutorial: Master the Art of iPhone and iPad Hardware Resets</u></a></li>
+<li><a href="https://fox-that.techidaily.com/understanding-the-limits-gifting-from-apple-products-explained/"><u>Understanding the Limits: Gifting From Apple Products Explained</u></a></li>
 </ul></div>
 

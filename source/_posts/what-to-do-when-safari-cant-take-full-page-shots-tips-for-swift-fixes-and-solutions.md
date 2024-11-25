@@ -1,7 +1,7 @@
 ---
 title: "What to Do When Safari Can't Take Full-Page Shots: Tips for Swift Fixes and Solutions"
-date: 2024-08-27T14:42:38.207Z
-updated: 2024-08-28T14:42:38.207Z
+date: 2024-11-18T20:06:42.405Z
+updated: 2024-11-24T22:42:39.049Z
 tags:
   - iphone
   - apple
@@ -24,14 +24,14 @@ thumbnail: https://thmb.techidaily.com/911f3006727fe16b140b96791552a2ef85c3bfe95
 
  Related:[How to Take Full-Page Screenshots in Safari on iOS](https://www.makeuseof.com/how-to-screenshot-full-webpage-safari-ios/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What to Do When Full-Page Screenshots Aren't Working
 
 Try these tips if you can't take full-page screenshots in Safari.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ### 1\. Check Your iOS Version
 
  Full-page screenshots are available for iPhone users running on iOS 13 and later. First, make sure that your iPhone is running an iOS version that supports the feature by going to**Settings > General > About** .
@@ -39,8 +39,9 @@ Try these tips if you can't take full-page screenshots in Safari.
  If your OS is not the problem, make sure to check the app you’re using when attempting to take a full-page screenshot. It only works with Safari.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 2\. Make Sure You're in Safari
 
  There are times that, depending on what you’re browsing, Safari will redirect you to another built-in app, like Apple Books, Files, or Messages. Full-page screenshots are not available in other apps or browsers.
@@ -48,19 +49,17 @@ Try these tips if you can't take full-page screenshots in Safari.
 ![Full-page screenshots](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/08/Full-page-screenshots.PNG)
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Save Full-page screenshots](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/08/Save-Full-page-screenshots.PNG)
 
 <!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Close
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3\. Remove Safari From Any Home Screen Folders
 
  A recent update may have a bug where full-page screenshots aren't accessible if you open Safari from a folder.
@@ -72,20 +71,18 @@ Close
  Related:[What Is the iPhone App Library and How Do I Use It?](https://www.makeuseof.com/iphone-app-library-use/)
 
 <!-- affiliate ads begin -->
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Take Screenshots Again
 
  Full-page screenshots are a handy way to save whole web pages for later offline reading or other purposes. With these easy troubleshooting tips, you can make use of this simple hack again.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -94,4 +91,22 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-youtubes-video-editing-power-plus-professional-equivalents/"><u>[New] 2024 Approved YouTube's Video Editing Power + Professional Equivalents</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-elevate-your-game-saves-with-advanced-overwatch-recording/"><u>[Updated] 2024 Approved Elevate Your Game Saves with Advanced Overwatch Recording</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-firefoxs-pip-explained-a-users-handbook/"><u>2024 Approved Firefox's PIP Explained A User's Handbook</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unleash-potential-discovering-free-onlineoffline-animations/"><u>2024 Approved Unleash Potential Discovering Free Online/Offline Animations</u></a></li>
+<li><a href="https://fox-that.techidaily.com/avoiding-confusion-the-ultimate-trick-for-rectifying-wrongly-tagged-people-on-your-iphones-camera-roll/"><u>Avoiding Confusion: The Ultimate Trick for Rectifying Wrongly Tagged People on Your iPhone's Camera Roll</u></a></li>
+<li><a href="https://fox-that.techidaily.com/does-heshe-just-ignore-or-have-i-been-blocked-uncovering-imessage-secrets/"><u>Does He/She Just Ignore or Have I Been Blocked? Uncovering iMessage Secrets</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fix-why-are-you-seeing-phone-numbers-instead-of-names-on-your-messages/"><u>Fix: Why Are You Seeing Phone Numbers Instead of Names on Your Messages?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-official-epson-v700-printing-software-for-windows-operating-systems-windows-71081/"><u>Get Official Epson V700 Printing Software for Windows Operating Systems [Windows 7/10/8.1]</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-oppo-f23-5g-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Oppo F23 5G Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcome-mobile-connectivity-hiccups-10-ways-to-restore-iphone-calls/"><u>Overcome Mobile Connectivity Hiccups: 10 Ways to Restore iPhone Calls</u></a></li>
+<li><a href="https://fox-that.techidaily.com/removing-liquid-from-inside-smartphone-speakers-a-step-by-step-guide/"><u>Removing Liquid From Inside Smartphone Speakers: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/restoring-lost-iphone-notes-a-step-by-step-guide/"><u>Restoring Lost iPhone Notes: A Step-by-Step Guide</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/solved-move-from-honor-80-pro-straight-screen-edition-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Solved Move from Honor 80 Pro Straight Screen Edition to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-rated-mp3-players-comprehensive-review/"><u>Top Rated MP3 Players : Comprehensive Review</u></a></li>
+<li><a href="https://fox-that.techidaily.com/why-wont-my-iphone-touchscreen-work-exploring-7-possible-reasons/"><u>Why Won't My iPhone Touchscreen Work? Exploring 7 Possible Reasons</u></a></li>
+</ul></div>
 

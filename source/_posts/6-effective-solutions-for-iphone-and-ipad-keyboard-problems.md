@@ -1,7 +1,7 @@
 ---
 title: 6 Effective Solutions for iPhone and iPad Keyboard Problems
-date: 2024-11-08T17:17:54.250Z
-updated: 2024-11-15T19:55:06.993Z
+date: 2024-11-19T00:49:36.992Z
+updated: 2024-11-24T18:19:33.879Z
 tags:
   - iphone
   - apple
@@ -30,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/3ea30a94da7c5f3b672bf32659821fab72659fd65
 
  Is your iPhone or iPad keyboard not showing up, typing the wrong letters, or malfunctioning in some other way? We'll go through common problems and the corresponding solutions you can try when your iPhone or iPad's on-screen or physical keyboard isn't working.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. iPhone or iPad Keyboard Isn't Showing Up
 
  If the entire on-screen keyboard isn't showing up when you need to type something, it's probably because the cursor isn't in a text field yet. Try tapping a text field or search box on your screen for the keyboard to appear.
@@ -46,13 +50,6 @@ Close
 
 ![expanded iphone keyboards setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/expanded-iphone-keyboards-setting.PNG)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![iphone keyboard language list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/iphone-keyboard-language-list.PNG)
 
 ![keyboard language list on iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/keyboard-language-list-on-iphone.PNG)
@@ -60,16 +57,7 @@ Close
 Close
 
 <!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. iPhone or iPad Keyboard Typing the Wrong Letters and Words
@@ -84,6 +72,10 @@ Close
 
  But if the cause of ghost touch is damaged hardware—for example, you dropped your iPhone recently, and there are visible screen cracks—you probably need to replace your iPhone's display. While we recommend getting it fixed by Apple, you have [options if you want to fix your iPhone's screen for cheap](https://www.makeuseof.com/tag/places-that-fix-iphone-screens-for-cheap/) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Check Your Text Replacement Setting
 
  Let's say you're typing the phrase "I'm studying" in a message, but it autocorrects to "I'm napping" every time. This is probably caused by a text replacement setting.
@@ -94,29 +86,31 @@ Close
 
 ![expanded iphone keyboards setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/expanded-iphone-keyboards-setting.PNG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![iphone text replacement setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/iphone-text-replacement-setting.PNG)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![removal of preset text in iphone text replacement setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/removal-of-preset-text-in-iphone-text-replacement-setting.PNG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Close
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. iPhone or iPad Keyboard Is Lagging
 
  If you're typing swiftly on your iPhone keyboard but the text takes a while to show up on the screen, the cause might be a temporary software glitch or an incorrect iPhone setting. Try the solutions below.
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Reset the Keyboard Dictionary
 
@@ -146,19 +140,6 @@ Close
 
 Close
 
-<!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. No Sound or Vibration When Typing on the Keyboard
 
  By default, when you type on your iPhone or iPad keyboard, there should be a soft tapping sound. However, you can customize it to include haptic feedback for each key press in the Settings app. And if you don't hear a sound while typing, you can check if it's enabled here.
@@ -178,15 +159,20 @@ Close
 ![iphone accessibility setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/iphone-accessibility-setting.PNG)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![iphone touch accessibility setting with vibration toggled on](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/iphone-touch-accessibility-setting-with-vibration-toggled-on.PNG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Close
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Physical Keyboard Not Working With Your iPad
 
@@ -214,21 +200,7 @@ Close
 
 ![iPhone General settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/iphone-general-settings.JPEG)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![iphone ios 17.0.3 software update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/img_7670.JPEG)
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Close
 
@@ -251,22 +223,18 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/updated-nintendo-switchs-ultimate-hd-gameplay/"><u>[Updated] Nintendo Switch's Ultimate HD Gameplay</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-pushing-boundaries-adobes-recommended-lut-list-for-creative-professionals/"><u>[Updated] Pushing Boundaries Adobe's Recommended LUT List for Creative Professionals</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-transforming-live-youtube-broadcasts-into-recorded-soundtracks-for-2024/"><u>[Updated] Transforming Live YouTube Broadcasts Into Recorded Soundtracks for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/ensuring-your-airpods-stay-loyal-avoiding-unwanted-auto-switching-between-iphones-and-macs/"><u>Ensuring Your AirPods Stay Loyal: Avoiding Unwanted Auto-Switching Between iPhones & Macs</u></a></li>
-<li><a href="https://fox-that.techidaily.com/guide-to-retrieving-lost-iphone-application-icons-with-simple-tips/"><u>Guide to Retrieving Lost iPhone Application Icons with Simple Tips</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-enter-and-utilize-dfu-mode-on-iphones-explained/"><u>How to Enter and Utilize DFU Mode on iPhones Explained</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-xiaomi-redmi-note-12t-pro-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Xiaomi Redmi Note 12T Pro to Samsung Phone | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/icloud-not-updating-heres-how-to-fix-sync-issues-easily/"><u>ICloud Not Updating? Here's How to Fix Sync Issues Easily</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/in-depth-analysis-of-marvels-spider-man-miles-morales-the-intimate-adventure-with-big-consequences/"><u>In-Depth Analysis of Marvel's Spider-Man: Miles Morales - The Intimate Adventure with Big Consequences</u></a></li>
-<li><a href="https://fox-that.techidaily.com/iphone-app-download-issues-here-are-10-tips-for-a-smooth-solution/"><u>IPhone App Download Issues? Here Are 10 Tips for a Smooth Solution</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210657311-9780473648428-kutsamanin-muthis-gucu/"><u>Kutsamanın Müthiş Gücü | Free Book</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722969087953-quick-fixes-to-your-logitech-c615s-driver-woes-troubleshoot-with-ease/"><u>Quick Fixes to Your Logitech C615's Driver Woes – Troubleshoot with Ease</u></a></li>
-<li><a href="https://fox-that.techidaily.com/resolve-this-issue-how-to-spot-your-airpods-using-the-find-my-feature/"><u>Resolve This Issue! How to Spot Your AirPods Using the 'Find My' Feature</u></a></li>
-<li><a href="https://fox-that.techidaily.com/safari-cant-take-full-page-screen-shots-follow-these-steps-for-a-quick-solution/"><u>Safari Can't Take Full Page Screen Shots? Follow These Steps for a Quick Solution</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-free-mp4-conversion-from-wmv-videos-on-mac-and-windows-11-operating-systems/"><u>Step-by-Step Guide: Free MP4 Conversion From WMV Videos on Mac and Windows 11 Operating Systems</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/the-all-in-one-review-of-garmins-gpsmap-64st-a-top-choice-for-outdoor-enthusiasts/"><u>The All-in-One Review of Garmin's GPSMAP 64St: A Top Choice for Outdoor Enthusiasts</u></a></li>
-<li><a href="https://fox-that.techidaily.com/unstick-your-idevices-ios-patch-a-guide-with-six-tips-for-successful-downloads/"><u>Unstick Your iDevice's iOS Patch: A Guide with Six Tips for Successful Downloads</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ltimate-video-streaming-channel-lists-films-and-series-for-2024/"><u>[New] Ultimate Video Streaming Channel Lists Films & Series for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-amass-a-million-in-moments-join-instagrams-elite/"><u>[Updated] Amass a Million in Moments Join Instagram's Elite</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-how-to-make-highlights-on-instagram-3-ways-for-2024/"><u>[Updated] How to Make Highlights on Instagram [3 Ways] for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/6-key-solutions-for-overcoming-challenges-with-family-sharing-features/"><u>6 Key Solutions for Overcoming Challenges with Family Sharing Features</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/youtube-youtube/"><u>賢明な方法でYoutube音楽録音 - YouTubeオファリングから美しいトラック救出術</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>How to Share/Fake Location on WhatsApp for Apple iPhone 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-utilize-dfu-mode-for-a-fresh-start-on-your-iphone/"><u>How to Utilize DFU Mode for a Fresh Start on Your iPhone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-the-biggest-iphone-x-irritations-troubleshooting-guide/"><u>Overcoming the Biggest iPhone X Irritations - Troubleshooting Guide</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/romers-powerful-and-charged-outdoor-flashlight-review-the-ultimate-guide-to-rechargeable-illumination/"><u>Romer's Powerful & Charged Outdoor Flashlight Review – The Ultimate Guide to Rechargeable Illumination</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solve-your-smartphone-woes-correcting-five-common-iphone-errors-with-dfu-restoration-steps/"><u>Solve Your Smartphone Woes: Correcting Five Common iPhone Errors with DFU Restoration Steps</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-nokia-xr21-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Nokia XR21 without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlock-your-iphones-full-potential-fix-locked-screen-orientation-problem/"><u>Unlock Your iPhone's Full Potential: Fix Locked Screen Orientation Problem</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlocking-solutions-for-sharing-media-subscriptions-among-family-members/"><u>Unlocking Solutions for Sharing Media Subscriptions Among Family Members</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Get Smarter About iPhone Photography: Fixing Common Snags in 8 Steps"
-date: 2024-08-27T14:38:57.470Z
-updated: 2024-08-28T14:38:57.470Z
+date: 2024-11-19T02:23:25.518Z
+updated: 2024-11-25T04:55:11.383Z
 tags:
   - iphone
   - apple
@@ -20,6 +20,10 @@ Wrong!
 
  There's a lot more to it than that. Keep reading as we investigate some of the roll's lesser-known tricks and even find answers to common issues and questions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Why Photos Disappear From Camera Roll
 
  A lot of people complain about all their photos suddenly disappearing from the Camera Roll. Often, it's caused by a [misconfigured iCloud account](https://www.makeuseof.com/tag/common-icloud-problems/) .
@@ -37,6 +41,10 @@ Wrong!
 
 ![iPhone Enable iCloud Photos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2018/06/iphone-enable-cloud-2.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Close
 
  Also, many users reported that their photos disappeared after [upgrading to iOS 11](https://www.makeuseof.com/tag/complete-beginners-guide-ios-iphone-ipad/) . The fix is simple: just turn your phone off and back on again.
@@ -46,6 +54,10 @@ Close
 ![iPhone Deleted Images](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2018/06/iphone-recover-image-1.jpeg)
 
 ![iPhone Recover Image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2018/06/iphone-recover-image-2.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -68,9 +80,11 @@ Close
 3. Slide the toggle next to**Enable Drive** into the**On** position.  
 ![Documents Wi-Fi Drive Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2018/06/documents-wifi-drivea-1.jpeg)  
 ![Documents Wi-Fi Drive Enable](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2018/06/documents-wifi-drivea-2.jpeg)  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Close
 4. Make a note of the IP address shown underneath the options.
 5. Open a web browser on your computer, type that IP address, and press**Enter** .
@@ -86,16 +100,9 @@ Close
 ![Documents Copy Photo](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2018/06/iphone-docs-copy-roll-2.jpeg)  
 ![Documents Move to Photos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2018/06/iphone-docs-copy-roll-1.jpeg)  
 Close
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Your videos will now be visible in the Camera Roll.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ## 4\. How to Hide Photos in Camera Roll
 
  Did you know you can hide photos from the Camera Roll? Doing so has privacy benefits, but also lets you turn the Camera Roll into a curated list of high-quality images and videos that you can show to other people.
@@ -122,6 +129,10 @@ Close
 3. Find the photo you want to unhide.
 4. Navigate to**Share > Unhide** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. How to Send From Camera Roll to Snapchat
 
  Natively, it's not possible to share a file from your Camera Roll into a Snapchat Story. You can send it in a chat by locating the photo or video in the**Photos** app and going to**Share > Snapchat** . However, as dedicated Snapchat users will know, this method [will not influence your score or Snapstreak](https://www.makeuseof.com/tag/improve-snapchat-score/) .
@@ -130,9 +141,6 @@ Close
 
 **Warning:** Using a third-party app to post to Snapchat is against the terms of service and could get your account locked for 24 hours. Repeated offenses could result in Snapchat permanently deactivating your account. This is one reason why [jailbreaking really isn't worth it](https://www.makeuseof.com/tag/still-jailbreak-iphone-2015/) .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 6\. How to Back Up the iPhone Camera Roll
 
  Because Apple is incredibly stingy with the amount of free iCloud storage it gives you, many people don't realize their photos are not getting backed up.
@@ -142,8 +150,9 @@ Close
  Alternatively, you can [back up photos with the Files app](https://www.makeuseof.com/tag/use-ios-11-files-app-back-iphone-photos/) or [manually back up your images to a computer](https://www.makeuseof.com/tag/how-to-backup-iphone-ipad/) using iTunes. Connect your phone to your machine, click on the**Import** tab, and choose your preferred destination.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. How to Download Google Drive Videos to Camera Roll
 
  In late 2014, Google updated its Drive app for iOS. As part of the update, the company added a feature which allows you to save photos and videos from your account directly into your Camera Roll.
@@ -159,8 +168,9 @@ Follow these instructions to get started:
 Your photo/video will now be visible in the Camera Roll.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 8\. How to Jump to the Bottom of the Camera Roll
 
  If you've been an iPhone user for a long time, your list of photos on the Camera Roll could be seriously long. You'll be furiously swiping for an hour to get to that awesome picture of a sunrise you took five years ago.
@@ -169,9 +179,6 @@ Your photo/video will now be visible in the Camera Roll.
 
 ![iPhone Photos Tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2018/06/iphone-scroll-bottom-1.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![iPhone Camera Roll Scroll to Bottom](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2018/06/iphone-scroll-bottom-2.jpeg)
 
 Close
@@ -179,8 +186,9 @@ Close
  Luckily, there's a little-known gesture that lets you jump straight to the bottom of the Camera Roll. Just tap on the**Photos** tab at the bottom of the screen; you'll be back where you started in a flash.
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The iPhone Camera Roll Explained
 
  We were telling the truth when we said there's far more to the Camera Roll than meets the eye.
@@ -193,8 +201,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -202,4 +208,23 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-elite-multiplatform-recorder-for-pcs/"><u>[New] 2024 Approved Elite Multiplatform Recorder for PCs</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-quickening-your-live-feed-on-periscope-platform/"><u>[Updated] Quickening Your Live Feed on Periscope Platform</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-a-compreayers-guide-to-polishing-youtube-content-via-imovie-editing-techniques/"><u>2024 Approved A Compreayer's Guide to Polishing YouTube Content via iMovie Editing Techniques</u></a></li>
+<li><a href="https://win-top.techidaily.com/54sh5ykz5lu95lil5b6p5y6f5rc45lmf5yiq6zmk5pah5lu255qe6ksh6zuc5pa55rov/"><u>無備份下復原永久刪除文件的複雜方法</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ceasing-the-unplanned-boot-troubleshooting-autostart-in-windows-10-systems/"><u>Ceasing the Unplanned Boot: Troubleshooting Autostart in Windows 10 Systems</u></a></li>
+<li><a href="https://win-tips.techidaily.com/complete-guide-to-safely-wiping-ssds-in-windows-11-a-comprehensive-tutorial/"><u>Complete Guide to Safely Wiping SSDs in Windows 11 - A Comprehensive Tutorial</u></a></li>
+<li><a href="https://common-error.techidaily.com/critical-error-cruntimel1-1-0-missing-from-system/"><u>Critical Error: CRuntimeL1-1-0 Missing From System</u></a></li>
+<li><a href="https://win-premium.techidaily.com/easy-guide-connecting-your-microsoft-teams-meetings-with-your-television-screen/"><u>Easy Guide: Connecting Your Microsoft Teams Meetings with Your Television Screen</u></a></li>
+<li><a href="https://fox-that.techidaily.com/expert-iphone-evaluation-leveraging-apples-remote-diagnostic-services/"><u>Expert iPhone Evaluation: Leveraging Apple's Remote Diagnostic Services</u></a></li>
+<li><a href="https://fox-that.techidaily.com/no-more-headaches-fix-your-iphones-non-detection-issue-with-itunes-or-finder-today/"><u>No More Headaches: Fix Your iPhone's Non-Detection Issue with iTunes or Finder Today</u></a></li>
+<li><a href="https://fox-that.techidaily.com/prevent-your-airpods-from-connecting-automatically-a-step-by-step-guide/"><u>Prevent Your AirPods From Connecting Automatically: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-iphone-issues-with-ease-how-to-leverage-the-apple-support-application/"><u>Solving iPhone Issues with Ease: How to Leverage the Apple Support Application</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-pin-verification-hurdles-for-windows-1011-systems/"><u>Tackling PIN Verification Hurdles for Windows 10/11 Systems</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-6-tips-for-correcting-autocorrect-mistakes-on-iphone-learn-how/"><u>Top 6 Tips for Correcting AutoCorrect Mistakes on iPhone: Learn How</u></a></li>
+<li><a href="https://fox-that.techidaily.com/ultimate-guide-easily-performing-a-gentle-restart-on-your-iphone/"><u>Ultimate Guide: Easily Performing a Gentle Restart on Your iPhone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unstuck-your-iphone-safari-from-image-loading-problems-with-these-9-strategies/"><u>Unstuck Your iPhone Safari From Image Loading Problems with These 9 Strategies</u></a></li>
+</ul></div>
 

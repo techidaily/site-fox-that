@@ -1,7 +1,7 @@
 ---
 title: "How to Fix: When Your iPhone Shows Phone Numbers Not Names in Messages"
-date: 2024-09-24T23:25:02.894Z
-updated: 2024-10-01T20:23:44.000Z
+date: 2024-11-24T01:14:57.119Z
+updated: 2024-11-25T04:50:14.945Z
 tags:
   - iphone
   - apple
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/a7b063e2c5f1e938dc6e32e2ce85c52239dfc8e77
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Does Your Contact Name Disappear?
 
  When you initially see the Messages app showing a phone number instead of a contact name, you may think someone random has messaged you.
@@ -34,13 +38,6 @@ thumbnail: https://thmb.techidaily.com/a7b063e2c5f1e938dc6e32e2ce85c52239dfc8e77
  This may look even weirder when you have a [conversation pinned to the top of your Messages](https://www.makeuseof.com/how-to-pin-conversations-apples-messages-app-iphone-mac/) screen for easier access, and that's the one showing a phone number.
 
  However, this is usually a temporary issue and should fix itself. If this isn't the case, you can try a few quick fixes to get things back to normal quickly.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Restart Your iPhone
 
@@ -61,19 +58,6 @@ thumbnail: https://thmb.techidaily.com/a7b063e2c5f1e938dc6e32e2ce85c52239dfc8e77
 
 ![Contact Edit menu in iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/contact-edit-menu-in-ios.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Add Country Code to Number](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Fix-Messages-Not-Showing-Contact-Number.jpg)
 
 Close
@@ -85,10 +69,7 @@ Close
  Once you fix a phone number, you'll see Messages will automatically merge the conversations split across different chats.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Toggle iCloud Contacts
@@ -109,15 +90,20 @@ To do this, follow these steps on your iPhone:
 
 ![Password and Security in iPhone iCloud Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/2FA-iPhone-Password-and-Security.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Contacts in iCloud Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Fix-Messages-Not-Showing-iCloud-Contacts.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix Messages Showing Phone Numbers Instead of Contact Names
@@ -139,22 +125,19 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-a-deep-dive-into-an-individuals-3dr-experience/"><u>[New] A Deep Dive Into an Individual's '3DR' Experience</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-instagram-tv-deactivation-made-easy-for-2024/"><u>[New] Instagram TV Deactivation Made Easy for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-pureearaudioextractors-latest-evolution/"><u>[Updated] 2024 Approved PureEarAudioExtractor's Latest Evolution</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-immediate-sharing-from-twitter-vids-to-whatsapp-for-2024/"><u>[Updated] Immediate Sharing From Twitter Vids to WhatsApp for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/airpod-audio-woes-correct-silence-and-unstable-sounds-using-these-10-techniques/"><u>AirPod Audio Woes: Correct Silence and Unstable Sounds Using These 10 Techniques</u></a></li>
-<li><a href="https://fox-that.techidaily.com/get-the-most-out-of-your-iphones-wifi-discover-these-eight-solutions/"><u>Get the Most Out of Your iPhone’s Wifi - Discover These Eight Solutions</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721478195485-how-to-accelerate-your-iphones-screen-shutdown-effective-solutions-inside/"><u>How to Accelerate Your iPhone's Screen Shutdown – Effective Solutions Inside!</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-vivo-v27-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Vivo V27 Phone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-vivo-y200-drfone-by-drfone-virtual-android/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Vivo Y200 | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/navigate-around-apple-pay-snags-effortlessly-your-guide-to-solving-the-top-ten-issues/"><u>Navigate Around Apple Pay Snags Effortlessly: Your Guide to Solving the Top Ten Issues</u></a></li>
-<li><a href="https://fox-that.techidaily.com/navigating-privacy-ways-to-check-for-an-imessage-block-from-a-specific-user/"><u>Navigating Privacy: Ways to Check for an iMessage Block From a Specific User</u></a></li>
-<li><a href="https://win-blog.techidaily.com/resolving-the-issue-understanding-and-fixing-apex-legends-error-code-23/"><u>Resolving the Issue: Understanding and Fixing Apex Legends Error Code 23</u></a></li>
-<li><a href="https://windows11.techidaily.com/strengthening-net-framework-in-windows-max-156/"><u>Strengthening .NET Framework in Windows (Max 156)</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721467880557-struggling-with-phone-sync-discover-how-to-get-your-iphone-detected-by-itunesfinder-easily/"><u>Struggling with Phone Sync? Discover How to Get Your iPhone Detected by iTunes/Finder Easily!</u></a></li>
-<li><a href="https://fox-that.techidaily.com/top-11-fixes-for-iphones-that-arent-receiving-call-notifications/"><u>Top 11 Fixes for iPhones That Aren't Receiving Call Notifications</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/trouble-with-apple-iphone-xr-swipe-up-try-these-11-solutions-drfone-by-drfone-ios/"><u>Trouble with Apple iPhone XR Swipe-Up? Try These 11 Solutions | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/unifying-similar-portraits-in-your-photograph-collection-using-iphone-or-mac-tools/"><u>Unifying Similar Portraits in Your Photograph Collection Using iPhone or Mac Tools</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-rapid-growth-recipe-for-youtube-from-thousands-to-millions/"><u>[New] Rapid Growth Recipe for YouTube From Thousands to Millions</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-eyelaughs-funny-image-generator/"><u>[Updated] EyeLaughs Funny Image Generator</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-step-up-your-content-game-top-30-video-plans/"><u>2024 Approved Step Up Your Content Game Top 30 Video Plans</u></a></li>
+<li><a href="https://fox-that.techidaily.com/bypass-your-iphone-wireless-charging-issues-with-these-7-effective-fixes/"><u>Bypass Your iPhone Wireless Charging Issues with These 7 Effective Fixes</u></a></li>
+<li><a href="https://video-capture.techidaily.com/enhance-your-conference-experience-with-webcam-recordings/"><u>Enhance Your Conference Experience with Webcam Recordings</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exploring-high-dynamic-range-potentials-via-luminance-for-2024/"><u>Exploring High Dynamic Range Potentials via Luminance for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-a-failed-face-id-recognition-a-comprehensive-guide-with-14-remedies/"><u>Fixing a Failed Face ID Recognition: A Comprehensive Guide with 14 Remedies</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Apple iPhone 13 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-muting-issues-a-comprehensive-guide-when-the-switch-fails-you/"><u>IPhone Muting Issues: A Comprehensive Guide When the Switch Fails You</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolving-the-issue-of-undetected-occurrences-on-iphones-agenda/"><u>Resolving the Issue of Undetected Occurrences on iPhone's Agenda</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-poco-f5-pro-5g-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Poco F5 Pro 5G Device</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-your-iphone-snapshots-top-8-resolutions-and-hacks/"><u>Troubleshooting Your iPhone Snapshots: Top 8 Resolutions & Hacks</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/turning-off-emergency-broadcasts-and-amber-alerts-on-iphones-step-by-step-tips/"><u>Turning Off Emergency Broadcasts & Amber Alerts on iPhones – Step-by-Step Tips</u></a></li>
+<li><a href="https://fox-that.techidaily.com/ultimate-guide-defrosting-your-stuck-iphone-screen/"><u>Ultimate Guide: Defrosting Your Stuck iPhone Screen</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Struggling with iPhone App Downloads? Here Are 10 Remedies to Try Now
-date: 2024-08-27T14:42:05.595Z
-updated: 2024-08-28T14:42:05.595Z
+date: 2024-11-23T22:01:54.552Z
+updated: 2024-11-25T00:08:47.737Z
 tags:
   - iphone
   - apple
@@ -20,9 +20,17 @@ thumbnail: https://thmb.techidaily.com/876e753e27077574ad25291cd756f73dd324e0088
 
  There are several reasons your iPhone might not let you download any apps, from problems with your internet connection to a lack of storage on your device. Whatever the reason, you can use the troubleshooting steps below to fix it. We've listed them starting with the most common issues, that are the quickest to fix, so just work your way down the list to start downloading apps on your iPhone again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Test Your Internet Connection
 
 ![Cellular settings with App Store turned on](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2019/12/Cellular-settings-with-App-Store-turned-on.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  For your iPhone to download apps from the App Store, it needs a working internet connection. Most of the time, you should connect to Wi-Fi, since cellular downloads use up your data allowance and often only let you download apps smaller than 200MB.
 
@@ -34,47 +42,24 @@ thumbnail: https://thmb.techidaily.com/876e753e27077574ad25291cd756f73dd324e0088
 2. Scroll down to the list of apps and turn on**App Store** .
 3. Then go to**Settings > App Store** , tap**App Downloads** and choose if you want your iPhone to ask permission before downloading apps over 200MB in size.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ## 2\. Make Sure Your Have Enough Free Space
 
 ![iPhone Storage settings showing 30 GB of free space](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2019/12/iPhone-Storage-settings-showing-30-GB-of-free-space.jpg)
 
 <!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Internal iPhone storage is not expandable. You can't download new apps on your iPhone if you've already filled up your device with photos, videos, music, and other content.
 
 When this happens, an alert should pop up saying "Not Enough Storage."
 
  Go to**Settings > General > iPhone Storage** to see how much free space you have and take a look at which apps are using the most. There are plenty of ways to [create more free space on your iPhone](https://www.makeuseof.com/tag/iphone-storage-full-create-free-space-ios/) if you need to, such as offloading apps, uploading photos to the cloud, or deleting junk that you no longer need. You can do all of this from the iPhone storage settings.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Update Your Apple ID Details
 
 ![Apple ID Payment Information page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2019/12/Apple-ID-Payment-Information-page.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Even if you only download free apps from the App Store, you still need to have valid payment information and contact details linked to your Apple ID account. It's possible that the payment details on your account expired, so you should check if you need to update them.
 
 Update your Apple ID details from the iPhone Settings app:
@@ -83,16 +68,10 @@ Update your Apple ID details from the iPhone Settings app:
 2. Tap**Payment & Shipping** to view your payment information.
 3. Lastly, tap**Add Payment Method** to add a payment method, or use**Edit** to edit your existing methods.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Change the Date and Time
 
 ![Date & Time Settings with Set Automatically option in settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2019/12/Date-Time-Settings-with-Set-Automatically-option-in-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  As strange as it sounds, having the wrong date or time set might be the reason your iPhone won' let yout download or install apps from the App Store. This inconsistency causes communication problems between your device and Apple's servers.
 
 To correct the date and time on your iPhone:
@@ -101,6 +80,10 @@ To correct the date and time on your iPhone:
 2. Turn on the option to**Set Automatically** or choose your**Time Zone** manually.
 
  If you can't edit the date and time, you may need to turn off**Content & Privacy Restrictions** on your iPhone first. We'll explain how to do that in the next step.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Turn Off Content and Privacy Restrictions
 
@@ -116,9 +99,17 @@ To edit your restrictions:
    1. Tap**iTunes & App Store Purchases > Installing Apps** .  
    2. Select**Allow** to enable installing apps.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Pause and Resume Your App Download
 
 ![Quick Action menu for downloading app with pause and prioritize options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2019/12/Quick-Action-menu-for-downloading-app-with-pause-and-prioritize-options.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Sometimes, if your iPhone won't download apps, all you need to do to fix it is pause the download, then resume it again. You can do this from the Home Screen on your device.
 
@@ -127,6 +118,10 @@ To edit your restrictions:
  Alternatively, tap and hold on the app icon to reveal a quick-action menu. You can choose to**Pause Download** or**Resume Download** from this menu as well.
 
  Alternatively, you have the option to**Prioritize Download** from the quick-action menu. This is a good idea if your iPhone is downloading other content as well, since it prioritizes this app above all other downloads.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Sign Out of the App Store, Then Sign In Again
 
@@ -143,6 +138,10 @@ To sign out of the App Store:
 3. Confirm you want to**Sign Out** .
 4. Now tap**Media & Purchases** again and sign in with your Apple ID account.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8\. Quit Every App and Restart Your iPhone
 
 ![App Switcher view on iPhone with App Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2019/12/App-Switcher-view-on-iPhone-with-App-Store.jpg)
@@ -155,16 +154,10 @@ To sign out of the App Store:
 
  Wait 30 seconds after it powers off before pressing the**Side** or**Sleep/Wake** button again to restart it.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ## 9\. Delete the App, Then Download It Again
 
 ![Delete Minecraft iPhone popup alert](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2019/12/Delete-Minecraft-iPhone-popup-alert.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Sometimes a download becomes so corrupted that the only way to fix it is deleting the half-downlaoded app and downloading it again from scratch. If you never used the app before, there's nothing to lose from doing this.
 
  However, if you were trying to update an app rather than download it for the first time, deleting it might also delete any data you have saved in the app. You should [make a backup of your iPhone](https://www.makeuseof.com/tag/how-to-backup-iphone-ipad/) before deleting apps to protect your data.
@@ -185,9 +178,6 @@ To sign out of the App Store:
 
  If an app doesn't work with your device, you might need to [update iOS on your iPhone](https://www.makeuseof.com/tag/update-iphone-ios-apps-data/) to the latest available version. This is a good idea even if the app is compatible, since iOS updates often fix problematic software bugs.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Find Ways to Organize Your Downloaded Apps
 
  By now, you should be able to download as many apps as you want. If your iPhone still won't download apps from the App Store, contact [Apple Support](https://getsupport.apple.com/) for more help.
@@ -200,8 +190,6 @@ To sign out of the App Store:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -209,4 +197,24 @@ To sign out of the App Store:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-6-best-apps-to-remove-objects-from-photo-on-iphone/"><u>[New] 6 Best Apps to Remove Objects From Photo on iPhone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-elevate-your-fb-video-experience-with-fastest-extensions-and-tools/"><u>[New] Elevate Your FB Video Experience with Fastest Extensions and Tools</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-from-thread-to-thrill-sewing-secrets-on-tiktok-for-2024/"><u>[New] From Thread to Thrill Sewing Secrets on TikTok for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-the-creative-entrepreneurs-handbook-in-design/"><u>[Updated] In 2024, The Creative Entrepreneur's Handbook in Design</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-expert-strategies-for-seamless-clip-composition/"><u>2024 Approved Expert Strategies for Seamless Clip Composition</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-xiaomi-13-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Xiaomi 13 Ultra | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/avoid-these-7-common-iphone-display-problems-with-easy-fixes/"><u>Avoid These 7 Common iPhone Display Problems with Easy Fixes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/five-swift-solutions-reviving-your-malfunctioning-iphone-home-button/"><u>Five Swift Solutions: Reviving Your Malfunctioning iPhone Home Button</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-fix-a-non-responsive-facetime-discover-15-tips-and-tricks/"><u>How to Fix a Non-Responsive FaceTime - Discover 15 Tips & Tricks</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-automate-the-savvy-storage-of-your-social-media-images/"><u>In 2024, Automate the Savvy Storage of Your Social Media Images</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-restoration-guide-no-itunes-required/"><u>IPhone Restoration Guide: No iTunes Required</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-on-charge-hold-alerts-on-your-iphone-discover-8-effective-fixes/"><u>Overcoming 'On Charge Hold Alerts' On Your iPhone - Discover 8 Effective Fixes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolve-your-iphone-wake-up-woes-fix-notifications-that-dont-sound/"><u>Resolve Your iPhone Wake-Up Woes: Fix Notifications That Don't Sound</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/slippery-surfaces-olympic-winners-of-22/"><u>Slippery Surfaces Olympic Winners of '22</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-at-its-best-learn-the-gentle-reboot-technique-for-iphones-here/"><u>Troubleshooting at Its Best: Learn the Gentle Reboot Technique for iPhones Here!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/ultimate-guide-changing-apple-device-screen-lock-code/"><u>Ultimate Guide: Changing Apple Device Screen Lock Code</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-vivo-x100-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Vivo X100 Phones</u></a></li>
+</ul></div>
 

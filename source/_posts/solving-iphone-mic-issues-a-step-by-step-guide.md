@@ -1,7 +1,7 @@
 ---
 title: "Solving iPhone Mic Issues: A Step-by-Step Guide"
-date: 2024-09-26T16:53:41.554Z
-updated: 2024-10-01T23:40:45.575Z
+date: 2024-11-19T18:16:18.322Z
+updated: 2024-11-25T02:39:47.538Z
 tags:
   - iphone
   - apple
@@ -21,18 +21,15 @@ thumbnail: https://thmb.techidaily.com/728942524bb364987d92cb465ba4b4e140c040caf
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Find Out Which Microphone Isn't Working
 
  Before you begin fixing your iPhone's microphone, you'll need to know which microphone isn't working. If you have an iPhone 5 or later, you'll have three microphones: one on the bottom of your phone for phone calls, one on the front of your phone for speakerphone, and one on the back for the camera.
 
  Test each microphone by recording using Voice Memos (bottom microphone), making a phone call on speakers (front microphone), and recording a video (back microphone). If all the microphones aren't working, it's most likely a hardware issue. If only one microphone isn't working or sounds muffled, continue to the next step.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. iPhone Microphone Muffled or Muted? Try Cleaning It
 
@@ -46,6 +43,10 @@ thumbnail: https://thmb.techidaily.com/728942524bb364987d92cb465ba4b4e140c040caf
 
  Isopropyl alcohol breaks up grime and dries fast, so it won't damage your iPhone. Try using the highest percentage of isopropyl alcohol you can find. While you're at it,[clean your entire iPhone thoroughly](https://www.makeuseof.com/tag/clean-iphone-guide/) if it's not in a good shape.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Disconnect From Bluetooth Devices
 
 Close
@@ -53,6 +54,10 @@ Close
  Being connected to a Bluetooth device could mean that your iPhone is activating an external microphone, and you can't use the built-in one.
 
  This is a common issue with those who use Bluetooth headphones like AirPods or smart home systems. Check if you're connected to a Bluetooth device by [opening your iPhone's Control Center](https://www.makeuseof.com/how-to-use-customize-control-center-iphone/) , then toggle Bluetooth off. Alternatively, tap and hold it to view all your connected devices.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Make Sure Apps Have Microphone Permissions
 
@@ -63,28 +68,12 @@ Close
  To grant an app permission, head to**Settings** and select the affected app. Now, make sure the**Microphone** toggle is enabled.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Use an External Microphone or AirPods
 
 ![A guy holding AirPods Pro in charging case showing orange light](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/02/a-guy-holding-airpods-pro-in-charging-case-showing-orange-light.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Hamlin Rozario/[MakeUseOf](https://www.makeuseof.com/author/hamlin-rozario/)
 
@@ -93,10 +82,7 @@ Close
  Most headphones, including Apple's AirPods, have built-in microphones. Since they connect via your iPhone's Lightning/USB-C port or Bluetooth, you won't have to rely on the built-in microphones for most tasks.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Other Generic Fixes
@@ -124,20 +110,24 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-mastering-the-art-of-disconnecting-from-your-old-linkedin-account/"><u>[New] 2024 Approved Mastering the Art of Disconnecting From Your Old LinkedIn Account</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-voice-transformation-top-7-innovative-mobile-apps/"><u>[New] 2024 Approved Voice Transformation Top 7 Innovative Mobile Apps</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-transform-tweets-into-files-iphoneandroid-instructional-guide/"><u>[New] In 2024, Transform Tweets Into Files IPhone/Android Instructional Guide</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-realme-gt-5-240w-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Realme GT 5 (240W) | Dr.fone</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-cinema-crafting-excellence-top-5-camera-skills-to-hone/"><u>2024 Approved Cinema Crafting Excellence Top 5 Camera Skills to Hone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/6-common-problems-with-iphones-visual-look-up-feature/"><u>6 Common Problems with iPhone's Visual Look Up Feature</u></a></li>
-<li><a href="https://driver-install.techidaily.com/boosting-performance-with-updated-hyperx-headset-drivers/"><u>Boosting Performance with Updated HyperX Headset Drivers</u></a></li>
-<li><a href="https://extra-information.techidaily.com/comprehensive-step-by-step-for-youtube-chapters-the-complete-guide/"><u>Comprehensive Step-by-Step for YouTube Chapters The Complete Guide</u></a></li>
-<li><a href="https://fox-that.techidaily.com/illuminating-factors-behind-your-iphones-dimming-display-explore-these-10-key-reasons-today/"><u>Illuminating Factors Behind Your iPhone's Dimming Display - Explore These 10 Key Reasons Today</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-picshot-transforms-mixed-media-into-masterpieces/"><u>In 2024, How Picshot Transforms Mixed Media Into Masterpieces</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-change-your-location-on-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change Your Location on Apple iPhone 14 | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/silencing-your-ipad-solutions-for-preventing-automatic-ringing-with-your-iphone/"><u>Silencing Your iPad: Solutions for Preventing Automatic Ringing with Your iPhone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/step-by-step-fixes-for-when-your-airplay-wont-work-correctly/"><u>Step-by-Step Fixes for When Your AirPlay Won't Work Correctly</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-tips-resolving-non-updating-email-issues-on-your-iphone/"><u>Troubleshooting Tips: Resolving Non-Updating Email Issues on Your iPhone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/understanding-the-seven-factors-behind-poor-iphoneandroid-wi-fi-speed/"><u>Understanding the Seven Factors Behind Poor iPhone/Android Wi-Fi Speed</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-the-essential-guide-to-blur-techniques-for-dynamic-artwork/"><u>[New] 2024 Approved The Essential Guide to Blur Techniques for Dynamic Artwork</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-metaverse-or-omniverse-unpacking-the-digital-spheres/"><u>[New] In 2024, Metaverse or Omniverse? Unpacking the Digital Spheres</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-the-top-picks-excellent-fb-lite-video-downloaders-of-2023/"><u>[Updated] The Top Picks Excellent FB Lite Video Downloaders of 2023</u></a></li>
+<li><a href="https://fox-that.techidaily.com/5-essential-fixes-for-non-working-subscription-sharing-among-relatives/"><u>5 Essential Fixes for Non-Working Subscription Sharing Among Relatives</u></a></li>
+<li><a href="https://fox-that.techidaily.com/clear-as-day-7-strategies-for-fixing-a-foggy-iphone-lens-capture/"><u>Clear as Day: 7 Strategies for Fixing a Foggy iPhone Lens Capture</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-most-effective-techniques-to-enjoy-hd-films-at-no-cost-on-your-surface-pro-tablet/"><u>Discover the Most Effective Techniques to Enjoy HD Films at No Cost on Your Surface Pro Tablet</u></a></li>
+<li><a href="https://fox-that.techidaily.com/enhance-your-audio-experience-disabling-head-motion-control-on-airpods-for-better-sound-quality/"><u>Enhance Your Audio Experience: Disabling Head Motion Control on AirPods for Better Sound Quality</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-eliminating-backlogged-videos-from-your-youtube-history/"><u>In 2024, Eliminating Backlogged Videos From Your YouTube History</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-password-on-your-apple-iphone-15-pro-max-drfone-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID Password On your Apple iPhone 15 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-lava-yuva-3-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Lava Yuva 3 to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-review-of-suminds-best-selling-bluetooth-bt70b-transmitter-a-must-have-for-every-driver/"><u>In-Depth Review of Sumind's Best Selling Bluetooth BT70B Transmitter: A Must-Have for Every Driver!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/mastering-iphone-dfu-mode-setup-and-operations-for-troubleshooting/"><u>Mastering iPhone DFU Mode Setup & Operations for Troubleshooting</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-iphone-13-difficulties-solving-the-six-principal-issues-you-might-encounter/"><u>Overcoming iPhone 13 Difficulties: Solving the Six Principal Issues You Might Encounter</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-problems-with-non-responsive-chatgpt-on-your-iphone-9-tips-and-tricks/"><u>Overcoming Problems with Non-Responsive ChatGPT on Your iPhone – 9 Tips & Tricks</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solutions-for-when-you-cant-see-any-app-icons-on-your-iphone-get-them-back-now/"><u>Solutions for When You Can't See Any App Icons on Your iPhone - Get Them Back Now!</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-rated-mp4-codec-tools-for-flawless-hd-video-conversion/"><u>Top Rated MP4 Codec Tools for Flawless HD Video Conversion</u></a></li>
+<li><a href="https://win-forum.techidaily.com/unlock-your-computers-full-potential-easy-bios-entry-in-windows-11-explained/"><u>Unlock Your Computer's Full Potential: Easy BIOS Entry in Windows 11 Explained</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlocking-gifting-hurdles-5-common-problems-with-sending-tokens-from-ios-gadgets/"><u>Unlocking Gifting Hurdles: 5 Common Problems with Sending Tokens From iOS Gadgets</u></a></li>
+<li><a href="https://fox-that.techidaily.com/what-to-do-if-your-iphone-doesnt-receive-incoming-calls/"><u>What to Do if Your iPhone Doesn't Receive Incoming Calls</u></a></li>
 </ul></div>
 

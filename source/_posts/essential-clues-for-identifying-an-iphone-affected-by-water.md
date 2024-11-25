@@ -1,7 +1,7 @@
 ---
 title: Essential Clues for Identifying an iPhone Affected by Water
-date: 2024-09-27T20:18:01.845Z
-updated: 2024-10-01T18:18:48.679Z
+date: 2024-11-21T04:04:29.421Z
+updated: 2024-11-25T01:32:11.973Z
 tags:
   - iphone
   - apple
@@ -34,15 +34,16 @@ thumbnail: https://thmb.techidaily.com/c37c2fb062f462104689e721c0e87e0aafa96193e
  If you use your iPhone's camera and your pictures look like they're from a low-budget movie from the 50s, then it might be water-damaged. If you see a photo like this, turn off your phone and dry it thoroughly.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Face ID or Touch ID Malfunctioning
 
 ![iPhone with Face ID is not available message on the lock screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/iphone-with-face-id-is-not-available-message-on-the-lock-screen.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Apple's biometric security features are one of the features you could lose when your iPhone takes an unfortunate bath in water.
 
@@ -54,20 +55,21 @@ thumbnail: https://thmb.techidaily.com/c37c2fb062f462104689e721c0e87e0aafa96193e
 
  Dirty water often contains all sorts of particles that can get into small gaps and block them. If you notice that the buttons on an iPhone feel stuck, make a grainy sound, or simply do not respond, then you could be holding a water-damaged iPhone.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Patches on the Display
 
 ![An iPhone X with a dark spot on its left bottom corner](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/05/an-iphone-x-with-a-dark-spot-on-its-left-bottom-corner.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you're unlucky, water could also affect your display and develop permanent patches. You might see signs of water under the display first before it slowly forms dark patches—making the affected area dimmer.
 
  Once you see signs of water under the display, dry the device and [back up all your iPhone's data](https://www.makeuseof.com/tag/how-to-backup-iphone-ipad/) . Whatever you do, do not put it in rice because that myth may accelerate your problem. If there's still a dark spot after your phone is dry, you might need to change the screen assembly.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Faulty Touchscreen and Flickering Display
 
@@ -76,6 +78,10 @@ thumbnail: https://thmb.techidaily.com/c37c2fb062f462104689e721c0e87e0aafa96193e
  You might also notice that your phone's screen is flickering. This could happen alongside an unresponsive touchscreen, or it could occur separately. Either way, these are signs of a water-damaged iPhone.
 
  The phone's display module may have been affected by water. You should return it to Apple or an Apple Authorized Service Provider to replace that part of the screen.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Muffled Speakers
 
@@ -99,23 +105,9 @@ thumbnail: https://thmb.techidaily.com/c37c2fb062f462104689e721c0e87e0aafa96193e
 
 ![Plugged-in iPhone resting on a black surface](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/plugged-in-iphone-resting-on-a-black-surface.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  In most scenarios where a phone falls into some water, it will likely be dirty water. And dirty water could contain all sorts of things like sand, mud, or other icky particles. These particles can get into your phone's charging port and block the pins. When the pins are blocked in this manner, your charger might not be able to fully nest in your phone, stopping your phone from charging properly or charging at all.
 
  If your phone falls in muddy water, try to remove mud from the charging port as quickly as possible. When your phone dries, give the charging port a thorough clean. You can check our guide on [how to clean your dirty iPhone](https://www.makeuseof.com/tag/clean-iphone-guide/) for better assistance with that.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 9\. Strange Smells
 
@@ -124,13 +116,6 @@ thumbnail: https://thmb.techidaily.com/c37c2fb062f462104689e721c0e87e0aafa96193e
  If you're looking to buy a used iPhone that you suspect has been water-damaged, you can sniff the charging port area to find out if it has been in water recently. If you smell something grimy, salty, or a little like burning wire, it may be water-damaged.
 
  Turning on your phone after water makes its way inside can cause the water inside to turn to vapor as the phone heats up. Not only can vapor cause more damage, but it could cause strange odors to ooze out of your phone.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Avoid a Water-Damaged iPhone at All Costs
 
@@ -155,18 +140,22 @@ thumbnail: https://thmb.techidaily.com/c37c2fb062f462104689e721c0e87e0aafa96193e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-cutting-edge-8-cameras-for-professional-broadcasts/"><u>[New] In 2024, Cutting-Edge 8 Cameras for Professional Broadcasts</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-7-comedy-youtube-video-ideas-that-funny-people-can-try/"><u>[Updated] 2024 Approved 7 Comedy YouTube Video Ideas That Funny People Can Try</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-correctly-handle-missing-d3dx927dll-dll-files-on-computers/"><u>How to Correctly Handle Missing d3dx9_27.dll DLL Files on Computers</u></a></li>
-<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-oneplus-ace-2v-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your OnePlus Ace 2V | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Xiaomi Redmi Note 13 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-effective-utilization-of-whiteboards-on-mobile-and-desktop-for-online-learning/"><u>In 2024, Effective Utilization of Whiteboards on Mobile and Desktop for Online Learning</u></a></li>
-<li><a href="https://fox-that.techidaily.com/resolving-recurring-airpod-disconnection-a-guide-for-iphone-users-11-steps/"><u>Resolving Recurring AirPod Disconnection: A Guide for iPhone Users (11 Steps)</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solving-the-problem-why-isnt-my-iphone-syncing-email/"><u>Solving the Problem: Why Isn't My iPhone Syncing Email?</u></a></li>
-<li><a href="https://fox-that.techidaily.com/spotting-moisture-damage-in-iphones-identify-the-9-red-flags/"><u>Spotting Moisture Damage in iPhones - Identify the 9 Red Flags</u></a></li>
-<li><a href="https://win-blog.techidaily.com/ultimate-guide-to-resolve-outriders-performance-problems-on-your-computer/"><u>Ultimate Guide to Resolve Outriders' Performance Problems on Your Computer</u></a></li>
-<li><a href="https://fox-that.techidaily.com/uncovering-iphone-slow-shutdown-woes-expert-fixes-for-quicker-screen-off-times/"><u>Uncovering iPhone Slow Shutdown Woes: Expert Fixes for Quicker Screen Off Times</u></a></li>
-<li><a href="https://fox-that.techidaily.com/unstuck-from-iphone-glitches-3-effective-ways-to-restore-your-contact-list/"><u>Unstuck From iPhone Glitches: 3 Effective Ways to Restore Your Contact List</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-oppo-find-x7-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On Oppo Find X7? | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-mastering-instagram-as-an-influencer-5-must-know-techniques-and-case-studies-for-2024/"><u>[New] Mastering Instagram As An Influencer 5 Must-Know Techniques and Case Studies for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-lightweight-realities-googles-cardboard-and-samsung-gear-vr/"><u>[Updated] Lightweight Realities Google’s Cardboard and Samsung Gear VR</u></a></li>
+<li><a href="https://fox-that.techidaily.com/7-methods-to-resolve-an-iphone-trapped-on-the-startup-apple-graphic/"><u>7 Methods to Resolve an iPhone Trapped on the Startup Apple Graphic</u></a></li>
+<li><a href="https://fox-that.techidaily.com/experiencing-a-dead-pixel-nightmare-here-are-8-fixes-for-common-tablet-touchscreen-issues/"><u>Experiencing a Dead Pixel Nightmare? Here Are 8 Fixes for Common Tablet Touchscreen Issues</u></a></li>
+<li><a href="https://fox-that.techidaily.com/get-siri-back-on-track-essential-tips-and-tricks-for-iphones-and-ipads/"><u>Get Siri Back On Track: Essential Tips and Tricks for iPhones & iPads</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-intel-hd-graphics-440-download-and-install-drivers/"><u>Get the Latest Intel HD Graphics 440: Download & Install Drivers</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-realme-11-proplus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Realme 11 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/imessage-transition-to-standard-messages-what-does-it-mean-for-your-status/"><u>IMessage Transition to Standard Messages: What Does It Mean for Your Status?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-top-8-accessories-for-vr-games/"><u>In 2024, Innovative Top 8 Accessories for VR Games</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/microsoft-copilot-vs-chatgpt-four-compelling-reasons-to-switch/"><u>Microsoft Copilot Vs. ChatGPT: Four Compelling Reasons to Switch</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/nvidia-streamlines-pc-application-suite-a-leap-towards-user-friendly-experience/"><u>Nvidia Streamlines PC Application Suite: A Leap Towards User-Friendly Experience</u></a></li>
+<li><a href="https://fox-that.techidaily.com/protect-your-privacy-stop-iphones-from-hoarding-images-post-deletion-with-these-8-strategies/"><u>Protect Your Privacy: Stop iPhones From Hoarding Images Post-Deletion with These 8 Strategies</u></a></li>
+<li><a href="https://fox-that.techidaily.com/six-effective-strategies-when-airpods-fail-to-link-with-multiple-idevices/"><u>Six Effective Strategies When AirPods Fail to Link with Multiple iDevices</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solving-the-issue-why-isnt-netflix-functioning-properly-on-your-roku-device/"><u>Solving the Issue: Why Isn't Netflix Functioning Properly on Your Roku Device?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/step-by-step-tutorial-how-to-set-a-new-screen-time-password-for-ios-and-macos-devices/"><u>Step-by-Step Tutorial: How to Set a New Screen Time Password for iOS & macOS Devices</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-guide-steps-to-fix-an-unresponsive-iphone-mail-app/"><u>Troubleshooting Guide: Steps to Fix an Unresponsive iPhone Mail App</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unblock-your-phones-full-potential-overcoming-the-constant-sos-only-issue-on-iphones/"><u>Unblock Your Phone's Full Potential: Overcoming the Constant 'SOS Only' Issue on iPhones</u></a></li>
 </ul></div>
 

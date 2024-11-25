@@ -1,7 +1,7 @@
 ---
 title: Resolving Common Problems When Sharing Media with Your Loved Ones
-date: 2024-08-27T14:44:16.041Z
-updated: 2024-08-28T14:44:16.041Z
+date: 2024-11-23T01:01:05.813Z
+updated: 2024-11-24T21:22:47.946Z
 tags:
   - iphone
   - apple
@@ -43,9 +43,17 @@ Here's how to turn it on using an iPhone or iPad:
 
 ![Family menu on iOS 16 Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/1.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Family purchase sharing prompt screen on iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/2.jpeg)
 
 ![Purchase Sharing menu displaying payment options and family members on iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/3-1.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -60,8 +68,9 @@ And here's how to do the same on a Mac:
 This might fix your issue, but try the next step if it doesn't.
 
 <!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Change Apple ID Region
 
  This may not be immediately obvious, but regions matter a lot for apps and media purchases. If your family members are using different Apple ID regions, they won't be able to access the same subscriptions.
@@ -77,9 +86,6 @@ Here's a quick way to do it on your browser:
 
 ![Dreamchild's Apple ID personal information page on the Apple ID website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/dreamchild-s-apple-id-personal-information-page-on-the-apple-id-website.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Sign Out and Sign In to Media & Purchases
 
  First, you must ensure you're using the same Apple ID for Family Sharing and Media & Purchases. You can find it in**Settings** \>**Family** \>**Your Name** \>**Purchases** \>**Apple ID for Purchases** . Confirm that your Apple ID for purchases is the same as your regular Apple ID.
@@ -93,17 +99,19 @@ Here's a quick way to do it on your browser:
 ![Settings home screen on iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/1-1.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Media & Purchases sub-settings in Apple ID menu on iOS Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/2-1.jpeg)
 
 ![Prompt to confirm Media & Purchases sign out on iOS Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/3-2.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Close
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ## 5\. Sign Out, Restart, and Sign In
 
  A little Apple ID reset on the device that isn't receiving the shared subscription might do the trick.
@@ -118,10 +126,11 @@ Close
 
 ![Prompt to enter Apple ID password](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/2-prompt-to-enter-apple-id-password.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![iOS Settings with Apple ID signed out](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/ios-settings-with-apple-id-signed-out.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -133,6 +142,10 @@ If the problematic device is a Mac, do this instead:
 4. Go back to**System Settings** and choose**Sign In** .
 
 ![System Settings Apple ID page displaying sign out button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/system-settings-apple-id-page-displaying-sign-out-button.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  This should refresh the App Store and other apps, and it should now recognize that the signed-in Apple ID has access to the shared subscriptions.
 
@@ -148,11 +161,12 @@ Here's how to do it on iOS and iPadOS:
 
 ![Family menu on iOS 16 Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/1.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Faizah's Family menu displaying option to Remove Faizah from Family](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/faizah-s-family-menu-displaying-option-to-remove-faizah-from-family.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Close
 
 If you're on a Mac, follow these steps instead:
@@ -163,14 +177,8 @@ If you're on a Mac, follow these steps instead:
 
 ![Family member sub-window in System Settings on macOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/family-member-sub-window-in-system-settings-on-macos.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  If you want to learn more about managing your family members, you can read our guide on [how to stop using Apple Family](https://www.makeuseof.com/how-to-stop-apple-family-sharing-or-remove-members/) .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ## Check Payments if All Else Fails
 
  If you tried all these troubleshooting steps and still can't share your subscription, you can try contacting Apple Support for guidance.
@@ -185,8 +193,6 @@ If you're on a Mac, follow these steps instead:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -194,4 +200,22 @@ If you're on a Mac, follow these steps instead:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-decoding-and-manipulating-gender-presentation-online-a-step-by-step-approach/"><u>[New] In 2024, Decoding and Manipulating Gender Presentation Online A Step-by-Step Approach</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-insta-vids-dissecting-the-relevance-of-self-image-authenticity/"><u>[New] In 2024, Insta Vids Dissecting the Relevance of Self-Image Authenticity</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-from-device-capture-to-viral-content-youtubes-upload-guide/"><u>2024 Approved From Device Capture to Viral Content YouTube's Upload Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/battling-roblox-memory-shortage-warnings-on-iphones-effective-solutions-revealed/"><u>Battling Roblox Memory Shortage Warnings on iPhones: Effective Solutions Revealed</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/crafting-captivating-captions-a-triad-of-tips-for-insta-videos-for-2024/"><u>Crafting Captivating Captions A Triad of Tips for Insta Videos for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/dealing-with-ghost-touch-problems-on-iphones-a-guide-to-10-practical-remedies/"><u>Dealing with Ghost Touch Problems on iPhones: A Guide to 10 Practical Remedies</u></a></li>
+<li><a href="https://facebook.techidaily.com/fostering-dialogue-implementing-facebook-stories-surveys/"><u>Fostering Dialogue: Implementing Facebook Stories Surveys</u></a></li>
+<li><a href="https://blog-min.techidaily.com/gutachten-umsetzen-konvertierung-von-dvd-dateien-zu-hochwertigen-mp4-videos/"><u>Gutachten Umsetzen: Konvertierung Von DVD-Dateien Zu Hochwertigen MP4-Videos</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-fix-an-iphone-when-it-wont-accept-callers/"><u>How to Fix an iPhone When It Won't Accept Callers</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-how-much-cash-can-you-score-for-watching-a-million-videos/"><u>In 2024, How Much Cash Can You Score for Watching A Million Videos?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/mastering-ipad-maintenance-a-beginners-guide-to-recovery-mode-setup/"><u>Mastering iPad Maintenance: A Beginner's Guide to Recovery Mode Setup</u></a></li>
+<li><a href="https://fox-that.techidaily.com/navigating-through-common-icloud-challenges-for-apple-products-and-their-resolutions/"><u>Navigating Through Common iCloud Challenges for Apple Products and Their Resolutions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-how-to-prevent-your-genshin-impact-pc-from-crashing/"><u>Resolved: How to Prevent Your Genshin Impact PC From Crashing</u></a></li>
+<li><a href="https://fox-that.techidaily.com/struggling-with-dnd-on-your-iphone-uncover-8-solutions-for-missing-messages-and-calls/"><u>Struggling with DND on Your iPhone? Uncover 8 Solutions for Missing Messages & Calls</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-comprehensive-beginners-manual-to-social-media-dating/"><u>The Comprehensive Beginner’s Manual to Social Media Dating</u></a></li>
+</ul></div>
 

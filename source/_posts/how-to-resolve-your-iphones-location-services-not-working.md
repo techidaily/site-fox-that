@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Your iPhone's Location Services Not Working
-date: 2024-08-27T14:40:37.892Z
-updated: 2024-08-28T14:40:37.892Z
+date: 2024-11-18T00:03:48.376Z
+updated: 2024-11-25T00:34:42.233Z
 tags:
   - iphone
   - apple
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/8acaf4a476033f54e704f652076d0feb19e147f8c
  Do you keep seeing "Location Not Available" while tracking a friend or family member's location in iMessage or Find My on your iPhone? It's an issue that's pretty easy to resolve. However, you may need to ask your friend or family member to take action on their device as well.
 
  So without any further ado, let's check out what it takes to fix the "Location Not Available" error on an iPhone. We'll start with the steps you can try yourself, before moving onto what the person you're trying to track needs to do.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Fix "Location Not Available" From Your Own iPhone
 
@@ -44,6 +48,10 @@ Close
 
  If closing and reopening the relevant app didn't work, you might need to [restart your iPhone](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) instead. To restart your iPhone, simply open the**Settings** app and tap**General > Shut Down** . Once the screen goes black, wait for several seconds and hold the**Side** or the**Top** button until you see the Apple logo.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Fix "Location Not Available" From Someone Else's iPhone
 
  If the two fixes above didn't help, you'll need to shift your attention to your friend or family member's iPhone. Walk them through the fixes below on a call. Or, share this post with them and make sure they follow the instructions in this section.
@@ -54,21 +62,16 @@ Close
 
 ![Settings app on iPhone.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/4-settings-app.PNG)
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Apple ID settings screen.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/5-apple-id-settings.PNG)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Find My preferences.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/6-share-my-location-1.PNG)
 
 Close
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ### Share the Location in Messages and Find My Again
 
  Next, disable and re-enable location sharing in the Messages or Find My app:
@@ -79,25 +82,30 @@ Close
 ![iMessage chat.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/7-messages-chat.PNG)
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Stop Sharing My Location.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/8-info-pane.PNG)
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Start sharing my location.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/9-info-pane-alt.PNG)
 
 Close
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Restart the iPhone
 
  The simplest method is to go to**Settings > General > Shut Down** . Then, press and hold the**Side** or**Top** button to restart the iPhone.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Check the Date and Time
 
@@ -105,21 +113,16 @@ Close
 
 ![iPhone Settings screen.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/10-iphone-settings.PNG)
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![General settings screen on iPhone.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/11-general-settings.PNG)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Date or time screen on iPhone.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/12date-time.PNG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Switch to Cellular Data
 
  Spotty Wi-Fi can also play a factor, so try using cellular or mobile data instead. To do that, open the iPhone's**Control Center** (swipe down from the top-right of the screen or swipe up from the bottom if your iPhone has a Home button) and tap the**Wi-Fi** icon to disable it.
@@ -136,8 +139,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -145,4 +146,21 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-videos.techidaily.com/updated-a-guide-to-gathering-gold-from-guided-goods-gazes-online/"><u>[Updated] A Guide to Gathering Gold From Guided Goods' Gazes Online</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-server-stumbled-problem-in-ms-store-a-guide-for-windows-11-and-11-users/"><u>Bypassing Server Stumbled Problem in MS Store: A Guide for Windows 11 and 11 Users</u></a></li>
+<li><a href="https://facebook.techidaily.com/elevated-authenticity-meta-golden-star-vs-twitters-platinum-badge/"><u>Elevated Authenticity: Meta Golden Star Vs. Twitter's Platinum Badge</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721442039403-fix-your-iphones-non-responsive-silent-mode-mastery-through-practical-tricks/"><u>Fix Your iPhones' Non-Responsive Silent Mode – Mastery Through Practical Tricks!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721472373413-fix-your-itunesfinder-not-seeing-iphone-problem-today-with-these-easy-troubleshooting-tips/"><u>Fix Your iTunes/Finder Not Seeing iPhone Problem Today with These Easy Troubleshooting Tips</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/ideal-practices-for-mobile-and-dslr-crafting-impeccable-igtv-videos-for-2024/"><u>Ideal Practices for Mobile & DSLR Crafting Impeccable IGTV Videos for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-samsung-galaxy-a24-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Samsung Galaxy A24 to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-tecno-spark-10c-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Tecno Spark 10C | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721466596276-is-your-cellphones-screen-acting-up-with-a-flicker-solve-the-issue-with-7-quick-fixes/"><u>Is Your Cellphone's Screen Acting Up with a Flicker? Solve the Issue With 7 Quick Fixes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721471553081-master-seamless-audio-transition-with-these-six-fixes-making-your-airpods-smartly-switch-between-apple-gadgets/"><u>Master Seamless Audio Transition with These Six Fixes: Making Your AirPods Smartly Switch Between Apple Gadgets</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721450231778-revive-your-iphone-volume-control-discover-the-top-7-fixes-for-unresponsive-buttons/"><u>Revive Your Iphone Volume Control: Discover the Top 7 Fixes for Unresponsive Buttons</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/secure-social-space-end-following-protocols/"><u>Secure Social Space End Following Protocols</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721453661709-sluggish-smartphone-signal-accelerate-your-data-speeds-in-just-10-steps/"><u>Sluggish Smartphone Signal? Accelerate Your Data Speeds in Just 10 Steps</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/wegwijzer-verwijderd-terugleggen-in-windows-1011-eerste-schritte-en-deels-gelezen-methode/"><u>Wegwijzer Verwijderd Terugleggen in Windows 10/11: Eerste Schritte En Deels-Gelezen Methode</u></a></li>
+</ul></div>
 

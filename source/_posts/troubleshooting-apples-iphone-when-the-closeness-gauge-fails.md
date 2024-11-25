@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Apple's iPhone When the Closeness Gauge Fails
-date: 2024-08-27T14:43:06.440Z
-updated: 2024-08-28T14:43:06.440Z
+date: 2024-11-20T16:42:38.217Z
+updated: 2024-11-24T23:45:43.402Z
 tags:
   - iphone
   - apple
@@ -18,9 +18,17 @@ thumbnail: https://thmb.techidaily.com/1505d6f4180ef3234fcf66cf60e394c6b774b5274
 
  iPhones are no different, and just like other phones, your iPhone's proximity sensor could get damaged or become unresponsive. If you run into this issue, there are some actions you could take to isolate the problem and fix it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Test the Proximity Sensor on an iPhone
 
 ![A gray iPhone 6 on a woman's ear](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/a-gray-iphone-6-on-a-woman-s-ear.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The iPhone's proximity sensor uses infrared light from an emitter at the top of your screen. The sensor measures how long it takes for the rays to reflect off a surface to determine the distance.
 
@@ -47,18 +55,12 @@ Here are some things you could do to check if it's working:
 
  Be careful not to use rubbing alcohol, window cleaners, vinegar, or any similar grease-cutting products, as they could eat away your screen's coating.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. Restart the Target Application or Your iPhone
 
  If you notice that your proximity sensor is still not working after cleaning your screen, it could be the app (like WhatsApp or the Phone app) or iOS misbehaving.
 
  In this case, you should restart the app first. Merely returning to the Home Screen isn't enough; you must open the App Switcher (learn how to do so in our [iPhone navigation basics](https://www.makeuseof.com/how-to-go-back-get-home-switch-apps-iphone/) guide) and swipe up on the target app's preview. Open the app again and try to use the proximity sensor. You can also try [restarting your iPhone](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) for good measure.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### 3\. Make Sure Your iPhone Is Up to Date
 
  As an extension of software problems, your iPhone's proximity sensor might act up due to an iOS bug. The only way to completely rule out that possibility is to update your iPhone to the latest iOS version available.
@@ -69,24 +71,19 @@ Here are some things you could do to check if it's working:
 
 ![Software update information on iOS for iOS 16.6](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/software-update-information-on-ios-for-ios-16-6.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![Update terms and conditions on iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/update-terms-and-conditions-on-ios.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Close
 
  Your phone will restart a couple of times, but it will stabilize when it's finished. Test the proximity sensor again using our steps above.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 4\. Remove the Screen Protector
 
 ![man applying screen protector to smartphone feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/man-applying-screen-protector-to-smartphone-feature.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Image Credit: Nor Gal/[Shutterstock](https://www.shutterstock.com/image-photo/man-replacing-broken-tempered-glass-screen-1106925758)
 
@@ -104,8 +101,9 @@ Here's a brief rundown of how to do it:
  Give the proximity sensor a test to see if that helped. But if you're still out of luck, you have a last-resort option.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 5\. Take Your Phone Back to Apple or an Authorized Service Provider
 
  Sometimes, the issue could be bigger than software bugs or something blocking the sensor. It's officially beyond your pay grade, and it's time to take your phone to someone who could open it up if need be.
@@ -113,6 +111,10 @@ Here's a brief rundown of how to do it:
  The most likely culprit in scenarios like this, short of a damaged proximity sensor, is a cracked screen. A cracked screen could interfere with infrared waves emitting or reflecting back to the device. While you could try to replace your screen yourself, we strongly suggest you leave it to an expert. Besides, tampering with your iPhone yourself could void your warranty.
 
  Take your iPhone to a nearby Apple Store or an Apple-authorized service provider; they should be able to help you. If your iPhone is still under warranty, Apple will fix your device at no additional cost if there are no signs of accidental damage. Scenarios like this make having an [extended AppleCare+ warranty](http://www.makeuseof.com/tag/applecare-what-are-your-options-is-it-really-worth-it/) very attractive because accidental damage is covered under this plan.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The Proximity Sensor Is an Important Part of Your iPhone
 
@@ -126,8 +128,6 @@ Here's a brief rundown of how to do it:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -135,4 +135,24 @@ Here's a brief rundown of how to do it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/ind-your-digital-companion-the-top-6-youtube-personality-puzzles-for-2024/"><u>[New] Find Your Digital Companion The Top 6 YouTube Personality Puzzles for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-in-depth-theta-s-evaluation-overview/"><u>[Updated] In-Depth Theta S Evaluation Overview</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-maximizing-inner-illumination-with-natures-glow/"><u>2024 Approved Maximizing Inner Illumination with Nature's Glow</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/activate-your-free-macx-mediatrans-license-register-now-with-easy-to-find-serial-key/"><u>Activate Your Free MacX MediaTrans License: Register Now with Easy-to-Find Serial Key</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/arsenal-of-skills-the-finest-7-fps-selections-for-2024/"><u>Arsenal of Skills The Finest 7 FPS Selections for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/effortless-entry-into-recovery-a-beginners-manual-for-ipad-troubleshooting/"><u>Effortless Entry Into Recovery: A Beginner's Manual for iPad Troubleshooting</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-your-airplay-problems-a-step-by-step-guide/"><u>Fixing Your AirPlay Problems: A Step-by-Step Guide</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-infinix-smart-8-plus-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Infinix Smart 8 Plus Phone that is Locked?</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-top-editing-suites-recommendations-for-windows-videographers/"><u>In 2024, Top Editing Suites Recommendations for Windows Videographers</u></a></li>
+<li><a href="https://fox-that.techidaily.com/perfecting-image-clarity-a-guide-to-correcting-blur-with-iphone-tricks/"><u>Perfecting Image Clarity: A Guide to Correcting Blur with iPhone Tricks</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/pioneers-in-digital-avengers-landscapes-for-2024/"><u>Pioneers in Digital Avengers Landscapes for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/revive-your-ios-update-top-6-solutions-when-you-cant-continue-downloading/"><u>Revive Your iOS Update: Top 6 Solutions When You Can't Continue Downloading</u></a></li>
+<li><a href="https://fox-that.techidaily.com/signs-of-being-blocked-on-imessage-how-to-tell-if-someone-has-restricted-your-messages/"><u>Signs of Being Blocked on iMessage: How to Tell If Someone Has Restricted Your Messages</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-the-issue-of-unexpected-sites-displayed-in-screen-time-on-iphone/"><u>Solving the Issue of Unexpected Sites Displayed in Screen Time on iPhone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-the-issue-numeric-caller-id-replacing-contact-names-on-your-device/"><u>Solving the Issue: Numeric Caller ID Replacing Contact Names on Your Device</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/mline-your-impact-the-most-effective-video-formats-for-youtube-for-2024/"><u>Streamline Your Impact The Most Effective Video Formats for YouTube for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/understanding-the-limitations-5-reasons-for-no-gift-sending-on-apple-products/"><u>Understanding the Limitations: 5 Reasons for No Gift-Sending on Apple Products</u></a></li>
+</ul></div>
 

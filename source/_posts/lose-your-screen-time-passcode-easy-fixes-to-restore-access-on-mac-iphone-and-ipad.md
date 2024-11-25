@@ -1,7 +1,7 @@
 ---
 title: Lose Your Screen Time Passcode? Easy Fixes to Restore Access on Mac, iPhone, and iPad
-date: 2024-11-13T18:14:44.573Z
-updated: 2024-11-15T19:34:32.003Z
+date: 2024-11-20T04:25:48.980Z
+updated: 2024-11-25T04:16:07.427Z
 tags:
   - iphone
   - apple
@@ -49,22 +49,16 @@ thumbnail: https://thmb.techidaily.com/55eea1dea20c971ad29aa0a8be4aa55c4b1ce4519
 ![changing or turning off Screen Time Passcode in the settings app on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/changing-or-turning-off-screen-time-passcode-in-the-settings-app-on-an-iphone.PNG)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![entering old screen time passcode on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/entering-old-screen-time-passcode-on-an-iphone.PNG)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![iPhone screen displaying Screen Time Passcode Recovery page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/iphone-screen-displaying-screen-time-passcode-recovery-page.PNG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -83,13 +77,14 @@ Close
 ![Mac Screen Time passcode recovery screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/mac-screen-time-passcoderecovery-screen.png)
 7. Finally, enter a new Screen Time passcode and then enter it again to verify.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once again, you're out of luck if you don't have**Share Across Devices** enabled and skipped the Screen Time passcode recovery step during setup.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Reset the Screen Time Passcode for Your Child's Device
@@ -111,25 +106,19 @@ Close
 
 ![Family section in the Settings app on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/family-section-in-the-settings-app-on-an-iphone.PNG)
 
-![A child's account settings on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/a-child-s-account-settings-on-an-iphone.PNG)
-
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
-  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![A child's account settings on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/a-child-s-account-settings-on-an-iphone.PNG)
 
 ![A child's screen time settings on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/a-child-s-screen-time-settings-on-an-iphone.PNG)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![changing or turning off a child's Screen Time Passcode in the settings app on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/changing-or-turning-off-a-child-s-screen-time-passcode-in-the-settings-app-on-an-iphone.PNG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -144,13 +133,6 @@ Close
 5. Enter your Mac's**admin** password and hit the**Return** key or click**Unlock** .  
 ![Entering mac's admin password to reset child's screen time passcode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/entering-mac-s-admin-password-to-reset-child-s-screen-time-passcode.PNG)
 6. Now, type in a new Screen Time passcode and enter it again to confirm.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  It's that easy! However, if you also forgot your Apple account login details, you'll have to go through the complicated process of [resetting your Apple ID password](https://www.makeuseof.com/tag/forgot-apple-id-icloud-password/) first.
 
@@ -171,24 +153,18 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-beginners-guide-to-choosing-lenses-and-cameras-for-youtube-vloggers-for-2024/"><u>[New] Beginner's Guide to Choosing Lenses and Cameras for YouTube Vloggers for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-pixelpilot-review-the-years-leading-screen-capture-tech-for-2024/"><u>[New] PixelPilot Review The Year's Leading Screen Capture Tech for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-top-choices-free-and-paid-screen-recorder-tools-for-google-meet/"><u>[New] Top Choices Free & Paid Screen Recorder Tools for Google Meet</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-the-wayfinders-guide-your-path-to-youtube-video-mastery-hub/"><u>[Updated] The Wayfinder’s Guide Your Path to YouTube Video Mastery Hub</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unlock-the-potential-of-hd-videos-on-android-devices/"><u>2024 Approved Unlock the Potential of HD Videos on Android Devices</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-unlock-the-secrets-of-auditory-success-on-youtube-videos/"><u>2024 Approved Unlock the Secrets of Auditory Success on YouTube Videos</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-fix-your-iphone-when-it-refuses-to-change-orientation-landscape-tips-included/"><u>How to Fix Your iPhone When It Refuses to Change Orientation - Landscape Tips Included</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-infinix-smart-8-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Infinix Smart 8 | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-nokia-c22-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Nokia C22 Phone Pattern Lock without Factory Reset</u></a></li>
-<li><a href="https://fox-that.techidaily.com/iphone-texting-problems-here-are-7-fixes-you-need/"><u>IPhone Texting Problems? Here Are 7 Fixes You Need</u></a></li>
-<li><a href="https://fox-that.techidaily.com/navigating-troublesome-iphone-x-challenges-solutions-to-the-7-most-common-quandaries/"><u>Navigating Troublesome iPhone X Challenges: Solutions to the 7 Most Common Quandaries</u></a></li>
-<li><a href="https://fox-that.techidaily.com/overcome-iphone-icloud-syncing-error-9-proven-strategies-for-a-successful-backup/"><u>Overcome iPhone iCloud Syncing Error: 9 Proven Strategies for a Successful Backup</u></a></li>
-<li><a href="https://fox-that.techidaily.com/overcoming-iphone-groaning-from-the-burden-of-its-own-ambition-like-an-old-man-struggling-uphill-but-hey-its-not-all-doom-and-gloom-the-iphone-12-comes-equi13/"><u>Overcoming iPhone Groaning From the Burden of Its Own Ambition, Like an Old Man Struggling Uphill. But Hey, It's Not All Doom and Gloom! The iPhone 12 Comes Equipped with a Suite of Features that Make It One Helluva Device for Photography Enthusiasts.</u></a></li>
-<li><a href="https://games-able.techidaily.com/playing-fortnite-on-iphone-is-possible-again-discover-the-easy-way-with-zdnets-tips/"><u>Playing Fortnite on iPhone Is Possible Again - Discover the Easy Way with ZDNet's Tips!</u></a></li>
-<li><a href="https://fox-that.techidaily.com/prevalent-iphone-visual-glitches-fixes-you-cant-miss/"><u>Prevalent iPhone Visual Glitches: Fixes You Can't Miss</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solutions-for-finding-hidden-event-entries-in-ios-calendar/"><u>Solutions for Finding Hidden Event Entries in iOS Calendar</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solving-the-issue-why-youre-seeing-phone-numbers-rather-than-contact-names/"><u>Solving the Issue: Why You're Seeing Phone Numbers Rather Than Contact Names</u></a></li>
-<li><a href="https://fox-that.techidaily.com/speed-up-your-iphone-internet-discover-these-8-wi-fi-enhancing-hacks/"><u>Speed Up Your iPhone Internet: Discover These 8 Wi-Fi Enhancing Hacks</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ing-visuals-for-success-a-deep-dive-into-youtube-live-imagery/"><u>Striking Visuals for Success A Deep Dive Into YouTube Live Imagery</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-pro-level-gif-generation-a-critical-review/"><u>[Updated] 2024 Approved Pro-Level GIF Generation A Critical Review</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-utilizing-b-footage-an-essential-filmmaking-skill/"><u>[Updated] Utilizing B-Footage An Essential Filmmaking Skill</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-in-depth-review-cloud-pricing-trends/"><u>2024 Approved In-Depth Review Cloud Pricing Trends</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/advanced-shooting-modes-unveiling-the-secrets-of-smart-hdr-3-and-4/"><u>Advanced Shooting Modes Unveiling the Secrets of Smart HDR 3 & 4</u></a></li>
+<li><a href="https://fox-that.techidaily.com/breaking-down-barriers-to-making-calls-on-your-iphone-a-guide-with-10-fixes/"><u>Breaking Down Barriers to Making Calls on Your iPhone: A Guide with 10 Fixes</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/exploring-the-ultra-hd-and-hdr-capabilities-of-the-impressive-samsung-tv-model-qn55q6f/"><u>Exploring the Ultra HD and HDR Capabilities of the Impressive Samsung TV Model QN55Q6F</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/exquisite-background-melodies-for-edits/"><u>Exquisite Background Melodies for Edits</u></a></li>
+<li><a href="https://fox-that.techidaily.com/identifying-a-message-rejection-is-your-imessage-being-ignored/"><u>Identifying a Message Rejection: Is Your iMessage Being Ignored?</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-essential-gif-tools-for-x876-owners/"><u>In 2024, Essential GIF Tools for X/8/7/6 Owners</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-flexistabilizer-the-ultimate-videographers-tool/"><u>In 2024, FlexiStabilizer The Ultimate Videographer's Tool</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-issues-with-third-party-iphone-extras-not-supported-by-apple/"><u>Overcoming Issues with Third-Party iPhone Extras Not Supported by Apple</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/quick-guide-to-rearranging-your-youtube-collection-for-2024/"><u>Quick Guide to Rearranging Your YouTube Collection for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/recover-your-stolen-or-misplaced-iphone-mastering-apples-find-my-feature/"><u>Recover Your Stolen or Misplaced iPhone: Mastering Apple's 'Find My' Feature</u></a></li>
 </ul></div>
 

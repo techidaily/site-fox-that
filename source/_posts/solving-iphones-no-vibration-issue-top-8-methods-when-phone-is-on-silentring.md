@@ -1,7 +1,7 @@
 ---
 title: "Solving iPhone's No-Vibration Issue: Top 8 Methods When Phone Is on Silent/Ring"
-date: 2024-09-28T16:24:53.080Z
-updated: 2024-10-01T17:13:14.920Z
+date: 2024-11-23T02:35:15.276Z
+updated: 2024-11-25T05:29:09.134Z
 tags:
   - iphone
   - apple
@@ -33,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/f567dab373423469fdd9df8f70e7990588879bfed
 
 ![iphone silent switch and volume buttons](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/iphone-silent-switch.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Turn On System Haptics
 
  Haptic feedback is an iPhone feature that provides a physical response, usually in the form of a subtle pulse or vibration, as you interact with your device. If you don't enable System Haptics, this will cause your iPhone to not vibrate at all.
@@ -42,13 +46,6 @@ thumbnail: https://thmb.techidaily.com/f567dab373423469fdd9df8f70e7990588879bfed
 ![iphone settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/img_6668.JPEG)
 
 ![iphone sounds and haptics settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/img_6667.JPEG)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Close
 
@@ -60,25 +57,19 @@ Close
 
 ![iPhone Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/settings-general.JPEG)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![iphone accessibility settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/accessibility-settings.JPEG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![touch settings in iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/touch-settings.JPEG)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Close
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Check Your Vibration Setting for Ring and Silent Mode
 
@@ -102,13 +93,14 @@ Close
 
 ![iphone ringtone settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/ringtone-settings.JPEG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![iphone ringtone vibration settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/vibration-settings.JPEG)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Close
@@ -126,10 +118,7 @@ Close
  Software glitches can sometimes prevent your iPhone from vibrating, whether it's on Ring or Silent mode. In such cases, simply restarting your iPhone will resolve the problem, making this troubleshooting step worth trying. Note that different steps may be required to [restart your iPhone](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) , depending on the model you own.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Reset All Settings
@@ -145,16 +134,7 @@ Close
 ![iPhone Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/settings-general.JPEG)
 
 <!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![general settings in iphone settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/general-3.JPEG)
@@ -162,6 +142,10 @@ Close
 ![options to reset iphone settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/reset-iphone-options.JPEG)
 
 Close
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Can You Enable Vibration for Calls and Texts Only on Your iPhone?
 
@@ -178,20 +162,10 @@ Close
 ![turn on play haptics in silent mode and system haptics](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/IMG_4013.JPEG)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![touch settings in iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/touch-settings.JPEG)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Close
 
@@ -220,24 +194,16 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-free-gamers-guide-to-selecting-best-screen-recorder-apps/"><u>[New] 2024 Approved Free Gamers' Guide to Selecting Best Screen Recorder Apps</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-multi-screen-mastery-review-splits-best-cam/"><u>[New] 2024 Approved Multi-Screen Mastery Review Splits Best Cam</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-direct-stream-from-youtube-to-facebook-without-pauses-or-holds/"><u>[New] In 2024, Direct Stream From YouTube to Facebook without Pauses or Holds</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/n-2024-the-ultimate-camera-selection-for-youtube-filmmakers/"><u>[New] In 2024, The Ultimate Camera Selection for YouTube Filmmakers</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-in-pursuit-of-excellence-tips-for-shooting-with-hero5-black/"><u>[Updated] 2024 Approved In Pursuit of Excellence Tips for Shooting with Hero5 Black</u></a></li>
-<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-honor-x9b-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Honor X9b | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/essential-80s-flicks-a-selection-of-timeless-movies-to-watch-today/"><u>Essential 80S Flicks: A Selection of Timeless Movies to Watch Today</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-enter-and-utilize-dfu-mode-on-your-iphone/"><u>How to Enter and Utilize DFU Mode on Your iPhone?</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-fix-an-iphone-that-isnt-picking-up-calls/"><u>How to Fix an iPhone That Isn't Picking Up Calls</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-locate-an-iphone-displayed-as-offline-with-find-my-app-a-step-by-step-guide/"><u>How to Locate an iPhone Displayed as Offline with Find My App – A Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-solve-iphone-guided-access-malfunction-issues-quickly/"><u>How To Solve iPhone Guided Access Malfunction Issues Quickly</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721460371982-how-to-speed-up-your-iphones-sleep-cycle-and-fix-display-hangs/"><u>How to Speed Up Your iPhones Sleep Cycle and Fix Display Hangs!</u></a></li>
-<li><a href="https://fox-that.techidaily.com/iphone-notification-troubles-discover-7-effective-solutions/"><u>IPhone Notification Troubles? Discover 7 Effective Solutions!</u></a></li>
-<li><a href="https://fox-that.techidaily.com/mastering-the-art-of-fixing-iphone-camera-roll-problems-with-easy-tips/"><u>Mastering the Art of Fixing iPhone Camera Roll Problems with Easy Tips</u></a></li>
-<li><a href="https://driver-download.techidaily.com/official-windows-support-installing-geforce-gtx-770-drivers/"><u>Official Windows Support: Installing GeForce GTX 770 Drivers</u></a></li>
-<li><a href="https://blog-min.techidaily.com/quick-and-free-avchd-mp4-conversion-use-the-movavi-video-tool/"><u>Quick and Free AVCHD-MP4 Conversion - Use the Movavi Video Tool!</u></a></li>
-<li><a href="https://fox-that.techidaily.com/steps-to-conduct-an-iphone-hardware-test-via-apples-online-remote-service/"><u>Steps to Conduct an iPhone Hardware Test via Apple's Online Remote Service</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-10-xiaomi-13t-pro-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Xiaomi 13T Pro Android SIM Unlock APK</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-steps-to-get-your-iphoneipad-back-in-action/"><u>Troubleshooting Steps to Get Your iPhone/iPad Back in Action</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-frontiers-unleashed-a-review-of-the-best-7-grand-strategy-games/"><u>2024 Approved Frontiers Unleashed A Review of the Best 7 Grand Strategy Games</u></a></li>
+<li><a href="https://facebook.techidaily.com/esoteric-exchanges-facebook-friends-anonymity/"><u>Esoteric Exchanges: Facebook Friends Anonymity</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-the-issue-resolving-persona-5-strikers-persistent-black-screen-dilemma/"><u>Fixing the Issue: Resolving 'Persona 5 Strikers' Persistent Black Screen Dilemma</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-your-samsung-galaxy-a24s-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Samsung Galaxy A24s Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://review-topics.techidaily.com/nokia-data-retrieval-tool-restore-lost-data-from-nokia-130-music-by-fonelab-android-recover-data/"><u>Nokia Data Retrieval tool – restore lost data from Nokia 130 Music</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-iphone-12-hurdles-a-guide-to-identifying-and-resolving-key-issues/"><u>Overcoming iPhone 12 Hurdles: A Guide to Identifying and Resolving Key Issues</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-the-issue-when-one-of-your-airpods-fails-to-work/"><u>Solving the Issue When One of Your AirPods Fails to Work</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/sony-xperia-10-v-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Sony Xperia 10 V Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-tips-restoring-standby-functionality-on-iphones/"><u>Troubleshooting Tips - Restoring Standby Functionality on iPhones</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-tips-resolving-your-iphones-black-screen-issue/"><u>Troubleshooting Tips: Resolving Your iPhone's Black Screen Issue</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unstick-stubborn-phones-restoring-incoming-calls-on-an-iphone/"><u>Unstick Stubborn Phones: Restoring Incoming Calls on an iPhone</u></a></li>
 </ul></div>
 

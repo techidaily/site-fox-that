@@ -1,7 +1,7 @@
 ---
 title: Fix It Yourself! How to Boot Up an iPhone When Physical Keys Don't Work
-date: 2024-11-12T17:24:56.286Z
-updated: 2024-11-15T17:41:49.667Z
+date: 2024-11-23T03:56:42.892Z
+updated: 2024-11-24T17:31:24.285Z
 tags:
   - iphone
   - apple
@@ -36,15 +36,16 @@ thumbnail: https://thmb.techidaily.com/f74f161f0523579dd71e4de3d10404ac967ce66d0
 
  You have successfully restarted your iPhone with Face ID. Enter the device passcode to unlock it and get to the Home Screen.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Restart an iPhone With a Home Button
 
 ![How to Restart iPhone With Home Button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/how-to-restart-iphone-with-home-button.png)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Follow these steps to restart iPhone 6, 6S, 7, 8, and SE (2nd generation):
@@ -56,16 +57,13 @@ thumbnail: https://thmb.techidaily.com/f74f161f0523579dd71e4de3d10404ac967ce66d0
 
 You have successfully restarted your iPhone with a Home button.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Restart an iPhone With a Top Power Button
 
 ![How to Restart iPhone With Top Power Button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/how-to-restart-iphone-with-top-power-button.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you're using iPhone SE (1st generation), 5S, 5C, 5, 4S, 4, or earlier models, the steps are the same as above (for devices with the Home button). Just make sure to press the**Power button** on the top of the device instead.
 
@@ -87,10 +85,7 @@ You have successfully restarted your iPhone with a Home button.
 ![iPhone Settings app showing General option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/iphone-settings-app-showing-general-option.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![iPhone Settings app showing Shut Down](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/iphone-settings-app-showing-shut-down.png)
@@ -111,10 +106,7 @@ Close
 ![using siri to restart iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/muo-in-article-image-1200px-by-600px-21-ratio-23.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Often Should You Restart Your iPhone?
@@ -122,13 +114,6 @@ Close
  The opinion on this varies from person to person. Some people don't restart their devices for weeks, while others frequently restart them. Most users perform a restart when their [iPhone feels slow](https://www.makeuseof.com/how-to-fix-slow-iphone/) , their [iPhone apps keep crashing](https://www.makeuseof.com/tag/iphone-ios-apps-keep-crashing-try-fixes/) , and the overall performance feels sluggish.
 
  For the best iPhone experience, you should restart your iPhone at least once every week. If you do it every three days, that's even better. This gives the device a chance to shut down and cool off. Plus, temporary files are cleared, minor issues are fixed automatically, and you'll probably face fewer situations where you need to [force stop apps on your iPhone](https://www.makeuseof.com/should-you-force-stop-apps-on-your-phone/) .
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Force Restart When a Normal Restart Doesn't Work
 
@@ -151,22 +136,19 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-the-ultimate-guide-to-the-highest-rated-conference-recorders/"><u>[New] The Ultimate Guide to the Highest Rated Conference Recorders</u></a></li>
-<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-honor-magic5-ultimate-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Honor Magic5 Ultimate | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-golden-five-best-dvd-makers-for-macos-sierra/"><u>2024 Approved Golden Five Best DVD Makers for macOS Sierra</u></a></li>
-<li><a href="https://fox-that.techidaily.com/depth-effect-malfunction-in-ios-16-fix-it-fast-with-these-7-essential-tips/"><u>Depth Effect Malfunction in iOS 16? Fix It Fast with These 7 Essential Tips</u></a></li>
-<li><a href="https://fox-that.techidaily.com/eliminate-phone-glitches-with-a-simple-reset-of-your-ios-network-settings/"><u>Eliminate Phone Glitches with a Simple Reset of Your iOS Network Settings</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/-clip-content-wizard-for-2024/"><u>Flash Clip Content Wizard for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-fix-screen-time-showing-random-websites-on-your-iphone/"><u>How to Fix Screen Time Showing Random Websites on Your iPhone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-salvage-wet-speakers-on-your-iphone-with-simple-remedies/"><u>How to Salvage Wet Speakers on Your iPhone with Simple Remedies</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-assessment-of-vlcs-digital-screen-monitoring/"><u>In 2024, Assessment of VLC’s Digital Screen Monitoring</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-honor-90-pro-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Honor 90 Pro? Fixed | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/iphone-imessage-troubleshooting-fixing-undelivered-message-issues/"><u>IPhone iMessage Troubleshooting: Fixing Undelivered Message Issues</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/nintendo-switch-role-playing-mastery-the-definitive-guide-to-the-elder-scrolls-skyrim-edition/"><u>Nintendo Switch Role-Playing Mastery: The Definitive Guide to The Elder Scrolls Skyrim Edition</u></a></li>
-<li><a href="https://fox-that.techidaily.com/revive-silent-alarms-uncover-these-essential-fixes-when-iphones-miss-notifications/"><u>Revive Silent Alarms: Uncover These Essential Fixes When iPhones Miss Notifications</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-iphone-why-is-the-visual-lookup-feature-failing/"><u>Troubleshooting iPhone: Why Is the Visual Lookup Feature Failing?</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/ultimate-list-of-free-mac-recording-software-ranking-the-top-15-picks/"><u>Ultimate List of FREE Mac Recording Software: Ranking the Top 15 Picks</u></a></li>
-<li><a href="https://fox-that.techidaily.com/unlocking-the-mystery-where-do-your-photos-end-up-after-a-facetime-call/"><u>Unlocking the Mystery: Where Do Your Photos End Up After a FaceTime Call?</u></a></li>
-<li><a href="https://win-net.techidaily.com/unveiling-microsofts-windows-11-se-the-latest-educational-computing-solutions-by-pc-manufacturers/"><u>Unveiling Microsoft's Windows 11 SE: The Latest Educational Computing Solutions by PC Manufacturers</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-hassle-free-techniques-record-your-dell-screen-easily/"><u>[Updated] 2024 Approved Hassle-Free Techniques Record Your Dell Screen Easily</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-vanguard-designs-evaluation-studio-25-examined-current-year/"><u>[Updated] Vanguard Designs Evaluation Studio 25 Examined, Current Year</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-generate-a-face-online-best-tools-and-resources/"><u>2024 Approved Generate a Face Online Best Tools and Resources</u></a></li>
+<li><a href="https://fox-that.techidaily.com/7-quick-fixes-for-predictive-emoji-not-working-on-an-iphone-or-ipad/"><u>7 Quick Fixes for Predictive Emoji Not Working on an iPhone or iPad</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/a-how-to-guide-on-bypassing-the-iphone-15-pro-icloud-lock-by-drfone-ios/"><u>A How-To Guide on Bypassing the iPhone 15 Pro iCloud Lock</u></a></li>
+<li><a href="https://fox-that.techidaily.com/consolidating-repeated-individuals-photographs-across-different-albums-a-guide-for-ios-and-macos-users/"><u>Consolidating Repeated Individuals' Photographs Across Different Albums: A Guide for iOS & macOS Users</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-safaricide-10-steps-to-restore-your-iphones-browser/"><u>Fixing Safaricide: 10 Steps to Restore Your iPhone's Browser</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-disable-the-liquid-sensor-alarm-in-iphones-with-usb-c-chargers/"><u>How to Disable the Liquid Sensor Alarm in iPhones with USB-C Chargers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/improving-handheld-devices-microsofts-advanced-features-in-new-windows-update/"><u>Improving Handheld Devices: Microsoft's Advanced Features in New Windows Update</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-icloud-activation-lock-with-imei-code-on-your-iphone-6s-by-drfone-ios/"><u>In 2024, Bypass iCloud Activation Lock with IMEI Code On your iPhone 6s</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-from-shoot-to-screen-mastering-360-degree-video-edits-using-premiere-pro/"><u>In 2024, From Shoot to Screen Mastering 360-Degree Video Edits Using Premiere Pro</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/screen-recording-on-macos-ahead-with-bandicam-or-camtasia/"><u>Screen Recording on MacOS Ahead with Bandicam or Camtasia?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/single-airpod-problem-discover-the-best-methods-for-repair/"><u>Single AirPod Problem? Discover the Best Methods for Repair</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-tips-to-compensate-for-a-lower-megapixel-iphone-camera/"><u>Top Tips to Compensate for a Lower Megapixel iPhone Camera</u></a></li>
 </ul></div>
 

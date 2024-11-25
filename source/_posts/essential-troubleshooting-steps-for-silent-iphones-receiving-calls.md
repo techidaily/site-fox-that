@@ -1,7 +1,7 @@
 ---
 title: Essential Troubleshooting Steps for Silent iPhones Receiving Calls
-date: 2024-11-14T19:23:05.528Z
-updated: 2024-11-15T16:30:22.757Z
+date: 2024-11-22T00:35:15.704Z
+updated: 2024-11-25T04:09:51.180Z
 tags:
   - iphone
   - apple
@@ -32,10 +32,7 @@ thumbnail: https://thmb.techidaily.com/c72cccdf9cacc0fda207b45b24ab86cf2fde475b8
  Once you're confident that the speaker is working, the likely reasons your iPhone doesn't ring are bad settings or temporary software glitches.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Turn Off Silent Mode
@@ -47,10 +44,7 @@ thumbnail: https://thmb.techidaily.com/c72cccdf9cacc0fda207b45b24ab86cf2fde475b8
  When in Ring mode, the slider will be closer to your iPhone's screen. In Silent mode, it displays an orange strip.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Disconnect Bluetooth Audio Devices
@@ -78,7 +72,15 @@ Close
 
 ![Tap Sound & Haptics in iPhone Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/tap-sound--haptics-in-iphone-settings.JPEG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![ringtone volume iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/img_5647.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -98,6 +100,10 @@ Follow these steps to change your iPhone's ringtone:
 
 ![Choose a ringtone in iPhone Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/choose-a-ringtone-in-iphone-settings.JPEG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Close
 
 ## 6\. Check for Custom Contact Ringtones
@@ -110,24 +116,18 @@ Close
 
 ![Tap a contact in iPhone Phone or Contacts app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/tap-a-contact-in-iphone-phone-or-contacts-app.JPEG)
 
-![Tap Ringtone inside a Contact Card](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/tap-ringtone-inside-a-contact-card.JPEG)
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Tap Ringtone inside a Contact Card](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/tap-ringtone-inside-a-contact-card.JPEG)
 
 ![Choose a Loud Ringtone for the Contact](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/choose-a-loud-ringtone-for-the-contact.JPEG)
 
 Close
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Restart Your iPhone
@@ -169,10 +169,7 @@ Close
 ![Tap Calls on Other Devices in iPhone Phone Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/tap-calls-on-other-devices-in-iphone-phone-settings.JPEG)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Calls on Other Devices Screen in iPhone Phone Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/calls-on-other-devices-screen-in-iphone-phone-settings.JPEG)
@@ -189,21 +186,7 @@ Close
 
 ![iphone settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/img_6668.JPEG)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![iphone general settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/img_6731.JPEG)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Close
 
@@ -211,16 +194,17 @@ Close
 
 ![iphone general settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_7383.JPEG)
 
-![transfer or reset iphone settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_7384.JPEG)
-
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
+![transfer or reset iphone settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_7384.JPEG)
+
 ![transfer or reset iphone settings confirmation window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_7385.JPEG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -247,19 +231,22 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-discover-the-top-5-pc-clipping-utilities-for-quick-samples/"><u>[New] In 2024, Discover the Top 5 PC Clipping Utilities for Quick Samples</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/uick-thumbnail-tips-for-youtube-success-for-2024/"><u>[New] Quick Thumbnail Tips for YouTube Success for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-transforming-slow-motion-into-fast-action/"><u>[New] Transforming Slow Motion Into Fast Action</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-instagram-videography-size-guide-ready/"><u>[Updated] In 2024, Instagram Videography Size Guide - Ready</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-perfect-your-technique-recording-the-modern-presentation/"><u>[Updated] In 2024, Perfect Your Technique Recording the Modern Presentation</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-substitutes-to-moviemaker-in-the-windows-realm/"><u>2024 Approved Substitutes to MovieMaker in the Windows Realm</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/detailed-guide-to-overcoming-steam-auth-problems-with-rust-on-windows/"><u>Detailed Guide to Overcoming Steam Auth Problems with Rust on Windows</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/efficient-cost-strategies-for-cloud-space-usage/"><u>Efficient Cost Strategies for Cloud Space Usage</u></a></li>
-<li><a href="https://fox-that.techidaily.com/elevating-your-smartphone-photography-despite-having-a-lower-megapixel-iphone-camera/"><u>Elevating Your Smartphone Photography Despite Having a Lower Megapixel iPhone Camera</u></a></li>
-<li><a href="https://fox-that.techidaily.com/find-my-app-mastery-how-to-track-down-your-vanished-iphone/"><u>Find My App Mastery: How to Track Down Your Vanished iPhone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fixing-auto-brightness-glitches-on-iphones-made-easy-with-our-top-7-fixes/"><u>Fixing Auto-Brightness Glitches on iPhones Made Easy with Our Top 7 Fixes</u></a></li>
-<li><a href="https://fox-that.techidaily.com/is-your-find-my-iphone-not-working-discover-why-and-fix-it-here/"><u>Is Your Find My iPhone Not Working? Discover Why and Fix It Here!</u></a></li>
-<li><a href="https://fox-that.techidaily.com/secrets-to-retrieving-deleted-iphone-photos-that-appear-lost-learn-these-8-tricks/"><u>Secrets to Retrieving Deleted iPhone Photos That Appear Lost - Learn These 8 Tricks</u></a></li>
-<li><a href="https://win-answers.techidaily.com/stop-rogue-company-from-freezing-troubleshooting-steps-for-stable-gameplay/"><u>Stop Rogue Company From Freezing: Troubleshooting Steps for Stable Gameplay</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-5-superior-recording-gear-options-for-ipad-and-mac-owners/"><u>[New] In 2024, 5 Superior Recording Gear Options for iPad & Mac Owners</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-unleash-your-inner-star-bold-steps-for-youtube-success/"><u>[New] In 2024, Unleash Your Inner Star Bold Steps for YouTube Success</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-behind-the-scenes-how-much-creators-earn-from-youtube-shorts/"><u>[Updated] In 2024, Behind the Scenes How Much Creators Earn From YouTube Shorts</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-open-minds-open-tech-easeus-report/"><u>[Updated] Open Minds, Open Tech - EaseUS Report</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-a-visual-hook-creating-captivating-youtube-thumbnails-to-drive-traffic/"><u>2024 Approved A Visual Hook Creating Captivating YouTube Thumbnails to Drive Traffic</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-which-screen-recorder-reigns-supreme-obs-or-fraps/"><u>2024 Approved Which Screen Recorder Reigns Supreme OBS or Fraps?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/9-proven-strategies-for-restoring-iphone-voicemail-functionality/"><u>9 Proven Strategies for Restoring iPhone Voicemail Functionality</u></a></li>
+<li><a href="https://fox-that.techidaily.com/effective-techniques-to-remove-liquid-damage-in-iphones-sound-ports/"><u>Effective Techniques to Remove Liquid Damage in iPhones' Sound Ports</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-prevent-iphones-from-storing-photos-even-when-you-delete-them-a-guide-with-8-fixes/"><u>How to Prevent iPhones From Storing Photos Even When You Delete Them: A Guide with 8 Fixes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-restore-iphone-voicemail-functionality-with-these-9-steps/"><u>How to Restore iPhone Voicemail Functionality with These 9 Steps</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-samsung-galaxy-s23-fe-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Samsung Galaxy S23 FE FRP Locks</u></a></li>
+<li><a href="https://fox-that.techidaily.com/navigate-iphone-problems-effortlessly-discover-15-essential-troubleshooting-strategies-perfect-for-any-model/"><u>Navigate iPhone Problems Effortlessly: Discover 15 Essential Troubleshooting Strategies Perfect for Any Model</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/perfect-typing-programs-for-all-ages-top-12-free-resources-unveiled/"><u>Perfect Typing Programs for All Ages - Top 12 Free Resources Unveiled</u></a></li>
+<li><a href="https://fox-that.techidaily.com/simple-solutions-to-get-your-imessage-up-and-running-again/"><u>Simple Solutions to Get Your iMessage Up and Running Again</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-8-strategies-to-get-your-iphones-control-center-working-again/"><u>Top 8 Strategies To Get Your iPhone's Control Center Working Again</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unraveling-the-mystery-why-cant-you-send-presents-through-an-iphone-or-ipad/"><u>Unraveling the Mystery: Why Can't You Send Presents Through an iPhone or iPad?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/yakuza-series-solve-pc-performance-issues-with-our-expert-fixes-for-6-the-life-song/"><u>Yakuza Series: Solve PC Performance Issues with Our Expert Fixes for '6 - The Life Song'</u></a></li>
 </ul></div>
 

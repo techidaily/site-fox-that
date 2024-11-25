@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Communication on iPhone During Do Not Disturb: Top 8 Fixes Explored"
-date: 2024-08-27T14:40:18.870Z
-updated: 2024-08-28T14:40:18.870Z
+date: 2024-11-20T03:24:50.634Z
+updated: 2024-11-24T17:35:05.220Z
 tags:
   - iphone
   - apple
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/04b5de1b8632b8069ff9f587e17e0dbf1c9f260b0
 
  However, if you're still getting texts and calls on Do Not Disturb, it pretty much defeats the purpose of the feature. So, let's look at the steps you can take when Do Not Disturb is not working on your iPhone.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Check Whether You Enabled the Correct Focus Mode
 
 ![do not disturb and personal mode in iphone control center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/1-2.jpg)
@@ -27,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/04b5de1b8632b8069ff9f587e17e0dbf1c9f260b0
  If you accidentally enabled**Work** mode instead of**Do Not Disturb** or**Personal** mode on your iPhone, you will certainly receive texts and calls from work colleagues because the latter wasn't made to deter people from your workplace.
 
  Therefore, before proceeding with the other suggestions in the list, access your iPhone's**Control Center** and check that you have the correct Focus mode turned on to match your activity.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Review Your Allowed Apps
 
@@ -54,6 +62,10 @@ Close
 
  Alternatively, you can tap**Turn Off** for a specific app if you see its notifications pop up on your Lock Screen.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Change Settings for Incoming Calls
 
  When you first enable Do Not Disturb mode on your iPhone,**Favorites** tends to be the default setting for the incoming calls allowed. If you previously added quite a few family members and friends to your Favorites list, this may be why your iPhone calls are coming through even after you enabled Do Not Disturb, as if it's not working.
@@ -63,18 +75,13 @@ Close
 ![do not disturb settings on iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/do-not-disturb-settings.JPEG)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![call settings for do not disturb mode on iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/dnd-favorite-calls.JPEG)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![change calls allowed on iphone do not disturb mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/dnd-allowed-calls.JPEG)
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Close
 
 ## 5\. Don't Allow Repeated Calls
@@ -86,8 +93,9 @@ Close
 ![turn off allow repeated calls for iphone do not disturb mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/2-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Turn Off or Hide Your Focus Status
 
  When you turn on Do Not Disturb, you can also share your Focus status to let your contacts know that you're temporarily unavailable.
@@ -96,10 +104,6 @@ Close
 
  To stop receiving texts and calls in this manner, you can [turn off your Focus status](https://www.makeuseof.com/how-to-stop-notify-anyway-focus-mode-iphone/) or [hide your Focus status from certain iPhone contacts](https://www.makeuseof.com/how-to-hide-focus-status-from-certain-contacts-iphone/) .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ## 7\. Review Your Do Not Disturb Schedule
 
  Let's say you used to work morning shifts every day and had set your Do Not Disturb schedule to match. If you suddenly switch to afternoon shifts, you may feel that Do Not Disturb is not working because you're receiving unwanted texts and calls on your iPhone during your new working hours.
@@ -110,25 +114,18 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
 ![schedule for iphone do not disturb mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/dnd-schedule.JPEG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![automate schedule for iphone do not disturb mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/dnd-schedule-2.JPEG)
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![set time for iphone do not disturb mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/dnd-change-schedule.JPEG)
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Close
 
 ## 8\. Restart Your iPhone and Update iOS
@@ -151,8 +148,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -160,4 +155,26 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-dynamic-dialogue-design-dossiers-for-2024/"><u>[New] Dynamic Dialogue Design Dossiers for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-excellent-5-video-monitors-for-ps5-players/"><u>[Updated] In 2024, Excellent 5 Video Monitors for PS5 Players</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-leveraging-azures-voice-recognition-for-advanced-solutions/"><u>[Updated] Leveraging Azure's Voice Recognition for Advanced Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/10-proven-methods-for-troubleshooting-iphone-data-connectivity-issues/"><u>10 Proven Methods for Troubleshooting iPhone Data Connectivity Issues</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-teach-you-to-transfer-files-from-vivo-v29-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways To Teach You To Transfer Files from Vivo V29 to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721471548822-airdrop-failures-master-the-art-of-quick-fixes-with-16-proven-solutions/"><u>AirDrop Failures? Master the Art of Quick Fixes with 16 Proven Solutions.</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721473416663-airplay-not-working-heres-how-you-can-get-it-running-smoothly-again/"><u>AirPlay Not Working? Here's How You Can Get It Running Smoothly Again</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ing-your-channels-free-tips-for-youtube-video-popularity-for-2024/"><u>Boosting Your Channels Free Tips for YouTube Video Popularity for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721446644807-bust-through-the-glitch-free-yourself-and-your-iphone-from-endless-audiojack-loop-try-these-8-tricks/"><u>Bust Through the Glitch: Free Yourself and Your iPhone From Endless Audiojack Loop – Try These 8 Tricks</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721456107325-cant-see-your-alerts-on-the-iphone-here-are-7-remedies-to-restore-them/"><u>Can't See Your Alerts on the iPhone? Here Are 7 Remedies to Restore Them.</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/fresh-wi-fi-drivers-compatible-with-windows-7-download-here/"><u>Fresh Wi-Fi Drivers: Compatible with Windows 7 – Download Here</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-nikon-j5-sets-new-standards-in-4k-video-capture/"><u>In 2024, Nikon J5 Sets New Standards in 4K Video Capture</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721470682453-iphone-unresponsive-to-touch-here-are-7-possible-reasons-explained/"><u>IPhone Unresponsive to Touch? Here Are 7 Possible Reasons Explained</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/making-sense-of-typical-podcaster-profits-for-2024/"><u>Making Sense of Typical Podcaster Profits for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721475757813-seven-remedies-for-iphone-users-facing-vpn-connections-issues/"><u>Seven Remedies for iPhone Users Facing VPN Connections Issues</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721469582408-struggling-with-delayed-iphone-screen-turn-off-weve-got-answers/"><u>Struggling with Delayed iPhone Screen Turn-Off? We've Got Answers</u></a></li>
+<li><a href="https://win-superb.techidaily.com/tolong-bantu-apakah-anda-bisa-membantu-memulihkan-email-lama-yahoo-langkah-langkah-detail/"><u>Tolong Bantu, Apakah Anda Bisa Membantu Memulihkan Email Lama Yahoo? Langkah-Langkah Detail!</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/ultimate-tutorial-how-to-download-and-setup-microsoft-store-applications-in-windows-10/"><u>Ultimate Tutorial: How to Download and Setup Microsoft Store Applications in Windows 10</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721471116099-unravel-the-secrets-to-steady-sounds-stop-head-movement-control-on-airpods-today/"><u>Unravel the Secrets to Steady Sounds - Stop Head Movement Control on AirPods Today</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: IPhone Contacts App Malfunctioning? Here Are 3 Reliable Solutions
-date: 2024-11-12T16:09:35.396Z
-updated: 2024-11-15T20:11:35.175Z
+date: 2024-11-21T01:47:26.216Z
+updated: 2024-11-24T17:47:19.240Z
 tags:
   - iphone
   - apple
@@ -34,20 +34,21 @@ thumbnail: https://thmb.techidaily.com/15a61f0827860e342a65d573fdf8ef935cbe188b5
 
 ![viewing my own contact photo & poster](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/viewing-my-own-contact-phot-poster.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![tweaking contact poster settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/tweaking-contact-poster-settings.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![pop-up menu that appears when you tap share automatically](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/pop-up-menu-that-appears-when-you-tap-share-automatically.jpeg)
 
 Close
 
  If someone you know has set up their Contact Poster and you can't see it, simply ask them to follow the steps above and ensure the feature is enabled!
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Delete and Recreate the Contact Poster
 
@@ -60,40 +61,25 @@ Close
 
 ![viewing my own contact photo & poster](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/viewing-my-own-contact-phot-poster-1.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![viewing my created contact posters](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/viewing-my-created-contact-posters-1.jpeg)
 
-<!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![swiping up on my created contact poster and trash icon appears](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/swiping-up-on-my-created-contact-poster-and-trash-icon-appears.jpeg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![deleting my contact poster](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/deleting-my-contact-poster.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Close
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Disable Name and Photo Sharing and Restart Your iPhone
 
@@ -120,18 +106,20 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-professional-video-editor-essentials-top-5-macos-sierra-software/"><u>[New] Professional Video Editor Essentials Top 5 macOS Sierra Software</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-fb-video-downloader-pro-mp4-archive-now-available/"><u>[Updated] FB Video Downloader Pro MP4 Archive Now Available</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/guide-transfert-de-windows-8-ou-81-a-un-second-disque-dur-etapes-faciles-a-suivre/"><u>Guide : Transfert De Windows 8 Ou 8.1 À Un Second Disque Dur - Étapes Faciles À Suivre</u></a></li>
-<li><a href="https://techidaily.com/hard-resetting-an-realme-narzo-n55-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Realme Narzo N55 Device Made Easy | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-interpret-an-imessage-sent-as-a-regular-sms-are-you-likely-blocked/"><u>How to Interpret an iMessage Sent as a Regular SMS – Are You Likely Blocked?</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-retrieve-and-locate-saved-images-from-your-imessage-or-facetime-conversations/"><u>How to Retrieve and Locate Saved Images From Your iMessage or FaceTime Conversations</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-comprehensible-guide-to-shifting-photosvideos-in-ios-world/"><u>In 2024, Comprehensible Guide to Shifting Photos/Videos in iOS World</u></a></li>
-<li><a href="https://fox-that.techidaily.com/iphone-dnd-and-stay-connected-master-these-8-methods-to-receive-textscalls/"><u>IPhone DND & Stay Connected: Master These 8 Methods to Receive Texts/Calls</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/linguistic-leapfrogging-easiest-world-tongues-ranked/"><u>Linguistic Leapfrogging: Easiest World Tongues Ranked</u></a></li>
-<li><a href="https://fox-that.techidaily.com/mastering-the-iphone-gallery-top-8-problem-solving-hacks/"><u>Mastering the iPhone Gallery: Top 8 Problem-Solving Hacks</u></a></li>
-<li><a href="https://fox-that.techidaily.com/revive-your-iphones-aol-mail-functionality-with-these-6-techniques/"><u>Revive Your iPhone's AOL Mail Functionality with These 6 Techniques</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solving-the-issue-why-are-phone-numbers-appearing-instead-of-names-on-my-device/"><u>Solving the Issue: Why Are Phone Numbers Appearing Instead of Names on My Device?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-ultimate-list-of-top-7-alternatives-to-sharex-for-cross-platform-compatibility/"><u>The Ultimate List of Top 7 Alternatives to ShareX for Cross-Platform Compatibility</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-transforming-tech-talks-the-ezvide-screen-recording-guide-for-2024/"><u>[New] Transforming Tech Talks The Ezvide Screen Recording Guide for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-insider-guide-to-efficient-windows-10-usage/"><u>[Updated] The Insider Guide to Efficient Windows 10 Usage</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-bridging-the-gap-between-audience-and-action/"><u>2024 Approved Bridging the Gap Between Audience and Action</u></a></li>
+<li><a href="https://fox-that.techidaily.com/bringing-volume-to-silent-messages-on-iphone-unveiling-20-secrets-to-restore-sounds/"><u>Bringing Volume to Silent Messages on iPhone: Unveiling 20 Secrets to Restore Sounds</u></a></li>
+<li><a href="https://fox-that.techidaily.com/bypassing-apples-payment-blockage-top-6-strategies-to-try-now/"><u>Bypassing Apple's Payment Blockage: Top 6 Strategies to Try Now</u></a></li>
+<li><a href="https://fox-that.techidaily.com/clear-your-phones-audio-ports-how-to-dry-out-stuck-wetness-in-headphones/"><u>Clear Your Phone's Audio Ports: How to Dry Out Stuck Wetness in Headphones</u></a></li>
+<li><a href="https://fox-that.techidaily.com/discover-the-5-reasons-behind-difficulties-in-apple-based-gift-transmissions/"><u>Discover the 5 Reasons Behind Difficulties in Apple-Based Gift Transmissions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-restore-wi-fi-access-on-your-apple-device-top-8-solutions-for-iphones-and-ipads/"><u>How to Restore Wi-Fi Access on Your Apple Device: Top 8 Solutions for iPhones & iPads</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-best-practices-for-snapchat-posts-the-essentials-list/"><u>In 2024, Best Practices for Snapchat Posts The Essentials List</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-tecno-phantom-v-flip-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Tecno Phantom V Flip Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Apple iPhone 14 | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/navigating-your-way-around-linux-files-with-the-powerful-cd-command-tutorial/"><u>Navigating Your Way Around Linux Files with the Powerful CD Command Tutorial</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-future-of-tech-with-siri-understanding-artificial-intelligence-integration-in-upcoming-iphone-mac-and-ipad-models-zdnet/"><u>The Future of Tech with Siri: Understanding Artificial Intelligence Integration in Upcoming iPhone, Mac, and iPad Models | ZDNET</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-a-non-responsive-ring-and-silent-mode-on-iphones-effective-solutions/"><u>Troubleshooting a Non-Responsive Ring and Silent Mode on iPhones: Effective Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unable-to-install-new-ios-on-iphoneipad-here-are-nine-quick-ways-to-resolve/"><u>Unable to Install New iOS on iPhone/iPad? Here Are Nine Quick Ways to Resolve</u></a></li>
 </ul></div>
 

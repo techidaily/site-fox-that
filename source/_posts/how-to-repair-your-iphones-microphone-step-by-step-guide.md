@@ -1,7 +1,7 @@
 ---
 title: "How To Repair Your iPhone's Microphone: Step-by-Step Guide"
-date: 2024-08-27T14:41:02.872Z
-updated: 2024-08-28T14:41:02.872Z
+date: 2024-11-24T00:31:48.600Z
+updated: 2024-11-24T18:42:58.236Z
 tags:
   - iphone
   - apple
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/8009d92085bbb2b59b0e3b6dadde39baefbadc66e
 
  Test each microphone by recording using Voice Memos (bottom microphone), making a phone call on speakers (front microphone), and recording a video (back microphone). If all the microphones aren't working, it's most likely a hardware issue. If only one microphone isn't working or sounds muffled, continue to the next step.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. iPhone Microphone Muffled or Muted? Try Cleaning It
 
 ![iphone clean speaker](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/iphone-clean-speaker.jpg)
@@ -35,17 +39,9 @@ thumbnail: https://thmb.techidaily.com/8009d92085bbb2b59b0e3b6dadde39baefbadc66e
  Isopropyl alcohol breaks up grime and dries fast, so it won't damage your iPhone. Try using the highest percentage of isopropyl alcohol you can find. While you're at it,[clean your entire iPhone thoroughly](https://www.makeuseof.com/tag/clean-iphone-guide/) if it's not in a good shape.
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Disconnect From Bluetooth Devices
 
 Close
@@ -55,8 +51,9 @@ Close
  This is a common issue with those who use Bluetooth headphones like AirPods or smart home systems. Check if you're connected to a Bluetooth device by [opening your iPhone's Control Center](https://www.makeuseof.com/how-to-use-customize-control-center-iphone/) , then toggle Bluetooth off. Alternatively, tap and hold it to view all your connected devices.
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Make Sure Apps Have Microphone Permissions
 
 Close
@@ -65,16 +62,14 @@ Close
 
  To grant an app permission, head to**Settings** and select the affected app. Now, make sure the**Microphone** toggle is enabled.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Use an External Microphone or AirPods
 
 ![A guy holding AirPods Pro in charging case showing orange light](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/02/a-guy-holding-airpods-pro-in-charging-case-showing-orange-light.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Hamlin Rozario/[MakeUseOf](https://www.makeuseof.com/author/hamlin-rozario/)
 
  If you've tried all the above fixes but nothing is working, you can still use an external microphone with your iPhone. You can use this while you wait for a repair or even use an external microphone indefinitely if you can't afford a repair.
@@ -82,8 +77,9 @@ Close
  Most headphones, including Apple's AirPods, have built-in microphones. Since they connect via your iPhone's Lightning/USB-C port or Bluetooth, you won't have to rely on the built-in microphones for most tasks.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Other Generic Fixes
 
 Close
@@ -100,8 +96,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -109,4 +103,22 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/updated-capturing-the-extreme-the-gopro-hero5-black-vs-hero4-silver-duel/"><u>[Updated] Capturing the Extreme The GoPro Hero5 Black Vs Hero4 Silver Duel</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/core-elements-in-storytelling-skills/"><u>Core Elements in Storytelling Skills</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-contacts-from-infinix-hot-40-by-fonelab-android-recover-contacts/"><u>How to recover deleted contacts from Infinix Hot 40.</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-repair-a-non-functional-iphone-home-button-fast-solutions/"><u>How to Repair a Non-Functional iPhone Home Button - Fast Solutions</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-a-stepwise-approach-to-srt-mastery-and-expert-tips/"><u>In 2024, A Stepwise Approach to SRT Mastery and Expert Tips</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-your-vivo-v30-pros-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Vivo V30 Pros Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-ai-script-generator-virbo-guide/"><u>New 2024 Approved AI Script Generator | Virbo Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolving-persistent-wi-fi-issues-on-iphones-top-5-solutions/"><u>Resolving Persistent Wi-Fi Issues on iPhones: Top 5 Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/safeguard-focus-prevent-ringtone-responses-between-ipad-and-iphone/"><u>Safeguard Focus: Prevent Ringtone Responses Between iPad & iPhone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721441494783-the-mystery-of-an-offline-find-my-iphone-device-heres-what-you-can-do/"><u>The Mystery of an Offline Find My iPhone Device? Here’s What You Can Do</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-ultimate-guide-to-resolving-launch-issues-in-dead-space-remake/"><u>The Ultimate Guide to Resolving Launch Issues in Dead Space Remake</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-10-swift-solutions-restoring-widget-functionality-on-ios-devices/"><u>Top 10 Swift Solutions: Restoring Widget Functionality on iOS Devices</u></a></li>
+<li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-vivo-v29-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Vivo V29 | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-card-rejection-issues-6-steps-for-iphone-users/"><u>Troubleshoot Card Rejection Issues: 6 Steps for iPhone Users</u></a></li>
+<li><a href="https://fox-that.techidaily.com/uncovering-the-signs-of-a-block-on-imessage-techniques-for-discovering-if-youve-been-cut-off-by-contact/"><u>Uncovering the Signs of a Block on iMessage: Techniques for Discovering If You've Been Cut Off by Contact</u></a></li>
+</ul></div>
 

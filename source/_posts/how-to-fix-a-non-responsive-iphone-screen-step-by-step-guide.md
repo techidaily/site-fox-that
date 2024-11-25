@@ -1,7 +1,7 @@
 ---
 title: How to Fix a Non-Responsive iPhone Screen – Step by Step Guide
-date: 2024-09-28T03:22:50.172Z
-updated: 2024-10-01T19:41:43.834Z
+date: 2024-11-19T01:21:32.630Z
+updated: 2024-11-24T16:38:26.886Z
 tags:
   - iphone
   - apple
@@ -45,6 +45,10 @@ thumbnail: https://thmb.techidaily.com/85034a62a15df819e619fec4e6d0909e5ab4845fb
 
  If there’s a problem with your digitizer, there are a few fixes you can try before taking your iPhone to a repair shop. However, if it’s the LCD, you’ll need to start searching for repairs straight away.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Make Sure Touch Accommodations Is Off
 
  Some users might have activated certain accessibility settings that can interfere with how the touchscreen works. The most common culprit is Touch Accommodations. If enabled, your iPhone screen will seem buggy and you’ll have a difficult time navigating the touchscreen.
@@ -54,6 +58,10 @@ If your screen is working, but not correctly, this could be the cause.
  To check if this is enabled, head to**Settings** \>**Accessibility** \>**Touch** \>**Touch Accommodations** and turn it off.
 
 ![iphone touch accommodations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/iphone-touch-accommodations.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you’re having a hard time navigating there because of the dodgy touchscreen, just activate Siri and say “Turn off Touch Accommodations.”
 
@@ -66,13 +74,6 @@ If your screen is working, but not correctly, this could be the cause.
  If turning your iPhone off and on again doesn’t do anything, you’ll need to do a factory reset. Be sure to back up your iPhone before moving forward. If you can use your screen in some way, navigate to**Settings** \>**General** \>**Transfer or Reset iPhone** \>**Erase All Content and Settings** .
 
 ![iphone erase content](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/iphone-erase-content.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you can’t navigate here, you’ll need to plug your iPhone into a computer to perform a factory reset. After resetting, in rare cases, your touchscreen will work again.
 
@@ -97,10 +98,7 @@ If your screen is working, but not correctly, this could be the cause.
  Related:[Learn to Fix Your Own Gadgets With Help From These Sites](https://www.makeuseof.com/tag/fix-gadgets-help-websites/)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Using Your iPhone Without a Touchscreen
@@ -112,10 +110,7 @@ If your screen is working, but not correctly, this could be the cause.
 ![iphone voice control](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/iphone-voice-control.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If Siri’s enabled, you can enable Voice Control by saying “Hey Siri, turn on Voice Control.” Once enabled, you can access your iPhone without using the touchscreen.
@@ -125,10 +120,7 @@ If your screen is working, but not correctly, this could be the cause.
  To use Voice Control, you should familiarize yourself with the basic commands.[Apple](https://support.apple.com/HT210417) has a full list of these commands on its website.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## iPhone Screen Not Working? These Fixes Should Have Helped
@@ -152,22 +144,15 @@ If your screen is working, but not correctly, this could be the cause.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-imageinterplay-hub/"><u>[Updated] ImageInterplay Hub</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-podcasting-perfection-premium-recording-mics/"><u>[Updated] Podcasting Perfection Premium Recording Mics</u></a></li>
-<li><a href="https://fox-that.techidaily.com/4-effective-solutions-to-get-your-iphones-standby-feature-up-and-running-again/"><u>4 Effective Solutions to Get Your iPhone's Standby Feature Up and Running Again</u></a></li>
-<li><a href="https://fox-that.techidaily.com/address-iphones-vanishing-act-with-contacts-expert-solutions-to-make-them-visible-again/"><u>Address iPhone's Vanishing Act with Contacts: Expert Solutions to Make Them Visible Again</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/comprender-y-tener-conocimiento-del-tiempo-en-espanol/"><u>Comprender Y Tener Conocimiento Del Tiempo en Espaňol</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-stop-your-airpods-from-adapting-to-head-motion-dynamic-tracking-off-guide/"><u>How to Stop Your AirPods From Adapting to Head Motion – Dynamic Tracking Off Guide</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-track-imei-number-of-lava-blaze-2-pro-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Lava Blaze 2 Pro Through Google Earth?</u></a></li>
-<li><a href="https://windows11.techidaily.com/methods-to-reverse-non-transferring-usb-error-in-windows/"><u>Methods to Reverse Non-Transferring USB Error in Windows</u></a></li>
-<li><a href="https://techtrends.techidaily.com/overcoming-connectivity-hurdles-with-netflix-on-your-roku-a-comprehensive-guide/"><u>Overcoming Connectivity Hurdles with Netflix on Your Roku - A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-that.techidaily.com/quick-fixes-getting-rid-of-water-trapped-in-your-phones-speakers/"><u>Quick Fixes: Getting Rid of Water Trapped in Your Phone's Speakers</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/skyrocketing-fb-engagement-masterful-seo-techniques-explored-for-2024/"><u>Skyrocketing FB Engagement Masterful SEO Techniques Explored for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721478417958-solutions-for-accessing-texts-and-calls-during-ios-do-not-disturb-settings-top-8-tips/"><u>Solutions for Accessing Texts and Calls During iOS Do Not Disturb Settings - Top 8 Tips!</u></a></li>
-<li><a href="https://fox-that.techidaily.com/step-by-step-guide-mastering-the-art-of-iphone-soft-reboot/"><u>Step-by-Step Guide: Mastering the Art of iPhone Soft Reboot</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-instructions-on-how-to-find-an-unremembered-email-account/"><u>Step-by-Step Instructions on How to Find an Unremembered Email Account</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshoot-non-functioning-ipadiphone-keyboards-with-these-easy-steps-top-6/"><u>Troubleshoot Non-Functioning iPad/iPhone Keyboards with These Easy Steps (Top 6)</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-for-solving-new-world-server-lags-and-connectivity-problems/"><u>Troubleshooting Steps for Solving New World Server Lags & Connectivity Problems</u></a></li>
-<li><a href="https://fox-that.techidaily.com/uncover-the-secrets-to-restoring-vanished-app-icons-on-your-ios-device-step-by-step-guide/"><u>Uncover the Secrets to Restoring Vanished App Icons on Your iOS Device – Step by Step Guide</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/15-leading-gopro-cutting-software/"><u>15 Leading GoPro Cutting Software</u></a></li>
+<li><a href="https://fox-that.techidaily.com/are-you-blocked-decoding-the-shift-from-imessage-to-standard-sms-notifications/"><u>Are You Blocked? Decoding the Shift From iMessage to Standard SMS Notifications</u></a></li>
+<li><a href="https://fox-that.techidaily.com/banish-the-amber-hue-effective-methods-for-an-even-iphone-screen/"><u>Banish the Amber Hue: Effective Methods for an Even iPhone Screen</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/dell-latitude-e6430-drivers-downloading-guide-for-windows-users-updated-solution/"><u>Dell Latitude E6430 Drivers Downloading Guide for Windows Users - UPDATED SOLUTION</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Honor 80 Pro Straight Screen Edition | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-repair-an-iphone-stuck-at-sos-message-in-status-bar-top-techniques/"><u>How to Repair an iPhone Stuck at 'SOS' Message in Status Bar: Top Techniques</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-resolve-iphone-on-hold-charging-warning-8-effective-methods/"><u>How to Resolve iPhone 'On-Hold Charging' Warning: 8 Effective Methods</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-itel-a60-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Itel A60? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-verizon-apple-iphone-11-pro-by-drfone-ios/"><u>In 2024, How to Unlock Verizon Apple iPhone 11 Pro</u></a></li>
+<li><a href="https://win11.techidaily.com/master-profile-management-name-alteration-in-w11/"><u>Master Profile Management: Name Alteration in W11</u></a></li>
 </ul></div>
 

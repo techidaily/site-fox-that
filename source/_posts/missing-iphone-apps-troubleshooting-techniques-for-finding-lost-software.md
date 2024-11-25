@@ -1,7 +1,7 @@
 ---
 title: "Missing iPhone Apps Troubleshooting: Techniques for Finding Lost Software"
-date: 2024-08-27T14:47:23.501Z
-updated: 2024-08-28T14:47:23.501Z
+date: 2024-11-23T20:49:58.044Z
+updated: 2024-11-25T03:00:19.895Z
 tags:
   - iphone
   - apple
@@ -32,11 +32,23 @@ thumbnail: https://thmb.techidaily.com/132555d330df6c205c8e32dca26d7905a91b5054d
 
 ![App Library showing apps in alphabetical order](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/app-library-showing-apps-in-alphabetical-order.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Long-press app in App Library and tap Add to Home Screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/long-press-app-in-app-library-and-tap-add-to-home-screen.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
  In the future, if you want all the new apps you download to show on the iPhone Home Screen, open**Settings** \>**Home Screen** and select**Add to Home Screen** . This will put an end to new apps not appearing on the Home Screen.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Use Spotlight to Find the Missing App
 
@@ -48,7 +60,15 @@ Close
 
 ![iphone home screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/img_5638.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![iphone search screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/img_5639.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![use search to find an app in iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/img_5640.jpg)
 
@@ -61,8 +81,9 @@ Close
  To activate Siri, you can say "Hey Siri" or press and hold the**Side** button (on iPhones with Face ID) or**Home** button (on iPhones with Touch ID). Besides opening apps, there are many other [tasks you can ask Siri to carry out for you](https://www.makeuseof.com/tag/8-things-you-probably-didnt-realize-siri-could-do/) .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Look Inside Folders to Find Hidden Apps
 
  Sometimes we put apps inside folders to hide them or keep them away from plain sight in case those apps aren't used frequently. After a while, it's possible to forget about them.
@@ -79,17 +100,15 @@ Close
 
 ![Tap Content & Privacy Restrictions in iPhone Screen Time Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/tap-content--privacy-restrictions-in-iphone-screen-time-settings.png)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Tap Allowed Apps in iPhone Screen Time Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/tap-allowed-apps-in-iphone-screen-time-settings.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ![Make Sure all iPhone apps are allowed and nothing is restricted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/make-sure-all-iphone-apps-are-allowed-and-nothing-is-restricted.png)
 
 Close
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Unhide Home Screen Pages to See All Your Apps
 
@@ -111,19 +130,14 @@ Close
 
 ![Long press iOS App Store icon and tap Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/long-press-ios-app-store-icon-and-tap-search.png)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Search for app in App Store and tap Open](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/search-for-app-in-app-store-and-tap-open.png)
 
 <!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Close
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 8\. Reset the Home Screen Layout to View All Apps Alphabetically
 
  If you want every app listed alphabetically to be sure not to miss anything, you can reset the Home Screen and Dock layout. After this, the Home Screen will show all the Apple apps (just like a new iPhone). And the apps you have downloaded will be placed alphabetically in order.
@@ -137,16 +151,10 @@ Here's how to reset your iPhone's Home Screen layout:
 
 ![From the bottom tap Reset in iPhone Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/from-the-bottom-tap-reset-in-iphone-settings.png)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ![Tap Reset Home Screen Layout in iPhone Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/tap-reset-home-screen-layout-in-iphone-settings.png)
 
 Close
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 9\. Additional Fixes if You Still Can't Find an App
 
  Most of the methods we covered above involve unhiding an app and getting it back on the Home Screen again. But if those don't work, an app disappearing may be caused by a glitch.
@@ -167,8 +175,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -176,4 +182,20 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-maximizing-impact-the-20-key-principles-of-fb-video-marketing/"><u>[New] 2024 Approved Maximizing Impact The 20 Key Principles of FB Video Marketing</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-behance-portfolio-image-constraints/"><u>[New] In 2024, Behance Portfolio Image Constraints</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-glacial-glory-spectacous-moments-from-2022s-olympic-snowboard-races/"><u>[New] In 2024, Glacial Glory Spectacous Moments From 2022'S Olympic Snowboard Races</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/apple-iphone-12-pro-backup-password-never-set-but-still-asking-heres-the-fix-by-drfone-ios/"><u>Apple iPhone 12 Pro Backup Password Never Set But Still Asking? Heres the Fix</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/capture-discord-talks-best-ways-to-record-live-streaming-sessions-for-2024/"><u>Capture Discord Talks Best Ways to Record Live Streaming Sessions for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/effortlessly-spread-youtube-videos-on-fb/"><u>Effortlessly Spread YouTube Videos on FB</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/facile-transition-vers-windows-11-sans-perdre-vos-donnees-guide-complet/"><u>Facile Transition Vers Windows 11 Sans Perdre Vos Données: Guide Complet</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-can-you-overcome-imessage-delivery-failures-on-an-iphone-a-comprehensive-guide/"><u>How Can You Overcome iMessage Delivery Failures on an iPhone? A Comprehensive Guide</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-honor-x50iplus-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Honor X50i+ Phone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/improving-iphone-picture-quality-despite-lower-resolution-cameras/"><u>Improving iPhone Picture Quality Despite Lower Resolution Cameras</u></a></li>
+<li><a href="https://fox-that.techidaily.com/nullable-reference-types-c-80/"><u>Nullable Reference Types (C# 8.0):</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-missing-vibrations-on-iphone-chats-comprehensive-solutions-guide/"><u>Troubleshooting Missing Vibrations on iPhone Chats: Comprehensive Solutions Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-whatsapp-solutions-for-when-your-chat-history-isnt-syncing-with-icloud/"><u>Troubleshooting WhatsApp: Solutions for When Your Chat History Isn't Syncing with iCloud</u></a></li>
+</ul></div>
 

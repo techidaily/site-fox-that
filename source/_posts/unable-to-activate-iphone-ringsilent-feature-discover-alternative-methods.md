@@ -1,7 +1,7 @@
 ---
 title: Unable to Activate iPhone Ring/Silent Feature? Discover Alternative Methods
-date: 2024-11-08T16:24:10.813Z
-updated: 2024-11-15T18:10:05.118Z
+date: 2024-11-20T18:28:24.225Z
+updated: 2024-11-25T01:44:30.264Z
 tags:
   - iphone
   - apple
@@ -32,11 +32,23 @@ thumbnail: https://thmb.techidaily.com/6a18129a35160648e7ff206817c86c3e7a35764f1
 
 ![iPhone Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-with-assistivetouch-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![iPhone Accessibility settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-with-assistivetouch-2.jpg)
 
 ![Touch settings on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-with-assistivetouch-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![enabling AssistiveTouch on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-with-assistivetouch-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -54,6 +66,10 @@ Close
 
  So, a better approach would be to customize AssistiveTouch's top-level menu and add the**Mute** option on the main screen. Or, to set up a custom action for AssistiveTouch to mute or unmute the device directly.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Customize the Top Level Menu
 
  AssistiveTouch features six buttons in its Top Level menu by default. However, you can customize the menu to add or remove buttons according to your requirements.
@@ -69,10 +85,7 @@ Close
 ![AssistiveTouch settings on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customizing-assistivetouch-top-level-menu-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![customizing AssistiveTouch's top-level menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customizing-assistivetouch-top-level-menu-2.jpg)
@@ -87,6 +100,10 @@ Close
 
  All you need to do now is tap the AssistiveTouch button and hit**Mute** . When you do this, the**Mute** button will change to**Unmute** , and you can tap on it again to unmute the device quickly.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Set Up a Custom Action
 
  AssistiveTouch also supports executing custom actions using gestures. It has three customizable gestures:**Single-Tap** ,**Double-Tap** , and**Long Press** , and you can assign a wide range of actions to these gestures, including the mute action. By default, the Single-Tap gesture is set to the**Open Menu** action, so you'll need to assign the Mute action to either Double-Tap or Long Press gestures.
@@ -98,20 +115,10 @@ Follow these simple instructions to get this done:
 
 ![AssistiveTouch settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/setting-a-custom-action-for-assistivetouch-button-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![adding Mute action to Double-Tap gesture](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/setting-a-custom-action-for-assistivetouch-button-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Close
@@ -131,13 +138,6 @@ Close
 
 ![Back Tap feature under Touch Accessibility settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-using-back-tap-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Close
 
  Once you're in the Back Tap accessibility menu, you can choose a couple of options:
@@ -150,10 +150,7 @@ Close
 ![setting Mute action to a Back Tap gesture](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-using-back-tap-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Close
@@ -183,24 +180,24 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/n-2024-guerrilla-mic-guide-top-chip-selection-on-a-shoestring/"><u>[New] In 2024, Guerrilla Mic Guide Top Chip Selection on a Shoestring</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-the-ultimate-pc-workaround-for-console-gaming-recordings/"><u>[New] In 2024, The Ultimate PC Workaround for Console Gaming Recordings</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-outstanding-unlimited-space-service-index/"><u>2024 Approved Outstanding Unlimited Space Service Index</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-windows-10-and-11s-0x0000011b-faults/"><u>Addressing Windows 10 & 11'S 0X0000011B Faults</u></a></li>
-<li><a href="https://fox-that.techidaily.com/cracking-the-code-of-imessage-rejections-how-to-tell-if-youve-been-blacklisted/"><u>Cracking the Code of iMessage Rejections: How to Tell If You've Been Blacklisted</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/discover-the-leading-mac-applications-of-2023-as-ranked-by-experts/"><u>Discover the Leading Mac Applications of 2023 as Ranked by Experts</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-logitech-usb-camera-ready-with-free-windows-drivers/"><u>Get Your Logitech USB Camera Ready with Free Windows Drivers</u></a></li>
-<li><a href="https://games-able.techidaily.com/guide-to-clean-installation-of-ps5-titles/"><u>Guide to Clean Installation of PS5 Titles</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-fix-iphone-wireless-charging-issues-top-7-tips-and-tricks/"><u>How To Fix iPhone Wireless Charging Issues - Top 7 Tips & Tricks!</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-xiaomi-redmi-note-13-proplus-5g-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Xiaomi Redmi Note 13 Pro+ 5G to New Phone | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-a-found-iphone-14-plus-by-drfone-ios/"><u>How To Unlock A Found iPhone 14 Plus?</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-zte-nubia-flip-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your ZTE Nubia Flip 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/overcome-your-safari-full-page-snapshot-woes-with-these-effective-techniques/"><u>Overcome Your Safari Full-Page Snapshot Woes with These Effective Techniques</u></a></li>
-<li><a href="https://fox-that.techidaily.com/the-journey-of-facetime-snaps-discover-their-hidden-location/"><u>The Journey of FaceTime Snaps: Discover Their Hidden Location</u></a></li>
-<li><a href="https://fox-that.techidaily.com/the-mystery-of-persistent-iphone-pictures-after-deletion-solved-top-8-tips-for-a-clean-slate/"><u>The Mystery of Persistent iPhone Pictures After Deletion Solved: Top 8 Tips for a Clean Slate</u></a></li>
-<li><a href="https://fox-that.techidaily.com/top-6-causes-of-a-sluggish-iphone-solutions-to-speed-up-your-device/"><u>Top 6 Causes of a Sluggish iPhone: Solutions to Speed Up Your Device</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-instagram-delays-top-6-solutions-for-smooth-app-performance-on-both-android-and-ios/"><u>Troubleshooting Instagram Delays: Top 6 Solutions for Smooth App Performance on Both Android & iOS</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-iphone-cellular-data-issues-with-10-proven-fixes/"><u>Troubleshooting iPhone Cellular Data Issues with 10 Proven Fixes</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-steps-resolving-undelivered-texts-in-messages-app/"><u>Troubleshooting Steps: Resolving Undelivered Texts in Messages App</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-seamless-webp-to-jpg-conversion-techniques/"><u>[New] Seamless WebP to JPG Conversion Techniques</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-exploring-video-realms-significant-post-vidcon-conclaves-for-2024/"><u>[Updated] Exploring Video Realms Significant Post-VidCon Conclaves for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-photo-fusion-at-home-and-online-synergy-guide/"><u>[Updated] Photo Fusion at Home & Online Synergy Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatbots-battle-royale-determining-the-best-ai-companer-gpt-or-bings-answer-engine/"><u>Chatbots Battle Royale: Determining the Best AI Companer - GPT or Bing's Answer Engine?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-for-dealing-with-software-error-specific-module-missing/"><u>Expert Tips for Dealing with Software Error: Specific Module Missing</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixed-why-safaris-full-screen-screenshot-feature-might-be-malfunctioning-and-how-to-resolve-it/"><u>Fixed: Why Safari's Full-Screen Screenshot Feature Might Be Malfunctioning & How To Resolve It</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-fix-an-unresponsive-iphone-touchscreen-quickly-and-easily/"><u>How to Fix an Unresponsive iPhone Touchscreen Quickly & Easily</u></a></li>
+<li><a href="https://fox-that.techidaily.com/imessage-sent-as-sms-on-iphone-what-could-this-indicate-about-being-blocked/"><u>IMessage Sent as SMS on iPhone: What Could This Indicate About Being Blocked?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-not-buzzing-when-you-expect-it-to-try-these-eight-effective-fixes-for-quiet-modes/"><u>IPhone Not Buzzing When You Expect It To? Try These Eight Effective Fixes for Quiet Modes!</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/pengembang-pulihkan-untuk-behkan-windows-10-dan-11/"><u>Pengembang Pulihkan Untuk Behkan Windows 10 Dan 11</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/perfecting-the-green-screen-essential-techniques/"><u>Perfecting the Green Screen Essential Techniques</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/precision-in-computing-unveiling-high-tech-secrets-with-toms-hardware-insights/"><u>Precision in Computing: Unveiling High-Tech Secrets with Tom's Hardware Insights</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resetting-your-iphone-safely-without-erasing-data/"><u>Resetting Your iPhone Safely Without Erasing Data</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-the-ghost-touch-issue-on-your-iphone-discover-10-effective-solutions/"><u>Solving the Ghost Touch Issue on Your iPhone: Discover 10 Effective Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/struggling-with-iphone-wireless-charge-discover-our-erhaps-top-7-solutions-for-restoring-wireless-power-to-your-iphone/"><u>Struggling With iPhone Wireless Charge? Discover Our Erhaps, Top 7 Solutions for Restoring Wireless Power to Your iPhone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-operating-environment-including-temperature-pressure-and-environmental-conditions-must-be-considered-when-selecting-liner-materials/"><u>The Operating Environment, Including Temperature, Pressure, and Environmental Conditions, Must Be Considered when Selecting Liner Materials.</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-missing-contact-information-on-your-iphone-a-step-by-step-guide/"><u>Troubleshooting Missing Contact Information on Your iPhone: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/ultimate-guide-clearing-up-the-fuzz-on-your-iphones-lens-7-techniques/"><u>Ultimate Guide: Clearing Up the Fuzz on Your iPhone's Lens (7 Techniques)</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/updated-in-2024-what-is-ai-pixel-art-generator/"><u>Updated In 2024, What Is AI Pixel Art Generator?</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Overcoming iPhone Photo Glitches & Problems
-date: 2024-09-29T19:17:43.233Z
-updated: 2024-10-02T04:36:10.116Z
+date: 2024-11-22T18:55:56.820Z
+updated: 2024-11-25T00:40:09.562Z
 tags:
   - iphone
   - apple
@@ -29,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/06e4228770e6068ed6a3887b57608ffc3ec670ddf
 
 ![managing iphone photos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2012/04/camera_roll.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  However, when you go to add selected Camera Roll photos into albums, you run into a problem. Say you just shot a set of Easter Sunday or other holiday photos and you put them into an Photo Library album for quick access and management. The problem occurs however when you want to delete those photos from Camera Roll, but leave a copy of them in a designated album. You can't do it. Photos deleted from the Camera Roll will also be deleted in other albums you add them to. (Note: they're not really added/copied to an album, just referenced to it.)
 
 ![processing iphone photos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2012/04/photostream_4.jpg)
@@ -41,15 +45,16 @@ thumbnail: https://thmb.techidaily.com/06e4228770e6068ed6a3887b57608ffc3ec670ddf
 
 ![processing iphone photos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2012/04/photostream_13.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Again, Photo Stream works well in this regard. However, while you can share photos via email, text message, Twitter, etc., you can't copy photos to separate albums on your iOS devices. You can do so, however, in iPhoto and Aperture. To have this done automatically, open the Preferences of these applications, and enable Automatic Import, of photos from Photo Stream. Photos will be copied into a separate album and labeled by the current month.
 
 ![iphone photo process](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2012/04/aperture.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Problem
@@ -58,18 +63,15 @@ thumbnail: https://thmb.techidaily.com/06e4228770e6068ed6a3887b57608ffc3ec670ddf
 
  Being able to manage and keep photos into separate albums means not only can you can access them more easily, especially when you have hundreds of photos in your Camera Roll and Photo Stream, but it also means you can keep the original photos, and edit copies of them in say Instagram or other photo apps.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
-  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Solutions
 
  Well, so far here are my solutions to the problems. First off I use Hedonic Software's Albums: Photo and Video Manager ($2.99) app for maintaining the photos I want to keep on my iOS devices.
 
 ![iphone photo process](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2012/04/photostream_10.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  I use this app because it supports keywords and smart albums, similar to what is available in iPhoto and Aperture. I can easily tag imported photos and they automatically are placed in designated smart albums.
 
@@ -78,22 +80,12 @@ thumbnail: https://thmb.techidaily.com/06e4228770e6068ed6a3887b57608ffc3ec670ddf
 ![iphone photo process](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2012/04/iphonecamera.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you have hundreds of photos you need to delete from the Camera Roll, you can hook up your mobile camera device to your computer, and then open a built-in OS X application called Image Capture (in the Applications folder.) All your Camera Roll photos will show up in that application, and from there you can do a Command+A (Select All) and both import those photos onto your computer and delete from the Camera Roll on your device. Sadly, this can't be done wirelessly.
 
 ![Photostream 9](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2012/04/photostream_9.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  I also use an app called CameraSync ($2.99) on my iPhone which will after being launched instantly uploads all my Camera Roll photos and videos to a designated folder in Dropbox (or SkyDrive, FTP server, Amazon S3 bucket, etc..) It will remember which image and video files it already uploaded so you don't have to worry if particular files have been backed up. This app is very useful for people not using Photo Stream.
 
@@ -126,22 +118,22 @@ For other iPhone camera related articles, check out these:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-essential-steps-to-curate-youtube-music-selections-for-2024/"><u>[New] Essential Steps to Curate YouTube Music Selections for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-leading-speed-change-audio-utilities-list/"><u>2024 Approved Leading Speed-Change Audio Utilities List</u></a></li>
-<li><a href="https://fox-that.techidaily.com/7-effective-solutions-to-stop-phone-screen-from-flickering/"><u>7 Effective Solutions to Stop Phone Screen From Flickering</u></a></li>
-<li><a href="https://techtrends.techidaily.com/camera-malfunction-in-windows-11-understanding-and-solving-error-code-0xa00f4244/"><u>Camera Malfunction in Windows 11: Understanding and Solving Error Code 0xA00F4244</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/direct-screen-capture-chromium-version/"><u>Direct Screen Capture Chromium Version</u></a></li>
-<li><a href="https://fox-that.techidaily.com/error-4013-on-iphone-heres-how-to-correctly-update-or-restore-your-device/"><u>Error 4013 on iPhone? Here’s How to Correctly Update or Restore Your Device</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fix-aol-email-problems-on-iphones-with-these-6-easy-solutions/"><u>Fix AOL Email Problems on iPhones with These 6 Easy Solutions</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fixing-the-stuck-stand-by-mode-on-your-iphone-in-just-4-steps/"><u>Fixing the Stuck Stand-By Mode on Your iPhone in Just 4 Steps</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-do-you-upgrade-old-minecraft-video-card-drivers-heres-the-solution/"><u>How Do You Upgrade Old Minecraft Video Card Drivers? Here's the Solution</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-repair-a-broken-home-button-on-your-iphone-with-these-5-quick-tips/"><u>How to Repair a Broken Home Button on Your IPhone with These 5 Quick Tips</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-reset-apple-id-and-apple-password-on-apple-iphone-8-by-drfone-ios/"><u>How to Reset Apple ID and Apple Password On Apple iPhone 8</u></a></li>
-<li><a href="https://fox-that.techidaily.com/improve-audio-clarity-by-disabling-auto-position-adjustment-feature-in-your-airpod-earphones/"><u>Improve Audio Clarity by Disabling Auto-Position Adjustment Feature in Your AirPod Earphones</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-making-magic-mobile-best-phones-for-media-crafting/"><u>In 2024, Making Magic Mobile Best Phones for Media Crafting</u></a></li>
-<li><a href="https://fox-that.techidaily.com/persistent-wi-fi-problems-on-iphone-try-these-5-troubleshooting-steps/"><u>Persistent Wi-Fi Problems on iPhone? Try These 5 Troubleshooting Steps!</u></a></li>
-<li><a href="https://fox-that.techidaily.com/struggling-with-your-iphone-data-connection-discover-10-remedies-that-work/"><u>Struggling With Your iPhone Data Connection? Discover 10 Remedies That Work!</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-ultimate-players-showcase-top-rated-oculus-devices-for-2024/"><u>The Ultimate Players Showcase Top-Rated Oculus Devices for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/usda-economic-research-service-nd-glyphosate-usage-in-us-crops-retrieved-from-(httpswwwersusdagovwebdocspuptwg127045htmsthashocj6ztm9dpuf)/"><u>USDA Economic Research Service (N.d.). Glyphosate Usage in U.S. Crops. Retrieved From <https://www.ers.usda.gov/webdocs/PUPTWG/127045.htm#sthash.Ocj6zTm9.dpuf></u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-flickr-profile-picture-breakdown-area-codec-timeframe-for-2024/"><u>[Updated] Flickr Profile Picture Breakdown Area, Codec, Timeframe for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-the-metrics-of-mastery-assessing-luminances-hdr-capabilities/"><u>[Updated] The Metrics of Mastery Assessing Luminance's HDR Capabilities</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-the-ultimate-guide-to-music-copyright-etiquette-on-ig-for-2024/"><u>[Updated] The Ultimate Guide to Music Copyright Etiquette on IG for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/facing-trouble-with-iphone-faceid-unlock-a-smoother-experience-with-our-14-tips/"><u>Facing Trouble with iPhone FaceID? Unlock a Smoother Experience With Our 14 Tips</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-perform-a-hard-restart-on-iphone-and-trigger-recovery-setup/"><u>How to Perform a Hard Restart on iPhone and Trigger Recovery Setup</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-track-and-retrieve-your-facetime-picture-files/"><u>How to Track and Retrieve Your FaceTime Picture Files</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-and-icloud-backup-problems-explore-9-troubleshooting-tactics-now/"><u>IPhone & iCloud Backup Problems: Explore 9 Troubleshooting Tactics Now</u></a></li>
+<li><a href="https://fox-that.techidaily.com/non-selective-beta-blockers-can-also-affect-beta-2-receptors-potentially-causing-bronchoconstriction-thus-they-are-not-recommended-for-asthmatic-patients/"><u>Non-Selective Beta Blockers Can Also Affect Beta-2 Receptors, Potentially Causing Bronchoconstriction; Thus They Are Not Recommended for Asthmatic Patients.</u></a></li>
+<li><a href="https://driver-download.techidaily.com/quick-guide-obtaining-your-asus-monitors-latest-drivers/"><u>Quick Guide: Obtaining Your ASUS Monitor's Latest Drivers</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solve-this-why-wont-my-iphone-send-or-receive-texts/"><u>Solve This: Why Won't My iPhone Send or Receive Texts?</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-cyberpunk-2077-not-launching/"><u>Solved: Cyberpunk 2077 Not Launching</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-story-behind-netflixs-transition-from-physical-media-a-deep-dive-into-its-early-dvd-rentals/"><u>The Story Behind Netflix's Transition From Physical Media: A Deep Dive Into Its Early DVD Rentals</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-choosing-the-ideal-streaming-service/"><u>The Ultimate Guide to Choosing the Ideal Streaming Service</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/timeless-thread-triumphs-reddits-all-time-fave-list-top-10/"><u>Timeless Thread Triumphs Reddit’s All-Time Fave List (Top 10)</u></a></li>
+<li><a href="https://fox-that.techidaily.com/trouble-with-icloud-synchronization-discover-how-to-fix-common-sync-problems/"><u>Trouble with iCloud Synchronization? Discover How to Fix Common Sync Problems</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unable-to-upgrade-your-apple-device-here-are-9-tips-for-success/"><u>Unable to Upgrade Your Apple Device? Here Are 9 Tips for Success</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/unraveling-squid-game-korean-lessons-await/"><u>Unraveling Squid Game: Korean Lessons Await</u></a></li>
 </ul></div>
 

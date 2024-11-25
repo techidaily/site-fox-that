@@ -1,7 +1,7 @@
 ---
 title: "How to Fix Your iOS Device's Unresponsive Keyboard: 6 Effective Tips"
-date: 2024-11-10T16:11:55.458Z
-updated: 2024-11-15T16:23:50.049Z
+date: 2024-11-23T01:41:30.636Z
+updated: 2024-11-24T22:41:55.744Z
 tags:
   - iphone
   - apple
@@ -46,29 +46,27 @@ Close
 
 ![expanded iphone keyboards setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/expanded-iphone-keyboards-setting.PNG)
 
-![iphone keyboard language list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/iphone-keyboard-language-list.PNG)
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![iphone keyboard language list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/iphone-keyboard-language-list.PNG)
 
 ![keyboard language list on iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/keyboard-language-list-on-iphone.PNG)
 
-Close
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+Close
 
 ## 2\. iPhone or iPad Keyboard Typing the Wrong Letters and Words
 
  Almost everyone has had a text message needlessly autocorrected by their iPhone or iPad. But if this happens too frequently, and there are more mistakes than accurate corrections, here's what you should do.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Test Your iPhone or iPad Screen
 
@@ -77,6 +75,10 @@ Close
  If your iPhone is also opening apps randomly when you're not touching the screen at all, this is a problem known as "ghost touch." You can try solutions such as cleaning your iPhone screen and replacing the screen protector to [fix ghost touch on your iPhone](https://www.makeuseof.com/tag/fix-ghost-touch-on-iphone/) .
 
  But if the cause of ghost touch is damaged hardware—for example, you dropped your iPhone recently, and there are visible screen cracks—you probably need to replace your iPhone's display. While we recommend getting it fixed by Apple, you have [options if you want to fix your iPhone's screen for cheap](https://www.makeuseof.com/tag/places-that-fix-iphone-screens-for-cheap/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Check Your Text Replacement Setting
 
@@ -87,6 +89,10 @@ Close
  Go to**Settings > General > Keyboard > Text Replacement** . If there's an unwanted phrase in the list, swipe left on it and tap**Delete** .
 
 ![expanded iphone keyboards setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/expanded-iphone-keyboards-setting.PNG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![iphone text replacement setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/iphone-text-replacement-setting.PNG)
 
@@ -106,20 +112,10 @@ Close
 
 ![iphone general settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_7383.JPEG)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![transfer or reset iphone settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_7384.JPEG)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
-  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![transfer or reset iphone settings confirmation window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_7385.JPEG)
@@ -138,6 +134,10 @@ Close
 
 ![iphone touch accommodations setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/iphone-touch-accommodations-setting.PNG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Close
 
 ## 4\. No Sound or Vibration When Typing on the Keyboard
@@ -149,20 +149,10 @@ Close
 ![iphone settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/iphone-settings-app-1.PNG)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![iphone sounds and haptics settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/iphone-sounds-and-haptics-settings.PNG)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![iphone keyboard feedback setting with sound and haptic enabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/iphone-keyboard-feedback-setting-with-sound-and-haptic-enabled.PNG)
 
@@ -174,31 +164,21 @@ Close
 
 ![iphone touch accessibility setting with vibration toggled on](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/iphone-touch-accessibility-setting-with-vibration-toggled-on.PNG)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Close
 
 ## 5\. Physical Keyboard Not Working With Your iPad
 
  All the fixes above focus on your iPhone or iPad's on-screen keyboard. However, given the larger screen on iPads, people often connect a physical keyboard to use it as a laptop substitute. Here's what you can do if the physical keyboard isn't working.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Check the Keyboard Compatibility With Your iPad Model
 
  If the keyboard connected to your iPad isn't working, it may be because it isn't compatible with your iPad model or the iPadOS version installed on your device.
 
  For example, Apple's Magic Keyboard for iPad accessory only works with selected iPad Pro and iPad Air models. You can refer to [Apple's iPad Keyboards page](https://www.apple.com/ipad-keyboards/) to identify the right keyboard case for your iPad.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Disconnect and Reconnect Your iPad Keyboard
 
@@ -215,6 +195,10 @@ Close
 ![iphone general settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/iphone-general-settings-2.JPEG)
 
 ![iPhone General settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/iphone-general-settings.JPEG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![iphone ios 17.0.3 software update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/img_7670.JPEG)
 
@@ -239,20 +223,16 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-capture-clarity-optimal-tripods-for-iphone-and-android/"><u>[New] Capture Clarity Optimal Tripods for iPhone & Android</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-compreeved-guide-converting-webp-to-quality-jpg-format/"><u>2024 Approved Compreeved Guide Converting WebP to Quality JPG Format</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/consistent-pet-nourishment-with-the-ultimate-six-course-auto-feeder-by-petsafe/"><u>Consistent Pet Nourishment with the Ultimate Six-Course Auto Feeder by PetSafe</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-vivo-y17s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Vivo Y17s | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fixing-outdated-email-on-ios-devices-tips-and-tricks-for-iphone-users/"><u>Fixing Outdated Email on iOS Devices: Tips and Tricks for iPhone Users</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-restore-stable-connections-between-your-airpods-and-iphone-in-11-steps/"><u>How to Restore Stable Connections Between Your AirPods and iPhone in 11 Steps</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-realme-v30t-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Realme V30T | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/lens-lockdown-top-rated-phone-friendly-tripods-for-2024/"><u>Lens Lockdown Top-Rated Phone-Friendly Tripods for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/optimizing-cyberpunk-2077-for-lower-cpu-consumption-fixed/"><u>Optimizing Cyberpunk 2077 for Lower CPU Consumption - Fixed!</u></a></li>
-<li><a href="https://fox-that.techidaily.com/resolving-undelivered-messages-solutions-for-imessage-issues-on-iphone/"><u>Resolving Undelivered Messages: Solutions for iMessage Issues on iPhone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/step-by-step-instructions-finding-help-through-apples-mobile-support-platform/"><u>Step-by-Step Instructions: Finding Help Through Apple's Mobile Support Platform</u></a></li>
-<li><a href="https://fox-that.techidaily.com/tame-your-gadgets-how-to-ensure-your-ipad-stays-silent-when-your-iphone-rings/"><u>Tame Your Gadgets: How to Ensure Your iPad Stays Silent When Your iPhone Rings</u></a></li>
-<li><a href="https://fox-that.techidaily.com/unfreeze-your-iphone-effective-methods-to-revive-it-quickly/"><u>Unfreeze Your iPhone: Effective Methods to Revive It Quickly</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-the-ultimate-guide-to-choosing-a-daw-our-picks-on-top-8-software-for-exceptional-recording-mixing-and-mastering-capabilities-for-2024/"><u>Updated The Ultimate Guide to Choosing a DAW Our Picks on Top 8 Software for Exceptional Recording, Mixing, and Mastering Capabilities for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/vital-upgrades-to-revolutionize-the-gpt-plugin-registry/"><u>Vital Upgrades to Revolutionize the GPT Plugin Registry</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-masterful-viewing-for-artists-best-monitor-guide/"><u>[New] Masterful Viewing for Artists – Best Monitor Guide</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-step-into-the-rhythm-of-social-video-editing-with-music-for-2024/"><u>[New] Step Into the Rhythm of Social Video Editing with Music for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/8-effective-remedies-for-iphones-that-wont-exit-headphone-configuration/"><u>8 Effective Remedies for iPhones That Won't Exit Headphone Configuration</u></a></li>
+<li><a href="https://fox-that.techidaily.com/cant-access-face-id-on-your-iphone-try-these-successful-fixes-numbered-1-to-aturin-a-deep-dive-into-apples-face-id-solutions/"><u>Can't Access Face ID on Your iPhone? Try These Successful Fixes, Numbered 1 to Aturin: A Deep Dive Into Apple’s Face ID Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/get-your-airdrop-back-on-track-with-these-critical-nine-fixes-in-minutes/"><u>Get Your AirDrop Back on Track with These Critical Nine Fixes in Minutes</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/m4b-a-aac-trasforma-i-tuoi-file-audio-gratuitamente-su-movavi-web/"><u>M4B a AAC: Trasforma I Tuoi File Audio Gratuitamente Su Movavi Web</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-lost-photos-during-transfer-from-iphone-14-to-pc-or-mac-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Recover Lost Photos during Transfer from iPhone 14 to PC or Mac | Stellar</u></a></li>
+<li><a href="https://fox-that.techidaily.com/single-device-focus-keeping-your-ipad-muted-while-your-iphone-rings-in/"><u>Single-Device Focus: Keeping Your iPad Muted While Your iPhone Rings In</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tactics-to-reactivate-taskbar-icons/"><u>Tactics to Reactivate Taskbar Icons</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95782712-9781620553268-the-complete-lenormand-oracle-handbook/"><u>The Complete Lenormand Oracle Handbook | Free Book</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlock-problem-solving-power-correct-5-iphone-faults-using-dfu-setup/"><u>Unlock Problem-Solving Power: Correct 5 iPhone Faults Using DFU Setup</u></a></li>
 </ul></div>
 

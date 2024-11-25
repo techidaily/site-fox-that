@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Your iOS Keyboard – Solutions for iPhone & iPad
-date: 2024-11-12T18:13:39.947Z
-updated: 2024-11-15T17:43:57.263Z
+date: 2024-11-22T18:23:24.349Z
+updated: 2024-11-24T21:07:35.841Z
 tags:
   - iphone
   - apple
@@ -46,23 +46,17 @@ Close
 
 ![expanded iphone keyboards setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/expanded-iphone-keyboards-setting.PNG)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![iphone keyboard language list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/iphone-keyboard-language-list.PNG)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![keyboard language list on iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/keyboard-language-list-on-iphone.PNG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -78,6 +72,10 @@ Close
 
  But if the cause of ghost touch is damaged hardware—for example, you dropped your iPhone recently, and there are visible screen cracks—you probably need to replace your iPhone's display. While we recommend getting it fixed by Apple, you have [options if you want to fix your iPhone's screen for cheap](https://www.makeuseof.com/tag/places-that-fix-iphone-screens-for-cheap/) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Check Your Text Replacement Setting
 
  Let's say you're typing the phrase "I'm studying" in a message, but it autocorrects to "I'm napping" every time. This is probably caused by a text replacement setting.
@@ -90,26 +88,10 @@ Close
 
 ![iphone text replacement setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/iphone-text-replacement-setting.PNG)
 
-<!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![removal of preset text in iphone text replacement setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/removal-of-preset-text-in-iphone-text-replacement-setting.PNG)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Close
@@ -128,9 +110,17 @@ Close
 
 ![transfer or reset iphone settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_7384.JPEG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![transfer or reset iphone settings confirmation window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_7385.JPEG)
 
 Close
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Review Your Touch Accommodations Settings in Accessibility
 
@@ -144,21 +134,7 @@ Close
 
 ![iphone touch accommodations setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/iphone-touch-accommodations-setting.PNG)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Close
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. No Sound or Vibration When Typing on the Keyboard
 
@@ -170,14 +146,11 @@ Close
 
 ![iphone sounds and haptics settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/iphone-sounds-and-haptics-settings.PNG)
 
-![iphone keyboard feedback setting with sound and haptic enabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/iphone-keyboard-feedback-setting-with-sound-and-haptic-enabled.PNG)
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![iphone keyboard feedback setting with sound and haptic enabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/iphone-keyboard-feedback-setting-with-sound-and-haptic-enabled.PNG)
 
 Close
 
@@ -185,16 +158,13 @@ Close
 
 ![iphone accessibility setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/iphone-accessibility-setting.PNG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![iphone touch accessibility setting with vibration toggled on](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/iphone-touch-accessibility-setting-with-vibration-toggled-on.PNG)
 
 Close
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Physical Keyboard Not Working With Your iPad
 
@@ -206,11 +176,19 @@ Close
 
  For example, Apple's Magic Keyboard for iPad accessory only works with selected iPad Pro and iPad Air models. You can refer to [Apple's iPad Keyboards page](https://www.apple.com/ipad-keyboards/) to identify the right keyboard case for your iPad.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Disconnect and Reconnect Your iPad Keyboard
 
  Once you're certain you have [the right keyboard case for your iPad](https://www.makeuseof.com/which-ipad-keyboard-case-right-for-you/) , you can try disconnecting and reconnecting the keyboard to see if that resolves the issue. If the physical keyboard is magnetically attached to your iPad, simply remove and reattach it.
 
  However, if you're using a third-party keyboard that's connected to your iPad via Bluetooth, toggle off Bluetooth on your iPad, wait for a few moments, then toggle it on and connect your keyboard again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. General Fixes When Your iPhone or iPad Keyboard Doesn't Work
 
@@ -245,24 +223,18 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/isionary-artisan-merging-sights-and-sounds-for-2024/"><u>[New] Visionary Artisan Merging Sights and Sounds for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/dicas-para-converter-aperfeicoadamente-seus-filmes-do-formato-mts-para-o-mp4-sem-custo-algum/"><u>Dicas Para Converter Aperfeiçoadamente Seus Filmes Do Formato MTS Para O MP4 Sem Custo Algum</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/dive-into-digital-tips-and-reviews-from-toms-tech-zone/"><u>Dive Into Digital: Tips and Reviews From Tom's Tech Zone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhancing-development-workflows-innovative-uses-of-chatgpt-and-vs-code/"><u>Enhancing Development Workflows: Innovative Uses of ChatGPT & VS Code</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-jailbreak-icloud-locked-iphone-xs-by-drfone-ios/"><u>How to jailbreak iCloud locked iPhone XS</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-reclaim-deleted-journal-entries-in-ios-notetaking-applications/"><u>How to Reclaim Deleted Journal Entries in iOS Notetaking Applications</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-set-up-miracast-in-windows-1011-fix-it-if-it-stops-working-solved/"><u>How to Set up Miracast in Windows 10/11; Fix It if It Stops Working? [Solved]</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-motorola-defy-2-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Motorola Defy 2 | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-oppo-f23-5g-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Oppo F23 5G Phone Password Without Factory Reset Full Guide Here</u></a></li>
-<li><a href="https://fox-that.techidaily.com/rejuvenating-your-apple-device-a-detailed-guide-to-full-resets-on-iphoneipad/"><u>Rejuvenating Your Apple Device: A Detailed Guide to Full Resets on iPhone/iPad</u></a></li>
-<li><a href="https://fox-that.techidaily.com/resetting-made-easy-a-simple-process-to-soft-reset-an-iphone-without-data-loss/"><u>Resetting Made Easy: A Simple Process to Soft Reset an iPhone Without Data Loss</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/revisiting-erased-reddit-topics-fast-and-efficient-ways-for-2024/"><u>Revisiting Erased Reddit Topics Fast & Efficient Ways for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/step-by-step-instructions-to-thaw-a-frozen-ios-smartphone/"><u>Step-by-Step Instructions to Thaw a Frozen iOS Smartphone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/struggling-with-non-appearing-iphone-notifications-try-these-7-fixes-now/"><u>Struggling with Non-Appearing iPhone Notifications? Try These 7 Fixes Now!</u></a></li>
-<li><a href="https://win-bits.techidaily.com/top-rated-no-cost-reflective-data-replication-tools-for-microsoft-windows-versions-xpvista71011/"><u>Top Rated No-Cost Reflective Data Replication Tools for Microsoft Windows Versions (XP/Vista/7/10/11)</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshoot-a-non-functional-tablet-touch-display-with-these-8-key-strategies/"><u>Troubleshoot a Non-Functional Tablet Touch Display with These 8 Key Strategies</u></a></li>
-<li><a href="https://fox-that.techidaily.com/why-is-siri-not-responding-on-your-ios-device-solve-these-common-glitches/"><u>Why Is Siri Not Responding on Your iOS Device? Solve These Common Glitches</u></a></li>
-<li><a href="https://fox-that.techidaily.com/why-isnt-my-facetime-working-uncover-15-effective-remedies-and-repairs/"><u>Why Isn't My FaceTime Working? Uncover 15 Effective Remedies and Repairs</u></a></li>
-<li><a href="https://fox-that.techidaily.com/your-iphone-wont-connect-to-your-computer-heres-the-fix/"><u>Your iPhone Won't Connect to Your Computer? Here's the Fix!</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-charting-your-financial-course-the-3-step-methodology-for-estimating-youtube-income-for-2024/"><u>[New] Charting Your Financial Course The 3-Step Methodology for Estimating YouTube Income for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-ultimate-freeze-frame-collection-for-mac-max-156-chars/"><u>[Updated] Ultimate Freeze Frame Collection for Mac (Max 156 Chars)</u></a></li>
+<li><a href="https://fox-that.techidaily.com/blur-free-iphone-images-discover-7-techniques-to-enhance-camera-clarity/"><u>Blur-Free iPhone Images: Discover 7 Techniques to Enhance Camera Clarity</u></a></li>
+<li><a href="https://techtrends.techidaily.com/facebook-groups-and-pages-how-to-add-many-images-simultaneously/"><u>Facebook Groups and Pages: How To Add Many Images Simultaneously</u></a></li>
+<li><a href="https://fox-that.techidaily.com/ineffective-control-center-on-iphones-try-these-8-corrective-measures/"><u>Ineffective Control Center on iPhones? Try These 8 Corrective Measures</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/navigating-the-strengths-and-flaws-in-marvels-avengers-an-in-depth-review/"><u>Navigating the Strengths and Flaws in Marvel’s Avengers - An In-Depth Review</u></a></li>
+<li><a href="https://fox-that.techidaily.com/spotify-stability-strategies-preventing-app-crashes-during-iphone-screen-locks/"><u>Spotify Stability Strategies: Preventing App Crashes During iPhone Screen Locks</u></a></li>
+<li><a href="https://fox-that.techidaily.com/struggling-with-broken-iphone-volume-keys-here-are-7-ways-to-get-them-working-again/"><u>Struggling With Broken iPhone Volume Keys? Here Are 7 Ways to Get Them Working Again</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/techniques-to-achieve-crystal-clear-youtube-soundtracks/"><u>Techniques to Achieve Crystal-Clear YouTube Soundtracks</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unilateral-earbud-error-how-to-rectify-for-2024/"><u>Unilateral Earbud Error How to Rectify for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlocking-iphones-hidden-functionality-force-restart-and-enter-recover-mode-techniques/"><u>Unlocking iPhone's Hidden Functionality: Force Restart and Enter Recover Mode Techniques</u></a></li>
+<li><a href="https://fox-that.techidaily.com/why-arent-siris-smart-tips-appearing-resolve-this-iphone-issue-now/"><u>Why Aren’t Siri's Smart Tips Appearing? Resolve This iPhone Issue Now</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/youtube-shorts-thumbnail-woes-a-quick-guide-to-solutions-for-2024/"><u>YouTube Shorts Thumbnail Woes A Quick Guide to Solutions for 2024</u></a></li>
 </ul></div>
 

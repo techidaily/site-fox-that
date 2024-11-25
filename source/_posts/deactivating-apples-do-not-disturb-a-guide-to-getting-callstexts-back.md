@@ -1,7 +1,7 @@
 ---
 title: "Deactivating Apple's Do Not Disturb: A Guide to Getting Calls/Texts Back"
-date: 2024-11-11T18:41:55.070Z
-updated: 2024-11-15T20:10:49.570Z
+date: 2024-11-19T17:28:56.342Z
+updated: 2024-11-25T00:22:07.851Z
 tags:
   - iphone
   - apple
@@ -27,11 +27,19 @@ thumbnail: https://thmb.techidaily.com/5397c89a05d7c549e3c941ac0bcf9ef244a3e9feb
 
 ![do not disturb and personal mode in iphone control center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/1-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Although Apple started with Do Not Disturb, the feature has since been expanded to Focus mode. Focus includes Do Not Disturb, Personal, Work, and so on. You can [set up different Focus modes](https://www.makeuseof.com/focus-mode-ideas-to-set-up-in-ios/) and customize them for different purposes.
 
  If you accidentally enabled**Work** mode instead of**Do Not Disturb** or**Personal** mode on your iPhone, you will certainly receive texts and calls from work colleagues because the latter wasn't made to deter people from your workplace.
 
  Therefore, before proceeding with the other suggestions in the list, access your iPhone's**Control Center** and check that you have the correct Focus mode turned on to match your activity.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Review Your Allowed Apps
 
@@ -44,30 +52,22 @@ thumbnail: https://thmb.techidaily.com/5397c89a05d7c549e3c941ac0bcf9ef244a3e9feb
 ![focus modes on iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/focus-modes.JPEG)
 
 <!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![do not disturb settings on iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/do-not-disturb-settings.JPEG)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![allowed apps on do not disturb mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/dnd-allowed-apps.JPEG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Close
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Disable Time-Sensitive Notifications
 
@@ -76,13 +76,6 @@ Close
  If you don't want to receive such notifications, go to your**Do Not Disturb** settings in the**Settings** app. Tap**Apps** and toggle off**Time-Sensitive Notifications** .
 
 ![disable time sensitive notifications for iphone do not disturb mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/3-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Alternatively, you can tap**Turn Off** for a specific app if you see its notifications pop up on your Lock Screen.
 
@@ -96,23 +89,9 @@ Close
 
 ![call settings for do not disturb mode on iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/dnd-favorite-calls.JPEG)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![change calls allowed on iphone do not disturb mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/dnd-allowed-calls.JPEG)
 
 Close
-
-<!-- affiliate ads begin -->
-<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
-  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Don't Allow Repeated Calls
 
@@ -123,10 +102,7 @@ Close
 ![turn off allow repeated calls for iphone do not disturb mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/2-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Turn Off or Hide Your Focus Status
@@ -149,6 +125,10 @@ Close
 
 ![automate schedule for iphone do not disturb mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/dnd-schedule-2.JPEG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![set time for iphone do not disturb mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/dnd-change-schedule.JPEG)
 
 Close
@@ -158,13 +138,6 @@ Close
  If you went through all the steps above and your iPhone's Do Not Disturb mode is still not working, try [restarting your iPhone](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) to see if it resolves the issue. Software glitches can sometimes prevent features like Do Not Disturb from functioning as intended, which you can fix with a simple reboot.
 
  And if you haven't,[update your iPhone to the latest iOS version](https://www.makeuseof.com/tag/update-iphone-ios-apps-data/) as well. Apple's software updates often come with bug fixes and patches for performance-related issues.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## No More Disruptions on Do Not Disturb Mode
 
@@ -189,16 +162,21 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-how-android-flips-video-frames-for-the-ages/"><u>[New] How Android Flips Video Frames for the Ages</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-building-a-successful-facebook-charity-competition/"><u>2024 Approved Building a Successful Facebook Charity Competition</u></a></li>
-<li><a href="https://fox-that.techidaily.com/beat-that-unwanted-amber-tint-fixes-for-iphone-display-problems/"><u>Beat That Unwanted Amber Tint: Fixes for iPhone Display Problems</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/best-15-free-4k-resolution-changers-transform-your-videos-from-4k-and-1080p-seamlessly/"><u>Best 15 Free 4K Resolution Changers: Transform Your Videos From 4K & 1080P Seamlessly</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fixing-iphone-mute-functionality-issues-a-guide-to-overcoming-unresponsive-silent-switches/"><u>Fixing iPhone Mute Functionality Issues: A Guide to Overcoming Unresponsive Silent Switches</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-get-siri-suggestions-back-on-your-iphone-screen/"><u>How to Get Siri Suggestions Back on Your iPhone Screen</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-infinix-smart-8-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Infinix Smart 8 Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-infinix-smart-7-hd-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Infinix Smart 7 HD? | Dr.fone</u></a></li>
-<li><a href="https://article-posts.techidaily.com/speed-settings-unveiled-customizing-your-snapchat-experience-for-2024/"><u>Speed Settings Unveiled Customizing Your Snapchat Experience for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/the-complete-fixes-for-iphone-incoming-call-failures/"><u>The Complete Fixes for iPhone Incoming Call Failures</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/webinar-technology-hacks-with-no-financial-cost-for-2024/"><u>Webinar Technology Hacks with No Financial Cost for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-is-there-a-superior-cameras-marketplace/"><u>[New] 2024 Approved Is There a Superior Cameras Marketplace?</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-a-step-by-step-approach-for-telegram-web-success/"><u>[Updated] 2024 Approved A Step-By-Step Approach for Telegram Web Success</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-crafting-stories-that-capture-attention-a-3-tiered-approach-to-fb-advertising-copywriting-for-2024/"><u>[Updated] Crafting Stories That Capture Attention A 3-Tiered Approach to FB Advertising Copywriting for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-reimagining-action-recording-with-intova-edge-x/"><u>[Updated] In 2024, Reimagining Action Recording with Intova Edge X</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-innovation-unleashed-cutting-edge-ar-games/"><u>[Updated] Innovation Unleashed Cutting-Edge AR Games</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-contrast-in-virtual-realm-highlights-and-low-points/"><u>[Updated] The Contrast in Virtual Realm Highlights and Low Points</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/tial-economic-education-top-15-youtube-picks/"><u>Essential Economic Education Top 15 YouTube Picks</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-avoid-spotify-disruptions-when-your-iphone-sleeps-mode-kicks-in/"><u>How to Avoid Spotify Disruptions When Your iPhone Sleeps Mode Kicks In</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-install-android-apks-with-a-double-click-in-windows-11/"><u>How to Install Android APKs With a Double-Click in Windows 11</u></a></li>
+<li><a href="https://fox-that.techidaily.com/safari-on-iphone-running-slow-learn-how-to-make-it-zoom-ahead-in-just-4-steps/"><u>Safari on iPhone Running Slow? Learn How to Make It Zoom Ahead in Just 4 Steps</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-guide-solving-your-airplay-connectivity-issues/"><u>Troubleshooting Guide: Solving Your AirPlay Connectivity Issues</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-non-responsive-keyboards-on-iphoneipad-top-6-fixes/"><u>Troubleshooting Non-Responsive Keyboards on iPhone/iPad - Top 6 Fixes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-uneven-sound-solutions-for-when-one-airpod-is-louder/"><u>Troubleshooting Uneven Sound: Solutions for When One AirPod Is Louder</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlocking-faster-mobile-download-rates-a-comprehensive-10-step-strategy/"><u>Unlocking Faster Mobile Download Rates: A Comprehensive 10-Step Strategy</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unstick-your-ios-device-3-quick-fixes-for-iphone-contacts-issues/"><u>Unstick Your iOS Device: 3 Quick Fixes for iPhone Contacts Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/why-isnt-my-sound-blaster-mic-working-fixing-common-problems/"><u>Why Isn't My Sound Blaster Mic Working? Fixing Common Problems</u></a></li>
 </ul></div>
 

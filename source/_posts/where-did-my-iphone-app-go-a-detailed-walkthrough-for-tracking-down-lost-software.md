@@ -1,7 +1,7 @@
 ---
 title: Where Did My iPhone App Go? A Detailed Walkthrough for Tracking Down Lost Software
-date: 2024-08-27T14:39:38.990Z
-updated: 2024-08-28T14:39:38.990Z
+date: 2024-11-24T03:37:37.771Z
+updated: 2024-11-25T01:38:15.035Z
 tags:
   - iphone
   - apple
@@ -38,6 +38,10 @@ Close
 
  In the future, if you want all the new apps you download to show on the iPhone Home Screen, open**Settings** \>**Home Screen** and select**Add to Home Screen** . This will put an end to new apps not appearing on the Home Screen.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Use Spotlight to Find the Missing App
 
  The second method is to use Spotlight search, which helps you find files and apps stored anywhere on your device.
@@ -52,11 +56,12 @@ Close
 
 ![use search to find an app in iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/img_5640.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Close
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ## 3\. Ask Siri to Open the Missing App
 
  You can use Siri to open downloaded apps that have disappeared from the Home Screen. If you have already [set up Siri on your iPhone](https://www.makeuseof.com/how-to-set-up-and-use-siri-iphone/) , simply activate the voice assistant and ask it to "Open \[app name\]."
@@ -70,9 +75,9 @@ Close
  If this is your situation, open all the app folders on your iPhone Home Screen and look for the missing app inside. Once you find it, you may want to drag the app icon out of the folder onto the Home Screen.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Check Screen Time to Unhide Restricted Apps
 
  You can use Screen Time to [hide and restrict iPhone apps](https://www.makeuseof.com/tag/hide-restrict-apps-iphone/) like Safari, Camera, FaceTime, Mail, and more. As a result, you won't find the app icons for these restricted apps on the Home Screen or the App Library. They won't even appear in Spotlight search results or be accessible via Siri.
@@ -83,20 +88,22 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![Tap Content & Privacy Restrictions in iPhone Screen Time Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/tap-content--privacy-restrictions-in-iphone-screen-time-settings.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Tap Allowed Apps in iPhone Screen Time Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/tap-allowed-apps-in-iphone-screen-time-settings.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Make Sure all iPhone apps are allowed and nothing is restricted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/make-sure-all-iphone-apps-are-allowed-and-nothing-is-restricted.png)
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Close
 
 ## 6\. Unhide Home Screen Pages to See All Your Apps
@@ -107,9 +114,6 @@ Close
 
  To avoid confusion in the future, learn more about [hiding and unhiding the Home Screen pages](https://www.makeuseof.com/hide-iphone-home-screen-pages/) .
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. Use App Store to Check If an App Is Installed or Not
 
  When an app is downloaded on your iPhone, the App Store page says**Open** (or**Update**). If the app is not downloaded, it says**Get** (or shows the**Download** cloud icon).
@@ -124,10 +128,11 @@ Close
 
 ![Search for app in App Store and tap Open](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/search-for-app-in-app-store-and-tap-open.png)
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Close
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Reset the Home Screen Layout to View All Apps Alphabetically
 
@@ -140,15 +145,13 @@ Here's how to reset your iPhone's Home Screen layout:
 
 ![Tap General in iPhone Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/tap-general-in-iphone-settings-app.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![From the bottom tap Reset in iPhone Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/from-the-bottom-tap-reset-in-iphone-settings.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Tap Reset Home Screen Layout in iPhone Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/tap-reset-home-screen-layout-in-iphone-settings.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -172,8 +175,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -181,4 +182,24 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-comprehensive-guide-screenflow-pro-on-macos/"><u>[New] 2024 Approved Comprehensive Guide ScreenFlow Pro on macOS</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-practical-steps-for-immediate-deletion-on-youtube-platform/"><u>[New] Practical Steps for Immediate Deletion on Youtube Platform</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-superior-soundtracks-compilation-for-vids/"><u>[Updated] Superior Soundtracks Compilation for Vids</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-achieving-professional-grade-vr-gameplay-captures/"><u>2024 Approved Achieving Professional-Grade VR Gameplay Captures</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-online-image-enhancement-melodic-twist/"><u>2024 Approved Online Image Enhancement Melodic Twist</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-the-prime-video-recording-devices-top-10/"><u>2024 Approved The Prime Video Recording Devices Top 10</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721447843063-6-common-problems-with-iphones-look-up-functionality-solutions-inside/"><u>6 Common Problems with iPhone's Look Up Functionality – Solutions Inside!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721475280220-cant-connect-iphone-with-itunesfinder-try-these-proven-fixing-tips/"><u>Can't Connect iPhone with iTunes/Finder? Try These Proven Fixing Tips!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721464513527-cant-see-app-icons-on-ios-expert-tips-for-restoring-every-single-icon-easily/"><u>Can't See App Icons on iOS? Expert Tips for Restoring Every Single Icon Easily.</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721470599182-engage-with-the-tiktok-community/"><u>Engage With the TikTok Community</u></a></li>
+<li><a href="https://win11.techidaily.com/excellence-in-organizing-top-windows-to-dos-revealed/"><u>Excellence in Organizing: Top Windows To-Dos Revealed</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/guida-passo-passo-trova-tutti-gli-archivi-sopravvalutati-sul-tuo-drive-eesterno-usando-due-metodi-facili/"><u>Guida Passo-Passo: Trova Tutti Gli Archivi Sopravvalutati Sul Tuo Drive Eesterno Usando Due Metodi Facili</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/nvidia-rtx-3080-overcoming-game-crashes/"><u>NVIDIA RTX 3080: Overcoming Game Crashes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721466674331-one-airpod-loud-and-proud-the-other-quiet-unravel-this-mystery-and-learn-the-four-solutions/"><u>One AirPod Loud and Proud, The Other Quiet – Unravel This Mystery & Learn the Four Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721466414905-struggling-with-hidden-alerts-on-your-iphone-discover-7-solutions/"><u>Struggling with Hidden Alerts on Your iPhone? Discover 7 Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721451693709-struggling-with-iphones-silentvolume-buttons-correct-with-these-eb-optimized-solutions/"><u>Struggling with iPhone's Silent/Volume Buttons? Correct With These Eb-Optimized Solutions!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721465627296-unlock-access-to-icloud-settings-on-your-device-top-4-fixes/"><u>Unlock Access to iCloud Settings on Your Device: Top 4 Fixes</u></a></li>
+</ul></div>
 

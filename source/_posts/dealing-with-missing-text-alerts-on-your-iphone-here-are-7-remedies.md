@@ -1,7 +1,7 @@
 ---
 title: Dealing with Missing Text Alerts on Your iPhone? Here Are 7 Remedies
-date: 2024-08-27T14:43:25.167Z
-updated: 2024-08-28T14:43:25.167Z
+date: 2024-11-22T16:23:39.454Z
+updated: 2024-11-25T04:22:58.065Z
 tags:
   - iphone
   - apple
@@ -40,6 +40,10 @@ thumbnail: https://thmb.techidaily.com/4d8b9cd04159907d6ffd8170ace131d919d2ce436
 
 ![iphone messages settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/iphone-messages-settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![selecting email address for imessage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/apple-imessage-settings.jpg)
 
 Close
@@ -50,6 +54,10 @@ Close
 
  Some people might be sending you messages to your email address unknowingly, so changing this particular setting will make it possible to receive these messages.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Make Sure You Have Cellular or Wi-Fi for iMessage
 
  If you are waiting for an iMessage from another iPhone user and aren't getting it, you could have a bad connection. iMessage requires Wi-Fi or cellular data to work.
@@ -58,14 +66,6 @@ Close
 
  To solve this issue, reconnect to Wi-Fi or cellular data. And if you don't have a good connection, you can try the next step.
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Bad Connection? Turn on Send as SMS
 
  If you don't have access to a stable internet connection, consider turning on the Send as SMS feature. This will enable you to send regular SMS texts instead of iMessage texts when you don't have service.
@@ -77,11 +77,13 @@ Close
 ![send as sms](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/send-as-sms.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Turn Off Message Filtering
 
 [iPhones allow you to filter text messages](https://www.makeuseof.com/how-to-filter-iphone-messages/) from unknown senders. While this is off by default, you may have accidentally turned it on. If that's the case, you could be missing text messages from numbers you don't have saved on your phone.
@@ -91,9 +93,14 @@ Close
 ![filter unknown senders](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/filter-unknown-senders.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Once you turn it off, head to the Messages app to find any unread messages that the filter hid. Filtered messages don't get deleted. Instead, they get stored in another folder. Once you turn off Message Filtering, you'll see them in the**Messages** app.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Reset Your Network Settings
 
@@ -107,9 +114,6 @@ Close
 
  After resetting your network settings, get someone to send you another text message. If you still can't receive it, you can always try [resetting your iPhone entirely](https://www.makeuseof.com/tag/how-to-factory-reset-iphone-ipad/) . However, that is time-consuming and might not work.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 7\. Contact Your Carrier
 
  If you tried the above fixes and still aren't receiving text messages on your iPhone, it's time to call your carrier. After all, there are many other ways your carrier can help you. For example, there could be a cell tower outage near you that they can inform you of, or you could have an issue with your account.
@@ -118,9 +122,6 @@ Close
 
  When calling your carrier, just let them know you aren't receiving text messages. If the carrier can't help you, consider switching to a different network provider unless you have a [carrier-locked phone](https://www.makeuseof.com/unlocked-vs-locked-phone/) .
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## iPhone Not Receiving Texts? There Are Things You Can Do
 
  You could miss important events or updates if you're not receiving text messages on your iPhone. This can be difficult for anybody. Because of this, you'll want to get this fixed as soon as possible. After all, you might have already missed some important messages and don't want to miss them anymore.
@@ -135,8 +136,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -144,4 +143,22 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-top-youtube-concepts-for-channel-motivation-and-creativity/"><u>[New] 2024 Approved Top YouTube Concepts for Channel Motivation and Creativity</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-film-substitutes-to-stream-top-7-picks-for-2024/"><u>[New] Film Substitutes to Stream - Top 7 Picks for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-strengthening-your-presence-networking-techniques-for-youtubers/"><u>[Updated] In 2024, Strengthening Your Presence Networking Techniques for YouTubers</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-top-10-live-broadcast-gaming-applications/"><u>2024 Approved Top 10 Live Broadcast Gaming Applications</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721460713867-cant-use-facetime-here-are-16-ways-to-fix-it-and-get-connected-again/"><u>Can't Use FaceTime? Here Are 16 Ways To Fix It and Get Connected Again!</u></a></li>
+<li><a href="https://facebook.techidaily.com/charting-connections-in-newly-designated-social-zones/"><u>Charting Connections in Newly Designated Social Zones</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/discover-the-best-free-video-conversion-tools-compatible-with-windows-11-and-mac-winxdvd-alternatives-available-now/"><u>Discover the Best Free Video Conversion Tools Compatible with Windows 11 & Mac – WinXDVD Alternatives Available Now!</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/1725287889928-dvd/"><u>DVD映像保護方法：種々のタイプと見分ける術を解き明かせ！</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-12-prominent-honor-80-pro-straight-screen-edition-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Honor 80 Pro Straight Screen Edition Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-dnd-troubles-here-are-eight-fixes-to-keep-you-in-the-loop-with-texts-and-calls/"><u>IPhone DND Troubles? Here Are Eight Fixes to Keep You in the Loop with Texts & Calls</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-wont-stay-connected-try-these-5-wi-fi-troubleshooting-tips/"><u>IPhone Won't Stay Connected? Try These 5 Wi-Fi Troubleshooting Tips!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcome-apple-transaction-denial-with-these-6-effective-fixes/"><u>Overcome Apple Transaction Denial with These 6 Effective Fixes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolve-iphone-qr-code-scanner-problems-quickly-with-these-10-proven-strategies/"><u>Resolve iPhone QR Code Scanner Problems Quickly With These 10 Proven Strategies</u></a></li>
+<li><a href="https://win-data.techidaily.com/the-ultimate-guide-to-spooky-ghost-website-designs-with-premium-templates-free-trials/"><u>The Ultimate Guide to Spooky Ghost Website Designs with Premium Templates (Free Trials)</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-7-quick-fixes-when-your-emojis-go-rogue-on-apple-gadgets/"><u>Troubleshooting: 7 Quick Fixes When Your Emojis Go Rogue on Apple Gadgets</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Stop Duplicate Ringers: Adjust Settings to Control When Your iPad Answers Calls From iPhone"
-date: 2024-08-27T14:43:01.416Z
-updated: 2024-08-28T14:43:01.416Z
+date: 2024-11-17T16:31:41.977Z
+updated: 2024-11-25T05:09:15.619Z
 tags:
   - iphone
   - apple
@@ -52,6 +52,10 @@ thumbnail: https://thmb.techidaily.com/63fd599c9be37636882facc86b0d27ee700429a93
 
 ![Creating a Focus Mode on iPadOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/how-to-stop-ipad-ringing-create-focus.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  On this screen, you can select the people and apps you want to manage notifications from. Select**Choose Apps** , then select**Allow Notifications From** at the top of the list. The list below will populate with a few apps, but you can add more.
 
  To add an app you want to allow notifications from, tap the**Add Apps** button on the left, then select it from the list of available apps. Once apps are added to the list, you can tap the checkbox in the top-left of each app to enable or disable notifications. There are [plenty of other aspects to Focus modes](https://www.makeuseof.com/focus-mode-ideas-to-set-up-in-ios/) , but this is all you need for notifications.
@@ -59,20 +63,19 @@ thumbnail: https://thmb.techidaily.com/63fd599c9be37636882facc86b0d27ee700429a93
 ![Allowing notifications for certain apps in a new Focus Mode on iPadOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/how-to-stop-ipad-ringing-allow-notification.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  After you've created your custom Focus mode, you need to enable it from the Control Center. Pull down from the top-right of the iPad's screen, then long-press on**Focus** and choose your custom Focus Mode. ​​​​​​
 
 ![Enabling a Focus Mode on iPadOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/how-to-stop-ipad-ringing-turn-focus-on.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  When you want to disable it, you can tap the**Focus** toggle.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Disable "Calls on Other Devices"
 
  All the other options we've looked at to stop your iPad from ringing involve addressing the issue on the iPad. These all have downsides, though, from silencing other notifications to having to use Focus Modes to manage the ringer. Those are fine options if you want to disable the ringer for a short while, but what about turning it off for good?
@@ -84,20 +87,19 @@ thumbnail: https://thmb.techidaily.com/63fd599c9be37636882facc86b0d27ee700429a93
 ![allow calls on other devices iPhone setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/allow-calls-on-other-devices-iphone-setting.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Choosing which devices to ring when your iPhone rings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/how-to-stop-ipad-ringing-iphone-calls-on-other-devices-custom.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Close
 
  If you want to disable calls everywhere but on your iPhone, disable the**Allow Calls on Other Devices** toggle. But if you only want to disable calls ringing on your iPad, leave this toggle enabled but look for your iPad under the "Allow Calls On" section further down on the screen, and then disable the slider next to it.
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Plenty of Ways to Silence iPad Calls
 
  For most people, the best way to silence calls ringing on your iPad is to disable the "Calls on Other Devices" setting on your iPhone, as it leaves the rest of the notifications on your iPad untouched. This lets you manage which devices do and don't ring when you receive an incoming call.
@@ -110,8 +112,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -119,4 +119,24 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-economical-action-cams-for-everyone/"><u>[New] 2024 Approved Economical Action Cams for Everyone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-fixing-obss-full-screen-freeze-up/"><u>[New] Fixing OBS's Full-Screen Freeze Up</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-focused-freedom-advanced-mounting-solutions-for-phonescams/"><u>2024 Approved Focused Freedom Advanced Mounting Solutions for Phones/Cams</u></a></li>
+<li><a href="https://fox-that.techidaily.com/cant-use-chatgpt-on-iphone-here-are-9-fixes-to-get-it-up-and-running-again/"><u>Can't Use ChatGPT on iPhone? Here Are 9 Fixes to Get It Up and Running Again!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/experiencing-face-id-failures-here-are-the-ultimate-14-strategies-for-iphone-users/"><u>Experiencing Face ID Failures? Here Are the Ultimate 14 Strategies for iPhone Users</u></a></li>
+<li><a href="https://app-tips.techidaily.com/expertly-vetted-leading-password-management-apps-for-2nny4-a-comprehensive-list-zdnet/"><u>Expertly Vetted Leading Password Management Apps for 2Nny4: A Comprehensive List | ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/improving-your-xboxs-joystick-responsiveness/"><u>Improving Your Xbox's Joystick Responsiveness</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-asus-rog-phone-8-pro-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your Asus ROG Phone 8 Pro Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-transform-your-content-reach-with-strategic-tagging-insight/"><u>In 2024, Transform Your Content Reach with Strategic Tagging Insight</u></a></li>
+<li><a href="https://extra-support.techidaily.com/lightning-fast-windowed-photo-reader-for-win11-for-2024/"><u>Lightning-Fast Windowed Photo Reader for Win11 for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/safari-image-woes-beat-the-glitch-discover-9-reliable-strategies-for-iphone-users/"><u>Safari Image Woes? Beat the Glitch: Discover 9 Reliable Strategies for iPhone Users</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-final-characters-unavailable-on-your-iphone-a-step-by-step-guide/"><u>Solving 'Final Characters Unavailable' On Your iPhone: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721476641071-struggling-with-your-iphones-vpn-access-here-are-7-fixes/"><u>Struggling with Your iPhone's VPN Access? Here Are 7 Fixes!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/understanding-iphone-image-recognition-glitches-6-key-factors-that-may-affect-your-experience/"><u>Understanding iPhone Image Recognition Glitches: 6 Key Factors That May Affect Your Experience</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlocking-secrets-why-your-iphone-or-ipad-may-not-allow-you-to-send-gifts-5-reasons/"><u>Unlocking Secrets: Why Your iPhone or iPad May Not Allow You to Send Gifts (5 Reasons)</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721445097263-unresponsive-iphone-vibration-on-silentring-settings-try-out-these-8-tricks/"><u>Unresponsive iPhone Vibration on Silent/Ring Settings? Try Out These 8 Tricks!</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/which-livestreaming-tool-wins-obs-or-bandicam-for-2024/"><u>Which Livestreaming Tool Wins OBS or Bandicam for 2024</u></a></li>
+</ul></div>
 

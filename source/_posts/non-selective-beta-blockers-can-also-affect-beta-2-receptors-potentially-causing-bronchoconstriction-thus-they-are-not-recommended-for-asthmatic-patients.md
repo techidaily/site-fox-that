@@ -1,7 +1,7 @@
 ---
 title: Non-Selective Beta Blockers Can Also Affect Beta-2 Receptors, Potentially Causing Bronchoconstriction; Thus They Are Not Recommended for Asthmatic Patients.
-date: 2024-08-27T14:42:15.173Z
-updated: 2024-08-28T14:42:15.173Z
+date: 2024-11-20T20:56:57.254Z
+updated: 2024-11-24T21:41:15.227Z
 tags:
   - iphone
   - apple
@@ -34,16 +34,14 @@ thumbnail: https://thmb.techidaily.com/9c499903b4fab811676ace6dccfa6523d6366f829
 2. Scroll down to the list of apps and turn on**App Store** .
 3. Then go to**Settings > App Store** , tap**App Downloads** and choose if you want your iPhone to ask permission before downloading apps over 200MB in size.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 2\. Make Sure Your Have Enough Free Space
 
 ![iPhone Storage settings showing 30 GB of free space](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2019/12/iPhone-Storage-settings-showing-30-GB-of-free-space.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Internal iPhone storage is not expandable. You can't download new apps on your iPhone if you've already filled up your device with photos, videos, music, and other content.
 
 When this happens, an alert should pop up saying "Not Enough Storage."
@@ -54,9 +52,6 @@ When this happens, an alert should pop up saying "Not Enough Storage."
 
 ![Apple ID Payment Information page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2019/12/Apple-ID-Payment-Information-page.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Even if you only download free apps from the App Store, you still need to have valid payment information and contact details linked to your Apple ID account. It's possible that the payment details on your account expired, so you should check if you need to update them.
 
 Update your Apple ID details from the iPhone Settings app:
@@ -69,9 +64,6 @@ Update your Apple ID details from the iPhone Settings app:
 
 ![Date & Time Settings with Set Automatically option in settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2019/12/Date-Time-Settings-with-Set-Automatically-option-in-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  As strange as it sounds, having the wrong date or time set might be the reason your iPhone won' let yout download or install apps from the App Store. This inconsistency causes communication problems between your device and Apple's servers.
 
 To correct the date and time on your iPhone:
@@ -81,9 +73,17 @@ To correct the date and time on your iPhone:
 
  If you can't edit the date and time, you may need to turn off**Content & Privacy Restrictions** on your iPhone first. We'll explain how to do that in the next step.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Turn Off Content and Privacy Restrictions
 
 ![Content & Privacy Restrictions for Installing Apps on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2019/12/Content-Privacy-Restrictions-for-Installing-Apps-on-iPhone.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The content and privacy restrictions on an iPhone let you limit settings, apps, or features to keep the device safe for children. However, those same limitations explain why you can't download new apps on your iPhone.
 
@@ -95,16 +95,10 @@ To edit your restrictions:
    1. Tap**iTunes & App Store Purchases > Installing Apps** .  
    2. Select**Allow** to enable installing apps.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Pause and Resume Your App Download
 
 ![Quick Action menu for downloading app with pause and prioritize options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2019/12/Quick-Action-menu-for-downloading-app-with-pause-and-prioritize-options.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Sometimes, if your iPhone won't download apps, all you need to do to fix it is pause the download, then resume it again. You can do this from the Home Screen on your device.
 
  While an app is downloading, it should appear on the Home screen as a darkened app icon with a progress circle in the middle. Tap it to pause the download—causing a pause symbol to appear. Wait a few seconds, then tap it again to resume the download.
@@ -117,9 +111,6 @@ To edit your restrictions:
 
 ![Apple Sign In window for iPhone App Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2019/12/Apple-Sign-In-window-for-iPhone-App-Store.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Like pausing and resuming downloads, you can fix a lot of software bugs by signing in to the App Store again. This often reveals issues with your Apple ID account, like an incorrect password or username.
 
  When you sign out of the App Store, it cancels any app downloads in progress. After signing in again, you need to download the app from the App Store again.
@@ -136,8 +127,9 @@ To sign out of the App Store:
 ![App Switcher view on iPhone with App Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2019/12/App-Switcher-view-on-iPhone-with-App-Store.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  After downloading an app to your iPhone, it might appear as a white icon with gray lines running through it. This happens when an app doesn't download or install correctly. You can usually fix it by restarting your device. This step can also be useful if your iPhone won't download any apps from the App Store, since you'll also restart the App Store itself.
 
  First, swipe up from the bottom of the screen (or double-click the Home button if your iPhone has one) to view the App Switcher. Then slide each app off the top of the screen to close it.
@@ -146,9 +138,17 @@ To sign out of the App Store:
 
  Wait 30 seconds after it powers off before pressing the**Side** or**Sleep/Wake** button again to restart it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 9\. Delete the App, Then Download It Again
 
 ![Delete Minecraft iPhone popup alert](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2019/12/Delete-Minecraft-iPhone-popup-alert.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Sometimes a download becomes so corrupted that the only way to fix it is deleting the half-downlaoded app and downloading it again from scratch. If you never used the app before, there's nothing to lose from doing this.
 
@@ -158,13 +158,18 @@ To sign out of the App Store:
 
  After deleting an app, restart your iPhone and download it again from the App Store.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 10\. Make Sure the App Works With Your iPhone
 
 ![App Store Information with Compatibility details](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2019/12/App-Store-Information-with-Compatibility-details.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Sometimes, you can't download or install an app because it's not compatible with your device. This might happen when the app depends on a piece of hardware your iPhone doesn't have—like Face ID or dual cameras—or when the app developer discontinues support for older versions of iOS.
 
  Open the**App Store** and search for the app you want to download. View the app details and scroll down to the**Information** section. Next to**Compatibility** , the App Store lists whether this app should work on your iPhone or not.
@@ -185,8 +190,6 @@ To sign out of the App Store:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -194,4 +197,22 @@ To sign out of the App Store:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-revolutionize-design-with-the-top-tier-plugins-for-ae/"><u>[New] In 2024, Revolutionize Design with the Top-Tier Plugins for AE</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-crafting-a-unique-identity-step-by-step-audio-customizations-on-android-phones/"><u>[Updated] 2024 Approved Crafting a Unique Identity Step-by-Step Audio Customizations on Android Phones</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-overcoming-limitation-invisible-video-recommendations/"><u>2024 Approved Overcoming Limitation Invisible Video Recommendations</u></a></li>
+<li><a href="https://fox-that.techidaily.com/addressing-location-not-available-errors-a-step-by-step-guide-to-get-your-iphone-back-online/"><u>Addressing 'Location Not Available' Errors: A Step-by-Step Guide to Get Your iPhone Back Online</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fix-a-broken-face-id-on-your-iphone-with-this-list-of-14-quick-solutions/"><u>Fix a Broken Face ID on Your iPhone with This List of 14 Quick Solutions</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-poco-x5-pro-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Poco X5 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-clip-on-lens-accessories-and-stabilizers/"><u>In 2024, Clip-On Lens Accessories and Stabilizers</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-the-best-methods-to-unlock-the-iphone-locked-to-owner-for-apple-iphone-12-mini-by-drfone-ios/"><u>In 2024, The Best Methods to Unlock the iPhone Locked to Owner for Apple iPhone 12 mini</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-deleted-images-that-wont-disappear-uncover-the-reasons-and-repairs/"><u>IPhone Deleted Images That Won't Disappear: Uncover the Reasons & Repairs</u></a></li>
+<li><a href="https://fox-that.techidaily.com/navigate-through-these-easiest-fixes-addressing-9-predominant-icloud-problems-in-ios/"><u>Navigate Through These Easiest Fixes: Addressing 9 Predominant iCloud Problems in iOS</u></a></li>
+<li><a href="https://fox-that.techidaily.com/revitalize-your-iphone-how-restoring-network-preferences-can-resolve-various-problems/"><u>Revitalize Your iPhone: How Restoring Network Preferences Can Resolve Various Problems</u></a></li>
+<li><a href="https://fox-that.techidaily.com/struggling-to-store-your-data-in-icloud-from-iphone-try-these-9-fixes/"><u>Struggling to Store Your Data in iCloud From iPhone? Try These 9 Fixes</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ing-on-youtube-the-guide-to-affiliates-for-2024/"><u>Thriving on YouTube The Guide to Affiliates for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/s-richest-content-creator-on-youtube/"><u>World's Richest Content Creator on YouTube</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/be-foundations-selecting-the-right-equipment-for-2024/"><u>YouTube Foundations Selecting the Right Equipment for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: 6 Remedies If Your AirPods Refuse To Alternate Between iPhones and iPads
-date: 2024-11-14T20:10:25.948Z
-updated: 2024-11-15T17:03:31.392Z
+date: 2024-11-19T16:39:14.130Z
+updated: 2024-11-24T18:37:12.724Z
 tags:
   - iphone
   - apple
@@ -60,30 +60,17 @@ Close
 ![General Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/01/5-iphone-general.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![About iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/01/6-iphone-about.png)
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Close
 
  If you’re running iOS 13 or earlier, head back to the previous screen and tap**Software Update** . As long as your iPhone or iPad is compatible with iOS 14 or iPadOS 14 or later, you should see an option to upgrade the system software here.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Update the Operating System on Mac
@@ -92,16 +79,13 @@ Close
 
 ![Checking the system software version on Mac.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/1-macos-version.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Confirm You’re Using the Same Apple ID on Each Device
 
  To use automatic AirPods switching, you must be signed in to the same Apple ID across all of your Apple devices. If not, your AirPods will not switch between them automatically.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How to Check Your Apple ID on an iPhone and iPad
 
@@ -124,10 +108,7 @@ Close
 ![Checking the Apple ID on a Mac.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/2-apple-id.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Enable Automatic Audio Switching
@@ -165,13 +146,6 @@ Follow these steps to enable automatic switching on a Mac:
 
 ![Checking the AirPods settings on Mac.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/3-airpods-settings.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Upgrade Your AirPods Firmware
 
  Your AirPods will not switch between Apple devices if they don’t run firmware version 3A283 or later. Typically, this isn’t something you need to worry about, since your AirPods upgrade to the latest firmware on their own.
@@ -187,34 +161,26 @@ Follow these steps to enable automatic switching on a Mac:
 ![General Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/01/19-general-settings.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![About iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/01/20-about-iphone.png)
 
-![AirPods Firmware Version](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/01/21-firmware-version.png)
-
 <!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![AirPods Firmware Version](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/01/21-firmware-version.png)
 
 Close
 
  If you see an outdated firmware version number (you can check the latest firmware version on the [Wikipedia page for AirPods](https://en.wikipedia.org/wiki/AirPods) ), you must install the latest firmware on your AirPods. While there’s no option to do this manually, it’s possible to “nudge” your AirPods into upgrading the firmware.
 
  To do that, put your AirPods in their charging case or Smart Case and connect them to a power source. Then, leave your iPhone next to your AirPods and connected to Wi-Fi. Check back again after 15–30 minutes. The firmware on your AirPods should have updated automatically in the meantime.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Reset Your AirPods
 
@@ -230,11 +196,23 @@ Here’s how to reset your AirPods:
 
 ![Connection in progress.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/5-airpods-connecting.PNG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Connection established.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/6-airpods-connected.PNG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
  You don’t have to reconnect your AirPods to each of your Apple devices; they should pair automatically using your Apple ID after connecting to the first device.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Get Your AirPods Switching Automatically
 
@@ -255,15 +233,16 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-boosting-your-businesss-productivity-with-top-fb-planners/"><u>[New] Boosting Your Business's Productivity with Top FB Planners</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-directly-connect-youtube-tunes-to-imovie-seamlessly/"><u>[Updated] Directly Connect YouTube Tunes to iMovie Seamlessly</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/eradicating-the-google-safety-alert-infection-a-step-by-step-guide-with-malwarefox/"><u>Eradicating the Google Safety Alert Infection: A Step-by-Step Guide with MalwareFox</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-enable-landscape-orientation-on-your-iphone-when-it-stays-in-portrait/"><u>How to Enable Landscape Orientation on Your iPhone When It Stays in Portrait</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-oppo-find-x7-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Oppo Find X7 to Other Android devices | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-realme-c55-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Realme C55 | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/master-the-art-of-resetting-your-iphone-techniques-for-immediate-power-off-and-initiating-recovery-settings/"><u>Master the Art of Resetting Your iPhone: Techniques for Immediate Power-Off and Initiating Recovery Settings</u></a></li>
-<li><a href="https://fox-that.techidaily.com/pharmacogenomics-is-becoming-increasingly-important-in-understanding-individual-responses-to-beta-blockers-based-on-genetic-differences-in-drug-metabolism.m11/"><u>Pharmacogenomics Is Becoming Increasingly Important in Understanding Individual Responses to Beta Blockers Based on Genetic Differences in Drug Metabolism</u></a></li>
-<li><a href="https://fox-that.techidaily.com/top-solutions-how-to-correct-the-yellow-discoloration-on-your-iphone-display/"><u>Top Solutions: How to Correct the Yellow Discoloration on Your iPhone Display</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/bes-economic-model-month-to-month-income/"><u>YouTube's Economic Model Month-to-Month Income?</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-quickvid-simplified-w11-screen-capture-software/"><u>[New] 2024 Approved QuickVid Simplified W11 Screen Capture Software</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-optimal-mac-recorded-videos-for-snapshifts-for-2024/"><u>[Updated] Optimal Mac-Recorded Videos for Snapshifts for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-tailored-screen-recording-guide-for-your-lenovo-device/"><u>2024 Approved Tailored Screen Recording Guide for Your Lenovo Device</u></a></li>
+<li><a href="https://fox-that.techidaily.com/combat-instagram-slowdowns-top-six-fixes-for-android-and-iphone-users/"><u>Combat Instagram Slowdowns: Top Six Fixes for Android & iPhone Users</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-resume-use-of-an-inactive-apple-tablet-or-phone/"><u>How To Resume Use Of An Inactive Apple Tablet or Phone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-jovial-access-key-strategies/"><u>In 2024, Jovial Access Key Strategies</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-honor-70-lite-5g-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Honor 70 Lite 5G</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-tethering-issues-heres-how-to-restore-connectivity-easily/"><u>IPhone Tethering Issues? Here's How to Restore Connectivity Easily</u></a></li>
+<li><a href="https://fox-that.techidaily.com/missing-texts-on-iphone-heres-how-to-restore-sync-with-android-phones/"><u>Missing Texts on iPhone? Here's How to Restore Sync with Android Phones</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/skipping-queues-a-guide-to-purchasing-apples-latest-macbook-pro-and-mac-mini/"><u>Skipping Queues: A Guide to Purchasing Apple's Latest MacBook Pro & Mac Mini</u></a></li>
+<li><a href="https://fox-that.techidaily.com/understanding-your-iphones-offline-status-reasons-and-solutions/"><u>Understanding Your iPhone's 'Offline' Status: Reasons & Solutions</u></a></li>
 </ul></div>
 

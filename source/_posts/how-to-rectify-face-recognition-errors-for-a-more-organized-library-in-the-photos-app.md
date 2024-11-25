@@ -1,7 +1,7 @@
 ---
 title: How to Rectify Face Recognition Errors for a More Organized Library in the Photos App
-date: 2024-08-27T14:41:17.596Z
-updated: 2024-08-28T14:41:17.596Z
+date: 2024-11-19T03:28:17.422Z
+updated: 2024-11-24T16:33:03.020Z
 tags:
   - iphone
   - apple
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/eda53d482272507886f33101cf7c17fbcff2ff9c0
 
  Here's how you can review photos of identified people in the Photos app and fix any cases of mistaken identity, where your iPhone has tagged one person as someone else.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Review People in Photos on an iPhone or iPad
 
  To search for any misidentified photos of someone, you should first review your confirmed and uncategorized photos for that person to help your device learn what each person is supposed to look like. Here's how to do that:
@@ -33,9 +37,17 @@ thumbnail: https://thmb.techidaily.com/eda53d482272507886f33101cf7c17fbcff2ff9c0
 
 ![confirm person](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/confirm-person.PNG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Close
 
  Read More:[Tips That Will Help You Master the People Album in Photos](https://www.makeuseof.com/tips-to-master-people-album-photos-iphone/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Fix Misidentified People in Photos on iPhone or iPad
 
@@ -48,13 +60,18 @@ Close
 
 ![select photos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/select-photos.PNG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![this is not X option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/this-is-not-X-option.PNG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Fix Misidentified People in Photos on a Mac
 
  Removing photos from another person's album on a Mac is just as easy as it is on your iPhone. Follow these steps to do so:
@@ -67,26 +84,17 @@ Close
 
 ![Person is not in this photo option in Photos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/Person-is-not-in-this-photo-option-in-Photos.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ## Easily Sort Pictures With the People Album
 
  The People album in Photos is a great way to view your photo library in an organized way. You can easily look back at all your memories with a particular person without needing to scroll past a sea of unrelated pictures.
 
  However, having misidentified photos in the wrong albums can be quite a nuisance to deal with. Fortunately, the problem has a relatively quick and easy fix. You can review uncategorized photos to avoid the problem in the future, and you can remove any mismatched pictures you stumble across using the Share button.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -95,4 +103,26 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-beyond-ustream-live-stream-platforms-reviewed/"><u>[New] Beyond Ustream Live Stream Platforms Reviewed</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-gentle-silence-how-to-fade-out-music-in-adobe-editing/"><u>[Updated] Gentle Silence How to Fade Out Music In Adobe Editing</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-online-and-offline-photo-fusion-guide/"><u>[Updated] Online and Offline Photo Fusion Guide</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-the-7-best-total-war-games-for-2024/"><u>[Updated] The 7 Best Total War Games for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/cant-send-texts-on-your-iphone-discover-10-essential-fixes/"><u>Can't Send Texts on Your iPhone? Discover 10 Essential Fixes!</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/conquer-the-world-of-video-downloads-software-or-freely-whats-best-for-you-in-2024/"><u>Conquer the World of Video Downloads Software or Freely, What's Best for You, In 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/extended-iphones-sleep-time-troubleshooting-quick-fixes-to-try/"><u>Extended iPhones Sleep Time Troubleshooting - Quick Fixes to Try!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-incomplete-or-failed-whatsapp-backups-tips-for-using-icloud-effectively/"><u>Fixing Incomplete or Failed WhatsApp Backups: Tips for Using iCloud Effectively</u></a></li>
+<li><a href="https://win-able.techidaily.com/football-manager-2021-pc-stability-issues-resolved-permanent-fix-guides/"><u>Football Manager 2021 PC Stability Issues Resolved – Permanent Fix Guides</u></a></li>
+<li><a href="https://fox-that.techidaily.com/handling-apples-payment-issues-6-strategies-for-a-successful-transaction/"><u>Handling Apple's Payment Issues: 6 Strategies for a Successful Transaction</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-unresponsive-computer-systems-expert-advice-for-a-smooth-run/"><u>How To Fix Unresponsive Computer Systems: Expert Advice for a Smooth Run</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-your-motorola-razr-40-ultra-lock-screen-password-by-drfone-android/"><u>How to Reset your Motorola Razr 40 Ultra Lock Screen Password</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-from-apple-iphone-se-2022-to-samsung-simplified-guide-drfone-by-drfone-transfer-from-ios/"><u>How To Transfer From Apple iPhone SE (2022) to Samsung Simplified Guide | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-imessage-hiccups-fixing-messages-that-wont-send-or-deliver/"><u>IPhone iMessage Hiccups: Fixing Messages That Won't Send or Deliver</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721466179049-keep-data-members-private-or-protected/"><u>Keep Data Members Private or Protected</u></a></li>
+<li><a href="https://windows11.techidaily.com/nullify-specification-shortfalls-alerts-in-win11/"><u>Nullify Specification Shortfalls Alerts in Win11</u></a></li>
+<li><a href="https://fox-that.techidaily.com/recharge-more-drain-less-mastering-iphone-battery-calibration-in-a-few-easy-stages/"><u>Recharge More, Drain Less: Mastering iPhone Battery Calibration in a Few Easy Stages</u></a></li>
+<li><a href="https://fox-that.techidaily.com/step-by-step-guide-eliminating-iphone-usb-c-water-intrusion-alarms/"><u>Step-by-Step Guide: Eliminating iPhone USB-C Water Intrusion Alarms</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlocking-iphone-photo-potential-discover-these-amazing-8-camera-roll-optimization-techniques/"><u>Unlocking iPhone Photo Potential: Discover These Amazing 8 Camera Roll Optimization Techniques</u></a></li>
+</ul></div>
 

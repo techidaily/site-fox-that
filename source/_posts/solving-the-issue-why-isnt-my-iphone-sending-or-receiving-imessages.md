@@ -1,7 +1,7 @@
 ---
 title: "Solving the Issue: Why Isn't My iPhone Sending or Receiving iMessages?"
-date: 2024-08-27T14:40:32.804Z
-updated: 2024-08-28T14:40:32.804Z
+date: 2024-11-23T20:53:59.890Z
+updated: 2024-11-25T01:41:16.394Z
 tags:
   - iphone
   - apple
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/31170fc82b47adef76e35b1dbe5e6312865cece8c
 
  Not everyone has this feature activated either. You can toggle read receipts for yourself by going to**Settings > Messages > Send Read Receipts** , where you can turn this function on or off. In fact, this subsection of Settings is essential if you have issues with iMessage.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Does iMessage Say "Delivered" When It's Not?
 
  Sometimes, a message will say it's Delivered, but the recipient will insist they never got it. Don't automatically think they're lying: there are many reasons this might happen. It could be a quirk of iMessage, but it could also be that the message was delivered to another device.
@@ -37,8 +41,9 @@ thumbnail: https://thmb.techidaily.com/31170fc82b47adef76e35b1dbe5e6312865cece8c
 ![iphones in multiple colors](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphones-in-multiple-colors.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Image Credit:[Apple](https://www.apple.com/newsroom/2023/03/hello-yellow-apple-introduces-new-iphone-14-and-iphone-14-plus)
 
 So, what does it mean when an iMessage doesn't say Delivered?
@@ -61,25 +66,19 @@ So, what does it mean when an iMessage doesn't say Delivered?
 
  Review the options at**Settings > Cellular** (or**Mobile Data**) if you're relying on roaming. If you do have service, you'll simply have to wait until the recipient connects too.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ### Do You Have iMessage Turned On?
 
 ![iphone imessages won't deliver if this is turned off](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/03/iMessages-off.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![turn imessages on if texts won't deliver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/03/iMessage.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 Close
 
  This could be a quick fix to your problem that's easy to overlook. Navigate to**Settings > Messages** .[iMessage should already be turned on](https://www.makeuseof.com/how-to-activate-imessage/) ; if not, alter this now. Even if iMessage is already on, it's worth toggling off then back on again. Wait a few moments while it reactivates.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Send as SMS Instead of iMessage
 
@@ -97,38 +96,34 @@ Close
 
  No matter which model you have, the screen will turn black until the Apple logo appears. You can let go of the buttons at this point and your iPhone will power on as usual.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ### Is iOS Up to Date?
 
  Apple regularly releases patches to minor issues through iOS updates. This could include problems with iMessage. Check whether you're running the latest version of iOS by going to**Settings > General > Software Update** .
 
  This will automatically check if your software is updated and, if not, suggest an installation. You won't lose any photos or messages, although some apps may ask you to log in again after updating.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Apple ID: Sign Out and Back In
 
  This is one of the most common fixes for iMessage troubles: you just need to sign out of your Apple ID and back in again. Go to**Settings > Messages > Send & Receive** and tap your ID. You should then**Sign Out** , after which all your details, except the phone number, will disappear. Select**Use your Apple ID for iMessage** and sign back in. This may take a few moments.
 
 ![iphone cell number and email address](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/03/iMessage-send-and-receive.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![send and receive from phone number and email address](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/03/Apple-ID.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Close
 
  You can send an iMessage via both phone numbers and email addresses. If there's only one person you're having trouble sending to, check which email address you have listed for them. Do you have any details listed for their contact? Perhaps their Apple ID uses a different address? Ask them in person or via another messaging service if possible.
 
  To add an email address, go to**Contacts** , select a name, and choose**Edit** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ### Should You Delete Previous Messages?
 
  Have you ever tried sending an email that was too large? It stays in your outbox, attempting to send again and again. Eventually, you have to give up and delete it. That's what you should try here too. This primarily applies when iMessages won't deliver to only one or two contacts.
@@ -140,8 +135,9 @@ Close
 ![hold sms imessage to delete](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/03/text-options.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![mass delete sms imessages](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/03/select-text-messages.jpg)
 
 Close
@@ -156,11 +152,19 @@ Close
 
  They'll activate a new SIM and you'll have to wait until your old one has no service before swapping to the new card. Transferring between SIMs can take up to 24 hours. From personal experience, it rarely takes longer than an hour before carrier settings are restored.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Reset All Settings
 
  This should really be your last resort because you'll need to sign into accounts and set up network settings like Wi-Fi and VPNs again. Most importantly,**this does not delete your data** .
 
  Go to**Settings > General > Reset > Reset All Settings** —careful you don't select anything else, as there's also the option to erase everything. You may need to sign back into your Apple ID afterwards. This should patch any Settings-related glitches, so it's worth remembering in case you have further issues with your iPhone.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## iMessage Won't Deliver: Is My Phone Number Blocked?
 
@@ -168,9 +172,6 @@ Close
 
  This thought will trouble you, but if you can contact that person elsewhere (on Facebook, Twitter, or Snapchat, for example), then they're unlikely to have blocked your phone number.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ## Why Is My iMessage Still Not Delivering?
 
  If you've tried everything above and iMessage still won't deliver, there are further possibilities to entertain. The first is that there's nothing wrong with your phone; the problem is with the recipient's device. This is likely if messages to your other contacts are delivered correctly, although that's not always the case.
@@ -183,8 +184,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -192,4 +191,17 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-instagrams-video-selfie-truthfulness-a-critical-look/"><u>[Updated] In 2024, Instagram's Video Selfie Truthfulness – A Critical Look</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-pioneering-methods-for-increased-srt-on-macoswindows/"><u>[Updated] In 2024, Pioneering Methods for Increased SRT on macOS/Windows</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-transform-your-images-into-nfts-the-best-generators-listed/"><u>2024 Approved Transform Your Images Into NFTs - The Best Generators Listed</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721466463293-control-your-gadgets-sounds-a-guide-to-preventring-ipad-alerts-on-iphone-call/"><u>Control Your Gadgets' Sounds: A Guide to Preventring iPad Alerts on iPhone Call.</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-zero-to-zoom-expertise-in-a-flash-for-2024/"><u>From Zero to Zoom Expertise in a Flash for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On Vivo Y27 4G? | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721475149782-iphone-control-center-issues-resolved-follow-these-8-strategies-to-restore-functionality/"><u>IPhone Control Center Issues Resolved: Follow These ✨8 Strategies to Restore Functionality</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721454523969-say-goodbye-to-airdrop-problems-swiftly-solve-them-using-these-16-key-guides/"><u>Say Goodbye to AirDrop Problems – Swiftly Solve Them Using These 16 Key Guides</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723862734532-unleash-ultimate-gaming-potential-with-the-budget-friendly-16-inch-dell-g16-just-949-awaits-you/"><u>Unleash Ultimate Gaming Potential with the Budget-Friendly 16-Inch Dell G16 - Just $949 Awaits You!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721469384103-why-is-my-iphone-slow-uncover-6-reasons-and-fix-them-easily/"><u>Why Is My iPhone Slow? Uncover 6 Reasons and Fix Them Easily!</u></a></li>
+</ul></div>
 

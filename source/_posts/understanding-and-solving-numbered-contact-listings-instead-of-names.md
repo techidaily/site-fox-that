@@ -1,7 +1,7 @@
 ---
 title: Understanding and Solving Numbered Contact Listings Instead of Names
-date: 2024-08-27T14:44:06.897Z
-updated: 2024-08-28T14:44:06.897Z
+date: 2024-11-22T16:07:25.183Z
+updated: 2024-11-24T16:26:00.705Z
 tags:
   - iphone
   - apple
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/c3d35b16437bab1ad5b7b686beca2df570e5510e7
 
  Your browser does not support the video tag.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Does Your Contact Name Disappear?
 
  When you initially see the Messages app showing a phone number instead of a contact name, you may think someone random has messaged you.
@@ -37,8 +41,9 @@ thumbnail: https://thmb.techidaily.com/c3d35b16437bab1ad5b7b686beca2df570e5510e7
  In the case that this doesn't work and you are still facing the same issue, follow the fixes below.
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Add or Remove the Country Code
 
  Sometimes the issue may be caused by Messages not associating phone numbers without a country code with their entries in your contact list. For example, the international dialing code for the UK is +44\. If Messages thought that +447981234532 was different from 07981234532, it would show the chat under a phone number.
@@ -52,16 +57,12 @@ thumbnail: https://thmb.techidaily.com/c3d35b16437bab1ad5b7b686beca2df570e5510e7
 
 ![Contact Edit menu in iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/contact-edit-menu-in-ios.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Add Country Code to Number](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Fix-Messages-Not-Showing-Contact-Number.jpg)
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Close
 
  You'll have to do this directly from the Contacts app because Messages doesn't recognize the phone number as a contact and hence won't make the change.
@@ -70,10 +71,6 @@ Close
 
  Once you fix a phone number, you'll see Messages will automatically merge the conversations split across different chats.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## Toggle iCloud Contacts
 
  Some people have reported iCloud contacts being the reason behind this issue. If you are syncing your contacts with your iCloud account, it might be worth re-syncing them, which might fix the issue.
@@ -90,20 +87,19 @@ To do this, follow these steps on your iPhone:
 
 ![Settings on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Fix-Messages-Not-Showing-iCloud.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ![Password and Security in iPhone iCloud Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/2FA-iPhone-Password-and-Security.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Contacts in iCloud Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Fix-Messages-Not-Showing-iCloud-Contacts.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Close
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix Messages Showing Phone Numbers Instead of Contact Names
 
@@ -115,8 +111,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -124,4 +118,19 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-chromebooks-free-screen-capture-leaders-reviewed/"><u>[New] Chromebook's Free Screen Capture Leaders Reviewed</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-exploring-the-power-of-gopro-burst-mode/"><u>[New] Exploring the Power of GoPro Burst Mode</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-step-by-step-how-to-convert-and-download-vids-from-social-media-to-mp3s-for-2024/"><u>[New] Step-by-Step How to Convert and Download Vids From Social Media to MP3s for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-tecno-camon-20-premier-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Tecno Camon 20 Premier 5G</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721468064262-cant-enjoy-depth-effect-at-iphone-xsxr-lock-screen-in-ios-16-here-are-7-fixes-to-try-now/"><u>Can't Enjoy Depth Effect at iPhone XS/XR Lock Screen in iOS 16? Here Are 7 Fixes to Try Now</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/content-creation-6-drawbacks-to-consider-before-embracing-automated-chatbot-solutions/"><u>Content Creation: 6 Drawbacks to Consider Before Embracing Automated Chatbot Solutions</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/expert-guide-enhancing-your-videos-with-flawless-sd-to-hd-upscaling-processes-that-preserve-image-integrity/"><u>Expert Guide: Enhancing Your Videos with Flawless SD to HD Upscaling Processes that Preserve Image Integrity</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-unresponsive-screen-on-iphone-try-these-10-proven-methods-to-fix-ghost-touch/"><u>Fixing Unresponsive Screen on iPhone? Try These 10 Proven Methods to Fix Ghost Touch</u></a></li>
+<li><a href="https://fox-that.techidaily.com/silence-syncing-devices-how-to-stop-your-ipad-from-ringing-with-an-active-iphone-call/"><u>Silence Syncing Devices: How to Stop Your iPad From Ringing with an Active iPhone Call</u></a></li>
+<li><a href="https://fox-that.techidaily.com/simplify-your-digital-album-merging-duplicate-images-across-all-your-apple-devices/"><u>Simplify Your Digital Album: Merging Duplicate Images Across All Your Apple Devices</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/top-youtube-name-makers-plus-creative-idea-sparking-techniques-for-2024/"><u>Top YouTube Name Makers + Creative Idea Sparking Techniques for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/trouble-with-aol-on-your-phone-heres-how-you-can-get-it-working-again-in-6-ways/"><u>Trouble with AOL on Your Phone? Here's How You Can Get It Working Again in 6 Ways</u></a></li>
+</ul></div>
 

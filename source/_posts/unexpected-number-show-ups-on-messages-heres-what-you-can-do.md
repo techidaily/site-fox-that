@@ -1,7 +1,7 @@
 ---
 title: Unexpected Number Show-Ups on Messages? Here’s What You Can Do!
-date: 2024-09-27T20:47:23.545Z
-updated: 2024-10-01T16:58:37.420Z
+date: 2024-11-17T22:31:30.766Z
+updated: 2024-11-24T19:23:53.593Z
 tags:
   - iphone
   - apple
@@ -35,13 +35,6 @@ thumbnail: https://thmb.techidaily.com/8e153531bfb1cc2249d2aa88119afd6c59e7a577b
 
  However, this is usually a temporary issue and should fix itself. If this isn't the case, you can try a few quick fixes to get things back to normal quickly.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Restart Your iPhone
 
  A quick fix to getting your contact names back instead of phone numbers is to [restart your iPhone](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) . As with many other issues, a quick reboot usually does the trick, and you should be able to see your contact names instead of phone numbers in Messages.
@@ -49,10 +42,7 @@ thumbnail: https://thmb.techidaily.com/8e153531bfb1cc2249d2aa88119afd6c59e7a577b
  In the case that this doesn't work and you are still facing the same issue, follow the fixes below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Add or Remove the Country Code
@@ -70,6 +60,10 @@ thumbnail: https://thmb.techidaily.com/8e153531bfb1cc2249d2aa88119afd6c59e7a577b
 
 ![Add Country Code to Number](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Fix-Messages-Not-Showing-Contact-Number.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Close
 
  You'll have to do this directly from the Contacts app because Messages doesn't recognize the phone number as a contact and hence won't make the change.
@@ -79,10 +73,7 @@ Close
  Once you fix a phone number, you'll see Messages will automatically merge the conversations split across different chats.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Toggle iCloud Contacts
@@ -103,16 +94,17 @@ To do this, follow these steps on your iPhone:
 
 ![Password and Security in iPhone iCloud Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/2FA-iPhone-Password-and-Security.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Contacts in iCloud Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Fix-Messages-Not-Showing-iCloud-Contacts.jpg)
 
-Close
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+Close
 
 ## Fix Messages Showing Phone Numbers Instead of Contact Names
 
@@ -133,18 +125,16 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-flawless-pixel-processor-windowsmac/"><u>[New] Flawless Pixel Processor (Windows/Mac)</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-secure-surveillance-skills-redacting-and-obscuring-personal-information/"><u>[New] In 2024, Secure Surveillance Skills Redacting and Obscuring Personal Information</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-mastering-the-craft-how-to-produce-mukbang-videos/"><u>[Updated] Mastering the Craft How to Produce Mukbang Videos</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-simplifying-media-share-fb-movies-for-whatsapp-users-for-2024/"><u>[Updated] Simplifying Media Share FB Movies for WhatsApp Users for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-demystifying-macos-capture-feature-for-professional-use/"><u>2024 Approved Demystifying macOS Capture Feature for Professional Use</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/a-how-to-guide-on-bypassing-the-iphone-11-pro-icloud-lock-by-drfone-ios/"><u>A How-To Guide on Bypassing the iPhone 11 Pro iCloud Lock</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/best-video-editing-tools-using-images/"><u>Best Video Editing Tools Using Images</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fixing-instagram-delay-issues-a-guide-with-six-effective-methods-for-android-and-ios/"><u>Fixing Instagram Delay Issues: A Guide with Six Effective Methods for Android and iOS</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-resolve-sudden-touch-responsiveness-problems-on-your-iphone-with-10-tactics/"><u>How to Resolve Sudden Touch Responsiveness Problems on Your iPhone with 10 Tactics</u></a></li>
-<li><a href="https://fox-that.techidaily.com/steps-to-take-when-the-proximity-function-on-your-iphone-fails/"><u>Steps to Take When the Proximity Function on Your iPhone Fails</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-guide-addressing-the-issue-of-numbered-contacts-in-messages/"><u>Troubleshooting Guide: Addressing the Issue of Numbered Contacts in Messages</u></a></li>
-<li><a href="https://fox-that.techidaily.com/unlock-the-secrets-of-forcing-a-reset-on-iphones-plus-entering-into-recovery-mode-easily/"><u>Unlock the Secrets of Forcing a Reset on iPhones + Entering Into Recovery Mode Easily</u></a></li>
-<li><a href="https://fox-that.techidaily.com/what-to-do-when-iphone-contacts-go-missing-practical-fixes-for-users/"><u>What to Do When iPhone Contacts Go Missing: Practical Fixes for Users</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/elevating-your-creations-with-tiktok-tricks/"><u>Elevating Your Creations with TikTok Tricks</u></a></li>
+<li><a href="https://fox-that.techidaily.com/imessage-glossary-guide-dealing-with-contacts-showing-as-numbers-not-names/"><u>IMessage Glossary Guide: Dealing with Contacts Showing as Numbers, Not Names</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-oppo-find-x7-ultra-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Oppo Find X7 Ultra Device SIM</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-tecno-phantom-v-fold-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Tecno Phantom V Fold to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-seamless-image-transformations-with-our-6-best-erasers-online/"><u>In 2024, Seamless Image Transformations with Our 6 Best Erasers Online</u></a></li>
+<li><a href="https://fox-that.techidaily.com/noise-free-listening-a-step-by-step-guide-to-repairing-glitchy-airpods-audio/"><u>Noise-Free Listening: A Step-by-Step Guide to Repairing Glitchy AirPods Audio</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-correct-loadlibrary-failure-code-87/"><u>Steps to Correct LoadLibrary Failure Code 87</u></a></li>
+<li><a href="https://fox-that.techidaily.com/stumped-by-iphones-wireless-charging-malfunctions-discover-these-seven-resolving-strategies/"><u>Stumped by iPhone's Wireless Charging Malfunctions? Discover These ^Seven Resolving Strategies</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/trouble-free-mp4-viewing-on-your-chromebook-discover-three-effective-methods/"><u>Trouble-Free MP4 Viewing on Your Chromebook: Discover Three Effective Methods!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-the-iphone-amoji-uncovering-the-6-typical-challenges-and-their-fixes/"><u>Troubleshooting the iPhone Amoji - Uncovering the 6 Typical Challenges and Their Fixes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/understanding-and-troubleshooting-phone-numbers-instead-of-names-in-messages/"><u>Understanding and Troubleshooting Phone Numbers Instead of Names in Messages</u></a></li>
 </ul></div>
 

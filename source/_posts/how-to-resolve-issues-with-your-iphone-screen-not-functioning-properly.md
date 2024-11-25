@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Issues with Your iPhone Screen Not Functioning Properly
-date: 2024-11-12T20:07:46.394Z
-updated: 2024-11-15T20:11:10.510Z
+date: 2024-11-21T18:46:55.102Z
+updated: 2024-11-24T22:32:57.036Z
 tags:
   - iphone
   - apple
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/07aa9db678660a97880964bc167fdc56576717cff
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Is Your iPhone Touchscreen Not Working?
 
  There are several reasons your iPhone touchscreen could stop working. One of the most common reasons is physical damage. If your screen stopped working after it hit something, the damage is most likely physical.
@@ -34,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/07aa9db678660a97880964bc167fdc56576717cff
  Related:[Is Your iPhone Home Button Not Working? Quick Fixes to Try](https://www.makeuseof.com/tag/iphone-home-button-working-fix/)
 
  If your iPhone was exposed to salt water before it stopped working, then that was most likely the cause of the damage. Salt water is corrosive and, while your phone might have been fine right away, the damage could continue to progress for weeks after exposure.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Is Your Touchscreen Broken or Your LCD Screen?
 
@@ -56,10 +64,7 @@ If your screen is working, but not correctly, this could be the cause.
 ![iphone touch accommodations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/iphone-touch-accommodations.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you’re having a hard time navigating there because of the dodgy touchscreen, just activate Siri and say “Turn off Touch Accommodations.”
@@ -67,10 +72,7 @@ If your screen is working, but not correctly, this could be the cause.
  Alternatively, you can click the Side button three times and this will disable it on most newer devices. For older devices, you may need to tap the Home button three times.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Back Up and Factory Reset Your iPhone
@@ -86,13 +88,6 @@ If your screen is working, but not correctly, this could be the cause.
  Related:[How to Factory Reset Your iPhone or iPad](https://www.makeuseof.com/tag/how-to-factory-reset-iphone-ipad/)
 
  If you do choose to get your iPhone repaired, you’ll most likely need to do this anyway. This ensures that the technician won’t be able to access your personal data. They may also need to test Face ID to make sure the repair worked and will need the phone to be unlocked to do so, which means you’re better off erasing all your data first.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Getting Your iPhone Screen Repaired
 
@@ -110,13 +105,6 @@ If your screen is working, but not correctly, this could be the cause.
 
  Related:[Learn to Fix Your Own Gadgets With Help From These Sites](https://www.makeuseof.com/tag/fix-gadgets-help-websites/)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Using Your iPhone Without a Touchscreen
 
  If your iPhone isn’t working but you need to access certain files, you can still do that. To do so, you’ll need to activate Voice Control. This can be helpful for backing up and restoring your iPhone.
@@ -124,6 +112,10 @@ If your screen is working, but not correctly, this could be the cause.
  To do this, your phone screen will need to at least partially work. If so, try to make your way to**Settings** \>**Accessibility** \>**Voice Control** and turn that on.
 
 ![iphone voice control](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/iphone-voice-control.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If Siri’s enabled, you can enable Voice Control by saying “Hey Siri, turn on Voice Control.” Once enabled, you can access your iPhone without using the touchscreen.
 
@@ -152,17 +144,24 @@ If your screen is working, but not correctly, this could be the cause.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-boosting-roi-in-fb-ads-through-animation-techniques/"><u>[New] Boosting ROI in FB Ads Through Animation Techniques</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-mastering-the-game-tiktoks-most-notable-players/"><u>[New] In 2024, Mastering the Game TikTok's Most Notable Players</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-unveil-the-ultimate-list-of-live-streaming-apps-for-youtube-excellence-iosandroid/"><u>2024 Approved Unveil The Ultimate List of Live Streaming Apps for YouTube Excellence (iOS/Android)</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-motorola-g24-power-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Motorola G24 Power without App | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-the-latest-hp-officejet-4500-software-updated-printer-drivers/"><u>Download the Latest HP Officejet 4500 Software: Updated Printer Drivers</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-fix-a-splash-damaged-iphone-clearing-out-the-speakers/"><u>How to Fix a Splash-Damaged iPhone: Clearing Out the Speakers</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-resolve-iphone-and-ipad-wi-fi-connection-issues-top-8-solutions/"><u>How to Resolve iPhone & iPad Wi-Fi Connection Issues: Top 8 Solutions</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-transcribe-speech-absolutely-gratis/"><u>In 2024, Transcribe Speech, Absolutely Gratis</u></a></li>
-<li><a href="https://games-able.techidaily.com/leveraging-the-power-of-steam-currency/"><u>Leveraging the Power of Steam Currency</u></a></li>
-<li><a href="https://fox-that.techidaily.com/lost-an-iphone-app-follow-this-simple-troubleshooting-technique-to-recover-it/"><u>Lost an iPhone App? Follow This Simple Troubleshooting Technique to Recover It</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solving-the-issue-of-airpods-auto-switching-among-apple-gadgets-easily/"><u>Solving the Issue of AirPods Auto-Switching Among Apple Gadgets Easily</u></a></li>
-<li><a href="https://fox-that.techidaily.com/yellow-tint-woes-9-proven-fixes-to-restore-true-colors-on-iphones/"><u>Yellow Tint Woes? 9 Proven Fixes to Restore True Colors on iPhones</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-a-step-by-step-guide-to-youtube-image-branding/"><u>[New] 2024 Approved A Step-by-Step Guide to YouTube Image Branding</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ise-to-the-top-the-essentials-of-starting-a-youtube-gaming-sensation-for-2024/"><u>[New] Rise to the Top The Essentials of Starting a YouTube Gaming Sensation for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-compile-presentation-asset-to-video/"><u>[Updated] 2024 Approved Compile Presentation Asset to Video</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-perfecting-the-art-of-media-preservation-macs-dvd-burn-guide/"><u>[Updated] 2024 Approved Perfecting the Art of Media Preservation Mac's DVD Burn Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/addressing-iphone-data-connectivity-problems-10-reliable-solutions/"><u>Addressing iPhone Data Connectivity Problems: 10 Reliable Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/cracking-the-code-on-offline-your-guide-to-troubleshooting-find-my-iphone-problems/"><u>Cracking the Code on 'Offline': Your Guide to Troubleshooting Find My iPhone Problems</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-motorola-moto-g14-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Motorola Moto G14 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fix-it-yourself-dealing-with-an-iphones-ringsilent-switch-failure/"><u>Fix It Yourself: Dealing With an iPhone's Ring/Silent Switch Failure</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-vivo-s17e-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Vivo S17e Phones with/without a PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-reestablish-audio-hardware-on-your-pc-after-a-missing-output-device-warning/"><u>How to Reestablish Audio Hardware on Your PC After a Missing Output Device Warning</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/mastering-your-tech-skills-unlock-macs-full-screen-recording-power-with-shortcuts-for-2024/"><u>Mastering Your Tech Skills Unlock Mac's Full Screen Recording Power with Shortcuts for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-the-most-frequent-ios-screen-troubles-with-ease/"><u>Overcoming the Most Frequent iOS Screen Troubles with Ease</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/privacy-first-reader-of-facebook-snapshots/"><u>Privacy-First Reader of Facebook Snapshots</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resetting-your-iphone-gently-a-comprehensive-tutorial/"><u>Resetting Your iPhone Gently: A Comprehensive Tutorial</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solutions-when-your-iphone-calendar-is-not-showing-events/"><u>Solutions When Your iPhone Calendar Is Not Showing Events</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-5-solutions-what-to-do-when-iphone-dictation-keeps-failing/"><u>Top 5 Solutions: What To Do When iPhone Dictation Keeps Failing</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-ios-photography-handling-issues-with-image-capture-and-processing/"><u>Troubleshooting iOS Photography: Handling Issues with Image Capture and Processing</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unify-multiple-photos-of-the-same-person-using-iphone-or-mac-techniques/"><u>Unify Multiple Photos of The Same Person Using iPhone Or Mac Techniques</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/unveiling-microsofts-latest-ai-leap-in-generative-search-harmonizing-tradition-with-modernity-tech-analysis-by-zdnet/"><u>Unveiling Microsoft's Latest AI Leap in Generative Search: Harmonizing Tradition with Modernity | Tech Analysis by ZDNet</u></a></li>
 </ul></div>
 

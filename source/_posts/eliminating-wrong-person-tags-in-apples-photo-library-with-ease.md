@@ -1,7 +1,7 @@
 ---
 title: Eliminating Wrong Person Tags in Apple's Photo Library with Ease
-date: 2024-08-27T14:46:22.289Z
-updated: 2024-08-28T14:46:22.289Z
+date: 2024-11-23T22:36:30.710Z
+updated: 2024-11-24T16:17:55.739Z
 tags:
   - iphone
   - apple
@@ -37,6 +37,10 @@ Close
 
  Read More:[Tips That Will Help You Master the People Album in Photos](https://www.makeuseof.com/tips-to-master-people-album-photos-iphone/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Fix Misidentified People in Photos on iPhone or iPad
 
  If your iPhone has misidentified someone in a photo, they won't show up when you search for them and instead Photos will save pictures of them in someone else's album. What's more, that person—who might be a stranger—will show up in the People album for whoever your iPhone thinks they are! Here's how to fix it:
@@ -48,13 +52,22 @@ Close
 
 ![select photos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/select-photos.PNG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![this is not X option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/this-is-not-X-option.PNG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Fix Misidentified People in Photos on a Mac
 
  Removing photos from another person's album on a Mac is just as easy as it is on your iPhone. Follow these steps to do so:
@@ -68,25 +81,20 @@ Close
 ![Person is not in this photo option in Photos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/Person-is-not-in-this-photo-option-in-Photos.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
+
 ## Easily Sort Pictures With the People Album
 
  The People album in Photos is a great way to view your photo library in an organized way. You can easily look back at all your memories with a particular person without needing to scroll past a sea of unrelated pictures.
 
  However, having misidentified photos in the wrong albums can be quite a nuisance to deal with. Fortunately, the problem has a relatively quick and easy fix. You can review uncategorized photos to avoid the problem in the future, and you can remove any mismatched pictures you stumble across using the Share button.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -95,4 +103,20 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-cut-to-slowness-the-ultimate-guide-for-reel-makers-for-2024/"><u>[New] Cut to Slowness The Ultimate Guide for Reel Makers for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-fixing-overencoded-obs-videos/"><u>[Updated] 2024 Approved Fixing Overencoded OBS Videos</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-create-captivating-cover-cinematics/"><u>[Updated] In 2024, Create Captivating Cover Cinematics</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-dissecting-metaverse-and-multimeva-what-sets-them-apart-insightful-guide/"><u>2024 Approved Dissecting Metaverse and Multimeva What Sets Them Apart (Insightful Guide)</u></a></li>
+<li><a href="https://fox-that.techidaily.com/effective-strategies-for-handling-iphone-photography-challenges-and-resolving-them/"><u>Effective Strategies for Handling iPhone Photography Challenges and Resolving Them</u></a></li>
+<li><a href="https://fox-that.techidaily.com/experiencing-late-text-alerts-on-ios-devices-discover-our-9-key-fixes/"><u>Experiencing Late Text Alerts on iOS Devices? Discover Our 9 Key Fixes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/hazardous-materials/"><u>Hazardous Materials</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-handle-apps-displaying-phone-numbers-rather-than-contact-names-a-complete-guide/"><u>How to Handle Apps Displaying Phone Numbers Rather Than Contact Names: A Complete Guide</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-simplifying-itunes-add-and-listen-to-your-choice-of-podcasts/"><u>In 2024, Simplifying iTunes Add and Listen to Your Choice of Podcasts</u></a></li>
+<li><a href="https://fox-that.techidaily.com/navigating-common-iphone-13-difficulties-fixing-top-6-problems/"><u>Navigating Common iPhone 13 Difficulties – Fixing Top 6 Problems</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/secrets-of-recording-video-without-distracting-noise-for-2024/"><u>Secrets of Recording Video without Distracting Noise for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/step-by-step-strategies-for-seamless-family-subscription-sharing/"><u>Step-by-Step Strategies for Seamless Family Subscription Sharing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-the-secret-behind-x80070091-error-in-windows-environments/"><u>Unveiling the Secret Behind X80070091 Error in Windows Environments</u></a></li>
+</ul></div>
 

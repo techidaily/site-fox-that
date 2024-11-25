@@ -1,7 +1,7 @@
 ---
 title: Resolving Issues with Your iPhone's Proximity Detection Capabilities
-date: 2024-09-27T18:39:44.760Z
-updated: 2024-10-02T02:36:16.275Z
+date: 2024-11-24T02:42:03.685Z
+updated: 2024-11-24T17:09:18.101Z
 tags:
   - iphone
   - apple
@@ -46,24 +46,25 @@ Here are some things you could do to check if it's working:
 
 ![person cleaning a phone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/cleaning-phone.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The most likely culprit is dirt and gunk that has accumulated on the top half of your screen, making it difficult for the emitter or sensor to work. You will run into this issue if you have sweaty or oily skin.
 
  While you could try a quick wipe against your shirt or some other cloth, the best thing to do is [clean your iPhone properly](https://www.makeuseof.com/tag/clean-iphone-guide/) . Use a moist, lint-free cloth and gently but thoroughly wipe the dirt away in one direction.
 
  Be careful not to use rubbing alcohol, window cleaners, vinegar, or any similar grease-cutting products, as they could eat away your screen's coating.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. Restart the Target Application or Your iPhone
 
  If you notice that your proximity sensor is still not working after cleaning your screen, it could be the app (like WhatsApp or the Phone app) or iOS misbehaving.
 
  In this case, you should restart the app first. Merely returning to the Home Screen isn't enough; you must open the App Switcher (learn how to do so in our [iPhone navigation basics](https://www.makeuseof.com/how-to-go-back-get-home-switch-apps-iphone/) guide) and swipe up on the target app's preview. Open the app again and try to use the proximity sensor. You can also try [restarting your iPhone](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) for good measure.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Make Sure Your iPhone Is Up to Date
 
@@ -73,28 +74,12 @@ Here are some things you could do to check if it's working:
 
 ![iPhone searching for updates in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-searching-for-updates-in-settings.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
-  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Software update information on iOS for iOS 16.6](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/software-update-information-on-ios-for-ios-16-6.jpeg)
 
 ![Update terms and conditions on iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/update-terms-and-conditions-on-ios.jpeg)
 
 <!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Close
@@ -102,10 +87,7 @@ Close
  Your phone will restart a couple of times, but it will stabilize when it's finished. Test the proximity sensor again using our steps above.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Remove the Screen Protector
@@ -126,6 +108,10 @@ Here's a brief rundown of how to do it:
 4. Pull out the screen protector.
 
  Give the proximity sensor a test to see if that helped. But if you're still out of luck, you have a last-resort option.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 5\. Take Your Phone Back to Apple or an Authorized Service Provider
 
@@ -156,17 +142,19 @@ Here's a brief rundown of how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-a-comprehensive-look-at-the-newest-updates-of-lg-360-cameras/"><u>[New] In 2024, A Comprehensive Look at the Newest Updates of LG 360 Cameras</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-integrating-cg-centrals-luts-into-vfx-production-flows/"><u>[New] Integrating CG Central's Luts Into VFX Production Flows</u></a></li>
-<li><a href="https://fox-that.techidaily.com/expert-solutions-to-fix-imessage-signed-out-errors-on-iphone/"><u>Expert Solutions to Fix 'iMessage Signed Out' Errors on iPhone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/explore-lighting-innovations-in-our-top-softbox-kits-2024/"><u>Explore Lighting Innovations in Our Top Softbox Kits 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fix-airpod-sounds-that-move-with-you-by-disabling-head-movement-feature/"><u>Fix AirPod Sounds That Move with You by Disabling Head Movement Feature</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-premier-guide-to-high-definition-android-viewing-tools/"><u>In 2024, The Premier Guide to High-Definition Android Viewing Tools</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlocking-iphone-xs-passcode-without-a-computer-drfone-by-drfone-ios/"><u>In 2024, Unlocking iPhone XS Passcode without a Computer | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/insightful-examination-of-wirecast-and-its-peers/"><u>Insightful Examination of WireCast & Its Peers</u></a></li>
-<li><a href="https://fox-that.techidaily.com/revive-your-ios-devices-emoji-predictions-with-these-7-swift-strategies/"><u>Revive Your iOS Device's Emoji Predictions with These 7 Swift Strategies</u></a></li>
-<li><a href="https://win11.techidaily.com/revolutionize-desktop-efficiency-with-wmdesk/"><u>Revolutionize Desktop Efficiency with WmDesk</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/settling-into-a-virtual-firepit-a-comprehensive-evaluation-of-the-minecraft-campfire-tales-edition/"><u>Settling Into a Virtual Firepit: A Comprehensive Evaluation of the Minecraft Campfire Tales Edition</u></a></li>
-<li><a href="https://fox-that.techidaily.com/understanding-dfu-mode-on-iphone-a-complete-guide/"><u>Understanding DFU Mode on iPhone: A Complete Guide</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-mastery-in-media-manipulation-ttml-and-xml-for-superior-srt-outputs/"><u>[New] Mastery in Media Manipulation TTML & XML for Superior SRT Outputs</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2023-roundup-premier-professionals-360-cameras/"><u>[Updated] 2023 Roundup Premier Professionals’ 360 Cameras</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-6-alternative-apps-to-periscope-for-iphoneandroid-users-for-2024/"><u>[Updated] 6 Alternative Apps to Periscope for iPhone/Android Users for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-disable-youtube-preview-across-platforms-for-2024/"><u>[Updated] Disable Youtube Preview Across Platforms for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1-multiple-cam-options-discover-live-streaming-and-fake-webcams-with-manycam/"><u>1. Multiple Cam Options: Discover Live Streaming and Fake Webcams with ManyCam</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/get-songs-for-nothing-downloading-deezer-tunes-onto-pcs-and-smartphones/"><u>Get Songs for Nothing: Downloading Deezer Tunes Onto PCs and Smartphones</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-defrost-an-apple-iphone-when-it-wont-respond/"><u>How to Defrost an Apple iPhone When It Won't Respond</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-from-device-capture-to-viral-content-youtubes-upload-guide/"><u>In 2024, From Device Capture to Viral Content YouTube's Upload Guide</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-oppo-a18-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Oppo A18? | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/silent-iphone-discover-simple-solutions-to-restore-audio/"><u>Silent iPhone? Discover Simple Solutions to Restore Audio</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-common-iphone-display-problems-effective-solutions-for-you/"><u>Solving Common iPhone Display Problems: Effective Solutions for You</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-guide-understanding-the-7-main-reasons-for-iphone-screen-lag-or-unresponsiveness/"><u>Troubleshooting Guide: Understanding the 7 Main Reasons for iPhone Screen Lag or Unresponsiveness</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-tips-why-isnt-my-iphone-alarm-working/"><u>Troubleshooting Tips: Why Isn't My iPhone Alarm Working?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-tecno-camon-20-pro-5g-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On Tecno Camon 20 Pro 5G? | Dr.fone</u></a></li>
 </ul></div>
 

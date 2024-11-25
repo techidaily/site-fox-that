@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Tutorial: How to Set a New Screen Time Password for iOS & macOS Devices"
-date: 2024-08-27T14:41:41.508Z
-updated: 2024-08-28T14:41:41.508Z
+date: 2024-11-23T17:51:09.703Z
+updated: 2024-11-24T21:41:07.446Z
 tags:
   - iphone
   - apple
@@ -41,19 +41,28 @@ thumbnail: https://thmb.techidaily.com/fb708f6b02bb2770894398e8943ab9eb4326fec35
 
 ![Screen Time section in the Settings app on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/screen-time-section-in-the-settings-app-on-an-iphone.PNG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![changing or turning off Screen Time Passcode in the settings app on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/changing-or-turning-off-screen-time-passcode-in-the-settings-app-on-an-iphone.PNG)
 
 ![entering old screen time passcode on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/entering-old-screen-time-passcode-on-an-iphone.PNG)
 
 ![iPhone screen displaying Screen Time Passcode Recovery page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/iphone-screen-displaying-screen-time-passcode-recovery-page.PNG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Close
 
  If you skipped the step to enter your Apple ID details for Screen Time passcode recovery while setting the feature up and have**Share Across Devices** disabled, you won't be able to reset the passcode.
 
 <!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Reset the Screen Time Passcode on Your Mac
 
  If you'd like to reset the Screen Time passcode on your Mac, here's what you need to do:
@@ -69,6 +78,10 @@ Close
 
  Once again, you're out of luck if you don't have**Share Across Devices** enabled and skipped the Screen Time passcode recovery step during setup.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Reset the Screen Time Passcode for Your Child's Device
 
  If you're taking complete advantage of [parental controls on your child's iPhone or iPad](https://www.makeuseof.com/parental-controls-iphone-ipad/) and [use Apple's Family Sharing feature](https://www.makeuseof.com/tag/set-family-sharing-share-apps-music-itunes-purchases/) to control your child's screen time, you can use your iPhone or Mac to reset the Screen Time passcode for your child's device.
@@ -76,8 +89,9 @@ Close
  You must be the family organizer to reset your child's Screen Time passcode.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### On an iPhone or iPad
 
  To reset the Screen Time passcode on your child's Apple device from your iPhone or iPad, follow the steps below:
@@ -92,31 +106,17 @@ Close
 ![Family section in the Settings app on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/family-section-in-the-settings-app-on-an-iphone.PNG)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![A child's account settings on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/a-child-s-account-settings-on-an-iphone.PNG)
 
 ![A child's screen time settings on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/a-child-s-screen-time-settings-on-an-iphone.PNG)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![changing or turning off a child's Screen Time Passcode in the settings app on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/changing-or-turning-off-a-child-s-screen-time-passcode-in-the-settings-app-on-an-iphone.PNG)
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Close
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 ### On a Mac
 
  Here's what you need to do if you'd like to reset the Screen Time passcode for your child's device using your Mac:
@@ -128,9 +128,6 @@ Close
 5. Enter your Mac's**admin** password and hit the**Return** key or click**Unlock** .  
 ![Entering mac's admin password to reset child's screen time passcode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/entering-mac-s-admin-password-to-reset-child-s-screen-time-passcode.PNG)
 6. Now, type in a new Screen Time passcode and enter it again to confirm.
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  It's that easy! However, if you also forgot your Apple account login details, you'll have to go through the complicated process of [resetting your Apple ID password](https://www.makeuseof.com/tag/forgot-apple-id-icloud-password/) first.
 
@@ -142,8 +139,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -151,4 +146,24 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/updated-the-eternal-gallery-of-commons-artworks-online/"><u>[Updated] The Eternal Gallery of Commons Artworks Online</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/50-free-youtube-banners-come-see-them-all-in-2024/"><u>50 FREE YouTube Banners - Come See Them All, In 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/content-design-powered-by-canva-and-gpts-batch-capabilities/"><u>Content Design Powered by Canva & GPT's Batch Capabilities</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-from-iphone-6s-plus-without-password-by-drfone-ios/"><u>In 2024, How to Delete iCloud Account From iPhone 6s Plus without Password?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-itel-p55plus-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Itel P55+ for Streaming | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-email-update-problem-heres-what-to-do/"><u>IPhone Email Update Problem? Here's What to Do</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphoneipad-not-updating-overcome-with-these-9-effective-techniques/"><u>IPhone/iPad Not Updating? Overcome With These 9 Effective Techniques</u></a></li>
+<li><a href="https://fox-that.techidaily.com/mastering-iphone-maintenance-15-crucial-tips-and-fixes-for-your-device-of-any-version/"><u>Mastering iPhone Maintenance: 15 Crucial Tips and Fixes for Your Device of Any Version</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/mastering-live-broadcasts-obs-on-youtube-and-twitch/"><u>Mastering Live Broadcasts OBS on YouTube and Twitch</u></a></li>
+<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolve-iphone-standby-issues-4-proven-solutions/"><u>Resolve iPhone Standby Issues: 4 Proven Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolving-iphones-final-line-unavailable-issue-a-step-by-step-guide/"><u>Resolving iPhone's Final Line Unavailable Issue: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/steps-to-correctly-address-missing-d3dx924dll-error-messages/"><u>Steps to Correctly Address Missing d3dx9_24.dll Error Messages</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-8-iphone-tools-enhancing-usability-for-individuals-with-visual-impairments/"><u>Top 8 iPhone Tools Enhancing Usability for Individuals with Visual Impairments</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-failed-imessages-solutions-for-iphone-users/"><u>Troubleshooting Failed iMessages: Solutions for iPhone Users</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-top-6-causes-for-apple-visual-lookup-feature-failure/"><u>Troubleshooting: Top 6 Causes for Apple Visual Lookup Feature Failure</u></a></li>
+<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-realme-narzo-60-5g-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Realme Narzo 60 5G? | Dr.fone</u></a></li>
+</ul></div>
 
