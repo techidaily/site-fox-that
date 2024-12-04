@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting GPS Problems When 'Location Not Available' Appears on iPhone
-date: 2024-11-23T17:02:28.387Z
-updated: 2024-11-25T02:59:38.832Z
+date: 2024-11-30T07:55:25.460Z
+updated: 2024-12-03T21:01:50.237Z
 tags:
   - iphone
   - apple
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/738b7371069538e959521966db00e5f006e9b11d9
 
  There isn't a lot you can do yourself if Messages or the Find My app says "Location Not Available" when someone has chosen to [share their iPhone location with you](https://www.makeuseof.com/how-to-share-location-iphone/) . But it's still easiest to try these steps first, before involving somebody else.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quit and Relaunch Find My or Messages
 
  Sometimes, the Messages or the Find My app can bug out and result in the "Location Not Available" error. The quickest way to resolve that is to [force quit and relaunch the app](https://www.makeuseof.com/close-apps-on-ipad-iphone/) in question.
@@ -41,21 +45,33 @@ To force quit Messages or Find My:
 
 ![App Switcher on iPhone.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/2-app-switcher.PNG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Force-quitting an app on iPhone.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/3-force-quit-app.PNG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Close
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Restart Your iPhone
 
  If closing and reopening the relevant app didn't work, you might need to [restart your iPhone](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) instead. To restart your iPhone, simply open the**Settings** app and tap**General > Shut Down** . Once the screen goes black, wait for several seconds and hold the**Side** or the**Top** button until you see the Apple logo.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Fix "Location Not Available" From Someone Else's iPhone
 
  If the two fixes above didn't help, you'll need to shift your attention to your friend or family member's iPhone. Walk them through the fixes below on a call. Or, share this post with them and make sure they follow the instructions in this section.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Toggle Share My Location Off and On
 
@@ -64,18 +80,18 @@ Close
 ![Settings app on iPhone.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/4-settings-app.PNG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Apple ID settings screen.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/5-apple-id-settings.PNG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Find My preferences.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/6-share-my-location-1.PNG)
 
 Close
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Share the Location in Messages and Find My Again
 
@@ -88,16 +104,12 @@ Close
 
 ![Stop Sharing My Location.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/8-info-pane.PNG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Start sharing my location.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/9-info-pane-alt.PNG)
 
 Close
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Restart the iPhone
@@ -114,25 +126,13 @@ Close
 
 ![Date or time screen on iPhone.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/12date-time.PNG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Close
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Switch to Cellular Data
 
  Spotty Wi-Fi can also play a factor, so try using cellular or mobile data instead. To do that, open the iPhone's**Control Center** (swipe down from the top-right of the screen or swipe up from the bottom if your iPhone has a Home button) and tap the**Wi-Fi** icon to disable it.
 
  If cellular data is active, the iPhone should automatically start using it. If not, tap the**Cellular** icon to activate it. Just make sure you don't have any [cellular data problems on your iPhone](https://www.makeuseof.com/iphone-cellular-data-not-working-fixes/) as well.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Sharing Your Location Isn't Always Wise
 
@@ -153,16 +153,20 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/nhance-video-popularity-with-strategic-timestamps-for-2024/"><u>[New] Enhance Video Popularity with Strategic Timestamps for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-unveiling-youtubes-veiled-content-a-detailed-protocol/"><u>[New] In 2024, Unveiling YouTube's Veiled Content A Detailed Protocol</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-navigating-streamed-content-a-comprehensive-breakdown-for-2024/"><u>[New] Navigating Streamed Content A Comprehensive Breakdown for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/current-verdict-on-fitbit-charge-3-has-it-lost-its-charm/"><u>Current Verdict on Fitbit Charge 3: Has It Lost Its Charm?</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-sign-word-2000-document-electronically-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to sign Word 2000 document electronically</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-restoring-visibility-of-vanished-icon-images-on-your-iphone/"><u>How To: Restoring Visibility of Vanished Icon Images on Your iPhone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/lg-um7300e-49-4k-ultra-hd-television-affordable-quality-and-performance-review/"><u>LG UM7300E 49 4K Ultra HD Television - Affordable Quality and Performance Review</u></a></li>
-<li><a href="https://fox-that.techidaily.com/overcome-iphone-and-computer-sync-problems-quick-fix-guide-available-here/"><u>Overcome iPhone & Computer Sync Problems – Quick Fix Guide Available Here</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solve-your-idevices-update-woes-6-proven-methods-to-unstick-iphoneipad-ios-upgrades/"><u>Solve Your iDevice's Update Woes: 6 Proven Methods to Unstick iPhone/iPad iOS Upgrades</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solve-your-solo-airpod-problem-expert-tips-and-advice/"><u>Solve Your Solo AirPod Problem: Expert Tips & Advice</u></a></li>
-<li><a href="https://extra-information.techidaily.com/visualize-verve-vocalize-laughter-kapwings-toolkit/"><u>Visualize Verve, Vocalize Laughter - Kapwing's Toolkit</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-mastering-character-voice-modification-techniques-in-free-fire-no-cost/"><u>[New] Mastering Character Voice Modification Techniques in Free Fire (No Cost!)</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-ultimate-racing-game-anthology-the-top-five/"><u>[Updated] In 2024, Ultimate Racing Game Anthology The Top Five</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-navigating-youtube-for-ultimate-virtual-reality-adventures/"><u>[Updated] Navigating YouTube for Ultimate Virtual Reality Adventures</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-quick-steps-to-nostalgic-facebook-story-viewing-for-2024/"><u>[Updated] Quick Steps to Nostalgic Facebook Story Viewing for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/best-tricks-to-fix-constant-iphone-app-failures-learn-now/"><u>Best Tricks to Fix Constant iPhone App Failures - Learn Now</u></a></li>
+<li><a href="https://fox-that.techidaily.com/dynamic-headtracking-issue-on-airpods-fix-it-by-turning-off-the-feature-now/"><u>Dynamic Headtracking Issue on AirPods: Fix It by Turning Off the Feature Now!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-your-iphones-non-functional-light-beam-top-12-strategies/"><u>Fixing Your iPhone's Non-Functional Light Beam: Top 12 Strategies</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/from-airwaves-to-iphone-essential-knowledge-on-podcast-downloads-for-2024/"><u>From Airwaves to iPhone Essential Knowledge on Podcast Downloads for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-tecno-spark-20-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Tecno Spark 20 | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/lost-in-translation-make-sure-your-android-delivers-texts-to-your-iphone-without-fail/"><u>Lost in Translation? Make Sure Your Android Delivers Texts to Your iPhone Without Fail</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-7-frustrating-iphone-x-glitches-and-their-solutions/"><u>Top 7 Frustrating iPhone X Glitches & Their Solutions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-truthgpt-coin-could-this-be-a-fraudulent-scheme/"><u>Understanding TruthGPT Coin: Could This Be a Fraudulent Scheme?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unsilenced-apple-top-techniques-for-restoring-notifications-and-sounds-to-your-iphone/"><u>Unsilenced Apple: Top Techniques for Restoring Notifications and Sounds to Your iPhone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/volkswagen-joins-elite-group-now-supporting-tesla-supercharger-network/"><u>Volkswagen Joins Elite Group: Now Supporting Tesla Supercharger Network</u></a></li>
+<li><a href="https://fox-that.techidaily.com/what-to-do-when-your-iphone-wont-respond-expert-advice/"><u>What to Do When Your iPhone Won't Respond: Expert Advice</u></a></li>
 </ul></div>
 

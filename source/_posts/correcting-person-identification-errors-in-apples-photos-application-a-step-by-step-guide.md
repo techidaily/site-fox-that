@@ -1,7 +1,7 @@
 ---
 title: "Correcting Person Identification Errors in Apple's Photos Application: A Step-by-Step Guide"
-date: 2024-08-27T14:35:42.463Z
-updated: 2024-08-28T14:35:42.463Z
+date: 2024-11-27T17:34:45.988Z
+updated: 2024-12-04T07:59:17.579Z
 tags:
   - iphone
   - apple
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/ece65a7774f151025dd995777d6ba1908931a5fce
 
  Here's how you can review photos of identified people in the Photos app and fix any cases of mistaken identity, where your iPhone has tagged one person as someone else.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Review People in Photos on an iPhone or iPad
 
  To search for any misidentified photos of someone, you should first review your confirmed and uncategorized photos for that person to help your device learn what each person is supposed to look like. Here's how to do that:
@@ -29,7 +33,15 @@ thumbnail: https://thmb.techidaily.com/ece65a7774f151025dd995777d6ba1908931a5fce
 
 ![review confirmed photos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/review-confirmed-photos.PNG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![review more photos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/review-more-photos.PNG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![confirm person](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/confirm-person.PNG)
 
@@ -53,8 +65,9 @@ Close
 Close
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Fix Misidentified People in Photos on a Mac
 
  Removing photos from another person's album on a Mac is just as easy as it is on your iPhone. Follow these steps to do so:
@@ -68,25 +81,20 @@ Close
 ![Person is not in this photo option in Photos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/Person-is-not-in-this-photo-option-in-Photos.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
+
 ## Easily Sort Pictures With the People Album
 
  The People album in Photos is a great way to view your photo library in an organized way. You can easily look back at all your memories with a particular person without needing to scroll past a sea of unrelated pictures.
 
  However, having misidentified photos in the wrong albums can be quite a nuisance to deal with. Fortunately, the problem has a relatively quick and easy fix. You can review uncategorized photos to avoid the problem in the future, and you can remove any mismatched pictures you stumble across using the Share button.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -95,4 +103,19 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-spread-the-rhythm-sharing-playlists-in-minutes/"><u>[New] 2024 Approved Spread the Rhythm Sharing Playlists in Minutes</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-maintaining-meetings-in-google-recorder/"><u>[New] Maintaining Meetings in Google Recorder</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-expert-video-extractor-and-downloader-enhanced-firefox-support/"><u>[Updated] In 2024, Expert Video Extractor & Downloader Enhanced FireFox Support</u></a></li>
+<li><a href="https://win-special.techidaily.com/windowsandroidiphone/"><u>「全系统救助：如何从Windows/Android/iPhone上永久删除的照片中找回被遗忘的画面」</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/crossing-cultures-key-tactics-for-fluent-global-dialogue/"><u>Crossing Cultures: Key Tactics for Fluent Global Dialogue</u></a></li>
+<li><a href="https://fox-that.techidaily.com/guide-keeping-airpods-bound-to-one-device-at-a-time/"><u>Guide: Keeping AirPods Bound to One Device at a Time</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-redmi-note-13-5g-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Xiaomi Redmi Note 13 5G Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-full-guide-to-unlock-iphone-15-plus-with-itunes-drfone-by-drfone-ios/"><u>In 2024, Full Guide to Unlock iPhone 15 Plus with iTunes | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-locked-xiaomi-redmi-13c-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Xiaomi Redmi 13C Phone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/revive-your-texting-on-iphone-discover-7-essential-troubleshooting-steps/"><u>Revive Your Texting on iPhone: Discover 7 Essential Troubleshooting Steps</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-7-solutions-when-your-iphone-fails-to-deliver-messages/"><u>Top 7 Solutions When Your iPhone Fails to Deliver Messages</u></a></li>
+<li><a href="https://fox-that.techidaily.com/understanding-imessage-block-notifications-and-steps-to-verify-them/"><u>Understanding iMessage Block Notifications and Steps to Verify Them</u></a></li>
+</ul></div>
 

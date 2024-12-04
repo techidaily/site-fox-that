@@ -1,7 +1,7 @@
 ---
 title: Master the Art of Correcting Face Recognition Blunders in Apple's Image Album
-date: 2024-08-27T14:33:50.539Z
-updated: 2024-08-28T14:33:50.539Z
+date: 2024-12-03T09:01:19.286Z
+updated: 2024-12-04T01:41:37.746Z
 tags:
   - iphone
   - apple
@@ -29,13 +29,25 @@ thumbnail: https://thmb.techidaily.com/267d92bf94270151f5bfac8360b3ac61e42f156ac
 
 ![review confirmed photos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/review-confirmed-photos.PNG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![review more photos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/review-more-photos.PNG)
 
 ![confirm person](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/confirm-person.PNG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Close
 
  Read More:[Tips That Will Help You Master the People Album in Photos](https://www.makeuseof.com/tips-to-master-people-album-photos-iphone/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Fix Misidentified People in Photos on iPhone or iPad
 
@@ -48,13 +60,14 @@ Close
 
 ![select photos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/select-photos.PNG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![this is not X option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/this-is-not-X-option.PNG)
 
 Close
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Fix Misidentified People in Photos on a Mac
 
  Removing photos from another person's album on a Mac is just as easy as it is on your iPhone. Follow these steps to do so:
@@ -68,25 +81,20 @@ Close
 ![Person is not in this photo option in Photos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/Person-is-not-in-this-photo-option-in-Photos.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
+
 ## Easily Sort Pictures With the People Album
 
  The People album in Photos is a great way to view your photo library in an organized way. You can easily look back at all your memories with a particular person without needing to scroll past a sea of unrelated pictures.
 
  However, having misidentified photos in the wrong albums can be quite a nuisance to deal with. Fortunately, the problem has a relatively quick and easy fix. You can review uncategorized photos to avoid the problem in the future, and you can remove any mismatched pictures you stumble across using the Share button.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -95,4 +103,18 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-core-principles-in-internet-story-development/"><u>[Updated] 2024 Approved Core Principles in Internet Story Development</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-pioneering-path-for-instantaneous-srt-to-text-conversions-for-2024/"><u>[Updated] Pioneering Path for Instantaneous SRT to Text Conversions for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-premier-tools-best-mac-devices-for-capturing-videos/"><u>[Updated] Premier Tools Best Mac Devices for Capturing Videos</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-your-iphones-snap-challenges-uncover-the-most-frequent-camera-problems-and-solutions/"><u>Fixing Your iPhone's Snap Challenges: Uncover the Most Frequent Camera Problems & Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/imessage-not-working-here-are-10-ways-to-restore-your-iphone-texting-capabilities/"><u>IMessage Not Working? Here Are 10 Ways to Restore Your iPhone Texting Capabilities</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolve-audio-distortions-caused-by-movement-in-airpods-disable-dynamic-head-orientation/"><u>Resolve Audio Distortions Caused by Movement in AirPods: Disable Dynamic Head Orientation</u></a></li>
+<li><a href="https://common-error.techidaily.com/steam-troubleshooting-overcoming-unreachable-server-hurdles/"><u>Steam Troubleshooting: Overcoming Unreachable Server Hurdles</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/swap-periscope-for-success-best-replacements-for-iphoneandroid-for-2024/"><u>Swap Periscope for Success Best Replacements for iPhone/Android for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-old-games-handhelds-and-hardware-hacks-guide/"><u>The Old Games: Handhelds & Hardware Hacks Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/the-six-factors-that-slow-down-iphones-and-simple-fixes-you-can-apply-now/"><u>The Six Factors That Slow Down iPhones and Simple Fixes You Can Apply Now</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-guide-making-your-iphones-alarm-work-again/"><u>Troubleshooting Guide: Making Your iPhone's Alarm Work Again</u></a></li>
+</ul></div>
 

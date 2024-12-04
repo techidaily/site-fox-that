@@ -1,7 +1,7 @@
 ---
 title: Ineffective Control Center on iPhones? Try These 8 Corrective Measures
-date: 2024-08-27T14:33:58.934Z
-updated: 2024-08-28T14:33:58.934Z
+date: 2024-11-29T18:52:17.295Z
+updated: 2024-12-04T08:08:33.122Z
 tags:
   - iphone
   - apple
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/a26060fad92020f54b317e5747fec75ccfe05e7c2
  Because of this, your screen's touch sensitivity and accuracy may reduce, making it unresponsive to touch. The best way to fix this issue is to remove the screen protector and [clean your iPhone's display](https://www.makeuseof.com/tag/clean-iphone-guide/) with a microfiber cloth. And when you're done, see if you're able to open the Control Center.
 
 ![A mirofiber cloth on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/a-mirofiber-cloth-on-an-iphone.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Turn Off VoiceOver
 
@@ -54,17 +58,22 @@ Close
 
 ![iPhone Settings Face ID & Passcode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-settings-face-id-passcode.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![iPhone Enter Passcode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-enter-passcode.jpg)
 
 ![iPhone Face ID & Passcode settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-face-id-passcode-settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
  After this, you should be able to access the Control Center from your iPhone'sLock Screen.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Enable Control Center Access Within Apps
 
  Similarly, this one is for those unable to access the Control Center while using apps. If that's the case, it's likely happening because you've accidentally disabled Control Center access within apps on your iPhone.
@@ -74,20 +83,23 @@ Close
 ![iPhone Settings Control Center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-settings-control-center.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![iPhone Control Center Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-control-center-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Close
 
  Once enabled, you should be able to access the Control Center while using apps on your iPhone.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Update to the Latest iOS Version
 
  iOS updates typically include bug fixes, performance improvements, and new features. Installing the latest updates should be helpful if you're facing the Control Center issue because of a bug in the iOS version you're currently using.
@@ -100,16 +112,14 @@ Close
 
 ![iPhone General in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-general-in-settings.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![iPhone Software Update option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-software-update-option.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![iPhone Download and Install update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-download-and-install-update.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Close
 
  Once your iPhone is running the latest iOS version, try opening the Control Center again. If it's still not working, try some other solutions mentioned below.
@@ -127,19 +137,17 @@ Close
 
 ![iPhone Control Center Settings-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-control-center-settings-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![iPhone Control Center Remove button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-control-center-remove-button.jpg)
 
 ![iPhone Control Center Add option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-control-center-add-option.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 Close
 
  After [customizing the Control Center on your iPhone](https://www.makeuseof.com/how-to-use-customize-control-center-iphone/) , try launching it again to check if the issue is fixed.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Restart Your iPhone
 
@@ -149,11 +157,12 @@ Close
 
 ![iPhone slide to power off](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-slide-to-power-off.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can [restart your iPhone even if its buttons are broken](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) . Turn your iPhone on and check if you can access the Control Center.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 8\. Reset Your iPhone's Settings
 
  Your final option is to reset all the settings of your iPhone if the Control Center is still not functioning properly despite applying all the methods mentioned in this post.
@@ -170,9 +179,6 @@ Close
 
 ![iPhone Reset All Settings option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-reset-all-settings-option.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 Close
 
  Enter your passcode for verification, and iOS will reset your iPhone's settings. Now, try accessing the Control Center gain.
@@ -189,8 +195,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -198,4 +202,26 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-excellence-in-mac-video-capturing-top-5-alternatives-to-bandicam/"><u>[New] 2024 Approved Excellence in Mac Video Capturing Top 5 Alternatives to Bandicam</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-discover-top-ios-video-downloads-facebook-edition-for-2024/"><u>[New] Discover Top iOS Video Downloads Facebook Edition for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-time-travellers-guide-sharing-past-photos-as-snaps/"><u>[New] Time Traveller's Guide - Sharing Past Photos as Snaps</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/automated-lead-generation-with-cookiebot-technology/"><u>Automated Lead Generation with Cookiebot Technology</u></a></li>
+<li><a href="https://fox-that.techidaily.com/dealing-with-lopsided-earbud-audio-understand-and-correct-uneven-airpods-noise-levels/"><u>Dealing With Lopsided Earbud Audio: Understand and Correct Uneven AirPods Noise Levels</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effortlessly-snip-your-screen-two-ultimate-techniques-for-taking-screenshots-on-an-hp-laptop-or-desktop/"><u>Effortlessly Snip Your Screen: Two Ultimate Techniques for Taking Screenshots on an HP Laptop or Desktop</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-resolve-itunesfinder-failing-to-detect-iphone-a-comprehensive-guide/"><u>How To Resolve iTunes/Finder Failing to Detect iPhone – A Comprehensive Guide</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-lightweight-realities-googles-cardboard-and-samsung-gear-vr/"><u>In 2024, Lightweight Realities Google’s Cardboard and Samsung Gear VR</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-new-guide-how-to-check-icloud-activation-lock-status-from-your-apple-iphone-13-mini-by-drfone-ios/"><u>In 2024, New Guide How To Check iCloud Activation Lock Status From Your Apple iPhone 13 mini</u></a></li>
+<li><a href="https://techtrends.techidaily.com/movavis-latest-free-image-converter-tool-now-available-for-online-use/"><u>Movavi's Latest Free Image Converter Tool Now Available for Online Use</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-iphone-orientation-issues-mastering-landscape-mode-activation-techniques/"><u>Overcoming iPhone Orientation Issues: Mastering Landscape Mode Activation Techniques</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolving-issues-with-your-iphones-close-distance-sensing-feature/"><u>Resolving Issues with Your iPhone’s Close Distance Sensing Feature</u></a></li>
+<li><a href="https://games-able.techidaily.com/scripting-power-chatgpt-in-game-development/"><u>Scripting Power: ChatGPT in Game Development</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solve-your-safari-full-screen-screenshot-problems-with-these-tips/"><u>Solve Your Safari Full-Screen Screenshot Problems with These Tips</u></a></li>
+<li><a href="https://fox-that.techidaily.com/stop-enduring-that-bothering-flicker-try-these-7-proven-tricks-on-your-phones-screen-today/"><u>Stop Enduring That Bothering Flicker – Try These 7 Proven Tricks on Your Phone's Screen Today</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-honor-play-40c-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Honor Play 40C Device</u></a></li>
+<li><a href="https://fox-that.techidaily.com/the-ultimate-troubleshooting-guide-correcting-error-14-issues-on-iphones/"><u>The Ultimate Troubleshooting Guide: Correcting Error 14 Issues on iPhones</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-your-iphone-a-guide-to-fixing-a-non-responsive-standby-mode/"><u>Troubleshoot Your iPhone: A Guide to Fixing a Non-Responsive Standby Mode</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlock-the-secrets-how-to-get-back-your-accidentally-erased-iphone-notes/"><u>Unlock the Secrets: How to Get Back Your Accidentally Erased iPhone Notes</u></a></li>
+</ul></div>
 

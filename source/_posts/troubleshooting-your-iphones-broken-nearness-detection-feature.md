@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Your iPhone's Broken Nearness Detection Feature
-date: 2024-08-27T14:38:08.745Z
-updated: 2024-08-28T14:38:08.745Z
+date: 2024-11-29T04:52:15.186Z
+updated: 2024-12-03T23:01:56.457Z
 tags:
   - iphone
   - apple
@@ -48,8 +48,9 @@ Here are some things you could do to check if it's working:
  Be careful not to use rubbing alcohol, window cleaners, vinegar, or any similar grease-cutting products, as they could eat away your screen's coating.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 2\. Restart the Target Application or Your iPhone
 
  If you notice that your proximity sensor is still not working after cleaning your screen, it could be the app (like WhatsApp or the Phone app) or iOS misbehaving.
@@ -57,8 +58,9 @@ Here are some things you could do to check if it's working:
  In this case, you should restart the app first. Merely returning to the Home Screen isn't enough; you must open the App Switcher (learn how to do so in our [iPhone navigation basics](https://www.makeuseof.com/how-to-go-back-get-home-switch-apps-iphone/) guide) and swipe up on the target app's preview. Open the app again and try to use the proximity sensor. You can also try [restarting your iPhone](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) for good measure.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 3\. Make Sure Your iPhone Is Up to Date
 
  As an extension of software problems, your iPhone's proximity sensor might act up due to an iOS bug. The only way to completely rule out that possibility is to update your iPhone to the latest iOS version available.
@@ -67,19 +69,21 @@ Here are some things you could do to check if it's working:
 
 ![iPhone searching for updates in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-searching-for-updates-in-settings.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Software update information on iOS for iOS 16.6](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/software-update-information-on-ios-for-ios-16-6.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![Update terms and conditions on iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/update-terms-and-conditions-on-ios.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 Close
 
  Your phone will restart a couple of times, but it will stabilize when it's finished. Test the proximity sensor again using our steps above.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Remove the Screen Protector
 
@@ -100,9 +104,6 @@ Here's a brief rundown of how to do it:
 
  Give the proximity sensor a test to see if that helped. But if you're still out of luck, you have a last-resort option.
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ### 5\. Take Your Phone Back to Apple or an Authorized Service Provider
 
  Sometimes, the issue could be bigger than software bugs or something blocking the sensor. It's officially beyond your pay grade, and it's time to take your phone to someone who could open it up if need be.
@@ -112,8 +113,9 @@ Here's a brief rundown of how to do it:
  Take your iPhone to a nearby Apple Store or an Apple-authorized service provider; they should be able to help you. If your iPhone is still under warranty, Apple will fix your device at no additional cost if there are no signs of accidental damage. Scenarios like this make having an [extended AppleCare+ warranty](http://www.makeuseof.com/tag/applecare-what-are-your-options-is-it-really-worth-it/) very attractive because accidental damage is covered under this plan.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Proximity Sensor Is an Important Part of Your iPhone
 
  While your phone doesn't need it to function, there's no denying that your iPhone experience will be seriously impaired without a proximity sensor. It's integral to the way touchscreen phones work for phone calls.
@@ -126,8 +128,6 @@ Here's a brief rundown of how to do it:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -135,4 +135,24 @@ Here's a brief rundown of how to do it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-perfecting-profiles-how-to-embed-linktree-on-tiktok-seamlessly/"><u>[New] Perfecting Profiles How to Embed Linktree on TikTok Seamlessly</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-white-list-microphones-for-frugal-filmmakers/"><u>[New] White-List Microphones for Frugal Filmmakers</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-simplified-guide-from-camera-roll-capture-to-snapchat-posting-for-2024/"><u>[Updated] Simplified Guide From Camera Roll Capture to Snapchat Posting for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721478173164-clear-images-on-whatsapp-heres-how-you-can-correct-zoom-distortion/"><u>Clear Images on WhatsApp? Here's How You Can Correct Zoom Distortion!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/deciphering-imessage-silence-are-you-on-the-no-text-list/"><u>Deciphering iMessage Silence: Are You on the No-Text List?</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/dissecting-luminances-role-in-hdr-imagery/"><u>Dissecting Luminance's Role in HDR Imagery</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fix-your-silent-iphone-7-ways-to-restore-missing-notifications/"><u>Fix Your Silent iPhone: 7 Ways to Restore Missing Notifications.</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ihre-favoriten-die-2023-empfohlenen-spitzen-musik-apps-auf-dem-iphone-xrxsxs-max-nach-unserer-testphase/"><u>Ihre Favoriten: Die 2023 Empfohlenen Spitzen-Musik-Apps Auf Dem iPhone XR/XS/XS Max Nach Unserer Testphase</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-15-best-sites-to-find-and-download-royalty-free-music-for-youtube/"><u>In 2024, 15 Best Sites to Find & Download Royalty-Free Music for YouTube</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-step-by-step-process-to-enhance-obs-with-effective-lut-filters/"><u>In 2024, Step-by-Step Process to Enhance OBS with Effective LUT Filters</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-contact-app-not-responding-resolve-the-issue-using-our-3-simple-fixes/"><u>IPhone Contact App Not Responding? Resolve The Issue Using Our 3 Simple Fixes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-screen-malfunction-here-are-the-best-fixes-to-restore-functionality/"><u>IPhone Screen Malfunction? Here Are The Best Fixes to Restore Functionality</u></a></li>
+<li><a href="https://fox-that.techidaily.com/one-airpod-loud-and-proud-the-other-quiet-unravel-this-mystery-and-learn-the-four-solutions/"><u>One AirPod Loud and Proud, The Other Quiet – Unravel This Mystery & Learn the Four Solutions!</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ions-to-solve-common-issues-for-youtube-shorts-for-2024/"><u>Solutions to Solve Common Issues for YouTube Shorts for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-11-fixes-what-to-do-when-your-iphone-ignores-call-notifications/"><u>Top 11 Fixes: What To Do When Your iPhone Ignores Call Notifications</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-how-to-resolve-face-id-issues-when-its-down-on-your-iphone/"><u>Troubleshooting: How to Resolve Face ID Issues When It's Down on Your iPhone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/youtubes-edge-design-tips-for-compelling-video-thumbnails-for-2024/"><u>YouTube's Edge Design Tips for Compelling Video Thumbnails for 2024</u></a></li>
+</ul></div>
 

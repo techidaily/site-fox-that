@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Obstacles: A Guide to the Major iPhone 12 Problems and Their Fixes"
-date: 2024-08-27T14:36:59.493Z
-updated: 2024-08-28T14:36:59.493Z
+date: 2024-11-26T17:37:21.942Z
+updated: 2024-12-03T18:13:12.308Z
 tags:
   - iphone
   - apple
@@ -28,6 +28,10 @@ Before taking it to the nearest Apple Store, try these steps:
 
 ![Airplane mode on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Airplane-mode-on-iPhone-1.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Airplane mode off](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Airplane-mode-off-1.JPG)
 
 Close
@@ -43,7 +47,15 @@ Close
 
 ![General iPhone settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/General-iPhone-Settings-1.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Software update of iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Software-update-of-iPhone-1.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![Update iPhone to the latest OS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Update-iPhone-to-the-latest-OS-1.JPG)
 
@@ -82,14 +94,15 @@ Close
 
 ![Ringer button of iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Ringer-button-of-iPhone.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Once the ringer is turned ON, here's what you need to do on your iPhone:
 
 ![General iPhone settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/General-iPhone-Settings-1.JPG)
 
 ![Ringtone and alert volume](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Ringtone-and-alert-volume.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -99,26 +112,21 @@ Close
 
  If your ringer is on full, but the speakers don't produce sound,[restart your iPhone](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) . Still not successful? Maybe your speakers are damaged or filled with dust—time to seek the services of a professional.
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. iPhone 12 Bluetooth Issues
 
 ![Bluetooth off](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Bluetooth-off.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Bluetooth on](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Bluetooth-on.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 Close
 
  This might be the most annoying iPhone 12 issue on the list because some users might experience connectivity issues, especially when connecting with a non-iOS device. Try fixing this problem by bringing both gadgets up close.
 
  If it still doesn't work, turn off Bluetooth on both devices and turn it back on. Also, make sure both devices are visible and available for pairing. If the problem persists, you should get your device checked.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Wi-Fi Connection Problems With iPhone 12
 
@@ -128,10 +136,11 @@ To fix the Wi-Fi problem, you can try the following steps:
 
 ![General iPhone settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/General-iPhone-Settings-1.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Go to Wi-Fi](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Go-to-Wi-Fi-1.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![Forget this network](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Forget-this-network.JPG)
 
@@ -158,9 +167,6 @@ To disconnect and reconnect to the hotspot, here's what you need to do:
 
 ![Personal hotspot on](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Personal-hotspot-on.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Close
 
 1. From**Settings** , go to**Cellular** .
@@ -169,9 +175,6 @@ Close
 
  Don't forget that you need an active 3G, 4G LTE, or 5G internet plan with your mobile carrier to use the Personal Hotspot feature on your iPhone.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. iPhone 12 LTE/5G Issues
 
  Sometimes when you change location or live in a close society, it gets difficult for your iPhone to provide fast LTE/5G internet. You can resolve this by enabling and disabling the Airplane Mode, restarting the device, or reinserting the SIM.
@@ -183,18 +186,13 @@ Close
 ![Transfer or reset iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Transfer-or-reset-iPhone.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Reset your iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Reset-your-iPhone.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![iPhone resetting options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/iPhone-resetting-options.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 Close
 
 1. Navigate to**Settings** and select**General** .
@@ -205,9 +203,9 @@ Close
  Also, feel free to check out these details if [cellular data is not working on your iPhone](https://www.makeuseof.com/iphone-cellular-data-not-working-fixes/) .
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 8\. iCloud Issues on the iPhone 12
 
  There are [multiple iCloud issues](https://www.makeuseof.com/tag/common-icloud-problems/) that iPhone users might experience. The most common problems include data sync, authentication, storage, and verification.
@@ -217,8 +215,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  When nothing seems to work, troubleshoot your iCloud or seek iCloud support from the official Apple Store.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 9\. Discoloration of the iPhone's Body
 
 ![Different iPhone color variants](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Different-iPhone-color-variants.jpg)
@@ -226,6 +225,10 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  The exciting part about iPhone 12 is its color variants. You get several options from red to blue, green, standard black, and many more. However, some users might see discoloration, despite taking relevant measures.
 
  Exposure to sunlight, poor-quality cover, and water contact are the leading causes of discoloration. If your iPhone 12 is discolored but is still under warranty,[book a Genius Bar appointment](https://www.makeuseof.com/apple-store-appointment-genius-bar/) and get professional support from Apple.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 10\. iTunes and App Store Problems
 
@@ -237,9 +240,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  If that doesn't help, you should browse relevant forums on Reddit to see if others are facing similar issues or start a discussion in [Apple Support Community](https://discussions.apple.com/welcome) .
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 11\. Fast Battery Drainage on the iPhone 12
 
 ![iPhone 13 MagSafe charging](https://thmb.techidaily.com/1f2f4c22410ca8169af4ae6d02cdc0eba714608bc6ab4df470b116ebdad1c1fb.jpg)
@@ -270,8 +270,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -279,4 +277,20 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-movavis-latest-video-edition-a-comprehensive-review/"><u>[New] Movavi’s Latest Video Edition A Comprehensive Review</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-progressive-procedure-masterful-method-with-applewatch/"><u>[New] Progressive Procedure Masterful Method with AppleWatch</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-unveiling-iphonepcs-best-video-conversion-software-8/"><u>[Updated] 2024 Approved Unveiling iPhone/PC's Best Video Conversion Software #8</u></a></li>
+<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-tecno-pop-8-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Tecno Pop 8 | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/advance-igpu-drivers-for-quadro-gpus/"><u>Advance iGPU Drivers for Quadro GPUs</u></a></li>
+<li><a href="https://fox-that.techidaily.com/avoiding-tech-hassles-how-dfu-mode-can-fix-your-iphones-top-5-problems/"><u>Avoiding Tech Hassles: How DFU Mode Can Fix Your iPhone's Top 5 Problems</u></a></li>
+<li><a href="https://fox-that.techidaily.com/comprehensive-guide-to-correcting-iphone-alarm-malfunctions/"><u>Comprehensive Guide to Correcting iPhone Alarm Malfunctions</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/from-idea-to-interaction-steps-for-crafting-a-successful-product-evaluation-vlog-for-2024/"><u>From Idea to Interaction Steps for Crafting a Successful Product Evaluation Vlog for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/guide-resolve-the-final-text-line-missing-problem-in-iphone-apps/"><u>Guide: Resolve the 'Final Text Line Missing' Problem in iPhone Apps</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-acknowledgment-series-free-vs-paid-template-choices/"><u>In 2024, Acknowledgment Series Free vs Paid Template Choices</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-first-steps-in-photography-top-cameras-of-24/"><u>In 2024, First Steps in Photography Top Cameras of '24</u></a></li>
+<li><a href="https://fox-that.techidaily.com/mastering-the-fix-for-persistent-imessage-sign-out-issues-on-iphone-devices/"><u>Mastering the Fix for Persistent iMessage Sign-Out Issues on iPhone Devices</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-lenovo-thinkphone-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Lenovo ThinkPhone without Him Knowing | Dr.fone</u></a></li>
+</ul></div>
 

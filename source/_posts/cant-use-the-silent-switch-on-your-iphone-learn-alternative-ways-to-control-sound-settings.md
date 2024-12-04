@@ -1,7 +1,7 @@
 ---
 title: Can't Use the Silent Switch on Your iPhone? Learn Alternative Ways to Control Sound Settings
-date: 2024-11-18T20:04:39.927Z
-updated: 2024-11-24T18:16:55.205Z
+date: 2024-12-01T16:32:53.347Z
+updated: 2024-12-04T06:27:07.035Z
 tags:
   - iphone
   - apple
@@ -32,22 +32,22 @@ thumbnail: https://thmb.techidaily.com/50a0e21454dc02c593e958f3f8488f7e3d42941b9
 
 ![iPhone Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-with-assistivetouch-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![iPhone Accessibility settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-with-assistivetouch-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Touch settings on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-with-assistivetouch-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![enabling AssistiveTouch on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-with-assistivetouch-4.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Close
@@ -56,7 +56,15 @@ Close
 
 ![AssistiveTouch top-level menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-with-assistivetouch-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Mute option in AssistiveTouch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-with-assistivetouch-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -86,15 +94,7 @@ Close
 
 ![selecting Mute action for the new AssistiveTouch button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customizing-assistivetouch-top-level-menu-4.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Mute action in AssistiveTouch's top-level menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customizing-assistivetouch-top-level-menu-5.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Close
 
@@ -112,18 +112,18 @@ Follow these simple instructions to get this done:
 ![AssistiveTouch settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/setting-a-custom-action-for-assistivetouch-button-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![adding Mute action to Double-Tap gesture](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/setting-a-custom-action-for-assistivetouch-button-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Close
 
  Once set up, muting and unmuting your iPhone should be even easier. Simply perform the gesture to which you've assigned the Mute action, and it'll mute the device. Repeat it again to unmute.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Mute or Unmute iPhone Using Back Tap
 
@@ -137,6 +137,10 @@ Close
 ![iPhone Accessibility settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-using-back-tap-1.jpg)
 
 ![Back Tap feature under Touch Accessibility settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-using-back-tap-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -154,10 +158,6 @@ Close
  Now, whenever you want to mute your iPhone, simply perform the double-tap or triple-tap gesture on the back of your iPhone. To unmute it, perform the same gesture again.
 
  With certain iPhone cases, especially thicker ones, you might need to tap harder for the iPhone to register your taps and trigger the action.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Broken iPhone Ring/Silent Switch? No Problem
 
@@ -180,24 +180,18 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-social-media-strategies-twitch-videos-for-fb-audience/"><u>[New] In 2024, Social Media Strategies Twitch Videos for FB Audience</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-mastering-zoom-for-effective-fb-live-broadcasts-for-2024/"><u>[New] Mastering Zoom for Effective FB Live Broadcasts for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-redefine-gaming-radeons-latest-release/"><u>[Updated] 2024 Approved Redefine Gaming Radeon's Latest Release</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-boost-engagement-with-custom-images-for-your-videos-for-2024/"><u>[Updated] Boost Engagement with Custom Images for Your Videos for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-from-struggle-to-success-a-collection-of-best-practices-for-fb-profiles-for-2024/"><u>[Updated] From Struggle to Success A Collection of Best Practices for FB Profiles for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-gourmet-guides-leading-food-vloggers-online/"><u>2024 Approved Gourmet Guides Leading Food Vloggers Online</u></a></li>
-<li><a href="https://fox-that.techidaily.com/airpods-troubleshooting-dealing-with-a-loudness-discrepancy-between-ears/"><u>AirPods Troubleshooting - Dealing with a Loudness Discrepancy Between Ears</u></a></li>
-<li><a href="https://fox-that.techidaily.com/common-airplay-problems-and-how-to-fix-them-efficiently/"><u>Common AirPlay Problems and How to Fix Them Efficiently</u></a></li>
-<li><a href="https://fox-that.techidaily.com/face-id-malfunctioning-on-iphone-uncover-14-strategies-for-successful-recovery/"><u>Face ID Malfunctioning on iPhone: Uncover 14 Strategies for Successful Recovery</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fix-the-backup-issue-making-sure-whatsapp-updates-to-your-icloud-account-smoothly/"><u>Fix the Backup Issue: Making Sure WhatsApp Updates to Your iCloud Account Smoothly</u></a></li>
-<li><a href="https://fox-info.techidaily.com/full-unveiling-of-picsart-complete-users-guide/"><u>Full Unveiling of PicsArt Complete User's Guide</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-refresh-your-iphone-safely-using-soft-reset-methods/"><u>How To Refresh Your iPhone Safely Using Soft Reset Methods</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-honor-90-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Honor 90 to Latest Samsung | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/lost-sounds-on-iphone-reconnect-to-perfect-audio-with-these-solutions/"><u>Lost Sounds on iPhone? Reconnect to Perfect Audio with These Solutions</u></a></li>
-<li><a href="https://fox-that.techidaily.com/mastering-single-device-connectivity-a-guide-to-manage-your-airpods-with-apple-products/"><u>Mastering Single Device Connectivity: A Guide to Manage Your AirPods with Apple Products</u></a></li>
-<li><a href="https://fox-that.techidaily.com/overcome-safaris-image-load-issues-9-effective-strategies-for-your-iphone/"><u>Overcome Safari's Image Load Issues: 9 Effective Strategies for Your iPhone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/week-in-review-atandts-data-leak-exposed-and-samsung-unveils-latest-phone-line-up/"><u>Week in Review: AT&T's Data Leak Exposed & Samsung Unveils Latest Phone Line-Up</u></a></li>
-<li><a href="https://fox-that.techidaily.com/why-is-my-cell-phones-wi-fi-so-frustratingly-slow-explore-these-7-factors/"><u>Why Is My Cell Phone's Wi-Fi So Frustratingly Slow? Explore These 7 Factors</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/why-upgrading-to-chatgpt-plus-makes-sense-unveiling-9-compelling-reasons/"><u>Why Upgrading to ChatGPT Plus Makes Sense: Unveiling 9 Compelling Reasons</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-prime-fareless-streaming-and-recording-software/"><u>[Updated] In 2024, Prime Fareless Streaming & Recording Software</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/addressing-missing-image-display-in-youtubes-shorts-for-2024/"><u>Addressing Missing Image Display in YouTubes Shorts for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/assemble-films-for-streaming-organization/"><u>Assemble Films for Streaming Organization</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/banish-the-bsod-expert-tips-to-resolve-the-0x000000d1-problem/"><u>Banish the BSOD: Expert Tips to Resolve the 0X000000D1 Problem</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-as-your-personal-movie-and-series-advisor/"><u>ChatGPT as Your Personal Movie and Series Advisor</u></a></li>
+<li><a href="https://fox-that.techidaily.com/effective-solutions-for-pausing-resume-problems-with-ios-software-enhancements/"><u>Effective Solutions for Pausing-Resume Problems with iOS Software Enhancements</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Samsung Galaxy A05s | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-track-imei-number-of-lava-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Lava Through Google Earth?</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-unrivaled-sonic-union-for-speakers/"><u>In 2024, Unrivaled Sonic Union for Speakers</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solve-your-iphones-qr-code-scanning-problems-with-these-10-tips/"><u>Solve Your iPhone's QR Code Scanning Problems with These 10 Tips</u></a></li>
+<li><a href="https://fox-that.techidaily.com/steps-to-have-your-iphone-assessed-through-apples-online-tech-support/"><u>Steps To Have Your iPhone Assessed Through Apple's Online Tech Support</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-10-swift-solutions-get-your-iphone-and-ipad-widgets-running-smoothly/"><u>Top 10 Swift Solutions: Get Your iPhone & iPad Widgets Running Smoothly</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-instagram-delays-top-6-solutions-for-both-android-and-ios-users/"><u>Troubleshooting Instagram Delays: Top 6 Solutions for Both Android & iOS Users</u></a></li>
 </ul></div>
 

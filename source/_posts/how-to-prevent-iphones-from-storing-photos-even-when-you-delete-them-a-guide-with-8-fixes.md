@@ -1,7 +1,7 @@
 ---
 title: "How to Prevent iPhones From Storing Photos Even When You Delete Them: A Guide with 8 Fixes"
-date: 2024-08-27T14:38:42.299Z
-updated: 2024-08-28T14:38:42.299Z
+date: 2024-11-29T01:24:00.221Z
+updated: 2024-12-04T06:13:36.633Z
 tags:
   - iphone
   - apple
@@ -32,7 +32,15 @@ thumbnail: https://thmb.techidaily.com/1566f2e12245a235c67dc60282357da8be7ca7e87
 
 ![select option in recently deleted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/select-option-in-recently-deleted.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![all photos selected to delete](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/all-photos-selected-to-delete.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![recover and delete options in recently deleted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/recover-and-delete-options-in-recently-deleted.jpg)
 
@@ -44,9 +52,6 @@ Close
 
  Rebooting the system is a conventional fix to numerous bugs and errors. After you've removed a huge chunk of media from your storage, it's important to [restart your iPhone](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) . This will hopefully clear out any temporary hiccups causing your available storage to show incorrectly.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Update to the Latest iOS Software
 
  More often than not, there may be a minor bug in the current version of iOS you're using that's causing the problem. Apple usually fixes this in the next version of iOS, so make sure you have updated your iPhone to the latest iOS. To update your software, follow these steps:
@@ -57,19 +62,10 @@ Close
 
 ![general in iPhone settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/general-in-iphone-settings-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ![software update in general settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/software-update-in-general-settings-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ![software update available in settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/software-update-available-in-settings-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Close
 
 ## 4\. Modify the Date and Time to Reveal Old Photos
@@ -88,19 +84,20 @@ Close
 ![iOS Settings General Page Open](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/ios-general-settings.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![date & time general settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/date-time-general-settings.jpg)
 
 ![date & time set automatically toggle turned off](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/date-time-set-automatically-toggle-turned-off.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Close
 
  Deleting these "ghost files" that reappear should help free up that extra space on your iPhone (and even iCloud). Don't forget to set the time option back to automatic when you're done!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Disable iCloud Sync (After Completing a Backup)
 
@@ -118,12 +115,17 @@ Close
 
 ![iCloud options under Apple ID settings on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/icloud-options-under-apple-id-settings-on-iphone.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![sync this iPhone toggle in iCloud photos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/sync-this-iphone-toggle-in-icloud-photos-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Close
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Optimize iPhone Photos for Storage
 
@@ -142,8 +144,9 @@ Close
 Close
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Factory Reset Your iPhone
 
  If you've tried all the above steps and your storage is still taken up by photos that don't exist, you should next opt for a [full iPhone reset](https://www.makeuseof.com/tag/how-to-factory-reset-iphone-ipad/) . This is a drastic measure, but it will hopefully clear out any persistent issues causing the storage glitch.
@@ -161,13 +164,11 @@ To factory reset your iPhone, follow these steps:
 ![general in iPhone settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/general-in-iphone-settings-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Settings on iOS 17 showing the Transfer or Reset iPhone option highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/apple-ios-17-settings-transfer-or-reset-iphone-highlighted.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![reset iPhone options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/reset-iphone-options.jpg)
 
 Close
@@ -191,6 +192,10 @@ Close
 * [Offload apps](https://www.makeuseof.com/tag/delete-offload-apps-save-space-iphone-ipad/) that take up a great amount of storage.
 * Disable iCloud Photos if you don't use it—consider backing up photos to another cloud service.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Your iPhone Storage Can Breathe Now
 
  This iPhone and iCloud storage error, experienced by many, is definitely a pain. Fortunately, there are some ways around it. Hopefully, the methods presented here let you get your photo storage usage back to normal.
@@ -203,8 +208,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -212,4 +215,22 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-stream.techidaily.com/new-propel-your-youtube-presence-via-advanced-creator-studio-techniques/"><u>[New] Propel Your Youtube Presence via Advanced Creator Studio Techniques</u></a></li>
+<li><a href="https://fox-that.techidaily.com/7-proven-methods-to-enhance-clarity-on-your-iphones-photography-features/"><u>7 Proven Methods to Enhance Clarity on Your iPhone's Photography Features</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/audio-visual-converters-forum/"><u>Audio Visual Converters Forum</u></a></li>
+<li><a href="https://blog-min.techidaily.com/essential-guide-to-using-a-mac-youtube-downloader-fixing-common-issues-and-learning-effective-techniques/"><u>Essential Guide to Using a Mac YouTube Downloader: Fixing Common Issues and Learning Effective Techniques</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-resolve-back-aturfy-bloods-unreal-engine-4-gobi-error-issue-successfully/"><u>How to Resolve Back Aturfy Blood's Unreal Engine 4 Gobi Error Issue Successfully</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-things-you-should-know-when-unlocking-total-wireless-of-iphone-xr-drfone-by-drfone-ios/"><u>In 2024, Things You Should Know When Unlocking Total Wireless Of iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-samsung-galaxy-a34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Samsung Galaxy A34 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-snap-fail-uncovering-the-7-most-common-camera-issues-and-their-fixes/"><u>IPhone Snap-Fail: Uncovering the 7 Most Common Camera Issues and Their Fixes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/mastering-iphone-voicemail-troubleshooting-with-these-9-proven-tips/"><u>Mastering iPhone Voicemail Troubleshooting with These 9 Proven Tips</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/optimizing-screen-recording-on-iphoneipad-for-2024/"><u>Optimizing Screen Recording on iPhone/iPad for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-safari-image-loading-glitches-in-ios-a-guide-with-9-fixes/"><u>Overcoming Safari Image Loading Glitches in iOS: A Guide with 9 Fixes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/rapid-repairs-for-broken-emoji-suggestions-in-ios-devices-7-steps-revealed/"><u>Rapid Repairs for Broken Emoji Suggestions in iOS Devices - 7 Steps Revealed</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-uneven-sound-discover-why-your-airpods-have-volume-imbalance-and-top-remedies/"><u>Solving Uneven Sound: Discover Why Your AirPods Have Volume Imbalance & Top Remedies</u></a></li>
+<li><a href="https://apple-account.techidaily.com/the-easy-way-to-remove-an-apple-id-from-your-macbook-for-your-iphone-6s-plus-by-drfone-ios/"><u>The Easy Way to Remove an Apple ID from Your MacBook For your iPhone 6s Plus</u></a></li>
+<li><a href="https://article-helps.techidaily.com/unlocking-visual-treasures-without-cost/"><u>Unlocking Visual Treasures Without Cost</u></a></li>
+</ul></div>
 

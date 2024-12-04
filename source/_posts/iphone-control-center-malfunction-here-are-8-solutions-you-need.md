@@ -1,7 +1,7 @@
 ---
 title: IPhone Control Center Malfunction? Here Are 8 Solutions You Need
-date: 2024-08-27T14:35:28.757Z
-updated: 2024-08-28T14:35:28.757Z
+date: 2024-11-29T17:12:05.870Z
+updated: 2024-12-04T05:52:28.400Z
 tags:
   - iphone
   - apple
@@ -38,13 +38,18 @@ thumbnail: https://thmb.techidaily.com/8dec14c118d7ee81f46eabd3dcf3a5188bbf56bf8
 
 ![iPhone Settings VoiceOver option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-settings-voiceover-option.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![iPhone Settings VoiceOver toggle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-settings-voiceover-toggle.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ## 3\. Enable Control Center Access When Locked
 
  This one is for those having trouble accessing Control Center from the Lock Screen on their iPhones. It only happens when you don't give access to Control Center when your iPhone is locked.
@@ -58,18 +63,17 @@ Close
 ![iPhone Settings Face ID & Passcode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-settings-face-id-passcode.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![iPhone Enter Passcode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-enter-passcode.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![iPhone Face ID & Passcode settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-face-id-passcode-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 Close
 
  After this, you should be able to access the Control Center from your iPhone'sLock Screen.
@@ -84,12 +88,13 @@ Close
 
 ![iPhone Control Center Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-control-center-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 Close
 
  Once enabled, you should be able to access the Control Center while using apps on your iPhone.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Update to the Latest iOS Version
 
@@ -103,16 +108,10 @@ Close
 
 ![iPhone General in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-general-in-settings.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ![iPhone Software Update option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-software-update-option.jpeg)
 
 ![iPhone Download and Install update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-download-and-install-update.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Close
 
  Once your iPhone is running the latest iOS version, try opening the Control Center again. If it's still not working, try some other solutions mentioned below.
@@ -130,16 +129,18 @@ Close
 
 ![iPhone Control Center Settings-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-control-center-settings-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![iPhone Control Center Remove button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-control-center-remove-button.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![iPhone Control Center Add option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-control-center-add-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Close
 
  After [customizing the Control Center on your iPhone](https://www.makeuseof.com/how-to-use-customize-control-center-iphone/) , try launching it again to check if the issue is fixed.
@@ -154,6 +155,10 @@ Close
 
  You can [restart your iPhone even if its buttons are broken](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) . Turn your iPhone on and check if you can access the Control Center.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8\. Reset Your iPhone's Settings
 
  Your final option is to reset all the settings of your iPhone if the Control Center is still not functioning properly despite applying all the methods mentioned in this post.
@@ -166,11 +171,12 @@ Close
 
 ![iPhone Settings Tranfer or Reset iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-settings-tranfer-or-reset-iphone.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![iPhone Reset Settings option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-reset-settings-option.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![iPhone Reset All Settings option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-reset-all-settings-option.jpg)
 
 Close
@@ -189,8 +195,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -198,4 +202,24 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-mastery-over-light-and-shadow-with-hdr-software-for-2024/"><u>[New] Mastery Over Light and Shadow with HDR Software for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-iphone-photography-wonders-capturing-surface-mirrors/"><u>[Updated] 2024 Approved IPhone Photography Wonders Capturing Surface Mirrors</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-perfecting-elite-canon-time-lapse-cinematic/"><u>[Updated] Perfecting Elite Canon Time-Lapse Cinematic</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-pro-gamers-and-casters-to-subscribe-now/"><u>[Updated] Pro Gamers & Casters to Subscribe Now!</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-top-steadicam-models-compatible-with-dslr-cameras/"><u>[Updated] Top Steadicam Models Compatible with DSLR Cameras</u></a></li>
+<li><a href="https://fox-that.techidaily.com/headphone-hold-up-try-these-8-tricks-to-free-up-your-iphones-audio-functionality/"><u>Headphone Hold-Up? Try These 8 Tricks to Free Up Your iPhone's Audio Functionality</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-asus-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Asus PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-icloud-activation-lock-with-imei-code-from-your-apple-iphone-se-2022-by-drfone-ios/"><u>In 2024, Bypass iCloud Activation Lock with IMEI Code From your Apple iPhone SE (2022)</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-realme-c55-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Realme C55 to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/master-control-over-your-airpod-pairings-avoid-unwanted-auto-switching-with-these-techniques/"><u>Master Control Over Your AirPod Pairings: Avoid Unwanted Auto-Switching with These Techniques</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-effortless-mp4-video-editing-tips-tricks-and-techniques-for-mac-and-windows-users/"><u>New Effortless MP4 Video Editing Tips, Tricks, and Techniques for Mac and Windows Users</u></a></li>
+<li><a href="https://fox-that.techidaily.com/prevent-your-airpods-from-automatically-connecting-to-multiple-iphones-or-macs-a-step-by-step-guide/"><u>Prevent Your AirPods From Automatically Connecting to Multiple iPhones or Macs: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolving-your-iphones-imessage-signed-out-dilemma-a-step-by-step-guide/"><u>Resolving Your iPhone's iMessage 'Signed Out' Dilemma: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/revive-grayed-out-icloud-preferences-in-ios-with-these-4-tips/"><u>Revive Grayed-Out iCloud Preferences in iOS with These 4 Tips</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-liquid-damage-warnings-a-step-by-step-guide-for-iphone-usb-c-ports/"><u>Solving 'Liquid Damage' Warnings: A Step-by-Step Guide for iPhone USB-C Ports</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-solutions-for-safari-malfunctions-in-ios-devices/"><u>Top Solutions for Safari Malfunctions in iOS Devices</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-guide-how-to-fix-an-iphone-not-picking-up-callers/"><u>Troubleshooting Guide: How to Fix an iPhone Not Picking Up Callers</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Breeze Through It: The 10 Simplest Methods for Solving Typical Apple Pay Glitches"
-date: 2024-08-27T14:34:29.939Z
-updated: 2024-08-28T14:34:29.939Z
+date: 2024-11-30T02:45:02.069Z
+updated: 2024-12-04T01:46:42.607Z
 tags:
   - iphone
   - apple
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/573a01f636332d7e5c995b169e7da5e56cb9c949c
 
  If the POS system accepts Apple Pay, ask the store clerk if they frequently encounter similar issues with mobile payments. They might know some quick fixes. For instance, they might need to check the POS internet connection or change a setting at the checkout. They could even advise you to take off your phone case or hold the phone at a specific angle to improve NFC connectivity.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Restart Your iPhone
 
  Before deciding to perform more extensive troubleshooting methods,[try restarting your iPhone](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) . Don’t skip this tip. A quick restart refreshes your device’s memory and clears the temporary cache, which might be interfering with the Apple Pay feature.
@@ -34,9 +38,6 @@ thumbnail: https://thmb.techidaily.com/573a01f636332d7e5c995b169e7da5e56cb9c949c
 
 ![Screenshot of Apple System Status homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/screenshot-apple-system-status.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
  Once you’ve confirmed the store’s POS terminal, check the service’s status online. Apple Pay rarely goes offline. However, Apple might temporarily halt its Apple Pay services in specific areas when performing system-wide maintenance checkups and repairs.
 
  Also, it takes less than 30 seconds to check the status; you wouldn’t lose much time either way. Just go to [Apple’s System Status](https://www.apple.com/support/systemstatus/) page and look for**Apple Pay & Wallet** . Here’s an explanation of what the various symbols mean:
@@ -45,25 +46,20 @@ thumbnail: https://thmb.techidaily.com/573a01f636332d7e5c995b169e7da5e56cb9c949c
 * **Yellow Diamond:** The yellow diamond means that Apple discovered potential performance issues, indicating that the service may be temporarily down.
 * **Red Triangle:** A red triangle only appears if the developers declare a system-wide outage.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Set Up Apple Pay Again
 
  If you receive an error message indicating that your Wallet doesn’t detect your card, disable Apple Pay for your Apple ID account then enable it again.
 
  Go to **Settings > \[Your Name\] > Payment and Shipping > Apple Pay** . Then tap**Remove Apple Pay** . Afterward, sign out of your Apple ID, restart your iPhone, then sign in to your account and set up Apple Pay again.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Manually Select Your Card
 
 ![Woman changing the card on her mobile wallet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/woman-holding-card-and-smartphone.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Apple Pay automatically uses your default card for all payments—online and offline. Although this feature streamlines checkouts, the NFC chips on POS terminals don’t always read Apple Pay properly.
 
  In these instances, you’ll need to select your preferred card manually. To pay with a card manually, go to the**Wallet** app by double-clicking the**Side** button or the**Home** button and choose the card you want to use for the purchase. Afterward, bring your phone up near the POS terminal. If the reason why Apple Pay wasn’t working involved NFC connectivity, your transaction should finally push through.
@@ -76,10 +72,6 @@ thumbnail: https://thmb.techidaily.com/573a01f636332d7e5c995b169e7da5e56cb9c949c
 
  To add and remove cards, go to**Settings > Wallet & Apple Pay > Payment Cards** , then select**Remove This Card** on the malfunctioning card—or all your accounts. Afterward, restart your iPhone to clear the cache. Go back to the**Payment Cards** section and select**Add Card** . Repeat this as many times as needed.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 ## 7\. Check Your Address and ZIP Code
 
  If you encounter an error prompt that says “Address did not match” when removing and adding credit cards, you might need to update your billing address. Note that you’ll have to update the following:
@@ -93,18 +85,13 @@ The ultimate burning program for all your needs!</a>
 ![Screenshot of the Apple Pay address section](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/screenshot-of-apple-pay-address-section.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Screenshot of changing the billing address](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/screenshot-of-changing-billing-address.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 Close
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ## 8\. Recheck Push Notifications
 
  Make sure Apple Pay push notifications are enabled. Although they don’t directly affect the app’s performance, it’s helpful to receive timely transaction notifications while configuring payments, especially if you’re adding and removing cards. In the worst cases, you might miss crucial error prompts and system updates.
@@ -115,13 +102,25 @@ Close
 
 ![The notifications settings of an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/notifications-settings-iphone.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The notifications settings of the Apple Pay wallet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/notifications-settings-wallet.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
 ## 9\. Recalibrate the Time and Date
 
  If you’re having trouble adding and removing credit cards to your Apple Pay app, check your device’s date and time. You might have accidentally changed it. Go to**Settings > General > Date and Time** , then toggle the**Set Automatically** feature to ensure that your device always stays updated no matter where you go.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 10\. Ask the Apple Pay Support Communities
 
@@ -132,8 +131,9 @@ Close
 ![Screenshot of Apple Pay Community questions page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/screenshot-apple-pay-community-questions.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## If All Else Fails, Contact Customer Support
 
  Contact [Apple’s customer support](https://getsupport.apple.com) team if Apple Pay still isn’t working so that they can scan for hardware defects. They’ll likely check your NFC chip. However, hopefully one of the troubleshooting tips mentioned above gets Apple Pay properly running again on your iPhone.
@@ -146,8 +146,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -155,4 +153,20 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-ultimate-full-screen-tips-for-premiere-pro-users/"><u>[New] 2024 Approved Ultimate Full Screen Tips for Premiere Pro Users</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-audio-alchemy-mixing-techniques-for-sound-fusion-with-davinci-resolve/"><u>[New] Audio Alchemy Mixing Techniques for Sound Fusion with DaVinci Resolve</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-examining-instagrams-unusual-video-aspect-ratio-anomalies/"><u>[Updated] Examining Instagram's Unusual Video Aspect Ratio Anomalies</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-streaming-wars-the-digital-platform-showdown/"><u>2024 Approved Streaming Wars The Digital Platform Showdown</u></a></li>
+<li><a href="https://win-web3.techidaily.com/comment-recuperer-vite-les-informations-sur-un-disque-dur-nettoyer/"><u>Comment Recuperer Vite Les Informations Sur Un Disque Dur Nettoyer</u></a></li>
+<li><a href="https://fox-that.techidaily.com/comprehensive-solution-for-iphone-error-4013-during-updates-and-system-restores/"><u>Comprehensive Solution for iPhone Error 4013 During Updates and System Restores</u></a></li>
+<li><a href="https://fox-that.techidaily.com/improve-your-iphones-internet-connection-with-these-8-simple-wi-fi-tweaks/"><u>Improve Your iPhone's Internet Connection with These 8 Simple Wi-Fi Tweaks</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-how-to-bur-background-in-google-meet/"><u>In 2024, How to Bur Background in Google Meet</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-lava-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Lava Device</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/languagequest-immersive-vr-for-linguistic-journeys/"><u>LanguageQuest: Immersive VR for Linguistic Journeys</u></a></li>
+<li><a href="https://fox-that.techidaily.com/master-these-10-techniques-for-stable-iphone-app-performance-and-no-more-crashes/"><u>Master These 10 Techniques for Stable iPhone App Performance and No More Crashes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolving-ios-updaterestore-error-4013-a-step-by-step-guide/"><u>Resolving iOS Update/Restore Error 4013: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solve-your-idevices-typing-troubles-keyboard-malfunctions-addressed-with-6-effective-fixes/"><u>Solve Your iDevice's Typing Troubles: Keyboard Malfunctions Addressed with 6 Effective Fixes</u></a></li>
+</ul></div>
 

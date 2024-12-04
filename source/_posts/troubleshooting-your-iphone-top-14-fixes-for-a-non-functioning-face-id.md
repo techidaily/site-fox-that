@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Your iPhone: Top 14 Fixes for a Non-Functioning Face ID"
-date: 2024-08-27T14:33:54.193Z
-updated: 2024-08-28T14:33:54.193Z
+date: 2024-11-29T20:10:56.524Z
+updated: 2024-12-04T06:29:30.649Z
 tags:
   - iphone
   - apple
@@ -22,9 +22,17 @@ thumbnail: https://thmb.techidaily.com/b5dfde40e2a9ad5275b840b5f0fbb161aac4de7d7
 
  Your browser does not support the video tag.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When Does Face ID Become Unavailable?
 
 ![A young woman standing at the beach and unlocking her iPhone X with Face ID](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/Apple-iPhone-X-Face-ID.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Image Credit:[Apple](https://www.apple.com/newsroom/2017/09/the-future-is-here-iphone-x/)
 
@@ -38,6 +46,10 @@ thumbnail: https://thmb.techidaily.com/b5dfde40e2a9ad5275b840b5f0fbb161aac4de7d7
 * You last used Face ID to unlock the device in the last four hours and your passcode in more than 156 hours (six and a half days).
 
 And now, let's check out our Face ID fixes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Check Your Face ID Settings
 
@@ -54,9 +66,6 @@ And now, let's check out our Face ID fixes.
 
 Close
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ## 2\. Allow Face ID in Third-Party Apps
 
  Your favorite third-party apps for banking, payment, instant messaging, etc., might use Face ID for login authentication. If you denied an app permission to use Face ID in the past, however, you'll be prompted to enter your device's passcode each time instead.
@@ -71,17 +80,19 @@ Here's how to turn on Face ID for a compatible third-party app:
 ![Face ID settings on iPhone with the Other Apps option highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/apple-ios-16-4-iphone-face-id-settings-other-apps-option-highlighted.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Face ID settings on iPhone with WhatsApp highlighted in the Other Apps section](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/apple-ios-16-4-iphone-face-id-settings-other-apps-whatsapp-highlighted.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
  Alternatively, tap the desired app in the root list of the Settings app (like**Settings > WhatsApp**) and verify whether Face ID has been switched on.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Clean the TrueDepth Camera Sensor
 
 ![Closeup of the iPhone X TrueDepth camera sensor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/01/iPhone-X-truedepth-notch-sensors.jpg)
@@ -91,8 +102,9 @@ Close
  Over time, the TrueDepth camera lens could become dirty or greasy. Use a soft, dry cloth to wipe the sensor array at the top so nothing obscures it. Some rugged cases and thick screen protectors may slightly cover the sensors, throwing Face ID off, so consider removing them.
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Avoid Blocking Your Face
 
  For Face ID to perform smoothly, the TrueDepth camera needs a clear view of your eyes, nose, and mouth, so avoid obscuring this area with a veil or similar clothing. If you've [set up Face ID with a mask](http://www.makeuseof.com/how-to-use-face-id-with-mask-on-iphone/) , ensure your eyes aren't blocked when using the feature.
@@ -111,6 +123,10 @@ Close
 
  Face ID works in both portrait and landscape, but only the iPhone 13 or newer with iOS 16 or later supports landscape Face ID. As for the Face ID with a mask feature, it only works in portrait mode on the iPhone 12 and later with iOS 15.4 and newer, as per [Apple's website](https://support.apple.com/HT208114) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Restart Your iPhone or iPad
 
  A restart is the most basic fix for any issue. It involves two steps. Firstly,[turn off your iPhone](https://www.makeuseof.com/how-to-turn-off-iphone/) in**Settings > General > Shut Down** . And secondly, wait about a minute before turning the device back on.
@@ -122,15 +138,13 @@ Close
 ![Apple iOS 16.3 iPhone Settings app General option highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/apple-ios-16-3-iphone-settings-app-general-option-highlighted.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Apple iOS 16.3 iPhone Settings app Software Update option highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/apple-ios-16-3-iphone-settings-app-software-update-option-highlighted.jpg)
 
 ![Apple iOS 16.3 iPhone Settings app Software Update no updates](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/apple-ios-16-3-iphone-settings-app-software-update-no-updates.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Close
 
  Apple regularly updates iOS and iPadOS to fix bugs, patch vulnerabilities, and improve its software. If Face ID doesn't work, the problem may be at a deeper software level. In that case,[update your iPhone](https://www.makeuseof.com/tag/update-iphone-ios-apps-data/) to the latest version of iOS by heading over to**Settings > General > Software Update** .
@@ -147,6 +161,10 @@ Follow these steps to set up an alternate Face ID appearance:
 
  Face ID continuously learns and updates its mathematical representation of your face as your appearance changes and evolves. But if you suddenly look vastly different (i.e., after shaving a full beard), configuring an alternate appearance will ensure Face ID still recognizes you.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 10\. Reset Face ID and Set It Up Again
 
  When Face ID is not working or is unavailable, resetting the feature could help. Doing so will remove any saved faces, and you'll need to set up Face ID again from scratch.
@@ -160,18 +178,12 @@ Here's how to reset Face ID on your iPhone:
 
 ![The iPhone Settings app with the Reset Face ID option highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/apple-ios-16-3-iphone-settings-app-reset-face-id-option-highlighted.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ![Apple iOS 16.3 iPhone Settings app Set Up Face ID option highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/apple-ios-16-3-iphone-settings-app-set-up-face-id-option-highlighted.jpg)
 
  The iPhone Settings app with the Set Up Face ID option highlighted
 
 Close
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ## 11\. Reset Device Settings
 
  Resetting all settings might fix Face ID, but it will also revert your Home Screen layout, keyboard dictionary, network preferences, and other settings to factory defaults. Any installed apps and personal data like photos, videos, music, and individual files won't be deleted.
@@ -180,32 +192,24 @@ Close
 
 ![The iPhone Settings app with the Reset option highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/apple-ios-16-3-settings-app-reset-iphone-option-highlighted.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ![The iPhone Settings app with the Reset All Settings highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/apple-ios-16-3-iphone-settings-app-reset-all-settings-option-highlighted.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 Close
 
  To reset your iPhone or iPad, venture into **Settings > General > Transfer or Reset iPhone > Reset** , then hit the**Reset All Settings** option. You'll need to enter your passcode to confirm the action. With the reset completed, set up Face ID again and see if it works.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 12\. Erase and Factory Reset Your iPhone
 
  If none of the above solutions help, consider [factory resetting your iPhone or iPad](https://www.makeuseof.com/tag/how-to-factory-reset-iphone-ipad/) . This will erase everything, including apps, photos, settings, and all other data on the device. Therefore, back up your iPhone or iPad first, just in case. Once the reset completes, you can set up the device as new or [restore your iPhone from a backup](https://www.makeuseof.com/tag/restore-iphone-ipad-from-backup/) saved in iCloud or your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 13\. Ensure Apple Carries Out Your Repairs
 
  Did you recently get your iPhone's screen replaced? Or did you get it repaired for some hardware problem at an unauthorized service center? Face ID might only work after being fixed at an Apple Store or authorized repair shop. That's because official repairs need to authenticate the new Face ID sensor with Apple's servers. Using non-genuine Face ID parts might prevent the feature from functioning correctly.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ## 14\. Contact Apple Support
 
  If you've recently dropped your iPhone and damaged the TrueDepth camera, Face ID will probably crash on the setup screen, be unavailable, or not work at all. Face ID might also act up if your iPhone was dunked in the water or spent underwater for a long time. So, contact Apple Support to schedule a store visit in any of those cases.
@@ -222,8 +226,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -231,4 +233,22 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-compiling-leading-short-form-video-editors-iosandroid-edition/"><u>[New] In 2024, Compiling Leading Short-Form Video Editors IOS/Android Edition</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-upgrade-your-video-presentations-zooming-through-filter-techniques/"><u>[New] In 2024, Upgrade Your Video Presentations Zooming Through Filter Techniques</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/eamless-online-sound-conversion-ideal-tools-for-iphone-and-youtube-mp3s/"><u>[New] Seamless Online Sound Conversion Ideal Tools for iPhone and YouTube MP3s</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-explore-ingenious-techniques-for-voice-transformation-at-zero-price/"><u>[Updated] 2024 Approved Explore Ingenious Techniques for Voice Transformation at Zero Price</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-leading-transformation-software-spectrashift-series/"><u>2024 Approved Leading Transformation Software SpectraShift Series</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/discovering-the-best-in-display-tech-10-list-for-your-mac/"><u>Discovering the Best in Display Tech - #10 List for Your Mac</u></a></li>
+<li><a href="https://fox-that.techidaily.com/effective-strategies-for-correcting-error-code-14-on-your-apple-smartphone/"><u>Effective Strategies for Correcting Error Code 14 on Your Apple Smartphone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/elevate-your-phone-photography-game-expert-advice-and-quick-solutions-to-iphone-camera-roll-issues-top-8/"><u>Elevate Your Phone Photography Game: Expert Advice & Quick Solutions to iPhone Camera Roll Issues (Top 8)</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-recover-accidentally-deleted-iphone-images-top-8-methods/"><u>How to Recover Accidentally Deleted iPhone Images: Top 8 Methods</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-obstacles-restarting-and-resolving-apples-screen-lock-problems/"><u>Overcoming Obstacles: Restarting and Resolving Apple's Screen Lock Problems</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/revive-your-phone-and-enhance-productivity-with-multiple-displays-plus-transcribe-songs-effortlessly-on-the-abbyy-platform/"><u>Revive Your Phone & Enhance Productivity with Multiple Displays + Transcribe Songs Effortlessly on the ABBYY Platform</u></a></li>
+<li><a href="https://fox-that.techidaily.com/reviving-your-iphone-a-comprehensive-walkthrough-of-itune-free-factory-resets/"><u>Reviving Your iPhone: A Comprehensive Walkthrough of ITune-Free Factory Resets</u></a></li>
+<li><a href="https://fox-that.techidaily.com/step-by-step-guide-correcting-your-iphones-last-line-unreachable-problem/"><u>Step-by-Step Guide: Correcting Your iPhone's 'Last Line Unreachable' Problem</u></a></li>
+<li><a href="https://video-capture.techidaily.com/ultimate-guide-to-free-mkv-video-playback-for-all-platforms-including-windows-mac-and-mobile-devices/"><u>Ultimate Guide to Free MKV Video Playback for All Platforms Including Windows, Mac & Mobile Devices</u></a></li>
+<li><a href="https://win-news.techidaily.com/wbadminwindows-10/"><u>WBadminでWindows 10上で安全なシステムバックアップ作成法</u></a></li>
+</ul></div>
 

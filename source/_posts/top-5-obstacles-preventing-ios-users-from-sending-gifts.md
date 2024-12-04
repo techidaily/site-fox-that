@@ -1,7 +1,7 @@
 ---
 title: Top 5 Obstacles Preventing iOS Users From Sending Gifts
-date: 2024-08-27T14:33:36.271Z
-updated: 2024-08-28T14:33:36.271Z
+date: 2024-12-01T19:30:38.127Z
+updated: 2024-12-03T16:53:47.514Z
 tags:
   - iphone
   - apple
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/14a25359b86e19d1002308583500dde5e5cec0555
 
  For instance, if you're going to gift an app or game from the App Store in the United States, the person you're sending it to must also have an Apple ID in the United States. However, they can work around this by [changing their App Store country](https://www.makeuseof.com/tag/dont-switch-international-itunes-media-app-store-youve-read/) , but it has its own set of drawbacks.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. You're in an Unsupported Country or Region
 
  You might be unable to send gifts because you can't buy music, apps, movies, or books in your country or region. This is because certain countries or regions cannot access some Apple services. For instance, if you live in Croatia, you won't be able to gift books from the App Store.
@@ -31,43 +35,39 @@ thumbnail: https://thmb.techidaily.com/14a25359b86e19d1002308583500dde5e5cec0555
  It's possible to solve this problem by changing your App Store and iTunes country, but, as we mentioned earlier, it has a few issues of its own. You can visit [Apple Support](https://support.apple.com/en-us/HT204411) to learn what Apple services your country can access.
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Your Family Sharing Settings
 
 ![Screenshot of Family Sharing setup on a Mac](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-family-sharing-setup-on-a-mac.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 [Apple's Family Sharing](https://www.makeuseof.com/tag/set-family-sharing-share-apps-music-itunes-purchases/) lets you share Apple content and subscriptions with your family. If you've enabled this feature on your device and turned on**Ask to Buy** , it'll prevent you from sending gifts. After turning it off, you should be able to purchase gifts.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Using the Wrong Device to Gift an Item
 
 ![A gold iPhone on top of a gold MacBook](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/a-gold-iphone-on-top-of-a-gold-macbook.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  What you can gift depends on whether you're on an iPhone, iPad, Mac, or PC. You can send gifts from the App Store, Apple Books, or iTunes Store on an iPhone or iPad. On a Mac or PC, you can send gifts using the iTunes Store.
 
  You need an iPhone or iPad to gift apps, TV shows, or movies and a Mac or PC to gift individual songs. For now, there's no workaround for this.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 5\. You're Trying to Gift a Free App
 
  If you can't gift an item from the App Store, it might be because it's free. While you can only gift paid items, it is possible to share free ones as well. To do so, tap the share button beside the app, then select a recipient or your means of sending it.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ## Make the Most of Apple's Gifting Feature
 
  Looking for a great gift for a loved one who's also an Apple user? Send them an app, song, book, or another item you know they'll love from your device.
@@ -80,8 +80,6 @@ thumbnail: https://thmb.techidaily.com/14a25359b86e19d1002308583500dde5e5cec0555
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -89,4 +87,24 @@ thumbnail: https://thmb.techidaily.com/14a25359b86e19d1002308583500dde5e5cec0555
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-flash-fixing-fame-is-it-youtubes-shorts-or-tiktok-for-quick-content-conquest/"><u>[New] 2024 Approved Flash-Fixing Fame Is It YouTubes Shorts or TikTok for Quick Content Conquest?</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-3-steps-to-create-professional-gopro-vlogs-ultimate-tutorial/"><u>[New] 3 Steps to Create Professional Gopro Vlogs Ultimate Tutorial</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-cutting-edge-techniques-in-image-fusion/"><u>[New] In 2024, Cutting-Edge Techniques in Image Fusion</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-become-an-instagram-broadcast-pro-learning-through-obs/"><u>[Updated] In 2024, Become an Instagram Broadcast Pro Learning Through OBS</u></a></li>
+<li><a href="https://fox-that.techidaily.com/cant-use-qr-scanner-app-try-these-effective-fixes-for-iphone-users/"><u>Can't Use QR Scanner App? Try These Effective Fixes for iPhone Users</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/footwear/"><u>Footwear</u></a></li>
+<li><a href="https://fox-that.techidaily.com/forget-the-old-code-heres-how-to-set-a-new-screen-time-passcode-on-ios-and-macos-devices/"><u>Forget the Old Code? Here’s How to Set a New Screen Time Passcode on iOS and macOS Devices</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-copyright-free-game-audio-repositories/"><u>In 2024, Copyright-Free Game Audio Repositories</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-crafting-compelling-visual-stories-with-engaging-voices/"><u>In 2024, Crafting Compelling Visual Stories With Engaging Voices</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/incorporate-chatgpt-into-your-app-essential-api-instructions/"><u>Incorporate ChatGPT Into Your App: Essential API Instructions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/keyboard-conundrum-on-ios-devices-overcome-top-6-common-ipadiphone-typing-issues-easily/"><u>Keyboard Conundrum on iOS Devices? Overcome Top 6 Common iPad/iPhone Typing Issues Easily</u></a></li>
+<li><a href="https://fox-that.techidaily.com/navigating-apples-remote-examination-process-for-comprehensive-iphone-hardware-testing/"><u>Navigating Apple’s Remote Examination Process for Comprehensive iPhone Hardware Testing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reconciling-error-xc0f1103f-in-windows-11-with-nvidia/"><u>Reconciling Error Xc0f1103f in Windows 11 with NVIDIA</u></a></li>
+<li><a href="https://fox-that.techidaily.com/step-by-step-guide-reinstalling-ios-on-your-iphone-without-using-itunes/"><u>Step-by-Step Guide: Reinstalling iOS on Your iPhone without Using iTunes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/step-by-step-solutions-for-non-functioning-guided-access-on-iphones/"><u>Step-by-Step Solutions for Non-Functioning Guided Access on iPhones</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-stuck-iphone-volume-controls-with-7-effective-solutions/"><u>Troubleshoot Stuck iPhone Volume Controls with 7 Effective Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/ultimate-guide-solving-the-black-screen-issue-on-your-iphone/"><u>Ultimate Guide: Solving the 'Black Screen' Issue on Your iPhone</u></a></li>
+</ul></div>
 

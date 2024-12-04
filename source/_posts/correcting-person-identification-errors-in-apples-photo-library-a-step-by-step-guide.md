@@ -1,7 +1,7 @@
 ---
 title: "Correcting Person Identification Errors in Apple's Photo Library: A Step-by-Step Guide"
-date: 2024-08-27T14:32:40.074Z
-updated: 2024-08-28T14:32:40.074Z
+date: 2024-11-28T21:34:58.238Z
+updated: 2024-12-04T01:12:19.866Z
 tags:
   - iphone
   - apple
@@ -31,11 +31,19 @@ thumbnail: https://thmb.techidaily.com/4ba28a3dd24936be14c010b9b472cc28e6164f2dd
 
 ![review more photos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/review-more-photos.PNG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![confirm person](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/confirm-person.PNG)
 
 Close
 
  Read More:[Tips That Will Help You Master the People Album in Photos](https://www.makeuseof.com/tips-to-master-people-album-photos-iphone/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Fix Misidentified People in Photos on iPhone or iPad
 
@@ -50,13 +58,16 @@ Close
 
 ![this is not X option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/this-is-not-X-option.PNG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Close
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Fix Misidentified People in Photos on a Mac
 
  Removing photos from another person's album on a Mac is just as easy as it is on your iPhone. Follow these steps to do so:
@@ -70,29 +81,20 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 ![Person is not in this photo option in Photos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/Person-is-not-in-this-photo-option-in-Photos.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
+
 ## Easily Sort Pictures With the People Album
 
  The People album in Photos is a great way to view your photo library in an organized way. You can easily look back at all your memories with a particular person without needing to scroll past a sea of unrelated pictures.
 
  However, having misidentified photos in the wrong albums can be quite a nuisance to deal with. Fortunately, the problem has a relatively quick and easy fix. You can review uncategorized photos to avoid the problem in the future, and you can remove any mismatched pictures you stumble across using the Share button.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -101,4 +103,22 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/updated-from-rookie-to-veteran-10-must-have-cinema-cameras/"><u>[Updated] From Rookie to Veteran 10 Must-Have Cinema Cameras</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-hands-on-guide-to-optimize-your-youtube-channels-with-adsense-for-2024/"><u>[Updated] Hands-On Guide to Optimize Your YouTube Channels with AdSense for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-discovering-the-most-innovative-youtube-channel-names-a-vloggers-must-have-list-maximum-length-156-characters/"><u>[Updated] In 2024, Discovering the Most Innovative Youtube Channel Names A Vlogger's Must-Have List (Maximum Length 156 Characters)</u></a></li>
+<li><a href="https://win11.techidaily.com/avoiding-missed-messages-solutions-to-windows-mail-alert-issues/"><u>Avoiding Missed Messages: Solutions to Windows Mail Alert Issues</u></a></li>
+<li><a href="https://fox-that.techidaily.com/breaking-through-to-brightness-effective-fixes-for-iphone-black-screen-issues/"><u>Breaking Through to Brightness: Effective Fixes for iPhone Black Screen Issues</u></a></li>
+<li><a href="https://fox-that.techidaily.com/combat-slow-instagram-six-strategies-to-enhance-app-speed-on-ios-and-android-platforms/"><u>Combat Slow Instagram: Six Strategies to Enhance App Speed on iOS and Android Platforms</u></a></li>
+<li><a href="https://fox-that.techidaily.com/deactivating-apples-do-not-disturb-a-guide-to-getting-callstexts-back/"><u>Deactivating Apple's Do Not Disturb: A Guide to Getting Calls/Texts Back</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-merge-duplicate-portraits-from-various-albums-on-iosmac-devices/"><u>How to Merge Duplicate Portraits From Various Albums on iOS/Mac Devices</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-repair-iphones-cellular-connection-10-effective-fixes/"><u>How to Repair iPhone's Cellular Connection: 10 Effective Fixes</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-oneplus-nord-ce-3-5g-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do OnePlus Nord CE 3 5G Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-initiating-seamless-zoom-gatherings/"><u>In 2024, Initiating Seamless Zoom Gatherings</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-parody-basics-tips-for-entertaining-mocks/"><u>In 2024, Parody Basics Tips for Entertaining Mocks</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolving-iphones-qr-code-scanner-woes-with-these-essential-troubleshooting-steps/"><u>Resolving iPhone's QR Code Scanner Woes with These Essential Troubleshooting Steps</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-guide-mastering-the-importexport-of-webm-files-using-adobe-after-effects/"><u>Step-by-Step Guide: Mastering the Import/Export of WebM Files Using Adobe After Effects</u></a></li>
+<li><a href="https://fox-that.techidaily.com/why-your-iphoneipad-gets-hot-identifying-the-causes-and-solutions/"><u>Why Your iPhone/iPad Gets Hot: Identifying the Causes & Solutions</u></a></li>
+</ul></div>
 

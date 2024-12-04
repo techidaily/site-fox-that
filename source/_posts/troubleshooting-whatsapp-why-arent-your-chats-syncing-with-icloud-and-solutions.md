@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting WhatsApp: Why Aren't Your Chats Syncing with iCloud and Solutions"
-date: 2024-08-27T14:34:37.624Z
-updated: 2024-08-28T14:34:37.624Z
+date: 2024-12-01T08:07:52.585Z
+updated: 2024-12-04T00:39:27.856Z
 tags:
   - iphone
   - apple
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/6f24909f969f84628da7cca908a8ecbcf1f131079
 
 ![name in iphone settings-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/name-in-iphone-settings-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![icloud settings in iphone settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/icloud-settings-in-iphone-settings.jpg)
 
 ![show all option in icloud iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/show-all-option-in-icloud-iphone.jpg)
@@ -40,9 +44,21 @@ Close
 
 ![chat backup option in whatsapp](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/chat-backup-option-in-whatsapp.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![chats section in whatsapp](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/chats-section-in-whatsapp.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Whatsapp chat backup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/whatsapp-chat-backup.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -64,9 +80,6 @@ To check your available iCloud storage space:
 
 Close
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ## 3\. Perform a Manual Backup on WhatsApp
 
 ![chat backup option in whatsapp-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/chat-backup-option-in-whatsapp-1.jpg)
@@ -85,19 +98,25 @@ Here's how you can do that:
  While not necessary, consider keeping WhatsApp open during this manual backup. This means not swiping the WhatsApp page up in the app switcher. You may use other apps or put your iPhone to sleep during this time though.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Check the iCloud Server Status
 
 ![Apple server status](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/apple-server-status.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Sometimes, the issue may not be with your device or with WhatsApp, but rather with iCloud services. Visit the [Apple System Status](https://www.apple.com/support/systemstatus/) page to see whether iCloud servers are down or having server issues.
 
  If the circle beside**iCloud Backup** isn't green, consider backing up WhatsApp once it is working again.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Restart Your iPhone
 
  Restarting your iPhone will fix a number of software-related issues, including those involving iCloud backups.
@@ -110,17 +129,15 @@ To restart your device:
 4. Check to see if the WhatsApp backup succeeds now.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Update Your iPhone and WhatsApp
 
 ![General Section in iPhone Setttings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/general-section-in-iphone-setttings.jpg)
 
 ![Software Update in iPhone General Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/software-update-in-iphone-general-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 Close
 
 Outdated software can also cause backup issues.
@@ -133,10 +150,6 @@ To update your iPhone, follow these steps:
 
  WhatsApp also routinely updates its application to resolve bug fixes and system glitches. That's [why you should never disable automatic updates on your phone](https://www.makeuseof.com/never-disable-auto-app-updates-android-iphone/) if you're looking to use the best version of WhatsApp. To update the app, head on over to the**App Store,** search WhatsApp, and check if an update is available.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ## 7\. Remove Videos From Your iCloud Backup
 
  Large videos in particular can end up using a lot of iCloud storage space. So, if your iCloud backup keeps failing, consider removing these videos from iCloud backup.
@@ -148,12 +161,13 @@ To do this, follow these steps:
 
  You can always turn this switch back on to re-include WhatsApp videos in your iCloud backup.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ## 8\. Delete the Existing iCloud Backup
 
 ![whatsapp messenger section in icloud settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/whatsapp-messenger-section-in-icloud-settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![whatsapp data in icloud](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/whatsapp-data-in-icloud.jpg)
 
@@ -178,8 +192,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -187,4 +199,26 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-prime-chrome-drawing-programs-the-ultimate-list/"><u>[New] In 2024, Prime Chrome Drawing Programs The Ultimate List</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-thriving-onscreen-financial-growth-in-the-youtube-arena/"><u>[Updated] In 2024, Thriving Onscreen Financial Growth in the YouTube Arena</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unleashing-iphones-customization-altering-ringtone-sounds/"><u>[Updated] Unleashing iPhone's Customization Altering Ringtone Sounds</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-top-5-low-cost-solar-panels-powering-your-tech/"><u>2024 Approved Top 5 Low-Cost Solar Panels Powering Your Tech</u></a></li>
+<li><a href="https://fox-that.techidaily.com/6-simple-steps-to-adjust-your-iphone-battery-settings/"><u>6 Simple Steps to Adjust Your iPhone Battery Settings</u></a></li>
+<li><a href="https://fox-that.techidaily.com/conquer-connection-woes-11-fixes-for-keeping-your-airpods-paired-with-iphone-flawlessly/"><u>Conquer Connection Woes: 11 Fixes for Keeping Your AirPods Paired With iPhone Flawlessly</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-fix-your-iphone-emails-not-updating/"><u>How to Fix Your iPhone Emails Not Updating</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-overcome-common-obstacles-send-gifts-from-your-idevice-with-ease/"><u>How to Overcome Common Obstacles: Send Gifts From Your iDevice with Ease</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-restore-iphone-mobile-network-connection-10-effective-solutions/"><u>How to Restore iPhone Mobile Network Connection: 10 Effective Solutions</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-perfect-kid-cameras-for-first-timers-and-wet-weather-filming-adventures/"><u>In 2024, Perfect Kid Cameras for First-Timers & Wet Weather Filming Adventures</u></a></li>
+<li><a href="https://article-posts.techidaily.com/integrating-easy-to-use-timestamps-into-your-youtube-videos-for-2024/"><u>Integrating Easy-to-Use Timestamps Into Your YouTube Videos for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/marketing-meets-technology-amazon-unveils-ad-supported-digital-photo-frame-priced-at-160/"><u>Marketing Meets Technology: Amazon Unveils Ad-Supported Digital Photo Frame Priced at $160</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/mastering-the-timedatectl-utility-a-step-by-step-guide-for-linux-enthusiasts/"><u>Mastering the Timedatectl Utility: A Step-by-Step Guide for Linux Enthusiasts</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-iphone-dialing-difficulties-a-guide-to-fixing-common-errors/"><u>Overcoming iPhone Dialing Difficulties: A Guide to Fixing Common Errors</u></a></li>
+<li><a href="https://fox-that.techidaily.com/struggling-with-your-iphones-home-button-try-our-5-swift-repairs/"><u>Struggling with Your iPhone's Home Button? Try Our 5 Swift Repairs!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722882370798-the-grand-introduction-all-you-need-to-know-about-the-new-samsung-phone/"><u>The Grand Introduction: All You Need to Know About the New Samsung Phone!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-6-causes-of-iphone-sluggishness-and-solutions-to-speed-up/"><u>Top 6 Causes of iPhone Sluggishness & Solutions to Speed Up</u></a></li>
+<li><a href="https://win-net.techidaily.com/trouble-with-iphones-why-your-photos-wont-load-and-how-to-fix-them/"><u>Trouble with iPhones: Why Your Photos Won't Load and How to Fix Them</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-iphone-mic-issues-quick-solutions/"><u>Troubleshooting iPhone Mic Issues - Quick Solutions</u></a></li>
+</ul></div>
 

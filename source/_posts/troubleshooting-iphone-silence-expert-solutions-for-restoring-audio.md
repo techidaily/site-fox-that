@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting iPhone Silence: Expert Solutions for Restoring Audio"
-date: 2024-11-21T05:08:52.037Z
-updated: 2024-11-24T21:16:23.622Z
+date: 2024-11-29T17:54:21.454Z
+updated: 2024-12-04T05:25:59.615Z
 tags:
   - iphone
   - apple
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/1e40e68e85695875cbdf7c309b6e95c0f93def476
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Test Your iPhone’s Speaker and Your Audio Devices
@@ -41,22 +41,22 @@ thumbnail: https://thmb.techidaily.com/1e40e68e85695875cbdf7c309b6e95c0f93def476
 ![sounds and haptics on iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/sounds-haptics-iphone.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Close
 
  Also, check that it’s not your audio devices, such as AirPods, causing the “no sound” problem. Test this by connecting them to other smartphones or computers. If they’re working like usual, it means that the issue is with your iPhone and you can now focus on solving it through this article. For AirPods issues, read our guide on [how to solve common AirPods problems](https://www.makeuseof.com/tag/apple-airpods-problems-fix/) .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Clean Your iPhone’s Speakers
 
  Before moving on to troubleshooting software issues, there may simply be dust and dirt affecting speaker function, causing no sound to play on your iPhone. We have instructions you can follow to [clean your iPhone safely](https://www.makeuseof.com/tag/clean-iphone-guide/) .
 
 ![black iphone and airpods on wooden surface](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/iphone-airpods.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If it’s not dust and dirt, try to recall whether you accidentally dropped your iPhone in water recently. While iPhones are water-resistant, water may still get into your speakers. You can use the [Sonic](https://apps.apple.com/app/sonic/id986999895) app to eject water from the speakers if this is the case.
 
@@ -72,6 +72,10 @@ Here’s how to turn off Silent Mode:
 
 ![ring and silent switch on side of iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/silent-switch-iphone.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Here’s how to turn off Do Not Disturb or Focus:
 
 1. Access your iPhone’s**Control Center** . The method to [open the Control Center](http://www.makeuseof.com/how-to-use-customize-control-center-iphone/) may vary depending on your iPhone model.
@@ -80,7 +84,7 @@ Here’s how to turn off Do Not Disturb or Focus:
 ![do not disturb switched on iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/do-not-disturb-on.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![iphone control center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/iphone-control-center.jpg)
@@ -100,6 +104,10 @@ Close
 
 ![iphone control center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/bluetooth-off-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Close
 
  Also, check that your AirPlay isn’t connected to an external speaker. In the**Control Center** :
@@ -115,6 +123,10 @@ Close
 
  Another audio-output-related issue is headphone mode. If you see a persistent headphone icon on your iPhone’s status bar, we have a guide on [how to fix an iPhone stuck in headphone mode](https://www.makeuseof.com/tag/how-to-fix-iphone-stuck-in-headphone-mode/) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Check Your iPhone’s Sound Settings
 
  If your iPhone isn’t on Silent Mode or connected to any Bluetooth device, the problem of the sound not working may lie in your sound settings. First, adjust your volume buttons. You may think that there’s no sound on your iPhone because you accidentally turned the volume too low. To correct this, simply press the**Volume Up** button on the side of your iPhone.
@@ -128,17 +140,9 @@ Close
 
 ![iphone settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/iphone-settings.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![sounds and haptics on iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/sounds-haptics-iphone.jpg)
 
 ![text tone on iphone settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/text-tone-iphone-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Close
 
@@ -151,10 +155,6 @@ Close
  You’ll need to root around in the relevant in-app settings to find these options as they move around for every app.
 
 ![audio settings in sky game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/sky-game-audio.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Exit and Relaunch the Third-Party App
 
@@ -171,10 +171,14 @@ Close
 ![iphone on wooden surface showing hello welcome screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/iphone-hello.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Updates often come with fixes for bugs and glitches, so you can solve the issue of no sound on your iPhone by simply keeping your iOS and apps up-to-date. For more information, refer to our guide on [how to update your iPhone](https://www.makeuseof.com/tag/update-iphone-ios-apps-data/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 9\. Force Restart Your iPhone
 
@@ -187,10 +191,6 @@ Close
 ## 11\. Reset All Settings on Your iPhone
 
  If you tried all the suggestions above but they don’t work, the last solution is to [reset your iPhone’s settings](https://www.makeuseof.com/tag/how-to-restore-reset-iphone-without-itunes/) . As long as you don’t select the**Erase All Content and Settings** option, rest assured that you will not lose any data. That said, you may need to erase all the content and set your iPhone up as new to fix the issue, so try that if the first option doesn’t work.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix No Sound on Your iPhone Easily
 
@@ -211,20 +211,21 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-mastering-the-dynamics-of-ppt-sessions-across-devices-and-platforms/"><u>[New] Mastering the Dynamics of PPT Sessions Across Devices and Platforms</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/tandout-thumbnails-start-here-20-top-font-picks/"><u>[New] Standout Thumbnails Start Here 20 Top Font Picks</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/he-art-of-lyric-videos-using-lyric-video-maker-software-for-2024/"><u>[New] The Art of Lyric Videos Using Lyric Video Maker Software for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-chime-catcher-where-to-securely-download-tones/"><u>2024 Approved Chime Catcher Where to Securely Download Tones</u></a></li>
-<li><a href="https://fox-that.techidaily.com/cant-identify-pictures-on-your-iphone-these-amongst-6-hurdles-could-explain-it/"><u>Can’t Identify Pictures on Your iPhone? These Amongst 6 Hurdles Could Explain It</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/disabling-sound-amplification-in-windows-11-a-comprehensive-guide/"><u>Disabling Sound Amplification in Windows 11: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/dissecting-the-hp-sprocket-studio-plus-a-critical-analysis-of-its-flawed-color-calibration-and-overall-print-quality/"><u>Dissecting the HP Sprocket Studio Plus: A Critical Analysis of Its Flawed Color Calibration and Overall Print Quality</u></a></li>
-<li><a href="https://fox-that.techidaily.com/experiencing-a-dead-zone-on-your-iphone-discover-7-likely-causes-of-screen-unresponsiveness/"><u>Experiencing a Dead Zone on Your iPhone? Discover 7 Likely Causes of Screen Unresponsiveness</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fixing-cant-send-sms-on-iphone-discover-effective-steps-to-resolve-it/"><u>Fixing 'Can't Send SMS' On iPhone: Discover Effective Steps to Resolve It</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fixing-message-delivery-issues-between-iphones-and-android-phones/"><u>Fixing Message Delivery Issues Between iPhones and Android Phones</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-solve-iphone-and-ipad-wi-fi-connection-issues-top-8-remedies/"><u>How to Solve iPhone and iPad Wi-Fi Connection Issues: Top 8 Remedies</u></a></li>
-<li><a href="https://fox-that.techidaily.com/iphone-wont-rotate-step-by-step-guide-to-restoring-landscape-functionality/"><u>IPhone Won't Rotate - Step-by-Step Guide to Restoring Landscape Functionality</u></a></li>
-<li><a href="https://os-tips.techidaily.com/photo-resurrection-mastery-navigating-two-strategies-to-retrieve-pictures-from-icloud/"><u>Photo Resurrection Mastery: Navigating Two Strategies to Retrieve Pictures From iCloud</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-oppo-find-n3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Oppo Find N3 | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-iphone-event-dropouts-what-steps-to-take/"><u>Troubleshooting iPhone Event Dropouts - What Steps to Take?</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-5-top-3d-design-apps-for-engaging-youtube-beginnings/"><u>[Updated] 2024 Approved 5 Top 3D Design Apps for Engaging YouTube Beginnings</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-the-essential-guide-to-editing-youtube-videos-seamlessly-in-imovie/"><u>[Updated] 2024 Approved The Essential Guide to Editing YouTube Videos Seamlessly in iMovie</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-entering-income-territory-with-a-thousand-followers-for-2024/"><u>[Updated] Entering Income Territory with a Thousand Followers for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-mysterious-video-issue-with-sony-a6400/"><u>[Updated] Mysterious Video Issue with Sony A6400</u></a></li>
+<li><a href="https://fox-that.techidaily.com/8-essential-hacks-and-solutions-for-resolving-iphone-photo-library-glitches/"><u>8 Essential Hacks & Solutions for Resolving iPhone Photo Library Glitches</u></a></li>
+<li><a href="https://fox-that.techidaily.com/effective-ways-to-resolve-dictation-failures-on-ios-devices/"><u>Effective Ways to Resolve Dictation Failures on iOS Devices</u></a></li>
+<li><a href="https://fox-that.techidaily.com/escape-iphone-headset-mode-stuck-try-these-8-effective-fixes-now/"><u>Escape iPhone Headset Mode Stuck? Try These 8 Effective Fixes Now</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/is-chromecast-with-google-tv-up-for-par-with-firetv-a-comprehensive-guide/"><u>Is Chromecast with Google TV Up for Par with FireTV? A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/mastering-instagrams-podcast-post-and-story-distribution/"><u>Mastering Instagram's Podcast Post & Story Distribution</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/overcoming-inkjet-breakdowns-quickly/"><u>Overcoming Inkjet Breakdowns Quickly</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-iphone-alarm-issues-expert-strategies-and-solutions/"><u>Overcoming iPhone Alarm Issues: Expert Strategies and Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/stop-unwanted-chimes-preventing-your-ipad-from-ringing-with-an-active-iphone-calls/"><u>Stop Unwanted Chimes: Preventing Your iPad From Ringing with an Active iPhone Calls</u></a></li>
+<li><a href="https://fox-that.techidaily.com/the-ultimate-tutorial-entering-recovery-mode-with-your-ipad/"><u>The Ultimate Tutorial: Entering Recovery Mode with Your iPad</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-xiaomi-13t-pro-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Xiaomi 13T Pro Phone</u></a></li>
+<li><a href="https://win11.techidaily.com/unleashing-productivity-dragging-and-dropping-tabs-windows-11-style/"><u>Unleashing Productivity: Dragging and Dropping Tabs, Windows 11 Style</u></a></li>
+<li><a href="https://fox-that.techidaily.com/why-is-my-iphone-running-slow-discover-6-key-factors-and-quick-fixes/"><u>Why Is My iPhone Running Slow? - Discover 6 Key Factors & Quick Fixes!</u></a></li>
 </ul></div>
 

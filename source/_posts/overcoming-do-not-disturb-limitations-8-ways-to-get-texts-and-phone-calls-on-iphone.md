@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Do Not Disturb Limitations: 8 Ways to Get Texts and Phone Calls on iPhone"
-date: 2024-08-27T14:36:17.616Z
-updated: 2024-08-28T14:36:17.616Z
+date: 2024-11-28T04:24:44.867Z
+updated: 2024-12-04T02:56:08.552Z
 tags:
   - iphone
   - apple
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/a9441716968b4b370228db8f919eac0889d914a97
  Whether you want to focus on your task at hand or take a much-needed rest without disruptions, Do Not Disturb is a feature that helps you do just that. No story reply, group chat gossip, or work call will reach you as long as you have Do Not Disturb mode enabled on your iPhone.
 
  However, if you're still getting texts and calls on Do Not Disturb, it pretty much defeats the purpose of the feature. So, let's look at the steps you can take when Do Not Disturb is not working on your iPhone.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Check Whether You Enabled the Correct Focus Mode
 
@@ -40,13 +44,14 @@ thumbnail: https://thmb.techidaily.com/a9441716968b4b370228db8f919eac0889d914a97
 
 ![do not disturb settings on iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/do-not-disturb-settings.JPEG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![allowed apps on do not disturb mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/dnd-allowed-apps.JPEG)
 
 Close
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ## 3\. Disable Time-Sensitive Notifications
 
  Examples of time-sensitive notifications are reminders, emails, or messages that contain references to date and time. So, for instance, even if the**Messages** app is not in your list of Allowed Apps, an iPhone text message may still pass through Do Not Disturb due to the nature of its content, thus making it seem that Do Not Disturb is not working on your iPhone.
@@ -55,11 +60,12 @@ Close
 
 ![disable time sensitive notifications for iphone do not disturb mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/3-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Alternatively, you can tap**Turn Off** for a specific app if you see its notifications pop up on your Lock Screen.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Change Settings for Incoming Calls
 
  When you first enable Do Not Disturb mode on your iPhone,**Favorites** tends to be the default setting for the incoming calls allowed. If you previously added quite a few family members and friends to your Favorites list, this may be why your iPhone calls are coming through even after you enabled Do Not Disturb, as if it's not working.
@@ -69,19 +75,13 @@ Close
 ![do not disturb settings on iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/do-not-disturb-settings.JPEG)
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![call settings for do not disturb mode on iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/dnd-favorite-calls.JPEG)
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![change calls allowed on iphone do not disturb mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/dnd-allowed-calls.JPEG)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Close
 
 ## 5\. Don't Allow Repeated Calls
@@ -100,6 +100,10 @@ Close
 
  To stop receiving texts and calls in this manner, you can [turn off your Focus status](https://www.makeuseof.com/how-to-stop-notify-anyway-focus-mode-iphone/) or [hide your Focus status from certain iPhone contacts](https://www.makeuseof.com/how-to-hide-focus-status-from-certain-contacts-iphone/) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Review Your Do Not Disturb Schedule
 
  Let's say you used to work morning shifts every day and had set your Do Not Disturb schedule to match. If you suddenly switch to afternoon shifts, you may feel that Do Not Disturb is not working because you're receiving unwanted texts and calls on your iPhone during your new working hours.
@@ -110,12 +114,17 @@ Close
 
 ![schedule for iphone do not disturb mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/dnd-schedule.JPEG)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![automate schedule for iphone do not disturb mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/dnd-schedule-2.JPEG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![set time for iphone do not disturb mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/dnd-change-schedule.JPEG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -125,9 +134,6 @@ Close
 
  And if you haven't,[update your iPhone to the latest iOS version](https://www.makeuseof.com/tag/update-iphone-ios-apps-data/) as well. Apple's software updates often come with bug fixes and patches for performance-related issues.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ## No More Disruptions on Do Not Disturb Mode
 
  Do Not Disturb mode aims to help you focus on your task or rest and recharge when needed while ensuring you're still aware of the important matters that require your immediate attention.
@@ -142,8 +148,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -151,4 +155,22 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-coders-showdown-which-codec-will-dominate-video-quality/"><u>2024 Approved Coders' Showdown Which Codec Will Dominate Video Quality?</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-explore-the-full-potential-of-picsart-a-comprehensive-review/"><u>2024 Approved Explore the Full Potential of PicsArt - A Comprehensive Review</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-motorola-edge-40-neo-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Motorola Edge 40 Neo Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/effortless-guide-for-ripping-dvd-movies-as-mkv-in-windows-11-and-10-systems/"><u>Effortless Guide for Ripping DVD Movies as MKV in Windows 11 and 10 Systems</u></a></li>
+<li><a href="https://fox-that.techidaily.com/escaping-the-headphones-trap-discover-8-proven-methods-to-release-your-iphone-from-ongoing-speaker-mode/"><u>Escaping the Headphones Trap: Discover 8 Proven Methods to Release Your iPhone From Ongoing Speaker Mode</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/face-fluidity-techniques-implementing-motion-blur-effects-for-2024/"><u>Face Fluidity Techniques Implementing Motion Blur Effects for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fix-airdrop-issues-quickly-discover-the-top-16-troubleshooting-steps/"><u>Fix AirDrop Issues Quickly: Discover the Top 16 Troubleshooting Steps</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fix-your-iphones-ghostly-issue-make-disappeared-app-icons-reappear/"><u>Fix Your iPhone's Ghostly Issue: Make Disappeared App Icons Reappear</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-motorola-edgeplus-2023-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Motorola Edge+ (2023) | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-spot-a-waterlogged-iphone-unveiling-the-9-key-symptoms/"><u>How to Spot a Waterlogged iPhone: Unveiling the 9 Key Symptoms</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-samsung-galaxy-m54-5g-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Samsung Galaxy M54 5G Devices</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-samsung-galaxy-a34-5g-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Samsung Galaxy A34 5G Phones</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/masterful-marketing-tactics-11-ways-to-amplify-your-facebook-videography/"><u>Masterful Marketing Tactics 11 Ways to Amplify Your Facebook Videography</u></a></li>
+<li><a href="https://fox-that.techidaily.com/restore-ringtone-notifications-on-your-iphone-17-effective-fixes-for-missing-text-sounds/"><u>Restore Ringtone Notifications on Your iPhone: 17 Effective Fixes for Missing Text Sounds</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-face-id-issues-discover-14-effective-solutions-when-it-fails-on-iphone/"><u>Troubleshooting Face ID Issues: Discover 14 Effective Solutions When It Fails on iPhone</u></a></li>
+</ul></div>
 

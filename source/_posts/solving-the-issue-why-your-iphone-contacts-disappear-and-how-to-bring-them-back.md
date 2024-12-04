@@ -1,7 +1,7 @@
 ---
 title: "Solving the Issue: Why Your iPhone Contacts Disappear and How to Bring Them Back"
-date: 2024-08-27T14:37:25.321Z
-updated: 2024-08-28T14:37:25.321Z
+date: 2024-11-28T21:46:14.493Z
+updated: 2024-12-03T18:22:41.622Z
 tags:
   - iphone
   - apple
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/cf4cfca74e707c3edc4a37fda10a303db8db8787c
 
 ![Person using iPhone](https://thmb.techidaily.com/f4c650853e8507f493dd5a4da625f53ce5ecb8f26fcbb71888c8a6af3708b00c.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Restarting can fix most smartphone problems](https://www.makeuseof.com/why-restarting-smartphone-fixes-most-problems/) , and that’s why the first question a tech support agent asks is, "Have you tried turning it off and on again?"
 
  There are different ways to restart your iPhone, depending on the model. Read our dedicated guide on [how to restart any iPhone](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) for step-by-step instructions. Once your iPhone is back up and running, confirm if your contacts have been restored. If not, move on to step number two.
@@ -46,6 +50,10 @@ thumbnail: https://thmb.techidaily.com/cf4cfca74e707c3edc4a37fda10a303db8db8787c
 
 ![Disabling Contacts sync in iOS 16](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/disabling-contacts-sync-ios-16.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Close
 
  After that, give your device a few minutes, then check to see if your contacts have been restored. If you’re still facing problems, read on for more solutions.
@@ -62,21 +70,16 @@ So, follow these steps to show hidden contact groups:
 
 ![Contacts app in iOS 16](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/contacts-app-ios-16.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ![All Accounts option in iOS 16](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/accounts-options-contacts-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Close
 
  If some contacts from a particular account weren’t showing up on your iPhone, this should fix the issue. However, read on if you still don’t see all your contacts.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ## 4\. Add All Your Accounts to Your iPhone
 
  If you have several accounts that you use, chances are contacts might be saved across them. To fix this, you need to add all your accounts to your iPhone to ensure you have access to all your contacts. So, follow these steps to add an account to your iPhone:
@@ -88,9 +91,6 @@ Close
 
 ![Contacts settings page in iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/01-contacts-settings-ios.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Accounts page in iOS settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/02-accounts-ios-settings.jpg)
 
 ![Adding a new account in iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/03-add-account-ios.jpg)
@@ -98,6 +98,10 @@ Close
 Close
 
  If you don't see any contacts from the newly added account, follow the steps in the next tip to ensure contact visibility.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Modify Your Contact Account Settings
 
@@ -108,6 +112,10 @@ Close
 3. Tap each account and ensure**Contacts** is toggled on.
 
 ![Screenshot of iOS Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/iOS-Settings-app.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![Contacts settings in iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/Contacts-option-in-iOS-settings-app.jpg)
 
@@ -129,23 +137,22 @@ Close
 
 ![Editing contact details on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/01-edit-iphone-contact.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Editing contact details on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/02-editing-contact-details-iphone.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![An edited contact on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/edited-contact-ios.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
  When your iPhone powers on, it will have to rebuild all the contact names and details. Once your iPhone restores all the contacts, you can delete the fake information you added to the contact above. Check if your contacts have been restored after a few minutes. If this doesn’t solve your issue, try data recovery tools.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 7\. Recover Lost Data Using iCloud or Data Recovery Tools
 
  Before you try third-party data recovery tools, we advise using iCloud first. You can do this by going to the [iCloud website](https://www.icloud.com/) . Click the card with your account name, then select the**Data Recovery** option at the top of the page.
@@ -156,9 +163,6 @@ Close
 
  If that doesn’t work, you can try using third-party [data recovery tools](https://www.makeuseof.com/tag/data-recovery-work/) to restore your contacts. There are a variety of affordable tools on the market for the job. A good example is [PhoneRescue by iMobie](https://www.imobie.com/phonerescue/buy-ios-data-recovery.htm) , which is highly reputable and works with many iOS versions, including iOS 16\. However, you’ll have to spend some cash to get it.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 8\. Seek the Help of Apple Support
 
  If all else fails or you don’t want to spend money on third-party data recovery tools, you can [get tech support with the Apple Support app](http://www.makeuseof.com/how-to-get-iphone-support-apple-support-app/) for more assistance.
@@ -166,10 +170,9 @@ Close
  Alternatively, you can reach out to them via [Apple’s support website](https://getsupport.apple.com/) . Either way, a certified expert should help sort out the issue in more ways than we could.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Restore Your Missing iPhone Contacts
 
  Contacts not showing up on an iPhone isn’t something new. It can happen to you, but when it does, don’t panic. There are a variety of ways to fix the problem. In summary, you could restart your iPhone, resync with iCloud, show all contacts in your Phone app, add all accounts to your iPhone, modify account settings, or force rebuild your contacts.
@@ -182,8 +185,6 @@ The powerful video editing program for your Windows PC</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -191,4 +192,18 @@ The powerful video editing program for your Windows PC</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-immersive-recording-enhancing-your-gaming-with-windows-11-for-2024/"><u>[New] Immersive Recording Enhancing Your Gaming with Windows 11 for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1-ultimate-guide-to-dvd-conversion-effortless-windows-compatible-mp4-ripper-free-and-reliable-backup-software/"><u>1. Ultimate Guide to DVD Conversion: Effortless Windows-Compatible MP4 Ripper - Free and Reliable Backup Software</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exploring-advanced-pc-components-with-toms-gear-guidance/"><u>Exploring Advanced PC Components with Tom's Gear Guidance</u></a></li>
+<li><a href="https://fox-that.techidaily.com/find-your-vanished-iphone-with-ease-using-the-latest-find-my-app-techniques/"><u>Find Your Vanished iPhone with Ease Using the Latest Find My App Techniques</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-fix-a-computer-that-shows-no-sign-of-power/"><u>How to Fix a Computer That Shows No Sign of Power</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-harness-analytics-for-live-event-success-for-2024/"><u>How to Harness Analytics for Live Event Success for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/retrieve-accidentally-erased-iphone-notetaking-a-step-by-step-guide/"><u>Retrieve Accidentally Erased iPhone Notetaking: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/step-by-step-guide-clearing-liquid-contact-alarm-from-iphones-usb-c-port/"><u>Step-by-Step Guide: Clearing Liquid Contact Alarm From iPhone's USB-C Port</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-face-id-issues-top-14-solutions-for-an-unresponsive-iphone/"><u>Troubleshooting Face ID Issues: Top 14 Solutions for an Unresponsive iPhone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-iphone-mobile-hotspot-issues-effective-solutions-and-fixes/"><u>Troubleshooting iPhone Mobile Hotspot Issues: Effective Solutions and Fixes</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/understanding-the-wav-file-a-complete-guide-to-wav-files-and-their-uses-with-movavi/"><u>Understanding the WAV File: A Complete Guide to .wav Files and Their Uses with Movavi</u></a></li>
+</ul></div>
 

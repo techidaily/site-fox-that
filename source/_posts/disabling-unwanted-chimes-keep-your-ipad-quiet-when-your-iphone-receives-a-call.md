@@ -1,7 +1,7 @@
 ---
 title: "Disabling Unwanted Chimes: Keep Your iPad Quiet When Your iPhone Receives a Call"
-date: 2024-08-27T14:33:19.440Z
-updated: 2024-08-28T14:33:19.440Z
+date: 2024-11-28T17:01:19.331Z
+updated: 2024-12-04T01:05:47.026Z
 tags:
   - iphone
   - apple
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/c2896db39f882c98719dcfe14e4ab3efb1b4a55af
 
  Now, you've turned off your ringer and alert notifications. This could be a positive if you only want notifications from your iPhone or Apple Watch. On the other hand, if you count on Mail alerts on your iPad, this option won't work for you.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Turn Down the Volume on Your iPad
 
  The above method is fine if you never want to hear calls ringing on your iPad, but what if you only need to disable them for a short while? In this case, assigning the ringer volume to your volume buttons makes raising and lowering notification volume on your iPad easy.
@@ -36,13 +40,18 @@ thumbnail: https://thmb.techidaily.com/c2896db39f882c98719dcfe14e4ab3efb1b4a55af
 
 ![Enabling adjusting volume with the buttons on iPad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/how-to-stop-ipad-ringing-turn-down-volume.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  There's a reason this is disabled by default, as many people prefer to find a volume they like and stick with it. You may also accidentally change your ringer volume if you press the buttons while listening to music or watching a video.
 
  Still, this is a great option for quickly muting your iPad notifications.
 
 <!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Stop Your iPad From Ringing With Focus Modes
 
  If your iPad is running iPadOS 15 or later, you can [set up and use Focus modes](https://www.makeuseof.com/how-to-use-focus-modes-ipad/) to help you deal with that annoying ringer. Focus is essentially an evolution of the Do Not Disturb feature that can let you manually tweak what apps and services are allowed to launch notifications in various situations or times of the day.
@@ -55,9 +64,6 @@ thumbnail: https://thmb.techidaily.com/c2896db39f882c98719dcfe14e4ab3efb1b4a55af
 
 ![Creating a Focus Mode on iPadOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/how-to-stop-ipad-ringing-create-focus.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  On this screen, you can select the people and apps you want to manage notifications from. Select**Choose Apps** , then select**Allow Notifications From** at the top of the list. The list below will populate with a few apps, but you can add more.
 
  To add an app you want to allow notifications from, tap the**Add Apps** button on the left, then select it from the list of available apps. Once apps are added to the list, you can tap the checkbox in the top-left of each app to enable or disable notifications. There are [plenty of other aspects to Focus modes](https://www.makeuseof.com/focus-mode-ideas-to-set-up-in-ios/) , but this is all you need for notifications.
@@ -65,15 +71,13 @@ thumbnail: https://thmb.techidaily.com/c2896db39f882c98719dcfe14e4ab3efb1b4a55af
 ![Allowing notifications for certain apps in a new Focus Mode on iPadOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/how-to-stop-ipad-ringing-allow-notification.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  After you've created your custom Focus mode, you need to enable it from the Control Center. Pull down from the top-right of the iPad's screen, then long-press on**Focus** and choose your custom Focus Mode. ​​​​​​
 
 ![Enabling a Focus Mode on iPadOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/how-to-stop-ipad-ringing-turn-focus-on.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  When you want to disable it, you can tap the**Focus** toggle.
 
 ## Disable "Calls on Other Devices"
@@ -87,17 +91,15 @@ thumbnail: https://thmb.techidaily.com/c2896db39f882c98719dcfe14e4ab3efb1b4a55af
 ![allow calls on other devices iPhone setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/allow-calls-on-other-devices-iphone-setting.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Choosing which devices to ring when your iPhone rings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/how-to-stop-ipad-ringing-iphone-calls-on-other-devices-custom.jpg)
 
 Close
 
  If you want to disable calls everywhere but on your iPhone, disable the**Allow Calls on Other Devices** toggle. But if you only want to disable calls ringing on your iPad, leave this toggle enabled but look for your iPad under the "Allow Calls On" section further down on the screen, and then disable the slider next to it.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Plenty of Ways to Silence iPad Calls
 
  For most people, the best way to silence calls ringing on your iPad is to disable the "Calls on Other Devices" setting on your iPhone, as it leaves the rest of the notifications on your iPad untouched. This lets you manage which devices do and don't ring when you receive an incoming call.
@@ -110,8 +112,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -119,4 +119,26 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-top-tricks-for-achieving-high-quality-slow-motion-videos-on-android/"><u>[New] In 2024, Top Tricks for Achieving High-Quality Slow Motion Videos on Android</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-daily-inspirations-from-15-tiktok-visionaries/"><u>[Updated] 2024 Approved Daily Inspirations From 15 TikTok Visionaries</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-cut-to-the-chase-techniques-for-tightening-youtube-content/"><u>[Updated] Cut to the Chase Techniques for Tightening YouTube Content</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-greatest-war-themed-games-the-7-finest-total-war-experiences/"><u>[Updated] Greatest War-Themed Games The 7 Finest Total War Experiences</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-xiaomi-redmi-a2plus-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Xiaomi Redmi A2+? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-groundbreaking-meta-ready-wireless-earbuds-revolutionizing-listening-experience/"><u>Discover the Groundbreaking 'Meta-Ready' Wireless Earbuds Revolutionizing Listening Experience</u></a></li>
+<li><a href="https://fox-that.techidaily.com/flickering-phone-screens-uncover-these-7-quick-fixes-for-a-steady-viewing-experience/"><u>Flickering Phone Screens: Uncover These 7 Quick Fixes for a Steady Viewing Experience</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-fix-siri-issues-when-it-wont-work-on-iphoneipad-solutions-in-7-steps/"><u>How to Fix Siri Issues When It Won't Work on iPhone/iPad - Solutions in 7 Steps</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-improve-image-quality-on-an-iphone-with-low-mp-camera/"><u>How to Improve Image Quality on an iPhone with Low MP Camera</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-successfully-repair-windows-update-glitches-now/"><u>How To Successfully Repair Windows Update Glitches, Now</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-realme-gt-5-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Realme GT 5 by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-action-camera-accessories-buying-guide/"><u>In 2024, Action Camera Accessories Buying Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-silent-switch-malfunction-how-to-unmute-or-mute-without-it-working-properly/"><u>IPhone Silent Switch Malfunction: How To Unmute or Mute Without It Working Properly</u></a></li>
+<li><a href="https://fox-that.techidaily.com/is-this-a-sign-unraveling-reasons-for-imessages-sent-as-text-messages-and-possible-blocks/"><u>Is This a Sign? Unraveling Reasons for iMessages Sent as Text Messages and Possible Blocks</u></a></li>
+<li><a href="https://fox-that.techidaily.com/master-the-art-of-fixing-imessage-malfunctions-in-just-7-steps-iphone-ipad-and-mac-guide/"><u>Master the Art of Fixing iMessage Malfunctions in Just 7 Steps – iPhone, iPad & Mac Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/mastering-iphone-maintenance-15-essential-fixes-for-all-models/"><u>Mastering iPhone Maintenance: 15 Essential Fixes for All Models</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-connection-woes-a-users-handbook-for-airpods-and-iphones/"><u>Overcoming Connection Woes: A User's Handbook for AirPods and iPhones</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/step-by-step-tutorial-on-altering-kindle-regional-settings-for-global-store-accessibility/"><u>Step-by-Step Tutorial on Altering Kindle Regional Settings for Global Store Accessibility</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-iphones-inability-to-get-texts-from-android-devices-expert-solutions/"><u>Troubleshooting iPhone's Inability to Get Texts From Android Devices: Expert Solutions</u></a></li>
+</ul></div>
 

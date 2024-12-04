@@ -1,7 +1,7 @@
 ---
 title: "Restore GPS Functionality on Your iPhone: Overcoming 'Location Unavailable' Challenges"
-date: 2024-08-27T14:38:11.157Z
-updated: 2024-08-28T14:38:11.157Z
+date: 2024-11-29T00:02:16.235Z
+updated: 2024-12-03T21:37:31.636Z
 tags:
   - iphone
   - apple
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/ccfb3790f8ad95defe8eeb3081f9de7ed56611e53
  Do you keep seeing "Location Not Available" while tracking a friend or family member's location in iMessage or Find My on your iPhone? It's an issue that's pretty easy to resolve. However, you may need to ask your friend or family member to take action on their device as well.
 
  So without any further ado, let's check out what it takes to fix the "Location Not Available" error on an iPhone. We'll start with the steps you can try yourself, before moving onto what the person you're trying to track needs to do.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Fix "Location Not Available" From Your Own iPhone
 
@@ -36,6 +40,10 @@ To force quit Messages or Find My:
 
 ![App Switcher on iPhone.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/2-app-switcher.PNG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Force-quitting an app on iPhone.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/3-force-quit-app.PNG)
 
 Close
@@ -44,16 +52,10 @@ Close
 
  If closing and reopening the relevant app didn't work, you might need to [restart your iPhone](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) instead. To restart your iPhone, simply open the**Settings** app and tap**General > Shut Down** . Once the screen goes black, wait for several seconds and hold the**Side** or the**Top** button until you see the Apple logo.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Fix "Location Not Available" From Someone Else's iPhone
 
  If the two fixes above didn't help, you'll need to shift your attention to your friend or family member's iPhone. Walk them through the fixes below on a call. Or, share this post with them and make sure they follow the instructions in this section.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Toggle Share My Location Off and On
 
  Disabling and re-enabling Share My Location in the Find My preferences can help an iPhone broadcast its location again. To do that, go to**Settings** and tap the person's name at the top of the screen, then select**Find My** . Toggle the switch next to**Share My Location** off and then on.
@@ -61,16 +63,22 @@ Close
 ![Settings app on iPhone.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/4-settings-app.PNG)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Apple ID settings screen.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/5-apple-id-settings.PNG)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Find My preferences.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/6-share-my-location-1.PNG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Close
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Share the Location in Messages and Find My Again
 
@@ -81,37 +89,37 @@ Close
 
 ![iMessage chat.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/7-messages-chat.PNG)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![Stop Sharing My Location.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/8-info-pane.PNG)
 
 ![Start sharing my location.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/9-info-pane-alt.PNG)
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Close
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Restart the iPhone
 
  The simplest method is to go to**Settings > General > Shut Down** . Then, press and hold the**Side** or**Top** button to restart the iPhone.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Check the Date and Time
 
  An incorrect date or time can create issues with location sharing. To check this, go to**Settings > General > Date & Time** . If the date or time is wrong, turn on the switch next to**Set Automatically** to get the correct date and time from Apple's servers. If this doesn't help, deactivate the switch and set the correct time manually.
 
 ![iPhone Settings screen.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/10-iphone-settings.PNG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![General settings screen on iPhone.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/11-general-settings.PNG)
 
 ![Date or time screen on iPhone.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/12date-time.PNG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -131,8 +139,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -140,4 +146,24 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/ut-cost-unlock-creativity-step-by-step-guide-to-professional-green-screen-effects-from-top-4-channels-for-2024/"><u>[New] Cut Cost, Unlock Creativity Step-by-Step Guide to Professional Green Screen Effects From Top 4 Channels for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-the-ultimate-video-editing-experience-for-vimeo-enthusiasts/"><u>[Updated] The Ultimate Video Editing Experience for Vimeo Enthusiasts</u></a></li>
+<li><a href="https://fox-where.techidaily.com/1-invalid-directory-name-errors-in-windows-7-effective-solutions-you-need/"><u>1. Invalid Directory Name Errors in Windows 7: Effective Solutions You Need</u></a></li>
+<li><a href="https://fox-that.techidaily.com/comprehensive-fix-for-mm-2-error-when-your-phone-shows-sim-not-provisioned-a-step-by-step-guide/"><u>Comprehensive Fix for 'MM 2 Error' When Your Phone Shows 'SIM Not Provisioned': A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/easy-ways-to-set-up-and-utilize-bluetooth-functionality-on-your-new-iphone-device/"><u>Easy Ways to Set Up and Utilize Bluetooth Functionality on Your New iPhone Device</u></a></li>
+<li><a href="https://fox-that.techidaily.com/expert-advice-on-solving-airdrop-problems-instantly-uncover-our-ultimate-guide-of-16-tips/"><u>Expert Advice on Solving AirDrop Problems Instantly: Uncover Our Ultimate Guide of 16 Tips</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-frp-on-huawei-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass FRP on Huawei</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-get-wi-fi-charging-back-on-your-iphone-a-step-by-step-guide-with-7-tips/"><u>How To Get Wi-Fi Charging Back On Your iPhone: A Step-by-Step Guide With 7 Tips</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-5-solutions-for-xiaomi-redmi-a2plus-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Xiaomi Redmi A2+ Unlock Without Password</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-exciting-conversation-starter-ideas/"><u>In 2024, Exciting Conversation Starter Ideas</u></a></li>
+<li><a href="https://driver-error.techidaily.com/restoring-functionality-after-an-enex-driver-not-loading-error/"><u>Restoring Functionality After an eNEX Driver Not Loading Error</u></a></li>
+<li><a href="https://fox-that.techidaily.com/six-common-ipadiphone-keyboard-problems-and-how-to-solve-them/"><u>Six Common iPad/iPhone Keyboard Problems and How to Solve Them</u></a></li>
+<li><a href="https://games-able.techidaily.com/strategies-to-unlock-games-locked-in-windows-steam/"><u>Strategies to Unlock Games Locked in Windows Steam</u></a></li>
+<li><a href="https://fox-that.techidaily.com/the-ultimate-list-of-common-iphone-display-issues-quick-fixes-inside/"><u>The Ultimate List of Common iPhone Display Issues - Quick Fixes Inside!</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-10-fastest-flip-screen-games-on-desktops-and-phones/"><u>Top 10 Fastest Flip-Screen Games on Desktops & Phones</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-12-common-problems-with-the-iphone-12-series-and-effective-solutions/"><u>Top 12 Common Problems with the iPhone 12 Series & Effective Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/why-do-some-of-my-photos-persist-on-icloud-after-ive-deleted-them-from-my-iphone-try-these-fixes/"><u>Why Do Some of My Photos Persist on iCloud After I've Deleted Them From My iPhone? Try These Fixes</u></a></li>
+</ul></div>
 

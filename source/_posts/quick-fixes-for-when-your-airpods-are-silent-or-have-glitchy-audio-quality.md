@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for When Your AirPods Are Silent or Have Glitchy Audio Quality
-date: 2024-08-27T14:33:18.212Z
-updated: 2024-08-28T14:33:18.212Z
+date: 2024-11-30T22:25:43.580Z
+updated: 2024-12-04T05:31:16.473Z
 tags:
   - iphone
   - apple
@@ -48,11 +48,12 @@ thumbnail: https://thmb.techidaily.com/8a0450f4fd7bc300e9114c673cd1aaae00e28e53e
 
 ![Accssibility settings on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/Accssibility-settings-on-iPhone.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Audio:Visual settings on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/AudioVisual-settings-on-iPhone.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 Close
 
 ## 4\. Recharge Your AirPods and Charging Case
@@ -60,6 +61,10 @@ Close
  This may sound simple, but ensuring your AirPods (and the Charging Case) are fully charged up could be all you need to do to fix your sound problems. It's a good way to [fix all manner of AirPods problems](https://www.makeuseof.com/tag/apple-airpods-problems-fix/) .
 
  So, return your AirPods to the case and connect it to a charging cable until it's fully charged. Then try using your AirPods again to see if the sound issues are fixed.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Reset the Volume and Re-Pair Your AirPods
 
@@ -69,32 +74,35 @@ Close
 
 ![iPhone settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/iPhone-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 ![Bluetooth devices on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/Bluetooth-devices-on-iPhone.jpg)
 
 ![Forget device option on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/Forget-device-option-on-iPhone.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Close
 
  After doing that,[pair your AirPods](https://www.makeuseof.com/tag/how-to-connect-airpods-mac-iphone-pc-android/) again like you did when they were new. Then turn the volume up again, while playing audio, to see if your AirPods are fixed.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Reset Your AirPods
 
  If your AirPods audio is still not working properly, you may need to reset them completely. This is easy to do—just return your AirPods to the Charging Case and hold the**Setup** button until the light flashes white. We've got a full guide on [how to reset your AirPods](https://www.makeuseof.com/how-to-reset-airpods/) in case you want more detailed instructions.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Clean the AirPods Microphone and Speaker Grills
 
  It's possible your AirPods don't sound very good because earwax, dirt, or debris is clogging the speaker mesh. Similarly, AirPods Pro may sound glitchy if dirty microphones are causing problems with the active noise cancellation.
 
  Follow our guide to [clean your AirPods](https://www.makeuseof.com/tag/how-to-clean-airpods-and-case/) , paying particular attention to the microphone and speaker grills.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Troubleshoot Your Bluetooth Connection
 
@@ -110,25 +118,16 @@ Close
 
  If you do discover that one particular device is causing problems with your AirPods, try disconnecting any other Bluetooth devices from it (including an Apple Watch), then try toggling Bluetooth on and off or resetting the device entirely to fix it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ## 9\. Troubleshoot Your Wi-Fi Connection
 
 ![best long range routers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/best-long-range-routers.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
  Image Credit: Aquarius Studio/[Shutterstock](https://www.shutterstock.com/image-photo/modern-wifi-router-on-light-commode-1299587899)
 
  Some users reported that they were able to fix the sound on their AirPods by tweaking their Wi-Fi router settings. To be precise, Reddittor [u/MaroonFloom](https://www.reddit.com/r/airpods/comments/psgkx4/airpods%5Fpro%5Faudio%5Fis%5Fgetting%5Fchoppy%5Frandomly/) fixed their AirPods by setting**Wireless-Professional-Bluetooth Coexistence** to**Pre-Emptive** on their router.
 
  The settings on your router are likely to be quite different, but we'd suggest using a web browser to view all your browser options and fiddling with any Bluetooth-related options to see if any of them fix your AirPods.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 10\. Contact Apple for Replacement AirPods
 
  If none of the tips above have been able to fix the sound on your AirPods, then it's time to speak to Apple. Visit [Apple's Get Support website](http://getsupport.apple.com/) to speak to a technical advisor. Then point them in the direction of this post to let them know what steps you've already tried.
@@ -136,8 +135,9 @@ Close
  It's possible there's a physical problem with one or both of your AirPods and Apple will need to replace them. If your AirPods are covered by the warranty and you haven't damaged them, you shouldn't need to pay anything for this.
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Make Your AirPods Sound Better
 
  Even when their AirPods are working perfectly, some people still feel underwhelmed by the audio quality offered by Apple's wireless earbuds. If you feel the same way, there are lots of steps you can take to improve the sound quality of your AirPods, ranging from changing the tips on AirPods Pro to tweaking the EQ in your iPhone settings.
@@ -148,8 +148,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -157,4 +155,26 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-clips.techidaily.com/updated-piecing-together-a-unique-tiktok-outro-elements-for-2024/"><u>[Updated] Piecing Together A Unique TikTok Outro Elements for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-ultimate-choices-top-laptops-pro-video-editing-in-4k-for-2024/"><u>[Updated] Ultimate Choices Top Laptops Pro Video Editing in 4K for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2023-how-to-share-screen-on-facebook-live-for-2024/"><u>2023 | How to Share Screen on Facebook Live for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-examining-instagrams-unusual-video-aspect-ratio-anomalies/"><u>2024 Approved Examining Instagram's Unusual Video Aspect Ratio Anomalies</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/best-price-premium-4tb-samsung-980-pro-nvme-m2-ssd-at-just-007gb-top-rated-for-pcie-gen4/"><u>Best Price: Premium 4TB Samsung 980 PRO NVMe M.2 SSD at Just $0.07/GB - Top-Rated for PCIe Gen4</u></a></li>
+<li><a href="https://fox-that.techidaily.com/can-you-get-notifications-on-iphone-when-in-do-not-disturb-explore-these-effective-fixes/"><u>Can You Get Notifications on iPhone When in Do Not Disturb? Explore These Effective Fixes</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/clear-out-all-information-from-your-iphone-with-these-easy-steps-tech-savvy-solutions/"><u>Clear Out All Information From Your iPhone with These Easy Steps | Tech Savvy Solutions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/creating-a-personalized-chatbot-a-step-by-nstep-guide-using-your-dataset/"><u>Creating a Personalized Chatbot: A Step-by-nStep Guide Using Your Dataset</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-disabling-iphone-8-plus-parental-restrictions-withwithout-password-by-drfone-ios/"><u>In 2024, Disabling iPhone 8 Plus Parental Restrictions With/Without Password</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-full-guide-to-bypass-vivo-v27-pro-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Vivo V27 Pro FRP</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-quick-diy-cinematic-techniques-every-hobbyist-should-know/"><u>In 2024, Quick DIY Cinematic Techniques Every Hobbyist Should Know</u></a></li>
+<li><a href="https://fox-that.techidaily.com/instant-fixes-for-non-responsive-widgets-on-iphone-and-ipad/"><u>Instant Fixes for Non-Responsive Widgets on iPhone and iPad</u></a></li>
+<li><a href="https://fox-that.techidaily.com/lost-iphone-application-discover-the-steps-to-retrieve-misplaced-apps/"><u>Lost iPhone Application? Discover the Steps to Retrieve Misplaced Apps</u></a></li>
+<li><a href="https://fox-that.techidaily.com/stuck-with-old-messages-update-your-iphone-email-now-in-these-steps/"><u>Stuck with Old Messages? Update Your iPhone Email Now in These Steps</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-guide-15-ways-to-fix-a-non-functional-facetime/"><u>Troubleshooting Guide: 15 Ways to Fix a Non-Functional FaceTime</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-guide-how-to-fix-chatgpt-issues-on-an-iphone/"><u>Troubleshooting Guide: How to Fix ChatGPT Issues on an iPhone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unable-to-link-up-with-an-iphone-vpn-try-these-7-fixes/"><u>Unable to Link Up with an iPhone VPN? Try These 7 Fixes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unraveling-the-mystery-of-ghost-touch-on-ios-devices-a-comprehensive-guide-for-10-fixes/"><u>Unraveling the Mystery of Ghost Touch on iOS Devices: A Comprehensive Guide for 10 Fixes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/what-to-do-when-your-iphone-cant-recognize-nearness-anymore/"><u>What to Do When Your iPhone Can't Recognize Nearness Anymore</u></a></li>
+</ul></div>
 

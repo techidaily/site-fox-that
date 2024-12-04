@@ -1,7 +1,7 @@
 ---
 title: IPhone Contacts App Malfunctioning? Here Are 3 Reliable Solutions
-date: 2024-11-21T01:47:26.216Z
-updated: 2024-11-24T17:47:19.240Z
+date: 2024-11-27T18:41:57.452Z
+updated: 2024-12-03T20:20:04.576Z
 tags:
   - iphone
   - apple
@@ -35,13 +35,13 @@ thumbnail: https://thmb.techidaily.com/15a61f0827860e342a65d573fdf8ef935cbe188b5
 ![viewing my own contact photo & poster](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/viewing-my-own-contact-phot-poster.jpeg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![tweaking contact poster settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/tweaking-contact-poster-settings.jpeg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![pop-up menu that appears when you tap share automatically](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/pop-up-menu-that-appears-when-you-tap-share-automatically.jpeg)
@@ -62,30 +62,30 @@ Close
 ![viewing my own contact photo & poster](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/viewing-my-own-contact-phot-poster-1.jpeg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![viewing my created contact posters](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/viewing-my-created-contact-posters-1.jpeg)
 
 ![swiping up on my created contact poster and trash icon appears](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/swiping-up-on-my-created-contact-poster-and-trash-icon-appears.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![deleting my contact poster](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/deleting-my-contact-poster.jpeg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Close
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Disable Name and Photo Sharing and Restart Your iPhone
 
  Perhaps a software bug is the culprit behind this issue. Fortunately, the simplest way to fix software glitches like this one is restarting your iPhone. Before you restart your iPhone, head to**Phone > My Card > Contact Photo & Poster** and disable**Name & Photo Sharing** .
 
  Whether you're using a model with a notch or Dynamic Island or an old-school iPhone with a physical Home button,[restarting your iPhone, even if the buttons aren't working](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) , is pretty straightforward. After you turn your iPhone back on, follow the steps above to enable**Name & Photo Sharing** again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## It's Time to Get Your Contact Posters Back
 
@@ -106,20 +106,21 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-transforming-tech-talks-the-ezvide-screen-recording-guide-for-2024/"><u>[New] Transforming Tech Talks The Ezvide Screen Recording Guide for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-the-insider-guide-to-efficient-windows-10-usage/"><u>[Updated] The Insider Guide to Efficient Windows 10 Usage</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-bridging-the-gap-between-audience-and-action/"><u>2024 Approved Bridging the Gap Between Audience and Action</u></a></li>
-<li><a href="https://fox-that.techidaily.com/bringing-volume-to-silent-messages-on-iphone-unveiling-20-secrets-to-restore-sounds/"><u>Bringing Volume to Silent Messages on iPhone: Unveiling 20 Secrets to Restore Sounds</u></a></li>
-<li><a href="https://fox-that.techidaily.com/bypassing-apples-payment-blockage-top-6-strategies-to-try-now/"><u>Bypassing Apple's Payment Blockage: Top 6 Strategies to Try Now</u></a></li>
-<li><a href="https://fox-that.techidaily.com/clear-your-phones-audio-ports-how-to-dry-out-stuck-wetness-in-headphones/"><u>Clear Your Phone's Audio Ports: How to Dry Out Stuck Wetness in Headphones</u></a></li>
-<li><a href="https://fox-that.techidaily.com/discover-the-5-reasons-behind-difficulties-in-apple-based-gift-transmissions/"><u>Discover the 5 Reasons Behind Difficulties in Apple-Based Gift Transmissions</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-restore-wi-fi-access-on-your-apple-device-top-8-solutions-for-iphones-and-ipads/"><u>How to Restore Wi-Fi Access on Your Apple Device: Top 8 Solutions for iPhones & iPads</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-best-practices-for-snapchat-posts-the-essentials-list/"><u>In 2024, Best Practices for Snapchat Posts The Essentials List</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-tecno-phantom-v-flip-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Tecno Phantom V Flip Screen to PC Using WiFi | Dr.fone</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Apple iPhone 14 | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/navigating-your-way-around-linux-files-with-the-powerful-cd-command-tutorial/"><u>Navigating Your Way Around Linux Files with the Powerful CD Command Tutorial</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-future-of-tech-with-siri-understanding-artificial-intelligence-integration-in-upcoming-iphone-mac-and-ipad-models-zdnet/"><u>The Future of Tech with Siri: Understanding Artificial Intelligence Integration in Upcoming iPhone, Mac, and iPad Models | ZDNET</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-a-non-responsive-ring-and-silent-mode-on-iphones-effective-solutions/"><u>Troubleshooting a Non-Responsive Ring and Silent Mode on iPhones: Effective Solutions</u></a></li>
-<li><a href="https://fox-that.techidaily.com/unable-to-install-new-ios-on-iphoneipad-here-are-nine-quick-ways-to-resolve/"><u>Unable to Install New iOS on iPhone/iPad? Here Are Nine Quick Ways to Resolve</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-capturing-photographs-from-movies-in-windows-photos-app-for-savvy-users/"><u>[New] Capturing Photographs From Movies in Windows Photos App for Savvy Users</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-stepwise-decrease-in-mix-dynamics/"><u>[New] Stepwise Decrease in Mix Dynamics</u></a></li>
+<li><a href="https://fox-that.techidaily.com/beating-iphone-error-14-effective-strategies-and-solutions-revealed/"><u>Beating iPhone Error 14: Effective Strategies & Solutions Revealed</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/compare-leading-live-video-editors-and-virtual-camcorders-beyond-manycam-solutions/"><u>Compare Leading Live Video Editors & Virtual Camcorders, Beyond ManyCam Solutions!</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/dbpower-600a-mains-charge-portable-jump-starter-insights-for-the-tech-savvy-professional/"><u>DBPower 600A Mains Charge Portable Jump Starter Insights for the Tech-Savvy Professional</u></a></li>
+<li><a href="https://fox-that.techidaily.com/earbud-troubles-heres-what-to-do-when-one-airpod-sounds-louder-than-its-pairing/"><u>Earbud Troubles? Here's What to Do When One AirPod Sounds Louder Than Its Pairing</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-resolve-issues-with-an-unresponsive-tablet-display-8-practical-fixes/"><u>How to Resolve Issues with an Unresponsive Tablet Display: 8 Practical Fixes</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-oppo-a58-4g-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Oppo A58 4G Bootloader Easily</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-imessage-woes-discover-how-to-ensure-message-delivery-success/"><u>IPhone iMessage Woes? Discover How to Ensure Message Delivery Success!</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96317684-9781848507418-life-changing-messages/"><u>Life-Changing Messages | Free Book</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/premiere-moments-in-motion-for-2024/"><u>Premiere Moments in Motion for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solve-your-tablets-touchscreen-malfunction-with-these-8-effective-tips/"><u>Solve Your Tablet's Touchscreen Malfunction with These 8 Effective Tips</u></a></li>
+<li><a href="https://fox-that.techidaily.com/step-by-step-guide-to-fix-itunesfinder-recognizing-problems-with-your-iphone/"><u>Step-by-Step Guide to Fix iTunes/Finder Recognizing Problems with Your iPhone</u></a></li>
+<li><a href="https://win-updates.techidaily.com/step-by-step-guide-to-mastering-image-edits-in-apowerpdf-software/"><u>Step-by-Step Guide to Mastering Image Edits in ApowerPDF Software</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-15-apps-to-hack-wifi-password-on-realme-c51-by-drfone-android/"><u>Top 15 Apps To Hack WiFi Password On Realme C51</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlock-your-iphones-full-potential-with-these-tips-for-forced-restart-and-entry-into-recovery-mode/"><u>Unlock Your iPhone's Full Potential with These Tips for Forced Restart and Entry Into Recovery Mode</u></a></li>
 </ul></div>
 

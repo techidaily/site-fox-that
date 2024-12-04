@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Steps for Smooth Playback of Cyberpunk 2077 & Virtue's Last Reward on Desktop
-date: 2024-08-27T14:38:31.397Z
-updated: 2024-08-28T14:38:31.397Z
+date: 2024-11-29T17:48:08.207Z
+updated: 2024-12-03T20:52:01.268Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/9a9907ac5dbaa04f31e369bac93b279f477635cd1
 
 In the past couple days, many Cold War gamers are reporting a**UI error 27711** , a glitch that usually occurs during game loading. But fret not if you’re seeing this error. Below we’ve gathered some easy fixes for you, try them and get your game working right away.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You might not need to try all of them. Simply work your way down until you find the one that scores.
@@ -25,6 +29,10 @@ In the past couple days, many Cold War gamers are reporting a**UI error 27711** 
 2. **[Scan and repair your game](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Update your graphics driver](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Install all Windows updates](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Restart your PC
 
@@ -39,14 +47,20 @@ In the past couple days, many Cold War gamers are reporting a**UI error 27711** 
 1. First open your **Blizzard Battle.net** client. In the left menu, select **Call of Duty: BOCW** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/bocw-verify.jpg)
 2. Click **Options**  and select **Scan and Repair** . Then wait until the checking is completed.  
-![](https://images.drivereasy.com/wp-content/uploads/2020/11/bocw-verify-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/11/bocw-verify-2.jpg)
+
 Now you can launch the game and see if it loads this time.
 
  If this method doesn’t give you luck, simply take a look at the next one below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -78,9 +92,6 @@ To do so, first visit the website of your GPU manufacturer:
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve updated your graphics driver, restart your PC and check if the error code reoccurs.
@@ -88,8 +99,9 @@ To do so, first visit the website of your GPU manufacturer:
  If the new driver doesn’t do the charm, you can move on to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Install all Windows updates
 
  Windows updates include several kinds of updates, with some mitigate vulnerabilities and some offer new features. We recommend**keeping your system up to date** so that you can fully enjoy the game.
@@ -99,28 +111,12 @@ Here’s how you can check for updates manually:
 1. On your keyboard, press **Win** (the Windows logo key). At the bottom left corner of your screen, click the**gear icon** to open Settings.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-gear-icon.jpg)
 2. Scroll down and select**Update & Security** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update.jpg)
 3. Click**Windows Update** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-2.jpg)
 4. Click**Check for updates** . Then wait for the process to complete. After that, restart your PC.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
 
  Once you’ve installed all the system updates, launch Black Ops Cold War and see if you can play now.
@@ -135,8 +131,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -144,4 +138,19 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-iconic-stock-photographs-meme-lives-and-histories/"><u>[New] 2024 Approved Iconic Stock Photographs Meme Lives and Histories</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-20-top-free-cloud-storage-options-maximize-your-upload-limit-1tbplus/"><u>[New] In 2024, 20 Top Free Cloud Storage Options, Maximize Your Upload Limit (1TB+)</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-craft-your-best-youtubing-exit-tips-from-industry-leaders/"><u>[Updated] Craft Your Best YouTubing Exit - Tips From Industry Leaders</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-insider-writers-on-popular-tiktok-wallpapers/"><u>2024 Approved Insider' Writers on Popular TikTok Wallpapers</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/essential-tips-for-smooth-youtube-content-trimming-for-2024/"><u>Essential Tips for Smooth YouTube Content Trimming for 2024</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/how-to-migrate-your-itunes-collection-from-one-pc-to-another-compatible-with-windows-111087/"><u>How to Migrate Your iTunes Collection From One PC to Another (Compatible with Windows 11/10/8/7)</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-full-tutorial-to-bypass-your-realme-c67-4g-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Realme C67 4G Face Lock?</u></a></li>
+<li><a href="https://games-able.techidaily.com/reduce-distractions-by-turning-off-ui-features/"><u>Reduce Distractions by Turning Off UI Features</u></a></li>
+<li><a href="https://fox-that.techidaily.com/the-complete-overview-of-dfu-mode-on-iphones-and-easy-steps-to-follow/"><u>The Complete Overview of DFU Mode on iPhones & Easy Steps to Follow</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-8-tips-to-enhance-iphone-wireless-network-speed/"><u>Top 8 Tips to Enhance iPhone Wireless Network Speed</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-siri-issues-solve-the-top-7-glitches-on-iphone-and-ipad/"><u>Troubleshooting Siri Issues: Solve the Top 7 Glitches on iPhone and iPad</u></a></li>
+<li><a href="https://fox-that.techidaily.com/why-cant-you-send-gifts-from-your-iphone-or-mac-exploring-the-5-main-reasons/"><u>Why Can't You Send Gifts From Your iPhone or Mac? Exploring the 5 Main Reasons</u></a></li>
+</ul></div>
 
