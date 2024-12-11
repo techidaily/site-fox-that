@@ -1,7 +1,7 @@
 ---
 title: Solve Unresponsive Face ID Problems on iPhones with These 14 Key Fixes
-date: 2024-11-28T08:44:39.970Z
-updated: 2024-12-04T02:29:51.472Z
+date: 2024-12-08T23:10:47.018Z
+updated: 2024-12-10T22:34:23.934Z
 tags:
   - iphone
   - apple
@@ -28,7 +28,7 @@ thumbnail: https://thmb.techidaily.com/e271cbb6eb6a65ff2648f6dddd1fc0c078a843660
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When Does Face ID Become Unavailable?
@@ -49,7 +49,7 @@ thumbnail: https://thmb.techidaily.com/e271cbb6eb6a65ff2648f6dddd1fc0c078a843660
 And now, let's check out our Face ID fixes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Check Your Face ID Settings
@@ -82,29 +82,25 @@ Here's how to turn on Face ID for a compatible third-party app:
 
 ![Face ID settings on iPhone with WhatsApp highlighted in the Other Apps section](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/apple-ios-16-4-iphone-face-id-settings-other-apps-whatsapp-highlighted.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Close
 
  Alternatively, tap the desired app in the root list of the Settings app (like**Settings > WhatsApp**) and verify whether Face ID has been switched on.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Clean the TrueDepth Camera Sensor
 
 ![Closeup of the iPhone X TrueDepth camera sensor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/01/iPhone-X-truedepth-notch-sensors.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Image Credit:[Apple](https://www.youtube.com/@Apple)
 
  Over time, the TrueDepth camera lens could become dirty or greasy. Use a soft, dry cloth to wipe the sensor array at the top so nothing obscures it. Some rugged cases and thick screen protectors may slightly cover the sensors, throwing Face ID off, so consider removing them.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Avoid Blocking Your Face
 
@@ -124,15 +120,15 @@ Close
 
  Face ID works in both portrait and landscape, but only the iPhone 13 or newer with iOS 16 or later supports landscape Face ID. As for the Face ID with a mask feature, it only works in portrait mode on the iPhone 12 and later with iOS 15.4 and newer, as per [Apple's website](https://support.apple.com/HT208114) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Restart Your iPhone or iPad
 
  A restart is the most basic fix for any issue. It involves two steps. Firstly,[turn off your iPhone](https://www.makeuseof.com/how-to-turn-off-iphone/) in**Settings > General > Shut Down** . And secondly, wait about a minute before turning the device back on.
 
  The Face ID components that stopped functioning should now work perfectly. But for security reasons, you must enter your passcode to re-enable Face ID after a restart.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 8\. Update iOS to the Latest Version
 
@@ -171,19 +167,15 @@ Here's how to reset Face ID on your iPhone:
 
 ![The iPhone Settings app with the Reset Face ID option highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/apple-ios-16-3-iphone-settings-app-reset-face-id-option-highlighted.jpg)
 
-![Apple iOS 16.3 iPhone Settings app Set Up Face ID option highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/apple-ios-16-3-iphone-settings-app-set-up-face-id-option-highlighted.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Apple iOS 16.3 iPhone Settings app Set Up Face ID option highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/apple-ios-16-3-iphone-settings-app-set-up-face-id-option-highlighted.jpg)
 
  The iPhone Settings app with the Set Up Face ID option highlighted
 
 Close
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 11\. Reset Device Settings
 
@@ -194,18 +186,22 @@ Close
 ![The iPhone Settings app with the Reset option highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/apple-ios-16-3-settings-app-reset-iphone-option-highlighted.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![The iPhone Settings app with the Reset All Settings highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/apple-ios-16-3-iphone-settings-app-reset-all-settings-option-highlighted.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Close
 
  To reset your iPhone or iPad, venture into **Settings > General > Transfer or Reset iPhone > Reset** , then hit the**Reset All Settings** option. You'll need to enter your passcode to confirm the action. With the reset completed, set up Face ID again and see if it works.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 12\. Erase and Factory Reset Your iPhone
 
@@ -218,6 +214,10 @@ Close
 ## 14\. Contact Apple Support
 
  If you've recently dropped your iPhone and damaged the TrueDepth camera, Face ID will probably crash on the setup screen, be unavailable, or not work at all. Face ID might also act up if your iPhone was dunked in the water or spent underwater for a long time. So, contact Apple Support to schedule a store visit in any of those cases.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Face ID Should Be Working Smoothly Now
 
@@ -240,24 +240,16 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-alternative-tools-that-outperform-sharex-for-2024/"><u>[New] Alternative Tools That Outperform ShareX for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-cutting-edge-directory-ultimate-free-vectr-and-illustration-websites-for-2024/"><u>[New] Cutting-Edge Directory Ultimate Free Vectr and Illustration Websites for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-the-ultimate-list-of-ios-camera-apps-for-the-iphone-xplus-series-for-2024/"><u>[New] The Ultimate List of iOS Camera Apps for the iPhone X+ Series for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/irecast-techniques-for-effective-youtube-streams-for-2024/"><u>[New] WireCast Techniques for Effective Youtube Streams for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-comprehensive-vita-edit-suite-review-and-tutorial-2024/"><u>[Updated] Comprehensive Vita Edit Suite Review & Tutorial 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721471805750-achieve-peak-performance-calibrating-the-iphone-battery-in-just-six-steps/"><u>Achieve Peak Performance: Calibrating the iPhone Battery in Just Six Steps!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ai-showdown-determining-superiority-between-chatgpt-and-google-bard/"><u>AI Showdown: Determining Superiority Between ChatGPT and Google Bard</u></a></li>
-<li><a href="https://fox-that.techidaily.com/capturing-sharp-images-on-iphones-strategies-for-low-megapixel-camera-quality/"><u>Capturing Sharp Images on iPhones: Strategies for Low-Megapixel Camera Quality</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fix-common-iphone-glitches-by-refreshing-your-devices-network-settings/"><u>Fix Common iPhone Glitches by Refreshing Your Device's Network Settings</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-stop-airpods-from-switching-between-apple-devices/"><u>How to Stop AirPods From Switching Between Apple Devices</u></a></li>
-<li><a href="https://fox-that.techidaily.com/instagram-is-dragging-boost-its-performance-6-proven-fixes-for-users-of-all-phones/"><u>Instagram Is Dragging? Boost Its Performance: 6 Proven Fixes for Users of All Phones</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/pinnacle-of-photography-exceptional-sky-hd-sites-catalog/"><u>Pinnacle of Photography - Exceptional Sky HD Sites Catalog</u></a></li>
-<li><a href="https://fox-that.techidaily.com/restore-sounds-to-your-ios-messages-expert-tips-and-tricks-for-a-complete-solution/"><u>Restore Sounds to Your iOS Messages: Expert Tips & Tricks for a Complete Solution</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solving-the-issue-preventing-spotify-from-malfunctioning-on-your-secured-iphone/"><u>Solving the Issue: Preventing Spotify From Malfunctioning on Your Secured iPhone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/top-12-common-problems-with-iphone-12-a-comprehensive-guide-to-solutions/"><u>Top 12 Common Problems with iPhone 12: A Comprehensive Guide to Solutions</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-8-essential-factors-to-evaluate-when-purchasing-a-new-desktop-computer/"><u>Top 8 Essential Factors to Evaluate When Purchasing a New Desktop Computer</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-rated-insights-into-computers-and-peripherals-by-toms-hw/"><u>Top-Rated Insights Into Computers & Peripherals by Tom's HW</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-tips-ensuring-uninterrupted-playback-of-spotify-after-securing-iphone/"><u>Troubleshooting Tips: Ensuring Uninterrupted Playback of Spotify After Securing iPhone</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/n-yet-seen-how-to-conceal-faces-and-objects-digitally/"><u>Unseen Yet Seen How to Conceal Faces and Objects Digitally</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-engineering-a-touching-tiktok-conclusion/"><u>[New] 2024 Approved Engineering a Touching TikTok Conclusion</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-best-web-microphones-at-a-glance-for-2024/"><u>[New] Best Web Microphones at a Glance for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/detecting-moisture-damage-in-iphones-the-ultimate-list-of-9-red-flags/"><u>Detecting Moisture Damage in iPhones: The Ultimate List of 9 Red Flags</u></a></li>
+<li><a href="https://fox-that.techidaily.com/easy-methods-to-modify-your-devices-screen-time-security-code-on-iosmacos-equipment/"><u>Easy Methods to Modify Your Device's Screen Time Security Code on iOS/macOS Equipment</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-apple-iphone-15-pro-to-ipod-touch-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Ways to Transfer Music from Apple iPhone 15 Pro to iPod touch | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-show-wi-fi-password-on-samsung-galaxy-a15-5g-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Samsung Galaxy A15 5G</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/step-by-step-guide-accessing-and-reading-overdrive-digital-books-on-your-amazon-kindle-paperwhite/"><u>Step-by-Step Guide: Accessing and Reading OverDrive Digital Books on Your Amazon Kindle Paperwhite</u></a></li>
+<li><a href="https://fox-that.techidaily.com/step-by-step-guide-completely-restoring-your-iphoneipad/"><u>Step-by-Step Guide: Completely Restoring Your iPhone/iPad</u></a></li>
+<li><a href="https://fox-that.techidaily.com/the-complete-walkthrough-erasing-all-data-and-resetting-your-ios-devices/"><u>The Complete Walkthrough: Erasing All Data & Resetting Your iOS Devices</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-how-to-prevent-call-of-duty-modern-warfare-from-freezing-on-windows-computers/"><u>Troubleshooting Guide: How to Prevent 'Call of Duty: Modern Warfare' From Freezing on Windows Computers</u></a></li>
+<li><a href="https://fox-that.techidaily.com/why-does-my-iphone-display-irregular-websites-on-screen-time-heres-how-to-correct-it/"><u>Why Does My iPhone Display Irregular Websites on Screen Time? Here’s How to Correct It</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting: How to Solve a Non-Functioning FaceTime - Top 15 Tips"
-date: 2024-11-17T19:24:45.371Z
-updated: 2024-11-25T00:41:28.720Z
+date: 2024-12-04T23:46:36.394Z
+updated: 2024-12-10T18:08:59.301Z
 tags:
   - iphone
   - apple
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/31170fc82b47adef76e35b1dbe5e6312865cece8c
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -41,6 +45,10 @@ thumbnail: https://thmb.techidaily.com/31170fc82b47adef76e35b1dbe5e6312865cece8c
 
  Your browser does not support the video tag.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Test the Camera and Microphone on Your Device
 
  If people can't see or hear you on FaceTime, there might be a problem with the camera or microphones on your device.
@@ -50,7 +58,7 @@ thumbnail: https://thmb.techidaily.com/31170fc82b47adef76e35b1dbe5e6312865cece8c
  Play the video back to find out if there are any problems with the audio or video you recorded. You'll need to [troubleshoot your iPhone's camera issues](https://www.makeuseof.com/tag/iphone-camera-not-working/) first if so.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Turn On Your Camera and Microphone in FaceTime
@@ -73,9 +81,17 @@ thumbnail: https://thmb.techidaily.com/31170fc82b47adef76e35b1dbe5e6312865cece8c
 
 ![iphone mobile service settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/iphone-mobile-service-settings.JPEG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![iphone mobile service settings for apps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/iphone-mobile-service-settings-for-apps.JPEG)
 
 Close
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Restart Your iPhone, iPad, or Mac
 
@@ -86,10 +102,6 @@ Close
 ## 5\. Find Out if FaceTime Is Down for Everyone
 
 ![apple system status webpage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/apple-system-status-webpage.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Apple services sometimes experience technical issues, which means FaceTime won't connect or be available for anyone. When this happens, there's nothing you can do but wait for Apple to implement a solution.
 
@@ -108,7 +120,7 @@ Close
 ![iphone stock app settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/iphone-stock-app-settings.JPEG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![iphone facetime settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/iphone-facetime-settings.JPEG)
@@ -155,7 +167,7 @@ For Group FaceTime chats, you need one of the following devices:
 ![iphone main settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/img_7705.JPEG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![iPhone General settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/iphone-general-settings.JPEG)
@@ -169,7 +181,7 @@ Close
 ![date and time settings on mac](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/date-and-time-settings-on-mac-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 12\. Temporarily Disable FaceTime in Settings
@@ -182,19 +194,11 @@ Close
 
 ![iphone facetime settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/iphone-facetime-settings.JPEG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![iphone facetime toggled off in settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/iphone-facetime-toggled-off-in-settings.JPEG)
 
 Close
 
  On a Mac, open the FaceTime app and go to**FaceTime > Settings** from the menu bar. Uncheck the**Enable this account** option to turn FaceTime off. Then click**Turn On** to enable it again.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 13\. Sign Out of FaceTime, Then Sign In Again
 
@@ -204,19 +208,15 @@ Close
 
 ![iphone facetime settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/iphone-facetime-settings.JPEG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![sign out of facetime popup on iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/sign-out-of-facetime-popup-on-iphone.JPEG)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Close
 
  On a Mac, open the FaceTime app and go to**FaceTime > Settings** from the menu bar. Click**Sign Out** at the top of the window, then confirm you want to**Sign Out** . After signing out, enter your Apple ID details in the main FaceTime window to sign in again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 14\. Disable Content Restrictions for FaceTime
 
@@ -228,10 +228,6 @@ Close
 
 ![iphone content and privacy restrictions settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/iphone-content-and-privacy-restrictions-settings.JPEG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![allowed apps in iphone content and privacy restriction settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/allowed-apps-in-iphone-content-and-privacy-restriction-settings.JPEG)
 
 Close
@@ -241,6 +237,10 @@ Close
 ![app restrictions on mac](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/app-restrictions-on-mac.jpg)
 
  If prompted on either device, enter your Screen Time passcode, which usually differs from your device passcode.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 15\. Enable Certain Ports in Your Firewall
 
@@ -267,24 +267,22 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-from-novice-to-pro-an-extensive-guide-to-capturing-top-notch-audio-on-zoom/"><u>[Updated] In 2024, From Novice to Pro An Extensive Guide to Capturing Top-Notch Audio on Zoom</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-maximizing-your-camera-masterful-android-time-lapse-videography/"><u>[Updated] Maximizing Your Camera Masterful Android Time-Lapse Videography</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-streamline-your-audio-preferences-moving-spotify-playlists-to-youtube-music-for-2024/"><u>[Updated] Streamline Your Audio Preferences Moving Spotify Playlists to YouTube Music for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-laugh-loophole-ideas-for-7-hilarious-youtube-showcases/"><u>2024 Approved Laugh Loophole Ideas for 7 Hilarious YouTube Showcases</u></a></li>
-<li><a href="https://fox-that.techidaily.com/addressing-the-issue-repair-tips-for-an-airpod-thats-not-responding/"><u>Addressing the Issue: Repair Tips for an AirPod That's Not Responding</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ng-edge-professional-guide-to-youtube-editing/"><u>Cutting Edge Professional Guide to YouTube Editing</u></a></li>
-<li><a href="https://fox-that.techidaily.com/decoding-the-mystery-of-weak-wi-fi-signals-on-phones-7-insights-you-need-to-know/"><u>Decoding the Mystery of Weak Wi-Fi Signals on Phones – 7 Insights You Need to Know</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-reset-a-tecno-pop-8-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Tecno Pop 8 Phone that is Locked?</u></a></li>
-<li><a href="https://fox-that.techidaily.com/identifying-a-blocked-number-a-comprehensive-guide-to-finding-out-if-youve-been-blocked-by-an-iphone-contact/"><u>Identifying a Blocked Number: A Comprehensive Guide to Finding Out If You've Been Blocked by an iPhone Contact</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-oneplus-nord-n30-se-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from OnePlus Nord N30 SE to BlackBerry | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/iphone-imessage-troubleshooting-how-to-correctly-reconnect-your-account-after-a-disconnection/"><u>IPhone iMessage Troubleshooting: How to Correctly Reconnect Your Account After a Disconnection</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721477545215-resolve-your-iphones-headphones-dilemma-with-these-easy-8-troubleshooting-steps/"><u>Resolve Your iPhone's Headphones Dilemma with These Easy 8 Troubleshooting Steps!</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solve-your-emoji-sync-issues-in-under-7-steps-iphone-and-ipad-guide/"><u>Solve Your Emoji Sync Issues in Under 7 Steps – iPhone & iPad Guide</u></a></li>
-<li><a href="https://fox-that.techidaily.com/ten-essential-troubleshooting-steps-for-non-responsive-iphone-text-messaging/"><u>Ten Essential Troubleshooting Steps for Non-Responsive iPhone Text Messaging</u></a></li>
-<li><a href="https://fox-that.techidaily.com/the-simple-fix-for-most-smartphone-glitches-why-a-reset-makes-all-the-difference/"><u>The Simple Fix for Most Smartphone Glitches – Why a Reset Makes All the Difference</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/tips-of-transferring-messages-from-infinix-smart-8-hd-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Tips of Transferring Messages from Infinix Smart 8 HD to iPhone 14/15 | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/top-3-livres-de-extracao-de-dvd-mais-populares-para-windows-11-baixe-a-versao-completa-sem-custo-algum/"><u>Top 3 Livres De Extração De DVD Mais Populares Para Windows 11: Baixe a Versão Completa Sem Custo Algum</u></a></li>
-<li><a href="https://fox-that.techidaily.com/ultimate-guide-activating-recovery-mode-on-your-ipad/"><u>Ultimate Guide: Activating Recovery Mode on Your iPad</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/ultimate-guide-why-apples-ipad-pro-2018-11-inch-is-unmatched-in-quality-and-performance/"><u>Ultimate Guide: Why Apple's iPad Pro 2018 (11-Inch) Is Unmatched in Quality and Performance</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-gamers-signature-creating-iconic-banners-with-templates-for-2024/"><u>[Updated] Gamers' Signature Creating Iconic Banners with Templates for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-kickstart-your-twitch-streaming-journey/"><u>[Updated] Kickstart Your Twitch Streaming Journey</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/detailed-guide-to-fixing-winerror-0x80071a90/"><u>Detailed Guide to Fixing WinError 0X80071a90</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96418793-9780486132518-devils-demons-and-witchcraft/"><u>Devils, Demons, and Witchcraft | Free Book</u></a></li>
+<li><a href="https://android-frp.techidaily.com/easy-guide-how-to-bypass-realme-c67-5g-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Realme C67 5G FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://fox-that.techidaily.com/expert-solutions-to-overcome-the-iphone-black-screen-dilemma/"><u>Expert Solutions to Overcome the iPhone Black Screen Dilemma</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-guide-overcoming-compatibility-problems-with-rainbow-six-extraction-drivers-and-hardware/"><u>Fix Guide: Overcoming Compatibility Problems with Rainbow Six Extraction Drivers and Hardware</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-iphone-mute-functionality-without-the-side-button-expert-tips-and-tricks/"><u>Fixing iPhone Mute Functionality Without the Side Button - Expert Tips & Tricks</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-overcome-a-bsod-with-stop-code-0x0000003b-expert-tips-and-techniques-for-windows-users/"><u>How to Overcome a BSOD with STOP Code 0X0000003B: Expert Tips and Techniques for Windows Users</u></a></li>
+<li><a href="https://fox-that.techidaily.com/revive-your-iphone-5-remedies-for-a-non-responsive-home-pushbutton/"><u>Revive Your iPhone: 5 Remedies for a Non-Responsive Home Pushbutton</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-6-causes-of-iphone-sluggishness-and-solutions-to-speed-it-up/"><u>Top 6 Causes of iPhone Sluggishness & Solutions to Speed It Up</u></a></li>
+<li><a href="https://fox-that.techidaily.com/tracking-down-your-apple-facetime-images-a-comprehensive-guide/"><u>Tracking Down Your Apple FaceTime Images - A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/trouble-with-icloud-heres-how-to-restore-picture-syncs-on-your-iphone-in-7-ways/"><u>Trouble with iCloud? Here's How to Restore Picture Syncs on Your iPhone (in 7 Ways)</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-steps-when-iphone-alarms-fail/"><u>Troubleshooting Steps When iPhone Alarms Fail</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/turning-snaps-around-your-complete-guide-to-reversal-editing-on-snapchat/"><u>Turning Snaps Around: Your Complete Guide to Reversal Editing on Snapchat</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/unleash-your-creative-vision-adobe-premiere-pro-for-mac-professionals/"><u>Unleash Your Creative Vision Adobe Premiere Pro for Mac Professionals</u></a></li>
+<li><a href="https://fox-that.techidaily.com/why-sharing-tokens-of-love-via-apple-devices-can-be-tough-a-deep-dive/"><u>Why Sharing Tokens of Love via Apple Devices Can Be Tough – A Deep Dive</u></a></li>
 </ul></div>
 

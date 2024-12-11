@@ -1,7 +1,7 @@
 ---
 title: "Breaking Free From Headphone Mode: 8 Tricks for Your iPhone"
-date: 2024-12-02T22:39:00.043Z
-updated: 2024-12-04T09:18:34.256Z
+date: 2024-12-07T18:34:58.101Z
+updated: 2024-12-10T21:36:09.608Z
 tags:
   - iphone
   - apple
@@ -32,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/6cbefc5821941765c64c748053e1b0a5829fef152
 
  Dealing with an iPhone stuck in headphone mode can be frustrating, as it prevents sound from playing through the speakers, even after disconnecting your headphones. Fortunately, it's not difficult to turn off the headphone mode on your iPhone with the solutions below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Disconnect Your Bluetooth Headphones
 
  Your iPhone allows you to disconnect or unpair your Bluetooth devices, such as headphones, through the Settings app. If your iPhone appears to be stuck connected to Bluetooth headphones, use these steps to disconnect it:
@@ -44,17 +48,13 @@ thumbnail: https://thmb.techidaily.com/6cbefc5821941765c64c748053e1b0a5829fef152
 
 ![Bluetooth Menu on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/bluetooth-menu-on-iphone.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Disconnect or Forget Bluetooth Device on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/disconnect-or-forget-bluetooth-device-on-iphone.jpg)
 
-Close
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+Close
 
 ## 2\. Plug and Unplug Your Wired Headphones
 
@@ -63,7 +63,7 @@ Close
  Plug your headphones into your iPhone's 3.5mm or Lightning port, and then disconnect them. After that,[open the**Control Center** on your iPhone](https://www.makeuseof.com/how-to-use-customize-control-center-iphone/) by swiping down from the top-right corner (or swiping up from the bottom if you have an iPhone with a Home button) and check if the headphone icon still appears in the volume slider.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Change the Audio Output
@@ -74,6 +74,10 @@ Close
 
 ![Change Audio Output Device on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/change-audio-output-device-on-iphone.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Close
 
 ## 4\. Clean the Headphone Port
@@ -83,6 +87,10 @@ Close
  It's best to turn off your iPhone before inserting anything into its ports to avoid causing a short circuit or introducing a static charge to the electronics. Once powered off, use a cotton swab or a paper clip to remove any dirt or debris from the port gently. You can refer to [our guide on cleaning iPhones](https://www.makeuseof.com/tag/clean-iphone-guide/) for more help.
 
 ![cleaning the Lightning port of an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/02/cleaning-the-lightning-port-of-an-iphone-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Brent Dirks/[MakeUseOf](https://www.makeuseof.com/author/brentdirks/)
 
@@ -102,10 +110,6 @@ Close
 
  If your iPhone has suffered water damage recently, it's better to act quickly and get the water out to prevent further damage.[Avoid using rice to dry your iPhone](https://www.makeuseof.com/rice-doesnt-fix-water-damage/) because it may worsen the situation by leaving harmful residue or further obstructing the ports. Instead, refer to [our guide on saving a water-damaged phone](https://www.makeuseof.com/tag/fix-water-damaged-iphone/) for proper instructions.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Install iOS Updates
 
  There's an odd chance your iPhone has become stuck in headphone mode because of a software problem. If that's the case, it shouldn't take long for Apple to release a fix via a software update.
@@ -114,16 +118,16 @@ Close
 
 ![Settings App on iPhone-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/settings-app-on-iphone-1.jpg)
 
-![General Settings Menu on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/general-settings-menu-on-iphone.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![General Settings Menu on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/general-settings-menu-on-iphone.jpg)
 
 ![Software Update Menu on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/software-update-menu-on-iphone.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Close
@@ -133,10 +137,6 @@ Close
  This may sound cliche, but [restarting your iPhone](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) can take care of any temporary issues that may have caused it to become stuck in headphone mode. Hence, don't forget to skip this step.
 
  Press and hold the**Side** button with one of the**Volume** buttons (or just hold the**Side** button on iPhone models with a Home button) until the power slider appears. Drag the slider to your right and wait for your iPhone to turn off completely. Then, press and hold the**Side** button again to turn it back on. After that, check if your iPhone outputs audio through its built-in speakers.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 8\. Factory Reset Your iPhone
 
@@ -163,17 +163,16 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-how-to-make-a-channel-trailer/"><u>[New] 2024 Approved How to Make a Channel Trailer</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-instantgrabbed-extendedcapture/"><u>[Updated] 2024 Approved InstantGrabbed ExtendedCapture</u></a></li>
-<li><a href="https://fox-that.techidaily.com/comprehensive-iphone-troubleshooting-handbook-unlock-the-secrets-of-the-15-must-know-fixes/"><u>Comprehensive iPhone Troubleshooting Handbook: Unlock the Secrets of the 15 Must-Know Fixes</u></a></li>
-<li><a href="https://fox-that.techidaily.com/find-your-missing-iphone-memos-again-with-these-helpful-recovery-tips/"><u>Find Your Missing iPhone Memos Again with These Helpful Recovery Tips</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/how-to-rescue-missing-files-from-your-ssdhdd-expert-guide/"><u>How to Rescue Missing Files From Your SSD/HDD - Expert Guide</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/in-2024-chuckle-chronicles-spotlighting-top-comedy-creators/"><u>In 2024, Chuckle Chronicles Spotlighting Top Comedy Creators</u></a></li>
-<li><a href="https://fox-that.techidaily.com/issues-with-invisible-contacts-on-ios-devices-discover-how-to-resolve-them-now/"><u>Issues with Invisible Contacts on iOS Devices? Discover How to Resolve Them Now!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mac-vs-pc-showdown-what-sets-them-apart-insights-into-their-unique-features/"><u>Mac Vs. PC Showdown: What Sets Them Apart? Insights Into Their Unique Features</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/mastering-the-art-of-repairing-your-rust-microphone/"><u>Mastering the Art of Repairing Your Rust Microphone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/russia-unveils-plan-for-advanced-1-core-servers-in-next-generation-supercomputers/"><u>Russia Unveils Plan for Advanced 1# Core Servers in Next Generation Supercomputers</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solve-your-iphone-charging-pause-alert-problem-with-these-8-steps/"><u>Solve Your iPhone Charging Pause Alert Problem with These 8 Steps</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/the-ultimate-list-of-windows-videography-tools-to-oust-background-noise-for-2024/"><u>The Ultimate List of Windows Videography Tools to Oust Background Noise for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-pros-and-cons-of-vsdc-the-ultimate-guide/"><u>[Updated] Pros & Cons of VSDC The Ultimate Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721480815194-airpod-connection-woes-learn-how-to-limit-pairing-with-single-apple-devices-effortlessly/"><u>AirPod Connection Woes? Learn How to Limit Pairing with Single Apple Devices Effortlessly</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/decoding-instagrams-max-video-length-policy-for-2024/"><u>Decoding Instagram's Max Video Length Policy for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721456388331-discover-why-and-how-your-iphones-display-turns-dark-the-ultimate-list-of-10-reasons/"><u>Discover Why and How Your iPhone's Display Turns Dark - The Ultimate List of 10 Reasons</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Hassle-Free Solutions to Fake Location on Find My Friends Of Motorola Edge 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Apple iPhone 6 | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-control-center-malfunction-here-are-eight-remedies-to-restore-functionality/"><u>IPhone Control Center Malfunction? Here Are Eight Remedies to Restore Functionality</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-rejuvenation-the-step-by-step-guide-to-no-itunes-device-recovery/"><u>IPhone Rejuvenation: The Step-by-Step Guide to No-ITunes Device Recovery</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/quick-steps-to-capture-ios-audio-files-for-2024/"><u>Quick Steps to Capture iOS Audio Files for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-no-more-text-left-issue-on-iphones-easy-fixes/"><u>Troubleshooting 'No More Text Left' Issue on iPhones - Easy Fixes</u></a></li>
+<li><a href="https://common-error.techidaily.com/warframe-patch-problems-heres-how-you-can-successfully-install-updates-again/"><u>Warframe Patch Problems? Here's How You Can Successfully Install Updates Again!</u></a></li>
 </ul></div>
 

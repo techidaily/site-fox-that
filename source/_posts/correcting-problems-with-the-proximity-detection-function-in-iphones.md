@@ -1,7 +1,7 @@
 ---
 title: Correcting Problems With the Proximity Detection Function in iPhones
-date: 2024-11-28T18:45:08.614Z
-updated: 2024-12-04T09:04:33.765Z
+date: 2024-12-07T16:26:37.346Z
+updated: 2024-12-10T22:18:45.161Z
 tags:
   - iphone
   - apple
@@ -24,12 +24,16 @@ thumbnail: https://thmb.techidaily.com/6658e9df1d38e14ee675787c7264985ccf523b4b4
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Test the Proximity Sensor on an iPhone
 
 ![A gray iPhone 6 on a woman's ear](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/a-gray-iphone-6-on-a-woman-s-ear.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The iPhone's proximity sensor uses infrared light from an emitter at the top of your screen. The sensor measures how long it takes for the rays to reflect off a surface to determine the distance.
 
@@ -50,10 +54,6 @@ Here are some things you could do to check if it's working:
 
 ![person cleaning a phone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/cleaning-phone.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The most likely culprit is dirt and gunk that has accumulated on the top half of your screen, making it difficult for the emitter or sensor to work. You will run into this issue if you have sweaty or oily skin.
 
  While you could try a quick wipe against your shirt or some other cloth, the best thing to do is [clean your iPhone properly](https://www.makeuseof.com/tag/clean-iphone-guide/) . Use a moist, lint-free cloth and gently but thoroughly wipe the dirt away in one direction.
@@ -66,6 +66,10 @@ Here are some things you could do to check if it's working:
 
  In this case, you should restart the app first. Merely returning to the Home Screen isn't enough; you must open the App Switcher (learn how to do so in our [iPhone navigation basics](https://www.makeuseof.com/how-to-go-back-get-home-switch-apps-iphone/) guide) and swipe up on the target app's preview. Open the app again and try to use the proximity sensor. You can also try [restarting your iPhone](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) for good measure.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Make Sure Your iPhone Is Up to Date
 
  As an extension of software problems, your iPhone's proximity sensor might act up due to an iOS bug. The only way to completely rule out that possibility is to update your iPhone to the latest iOS version available.
@@ -74,17 +78,13 @@ Here are some things you could do to check if it's working:
 
 ![iPhone searching for updates in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-searching-for-updates-in-settings.jpeg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Software update information on iOS for iOS 16.6](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/software-update-information-on-ios-for-ios-16-6.jpeg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Update terms and conditions on iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/update-terms-and-conditions-on-ios.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -109,10 +109,6 @@ Here's a brief rundown of how to do it:
 
  Give the proximity sensor a test to see if that helped. But if you're still out of luck, you have a last-resort option.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 5\. Take Your Phone Back to Apple or an Authorized Service Provider
 
  Sometimes, the issue could be bigger than software bugs or something blocking the sensor. It's officially beyond your pay grade, and it's time to take your phone to someone who could open it up if need be.
@@ -120,6 +116,10 @@ Here's a brief rundown of how to do it:
  The most likely culprit in scenarios like this, short of a damaged proximity sensor, is a cracked screen. A cracked screen could interfere with infrared waves emitting or reflecting back to the device. While you could try to replace your screen yourself, we strongly suggest you leave it to an expert. Besides, tampering with your iPhone yourself could void your warranty.
 
  Take your iPhone to a nearby Apple Store or an Apple-authorized service provider; they should be able to help you. If your iPhone is still under warranty, Apple will fix your device at no additional cost if there are no signs of accidental damage. Scenarios like this make having an [extended AppleCare+ warranty](http://www.makeuseof.com/tag/applecare-what-are-your-options-is-it-really-worth-it/) very attractive because accidental damage is covered under this plan.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The Proximity Sensor Is an Important Part of Your iPhone
 
@@ -142,24 +142,20 @@ Here's a brief rundown of how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-limits-of-video-data-storage-on-modern-drives-a-closer-look-at-64128gb/"><u>[New] 2024 Approved Limits of Video Data Storage on Modern Drives - A Closer Look at 64/128GB</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-immersive-12-video-streaming-solution-online/"><u>[New] Immersive 12-Video Streaming Solution Online</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-scrutinizing-instagrams-video-post-limit/"><u>[New] In 2024, Scrutinizing Instagram's Video Post Limit</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-instant-inspiration-free-video-intro-kits/"><u>2024 Approved Instant Inspiration - Free Video Intro Kits</u></a></li>
-<li><a href="https://fox-that.techidaily.com/6-solutions-to-fix-non-working-aol-email-applications-in-iphone-settings/"><u>6 Solutions to Fix Non-Working AOL Email Applications in iPhone Settings</u></a></li>
-<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>Best 10 Mock Location Apps Worth Trying On Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/character-arcs-and-relationships-fortified-by-chatgpt-methods/"><u>Character Arcs & Relationships Fortified by ChatGPT Methods</u></a></li>
-<li><a href="https://fox-that.techidaily.com/get-your-airdrop-back-on-track-in-no-time-discover-16-effective-troubleshooting-steps/"><u>Get Your AirDrop Back on Track in No Time – Discover 16 Effective Troubleshooting Steps</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-resolve-iphone-message-delivery-issues-7-methods/"><u>How to Resolve iPhone Message Delivery Issues (7 Methods)</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-copyright-compliance-for-streaming-songs-on-instagram/"><u>In 2024, Copyright Compliance for Streaming Songs on Instagram</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-xiaomi-civi-3-disney-100th-anniversary-edition-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Xiaomi Civi 3 Disney 100th Anniversary Edition Phone Pattern Lock</u></a></li>
-<li><a href="https://solve-news.techidaily.com/master-remote-presentations-the-ultimate-guide-to-using-manycam-for-live-cams-and-video-conferencing-solutions/"><u>Master Remote Presentations: The Ultimate Guide to Using ManyCam for Live Cams and Video Conferencing Solutions</u></a></li>
-<li><a href="https://fox-that.techidaily.com/merge-duplicate-individual-images-into-one-on-iphone-and-mac-devices/"><u>Merge Duplicate Individual Images Into One On iPhone & Mac Devices</u></a></li>
-<li><a href="https://fox-that.techidaily.com/overcoming-imessage-not-delivered-errors-on-iphone-effective-methods/"><u>Overcoming iMessage Not Delivered Errors on iPhone: Effective Methods</u></a></li>
-<li><a href="https://fox-that.techidaily.com/persistent-wi-fi-disconnection-try-these-5-fixes-for-iphone-users/"><u>Persistent Wi-Fi Disconnection? Try These 5 Fixes for iPhone Users</u></a></li>
-<li><a href="https://fox-that.techidaily.com/preventing-spotify-from-closing-automatically-after-unlocking-your-iphone/"><u>Preventing Spotify From Closing Automatically After Unlocking Your iPhone</u></a></li>
-<li><a href="https://win-forum.techidaily.com/text-file-encryption-tutorial-how-to-apply-password-security-using-revouninstaller/"><u>Text File Encryption Tutorial: How To Apply Password Security Using RevoUninstaller</u></a></li>
-<li><a href="https://fox-that.techidaily.com/the-mystery-of-iphones-and-image-storage-restoring-after-deletion-using-these-8-fixes/"><u>The Mystery of iPhones and Image Storage: Restoring After Deletion Using These 8 Fixes</u></a></li>
-<li><a href="https://fox-that.techidaily.com/why-is-one-earbud-silent-discover-how-to-repair-the-issue/"><u>Why Is One Earbud Silent? Discover How to Repair the Issue</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-master-the-art-of-youtube-outros-with-pros-and-resources/"><u>[New] In 2024, Master the Art of YouTube Outros with Pros and Resources</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-self-designed-instagram-ringtone-creation-steps-for-2024/"><u>[New] Self-Designed Instagram Ringtone Creation Steps for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-innovative-filmmaking-methods-for-multidevice-integration/"><u>[Updated] In 2024, Innovative Filmmaking Methods for Multidevice Integration</u></a></li>
+<li><a href="https://video-capture.techidaily.com/crafting-captivating-content-with-screencast-tactics/"><u>Crafting Captivating Content with Screencast Tactics</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/expert-tips-to-eradicate-game-crashes-fixing-dev-error-6034-in-modern-warfare-for-pc-and-xbox-gaming-experience/"><u>Expert Tips to Eradicate Game Crashes: Fixing Dev Error 6034 in Modern Warfare for PC & Xbox Gaming Experience</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-rejuvenation-techniques-a-no-itunes-approach/"><u>IPhone Rejuvenation Techniques: A No-iTunes Approach!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-iphone-app-download-hurdles-a-comprehensive-list-of-10-reliable-remedies/"><u>Overcoming iPhone App Download Hurdles: A Comprehensive List of 10 Reliable Remedies</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/hortcuts-every-youtuber-needs-the-top-20-list-for-2024/"><u>Pro Shortcuts Every YouTuber Needs - The Top 20 List for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-effortlessly-converting-mpc-files-into-mp3-format/"><u>Step-by-Step Guide: Effortlessly Converting MPC Files Into MP3 Format</u></a></li>
+<li><a href="https://fox-that.techidaily.com/step-by-step-guide-removing-liquid-from-inside-your-phone-speakers/"><u>Step-by-Step Guide: Removing Liquid From Inside Your Phone Speakers</u></a></li>
+<li><a href="https://fox-that.techidaily.com/struggling-with-wireless-charging-on-iphone-try-out-these-7-fixes-to-resolve-the-issue/"><u>Struggling with Wireless Charging on iPhone? Try Out These 7 Fixes to Resolve the Issue</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211114390-9780994284587-the-book-of-hatma/"><u>The Book of Hatma | Free Book</u></a></li>
+<li><a href="https://fox-that.techidaily.com/the-ultimate-fix-it-guide-15-proven-troubleshooting-steps-for-iphones-from-a-to-z/"><u>The Ultimate Fix-It Guide: 15 Proven Troubleshooting Steps for iPhones From A to Z</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-roblox-crashes-and-low-memory-alerts-on-iphone-devices/"><u>Troubleshooting Roblox Crashes and Low Memory Alerts on iPhone Devices</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlocking-communication-options-in-apples-do-not-disturb-mode-for-iphones-eight-effective-fixes-to-try/"><u>Unlocking Communication Options in Apple's Do Not Disturb Mode for iPhones: Eight Effective Fixes to Try</u></a></li>
 </ul></div>
 

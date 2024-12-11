@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Tutorial: Forgetting & Updating Screen Time Lock Code for Apple Devices"
-date: 2024-08-22T23:08:08.667Z
-updated: 2024-08-23T23:08:08.667Z
+date: 2024-12-04T21:52:24.456Z
+updated: 2024-12-10T18:31:23.165Z
 tags:
   - iphone
   - apple
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/df17b0b8aa577c2bde2045014ca7106f6ac63b426
 
  Have you set a Screen Time passcode on your Apple device (or your child's to prevent them from messing around with settings), only to forget it later? Don't worry—resetting the Screen Time passcode on an iPhone, iPad, or Mac is simple!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Reset the Screen Time Passcode on Your iPhone or iPad
 
  Here's what you need to do to reset the Screen Time passcode on your iPhone or iPad:
@@ -41,26 +45,20 @@ thumbnail: https://thmb.techidaily.com/df17b0b8aa577c2bde2045014ca7106f6ac63b426
 
 ![Screen Time section in the Settings app on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/screen-time-section-in-the-settings-app-on-an-iphone.PNG)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![changing or turning off Screen Time Passcode in the settings app on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/changing-or-turning-off-screen-time-passcode-in-the-settings-app-on-an-iphone.PNG)
 
 ![entering old screen time passcode on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/entering-old-screen-time-passcode-on-an-iphone.PNG)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![iPhone screen displaying Screen Time Passcode Recovery page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/iphone-screen-displaying-screen-time-passcode-recovery-page.PNG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
  If you skipped the step to enter your Apple ID details for Screen Time passcode recovery while setting the feature up and have**Share Across Devices** disabled, you won't be able to reset the passcode.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Reset the Screen Time Passcode on Your Mac
 
  If you'd like to reset the Screen Time passcode on your Mac, here's what you need to do:
@@ -73,28 +71,19 @@ Close
 6. Enter your Apple ID password and click**Next** or hit the**Return** key.  
 ![Mac Screen Time passcode recovery screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/mac-screen-time-passcoderecovery-screen.png)
 7. Finally, enter a new Screen Time passcode and then enter it again to verify.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once again, you're out of luck if you don't have**Share Across Devices** enabled and skipped the Screen Time passcode recovery step during setup.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Reset the Screen Time Passcode for Your Child's Device
 
  If you're taking complete advantage of [parental controls on your child's iPhone or iPad](https://www.makeuseof.com/parental-controls-iphone-ipad/) and [use Apple's Family Sharing feature](https://www.makeuseof.com/tag/set-family-sharing-share-apps-music-itunes-purchases/) to control your child's screen time, you can use your iPhone or Mac to reset the Screen Time passcode for your child's device.
 
  You must be the family organizer to reset your child's Screen Time passcode.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ### On an iPhone or iPad
 
  To reset the Screen Time passcode on your child's Apple device from your iPhone or iPad, follow the steps below:
@@ -112,7 +101,15 @@ No advertising on the website.
 
 ![A child's screen time settings on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/a-child-s-screen-time-settings-on-an-iphone.PNG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![changing or turning off a child's Screen Time Passcode in the settings app on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/changing-or-turning-off-a-child-s-screen-time-passcode-in-the-settings-app-on-an-iphone.PNG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -127,8 +124,9 @@ Close
 5. Enter your Mac's**admin** password and hit the**Return** key or click**Unlock** .  
 ![Entering mac's admin password to reset child's screen time passcode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/entering-mac-s-admin-password-to-reset-child-s-screen-time-passcode.PNG)
 6. Now, type in a new Screen Time passcode and enter it again to confirm.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  It's that easy! However, if you also forgot your Apple account login details, you'll have to go through the complicated process of [resetting your Apple ID password](https://www.makeuseof.com/tag/forgot-apple-id-icloud-password/) first.
@@ -141,8 +139,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -150,4 +146,17 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-key-techniques-boosting-video-reach-across-both-platforms/"><u>2024 Approved Key Techniques Boosting Video Reach Across Both Platforms</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-teaching-with-video-effective-editing-methods/"><u>2024 Approved Teaching with Video Effective Editing Methods</u></a></li>
+<li><a href="https://dvd-bd.techidaily.com/best-methods-to-transform-itunes-m4v-files-into-avi-format-a-guide-for-mac-and-windows-users/"><u>Best Methods to Transform iTunes M4V Files Into AVI Format: A Guide for Mac and Windows Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/bypassing-error-8007000e-streamlined-strategies-to-restore-windows-updates/"><u>Bypassing Error 8007000E: Streamlined Strategies to Restore Windows Updates</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-reclaim-deleted-journal-entries-in-ios-notetaking-applications/"><u>How to Reclaim Deleted Journal Entries in iOS Notetaking Applications</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-restore-text-reception-on-an-iphone-a-7-step-guide/"><u>How to Restore Text Reception on an iPhone: A 7-Step Guide</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/leading-10-sound-intensification-apps-for-multiple-systems-for-2024/"><u>Leading 10 Sound Intensification Apps for Multiple Systems for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/struggling-with-your-iphone-and-wi-fi-connection-here-are-5-fixes-that-work/"><u>Struggling With Your iPhone and Wi-Fi Connection? Here Are 5 Fixes That Work</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/the-perfect-guide-to-making-your-video-memories-last-with-gifs-for-2024/"><u>The Perfect Guide to Making Your Video Memories Last with GIFs for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-guide-six-solutions-for-a-malfunctioning-aol-email-application-on-iphone/"><u>Troubleshooting Guide: Six Solutions for a Malfunctioning AOL Email Application on iPhone</u></a></li>
+</ul></div>
 

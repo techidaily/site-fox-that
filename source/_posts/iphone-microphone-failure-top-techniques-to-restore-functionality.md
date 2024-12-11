@@ -1,7 +1,7 @@
 ---
 title: IPhone Microphone Failure? Top Techniques to Restore Functionality
-date: 2024-08-22T23:05:32.572Z
-updated: 2024-08-23T23:05:32.572Z
+date: 2024-12-08T23:18:02.982Z
+updated: 2024-12-10T21:37:20.301Z
 tags:
   - iphone
   - apple
@@ -35,8 +35,9 @@ thumbnail: https://thmb.techidaily.com/c76014f183cb941dddc5e361ad7d0edd6dead041e
  Isopropyl alcohol breaks up grime and dries fast, so it won't damage your iPhone. Try using the highest percentage of isopropyl alcohol you can find. While you're at it,[clean your entire iPhone thoroughly](https://www.makeuseof.com/tag/clean-iphone-guide/) if it's not in a good shape.
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Disconnect From Bluetooth Devices
 
 Close
@@ -46,8 +47,9 @@ Close
  This is a common issue with those who use Bluetooth headphones like AirPods or smart home systems. Check if you're connected to a Bluetooth device by [opening your iPhone's Control Center](https://www.makeuseof.com/how-to-use-customize-control-center-iphone/) , then toggle Bluetooth off. Alternatively, tap and hold it to view all your connected devices.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Make Sure Apps Have Microphone Permissions
 
 Close
@@ -57,15 +59,17 @@ Close
  To grant an app permission, head to**Settings** and select the affected app. Now, make sure the**Microphone** toggle is enabled.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Use an External Microphone or AirPods
 
 ![A guy holding AirPods Pro in charging case showing orange light](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/02/a-guy-holding-airpods-pro-in-charging-case-showing-orange-light.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Hamlin Rozario/[MakeUseOf](https://www.makeuseof.com/author/hamlin-rozario/)
 
  If you've tried all the above fixes but nothing is working, you can still use an external microphone with your iPhone. You can use this while you wait for a repair or even use an external microphone indefinitely if you can't afford a repair.
@@ -73,8 +77,9 @@ Close
  Most headphones, including Apple's AirPods, have built-in microphones. Since they connect via your iPhone's Lightning/USB-C port or Bluetooth, you won't have to rely on the built-in microphones for most tasks.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Other Generic Fixes
 
 Close
@@ -91,8 +96,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -100,4 +103,22 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-live-caption-coder/"><u>[New] 2024 Approved Live Caption Coder</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-lighting-the-way-enhancing-your-youtube-videos-with-pro-tips/"><u>[Updated] In 2024, Lighting the Way Enhancing Your YouTube Videos with Pro Tips</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/1-top-ranked-video-recording-software-a-replacement-for-movavi-screen-capture-suitable-for-mac-and-windows-systems/"><u>1. Top-Ranked Video Recording Software: A Replacement for Movavi Screen Capture Suitable for MAC & WINDOWS Systems</u></a></li>
+<li><a href="https://fox-that.techidaily.com/conquer-frustrating-iphone-x-hiccups-expert-advice-for-easy-solutions/"><u>Conquer Frustrating iPhone X Hiccups: Expert Advice for Easy Solutions</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/ending-switchable-gpu-woes-nvidiaintel-fix-on-win10/"><u>Ending Switchable GPU Woes: Nvidia/Intel Fix on Win10</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/free-online-converter-change-mp4-to-webm-format-with-easy-steps/"><u>Free Online Converter: Change MP4 to WebM Format with Easy Steps</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-huawei-p60-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Huawei P60? | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-qr-scanner-issues-discover-these-5-quick-fixes/"><u>IPhone QR Scanner Issues? Discover These 5 Quick Fixes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/say-goodbye-to-the-blinky-phone-dilemamo-with-our-expert-fix-1-through-7/"><u>Say Goodbye to the Blinky Phone Dilemamo with Our Expert Fix #1 Through #7</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solve-connectivity-problems-on-your-ios-device-with-a-complete-network-settings-reset/"><u>Solve Connectivity Problems on Your iOS Device with a Complete Network Settings Reset</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-solutions-what-to-do-if-your-airpods-are-missing-from-find-my/"><u>Top Solutions: What To Do If Your AirPods Are Missing From 'Find My'</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-steps-why-your-iphone-isnt-getting-texts-from-android-devices-and-how-to-resolve-this-issue/"><u>Troubleshooting Steps: Why Your iPhone Isn't Getting Texts From Android Devices & How to Resolve This Issue</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/understanding-ip-sounds-and-songs-on-instagram-for-2024/"><u>Understanding IP Sounds and Songs on Instagram for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/understanding-the-causes-when-does-find-my-iphone-go-offline/"><u>Understanding the Causes: When Does Find My iPhone Go Offline?</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-plus-hyper-v-seamless-linux-virtual-machine-creation/"><u>Windows + Hyper-V = Seamless Linux Virtual Machine Creation</u></a></li>
+</ul></div>
 

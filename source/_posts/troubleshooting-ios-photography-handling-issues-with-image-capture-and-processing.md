@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting iOS Photography: Handling Issues with Image Capture and Processing"
-date: 2024-08-22T23:08:24.793Z
-updated: 2024-08-23T23:08:24.793Z
+date: 2024-12-07T16:14:57.094Z
+updated: 2024-12-10T21:07:51.913Z
 tags:
   - iphone
   - apple
@@ -24,13 +24,25 @@ thumbnail: https://thmb.techidaily.com/ca38034074275621f4e2db5f63e60466f24745c23
 
 ![managing iphone photos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2012/04/camera_roll.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  However, when you go to add selected Camera Roll photos into albums, you run into a problem. Say you just shot a set of Easter Sunday or other holiday photos and you put them into an Photo Library album for quick access and management. The problem occurs however when you want to delete those photos from Camera Roll, but leave a copy of them in a designated album. You can't do it. Photos deleted from the Camera Roll will also be deleted in other albums you add them to. (Note: they're not really added/copied to an album, just referenced to it.)
 
 ![processing iphone photos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2012/04/photostream_4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you've enabled Photo Stream on your mobile devices and iPhoto or Aperture, all your photos added to the Camera Roll will automatically be copied to Apple's iCloud server where they will be shared with all your enabled devices, i.e. iPhoto on your Mac and the Photo Stream folders on your other iOS 5 mobile devices.
 
 ![processing iphone photos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2012/04/photostream_7.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Photo Stream is supper great for instantly backing up and sharing your iOS photos. You can even access them on your Apple TV. And in the last iOS 5 update, you can now delete one or more photos from your Photo Stream. You just have to remember, however, that when you delete photos from Photo Stream on any of your devices, they get deleted on all your devices, since your photos in Photo Stream rest in the cloud and not on any actual local hard drive.
 
@@ -46,9 +58,6 @@ thumbnail: https://thmb.techidaily.com/ca38034074275621f4e2db5f63e60466f24745c23
 
  Being able to manage and keep photos into separate albums means not only can you can access them more easily, especially when you have hundreds of photos in your Camera Roll and Photo Stream, but it also means you can keep the original photos, and edit copies of them in say Instagram or other photo apps.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ## Solutions
 
  Well, so far here are my solutions to the problems. First off I use Hedonic Software's Albums: Photo and Video Manager ($2.99) app for maintaining the photos I want to keep on my iOS devices.
@@ -56,31 +65,27 @@ thumbnail: https://thmb.techidaily.com/ca38034074275621f4e2db5f63e60466f24745c23
 ![iphone photo process](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2012/04/photostream_10.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  I use this app because it supports keywords and smart albums, similar to what is available in iPhoto and Aperture. I can easily tag imported photos and they automatically are placed in designated smart albums.
 
  Secondly, the biggest problem with the Camera Roll is that even with iOS 5, Apple still has not made it possible to select all photos on the Camera Roll with one tap. You literally have to tap each one of them separately and then tap the Delete button at the bottom. But there is another option.
 
 ![iphone photo process](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2012/04/iphonecamera.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you have hundreds of photos you need to delete from the Camera Roll, you can hook up your mobile camera device to your computer, and then open a built-in OS X application called Image Capture (in the Applications folder.) All your Camera Roll photos will show up in that application, and from there you can do a Command+A (Select All) and both import those photos onto your computer and delete from the Camera Roll on your device. Sadly, this can't be done wirelessly.
 
 ![Photostream 9](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2012/04/photostream_9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  I also use an app called CameraSync ($2.99) on my iPhone which will after being launched instantly uploads all my Camera Roll photos and videos to a designated folder in Dropbox (or SkyDrive, FTP server, Amazon S3 bucket, etc..) It will remember which image and video files it already uploaded so you don't have to worry if particular files have been backed up. This app is very useful for people not using Photo Stream.
 
 ![managing iphone photos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2012/04/Screen-Shot-2012-04-10-at-12.46.25-AM.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  iPhone photography has changed the way I shoot and process photos, but until Apple rectifies the three major limitations discussed above, managing photos and videos on the device will remain a needlessly cumbersome process.
 
 For other iPhone camera related articles, check out these:
@@ -99,8 +104,6 @@ For other iPhone camera related articles, check out these:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -108,4 +111,24 @@ For other iPhone camera related articles, check out these:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-10-most-popular-tiktok-challenges-deserves-your-try/"><u>[New] 2024 Approved 10 Most Popular TikTok Challenges Deserves Your Try</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-maximizing-video-impact-zooming-strategies-for-snapchat/"><u>[New] Maximizing Video Impact Zooming Strategies for Snapchat</u></a></li>
+<li><a href="https://fox-that.techidaily.com/bypass-the-worries-how-to-resolve-these-5-iphone-issues-with-dfu-method/"><u>Bypass the Worries: How to Resolve These 5 iPhone Issues with DFU Method</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fix-it-discovering-hidden-events-in-your-iphones-calendar-system/"><u>Fix It: Discovering Hidden Events in Your iPhone's Calendar System</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-iphones-screen-time-feature-when-it-displays-unintended-websites/"><u>Fixing iPhone's Screen Time Feature When It Displays Unintended Websites</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-a-gamers-guide-easy-and-effective-ways-to-record-your-minecraft-games-macos/"><u>In 2024, A Gamer's Guide Easy & Effective Ways to Record Your Minecraft Games (MacOS)</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-developing-dynamic-instagram-highlight-summaries/"><u>In 2024, Developing Dynamic Instagram Highlight Summaries</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-motorola-moto-e13-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Motorola Moto E13 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-itel-p55-5g-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Itel P55 5G for Parents | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/ios-update-issues-try-out-our-9-effective-remedies-today/"><u>IOS Update Issues? Try Out Our 9 Effective Remedies Today</u></a></li>
+<li><a href="https://fox-that.techidaily.com/master-the-technique-force-start-up-iphone-into-recovery-configuration-modes/"><u>Master the Technique: Force Start-Up iPhone Into Recovery Configuration Modes</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-from-photos-to-film-a-beginners-guide-to-video-creation-for-2024/"><u>New From Photos to Film A Beginners Guide to Video Creation for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/premium-performance-unleashed-in-depth-analysis-of-the-microsoft-surface-studio-2/"><u>Premium Performance Unleashed: In-Depth Analysis of the Microsoft Surface Studio 2</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolving-disconnection-woes-essential-tips-for-keeping-airpods-synced-with-iphone/"><u>Resolving Disconnection Woes: Essential Tips for Keeping AirPods Synced with iPhone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/retaining-iphones-pictures-on-apples-server-post-deletion-top-8-tips/"><u>Retaining iPhones Pictures on Apple's Server Post-Deletion: Top 8 Tips</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-issues-top-6-methods-when-family-sharing-doesnt-work/"><u>Solving Issues: Top 6 Methods When Family Sharing Doesn't Work</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-your-fortnite-audio-issues-a-comprehensive-troubleshooting-guide/"><u>Solving Your Fortnite Audio Issues: A Comprehensive Troubleshooting Guide</u></a></li>
+</ul></div>
 

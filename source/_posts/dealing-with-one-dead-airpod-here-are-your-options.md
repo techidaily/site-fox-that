@@ -1,7 +1,7 @@
 ---
 title: Dealing With One Dead AirPod? Here Are Your Options!
-date: 2024-08-22T23:05:54.042Z
-updated: 2024-08-23T23:05:54.042Z
+date: 2024-12-03T20:13:29.413Z
+updated: 2024-12-10T16:28:12.860Z
 tags:
   - iphone
   - apple
@@ -13,6 +13,10 @@ thumbnail: https://thmb.techidaily.com/fd60f16bf20dda981eb260766dc085349ba6360b3
 ---
 
 ## Dealing With One Dead AirPod? Here Are Your Options
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -32,9 +36,6 @@ thumbnail: https://thmb.techidaily.com/fd60f16bf20dda981eb260766dc085349ba6360b3
 
  Did one of your AirPods stop working all of a sudden? Before you assume it's a hardware problem and contact Apple for a repair or replacement AirPod, follow these simple troubleshooting steps, as they can often quickly resolve the issue.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 1\. Check Your AirPods Battery
 
  It's possible that one of your AirPods stopped working because it ran out of battery. Each AirPod has its own battery charge, and when it gets drained, that particular AirPod will stop functioning. You'll have to [check the battery level of each AirPod](http://www.makeuseof.com/tag/how-to-check-airpod-battery/) to see if that's the problem.
@@ -45,9 +46,6 @@ thumbnail: https://thmb.techidaily.com/fd60f16bf20dda981eb260766dc085349ba6360b3
 
 Close
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Restart the Connected Device
 
  Once you've checked your AirPods' battery levels and made sure they're charged, it's time to reboot the device you use your AirPods with.
@@ -55,6 +53,10 @@ Close
  It's possible there's an issue with your connected device, like your computer or smartphone, that causes one of your AirPods to disconnect. In that case, rebooting might be all you need to fix an AirPod that's not working.
 
 [Reboot your iPhone](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) , Windows computer, Android device, or Mac—whatever it is that you use with your AirPods. Once your device is powered on and Bluetooth is enabled, check if both your AirPods connect and work properly again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Adjust the Audio Balance on Your Devices
 
@@ -73,15 +75,17 @@ Close
 ![mac sound system settings airpods balance](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/mac-sound-system-settings-airpods-balance.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You can adjust the AirPods audio balance on Windows 11 by opening**Settings > System > Sound** . Then, select your AirPods from the list of output devices and adjust the**Left channel** and**Right channel** sliders so that they're equal.
 
 ![Windows Sound Settings for AirPods Pro](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/windows-sound-settings-for-airpods-pro.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Try Your AirPods With Other Devices
 
  It isn't always your AirPods that have issues. Sometimes, one of your AirPods stops working because of a problem with your smartphone or your computer.
@@ -108,9 +112,6 @@ Close
 
  After unpairing, you need to [re-pair your AirPods to your device](https://www.makeuseof.com/tag/how-to-connect-airpods-mac-iphone-pc-android/) . Then, see if both your AirPods work.
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Reset Your AirPods to Factory Settings
 
  If your AirPods still don't work after unpairing and re-pairing them, try resetting them to their factory settings. Once they're unpaired, put your AirPods in their charging case, but don't close the lid.
@@ -120,8 +121,9 @@ Close
  Your iPhone will prompt you to set them up. If you're using another device, follow the standard Bluetooth setup steps.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Reset Your Phone's Network Settings
 
  Your phone's network settings define how it connects to various other devices. It's worth changing back to the default settings to see if this fixes the AirPod that's not working.
@@ -146,8 +148,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -155,4 +155,21 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-how-to-start-a-product-review-channel/"><u>[New] In 2024, How to Start a Product Review Channel</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-streamline-video-management-with-easy-to-follow-time-stamp-tutorials/"><u>[New] In 2024, Streamline Video Management with Easy-to-Follow Time Stamp Tutorials</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-respond-to-a-youtube-copyright-claim-best-practices-for-2024/"><u>[Updated] How to Respond to a YouTube Copyright Claim Best Practices for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/complete-instructions-for-performing-an-emergency-restart-and-entering-iphones-safe-mode/"><u>Complete Instructions for Performing an Emergency Restart and Entering iPhone's Safe Mode</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-guide-to-correcting-missing-ksuserdll-file-issues/"><u>Comprehensive Guide to Correcting Missing ksuser.dll File Issues</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/easy-photo-fixes-an-introduction-to-snapseed/"><u>Easy Photo Fixes An Introduction to Snapseed</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-resolve-iphone-sms-issues-top-10-solutions/"><u>How to Resolve iPhone SMS Issues: Top 10 Solutions</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-turn-off-the-screen-lock-on-my-zte-axon-40-lite-by-drfone-android-unlock-android-unlock/"><u>How to turn off the screen lock on my ZTE Axon 40 Lite</u></a></li>
+<li><a href="https://driver-install.techidaily.com/revamping-dell-machines-introducing-updated-windows-drivers/"><u>Revamping Dell Machines: Introducing Updated Windows Drivers</u></a></li>
+<li><a href="https://fox-that.techidaily.com/ringsilent-switch-isnt-working-heres-how-to-still-mute-or-unmute-your-iphone/"><u>Ring/Silent Switch Isn’t Working? Here’s How to Still Mute or Unmute Your iPhone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/smooth-out-your-instagram-experience-essential-fixes-for-mobile-devices/"><u>Smooth Out Your Instagram Experience: Essential Fixes for Mobile Devices</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96368977-9781446357606-the-invisible-influence/"><u>The Invisible Influence | Free Book</u></a></li>
+<li><a href="https://fox-that.techidaily.com/the-ultimate-how-to-for-safely-refreshing-your-ios-phone/"><u>The Ultimate How-To for Safely Refreshing Your iOS Phone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/ultimate-guide-mastering-the-art-of-changing-your-apple-devices-screen-time-password/"><u>Ultimate Guide: Mastering the Art of Changing Your Apple Device's Screen Time Password</u></a></li>
+</ul></div>
 

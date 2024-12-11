@@ -1,7 +1,7 @@
 ---
 title: Navigating iPhone Photo Complications? Discover Your Problem-Solution Guide Here
-date: 2024-08-22T23:05:00.869Z
-updated: 2024-08-23T23:05:00.869Z
+date: 2024-12-05T16:42:12.140Z
+updated: 2024-12-10T19:26:28.764Z
 tags:
   - iphone
   - apple
@@ -32,9 +32,17 @@ thumbnail: https://thmb.techidaily.com/69b1d610dfac71b4ad43b5c58d93dcc4f9582f39e
 
 ![processing iphone photos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2012/04/photostream_7.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Photo Stream is supper great for instantly backing up and sharing your iOS photos. You can even access them on your Apple TV. And in the last iOS 5 update, you can now delete one or more photos from your Photo Stream. You just have to remember, however, that when you delete photos from Photo Stream on any of your devices, they get deleted on all your devices, since your photos in Photo Stream rest in the cloud and not on any actual local hard drive.
 
 ![processing iphone photos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2012/04/photostream_13.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Again, Photo Stream works well in this regard. However, while you can share photos via email, text message, Twitter, etc., you can't copy photos to separate albums on your iOS devices. You can do so, however, in iPhoto and Aperture. To have this done automatically, open the Preferences of these applications, and enable Automatic Import, of photos from Photo Stream. Photos will be copied into a separate album and labeled by the current month.
 
@@ -46,9 +54,6 @@ thumbnail: https://thmb.techidaily.com/69b1d610dfac71b4ad43b5c58d93dcc4f9582f39e
 
  Being able to manage and keep photos into separate albums means not only can you can access them more easily, especially when you have hundreds of photos in your Camera Roll and Photo Stream, but it also means you can keep the original photos, and edit copies of them in say Instagram or other photo apps.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ## Solutions
 
  Well, so far here are my solutions to the problems. First off I use Hedonic Software's Albums: Photo and Video Manager ($2.99) app for maintaining the photos I want to keep on my iOS devices.
@@ -56,31 +61,31 @@ thumbnail: https://thmb.techidaily.com/69b1d610dfac71b4ad43b5c58d93dcc4f9582f39e
 ![iphone photo process](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2012/04/photostream_10.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  I use this app because it supports keywords and smart albums, similar to what is available in iPhoto and Aperture. I can easily tag imported photos and they automatically are placed in designated smart albums.
 
  Secondly, the biggest problem with the Camera Roll is that even with iOS 5, Apple still has not made it possible to select all photos on the Camera Roll with one tap. You literally have to tap each one of them separately and then tap the Delete button at the bottom. But there is another option.
 
 ![iphone photo process](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2012/04/iphonecamera.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you have hundreds of photos you need to delete from the Camera Roll, you can hook up your mobile camera device to your computer, and then open a built-in OS X application called Image Capture (in the Applications folder.) All your Camera Roll photos will show up in that application, and from there you can do a Command+A (Select All) and both import those photos onto your computer and delete from the Camera Roll on your device. Sadly, this can't be done wirelessly.
 
 ![Photostream 9](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2012/04/photostream_9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  I also use an app called CameraSync ($2.99) on my iPhone which will after being launched instantly uploads all my Camera Roll photos and videos to a designated folder in Dropbox (or SkyDrive, FTP server, Amazon S3 bucket, etc..) It will remember which image and video files it already uploaded so you don't have to worry if particular files have been backed up. This app is very useful for people not using Photo Stream.
 
 ![managing iphone photos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2012/04/Screen-Shot-2012-04-10-at-12.46.25-AM.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  iPhone photography has changed the way I shoot and process photos, but until Apple rectifies the three major limitations discussed above, managing photos and videos on the device will remain a needlessly cumbersome process.
 
 For other iPhone camera related articles, check out these:
@@ -99,8 +104,6 @@ For other iPhone camera related articles, check out these:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -108,4 +111,21 @@ For other iPhone camera related articles, check out these:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-clips.techidaily.com/new-collect-free-image-resources-via-top-4-online-stock-hubs/"><u>[New] Collect Free Image Resources Via Top 4 Online Stock Hubs</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-best-gif-recorders-for-capturing-animated-gifs-on-windows/"><u>[New] In 2024, Best GIF Recorders for Capturing Animated GIFs on Windows</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-varied-ideas-for-daily-vlogging-talks/"><u>[Updated] Varied Ideas for Daily Vlogging Talks</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-the-ultimate-handbook-to-effective-spotify-marketing/"><u>2024 Approved The Ultimate Handbook to Effective Spotify Marketing</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/easy-methods-flipping-film-frames-using-vlc-for-2024/"><u>Easy Methods Flipping Film Frames Using VLC for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/eliminating-errors-in-inf-service-configuration-sections/"><u>Eliminating Errors in INF Service Configuration Sections</u></a></li>
+<li><a href="https://fox-that.techidaily.com/guide-fixing-wrong-people-identification-issues-within-apples-photo-library/"><u>Guide: Fixing Wrong People Identification Issues Within Apple's Photo Library</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-universal-unlock-pattern-for-realme-v30t-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Realme V30T</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721453212409-iphone-screen-lags-before-turning-off-expert-tips-to-speed-things-up/"><u>IPhone Screen Lags Before Turning Off? Expert Tips to Speed Things Up</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcome-iphone-sos-only-status-bar-issue-using-these-proven-fixes/"><u>Overcome iPhone SOS-Only Status Bar Issue Using These Proven Fixes</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/polka-dotted-parakeet-party/"><u>Polka-Dotted Parakeet Party</u></a></li>
+<li><a href="https://fox-that.techidaily.com/struggling-with-iphones-auto-brightness-feature-discover-7-quick-fixes-here/"><u>Struggling With iPhone's Auto-Brightness Feature? Discover 7 Quick Fixes Here</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-guide-9-essential-steps-for-resolving-iphone-voicemail-issues/"><u>Troubleshooting Guide: 9 Essential Steps for Resolving iPhone Voicemail Issues</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlocking-high-speed-mobile-connections-expert-tips-for-improved-performance/"><u>Unlocking High-Speed Mobile Connections: Expert Tips for Improved Performance</u></a></li>
+</ul></div>
 

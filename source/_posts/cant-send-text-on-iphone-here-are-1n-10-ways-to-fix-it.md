@@ -1,7 +1,7 @@
 ---
 title: Can't Send Text on iPhone? Here Are 1N 10 Ways to Fix It
-date: 2024-08-22T23:07:06.376Z
-updated: 2024-08-23T23:07:06.376Z
+date: 2024-12-08T23:02:43.109Z
+updated: 2024-12-10T23:12:29.757Z
 tags:
   - iphone
   - apple
@@ -44,6 +44,10 @@ thumbnail: https://thmb.techidaily.com/b0350890102e8bceb542486b6a13817e51d92335c
 
 ![SMS and MMS enabled on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/03-sms-mms-enabled-iphone.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Close
 
  Your iPhone can also send MMS (Multimedia Messaging Service) messages. These are text messages that include some kind of media, such as images or video clips. You may need to enable these messages in Settings before you're able to send them.
@@ -65,9 +69,14 @@ Here's how you can activate MMS messages:
 ![An iPhone's Home Screen in iOS 16](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/01-ios-home-screen.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Control Center in iOS with Airplane Mode enabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/02-control-center-iphone-airplane-mode.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![Control Center in iOS with Airplane Mode disabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/03-control-center-airplane-mode-disabled.jpg)
 
@@ -75,9 +84,6 @@ Close
 
  You can do this by opening your iPhone's**Control Center** and tapping the**Airplane** toggle in the top left. This symbol is grayed out whenever Airplane Mode is off. As a bonus, sometimes toggling Airplane Mode on and off can clear up temporary signal hiccups, too.
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Did You Text the Right Number?
 
  Sending text messages to inactive or unused numbers is a recipe for failure and frustration. When sending an SMS message, make sure you enter the correct number.
@@ -88,9 +94,6 @@ Close
 
  This last point is important. Sometimes, your contacts may change their numbers, or their mobile operator may disconnect them. The issue may be with someone else's phone and not yours.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 5\. Refresh and Delete Your Messages
 
  If your iPhone can't send text messages, try closing the Messages app and opening it again. This isn't the most scientific method, but some users report that it's effective.
@@ -112,9 +115,17 @@ You can also delete conversations in Messages by doing the following:
 
 ![Delete message pop-up confirmation in Messages](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/03-message-deletion-confirmation-imessage.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Close
 
  This method is extremely useful if a message continually tries to send but is unable to do so.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Is Your Mobile Plan Active?
 
@@ -124,9 +135,6 @@ Close
 
  In either case, you should contact your network provider to ensure there are no issues with your account services.
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ## 7\. Restart Your iPhone
 
  If you've tried all of the above, you can [restart your iPhone](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) next. Restarts clear temporary memory, so they can be a good way of removing any issues affecting how your iPhone works.
@@ -144,23 +152,16 @@ Close
 
 ![Shut Down option in iPhone Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/02-shut-down-ios-option.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Shutting down an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/03-shutting-down-iphone.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Close
 
  When the phone turns back on, you should be able to enter Messages and easily resend the problematic text.
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 8\. Update iOS
 
 [You should always keep your iPhone updated](https://www.makeuseof.com/reasons-you-need-to-update-ios/) with the latest version of iOS. New updates for iOS can iron out software issues and bugs. So if your iPhone still can't send text messages, it's a good idea to update.
@@ -176,14 +177,12 @@ Close
 
 ![General settings in iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/02-software-update-ios-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![iOS software updates page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/03-ios-update-page.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Close
 
  If your iPhone says, "iOS is up to date," you have the latest version installed and don't need to do anything else.
@@ -206,20 +205,23 @@ Here's how to clear your iPhone's network settings:
 ![General Settings page on iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/01-General-settings-page-iphone-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Reset iPhone option in iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/02-Reset-iPhone.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![iPhone reset options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/03-Reset-iPhone-options.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Close
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ## 10\. Still Not Working? Get Professional Help
 
  If your iPhone still won't send SMS messages after all this, your last option is to contact your mobile operator. Try calling the customer service line. If they can't help you, it's likely a hardware issue, and you should contact Apple or an authorized service provider for expert assistance.
@@ -238,8 +240,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -247,4 +247,17 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-plainvidwin11-intuitive-simple-screen-recorder-for-pcs/"><u>[New] PlainVidWin11 Intuitive, Simple Screen Recorder for PCs</u></a></li>
+<li><a href="https://fox-that.techidaily.com/demystifying-error-4013-in-ios-a-step-by-step-repair-tutorial/"><u>Demystifying Error 4013 in iOS: A Step-by-Step Repair Tutorial</u></a></li>
+<li><a href="https://win-blog.techidaily.com/end-game-lag-and-crashes-in-multiversus-a-comprehensive-guide-to-8-fixes/"><u>End Game Lag and Crashes in MultiVersus: A Comprehensive Guide to 8 Fixes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/expert-tips-and-tricks-resolving-your-iphones-deadly-dark-display-problem/"><u>Expert Tips and Tricks: Resolving Your iPhone's Deadly Dark Display Problem</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-digital-still-extraction-windows-11-guide-for-videos/"><u>In 2024, Digital Still Extraction Windows 11 Guide for Videos</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-master-review-unveiling-the-full-potential-of-android-lightroom/"><u>In 2024, Master Review Unveiling the Full Potential of Android Lightroom</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-the-iphone-standby-problem-4-effective-solutions/"><u>Solving the iPhone Standby Problem: 4 Effective Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-your-apple-pay-10-hassle-free-methods-to-address-usual-glitches/"><u>Troubleshoot Your Apple Pay: 10 Hassle-Free Methods to Address Usual Glitches</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-for-error-1053-how-to-ensure-services-start-promptly/"><u>Troubleshooting Steps for Error 1053: How to Ensure Services Start Promptly</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-magic-removing-incompatible-graphics-drivers/"><u>Windows Magic: Removing Incompatible Graphics Drivers</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting iPhone Microphone Issues: Expert Tips & Solutions"
-date: 2024-08-22T23:04:16.265Z
-updated: 2024-08-23T23:04:16.265Z
+date: 2024-12-04T23:43:45.816Z
+updated: 2024-12-10T16:23:20.950Z
 tags:
   - iphone
   - apple
@@ -16,11 +16,19 @@ thumbnail: https://thmb.techidaily.com/0838ac8f5f2d8f067138531cc9f4dfd905cfa9adb
 
  An iPhone is almost useless without a working microphone. A broken microphone means no FaceTime, phone calls, or Siri. Sometimes, videos shot on your iPhone may not have any audio. But before you pay Apple for a costly repair, try these fixes first.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Find Out Which Microphone Isn't Working
 
  Before you begin fixing your iPhone's microphone, you'll need to know which microphone isn't working. If you have an iPhone 5 or later, you'll have three microphones: one on the bottom of your phone for phone calls, one on the front of your phone for speakerphone, and one on the back for the camera.
 
  Test each microphone by recording using Voice Memos (bottom microphone), making a phone call on speakers (front microphone), and recording a video (back microphone). If all the microphones aren't working, it's most likely a hardware issue. If only one microphone isn't working or sounds muffled, continue to the next step.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. iPhone Microphone Muffled or Muted? Try Cleaning It
 
@@ -34,9 +42,6 @@ thumbnail: https://thmb.techidaily.com/0838ac8f5f2d8f067138531cc9f4dfd905cfa9adb
 
  Isopropyl alcohol breaks up grime and dries fast, so it won't damage your iPhone. Try using the highest percentage of isopropyl alcohol you can find. While you're at it,[clean your entire iPhone thoroughly](https://www.makeuseof.com/tag/clean-iphone-guide/) if it's not in a good shape.
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Disconnect From Bluetooth Devices
 
 Close
@@ -45,9 +50,6 @@ Close
 
  This is a common issue with those who use Bluetooth headphones like AirPods or smart home systems. Check if you're connected to a Bluetooth device by [opening your iPhone's Control Center](https://www.makeuseof.com/how-to-use-customize-control-center-iphone/) , then toggle Bluetooth off. Alternatively, tap and hold it to view all your connected devices.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Make Sure Apps Have Microphone Permissions
 
 Close
@@ -57,15 +59,17 @@ Close
  To grant an app permission, head to**Settings** and select the affected app. Now, make sure the**Microphone** toggle is enabled.
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Use an External Microphone or AirPods
 
 ![A guy holding AirPods Pro in charging case showing orange light](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/02/a-guy-holding-airpods-pro-in-charging-case-showing-orange-light.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Hamlin Rozario/[MakeUseOf](https://www.makeuseof.com/author/hamlin-rozario/)
 
  If you've tried all the above fixes but nothing is working, you can still use an external microphone with your iPhone. You can use this while you wait for a repair or even use an external microphone indefinitely if you can't afford a repair.
@@ -73,13 +77,9 @@ Close
  Most headphones, including Apple's AirPods, have built-in microphones. Since they connect via your iPhone's Lightning/USB-C port or Bluetooth, you won't have to rely on the built-in microphones for most tasks.
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Other Generic Fixes
 
 Close
@@ -96,8 +96,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -105,4 +103,22 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-become-a-canvas-connoisseur-with-these-10-tips/"><u>[Updated] 2024 Approved Become a Canvas Connoisseur with These 10 Tips</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-the-finest-tools-for-digital-snapping/"><u>[Updated] The Finest Tools for Digital Snapping</u></a></li>
+<li><a href="https://fox-that.techidaily.com/bypass-airdrop-glitches-expert-advice-on-quick-fixes-with-16-effective-solutions/"><u>Bypass AirDrop Glitches: Expert Advice on Quick Fixes with 16 Effective Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/dealing-with-a-hot-iphone-or-ipad-heres-why-it-happens-and-how-to-cool-down/"><u>Dealing with a Hot iPhone or iPad? Here's Why It Happens & How to Cool Down</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-overcome-common-icloud-hurdles-for-iphone-and-ipad-users/"><u>How to Overcome Common iCloud Hurdles for iPhone and iPad Users</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-oppo-k11x-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Oppo K11x without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/iphone-12-mini-backup-password-never-set-but-still-asking-heres-the-fix-by-drfone-ios/"><u>iPhone 12 mini Backup Password Never Set But Still Asking? Heres the Fix</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-top-10-free-animated-logo-creators-for-stunning-brand-identities-for-2024/"><u>New Top 10 Free Animated Logo Creators for Stunning Brand Identities for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcome-ios-installation-issues-explore-9-proven-methods-for-a-successful-update/"><u>Overcome iOS Installation Issues: Explore 9 Proven Methods for a Successful Update</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-fixes-for-eliminating-unwanted-hum-in-your-speakers/"><u>Quick Fixes for Eliminating Unwanted Hum in Your Speakers</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-the-mystery-why-arent-my-contacts-displayed-on-my-iphone/"><u>Solving the Mystery: Why Aren't My Contacts Displayed on My iPhone?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/the-app-blocked-bouquet-5-reasons-for-restricted-gift-sending-on-mac-and-iphones/"><u>The App-Blocked Bouquet: 5 Reasons for Restricted Gift Sending on Mac and iPhones</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-editors-playbook-for-social-media-stardom/"><u>The Editor's Playbook for Social Media Stardom</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-6-solutions-when-apple-rejects-your-card-immediate-actions/"><u>Top 6 Solutions When Apple Rejects Your Card - Immediate Actions</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-dvd-burning-made-easy-convert-videos-to-dvd-on-windows-and-mac-for-2024/"><u>Updated DVD Burning Made Easy Convert Videos to DVD on Windows and Mac for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Experiencing iPhone Sound Problems? Here Are 7 Ways to Repair Button Malfunctions
-date: 2024-08-22T23:08:11.022Z
-updated: 2024-08-23T23:08:11.022Z
+date: 2024-12-04T21:25:02.198Z
+updated: 2024-12-10T23:43:34.430Z
 tags:
   - iphone
   - apple
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/7491070a9335b06cf0f788f98c5ea183aa46a07a8
 
 ![iphone enable volume button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/iphone-enable-volume-button.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To check this, head to**Settings > Sounds & Haptics** and toggle on**Change with Buttons** . If this isn't enabled, this could be why your volume buttons aren't working. If it's already enabled, proceed to the next fix.
 
 ## 2\. Remove Your iPhone From Its Case
@@ -37,19 +41,17 @@ thumbnail: https://thmb.techidaily.com/7491070a9335b06cf0f788f98c5ea183aa46a07a8
  It's also possible that prolonged use of a case can cause your volume buttons to get dirty. If that's the case, proceed to the next step.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Clean Your iPhone's Volume Buttons Using Alcohol
 
 ![iPhone Ring/Silent switch](https://thmb.techidaily.com/14af88c4727edfc68754682f8d9e5a16b4632ead51b56f451896cf5d83dd52e4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  We use our phones so much that dirt and grime can sometimes get under the buttons, especially when not using a case. So, press down on your buttons a few times to check if your buttons are stuck. You might need to clean them if they're stuck or don't seem to click down.
 
  To clean your volume buttons, take a cotton swab and dip it in isopropyl alcohol. The best option for cleaning electronics is 99 percent isopropyl alcohol, as it dries quickly and doesn't contain much water. It also removes dirt and grime by breaking up oils.
@@ -58,10 +60,6 @@ No advertising on the website.
 
  After cleaning, wait a few minutes for the alcohol to dry. If your volume buttons are working now, great! If they are only working a bit better, that's a sign that they are still dirty, and you should keep cleaning them. It's worth [cleaning your entire iPhone if it's dirty](https://www.makeuseof.com/tag/clean-iphone-guide/) .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ## 4\. Reset or Restore Your iPhone
 
  Sometimes, firmware updates can change how the buttons on our phones work. This is especially true for older iPhone models. If you recently updated your iPhone and the volume buttons stopped working, try [restarting your iPhone](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) by turning it off and on again.
@@ -84,12 +82,13 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
  You can update it by heading to**Settings > General > Software Update** . Here, you can see if a new iOS version is available. If you're using a beta version of iOS, it might be time to switch back to the stable public build and report this issue to Apple.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Control Your iPhone's Volume Without Using Volume Buttons
 
 ![iphone screen volume control](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/iphone-screen-volume-control.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you use apps like Spotify, you can control the volume within the app without a physical button. If all else fails, there are still ways to control your volume without using the buttons. The easiest way is to use the Control Center.
 
@@ -100,8 +99,9 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
  If you have AirPods, you can say, "Hey Siri, turn up the volume." Other Bluetooth headphones typically have built-in volume controls, which you can use as well. This means that you won't have to keep going to your phone when you want to change the volume.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Control the Volume With AssistiveTouch
 
  If you're looking for another way to control the volume, consider using AssistiveTouch. You can set the AssistiveTouch button to open a menu to control your volume on the screen or have it either turn up or down when tapped.
@@ -111,8 +111,9 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 ![assistive touch iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/IMG_2959.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Get Your Volume Buttons Repaired
 
  If cleaning your buttons and resetting your iPhone doesn't fix the volume buttons, you most likely need to get the buttons repaired. This is especially true if you recently damaged your iPhone or exposed it to water.
@@ -135,8 +136,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -144,4 +143,23 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-full-page-capture-on-device/"><u>[New] In 2024, Full Page Capture on Device</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-off-facebook-insights-what-they-reveal-and-when-to-turn-them-off/"><u>[New] Off-Facebook Insights What They Reveal & When to Turn Them Off</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-optimizing-performance-best-practices-for-fast-loading-times/"><u>2024 Approved Optimizing Performance Best Practices for Fast Loading Times</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-streamlined-image-enhancement-software/"><u>2024 Approved Streamlined Image Enhancement Software</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/capture-attention-yt-imagery-and-its-dimension-magic-for-2024/"><u>Capture Attention YT Imagery and Its Dimension Magic for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-vivo-v30-lite-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Vivo V30 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/dont-wait-anymore-discover-why-ios-153-is-the-must-have-update-for-your-iphone-or-ipad/"><u>Don't Wait Anymore! Discover Why iOS 15.3 Is the Must-Have Update for Your iPhone or iPad</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-change-your-ios-devices-screen-time-passcode-easily/"><u>How to Change Your iOS Device’s Screen Time Passcode Easily</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-from-current-applications-to-future-drone-horizons/"><u>In 2024, From Current Applications to Future Drone Horizons</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-sony-xperia-5-v-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Sony Xperia 5 V Location | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-not-buzzing-here-are-8-fixes-for-when-your-device-stops-vibrating-silently-or-on-ringer/"><u>IPhone Not Buzzing? Here Are 8 Fixes for When Your Device Stops Vibrating Silently or on Ringer</u></a></li>
+<li><a href="https://fox-that.techidaily.com/issue-with-siris-text-prediction-try-these-5-fixes-for-a-smooth-iphone-dictation-experience/"><u>Issue with Siri's Text Prediction? Try These 5 Fixes for a Smooth iPhone Dictation Experience</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/schritt-fur-schritt-anleitung-zum-upgrade-der-ssd-auf-dem-microsoft-surface-pro-x/"><u>Schritt-Für-Schritt-Anleitung Zum Upgrade Der SSD Auf Dem Microsoft Surface Pro X</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-common-issues-how-to-troubleshoot-guided-access-malfunctions-on-iphones/"><u>Solving Common Issues: How to Troubleshoot Guided Access Malfunctions on iPhones</u></a></li>
+<li><a href="https://fox-that.techidaily.com/the-definitive-walkthrough-for-wiping-and-rebooting-your-apple-tablet-or-phone/"><u>The Definitive Walkthrough for Wiping and Rebooting Your Apple Tablet or Phone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-6-tips-for-overcoming-autocorrect-mishaps-and-improving-iphone-typing-accuracy/"><u>Top 6 Tips for Overcoming Autocorrect Mishaps & Improving iPhone Typing Accuracy</u></a></li>
+</ul></div>
 

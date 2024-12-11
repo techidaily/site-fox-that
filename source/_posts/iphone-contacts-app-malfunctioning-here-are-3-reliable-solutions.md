@@ -1,7 +1,7 @@
 ---
 title: IPhone Contacts App Malfunctioning? Here Are 3 Reliable Solutions
-date: 2024-11-27T18:41:57.452Z
-updated: 2024-12-03T20:20:04.576Z
+date: 2024-12-05T00:21:52.186Z
+updated: 2024-12-10T17:39:41.506Z
 tags:
   - iphone
   - apple
@@ -32,16 +32,16 @@ thumbnail: https://thmb.techidaily.com/15a61f0827860e342a65d573fdf8ef935cbe188b5
 
 ![viewing contact list in phone app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/viewing-contact-list-in-phone-app.jpeg)
 
-![viewing my own contact photo & poster](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/viewing-my-own-contact-phot-poster.jpeg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![viewing my own contact photo & poster](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/viewing-my-own-contact-phot-poster.jpeg)
 
 ![tweaking contact poster settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/tweaking-contact-poster-settings.jpeg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![pop-up menu that appears when you tap share automatically](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/pop-up-menu-that-appears-when-you-tap-share-automatically.jpeg)
@@ -49,6 +49,10 @@ thumbnail: https://thmb.techidaily.com/15a61f0827860e342a65d573fdf8ef935cbe188b5
 Close
 
  If someone you know has set up their Contact Poster and you can't see it, simply ask them to follow the steps above and ensure the feature is enabled!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Delete and Recreate the Contact Poster
 
@@ -61,16 +65,16 @@ Close
 
 ![viewing my own contact photo & poster](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/viewing-my-own-contact-phot-poster-1.jpeg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![viewing my created contact posters](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/viewing-my-created-contact-posters-1.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![swiping up on my created contact poster and trash icon appears](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/swiping-up-on-my-created-contact-poster-and-trash-icon-appears.jpeg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![deleting my contact poster](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/deleting-my-contact-poster.jpeg)
@@ -82,10 +86,6 @@ Close
  Perhaps a software bug is the culprit behind this issue. Fortunately, the simplest way to fix software glitches like this one is restarting your iPhone. Before you restart your iPhone, head to**Phone > My Card > Contact Photo & Poster** and disable**Name & Photo Sharing** .
 
  Whether you're using a model with a notch or Dynamic Island or an old-school iPhone with a physical Home button,[restarting your iPhone, even if the buttons aren't working](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) , is pretty straightforward. After you turn your iPhone back on, follow the steps above to enable**Name & Photo Sharing** again.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## It's Time to Get Your Contact Posters Back
 
@@ -106,21 +106,17 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-capturing-photographs-from-movies-in-windows-photos-app-for-savvy-users/"><u>[New] Capturing Photographs From Movies in Windows Photos App for Savvy Users</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-stepwise-decrease-in-mix-dynamics/"><u>[New] Stepwise Decrease in Mix Dynamics</u></a></li>
-<li><a href="https://fox-that.techidaily.com/beating-iphone-error-14-effective-strategies-and-solutions-revealed/"><u>Beating iPhone Error 14: Effective Strategies & Solutions Revealed</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/compare-leading-live-video-editors-and-virtual-camcorders-beyond-manycam-solutions/"><u>Compare Leading Live Video Editors & Virtual Camcorders, Beyond ManyCam Solutions!</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/dbpower-600a-mains-charge-portable-jump-starter-insights-for-the-tech-savvy-professional/"><u>DBPower 600A Mains Charge Portable Jump Starter Insights for the Tech-Savvy Professional</u></a></li>
-<li><a href="https://fox-that.techidaily.com/earbud-troubles-heres-what-to-do-when-one-airpod-sounds-louder-than-its-pairing/"><u>Earbud Troubles? Here's What to Do When One AirPod Sounds Louder Than Its Pairing</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-resolve-issues-with-an-unresponsive-tablet-display-8-practical-fixes/"><u>How to Resolve Issues with an Unresponsive Tablet Display: 8 Practical Fixes</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-oppo-a58-4g-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Oppo A58 4G Bootloader Easily</u></a></li>
-<li><a href="https://fox-that.techidaily.com/iphone-imessage-woes-discover-how-to-ensure-message-delivery-success/"><u>IPhone iMessage Woes? Discover How to Ensure Message Delivery Success!</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/96317684-9781848507418-life-changing-messages/"><u>Life-Changing Messages | Free Book</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/premiere-moments-in-motion-for-2024/"><u>Premiere Moments in Motion for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solve-your-tablets-touchscreen-malfunction-with-these-8-effective-tips/"><u>Solve Your Tablet's Touchscreen Malfunction with These 8 Effective Tips</u></a></li>
-<li><a href="https://fox-that.techidaily.com/step-by-step-guide-to-fix-itunesfinder-recognizing-problems-with-your-iphone/"><u>Step-by-Step Guide to Fix iTunes/Finder Recognizing Problems with Your iPhone</u></a></li>
-<li><a href="https://win-updates.techidaily.com/step-by-step-guide-to-mastering-image-edits-in-apowerpdf-software/"><u>Step-by-Step Guide to Mastering Image Edits in ApowerPDF Software</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/top-15-apps-to-hack-wifi-password-on-realme-c51-by-drfone-android/"><u>Top 15 Apps To Hack WiFi Password On Realme C51</u></a></li>
-<li><a href="https://fox-that.techidaily.com/unlock-your-iphones-full-potential-with-these-tips-for-forced-restart-and-entry-into-recovery-mode/"><u>Unlock Your iPhone's Full Potential with These Tips for Forced Restart and Entry Into Recovery Mode</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-aiseesoft-screen-recorder-review/"><u>[New] Aiseesoft Screen Recorder Review</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-elevate-your-instagram-game-scouting-the-8-top-post-schedulers/"><u>[New] Elevate Your Instagram Game Scouting the 8 Top Post Schedulers</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/xploring-the-top-10-budget-friendly-youtube-spaces-for-artistry/"><u>[New] Exploring the Top 10 Budget-Friendly YouTube Spaces for Artistry</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-navigating-networked-video-streaming-with-vlc/"><u>[Updated] 2024 Approved Navigating Networked Video Streaming with VLC</u></a></li>
+<li><a href="https://fox-that.techidaily.com/dealing-with-restless-noise-changes-in-your-airpods-try-disabling-audio-tracking-technology/"><u>Dealing With Restless Noise Changes In Your AirPods? Try Disabling Audio Tracking Technology</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-fix-itunes-wont-detect-iphone-issue-on-windows-10-computers/"><u>How to Fix 'iTunes Won't Detect iPhone' Issue on Windows 10 Computers</u></a></li>
+<li><a href="https://fox-that.techidaily.com/identifying-liquid-impact-the-ultimate-list-of-9-signs-for-a-damaged-iphone/"><u>Identifying Liquid Impact: The Ultimate List of 9 Signs for a Damaged iPhone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/restoring-access-to-grayed-out-icloud-settings-on-ios-gadgets/"><u>Restoring Access to Grayed-Out iCloud Settings on iOS Gadgets</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/tailor-your-vocal-expression-masterful-techniques-for-snapchat-voices/"><u>Tailor Your Vocal Expression Masterful Techniques for Snapchat Voices</u></a></li>
+<li><a href="https://fox-that.techidaily.com/tips-and-tricks-to-optimize-photo-quality-on-low-megapixel-iphone-devices/"><u>Tips & Tricks to Optimize Photo Quality on Low-Megapixel iPhone Devices</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-picks-the-best-lgbt-films-streaming-on-netflix-this-july-2024/"><u>Top Picks: The Best LGBT Films Streaming on Netflix This July 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-face-id-top-14-solutions-when-it-fails-on-iphones/"><u>Troubleshooting Face ID: Top 14 Solutions When It Fails on iPhones</u></a></li>
 </ul></div>
 
