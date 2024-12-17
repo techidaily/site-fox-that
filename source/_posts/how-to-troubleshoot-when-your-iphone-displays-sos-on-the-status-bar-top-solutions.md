@@ -1,7 +1,7 @@
 ---
 title: How to Troubleshoot When Your iPhone Displays 'SOS' On the Status Bar - Top Solutions
-date: 2024-08-15T12:06:33.872Z
-updated: 2024-08-16T12:06:33.872Z
+date: 2024-12-15T01:47:25.833Z
+updated: 2024-12-17T02:02:44.295Z
 tags:
   - iphone
   - apple
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/f7921a39c56c18854a738fb18f72fdf7d073d9479
 
  If neither of those is the culprit, there are several troubleshooting steps you can try to fix this problem. So, let's take a look.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Turn Cellular Data Off and On
 
 [Your iPhone's cellular data may not be working properly](https://www.makeuseof.com/iphone-cellular-data-not-working-fixes/) . If that's the case, sometimes the best fix is the easiest fix: turning it off and on again.
@@ -30,9 +34,6 @@ Close
 
  Head into**Settings > Cellular** . It should be already on, so turn the**Cellular Data** switch off. Give it a few seconds, then turn**Cellular Data** back on. It may have just needed a quick reset, but if there is still no luck, move on to our next suggestion.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 2\. Enable Data Roaming
 
  You may need to turn Data Roaming on, especially if you're traveling internationally. This allows your iPhone to connect to another network in a different country without having to sign up for a new service. Beware that turning this on can come with additional fees on your phone bill.
@@ -42,28 +43,31 @@ Close
 ![iPhone cellular settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-settings-cellular-data-options.jpg)
 
 ![iPhone cellular data options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-settings-data-roaming.jpg)
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Close
 
  To enable Data Roaming on your iPhone, go to**Settings > Cellular > Cellular Data Options** . Then, toggle on the**Data Roaming** switch.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Switch to LTE
 
  Your iPhone may have trouble picking up a specific type of cellular data, especially 5G. While 5G coverage has rapidly expanded over the past several years, LTE still blankets a larger portion of the United States. If your iPhone is set to receive 5G in a location where it's unavailable, you may need to [disable 5G on your device](https://www.makeuseof.com/how-to-disable-5g-on-any-device/) and fall back on another option.
 
 ![iPhone settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-cellular-settings.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 
 ![iPhone cellular data options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-cellular-data-options-voice-data-settings.jpg)
 
-![iPhone 5G and LTE options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-voice-data-5g-settings.jpg)
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+![iPhone 5G and LTE options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-voice-data-5g-settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Close
@@ -74,13 +78,14 @@ Close
 
 ![iPhone user trying to force restart their device](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-user-trying-to-force-restart-their-device.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Of course, we have to mention the good old reboot technique. If you haven't yet tried turning your iPhone off and on again, let's go ahead and test it out. You'd be surprised how many little annoyances a quick restart can resolve.
 
 [The steps to restart your iPhone](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) are different depending on which model you have, but it's pretty easy nonetheless.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 5\. Check for Carrier Settings Update
 
  Sometimes, carriers roll out over-the-air updates that can solve problems with connectivity. To check if one is available for your iPhone, open**Settings** , then go to**General > About** and wait for a few seconds.
@@ -88,14 +93,14 @@ Close
 ![iPhone Settings menu showing General](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-settings-general.jpg)
 
 ![iPhone General settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-settings-general-about.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 
 Close
 
  If your device needs a carrier settings update, you'll get a pop-up on this screen. If you don't see one, you're up-to-date already.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Contact Your Carrier
 
@@ -103,9 +108,6 @@ Close
 
  There may be an issue with your cell service that's worth getting to the bottom of. So, visit your carrier's website and search for a contact or support page to get a customer support phone number.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Getting to the Bottom of "SOS Only"
 
  It's frustrating when you don't have cell service on your iPhone. So, we hope one of these solutions aids in getting your service up and running again.
@@ -118,8 +120,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -127,4 +127,24 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-turn-off-youtubes-quick-video-buffering-feature-for-2024/"><u>[New] Turn Off YouTube's Quick Video Buffering Feature for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-why-are-my-instagram-videos-playing-sideways-seeking-answers/"><u>[Updated] 2024 Approved Why Are My Instagram Videos Playing Sideways - Seeking Answers</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-cut-down-catch-more-the-best-url-reducers-for-youtube/"><u>[Updated] Cut Down, Catch More The Best URL Reducers for YouTube</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-enhancing-facebook-traffic-with-innovative-video-techniques/"><u>[Updated] Enhancing Facebook Traffic with Innovative Video Techniques</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/add-panache-to-videos-border-magic-on-insta-for-2024/"><u>Add Panache to Videos Border Magic on Insta for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/comprehensive-andaseat-kaiser-3-analysis-and-ranking-the-best-seats-of-2022-unveiled/"><u>Comprehensive AndaSeat Kaiser 3 Analysis & Ranking - The Best Seats of 2022 Unveiled!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fix-a-world-without-app-icons-tips-for-iphone-and-ipad-users/"><u>Fix a World Without App Icons: Tips for iPhone & iPad Users</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-correctly-address-and-repair-end-of-text-unavailable-snafu-on-your-iphone/"><u>How to Correctly Address and Repair 'End of Text Unavailable' Snafu on Your iPhone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-icon-vanishing-act-solutions-for-restoring-all-app-icons/"><u>IPhone Icon Vanishing Act: Solutions for Restoring All App Icons</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/monitor-mastery-a-complete-rundown-of-acquiring-an-eye-catching-4k-screen/"><u>Monitor Mastery A Complete Rundown of Acquiring an Eye-Catching 4K Screen</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Nokia 105 Classic | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solutions-for-resolving-iphone-alarm-malfunctions/"><u>Solutions for Resolving iPhone Alarm Malfunctions</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/the-ultimate-guide-unveiling-the-top-8-youtube-boosters/"><u>The Ultimate Guide Unveiling the Top 8 Youtube Boosters</u></a></li>
+<li><a href="https://fox-that.techidaily.com/the-ultimate-trick-to-restore-missing-notes-from-your-iphone/"><u>The Ultimate Trick to Restore Missing Notes From Your iPhone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-your-iphones-mobile-data-issues-with-these-10-tips/"><u>Troubleshoot Your iPhone's Mobile Data Issues with These 10 Tips</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-iphone-sms-issues-top-10-solutions/"><u>Troubleshooting iPhone SMS Issues: Top 10 Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlocking-iphone-hotspot-overcoming-connectivity-hurdles-for-effective-tethering/"><u>Unlocking iPhone Hotspot: Overcoming Connectivity Hurdles for Effective Tethering</u></a></li>
+</ul></div>
 

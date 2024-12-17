@@ -1,7 +1,7 @@
 ---
 title: Retrieval Tactics for Missing iPhone Memos and Notes – How To
-date: 2024-08-15T12:13:06.177Z
-updated: 2024-08-16T12:13:06.177Z
+date: 2024-12-10T17:50:36.741Z
+updated: 2024-12-17T02:58:33.740Z
 tags:
   - iphone
   - apple
@@ -31,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/c3e0373857c4f6ff49001a6f640f1a15c7eebbb81
 
 ![Recently Deleted folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/Recover-Deleted-Notes-iPhone-Recently-Deleted.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Move Note to New Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/Recover-Deleted-Notes-iPhone-Move.jpg)
 
 Close
@@ -40,8 +44,9 @@ Close
  If you can't find the Recently Deleted folder on your iPhone, you can also access it by going to the [iCloud](https://icloud.com/) website and selecting**Notes > Recently Deleted** . This will only be present if your Notes are being synced to iCloud.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Recover Notes From an iCloud Backup
 
  If your iPhone regularly backs up to iCloud, there's a fair chance that your deleted note may be present in a previous backup in the cloud. Even if you back up on an infrequent schedule, there's still a chance that the note will be available for you to recover. Related:[How to Organize Notes on Your iPhone Using Tags](https://www.makeuseof.com/how-to-use-tags-in-apple-notes/)
@@ -53,20 +58,18 @@ Close
 3. Tap on**iCloud** and scroll down and see if the**Notes** toggle is enabled or not. If the toggle is green, this means your iPhone is backing up your notes to iCloud.
 
 ![Settings page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/Recover-Deleted-Notes-iPhone-Settings.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![iCloud Settings in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/Recover-Deleted-Notes-iPhone-iCloud.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Notes toggle in iCloud Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/Recover-Deleted-Notes-iPhone-Settings-Notes.jpg)
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Close
 
@@ -87,8 +90,9 @@ To reset your iPhone and restore it from an iCloud Backup:
  **Once the backup restores, open up the Notes app and see if the deleted note is present there. You can restore your iPhone back to your latest backup once you've successfully recovered the note and copied its contents over to somewhere safe.**
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## ****Keep Your iPhone Backed Up!**
 
  **In light of everything, we'd recommend keeping your backups on—no matter what. You never know when your device might stop working, or when something may be accidentally deleted. It's always better to have a backup to recover from than to have nothing at all.**
@@ -99,8 +103,6 @@ To reset your iPhone and restore it from an iCloud Backup:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -108,4 +110,26 @@ To reset your iPhone and restore it from an iCloud Backup:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-unlocking-the-power-of-instagram-stories-with-this-essential-guide/"><u>[New] 2024 Approved Unlocking the Power of Instagram Stories with This Essential Guide</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-how-to-create-a-facebook-account/"><u>[New] How to Create a Facebook Account</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-analyzing-abrupt-pauses-in-your-photobooth-experience/"><u>[Updated] Analyzing Abrupt Pauses in Your Photobooth Experience</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-prime-nintendo-switch-fighting-game-guide-max-156/"><u>2024 Approved Prime Nintendo Switch Fighting Game Guide (Max 156)</u></a></li>
+<li><a href="https://fox-that.techidaily.com/get-swift-browsing-speedy-solutions-for-lagging-safari-apps-on-the-iphone/"><u>Get Swift Browsing: Speedy Solutions for Lagging Safari Apps on the iPhone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-download-and-install-updated-drivers-for-your-amd-radeon-hd-7870-on-windows-11-systems/"><u>How to Download & Install Updated Drivers for Your AMD Radeon HD 7870 on Windows 11 Systems</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-tecno-camon-20-premier-5g-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Tecno Camon 20 Premier 5G by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-a-comprehensive-review-of-screenflows-impact-on-mac-professionals/"><u>In 2024, A Comprehensive Review of ScreenFlow's Impact on Mac Professionals</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-a-honor-play-7t-easily-by-drfone-android/"><u>In 2024, How To Unlock a Honor Play 7T Easily?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-users-resolve-common-issues-in-the-contacts-application-here/"><u>IPhone Users: Resolve Common Issues in the Contacts Application Here</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/meta-quest-series-enhances-with-spatial-video-playback-as-tech-community-awaits-the-vision-pro-exclusive-details-on-zdnet/"><u>Meta Quest Series Enhances with Spatial Video Playback as Tech Community Awaits the Vision Pro - Exclusive Details on ZDNET</u></a></li>
+<li><a href="https://fox-that.techidaily.com/no-more-missing-messages-a-step-by-step-guide-to-fix-iphones-not-receiving-texts-from-android-phones/"><u>No More Missing Messages: A Step-by-Step Guide to Fix iPhones Not Receiving Texts From Android Phones</u></a></li>
+<li><a href="https://fox-that.techidaily.com/revamping-response-time-accelerate-safari-performance-on-iphone/"><u>Revamping Response Time: Accelerate Safari Performance on iPhone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/tips-to-restore-functionality-from-an-iphones-devastating-black-screen-problem/"><u>Tips to Restore Functionality From an iPhone's Devastating Black Screen Problem</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/transform-your-streaming-experience-via-youtubes-av1-feature-for-2024/"><u>Transform Your Streaming Experience via YouTube's AV1 Feature for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-and-restore-imessage-functionality-for-apple-devices-in-7-steps/"><u>Troubleshoot & Restore iMessage Functionality for Apple Devices in 7 Steps</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-icloud-photo-sync-a-comprehensive-guide-for-iphone-users/"><u>Troubleshoot iCloud Photo Sync: A Comprehensive Guide for iPhone Users</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-a-malfunctioning-iphone-display-essential-tips-and-solutions/"><u>Troubleshooting a Malfunctioning iPhone Display: Essential Tips and Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-tips-resolving-iphone-email-sync-problems-today/"><u>Troubleshooting Tips: Resolving iPhone Email Sync Problems Today!</u></a></li>
+</ul></div>
 

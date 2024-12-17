@@ -1,7 +1,7 @@
 ---
 title: Simplify Your Digital Album by Merging Duplicate Personal Photographs on iPhone/Mac
-date: 2024-08-22T23:02:57.886Z
-updated: 2024-08-23T23:02:57.886Z
+date: 2024-12-16T00:48:27.418Z
+updated: 2024-12-17T00:20:23.360Z
 tags:
   - iphone
   - apple
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/bb00ebc3d89d1362ca9b186657d254b37c10a245e
 
  If that happens, here's how you can fix it by merging multiple people together in the Photos app on your iPhone or Mac.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Merge Multiple People in Photos on an iPhone or iPad
 
  Luckily, it's easy to fix duplicate people albums in Photos by merging them together. You can even merge People albums for totally different people into one, if you want to create one album for your entire family or group of friends. Follow these steps to merge different People albums into one on an iPhone or iPad:
@@ -33,11 +37,23 @@ thumbnail: https://thmb.techidaily.com/bb00ebc3d89d1362ca9b186657d254b37c10a245e
 
 ![select profiles](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/select-profiles.PNG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![merge people albums](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/merge-people-albums.PNG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
  Related:[Tips That Will Help You Master the People Album in Photos](https://www.makeuseof.com/tips-to-master-people-album-photos-iphone/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Merge Multiple People in Photos on a Mac
 
@@ -53,25 +69,23 @@ Close
 
 ![Merge 2 People option in Photos app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/Merge-2-People-option-in-Photos-app.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Read More:[Ways to Fix iCloud Photos Not Syncing on Your Mac](http://www.makeuseof.com/how-to-fix-icloud-photos-not-syncing-mac/)
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Sort Through Your Photos by People
 
  Merging multiple albums is quick and easy to do. The steps are the same on an iPhone, iPad, and Mac. All you have to do is select the profiles you want to merge together, then choose to**Merge** them together.
 
  Merging albums of people will ensure your gallery is organized and error-free. Or you can use the option to create an album of a specific group of people together, though it's usually best to use the Search feature for that.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -80,4 +94,20 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-mastering-type-treatments-in-after-effects/"><u>[New] Mastering Type Treatments in After Effects</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-ultimate-windows-recordings-made-simple/"><u>[Updated] 2024 Approved Ultimate Windows Recordings Made Simple</u></a></li>
+<li><a href="https://fox-that.techidaily.com/clear-image-success-avoid-the-fuzz-with-these-7-solutions-for-your-iphone-camera/"><u>Clear Image Success: Avoid the Fuzz with These 7 Solutions for Your iPhone Camera</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/compact-tech-set-for-itinerant-filmmaking-for-2024/"><u>Compact Tech Set for Itinerant Filmmaking for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/disable-automatic-device-pairing-for-airpods-comprehensive-instructions/"><u>Disable Automatic Device Pairing for AirPods - Comprehensive Instructions</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-the-hp-universal-printer-driver-for-windows-systems/"><u>Download the HP Universal Printer Driver for Windows Systems</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/expert-tips-for-successful-sony-handycam-footage-retrieval/"><u>Expert Tips for Successful Sony Handycam Footage Retrieval</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-get-siri-recommendations-back-on-your-iphone-screen/"><u>How to Get Siri Recommendations Back on Your iPhone Screen</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-your-vivo-y200e-5g-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Vivo Y200e 5G Lock Screen Password</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/must-try-best-6-fb-lite-videos-for-download/"><u>Must-Try Best 6 FB Lite Videos for Download</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-walkthrough-for-setting-up-a-genius-bar-session-with-apple-experts/"><u>The Ultimate Walkthrough for Setting Up a Genius Bar Session with Apple Experts</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-unseen-boon-of-social-networking-on-society/"><u>The Unseen Boon of Social Networking on Society</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unstick-your-iphone-a-comprehensive-guide-on-reverting-wifi-and-cellular-configurations-for-smoother-performance/"><u>Unstick Your iPhone - A Comprehensive Guide on Reverting WiFi & Cellular Configurations for Smoother Performance</u></a></li>
+</ul></div>
 

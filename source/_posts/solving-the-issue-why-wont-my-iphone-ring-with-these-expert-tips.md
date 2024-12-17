@@ -1,7 +1,7 @@
 ---
 title: "Solving the Issue: Why Won't My iPhone Ring with These Expert Tips"
-date: 2024-08-15T12:07:10.816Z
-updated: 2024-08-16T12:07:10.816Z
+date: 2024-12-13T22:30:52.672Z
+updated: 2024-12-16T16:37:48.162Z
 tags:
   - iphone
   - apple
@@ -18,15 +18,16 @@ thumbnail: https://thmb.techidaily.com/33bb4081d4eeefa2b002761f140e6d8a1ab23c4b8
 
  Below, we look at the solutions you can try when you find that you're unable to receive calls on your iPhone at all.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Check Your Mobile Plan Status
 
  Let's start by ruling out non-technical causes. First, check that you have an active mobile plan. If your plan has been suspended for more than three to four weeks, your iPhone won't ring because most carriers only allow expired accounts to receive calls for a limited number of days.
 
  If this is the case, simply reload and reactivate your mobile plan, and your iPhone will ring when you get calls again.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## 2\. Disable Airplane Mode and Focus
 
  Airplane Mode is a setting that disables cellular connectivity during a flight. But if you're not actually on a plane, you need to turn it off so that you can receive calls without issues.[Access the**Control Center**](https://www.makeuseof.com/how-to-use-customize-control-center-iphone/) , and if you see that the**Airplane Mode** icon is orange, tap to turn it off.
@@ -37,13 +38,14 @@ thumbnail: https://thmb.techidaily.com/33bb4081d4eeefa2b002761f140e6d8a1ab23c4b8
 
 ![Do Not Disturb enabled on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/Do-Not-Disturb-enabled-on-iPhone.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Do Not Disturb turned off on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/Do-Not-Disturb-turned-off-on-iPhone.jpg)
 
 Close
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ## 3\. Connect Your iPhone to the Internet
 
  This fix applies if you intend to receive calls through third-party apps like WhatsApp and Messenger. For these apps, calls can't come through if your iPhone is not connected to the internet.
@@ -51,15 +53,17 @@ Close
  So, all you need to do is enable mobile data or connect your iPhone to a Wi-Fi network to receive calls on such apps again. To turn on mobile data, go to**Settings > Cellular** and toggle on**Cellular Data** . To connect to a Wi-Fi network, go to**Settings > Wi-Fi** and select a Wi-Fi network from the list.
 
 ![Settings app on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/settings-app-on-an-iphone.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Cellular settings on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/cellular-settings-on-an-iphone.jpg)
 
 ![Selecting Wi-Fi network on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/selecting-wi-fi-network-on-an-iphone.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Close
@@ -71,9 +75,6 @@ Close
  To know if your iPhone is available to receive calls, you can check the cell signal icon in the status bar. If you're expecting a call at a particular time but notice that the icon only displays one or two filled bars, you can try going outdoors (if you're in an indoor building) to obtain a stronger signal.
 
 ![iphone hotspot indicator in status bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/muo-in-article-image-1200px-by-600px-21-ratio-24.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 
 ## 5\. Turn Off Silence Unknown Callers
 
@@ -84,23 +85,8 @@ Close
  Now, you should hear the ringtone for all incoming calls unless you have blocked the person.
 
 ![Settings menu on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/settings-menu-on-an-iphone.jpg)
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Phone settings menu in iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/phone-settings-menu-in-ios.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 
 ![Silence Unknown Callers Off in iPhone Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/silence-unknown-callers-off-in-iphone-settings.JPEG)
 
@@ -114,22 +100,24 @@ Close
 
 ![Settings menu on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/settings-menu-on-an-iphone.jpg)
 
-![Phone settings on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/phone-settings-on-an-iphone.jpg)
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Phone settings on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/phone-settings-on-an-iphone.jpg)
 
 ![Swipe left on a Blocked Contact and tap Unblock](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/swipe-left-on-a-blocked-contact-and-tap-unblock.JPEG)
 
 Close
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Restart Your iPhone
 
  Restarting your device is a simple and effective way to fix common issues without much trouble. If your phone doesn't ring even after trying the above solutions,[turn off your iPhone and turn it back on](http://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) after a minute to restart it.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 8\. Turn Off Call Forwarding
 
  When [call forwarding is enabled](https://www.makeuseof.com/tag/call-forwarding-iphone-android/) , you don't get any notification or hear a ringtone when people call you, as incoming calls are diverted to another number. To turn off call forwarding to ensure you receive calls on your iPhone as usual, go to**Settings > Phone > Call Forwarding** . Give it a few seconds to load, then tap to toggle off**Call Forwarding** if it was enabled.
@@ -143,8 +131,9 @@ Close
 Close
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 9\. Review Third-Party Call Blockers
 
  Suppose you're waiting for a call from your bank. Any third-party call identification and spam-blocking apps you have installed may think the customer service number is a robocall or spam and thus block it.
@@ -152,28 +141,27 @@ Close
  To fix this, open any of those apps on your iPhone and whitelist any numbers you keep missing calls from. You may also want to turn off all call blocking from inside the app or by going to**Settings > Phone > Call Blocking & Identification** . Then, turn off any call identification apps you see here.
 
 ![Settings menu on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/settings-menu-on-an-iphone.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Phone settings on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/phone-settings-on-an-iphone.jpg)
 
 ![Call Blocking and identification menu on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/call-blocking-and-identification-menu-on-an-iphone.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Close
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 10\. Update Your iPhone and Other Third-Party Apps
 
  By this point, one or more of the above solutions should have fixed your iPhone not ringing. But in case you're still having problems, make sure your iPhone is running on the latest iOS. Go to**Settings > General > Software Update** to see if an update is available for your device.
 
  You should also update apps like WhatsApp, Skype, or Zoom if you intend to receive calls through them. It may be a bug that's been causing call reception issues, so [updating the respective iPhone app](https://www.makeuseof.com/how-to-manually-or-automatically-update-apps-iphone/) might resolve the problem.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 11\. Reset Network Settings
 
  The last method you can try is to [reset the network settings on your iPhone](https://www.makeuseof.com/how-to-reset-network-settings-iphone/) . This deletes network-related data and returns the settings to its default state.
@@ -181,18 +169,16 @@ Close
  Another common solution is to reset all settings instead. This procedure won't delete personal data like music and photos. Instead, it restores all settings, in addition to network ones, to their default factory values. To do so, go to **Settings > General > Transfer or Reset iPhone > Reset > Reset All Settings** .
 
 ![iphone general settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_7383.JPEG)
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 
 ![transfer or reset iphone settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_7384.JPEG)
 
 ![transfer or reset iphone settings confirmation window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_7385.JPEG)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 
 Close
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Receive Calls on Your iPhone Again
 
@@ -206,8 +192,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -215,4 +199,21 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/hriving-as-a-team-on-youtube-perfect-pairings-for-success-for-2024/"><u>[New] Thriving as a Team on YouTube Perfect Pairings for Success for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-from-concept-to-crypto-asset-the-ultimate-list-of-nft-engines/"><u>[Updated] In 2024, From Concept to Crypto Asset The Ultimate List of NFT Engines</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-sony-xperia-10-v-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Sony Xperia 10 V | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-youtube-rights-vs-cc-licensing/"><u>2024 Approved YouTube Rights Vs. CC Licensing</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/beyond-expectations-the-triumph-of-our-245-satisfaction-ratings/"><u>Beyond Expectations: The Triumph of Our 245% Satisfaction Ratings</u></a></li>
+<li><a href="https://fox-that.techidaily.com/dont-miss-out-why-ios-153-is-a-must-install-right-now-for-your-iphone-or-ipad/"><u>Don't Miss Out: Why iOS 15.3 Is a Must-Install Right Now for Your iPhone or iPad</u></a></li>
+<li><a href="https://fox-that.techidaily.com/duplicate-alert-suppression-techniques-hushing-the-ipad-during-an-iphone-incoming-call/"><u>Duplicate Alert Suppression Techniques: Hushing the iPad During an iPhone Incoming Call</u></a></li>
+<li><a href="https://fox-that.techidaily.com/effortless-remedies-overcoming-10-frequent-issues-with-apple-pay/"><u>Effortless Remedies: Overcoming 10 Frequent Issues with Apple Pay</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fix-your-broken-widgets-fast-essential-tips-for-iphone-and-ipad-users/"><u>Fix Your Broken Widgets Fast: Essential Tips for iPhone & iPad Users</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-fix-phones-displaying-numbers-not-name-tags/"><u>How to Fix Phones Displaying Numbers, Not Name Tags</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-transform-your-videos-presence-with-youtube-thumbnail-tailoring/"><u>In 2024, Transform Your Video's Presence with YouTube Thumbnail Tailoring</u></a></li>
+<li><a href="https://fox-that.techidaily.com/in-depth-guide-on-forcefully-resetting-your-iphone-and-switching-to-diagnostic-mode/"><u>In-Depth Guide on Forcefully Resetting Your iPhone and Switching to Diagnostic Mode</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-nubia-red-magic-8s-proplus-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Nubia Red Magic 8S Pro+ for Parents | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-random-password-generators-a-guide-on-usage-and-benefits/"><u>Understanding Random Password Generators: A Guide on Usage and Benefits</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Merge Duplicate Person Images From Multiple Albums on iPhone/Mac
-date: 2024-08-15T12:09:10.846Z
-updated: 2024-08-16T12:09:10.846Z
+date: 2024-12-13T21:12:19.543Z
+updated: 2024-12-16T17:59:36.889Z
 tags:
   - iphone
   - apple
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/1b5bd1138535c35f66522db0e8712af2e5e414384
 
  If that happens, here's how you can fix it by merging multiple people together in the Photos app on your iPhone or Mac.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Merge Multiple People in Photos on an iPhone or iPad
 
  Luckily, it's easy to fix duplicate people albums in Photos by merging them together. You can even merge People albums for totally different people into one, if you want to create one album for your entire family or group of friends. Follow these steps to merge different People albums into one on an iPhone or iPad:
@@ -31,17 +35,26 @@ thumbnail: https://thmb.techidaily.com/1b5bd1138535c35f66522db0e8712af2e5e414384
 
 ![select icon in top right](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/select-icon-in-top-right.PNG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![select profiles](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/select-profiles.PNG)
 
 ![merge people albums](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/merge-people-albums.PNG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
  Related:[Tips That Will Help You Master the People Album in Photos](https://www.makeuseof.com/tips-to-master-people-album-photos-iphone/)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Merge Multiple People in Photos on a Mac
 
  The same error of having multiple profiles for one person can also occur on a Mac, especially if you're syncing photos between your iPhone and Mac.
@@ -55,29 +68,24 @@ Close
 5. Click**Yes** to confirm that these are the same person (even if they aren't and you want to merge them anyway).
 
 ![Merge 2 People option in Photos app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/Merge-2-People-option-in-Photos-app.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Read More:[Ways to Fix iCloud Photos Not Syncing on Your Mac](http://www.makeuseof.com/how-to-fix-icloud-photos-not-syncing-mac/)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Sort Through Your Photos by People
 
  Merging multiple albums is quick and easy to do. The steps are the same on an iPhone, iPad, and Mac. All you have to do is select the profiles you want to merge together, then choose to**Merge** them together.
 
  Merging albums of people will ensure your gallery is organized and error-free. Or you can use the option to create an album of a specific group of people together, though it's usually best to use the Search feature for that.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -86,4 +94,19 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-mac-techniques-to-shorten-instagram-vids/"><u>[New] In 2024, Mac Techniques to Shorten Instagram Vids</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/he-ultimate-youtube-money-making-blueprints/"><u>[New] The Ultimate YouTube Money-Making Blueprints</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-jumpstart-with-vrecorder-easy-installation-walkthrough/"><u>[Updated] Jumpstart with VRecorder Easy Installation Walkthrough</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effortless-fixes-stop-windows-11-endless-reboots/"><u>Effortless Fixes: Stop Windows 11 Endless Reboots</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-expert-routines-for-volume-balancing-in-fl-studio/"><u>In 2024, Expert Routines for Volume Balancing in FL Studio</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-honor-x50-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Honor X50 | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-and-mac-tips-consolidating-duplicate-photos-of-the-same-subjects/"><u>IPhone & Mac Tips: Consolidating Duplicate Photos of the Same Subjects</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/onlinelastige-methode-om-flv-video-in-mp4-zu-veranderen-movavi/"><u>Onlinelastige Methode Om FLV-Video in MP4 Zu Veranderen - Movavi</u></a></li>
+<li><a href="https://fox-that.techidaily.com/retrieve-a-stolen-iphone-a-step-by-step-guide-using-find-my-app/"><u>Retrieve a Stolen iPhone - A Step-by-Step Guide Using Find My App</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/seamless-gaming-experience-can-your-favorite-ps4-games-work-with-ps5-technology/"><u>Seamless Gaming Experience: Can Your Favorite PS4 Games Work with PS5 Technology?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/struggling-with-a-twitchy-phone-screen-discover-7-fixes-to-resolve-the-issue/"><u>Struggling With a Twitchy Phone Screen? Discover 7 Fixes to Resolve the Issue</u></a></li>
+<li><a href="https://fox-that.techidaily.com/trouble-with-iphones-volume-controls-discover-7-quick-solutions/"><u>Trouble with iPhone's Volume Controls? Discover 7 Quick Solutions!</u></a></li>
+</ul></div>
 

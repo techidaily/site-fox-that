@@ -1,7 +1,7 @@
 ---
 title: "Fixing 'Can't Send SMS' On iPhone: Discover Effective Steps to Resolve It"
-date: 2024-08-15T12:07:38.377Z
-updated: 2024-08-16T12:07:38.377Z
+date: 2024-12-13T03:45:10.671Z
+updated: 2024-12-16T23:29:33.921Z
 tags:
   - iphone
   - apple
@@ -29,9 +29,9 @@ thumbnail: https://thmb.techidaily.com/33277df87367d0cdbce49fd32569ab0c6e35402a2
  Try moving to an area with better reception if it's weak or nonexistent. If you're in an area that usually has a good signal, contact your mobile network operator.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Make Sure SMS and MMS Are On
 
  When you message another contact with an Apple device, your iPhone sends it via iMessage by default.
@@ -43,19 +43,18 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 3. Toggle on the**Send as SMS** slider.
 
 ![iOS Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/01-iphone-settings-app.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Messages settings in iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/02-iphone-messages-settings.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![SMS and MMS enabled on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/03-sms-mms-enabled-iphone.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 
 Close
 
@@ -78,9 +77,6 @@ Here's how you can activate MMS messages:
 ![An iPhone's Home Screen in iOS 16](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/01-ios-home-screen.jpg)
 
 ![Control Center in iOS with Airplane Mode enabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/02-control-center-iphone-airplane-mode.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 
 ![Control Center in iOS with Airplane Mode disabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/03-control-center-airplane-mode-disabled.jpg)
 
@@ -114,24 +110,15 @@ You can also delete conversations in Messages by doing the following:
 4. Finally, press the**Compose** icon in the top-right corner of the Messages screen to give it another try.
 
 ![An iPhone's Home Screen in iOS 16](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/01-ios-home-screen.jpg)
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Deleting a message in Messages](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/02-deleting-message-imessage.jpg)
 
 ![Delete message pop-up confirmation in Messages](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/03-message-deletion-confirmation-imessage.jpg)
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Close
 
  This method is extremely useful if a message continually tries to send but is unable to do so.
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Is Your Mobile Plan Active?
 
  You should next check whether you currently have an active mobile service plan. If you don't have one, you won't be able to send texts.
@@ -154,19 +141,17 @@ Close
 4. Hold**Side button** to turn on your iPhone.
 
 ![Settings app open on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/01-settings-ios-app.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Shut Down option in iPhone Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/02-shut-down-ios-option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 
 ![Shutting down an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/03-shutting-down-iphone.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Close
@@ -189,8 +174,9 @@ Close
 ![General settings in iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/02-software-update-ios-settings.jpg)
 
 ![iOS software updates page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/03-ios-update-page.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Close
@@ -214,20 +200,33 @@ Here's how to clear your iPhone's network settings:
 
 ![General Settings page on iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/01-General-settings-page-iphone-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Reset iPhone option in iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/02-Reset-iPhone.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![iPhone reset options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/03-Reset-iPhone-options.jpg)
 
 Close
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 10\. Still Not Working? Get Professional Help
 
  If your iPhone still won't send SMS messages after all this, your last option is to contact your mobile operator. Try calling the customer service line. If they can't help you, it's likely a hardware issue, and you should contact Apple or an authorized service provider for expert assistance.
 
  Depending on your location, you can [book an Apple Store appointment at a Genius Bar](https://www.makeuseof.com/apple-store-appointment-genius-bar/) . You may have to eventually replace the iPhone, but that should be the last case scenario.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix Your iPhone Messaging Issues
 
@@ -241,8 +240,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -250,4 +247,24 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-complete-review-for-samsung-gear-360-camera/"><u>[New] In 2024, Complete Review for Samsung Gear 360 Camera</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-battle-royale-concrete-fists-vs-digital-screens/"><u>[Updated] Battle Royale Concrete Fists vs Digital Screens</u></a></li>
+<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-vivo-v29-pro-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Vivo V29 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/adaptive-tech-showcase-discover-vision-friendly-features-on-your-iphone/"><u>Adaptive Tech Showcase: Discover Vision-Friendly Features on Your iPhone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/conquer-ghost-touch-on-iphone-with-these-10-easy-troubleshooting-steps/"><u>Conquer Ghost Touch on iPhone with These 10 Easy Troubleshooting Steps</u></a></li>
+<li><a href="https://fox-that.techidaily.com/detailed-evaluation-of-the-gaomon-pd1560-stylus-tablet/"><u>Detailed Evaluation of the Gaomon PD1560 Stylus Tablet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-the-brother-hl-2280dw-printer-drivers-compatible-with-windows-11-10-8-and-7/"><u>Download the Brother HL-2280DW Printer Drivers: Compatible with Windows 11, 10, 8 & 7</u></a></li>
+<li><a href="https://fox-that.techidaily.com/easy-fixes-for-finding-missing-airpods-with-apples-find-my-tool/"><u>Easy Fixes for Finding Missing AirPods with Apple's Find My Tool</u></a></li>
+<li><a href="https://fox-that.techidaily.com/expert-tips-6-solutions-for-troubleshooting-family-sharing-problems/"><u>Expert Tips: 6 Solutions for Troubleshooting Family Sharing Problems</u></a></li>
+<li><a href="https://fox-that.techidaily.com/guide-to-fix-your-iphone-when-it-fails-to-pick-up-incoming-calls-correctly/"><u>Guide to Fix Your iPhone When It Fails to Pick Up Incoming Calls Correctly</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-your-honor-x9a-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Honor X9a Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-oppo-k11x-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Oppo K11x in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-google-pixel-8-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Google Pixel 8 | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/navigating-through-issues-in-apple-app-based-gift-exchange-the-five-main-culprits/"><u>Navigating Through Issues in Apple App-Based Gift Exchange: The Five Main Culprits</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-complete-guide-to-choosing-the-right-portable-charger-zmi-powerpack-2000amperes-rated/"><u>The Complete Guide to Choosing the Right Portable Charger: ZMI PowerPack 20,00Amperes Rated</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-imessage-disconnection-problems-on-iphone-devices/"><u>Troubleshooting iMessage Disconnection Problems on iPhone Devices</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/win-11-update-leads-to-non-printer-functionality/"><u>Win 11 Update Leads to Non-Printer Functionality</u></a></li>
+</ul></div>
 

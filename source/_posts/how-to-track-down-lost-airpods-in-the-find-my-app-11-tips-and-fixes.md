@@ -1,7 +1,7 @@
 ---
 title: How To Track Down Lost AirPods in the Find My App - 11 Tips & Fixes
-date: 2024-08-15T12:09:40.205Z
-updated: 2024-08-16T12:09:40.205Z
+date: 2024-12-12T00:42:35.046Z
+updated: 2024-12-17T03:36:37.249Z
 tags:
   - iphone
   - apple
@@ -46,17 +46,15 @@ thumbnail: https://thmb.techidaily.com/04a734a9937eba2d7e4ad06c3d50be8d29a9cd1ed
 ![Apple ID settings page with Find My option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/11/apple-id-settings-page-with-find-my-option.JPG)
 
 ![Find My iPhone enabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/11/find-my-iphone-enabled.PNG)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Find My app on iPhone showing all added devices](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/11/find-my-app-on-iphone-showing-all-added-devices.PNG)
 
 Close
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Enable the Find My Network for Newer AirPods
 
  The [Find My Network](http://www.makeuseof.com/apple-find-my-network-explained/) uses other nearby Apple devices to securely transmit your lost AirPods' location to you. If you have AirPods Pro, AirPods Max, or AirPods (3rd generation), you can see the location of these missing AirPods inside the Find My app for up to 24 hours after they were last connected to your device.
@@ -69,17 +67,10 @@ Close
 4. Enable the switch for**Find My Network** .
 
 ![Settings menu in iOS 17](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/settings-menu-in-ios-17.jpg)
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 
 ![Bluetooth settings in iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/bluetooth-settings-in-ios.jpg)
 
 ![AirPods settings showing Find My Network toggle in iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/airpods-settings-showing-find-my-network-toggle-in-ios.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 
 Close
 
@@ -90,8 +81,9 @@ Close
  To address this, put your AirPods in their charging case and close the lid. Now go ahead and [restart your iPhone](http://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) or the Apple device you're checking the Find My app on.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Check Apple's System Status for the Find My Service
 
  On rare occasions, the problem may not be on your end but on Apple's. To check, visit [Apple's System Status page](https://www.apple.com/support/systemstatus/) . Here, make sure you see a green circle next to**Apple ID** ,**iCloud Account & Sign In** ,**iCloud Web Apps** , and**Maps** .
@@ -99,8 +91,9 @@ Close
  If these services show a yellow or red symbol, it means they're facing an outage. You'll need to wait for Apple to fix it. After that, open the Find My app or go to [iCloud.com/find](https://www.icloud.com/find/) to locate your AirPods.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Use iCloud.com Instead of the Find My App
 
  When you can't locate your AirPods in the Find My app, try using this service in a browser instead. Here are the steps for that:
@@ -110,14 +103,11 @@ Close
 3. On mobile, you should see your AirPods here. On a computer, click**All Devices** , and your AirPods should appear in the list.
 
 ![Find My iPhone in iCloud.com in Mac's Safari](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/11/find-iphone-on-icloud-in-safari.png)
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Ensure Your AirPods Are Charged
 
  If your AirPods are dead, they won't show their location in the Find My app. The most you can see in this situation is their last known location. To charge your AirPods, put them in their charging case. If the case has no battery left, connect it to power.
@@ -139,11 +129,20 @@ The ultimate burning program for all your needs!</a>
 
 ![iPhone Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/11/iphone-settings-app.PNG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![iPhone Bluetooth Settings showing AirPods info button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/11/iphone-bluetooth-settings-showing-airpods-info-button.PNG)
 
-![Forget This Device option in AirPods Bluetooth Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/11/forget-this-device-option-in-airpods-bluetooth-settings.PNG)
 <!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+![Forget This Device option in AirPods Bluetooth Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/11/forget-this-device-option-in-airpods-bluetooth-settings.PNG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Close
@@ -163,17 +162,19 @@ Close
  In the screenshots below, you can see that my old AirPods still show up in the list of devices. But after tapping their name, the map shows no location or relevant details except giving the option to play a sound (which won't work until the AirPods come online). The only solution for this is to connect and use your AirPods again.
 
 ![Find My app on iPhone showing all added devices](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/11/find-my-app-on-iphone-showing-all-added-devices.PNG)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Find My app showing no location for AirPods](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/11/find-my-app-showing-no-location-for-airpods.PNG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Close
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ## Locate Your AirPods in the Find My App Again
 
  Since AirPods don't have network connectivity and rely on your iPhone or another connected device to show up in Find My, it can be pretty tough to find them if they ever go missing.
@@ -186,8 +187,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -195,4 +194,19 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/new-step-by-step-guide-to-installing-streamlabs-in-obs-mac/"><u>[New] Step-by-Step Guide to Installing Streamlabs in OBS (Mac)</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-masters-of-illusion-top-vr-producers/"><u>[Updated] In 2024, Masters of Illusion Top VR Producers</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-maximizing-traffic-with-effective-youtube-titles/"><u>[Updated] Maximizing Traffic with Effective YouTube Titles</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/expert-analysis-on-the-kootek-laptop-fan-stand-the-ideal-choice-for-cooling-needs/"><u>Expert Analysis on the Kootek Laptop Fan Stand - The Ideal Choice for Cooling Needs</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-when-apple-account-locked-from-iphone-xs-max-by-drfone-ios/"><u>How to Fix when Apple Account Locked From iPhone XS Max?</u></a></li>
+<li><a href="https://facebook.techidaily.com/pondering-the-utility-of-meta-ai-in-social-platforms/"><u>Pondering the Utility of Meta AI in Social Platforms</u></a></li>
+<li><a href="https://fox-that.techidaily.com/restore-lost-app-icons-on-an-iphone-with-proven-methods-and-tips/"><u>Restore Lost App Icons on an iPhone with Proven Methods and Tips</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/streamlining-your-facebook-memories-how-to-add-multiple-photos-at-once/"><u>Streamlining Your Facebook Memories: How to Add Multiple Photos at Once</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721480045568-struggling-to-store-your-data-in-icloud-from-iphone-try-these-9-fixes/"><u>Struggling to Store Your Data in iCloud From iPhone? Try These 9 Fixes!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-six-solutions-for-when-your-iphone-rejects-card-payments/"><u>Top Six Solutions for When Your iPhone Rejects Card Payments</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-zoomed-in-photos-on-whatsapp-with-these-simple-fixes/"><u>Troubleshoot Zoomed-In Photos on WhatsApp with These Simple Fixes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/utilize-readonly-fields-where-applicable/"><u>Utilize Readonly Fields Where Applicable.</u></a></li>
+</ul></div>
 

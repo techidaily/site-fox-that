@@ -1,7 +1,7 @@
 ---
 title: Getting the Best Out of Smartphone Photography with Lower MP iPhones
-date: 2024-08-15T12:12:55.948Z
-updated: 2024-08-16T12:12:55.948Z
+date: 2024-12-11T02:01:32.743Z
+updated: 2024-12-16T21:59:55.135Z
 tags:
   - iphone
   - apple
@@ -32,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/81c104f653fc6628652d6140a521e94570f22aa24
 
 ![Aspect ratio options in the Camera app for iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/aspect-ratio-options-in-the-camera-app-for-iphone.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![iPhone camera in 4-3 aspect ratio](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/3-aspect-ratio.jpeg)
 
 Close
@@ -39,8 +43,9 @@ Close
  If your aspect ratio returns to 16:9 or 1:1 upon relaunching the Camera app, you can fix it in**Settings > Camera > Preserve Settings** . Toggle**Creative Controls** off, and your aspect ratio should return to the default every time you relaunch it.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Shoot in a Pro Format
 
  The iPhone 14 Pro and 15 Pro models can deliver the best possible image resolution when you shoot in a Pro format. But since it's not enabled by default, you'll need to follow these steps:
@@ -51,25 +56,25 @@ Close
 4. Tap**Pro Default** and choose**HEIF Max** or**ProRAW Max** .
 
 ![Camera settings menu in iOS 17](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/camera-settings-menu-in-ios-17.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Camera Formats panel on a iPhone 15 Pro (ProRAW toggled on)](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/camera-formats-panel-on-a-iphone-15-pro-proraw-toggled-on.jpeg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Pro Default settings panel on an iPhone 15 Pro](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/pro-default-settings-panel-on-an-iphone-15-pro.jpeg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Close
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Enjoy Better Quality Pictures on Your iPhone
 
  While resolution and megapixels aren't the only things you need to make a good photo, they certainly offer the minimum standard for quality. With higher megapixels, you have a photo that you can do more things with and manipulate without losing too much quality.
@@ -80,8 +85,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -89,4 +92,18 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-guide-to-visualizing-audio-brilliance/"><u>[Updated] The Ultimate Guide to Visualizing Audio Brilliance</u></a></li>
+<li><a href="https://fox-that.techidaily.com/defining-access-modifiers/"><u>Defining Access Modifiers</u></a></li>
+<li><a href="https://fox-that.techidaily.com/disabling-ringback-tones-on-your-apple-tablet-a-guide-for-managing-iphone-ipad-connection-sounds/"><u>Disabling Ringback Tones on Your Apple Tablet: A Guide for Managing iPhone-iPad Connection Sounds</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-tecno-phantom-v-fold-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Tecno Phantom V Fold Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-10-password-cracking-tools-for-oppo-a2-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Oppo A2</u></a></li>
+<li><a href="https://fox-that.techidaily.com/mastering-ios-device-recovery-solutions-for-when-your-phone-fails-you/"><u>Mastering iOS Device Recovery: Solutions for When Your Phone Fails You</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-vivo-x-fold-2-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Vivo X Fold 2 with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/1720600289632-stellar-data-recovery-windows/"><u>Stellar Data Recovery - ダウンロード復旧機能付きWindows用フリー製品</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-trailblazing-google-pixel-9-now-equipped-with-satellite-based-distress-messaging-setting-a-milestone-in-android-phone-safety-and-connectivity-zdnet-insi189/"><u>The Trailblazing Google Pixel 9: Now Equipped with Satellite-Based Distress Messaging, Setting a Milestone in Android Phone Safety and Connectivity | ZDNET Insights</u></a></li>
+<li><a href="https://fox-that.techidaily.com/understanding-iphone-screen-issues-7-common-reasons-for-touch-failure/"><u>Understanding iPhone Screen Issues: 7 Common Reasons for Touch Failure</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/why-wont-my-blue-yeti-mic-connect-discover-how-to-resolve-the-problem/"><u>Why Won't My Blue Yeti Mic Connect? Discover How to Resolve the Problem</u></a></li>
+</ul></div>
 

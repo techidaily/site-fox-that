@@ -1,7 +1,7 @@
 ---
 title: IPhone's Vibration Feature Failing in Silent or Ring Mode? Here Are 8 Solutions to Test Out!
-date: 2024-12-04T17:56:23.885Z
-updated: 2024-12-10T23:43:00.571Z
+date: 2024-12-14T16:51:54.438Z
+updated: 2024-12-16T17:11:49.284Z
 tags:
   - iphone
   - apple
@@ -42,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/010139d6077f90333f3025af8c182332c9900266f
 ![iphone settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/img_6668.JPEG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![iphone sounds and haptics settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/img_6667.JPEG)
@@ -50,7 +50,7 @@ thumbnail: https://thmb.techidaily.com/010139d6077f90333f3025af8c182332c9900266f
 Close
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Enable Vibration in Accessibility
@@ -62,7 +62,7 @@ Close
 ![iPhone Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/settings-general.JPEG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![iphone accessibility settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/accessibility-settings.JPEG)
@@ -72,7 +72,7 @@ Close
 Close
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Check Your Vibration Setting for Ring and Silent Mode
@@ -84,11 +84,7 @@ Close
 ![play haptics for ring and silent mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/MUO-in-article-image-(1200px-by-600px-21-ratio)-(11)-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Check the Selected Vibration Pattern for Each Alert
@@ -105,14 +101,22 @@ Close
 
 ![iphone ringtone settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/ringtone-settings.JPEG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![iphone ringtone vibration settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/vibration-settings.JPEG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
  After you select a valid vibration pattern for**Ringtone** , go back to the**Sounds and Haptics Pattern** list. Repeat these steps for**Text Tone** ,**New Voicemail** ,**New Mail** , and so on.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Update Your iPhone
@@ -121,13 +125,13 @@ Close
 
  Therefore,[updating your iPhone](https://www.makeuseof.com/tag/update-iphone-ios-apps-data/) may be the solution when your device doesn't vibrate on Silent or Ring mode.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. Restart Your iPhone
 
  Software glitches can sometimes prevent your iPhone from vibrating, whether it's on Ring or Silent mode. In such cases, simply restarting your iPhone will resolve the problem, making this troubleshooting step worth trying. Note that different steps may be required to [restart your iPhone](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) , depending on the model you own.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Reset All Settings
 
@@ -169,10 +173,6 @@ Close
 
 ![iphone keyboard feedback settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/img_6645.JPEG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Use Your iPhone's Vibrations to Be Aware of Alerts
 
  We hope this list of fixes helped you solve the problem if your iPhone wasn't vibrating in Silent or Ring mode. Since the old days of Nokia phones, vibrations have always helped us make sure we don't miss out on a call or text.
@@ -194,17 +194,20 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-seamless-video-downloads-windowsmacosandroid-2e-2023-for-2024/"><u>[New] Seamless Video Downloads Windows/macOS/Android, 2E 2023 for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-top-live-streaming-hardware-encoder-and-equipment-you-should-know/"><u>[New] Top Live Streaming Hardware Encoder and Equipment You Should Know</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-flawless-gameplay-controlling-games-via-switch-pro-controller-in-steam-for-2024/"><u>[Updated] Flawless Gameplay Controlling Games via Switch Pro Controller in Steam for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/dual-device-alert-control-how-to-keep-your-ipad-silent-if-your-iphone-is-ringing/"><u>Dual-Device Alert Control: How to Keep Your iPad Silent If Your iPhone Is Ringing</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/effective-solutions-for-overcoming-google-chat-message-glitches-in-androids-rcs-system/"><u>Effective Solutions for Overcoming Google Chat Message Glitches in Android's RCS System</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-overcome-unrecognized-accessory-errors-on-iphone-devices/"><u>How to Overcome Unrecognized Accessory Errors on iPhone Devices</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/in-depth-evaluation-of-the-tp-link-re505x-wireless-signal-booster/"><u>In Depth Evaluation of the TP-Link RE505X Wireless Signal Booster</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solve-your-iphones-phantom-touch-issue-with-these-10-effective-strategies/"><u>Solve Your iPhone's Phantom Touch Issue with These 10 Effective Strategies</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/triple-band-speed-unleashed-the-ultimate-netgear-nighthawk-x6-ac3200-router-review/"><u>Triple Band Speed Unleashed: The Ultimate Netgear Nighthawk X6 Ac3200 Router Review</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-qr-code-scanner-issues-10-solutions-for-iphones/"><u>Troubleshooting QR Code Scanner Issues: 10 Solutions for iPhones</u></a></li>
-<li><a href="https://fox-that.techidaily.com/ultimate-troubleshooting-guide-15-steps-for-your-iphone/"><u>Ultimate Troubleshooting Guide: 15 Steps for Your iPhone</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-messages-from-huawei-nova-y71-by-fonelab-android-recover-messages/"><u>Undelete lost messages from Huawei Nova Y71</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-try-this-groundbreaking-free-valorant-audio-swap-tech/"><u>[Updated] 2024 Approved Try This Groundbreaking, Free Valorant Audio Swap Tech</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-concept-to-curtain-call-scriptwriting-tips-for-successful-streams/"><u>[Updated] From Concept to Curtain Call Scriptwriting Tips for Successful Streams</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-understanding-the-role-of-software-in-high-quality-screencasts-for-2024/"><u>[Updated] Understanding the Role of Software in High-Quality Screencasts for 2024</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/automated-user-tracking-with-cookiebot-technology/"><u>Automated User Tracking with Cookiebot Technology</u></a></li>
+<li><a href="https://fox-that.techidaily.com/battling-connection-issues-discover-7-ways-to-fix-your-iphones-failed-attempt-at-joining-a-vpn/"><u>Battling Connection Issues? Discover 7 Ways to Fix Your iPhone's Failed Attempt at Joining a VPN</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/chordography-map-your-creative-path-with-iphone-for-2024/"><u>Chordography Map Your Creative Path with iPhone for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/error-4013-on-iphone-troubleshooting-and-solutions-for-successful-updates/"><u>Error 4013 on iPhone - Troubleshooting and Solutions for Successful Updates</u></a></li>
+<li><a href="https://fox-that.techidaily.com/experiencing-disconnection-problems-between-your-airpods-and-iphone-discover-11-quick-fixes/"><u>Experiencing Disconnection Problems Between Your AirPods and iPhone? Discover 11 Quick Fixes!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-get-your-iphone-hardware-tested-with-apples-remote-diagnostic-exam/"><u>How to Get Your iPhone Hardware Tested With Apple’s Remote Diagnostic Exam</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-sony-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Sony</u></a></li>
+<li><a href="https://fox-that.techidaily.com/lost-airpods-here-are-11-ways-to-spot-them-on-your-iphones-find-my/"><u>Lost AirPods? Here Are 11 Ways to Spot Them on Your iPhone's 'Find My'</u></a></li>
+<li><a href="https://fox-that.techidaily.com/rejuvenate-your-iphones-control-center-a-step-by-step-guide-to-8-key-repairs/"><u>Rejuvenate Your IPhone’s Control Center: A Step-by-Step Guide to 8 Key Repairs</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/tips-and-tricks-for-setting-up-your-vivo-v30-lite-5g-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Vivo V30 Lite 5G Phone Pattern Lock</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-repair-your-astro-a10-microphone-expert-fixes/"><u>Troubleshoot and Repair Your Astro A10 Microphone - Expert Fixes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/why-are-my-iphone-contacts-disappearing-find-solutions-here/"><u>Why Are My iPhone Contacts Disappearing? Find Solutions Here</u></a></li>
 </ul></div>
 

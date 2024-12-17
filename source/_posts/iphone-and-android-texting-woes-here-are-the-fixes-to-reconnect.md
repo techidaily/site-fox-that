@@ -1,7 +1,7 @@
 ---
 title: IPhone and Android Texting Woes? Here Are the Fixes to Reconnect
-date: 2024-08-15T12:08:28.971Z
-updated: 2024-08-16T12:08:28.971Z
+date: 2024-12-14T16:20:57.563Z
+updated: 2024-12-17T01:21:49.182Z
 tags:
   - iphone
   - apple
@@ -32,12 +32,12 @@ thumbnail: https://thmb.techidaily.com/f780668281f43de469309d641324f16afda3a68eb
 
 ![mms messages](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/mms-messages.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This is the most common fix for this issue, but if this doesn't work, there are still several more fixes you can try.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 2\. Make Sure the Number Isn't Blocked
 
  If you accidentally or intentionally block a number, you won't receive texts from that person at all—no matter what type of phone they have. If you aren't receiving messages from somebody, it's quick and easy to check if you blocked them.
@@ -45,16 +45,9 @@ thumbnail: https://thmb.techidaily.com/f780668281f43de469309d641324f16afda3a68eb
  To check your blocked numbers, head to**Settings** \>**Phone** \>**Blocked Contacts** and remove anyone you don't want to block from the list. You can do this by swiping left and tapping**Unblock** .
 
 ![blocked numbers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/blocked-numbers.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 
  If you don't have the number in question blocked, try moving on to the next step. Speaking of blocking, is there someone you want to mute notifications from and not block? If so, you can [mute text message notifications from someone on your iPhone](http://www.makeuseof.com/how-to-mute-text-message-notifications-person-iphone/) .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ## 3\. Delete All Your Old Text Messages
 
  If you have too many text messages on your iPhone, you might miss additional messages due to inadequate storage. If you haven't deleted text messages in a while or get low-storage notifications on your iPhone, deleting old messages can help.
@@ -62,12 +55,9 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
  To delete messages, head to the Messages app and tap**Edit** \>**Select Messages** and delete any messages you don't need.
 
 ![select messages](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/select-messages.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once you delete these messages, try to get someone with an Android phone to send you another text message. If you receive it, then this was the issue, and you're good to go. If not, try the next fix.
@@ -75,9 +65,6 @@ No advertising on the website.
 ## 4\. Update Your Carrier Settings
 
 ![carrier settings about](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/carrier-settings-about.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![carrier update page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/carrier-update-page.jpg)
 
@@ -87,11 +74,16 @@ Close
 
  To update your carrier settings on your iPhone, head to**Settings > General > About** and wait for a few seconds to see if you get an update pop-up. And if you do, you can simply tap the**Update** button to install it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Reset Your iPhone's Network Settings
 
 ![iPhone reset page in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/iphone-reset-page.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![iphone choose reset](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/iphone-choose-reset.jpg)
@@ -114,6 +106,10 @@ Close
 
  If you're having carrier problems, you can always [use Wi-Fi as your priority network on iPhone, iPad, and Mac](http://www.makeuseof.com/how-to-set-iphone-wifi-priority/) to continue using iMessage. Alternatively, you can post in the [Apple Support Community](https://discussions.apple.com/welcome) to see if another user has found a potential fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## iPhone Not Getting Android Texts? Fix It as Soon as Possible
 
  Not getting text messages means missing out on social events, important work information, and messages from loved ones. Texting is a critical means of communication these days, so not receiving texts means being out of the loop.
@@ -128,8 +124,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -137,4 +131,20 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-essential-details-on-creating-effective-yt-shorts/"><u>[Updated] 2024 Approved Essential Details on Creating Effective YT Shorts</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-pixelated-pastures-celebrating-rural-games/"><u>[Updated] Pixelated Pastures Celebrating Rural Games</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-real-time-recording-rivalry-obs-versus-shadowreplay-for-2024/"><u>[Updated] Real-Time Recording Rivalry OBS Versus ShadowReplay for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-step-by-step-guide-to-iphone-screen-capturing-for-2024/"><u>[Updated] Step-by-Step Guide to Iphone Screen Capturing for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-talk-translator-essential-offline-text-recognition-software/"><u>[Updated] Talk Translator Essential Offline Text Recognition Software</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-mastering-youtube-full-length-view-control/"><u>2024 Approved Mastering YouTube Full-Length View Control</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-successfully-take-full-page-screenshots-using-safari-solutions-inside/"><u>How to Successfully Take Full-Page Screenshots Using Safari – Solutions Inside!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/locating-your-missing-facetime-images-a-guide-on-where-they-are-stored/"><u>Locating Your Missing FaceTime Images: A Guide on Where They Are Stored</u></a></li>
+<li><a href="https://fox-that.techidaily.com/quick-solutions-resolve-airdrop-issues-in-no-time-with-our-top-16-tips/"><u>Quick Solutions: Resolve AirDrop Issues in No Time with Our Top 16 Tips</u></a></li>
+<li><a href="https://win11.techidaily.com/repairing-hardware-recognition-issues-in-windows-oses/"><u>Repairing Hardware Recognition Issues in Windows OSes</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-ultimate-checklist-for-smooth-transitions/"><u>The Ultimate Checklist for Smooth Transitions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-7-solutions-for-when-siri-stops-responding-on-your-ios-device/"><u>Top 7 Solutions for When Siri Stops Responding on Your iOS Device</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-solutions-for-non-deliverable-texts-in-imessage/"><u>Troubleshooting: Solutions for Non-Deliverable Texts in iMessage</u></a></li>
+</ul></div>
 

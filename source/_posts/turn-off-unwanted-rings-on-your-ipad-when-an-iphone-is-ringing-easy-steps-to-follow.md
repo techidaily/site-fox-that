@@ -1,7 +1,7 @@
 ---
 title: Turn Off Unwanted Rings on Your iPad when an iPhone Is Ringing – Easy Steps to Follow
-date: 2024-12-05T22:53:41.853Z
-updated: 2024-12-10T18:47:49.027Z
+date: 2024-12-11T18:21:17.258Z
+updated: 2024-12-16T20:06:59.117Z
 tags:
   - iphone
   - apple
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/773bcb287706a7e5add3e76fb4807bc2dd418c60c
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Disable the Ringing on Your iPad
 
  The simplest way to disable calls from your iPhone ringing on the iPad is to disable the ringer entirely. This method is quick and simple, though there are a few potential downsides.
@@ -36,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/773bcb287706a7e5add3e76fb4807bc2dd418c60c
 ![Turning down ringer and alerts volume on iPad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/how-to-stop-ipad-ringing-turn-off-ringer.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now, you've turned off your ringer and alert notifications. This could be a positive if you only want notifications from your iPhone or Apple Watch. On the other hand, if you count on Mail alerts on your iPad, this option won't work for you.
@@ -54,7 +50,7 @@ thumbnail: https://thmb.techidaily.com/773bcb287706a7e5add3e76fb4807bc2dd418c60c
  Still, this is a great option for quickly muting your iPad notifications.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stop Your iPad From Ringing With Focus Modes
@@ -69,24 +65,28 @@ thumbnail: https://thmb.techidaily.com/773bcb287706a7e5add3e76fb4807bc2dd418c60c
 
 ![Creating a Focus Mode on iPadOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/how-to-stop-ipad-ringing-create-focus.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  On this screen, you can select the people and apps you want to manage notifications from. Select**Choose Apps** , then select**Allow Notifications From** at the top of the list. The list below will populate with a few apps, but you can add more.
 
  To add an app you want to allow notifications from, tap the**Add Apps** button on the left, then select it from the list of available apps. Once apps are added to the list, you can tap the checkbox in the top-left of each app to enable or disable notifications. There are [plenty of other aspects to Focus modes](https://www.makeuseof.com/focus-mode-ideas-to-set-up-in-ios/) , but this is all you need for notifications.
 
 ![Allowing notifications for certain apps in a new Focus Mode on iPadOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/how-to-stop-ipad-ringing-allow-notification.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After you've created your custom Focus mode, you need to enable it from the Control Center. Pull down from the top-right of the iPad's screen, then long-press on**Focus** and choose your custom Focus Mode. ​​​​​​
 
 ![Enabling a Focus Mode on iPadOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/how-to-stop-ipad-ringing-turn-focus-on.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  When you want to disable it, you can tap the**Focus** toggle.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Disable "Calls on Other Devices"
@@ -126,18 +126,18 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-find-the-perfect-mix-funny-touching-ig-meme-stories-of-ten/"><u>[New] 2024 Approved Find the Perfect Mix Funny, Touching IG Meme Stories of Ten</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-the-essential-guide-to-cinematic-instagram-videos/"><u>[New] The Essential Guide to Cinematic Instagram Videos</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-exploring-the-best-ultimate-guide-to-premium-unboxing-youtubers-2024/"><u>[Updated] Exploring the Best Ultimate Guide to Premium Unboxing YouTubers, 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-calculating-viewing-time-for-a-20mb-video/"><u>[Updated] In 2024, Calculating Viewing Time for a 20Mb Video</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-mastering-telegram-the-ultimate-step-by-step-guide/"><u>[Updated] Mastering Telegram The Ultimate Step-By-Step Guide</u></a></li>
-<li><a href="https://fox-that.techidaily.com/15-key-iphone-troubleshooting-tips-for-all-iphone-models/"><u>15 Key iPhone Troubleshooting Tips for All iPhone Models</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-essential-list-of-top-tier-9-mic-recorder-apps/"><u>2024 Approved Essential List of Top-Tier 9 Mic Recorder Apps</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721439954011-7-key-tips-for-successfully-hooking-up-to-a-vpn-on-your-iphone-fix-it-now/"><u>7 Key Tips for Successfully Hooking Up to a VPN on Your iPhone – Fix It Now</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721453652447-expert-tips-for-repairing-your-iphones-biggest-issues-discover-how-dfu-mode-can-help/"><u>Expert Tips for Repairing Your iPhone's Biggest Issues - Discover How DFU Mode Can Help!</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721444038091-get-your-iphones-voicemail-running-again-with-these-9-tips/"><u>Get Your iPhone's Voicemail Running Again with These 9 Tips!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/secure-your-data-download-the-latest-samsung-850-evo-ssd-drivers/"><u>Secure Your Data: Download the Latest Samsung 850 EVO SSD Drivers</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721475888841-tired-of-audio-bouncing-around-in-your-airpods-disable-dynamic-head-tracking-now/"><u>Tired of Audio Bouncing Around in Your AirPods? Disable Dynamic Head Tracking Now</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721451962260-unable-to-find-your-iphones-lost-app-tricks-for-swift-retrieval/"><u>Unable To Find Your iPhone's Lost App? Tricks For Swift Retrieval!</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-icicle-impressions-2022s-olympic-skaters/"><u>[Updated] Icicle Impressions 2022'S Olympic Skaters</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-proliferate-profits-with-these-top-5-video-aids/"><u>[Updated] In 2024, Proliferate Profits with These Top 5 Video Aids</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-the-future-of-youtube-naming-trendsetting-tips-for-video-blogging-and-filmmaking-max-156-characters/"><u>[Updated] In 2024, The Future of YouTube Naming Trendsetting Tips for Video Blogging & Filmmaking (Max 156 Characters)</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-auditing-for-accuracy-youtube-monetization-compliance/"><u>2024 Approved Auditing for Accuracy YouTube Monetization Compliance</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-essential-video-stock-investment-guides/"><u>2024 Approved Essential Video Stock Investment Guides</u></a></li>
+<li><a href="https://fox-that.techidaily.com/alternative-solutions-for-when-your-iphone-ringsilent-switch-fails-a-comprehensive-guide/"><u>Alternative Solutions for When Your iPhone Ring/Silent Switch Fails: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/clever-tip-for-techies-the-simple-fix-of-rebooting-to-beat-phone-problems/"><u>Clever Tip for Techies: The Simple Fix of Rebooting to Beat Phone Problems</u></a></li>
+<li><a href="https://fox-that.techidaily.com/eliminate-audio-asymmetry-the-ultimate-guide-to-fixing-loudness-imbalances-in-airpods/"><u>Eliminate Audio Asymmetry: The Ultimate Guide to Fixing Loudness Imbalances in AirPods</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-subscription-share-problems-in-family-sharing-top-6-tips/"><u>Fixing Subscription Share Problems in Family Sharing - Top 6 Tips!</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-locked-apple-id-from-apple-iphone-xr-by-drfone-ios/"><u>How to Fix Locked Apple ID from Apple iPhone XR</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-6-tricks-to-overcome-frozen-ios-software-upgrades-and-restart-downloads/"><u>Top 6 Tricks to Overcome Frozen iOS Software Upgrades & Restart Downloads</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-siri-why-arent-your-iphones-siri-suggestions-appearing/"><u>Troubleshooting Siri: Why Aren't Your iPhone's Siri Suggestions Appearing?</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-ultimate-solution-for-windows-critical-process-died-error-error-code-c00000e9/"><u>Troubleshooting Ultimate Solution for Windows Critical Process Died Error (Error Code C00000e9)</u></a></li>
 </ul></div>
 

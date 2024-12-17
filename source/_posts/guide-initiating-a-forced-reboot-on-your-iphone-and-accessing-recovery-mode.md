@@ -1,7 +1,7 @@
 ---
 title: "Guide: Initiating a Forced Reboot on Your iPhone & Accessing Recovery Mode"
-date: 2024-08-15T12:11:58.079Z
-updated: 2024-08-16T12:11:58.079Z
+date: 2024-12-16T03:08:47.917Z
+updated: 2024-12-17T00:14:24.149Z
 tags:
   - iphone
   - apple
@@ -37,13 +37,14 @@ thumbnail: https://thmb.techidaily.com/9333e7c75e292a0b83b1e16b6df5d6742dede6cee
  Recovery mode takes this a step further, putting your device into a state where you can reinstall iOS by connecting your iPhone to a computer running iTunes (or using Finder on macOS Catalina and newer). If [your iPhone refuses to boot](https://www.makeuseof.com/fix-iphone-stuck-apple-logo/) , crashes on startup, or gets stuck on the Apple logo for a long time, you'll need to put the device into recovery mode in order to rescue it.
 
 ![The recovery mode image shown on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/04/iPhone-Recovery-Mode.jpg)
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Note that when you reinstall iOS, you'll lose all the data on your iPhone. This isn't a problem if you [make regular iPhone backups](https://www.makeuseof.com/tag/how-to-backup-iphone-ipad/) , which you can do using iCloud or locally in iTunes or Finder. Unfortunately, you can't back up your device in recovery mode, since the process will only offer to restore the firmware.
 
  As such, if you are stuck with an iPhone that won't boot and you don't have [a backup to restore](https://www.makeuseof.com/tag/restore-iphone-ipad-from-backup/) , there's nothing you can do to save your data. You'll have to proceed with these steps and then start fresh.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Enter Recovery Mode on iPhone 8, iPhone X, iPhone 13, and Newer
 
@@ -60,8 +61,9 @@ thumbnail: https://thmb.techidaily.com/9333e7c75e292a0b83b1e16b6df5d6742dede6cee
 3. Hold the**Side** button until you see an Apple logo. Let go of the button when you see this logo.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### How to Put an iPhone 8 or Newer Into Recovery Mode
 
 1. Connect your iPhone to a computer.  
@@ -74,9 +76,6 @@ thumbnail: https://thmb.techidaily.com/9333e7c75e292a0b83b1e16b6df5d6742dede6cee
 ## How to Enter Recovery Mode on iPhone 7/7 Plus and iPod Touch
 
 ![iPhone 7 display](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/07/features-we-miss-in-modern-iphones-6.jpg)
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The iPhone 7/7 Plus was the first iPhone model to lack a mechanical Home button, meaning that the Home button doesn't function when the phone is turned off. This required Apple to change the force restart and recovery mode shortcuts for the first time since the iPhone launched in 2007.
 
@@ -95,23 +94,12 @@ thumbnail: https://thmb.techidaily.com/9333e7c75e292a0b83b1e16b6df5d6742dede6cee
 3. Keep holding the buttons, even once you see the Apple logo.
 4. Release both buttons when you see the**Recovery Mode** screen, then proceed through the steps (explained below).
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Enter Recovery Mode on iPhone 6s and Older
 
 ![iPhone 6S Touch ID](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/11/iPhone-6S-Touch-ID.jpg)
+
 <!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The iPhone 6s, released in 2015, was Apple's last iPhone with a mechanical home button. The following steps work for that device, as well as all iPhones that came before it. This includes the Plus models, first-generation iPhone SE, and sixth-generation iPod touch and earlier.
@@ -122,9 +110,6 @@ thumbnail: https://thmb.techidaily.com/9333e7c75e292a0b83b1e16b6df5d6742dede6cee
    1. On the iPhone 6 and later, the**Side** button is on the right side. For the iPhone 5s and earlier, the**Top** button is on top of the device, as you'd expect.
 2. Release the buttons once you see the Apple logo.
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### How to Put the iPhone 6s and Older Into Recovery Mode
 
 1. Connect your iPhone to a computer.  
@@ -133,15 +118,16 @@ thumbnail: https://thmb.techidaily.com/9333e7c75e292a0b83b1e16b6df5d6742dede6cee
 3. Keep holding the buttons even once you see the Apple logo.
 4. Release both buttons when you see the**Recovery Mode** screen.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Force Restart and Enter Recovery Mode on iPad
 
 ![iPad Home Screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/iPad-Home-Screen.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Need to force restart or use recovery mode on your iPad? The process is simple.
@@ -153,8 +139,9 @@ No advertising on the website.
  Remember that on iPad models, the power button is on top, not on the side.
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Recover Your iPhone Using Recovery Mode
 
  When you put your device into recovery mode using the above instructions, you'll have 15 minutes to begin reinstalling iOS or iPadOS before your device automatically exits recovery mode. You'll need to repeat the combination of button presses to put it back into recovery mode if this happens.
@@ -165,13 +152,14 @@ No advertising on the website.
 
 ![iTunes Repair iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2018/03/problem_iphone_recovery.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once your iPhone reboots following the restore process, you'll need to walk through the setup again like it's a new iPhone. Part of this is logging in with your Apple ID credentials to remove [Apple's Activation Lock](https://support.apple.com/en-us/HT201365) . This is a security feature that prevents someone else from using your device if it's reset without signing out of iCloud.
 
  Because of this, you should never [buy a secondhand iPhone](https://www.makeuseof.com/things-to-check-before-buying-second-hand-iphone-online/) if the seller refuses to unlock it in front of you. A reset phone with Activation Lock still enabled will ask for the owner's Apple ID before you can begin the setup process, making it useless to you without this info.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## iPhone Recovery Mode, Made Easy
 
  We've seen how to force restart any iPhone and enter recovery mode with the button combinations for each iPhone, iPad, and iPod touch model. It's a simple process once you know it, but the increasingly confusing button combinations are a bit obtuse. Hopefully, you won't need to use these often, if ever.
@@ -184,8 +172,6 @@ No advertising on the website.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -193,4 +179,22 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-help.techidaily.com/new-precision-trimming-elevating-your-youtube-video-quality/"><u>[New] Precision Trimming Elevating Your YouTube Video Quality</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-ultimate-gameplay-modifications-in-terraria/"><u>[Updated] 2024 Approved Ultimate Gameplay Modifications in Terraria</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-screencapture-evaluation-interface/"><u>2024 Approved ScreenCapture Evaluation Interface</u></a></li>
+<li><a href="https://discover-community.techidaily.com/connect-with-digital-artistry-your-guide-to-engaging-with-creators/"><u>Connect with Digital Artistry: Your Guide to Engaging with Creators</u></a></li>
+<li><a href="https://fox-that.techidaily.com/discover-9-warning-signs-your-iphone-might-be-water-logged/"><u>Discover 9 Warning Signs Your iPhone Might Be Water-Logged</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/ending-blue-screen-woes-once-and-for-all-a-closer-look-at-storahcisys-solutions/"><u>Ending Blue Screen Woes Once and For All: A Closer Look at Storahci.sys Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-single-airpod-malfunctions-a-comprehensive-guide/"><u>Fixing Single AirPod Malfunctions: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/fotografo-profissional-douglas-franca-portfolio-na-movavi/"><u>Fotógrafo Profissional Douglas França - Portfólio Na Movavi</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-successfully-establish-a-vpn-link-on-your-iphone-7-essential-steps/"><u>How to Successfully Establish a VPN Link on Your iPhone: 7 Essential Steps</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-elevate-your-videos-with-complimentary-banners-here/"><u>In 2024, Elevate Your Videos with Complimentary Banners, Here</u></a></li>
+<li><a href="https://fox-that.techidaily.com/simplify-your-digital-album-by-merging-duplicate-personal-photographs-on-iphonemac/"><u>Simplify Your Digital Album by Merging Duplicate Personal Photographs on iPhone/Mac</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-iphone-photography-issues-effective-management-and-editing-strategies/"><u>Troubleshooting iPhone Photography Issues: Effective Management and Editing Strategies</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlock-top-efficiency-discover-why-perplexity-is-your-ultimate-go-to-ai-enhanced-google-search-solution/"><u>Unlock Top Efficiency: Discover Why Perplexity Is Your Ultimate Go-To AI-Enhanced Google Search Solution</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unstick-your-iphone-phone-calls-discover-these-10-fixes/"><u>Unstick Your iPhone Phone Calls – Discover These 10 Fixes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unsticking-a-halted-itunes-update-process-6-effective-tips-for-ios-devices/"><u>Unsticking a Halted iTunes Update Process: 6 Effective Tips for iOS Devices</u></a></li>
+</ul></div>
 

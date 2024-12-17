@@ -1,7 +1,7 @@
 ---
 title: "Unstick the Backup Button: Top 9 Tricks When Your iPhone Fails to Save Data to iCloud"
-date: 2024-08-15T12:08:26.812Z
-updated: 2024-08-16T12:08:26.812Z
+date: 2024-12-09T20:14:31.650Z
+updated: 2024-12-17T00:45:26.724Z
 tags:
   - iphone
   - apple
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/38800d1bcd9a0db51e74a8d6e9d259f45c0a81d4c
 
 ![Window for activating iCloud Backup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2019/03/start_icloud_backup.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Close
 
  In order to back up to iCloud, you first have to make sure you have the feature switched on. Because if you haven't enabled it, automatic iCloud backups simply won't happen. You'll have to [back up your iPhone](https://www.makeuseof.com/tag/how-to-backup-iphone-ipad/) using iTunes instead.
@@ -41,28 +45,21 @@ To switch on iCloud backups, you should do the following:
 
  By doing this, you'll switch automatic iCloud backups on. As such, you can now back up your iPhone simply by plugging it into a power source and connecting it to Wi-Fi. You also have to make sure that your iPhone is locked.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Check Your Wi-Fi Connection
 
 ![iPhone Settings page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2019/03/iphone_settings-1.png)
 
 ![Switching on the iPhone's Wi-Fi](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2019/03/wifi_settings.png)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Joining a Wi-Fi network](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2019/03/wifi_network_selection.png)
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Close
 
@@ -77,10 +74,6 @@ Close
 
  You also need to make sure that your iPhone is close enough to your Wi-Fi router. If you're too far away, the Wi-Fi signal might be too weak to complete the backup.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## 3\. Connect to a Power Source
 
  You also need to have your iPhone charging to start a backup. In addition to a standard power outlet, you can connect it to a computer if you prefer.
@@ -92,6 +85,10 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ## 4\. Make Sure You Have Enough iCloud Storage
 
 ![iCloud Storage settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2019/03/icloud_storage.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![Delete confirmation prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2019/03/delete_confirmation.png)
 
@@ -110,6 +107,10 @@ Here's how to check how much space you have left:
 
  Once on the iCloud Storage page, you might see that you've used up all 5GB of your allotted space. If so, you'll need to take one of two actions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Making More iCloud Space
 
  First, you could delete old backed-up data. This could be for your iPhone itself, or from one of your apps. Deleting your iPhone backup will likely free up the most space. However, if you delete it and then make a new backup, you'll probably run into the same storage problems again. As such, it's better to delete the backups of app-related data.
@@ -122,14 +123,12 @@ This is what you should do:
 
  Secondly, instead of deleting backups, you could upgrade your iCloud storage plan for a few dollars per month. In many cases, this small fee is worth it to avoid the hassle of juggling your space. To do this, you should tap**Upgrade** on the iCloud Storage page. We've looked at [ways to use your iCloud storage](https://www.makeuseof.com/tag/spare-icloud-storage-uses/) if you wonder what to do with all that newfound space.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Check iCloud Status
 
 ![Apple System Status webpage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2019/03/apple_system_status.png)
+
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Believe it or not, Apple's iCloud servers can sometimes go down. This means that no matter what you do you won't be able to back up your iPhone to iCloud.
@@ -139,13 +138,9 @@ This is what you should do:
  Here, look for**iCloud Backup** . If you see a green light next to it, everything is working as it should. In other words, your backup issue is due to a problem on your end.
 
 <!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Sign Out of iCloud
 
  You can sometimes solve iPhone backup issues by signing out of your iCloud account, then signing back in. This solves problems related to verification issues.
@@ -163,9 +158,6 @@ Here's how to sign out and back in:
 
  Once you've signed back in, you should try connecting your iPhone to Wi-Fi and a power source. Hopefully, it will begin backing up to iCloud once locked. You can also try leaving it connected overnight, so that the backup has enough time to finish.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ## 7\. Restart Your iPhone
 
  Next, you can try restarting your iPhone. This is a simple action, but it resets your iPhone's temporary memory. By doing this, you can sometimes get your iPhone to back up properly again.
@@ -183,8 +175,9 @@ If you have an iPhone 8 or earlier, the process is a bit different:
 3. After shutdown, hold the**Side button** until the Apple logo appears.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 8\. Reset Settings
 
  If a restart doesn't fix your iPhone backup problems, you should try resetting all settings. This won't erase your data, but it will erase preferences like your saved Wi-Fi passwords and all phone settings.
@@ -196,9 +189,6 @@ If you have an iPhone 8 or earlier, the process is a bit different:
 3. Scroll down and press**Reset** .
 4. Select**Reset Settings** .
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ## 9\. Update iOS
 
 ![iPhone General settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2019/03/iphone_general_settings.png)
@@ -232,8 +222,6 @@ Here's how you can update:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -241,4 +229,23 @@ Here's how you can update:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-securing-group-discussions-on-hangouts/"><u>[New] 2024 Approved Securing Group Discussions on Hangouts</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-quick-easy-fun-4-steps-to-showcasing-your-favorite-gifs-on-instagram/"><u>[New] Quick, Easy, Fun 4 Steps to Showcasing Your Favorite GIFs on Instagram</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-a-compreran-guide-for-seamless-soundtrack-integration-in-video-editing/"><u>[Updated] A Compreran Guide for Seamless Soundtrack Integration in Video Editing</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/a-comprehensive-guide-to-icloud-unlock-on-iphone-6-plus-online-by-drfone-ios/"><u>A Comprehensive Guide to iCloud Unlock On iPhone 6 Plus Online</u></a></li>
+<li><a href="https://fox-that.techidaily.com/enhancing-photography-on-iphones-solutions-for-low-mp-cameras/"><u>Enhancing Photography on iPhones: Solutions for Low-MP Cameras</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-do-poco-x6-screen-sharing-drfone-by-drfone-android/"><u>How To Do Poco X6 Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/improve-your-iphone-photography-a-guide-to-overcome-blurriness-with-7-simple-tricks/"><u>Improve Your iPhone Photography: A Guide to Overcome Blurriness with 7 Simple Tricks</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-realme-c51-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Realme C51 | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-visualeye-assessment-tool/"><u>In 2024, VisualEye Assessment Tool</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-flashlight-issues-here-are-12-quick-fixes/"><u>IPhone Flashlight Issues? Here Are 12 Quick Fixes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-not-getting-android-messages-heres-the-ultimate-solution-for-connectivity-woes/"><u>IPhone Not Getting Android Messages? Here’s the Ultimate Solution for Connectivity Woes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-the-commonest-iphone-x-hassles-a-comprehensive-guide/"><u>Overcoming the Commonest iPhone X Hassles: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/the-secret-to-iphones-smart-display-10-reasons-for-auto-brightness-adjustments/"><u>The Secret to iPhone's Smart Display: 10 Reasons for Auto-Brightness Adjustments</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-and-restore-qr-code-scan-capability-on-iphones-a-step-by-step-guide/"><u>Troubleshoot and Restore QR Code Scan Capability on iPhones: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlocking-extra-convenience-with-your-electric-vehicle-hov-lane-use-and-preferred-parking-options/"><u>Unlocking Extra Convenience with Your Electric Vehicle: HOV Lane Use and Preferred Parking Options</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211359636-9798869397607-witches-grimoire-a-comprehensive-collection-of-powerful-spells-for-wicca-practitioners-master-the-art-of-witchcraft-and-spellcasting-enhance-your-magical-skills/"><u>Witches' Grimoire: A Comprehensive Collection of Powerful Spells for Wicca Practitioners - Master the Art of Witchcraft and Spellcasting - Enhance Your Magical Skills | Free Book</u></a></li>
+</ul></div>
 

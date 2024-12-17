@@ -1,7 +1,7 @@
 ---
 title: "Unstick Stuck Speakers and Clear Crackles: Top 10 Fixes for No Sound in AirPods"
-date: 2024-08-15T12:09:43.416Z
-updated: 2024-08-16T12:09:43.416Z
+date: 2024-12-16T03:52:15.713Z
+updated: 2024-12-16T17:05:07.175Z
 tags:
   - iphone
   - apple
@@ -30,16 +30,10 @@ thumbnail: https://thmb.techidaily.com/bdbc1bb211547c18c849de30d5eb74ca5d67d9e0f
 * [Update an Android device](https://www.makeuseof.com/how-to-update-your-android-phone/)
 * [Update a Windows PC](https://www.makeuseof.com/tag/update-windows-software-guide/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Update Your AirPods Firmware
 
  After updating your paired device, you should also update the firmware on your AirPods. This is a little trickier to do because there's no "Update Firmware" button. Instead, follow our guide to [update the firmware on your AirPods](https://www.makeuseof.com/how-to-update-airpods/) . In short, return your AirPods to the Charging Case, connect your paired device to the internet over Wi-Fi, and wait.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Check the Accessibility Audio Balance
 
  If you need to fix your AirPods because the sound is louder on one side, it might actually be the result of a feature, rather than a bug. Take a moment to learn about [Dynamic Head Tracking](https://www.makeuseof.com/how-to-disable-dynamic-head-tracking-iphone/) , which moves the sound in your AirPods as you turn your head so that it always sounds like it's coming from your paired device.
@@ -53,25 +47,14 @@ thumbnail: https://thmb.techidaily.com/bdbc1bb211547c18c849de30d5eb74ca5d67d9e0f
 ![General settings on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/General-settings-on-iPhone.jpg)
 
 ![Accssibility settings on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/Accssibility-settings-on-iPhone.jpg)
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Audio:Visual settings on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/AudioVisual-settings-on-iPhone.jpg)
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Close
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Recharge Your AirPods and Charging Case
 
@@ -79,9 +62,6 @@ Close
 
  So, return your AirPods to the case and connect it to a charging cable until it's fully charged. Then try using your AirPods again to see if the sound issues are fixed.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ## 5\. Reset the Volume and Re-Pair Your AirPods
 
  You can fix various problems, like when [the audio is too quiet on AirPods](https://www.makeuseof.com/how-to-make-airpods-louder/) , by unpairing and re-pairing the headphones. But before you do that, try turning the audio all the way down. Make sure you're playing some audio through your AirPods while you adjust the volume to make sure you aren't changing the ringer volume instead.
@@ -90,25 +70,34 @@ Close
 
 ![iPhone settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/iPhone-settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Bluetooth devices on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/Bluetooth-devices-on-iPhone.jpg)
 
-![Forget device option on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/Forget-device-option-on-iPhone.jpg)
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Forget device option on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/Forget-device-option-on-iPhone.jpg)
 
 Close
 
  After doing that,[pair your AirPods](https://www.makeuseof.com/tag/how-to-connect-airpods-mac-iphone-pc-android/) again like you did when they were new. Then turn the volume up again, while playing audio, to see if your AirPods are fixed.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Reset Your AirPods
 
  If your AirPods audio is still not working properly, you may need to reset them completely. This is easy to do—just return your AirPods to the Charging Case and hold the**Setup** button until the light flashes white. We've got a full guide on [how to reset your AirPods](https://www.makeuseof.com/how-to-reset-airpods/) in case you want more detailed instructions.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Clean the AirPods Microphone and Speaker Grills
 
  It's possible your AirPods don't sound very good because earwax, dirt, or debris is clogging the speaker mesh. Similarly, AirPods Pro may sound glitchy if dirty microphones are causing problems with the active noise cancellation.
@@ -140,9 +129,9 @@ Close
  The settings on your router are likely to be quite different, but we'd suggest using a web browser to view all your browser options and fiddling with any Bluetooth-related options to see if any of them fix your AirPods.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 10\. Contact Apple for Replacement AirPods
 
  If none of the tips above have been able to fix the sound on your AirPods, then it's time to speak to Apple. Visit [Apple's Get Support website](http://getsupport.apple.com/) to speak to a technical advisor. Then point them in the direction of this post to let them know what steps you've already tried.
@@ -159,8 +148,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -168,4 +155,24 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-explore-better-than-sharex-a-guide/"><u>[New] 2024 Approved Explore Better Than ShareX - A Guide</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-refining-your-tiktok-end-screen-elements/"><u>[New] 2024 Approved Refining Your TikTok End Screen Elements</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-the-ultimate-way-to-update-old-photos-and-videos-with-ig-filters/"><u>[New] The Ultimate Way to Update Old Photos and Videos with IG Filters</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ncover-the-most-stellar-yt-gamers-intros-no-cost-high-quality/"><u>[New] Uncover the Most Stellar YT Gamers' Intros No Cost, High Quality?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/8-quick-fixes-for-non-vibrating-iphones-on-silent-or-ring-mode/"><u>8 Quick Fixes for Non-Vibrating iPhones on Silent or Ring Mode</u></a></li>
+<li><a href="https://extra-information.techidaily.com/discreetly-share-life-with-instagram-live/"><u>Discreetly Share Life with Instagram Live</u></a></li>
+<li><a href="https://fox-that.techidaily.com/enhance-your-snaps-in-seconds-7-quick-solutions-for-a-sharper-iphone-camera/"><u>Enhance Your Snaps in Seconds: 7 Quick Solutions for a Sharper iPhone Camera</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/get-a-discount-save-50-off-top-rated-weber-electric-grills-exclusive-offer-at-zdnet/"><u>Get a Discount: Save $50 Off Top-Rated Weber Electric Grills - Exclusive Offer at ZDNet!</u></a></li>
+<li><a href="https://win-webster.techidaily.com/get-the-tunes-you-love-seamlessly-transfer-music-from-jango-to-portable-files-like-mp3-wav-or-aac-using-our-reliable-downloader-tool/"><u>Get the Tunes You Love - Seamlessly Transfer Music From Jango to Portable Files Like MP3, WAV, or AAC Using Our Reliable Downloader Tool</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-solve-iphones-no-cellular-data-issue-top-10-effective-solutions/"><u>How to Solve iPhone's No Cellular Data Issue: Top 10 Effective Solutions</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-seamless-transition-to-professional-screen-captures-via-aiseesoft/"><u>In 2024, Seamless Transition to Professional Screen Captures via Aiseesoft</u></a></li>
+<li><a href="https://fox-that.techidaily.com/master-the-fix-stop-airpod-dropouts-on-ios-devices-instantly-11-methods/"><u>Master the Fix: Stop AirPod Dropouts on iOS Devices Instantly (11 Methods)</u></a></li>
+<li><a href="https://fox-that.techidaily.com/mastering-dfu-mode-quick-fixes-for-your-phones-5-biggest-glitches/"><u>Mastering DFU Mode: Quick Fixes for Your Phone's 5 Biggest Glitches</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcome-your-iphones-apple-logo-hang-up-with-our-7-effective-strategies/"><u>Overcome Your iPhone's Apple Logo Hang-Up with Our 7 Effective Strategies</u></a></li>
+<li><a href="https://fox-that.techidaily.com/quick-solutions-resolve-imessage-issues-on-iphoneipadmac/"><u>Quick Solutions: Resolve iMessage Issues on iPhone/iPad/Mac</u></a></li>
+<li><a href="https://fox-that.techidaily.com/step-by-step-guide-to-correcting-no-additional-lines-on-iphones/"><u>Step-by-Step Guide to Correcting 'No Additional Lines' On iPhones</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-say-goodbye-to-blemishes-fcpx-skin-smoothing-without-plugins/"><u>Updated Say Goodbye to Blemishes FCPX Skin Smoothing Without Plugins</u></a></li>
+</ul></div>
 
