@@ -1,7 +1,7 @@
 ---
 title: Unlocking the Mystery of Missing Names in Your iPhone Address Book
-date: 2024-12-06T16:02:34.305Z
-updated: 2024-12-10T22:05:45.497Z
+date: 2024-12-23T20:58:30.153Z
+updated: 2024-12-25T18:36:55.262Z
 tags:
   - iphone
   - apple
@@ -35,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/fddafecbf8d052882c8613835d6b91422875b8a8a
 
  There are different ways to restart your iPhone, depending on the model. Read our dedicated guide on [how to restart any iPhone](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) for step-by-step instructions. Once your iPhone is back up and running, confirm if your contacts have been restored. If not, move on to step number two.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Resync Your Contacts With iCloud
 
  You could also fix this issue by resyncing your Contacts app with iCloud. We’ll do this by disabling iCloud access to Contacts and then re-enabling it again. Here’s how:
@@ -47,21 +51,21 @@ thumbnail: https://thmb.techidaily.com/fddafecbf8d052882c8613835d6b91422875b8a8a
 
 ![iPhone Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/Settings-iPhone.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![iCloud settings in iOS 16](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/icloud-page-ios-16.jpg)
 
 ![Disabling Contacts sync in iOS 16](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/disabling-contacts-sync-ios-16.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Close
 
  After that, give your device a few minutes, then check to see if your contacts have been restored. If you’re still facing problems, read on for more solutions.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Show All Contacts in Your Phone App
 
@@ -75,11 +79,19 @@ So, follow these steps to show hidden contact groups:
 
 ![Contacts app in iOS 16](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/contacts-app-ios-16.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![All Accounts option in iOS 16](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/accounts-options-contacts-app.jpg)
 
 Close
 
  If some contacts from a particular account weren’t showing up on your iPhone, this should fix the issue. However, read on if you still don’t see all your contacts.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Add All Your Accounts to Your iPhone
 
@@ -92,17 +104,9 @@ Close
 
 ![Contacts settings page in iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/01-contacts-settings-ios.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Accounts page in iOS settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/02-accounts-ios-settings.jpg)
 
 ![Adding a new account in iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/03-add-account-ios.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Close
 
@@ -118,16 +122,16 @@ Close
 
 ![Screenshot of iOS Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/iOS-Settings-app.jpg)
 
-![Contacts settings in iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/Contacts-option-in-iOS-settings-app.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Contacts settings in iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/Contacts-option-in-iOS-settings-app.jpg)
 
 ![Individual account settings in iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/Individual-account-settings-iOS.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Close
@@ -135,6 +139,10 @@ Close
  If contacts from one of your connected accounts weren’t showing up on your iPhone, this should help fix the issue.
 
  Additionally, you can try disabling and enabling Short Name on your iPhone. While this feature is handy to ensure more names fit on the screen, it can sometimes be problematic. To do this, go to**Settings > Contacts > Short Name** . Disable**Short Name** , then wait for some time and turn it on.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Rebuild Your iPhone Contacts
 
@@ -146,17 +154,9 @@ Close
 
 ![Editing contact details on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/01-edit-iphone-contact.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Editing contact details on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/02-editing-contact-details-iphone.jpg)
 
 ![An edited contact on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/edited-contact-ios.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Close
 
@@ -199,18 +199,24 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/updated-crafting-visual-magic-the-essentials-of-snapchat-photo-editing-for-2024/"><u>[Updated] Crafting Visual Magic The Essentials of Snapchat Photo Editing for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-bridging-gaps-in-dialogue-techniques-for-smooth-editing-with-garageband/"><u>2024 Approved Bridging Gaps in Dialogue Techniques for Smooth Editing with GarageBand</u></a></li>
-<li><a href="https://fox-that.techidaily.com/airdrop-failures-no-more-overcome-common-challenges-with-our-16-expert-fixes/"><u>AirDrop Failures No More: Overcome Common Challenges with Our 16 Expert Fixes</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/convertir-archivos-aac-a-formato-wma-de-forma-gratuita-online-con-movavi/"><u>Convertir Archivos AAC a Formato WMA De Forma Gratuita Online Con Movavi</u></a></li>
-<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-lava-blaze-pro-5g-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Lava Blaze Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/download-dex-3205-enhanced-beat-matching-and-improved-sync-capabilities-now-available/"><u>Download DEX 3.20.5: Enhanced Beat Matching & Improved Sync Capabilities Now Available!</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/ensuring-relevance-and-engagement-with-proper-fb-hashtags/"><u>Ensuring Relevance and Engagement with Proper FB Hashtags</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-xiaomi-redmi-note-13-5g-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Xiaomi Redmi Note 13 5G Find My Friends No Location Found? | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/improve-your-safari-browser-speeds-on-iphone-with-these-4-effective-methods/"><u>Improve Your Safari Browser Speeds on iPhone with These 4 Effective Methods</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-nokia-130-musicmirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Nokia 130 MusicMirror Share to PC? | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/iphone-contacts-not-responding-3-effective-ways-to-restore-functionality/"><u>IPhone Contacts Not Responding? 3 Effective Ways to Restore Functionality</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-guide-to-solving-windows-11-exception-bsods/"><u>Quick Guide to Solving Windows 11 Exception BSODs</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshoot-your-ipods-delayed-operating-system-installation-using-these-6-methods/"><u>Troubleshoot Your iPod's Delayed Operating System Installation Using These 6 Methods</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-capturing-sound-in-windows-11-explained/"><u>[New] Capturing Sound in Windows 11 Explained</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-pushing-photography-to-new-heights-with-lightrooms-hdr/"><u>[New] Pushing Photography to New Heights with Lightroom's HDR</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-brighten-your-video-with-android-tricks/"><u>[Updated] Brighten Your Video with Android Tricks</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96316606-9781401932213-eliminating-stress-finding-inner-peace/"><u>Eliminating Stress, Finding Inner Peace | Free Book</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-master-bluetooth-connectivity-on-your-iphone-as-a-novice-user/"><u>How to Master Bluetooth Connectivity on Your iPhone as a Novice User</u></a></li>
+<li><a href="https://fox-that.techidaily.com/immediate-fixes-for-non-switching-airpods-across-apple-equipment/"><u>Immediate Fixes for Non-Switching AirPods Across Apple Equipment</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/installing-different-browsers-enhancing-your-samsung-tvs-web-experience/"><u>Installing Different Browsers: Enhancing Your Samsung TV's Web Experience</u></a></li>
+<li><a href="https://driver-error.techidaily.com/logitech-brio-webcam-not-detected-after-windows-10-creators-update-solved/"><u>Logitech Brio Webcam Not Detected After Windows 10 Creators Update [Solved]</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/r-youtube-ad-creation-with-no-cost-guide-inside/"><u>Master YouTube Ad Creation with No Cost – Guide Inside</u></a></li>
+<li><a href="https://review-topics.techidaily.com/play-hevc-h-265-on-xiaomi-civi-3-is-it-possible-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Play HEVC H.265 on Xiaomi Civi 3, is it possible?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721474234843-quick-fixes-to-accelerate-your-iphones-safari-experience/"><u>Quick Fixes to Accelerate Your iPhone's Safari Experience!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/the-ultimate-guide-to-rebooting-iphones-when-physical-buttons-fail-you/"><u>The Ultimate Guide to Rebooting iPhones When Physical Buttons Fail You</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-10-solutions-to-stop-iphone-applications-from-suddenly-stopping/"><u>Top 10 Solutions to Stop iPhone Applications From Suddenly Stopping</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-5-solutions-for-troubleshooting-iphones-voice-recognition-issues/"><u>Top 5 Solutions for Troubleshooting iPhone's Voice Recognition Issues</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/travel-planning-made-easy-with-7-ai-powered-cost-free-tools/"><u>Travel Planning Made Easy with 7 AI-Powered, Cost-Free Tools</u></a></li>
+<li><a href="https://fox-that.techidaily.com/ultimate-guide-solve-your-airpods-silent-dilemma-with-these-10-troubleshooting-tips/"><u>Ultimate Guide: Solve Your AirPods' Silent Dilemma with These 10 Troubleshooting Tips</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/unlock-potential-best-practices-for-logitech-webcam-use-for-2024/"><u>Unlock Potential Best Practices for Logitech Webcam Use for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlock-the-potential-of-siri-solutions-for-when-suggestions-fail-to-appear/"><u>Unlock the Potential of Siri: Solutions for When Suggestions Fail to Appear</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unstick-your-ios-device-a-seven-step-guide-for-iphone-logo-freeing/"><u>Unstick Your iOS Device: A Seven-Step Guide for iPhone Logo Freeing</u></a></li>
 </ul></div>
 

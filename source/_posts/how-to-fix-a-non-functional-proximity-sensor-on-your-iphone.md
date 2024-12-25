@@ -1,7 +1,7 @@
 ---
 title: How to Fix a Non-Functional Proximity Sensor on Your iPhone
-date: 2024-08-15T12:06:05.507Z
-updated: 2024-08-16T12:06:05.507Z
+date: 2024-12-23T22:07:12.170Z
+updated: 2024-12-25T20:41:20.477Z
 tags:
   - iphone
   - apple
@@ -18,9 +18,17 @@ thumbnail: https://thmb.techidaily.com/65e1faefe5d8c9d98372975f4c9ce7cc4de93a99d
 
  iPhones are no different, and just like other phones, your iPhone's proximity sensor could get damaged or become unresponsive. If you run into this issue, there are some actions you could take to isolate the problem and fix it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Test the Proximity Sensor on an iPhone
 
 ![A gray iPhone 6 on a woman's ear](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/a-gray-iphone-6-on-a-woman-s-ear.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The iPhone's proximity sensor uses infrared light from an emitter at the top of your screen. The sensor measures how long it takes for the rays to reflect off a surface to determine the distance.
 
@@ -33,9 +41,6 @@ Here are some things you could do to check if it's working:
 
  Your phone's display should go off In both scenarios. If they don't, you should consult the steps below for troubleshooting.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Steps to Take if Your iPhone's Proximity Sensor Isn't Working
 
  Hardware and software issues could cause this problem. But you could try the steps below in descending order.
@@ -43,8 +48,9 @@ Here are some things you could do to check if it's working:
 1\. Clean the Top Half of the Screen
 
 ![person cleaning a phone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/cleaning-phone.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The most likely culprit is dirt and gunk that has accumulated on the top half of your screen, making it difficult for the emitter or sensor to work. You will run into this issue if you have sweaty or oily skin.
@@ -66,15 +72,8 @@ Here are some things you could do to check if it's working:
  Head to**Settings > General > Software Update** and let the phone scan for updates. If any update appears, select**Download and Install** .
 
 ![iPhone searching for updates in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-searching-for-updates-in-settings.jpeg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 
 ![Software update information on iOS for iOS 16.6](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/software-update-information-on-ios-for-ios-16-6.jpeg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 
 ![Update terms and conditions on iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/update-terms-and-conditions-on-ios.jpeg)
 
@@ -83,8 +82,9 @@ Close
  Your phone will restart a couple of times, but it will stabilize when it's finished. Test the proximity sensor again using our steps above.
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 4\. Remove the Screen Protector
 
 ![man applying screen protector to smartphone feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/man-applying-screen-protector-to-smartphone-feature.jpg)
@@ -105,8 +105,9 @@ Here's a brief rundown of how to do it:
  Give the proximity sensor a test to see if that helped. But if you're still out of luck, you have a last-resort option.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 5\. Take Your Phone Back to Apple or an Authorized Service Provider
 
  Sometimes, the issue could be bigger than software bugs or something blocking the sensor. It's officially beyond your pay grade, and it's time to take your phone to someone who could open it up if need be.
@@ -127,8 +128,6 @@ Here's a brief rundown of how to do it:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -136,4 +135,20 @@ Here's a brief rundown of how to do it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-elevate-engagement-on-youtube-fending-off-automated-audiences/"><u>[Updated] 2024 Approved Elevate Engagement on YouTube Fending Off Automated Audiences</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-top-10-globally-acclaimed-video-sensations-on-youtube/"><u>2024 Approved Top 10 Globally Acclaimed Video Sensations on YouTube</u></a></li>
+<li><a href="https://fox-that.techidaily.com/9-effective-methods-for-fixed-images-not-loading-in-safari-on-iphone/"><u>9 Effective Methods for Fixed Images Not Loading in Safari on iPhone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/expert-tips-on-draining-water-trapped-in-iphone-speaker-grilles/"><u>Expert Tips on Draining Water Trapped in iPhone Speaker Grilles</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fix-it-the-ultimate-solution-for-non-responsive-airpods/"><u>Fix It! The Ultimate Solution for Non-Responsive AirPods</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-infinix-smart-8-hd-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Infinix Smart 8 HD? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/identifying-signs-does-he-or-she-have-read-my-messages/"><u>Identifying Signs: Does He or She Have Read My Messages?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/issue-with-iphone-detecting-headphones-8-steps-for-a-fix/"><u>Issue with iPhone Detecting Headphones: 8 Steps for a Fix</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-media-how-to-link-disney-plus-for-seamless-viewing-on-chromecast/"><u>Mastering Media: How to Link Disney Plus for Seamless Viewing on Chromecast</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/methodically-uncovering-hidden-video-wonders-on-youtube/"><u>Methodically Uncovering Hidden Video Wonders on YouTube</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Vivo S17 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/swift-solutions-how-to-unstick-and-restore-an-icy-iphone/"><u>Swift Solutions: How to Unstick and Restore an Icy iPhone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/unlocking-zoom-potential-a-comprehensive-configurations-guide-for-2024/"><u>Unlocking Zoom Potential A Comprehensive Configurations Guide for 2024</u></a></li>
+</ul></div>
 

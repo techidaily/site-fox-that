@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Art of Fixing iPhones: Tackling 7 Common Camera Challenges"
-date: 2024-08-15T12:02:33.203Z
-updated: 2024-08-16T12:02:33.203Z
+date: 2024-12-18T22:37:56.696Z
+updated: 2024-12-25T19:25:35.937Z
 tags:
   - iphone
   - apple
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/8fb2d0d577922e31978350cb180e7bc0e8d3ea4b5
 
 ![iPhone Camera not working close apps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/01/iPhone-Camera-app-from-App-Switcher-view.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Close
 
  If you launch the Camera app and see a black screen, try the following steps to fix it:
@@ -39,8 +43,9 @@ Close
 ![iPhone camera blurry close up](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/01/iPhone-camera-blurry-close-up.jpg)
 
 ![iPhone camera in focus close up](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/01/iPhone-camera-in-focus-close-up.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Close
@@ -52,9 +57,6 @@ Close
 3. If the Camera app says**AE/AF Lock** at the top of the screen, tap on a blank space to turn auto-focus back on. You may have accidentally locked the focus by tapping and holding in the Camera app.
 4. Keep your hand steady while tapping the shutter button. Sometimes it's easier to press one of the Volume buttons to take steady pictures instead. Be careful in the dark when the shutter needs to stay open for longer.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. iPhone Camera Flash Isn't Working
 
 ![iPhone Flashlight Control Center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2018/06/ios-control-center.png)
@@ -66,11 +68,16 @@ Close
 3. Be careful when using the flash for long videos or in hot environments. If your iPhone gets too hot, it might disable the flash entirely until it has cooled down again.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. iPhone Photos Are Flipped the Wrong Way
 
 ![iPhone photo flipped the wrong way](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/01/iPhone-photo-flipped-the-wrong-way.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![iPhone photo rotated in edit screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/01/iPhone-photo-rotated-in-edit-screen.jpg)
 
@@ -84,15 +91,15 @@ Close
 3. You can always edit your pictures later from the Photos app, or other [third-party iPhone image editing apps](https://www.makeuseof.com/tag/best-free-photo-editing-apps-iphone/) .
 4. If you're wondering why your selfies always appear mirrored, that's simply how Apple designed the front-facing camera. The camera works like a mirror, but the photo flips over as if someone took it for you.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## 5\. The Camera App Is Missing or Keeps Freezing
 
 ![Screen Time settings on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/01/Screen-Time-settings-on-iPhone.jpg)
 
 ![Allowed Apps in Screen Time restrictions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/01/Allowed-Apps-in-Screen-Time-restrictions.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -103,8 +110,9 @@ Close
 3. Make sure you turn the**Camera** app on; the toggle should be green.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. General iPhone Camera Software Fixes
 
 ![Reset All Settings iPhone confirmation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/01/Reset-All-Settings-iPhone-confirmation.jpg)
@@ -117,16 +125,9 @@ Close
 4. Go to**Settings > General > Reset > Reset All Settings** . This doesn't delete any of your content---such as photos or apps---but it does reset all your iPhone settings.
 5. Finally,[factory reset your iPhone](https://www.makeuseof.com/tag/how-to-factory-reset-iphone-ipad/) and set it up as a new device. This erases everything and is the last resort, but should resolve any software issues that stop your iPhone camera from working.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 7\. General iPhone Camera Hardware Fixes
 
 ![iPhone 11 camera](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/01/iPhone-11-camera.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 
  If you've tried everything above and your front or back iPhone camera is still not working, you might have a hardware problem instead. Try the troubleshooting steps below to fix it:
 
@@ -135,8 +136,9 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 3. [Contact Apple Support](https://getsupport.apple.com/) to arrange a hardware repair at the Apple Store or at an Apple Authorized Service Provider. If your iPhone is out of warranty, you may need to pay for this repair yourself.
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Get Back to Taking Great Photos With Your iPhone
 
  These tips cover the most common reasons your iPhone camera might not be working. If you didn't see your exact issue, hopefully the general tips helped you fix the camera anyway. Otherwise, you may need to speak to Apple about a hardware repair.
@@ -151,8 +153,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -160,4 +160,26 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-exclusive-no-cost-premiere-pro-resource-pack/"><u>[New] 2024 Approved Exclusive, No-Cost Premiere Pro Resource Pack</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-topping-bargain-software-for-screen-capture-on-chromebook/"><u>[New] 2024 Approved Topping Bargain Software for Screen Capture on Chromebook</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-intro-magic-unmatched-editors-across-all-tech-for-2024/"><u>[New] Intro Magic Unmatched Editors Across All Tech for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-photosegments-evaluation/"><u>[Updated] In 2024, PhotoSegments Evaluation</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-perfect-size-crafting-engaging-thumbnails/"><u>2024 Approved Perfect Size Crafting Engaging Thumbnails</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/adjusting-software-sizes-with-keyboard-shortcuts-in-win11/"><u>Adjusting Software Sizes with Keyboard Shortcuts in Win11</u></a></li>
+<li><a href="https://fox-that.techidaily.com/beat-iphones-error-4013-fixing-updaterestore-problems-in-easy-steps/"><u>Beat iPhone's Error 4013: Fixing Update/Restore Problems in Easy Steps</u></a></li>
+<li><a href="https://fox-that.techidaily.com/boosting-smartphone-internet-speed-a-10-point-strategy-to-overcome-slowdowns/"><u>Boosting Smartphone Internet Speed: A 10-Point Strategy to Overcome Slowdowns</u></a></li>
+<li><a href="https://fox-that.techidaily.com/cant-see-your-alerts-on-the-iphone-here-are-7-remedies-to-restore-them/"><u>Can't See Your Alerts on the iPhone? Here Are 7 Remedies to Restore Them</u></a></li>
+<li><a href="https://fox-that.techidaily.com/discovering-the-location-of-your-facetime-images-a-comprehensive-guide/"><u>Discovering the Location of Your FaceTime Images: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/from-digital-whisperer-to-wordsmith-how-chatgpt-can-aid-in-writing-poems/"><u>From Digital Whisperer to Wordsmith: How ChatGPT Can Aid in Writing Poems</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/honor-x9b-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Honor X9b ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-resolve-icloud-synchronization-errors-quickly-and-easily/"><u>How to Resolve iCloud Synchronization Errors Quickly and Easily</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-luminosity-lift-top-two-in-one-techniques-for-iphone-videos/"><u>In 2024, Luminosity Lift Top Two-in-One Techniques for iPhone Videos</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-m1-pro-and-m1-max-a-comparative-insight-into-apples-latest-chips/"><u>In 2024, M1 Pro and M1 Max - A Comparative Insight Into Apple's Latest Chips</u></a></li>
+<li><a href="https://fox-that.techidaily.com/reconnect-your-apple-device-a-guide-to-overcoming-iphone-and-ipad-wi-fi-problems-8-fixes/"><u>Reconnect Your Apple Device: A Guide to Overcoming iPhone and iPad Wi-Fi Problems (8 Fixes)</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solve-your-iphoneipads-emoji-glitches-with-these-fast-fixes/"><u>Solve Your iPhone/iPad's Emoji Glitches with These Fast Fixes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-iphone-wi-fi-connectivity-issues-10-effective-solutions/"><u>Solving iPhone Wi-Fi Connectivity Issues: 10 Effective Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/trouble-updating-device-software-discover-9-effective-solutions/"><u>Trouble Updating Device Software? Discover 9 Effective Solutions!</u></a></li>
+</ul></div>
 

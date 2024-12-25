@@ -1,7 +1,7 @@
 ---
 title: Struggling with IPhone Sound Buttons? Apply These 7 Repairs for Immediate Help
-date: 2024-08-15T12:03:29.108Z
-updated: 2024-08-16T12:03:29.108Z
+date: 2024-12-23T20:56:42.444Z
+updated: 2024-12-25T20:08:42.603Z
 tags:
   - iphone
   - apple
@@ -24,11 +24,19 @@ thumbnail: https://thmb.techidaily.com/12e88707f59d2cf337816f66e57d39a5f3c787beb
 
 ![iphone enable volume button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/iphone-enable-volume-button.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To check this, head to**Settings > Sounds & Haptics** and toggle on**Change with Buttons** . If this isn't enabled, this could be why your volume buttons aren't working. If it's already enabled, proceed to the next fix.
 
 ## 2\. Remove Your iPhone From Its Case
 
 ![iPhone in a leather case](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/iphone-in-a-leather-case.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  iPhones are expensive, so it's likely that most of you use a case to protect them. In some instances, your case can interfere with your volume buttons. This is especially true with cases that have layers or have built-in screen protectors.
 
@@ -36,14 +44,12 @@ thumbnail: https://thmb.techidaily.com/12e88707f59d2cf337816f66e57d39a5f3c787beb
 
  It's also possible that prolonged use of a case can cause your volume buttons to get dirty. If that's the case, proceed to the next step.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ## 3\. Clean Your iPhone's Volume Buttons Using Alcohol
 
 ![iPhone Ring/Silent switch](https://thmb.techidaily.com/14af88c4727edfc68754682f8d9e5a16b4632ead51b56f451896cf5d83dd52e4.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  We use our phones so much that dirt and grime can sometimes get under the buttons, especially when not using a case. So, press down on your buttons a few times to check if your buttons are stuck. You might need to clean them if they're stuck or don't seem to click down.
@@ -54,9 +60,6 @@ thumbnail: https://thmb.techidaily.com/12e88707f59d2cf337816f66e57d39a5f3c787beb
 
  After cleaning, wait a few minutes for the alcohol to dry. If your volume buttons are working now, great! If they are only working a bit better, that's a sign that they are still dirty, and you should keep cleaning them. It's worth [cleaning your entire iPhone if it's dirty](https://www.makeuseof.com/tag/clean-iphone-guide/) .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Reset or Restore Your iPhone
 
  Sometimes, firmware updates can change how the buttons on our phones work. This is especially true for older iPhone models. If you recently updated your iPhone and the volume buttons stopped working, try [restarting your iPhone](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) by turning it off and on again.
@@ -71,9 +74,6 @@ thumbnail: https://thmb.techidaily.com/12e88707f59d2cf337816f66e57d39a5f3c787beb
 
  In some cases, restoring your backup might make them not work again. If that's the case, it might have been an app you tried to download, or your backup could be corrupted. Sadly, this means starting from scratch unless you have an older backup you can try restoring.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ## 5\. Update Your iPhone
 
  Not updating your iPhone can also cause issues with your iPhone's volume buttons. Outdated iPhones might not work with the latest apps, and the volume controls might not work correctly as a result.
@@ -86,15 +86,15 @@ thumbnail: https://thmb.techidaily.com/12e88707f59d2cf337816f66e57d39a5f3c787beb
 
 ![iphone screen volume control](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/iphone-screen-volume-control.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you use apps like Spotify, you can control the volume within the app without a physical button. If all else fails, there are still ways to control your volume without using the buttons. The easiest way is to use the Control Center.
 
  You can open the Control Center and adjust your volume by swiping down from the top-right corner of your iPhone. If your iPhone has a Home button, you'll need to swipe up from the bottom of the screen instead.
 
 ![iphone control panel volume control](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/iphone-control-panel-volume-control-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 
  If you have AirPods, you can say, "Hey Siri, turn up the volume." Other Bluetooth headphones typically have built-in volume controls, which you can use as well. This means that you won't have to keep going to your phone when you want to change the volume.
 
@@ -105,8 +105,13 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
  To use it, go to**Settings > Accessibility > Touch > AssistiveTouch** . Here, you can set your device to turn the volume down with one tap and turn it up with two taps.
 
 ![assistive touch iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/IMG_2959.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Get Your Volume Buttons Repaired
@@ -119,9 +124,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
  While repairing your iPhone's volume buttons out of pocket can be expensive, it's cheaper than buying a new phone. But if you don't want to pay this price, maybe it's [time to upgrade your iPhone](https://www.makeuseof.com/7-signs-its-time-to-upgrade-your-iphone/) .
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Will Apple Discontinue the Volume Button?
 
  Considering Apple has discontinued the Home button, headphone jack, and Ring/Silent switch, it's logical to assume that one day the volume buttons might disappear too. For now, the volume buttons remain—even the iPhone 15 models have volume buttons.
@@ -134,8 +136,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -143,4 +143,21 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/new-seamless-transition-for-extracting-facebooks-graphic-gems-anywhere-for-2024/"><u>[New] Seamless Transition for Extracting Facebook's Graphic Gems Anywhere for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-from-concept-to-creation-a-blueprint-for-powerful-snap-campaigns/"><u>[Updated] From Concept to Creation A Blueprint for Powerful Snap Campaigns</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-social-media-power-players-face-off-will-likes-triumph-over-tiktok/"><u>[Updated] Social Media Power Players Face-Off Will Likes Triumph over TikTok?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/9-effective-solutions-for-when-your-iphone-refuses-to-sync-with-icloud/"><u>9 Effective Solutions for When Your iPhone Refuses to Sync with iCloud</u></a></li>
+<li><a href="https://fox-that.techidaily.com/dealing-with-insufficient-memory-errors-in-roblox-for-iphone-users/"><u>Dealing with 'Insufficient Memory' Errors in Roblox for iPhone Users</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effortless-management-of-gmail-conversations-bulk-selection-techniques/"><u>Effortless Management of Gmail Conversations: Bulk Selection Techniques</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-15-plus-to-the-previous-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 15 Plus to the Previous iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-nokia-c210-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Nokia C210? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-realme-12-proplus-5g-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Realme 12 Pro+ 5G To Phone | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/optimize-your-videos-with-an-aspect-ratio-adjuster-enhance-visual-quality/"><u>Optimize Your Videos with an Aspect Ratio Adjuster – Enhance Visual Quality!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/problems-with-non-appearing-siri-suggestions-heres-how-to-make-them-pop-up-again-on-your-iphone/"><u>Problems with Non-Appearing Siri Suggestions? Here's How to Make Them Pop Up Again on Your iPhone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/step-by-step-fixes-to-get-the-chatgpt-app-running-smoothly-on-ios/"><u>Step-by-Step Fixes to Get the ChatGPT App Running Smoothly on iOS</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/563676-9781583942970-the-book-of-not-knowing/"><u>The Book of Not Knowing | Free Book</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-11-fixes-to-restore-ringtones-on-missing-call-alerts-for-iphones/"><u>Top 11 Fixes to Restore Ringtones on Missing Call Alerts for iPhones</u></a></li>
+</ul></div>
 

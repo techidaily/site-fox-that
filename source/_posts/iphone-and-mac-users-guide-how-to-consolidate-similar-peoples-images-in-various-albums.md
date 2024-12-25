@@ -1,7 +1,7 @@
 ---
 title: "IPhone and Mac Users' Guide: How to Consolidate Similar People's Images in Various Albums"
-date: 2024-08-15T12:04:37.303Z
-updated: 2024-08-16T12:04:37.303Z
+date: 2024-12-24T18:46:15.514Z
+updated: 2024-12-25T17:05:21.657Z
 tags:
   - iphone
   - apple
@@ -31,7 +31,15 @@ thumbnail: https://thmb.techidaily.com/e28897e8d930e3677167fd762a9f129952956dbe6
 
 ![select icon in top right](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/select-icon-in-top-right.PNG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![select profiles](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/select-profiles.PNG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![merge people albums](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/merge-people-albums.PNG)
 
@@ -40,22 +48,9 @@ Close
  Related:[Tips That Will Help You Master the People Album in Photos](https://www.makeuseof.com/tips-to-master-people-album-photos-iphone/)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Merge Multiple People in Photos on a Mac
 
  The same error of having multiple profiles for one person can also occur on a Mac, especially if you're syncing photos between your iPhone and Mac.
@@ -69,29 +64,28 @@ Key features:
 5. Click**Yes** to confirm that these are the same person (even if they aren't and you want to merge them anyway).
 
 ![Merge 2 People option in Photos app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/Merge-2-People-option-in-Photos-app.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Read More:[Ways to Fix iCloud Photos Not Syncing on Your Mac](http://www.makeuseof.com/how-to-fix-icloud-photos-not-syncing-mac/)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Sort Through Your Photos by People
 
  Merging multiple albums is quick and easy to do. The steps are the same on an iPhone, iPad, and Mac. All you have to do is select the profiles you want to merge together, then choose to**Merge** them together.
 
  Merging albums of people will ensure your gallery is organized and error-free. Or you can use the option to create an album of a specific group of people together, though it's usually best to use the Search feature for that.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -100,4 +94,16 @@ Key features:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-the-art-of-concurrent-photoplusvideo-on-iphone-for-2024/"><u>[New] The Art of Concurrent Photo+Video on iPhone for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-spoof-ballads-and-jests-the-funniest-sounds-for-2024/"><u>[Updated] Spoof Ballads & Jests The Funniest Sounds for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unlocking-iphones-full-podcast-potential/"><u>2024 Approved Unlocking iPhone's Full Podcast Potential</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-digital-detox-ignoring-negativity-on-youtube/"><u>In 2024, Digital Detox Ignoring Negativity on YouTube</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/lock-your-oneplus-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your OnePlus Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcome-iphone-auto-brightness-glitch-discover-7-swift-solutions/"><u>Overcome iPhone Auto-Brightness Glitch: Discover 7 Swift Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/quick-fixes-reactivating-the-hey-siri-feature-on-your-iphone-or-ipad/"><u>Quick Fixes: Reactivating the 'Hey Siri' Feature on Your iPhone or iPad</u></a></li>
+<li><a href="https://fox-that.techidaily.com/recognizing-the-signs-top-9-indicators-of-an-iphone-suffering-from-liquid-intrusion/"><u>Recognizing the Signs: Top 9 Indicators of an iPhone Suffering From Liquid Intrusion</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721469590390-resolve-safari-glitches-on-iphone-discover-10-effective-fixes-now/"><u>Resolve Safari Glitches on iPhone: Discover 10 Effective Fixes Now</u></a></li>
+</ul></div>
 

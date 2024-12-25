@@ -1,7 +1,7 @@
 ---
 title: Water Logged iPhone? Here Are 9 Symptoms You Need to Watch For!
-date: 2024-11-23T04:49:54.520Z
-updated: 2024-11-24T20:43:18.573Z
+date: 2024-12-23T18:04:44.923Z
+updated: 2024-12-25T18:25:28.434Z
 tags:
   - iphone
   - apple
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/255abe49d787e06c0ed6c6f504e1d68fdfd70d280
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Foggy Cameras
@@ -32,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/255abe49d787e06c0ed6c6f504e1d68fdfd70d280
 ![Foggy iPhone X photo of a man](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/05/foggy-iphone-x-photo-of-a-man.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  One of the first things you should do when inspecting a phone for any kind of damage is to check its cameras. They are sensitive pieces of hardware and are easily affected by scratches, drops, and water.
@@ -51,10 +51,6 @@ thumbnail: https://thmb.techidaily.com/255abe49d787e06c0ed6c6f504e1d68fdfd70d280
 
  Likewise, Touch ID could also be negatively affected by water if it slips through the side of the Home button and gets into the sensors. This is less likely to happen if you use an iPhone 7 or 8, but it's still possible if the phone falls into extremely dirty water.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Misbehaving Buttons
 
  Dirty water often contains all sorts of particles that can get into small gaps and block them. If you notice that the buttons on an iPhone feel stuck, make a grainy sound, or simply do not respond, then you could be holding a water-damaged iPhone.
@@ -64,7 +60,7 @@ thumbnail: https://thmb.techidaily.com/255abe49d787e06c0ed6c6f504e1d68fdfd70d280
 ![An iPhone X with a dark spot on its left bottom corner](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/05/an-iphone-x-with-a-dark-spot-on-its-left-bottom-corner.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you're unlucky, water could also affect your display and develop permanent patches. You might see signs of water under the display first before it slowly forms dark patches—making the affected area dimmer.
@@ -84,7 +80,7 @@ thumbnail: https://thmb.techidaily.com/255abe49d787e06c0ed6c6f504e1d68fdfd70d280
 ![iPhone 11 in the hands of a woman with volume control options on the screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/iphone-11-in-the-hands-of-a-woman-with-volume-control-options-on-the-screen.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Another clear sign that an iPhone is water-damaged is muffled speakers. If you want to purchase a used phone, after checking the cameras, you should play some sounds on the speakers to see what it sounds like.
@@ -92,6 +88,10 @@ thumbnail: https://thmb.techidaily.com/255abe49d787e06c0ed6c6f504e1d68fdfd70d280
  If the sounds on the iPhone come out muffled, then you can assume that the phone likely had some water damage to its speaker hardware at some point. You can also test the front speaker by playing a voice note on iMessage and placing it against your ear.
 
  You should dry out the speakers for iPhones that just fell into some water. If that still doesn't help, try some DIY [iPhone speaker fixes](https://www.makeuseof.com/tag/fix-iphone-speaker-not-working/) before you spend money on an expert.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Signs of Rust and Corrosion
 
@@ -140,16 +140,17 @@ thumbnail: https://thmb.techidaily.com/255abe49d787e06c0ed6c6f504e1d68fdfd70d280
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-explore-the-leading-microphones-in-podcasting/"><u>[Updated] 2024 Approved Explore the Leading Microphones in Podcasting</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-uploading-tunes-a-guide-to-posting-on-youtube-for-2024/"><u>[Updated] Uploading Tunes A Guide to Posting on YouTube for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-pinnacle-performance-comparison-hero5-black-and-hero4-silver/"><u>2024 Approved Pinnacle Performance Comparison Hero5 Black and Hero4 Silver</u></a></li>
-<li><a href="https://fox-that.techidaily.com/boost-your-iphones-battery-life-discover-these-quick-and-easy-steps/"><u>Boost Your iPhone's Battery Life - Discover These Quick and Easy Steps!</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/bypassing-format-barriers-a-complete-guide-to-chromecast-video-streaming/"><u>Bypassing Format Barriers A Complete Guide to Chromecast Video Streaming</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-resolve-iphone-voicemail-issues-a-guide-with-9-proven-fixes/"><u>How To Resolve iPhone Voicemail Issues? A Guide with 9 Proven Fixes</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-samsung-galaxy-z-flip-5-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Samsung Galaxy Z Flip 5 to Latest Samsung | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-tecno-spark-10-5g-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your Tecno Spark 10 5G in 3 Ways | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/iphone-charging-pause-alert-discover-8-effective-solutions/"><u>IPhone Charging Pause Alert: Discover 8 Effective Solutions</u></a></li>
-<li><a href="https://fox-that.techidaily.com/iphone-not-syncing-with-laptop-discover-these-quick-fixes/"><u>IPhone Not Syncing with Laptop? Discover These Quick Fixes!</u></a></li>
-<li><a href="https://fox-that.techidaily.com/resolving-any-problem-with-your-iphone-discover-these-15-crucial-hacks/"><u>Resolving Any Problem with Your iPhone? Discover These 15 Crucial Hacks</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-exploring-the-upgraded-gopro-sessions/"><u>[New] 2024 Approved Exploring the Upgraded GoPro Sessions</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-a-gamers-guide-to-lgs-360-degree-vr-experience/"><u>[New] A Gamer's Guide to LG's 360-Degree VR Experience</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-unlock-creativity-essential-green-screen-techniques-for-2024/"><u>[New] Unlock Creativity Essential Green Screen Techniques for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-tweet-time-machine-capturing-the-essence-of-twitters-videos/"><u>[Updated] In 2024, Tweet Time Machine Capturing the Essence of Twitter's Videos</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-substitutes-for-winmovie-new-windows-editors/"><u>[Updated] Substitutes for WinMovie New Windows Editors</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-call-logs-from-asus-rog-phone-7-ultimate-by-fonelab-android-recover-call-logs/"><u>Best Android Data Recovery - undelete lost call logs from Asus ROG Phone 7 Ultimate</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/budget-mastery-how-much-investment-needed/"><u>Budget Mastery How Much Investment Needed?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/comprehensive-guide-to-fixing-iphones-inability-to-upload-data-to-icloud-a-closer-look-at-9-techniques/"><u>Comprehensive Guide to Fixing iPhone's Inability to Upload Data to iCloud: A Closer Look at 9 Techniques</u></a></li>
+<li><a href="https://fox-that.techidaily.com/diagnosing-and-repairing-your-iphones-black-display-error/"><u>Diagnosing and Repairing Your iPhone’s Black Display Error</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-transforming-xbox-experiences-through-effective-capture-techniques/"><u>In 2024, Transforming Xbox Experiences Through Effective Capture Techniques</u></a></li>
+<li><a href="https://fox-that.techidaily.com/master-the-art-of-keeping-your-iphones-inbox-fresh-and-updated/"><u>Master the Art of Keeping Your iPhone's Inbox Fresh and Updated</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-7-frustrating-issues-with-iphone-x-solutions-inside/"><u>Top 7 Frustrating Issues with iPhone X: Solutions Inside</u></a></li>
 </ul></div>
 

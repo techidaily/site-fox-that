@@ -1,7 +1,7 @@
 ---
 title: "Struggling with Disappeared Iphone Applications: Find Them With These Tips"
-date: 2024-08-15T12:05:08.179Z
-updated: 2024-08-16T12:05:08.179Z
+date: 2024-12-21T18:28:36.694Z
+updated: 2024-12-25T17:52:21.824Z
 tags:
   - iphone
   - apple
@@ -34,13 +34,14 @@ thumbnail: https://thmb.techidaily.com/86157a99bb3c3d407e2d01671b40c89a0f41350bb
 
 ![Long-press app in App Library and tap Add to Home Screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/long-press-app-in-app-library-and-tap-add-to-home-screen.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Close
 
  In the future, if you want all the new apps you download to show on the iPhone Home Screen, open**Settings** \>**Home Screen** and select**Add to Home Screen** . This will put an end to new apps not appearing on the Home Screen.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Use Spotlight to Find the Missing App
 
  The second method is to use Spotlight search, which helps you find files and apps stored anywhere on your device.
@@ -51,38 +52,39 @@ Close
 
 ![iphone home screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/img_5638.jpg)
 
-![iphone search screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/img_5639.jpg)
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+![iphone search screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/img_5639.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![use search to find an app in iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/img_5640.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Close
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Ask Siri to Open the Missing App
 
  You can use Siri to open downloaded apps that have disappeared from the Home Screen. If you have already [set up Siri on your iPhone](https://www.makeuseof.com/how-to-set-up-and-use-siri-iphone/) , simply activate the voice assistant and ask it to "Open \[app name\]."
 
  To activate Siri, you can say "Hey Siri" or press and hold the**Side** button (on iPhones with Face ID) or**Home** button (on iPhones with Touch ID). Besides opening apps, there are many other [tasks you can ask Siri to carry out for you](https://www.makeuseof.com/tag/8-things-you-probably-didnt-realize-siri-could-do/) .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 ## 4\. Look Inside Folders to Find Hidden Apps
 
  Sometimes we put apps inside folders to hide them or keep them away from plain sight in case those apps aren't used frequently. After a while, it's possible to forget about them.
 
  If this is your situation, open all the app folders on your iPhone Home Screen and look for the missing app inside. Once you find it, you may want to drag the app icon out of the folder onto the Home Screen.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Check Screen Time to Unhide Restricted Apps
 
@@ -94,15 +96,16 @@ Close
 
 ![Tap Content & Privacy Restrictions in iPhone Screen Time Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/tap-content--privacy-restrictions-in-iphone-screen-time-settings.png)
 
-![Tap Allowed Apps in iPhone Screen Time Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/tap-allowed-apps-in-iphone-screen-time-settings.png)
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
+![Tap Allowed Apps in iPhone Screen Time Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/tap-allowed-apps-in-iphone-screen-time-settings.png)
+
 ![Make Sure all iPhone apps are allowed and nothing is restricted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/make-sure-all-iphone-apps-are-allowed-and-nothing-is-restricted.png)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Close
@@ -126,20 +129,11 @@ Close
 3. In the search results, if the app says**Open** , tap it. If it says**Get** or shows a cloud icon, download it.
 
 ![Long press iOS App Store icon and tap Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/long-press-ios-app-store-icon-and-tap-search.png)
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Search for app in App Store and tap Open](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/search-for-app-in-app-store-and-tap-open.png)
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Close
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 ## 8\. Reset the Home Screen Layout to View All Apps Alphabetically
 
  If you want every app listed alphabetically to be sure not to miss anything, you can reset the Home Screen and Dock layout. After this, the Home Screen will show all the Apple apps (just like a new iPhone). And the apps you have downloaded will be placed alphabetically in order.
@@ -155,11 +149,12 @@ Here's how to reset your iPhone's Home Screen layout:
 
 ![Tap Reset Home Screen Layout in iPhone Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/tap-reset-home-screen-layout-in-iphone-settings.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Close
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 9\. Additional Fixes if You Still Can't Find an App
 
  Most of the methods we covered above involve unhiding an app and getting it back on the Home Screen again. But if those don't work, an app disappearing may be caused by a glitch.
@@ -180,8 +175,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -189,4 +182,26 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-ultimate-techniques-for-creating-full-sphere-photos/"><u>[New] 2024 Approved Ultimate Techniques for Creating Full-Sphere Photos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-get-people-to-subscribe-by-asking-the-right-way-for-2024/"><u>[New] How to Get People to Subscribe by Asking the Right Way for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-mastering-media-integration-adding-online-yt-videos-to-ppts/"><u>[Updated] 2024 Approved Mastering Media Integration Adding Online YT Videos to PPTs</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Motorola Moto G84 5G | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-text-to-titles-an-in-depth-guide-to-srt-conversion/"><u>2024 Approved From Text to Titles An In-Depth Guide to SRT Conversion</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-global-perspective-inclusive-technology-review/"><u>2024 Approved Global Perspective Inclusive Technology Review</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/behind-the-scenes-comprehensive-review-of-geekworm-x1011-nas-solution/"><u>Behind the Scenes: Comprehensive Review of Geekworm X1011 NAS Solution</u></a></li>
+<li><a href="https://fox-that.techidaily.com/conquer-common-setbacks-with-your-iphone-13-learn-how-here/"><u>Conquer Common Setbacks with Your iPhone 13 - Learn How Here</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/download-e-guarda-playlist-in-4k-con-il-downloadatore-di-video-4k-migliore-opzioni-gratis/"><u>Download E Guarda Playlist in 4K Con Il Downloadatore Di Video 4K Migliore: Opzioni Gratis</u></a></li>
+<li><a href="https://fox-that.techidaily.com/easy-steps-mastering-bluetooth-connectivity-on-your-ios-device/"><u>Easy Steps: Mastering Bluetooth Connectivity on Your iOS Device</u></a></li>
+<li><a href="https://fox-that.techidaily.com/experiencing-issues-with-iphones-contacts-feature-try-out-these-ameliorative-strategies/"><u>Experiencing Issues With iPhone's Contacts Feature? Try Out These Ameliorative Strategies.</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-the-broken-depth-effect-top-7-solutions-for-ios-16-lockscreen-problem/"><u>Fixing the Broken Depth Effect: Top 7 Solutions for iOS 16 Lockscreen Problem</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-address-and-repair-undelivered-imessages-in-ios-mail-app/"><u>How to Address and Repair Undelivered iMessages in iOS Mail App</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-6-ways-to-transfer-text-messages-from-google-pixel-7a-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 6 Ways to Transfer Text Messages from Google Pixel 7a to Other Android Devices | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/reviving-wireless-charge-on-iphones-a-guide-to-the-nne-key-solutions/"><u>Reviving Wireless Charge on iPhones: A Guide to the Nne Key Solutions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/tech-buzz-alert-anticipated-launch-timeline-for-apples-latest-devices-including-macbook-air-ipad-pro-and-ipad-air-in-march-detailed-analysis/"><u>Tech Buzz Alert: Anticipated Launch Timeline for Apple's Latest Devices Including MacBook Air, iPad Pro & iPad Air in March? Detailed Analysis</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-excessive-zoom-in-whatsapp-media-uploads-best-practices/"><u>Troubleshooting Excessive Zoom in WhatsApp Media Uploads: Best Practices</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-thx-spatial-sound-issues-on-windows-1110-computers/"><u>Troubleshooting THX Spatial Sound Issues on Windows 11/10 Computers</u></a></li>
+<li><a href="https://fox-that.techidaily.com/understanding-your-iphone-screen-freeze-explore-these-7-key-factors/"><u>Understanding Your iPhone Screen Freeze: Explore These 7 Key Factors!</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Why Does My iPhone Dim? Uncover the 10 Key Reasons Behind Automatic Brightness Adjustment
-date: 2024-08-15T12:05:23.271Z
-updated: 2024-08-16T12:05:23.271Z
+date: 2024-12-23T20:33:05.671Z
+updated: 2024-12-25T19:41:07.488Z
 tags:
   - iphone
   - apple
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/896a3051dab897fe8d0c2740f6699976d5490b685
 
  Your browser does not support the video tag.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Auto-Brightness
 
  In most cases, the auto-brightness feature causes the automatic screen dimming on your iPhone. It adjusts the screen brightness according to your surrounding light conditions with the help of the ambient light sensor installed near the iPhone's front-facing camera.
@@ -32,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/896a3051dab897fe8d0c2740f6699976d5490b685
 
 ![Auto-Brightness Feature in iPhone Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/auto-brightness-iphone.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Close
 
 ## 2\. True Tone
@@ -43,9 +51,6 @@ Close
 ![Display & Brightness option in iOS Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/01-iphone-settings-app-showing-display-brightness.jpg)
 
 ![iOS Display & Brightness settings with True Tone enabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/02-true-tone-enabled-iphone.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 
 Close
 
@@ -57,9 +62,6 @@ Close
 
  Night Shift can make the screen appear dim as well. And since it's usually scheduled to automatically turn on after sunset, the screen dimming effect can seem automatic. You can avoid this by either [keeping Night Shift on at all times to reduce blue light](https://www.makeuseof.com/how-to-reduce-blue-light-on-your-iphone/) or turning it off completely from**Settings > Display & Brightness > Night Shift** .
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ## 4\. Auto-Lock
 
  The**Auto-Lock** feature can be a probable cause of your iPhone's randomly dimming screen, too. It's designed to lock your iPhone automatically after a set period of inactivity—like 30 seconds—to prevent other people from accessing it.
@@ -69,6 +71,10 @@ Close
  However, if your set duration is too short, your screen will often dim—which can be random. Go to**Settings > Display & Brightness > Auto-Lock** to change the duration.
 
 ![auto-lock-iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/auto-lock-iphone.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![List of Auto-Lock duration presets](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/auto-lock-duration-iphone.jpg)
 
@@ -83,8 +89,9 @@ Close
  You can try turning it off from**Settings > Display & Brightness** . Alternatively, you can schedule it for nighttime, along with the Night Shift feature. This will help you keep your screen bright and vibrant throughout the day while intentionally darkening it at night.
 
 <!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Attention Aware Features
 
  Apple uses the Face ID sensors on the iPhone to enable Attention Aware features, which dims the screen if you're not looking at it.
@@ -94,30 +101,23 @@ Close
  Therefore, if the feature is turned off, it can cause the screen to dim randomly, even when you're looking at it as the iPhone prepares to lock itself. You can turn it on by going to **Settings > Face ID & Passcode > Attention Aware Features** .
 
 ![Face ID and Passcode Settings in iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/face-id-and-passcode-iphone-settings.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 
 ![Passcode required to enter Passcode settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/enter-passcode-iphone-settings.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Attention Aware Features in iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/attention-aware-iphone-feature.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 
 Close
 
  Doing this will likely fix the problem of your randomly dimming iPhone screen when Auto-Lock is enabled.
 
 <!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Low Power Mode
 
  The iPhone's Low Power Mode is a setting that reduces background activity to save power and make your phone last longer.
@@ -127,8 +127,9 @@ Close
  To turn this feature off, go to**Settings > Battery** and toggle**Low Power Mode** . Check out our [iPhone Low Power Mode guide](https://www.makeuseof.com/iphone-low-power-mode/) to learn more.
 
 <!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 8\. Overheating
 
  Overheating is when your iPhone shows a black screen saying that the "iPhone needs to cool down before you can use it," because its temperature has exceeded the safe range.
@@ -137,16 +138,14 @@ Close
 
  For more information, check out our [iPhone overheating guide](https://www.makeuseof.com/tag/iphone-ipad-getting-hot-heres-fix/) , where we've covered why the phone gets hot and how you can fix it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ## 9\. Reduce White Point
 
  The Reduce White Point feature sits quietly in**Settings > Accessibility > Display & Text Size** and is disabled by default. However, if you have turned it on, try disabling it to see if your iPhone's colors and brightness improve.
 
 ![Display & Text Size from Accessibility in iPhone settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/display-text-size-iphone.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Reduce White Point Enabled in iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/reduce-white-point-iphone.jpg)
@@ -180,8 +179,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -189,4 +186,26 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-bridging-gaps-building-relationships-with-your-audience/"><u>[New] 2024 Approved Bridging Gaps Building Relationships with Your Audience</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-reality-vs-virtuality-sustaining-vr-creativity-innovation-for-2024/"><u>[Updated] Reality Vs. Virtuality Sustaining VR Creativity Innovation for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/7-effective-solutions-to-stop-screen-flicker-on-your-mobile-device/"><u>7 Effective Solutions to Stop Screen Flicker on Your Mobile Device</u></a></li>
+<li><a href="https://fox-that.techidaily.com/7-essential-tricks-for-a-seamless-iphone-vpn-connection/"><u>7 Essential Tricks for a Seamless iPhone VPN Connection</u></a></li>
+<li><a href="https://fox-that.techidaily.com/beat-the-yellow-screen-problem-on-your-iphone-with-these-proven-techniques-9-fixes/"><u>Beat the Yellow Screen Problem on Your iPhone with These Proven Techniques (9 Fixes)</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209684202-9781547589920-el-puente-hacia-la-luz-y-el-amor/"><u>El puente hacia la luz y el amor | Free Book</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/embarkation-on-arabic-learning-journey/"><u>Embarkation on Arabic Learning Journey</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fast-fixes-improve-your-iphone-screen-off-duration-with-these-easy-steps/"><u>Fast Fixes: Improve Your iPhone Screen Off Duration with These Easy Steps</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-revive-your-bricked-infinix-hot-40-pro-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Infinix Hot 40 Pro in Minutes | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-icebound-battles-spectacular-moments-from-22s-snowboard-cross-faceoffs/"><u>In 2024, Icebound Battles Spectacular Moments From '22'S Snowboard Cross Faceoffs</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-xiaomi-redmi-note-12-pro-4g-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Xiaomi Redmi Note 12 Pro 4G Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-windows-movie-maker-6-download-and-install-in-minutes/"><u>In 2024, Windows Movie Maker 6 Download and Install in Minutes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-picture-dilemma-can-space-be-saved-and-pics-retrieved-post-deletion-with-these-8-hacks/"><u>IPhone Picture Dilemma: Can Space Be Saved & Pics Retrieved Post-Deletion with These 8 Hacks?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-iphone-camera-challenges-find-and-repair-7-common-issues-for-perfect-shots/"><u>Overcoming iPhone Camera Challenges: Find and Repair 7 Common Issues for Perfect Shots</u></a></li>
+<li><a href="https://fox-that.techidaily.com/quick-fixes-for-10-typical-apple-pay-problems/"><u>Quick Fixes for 10 Typical Apple Pay Problems</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/step-by-step-guide-locating-and-updating-hardware-drivers-in-windows-tips-from-yl-computing/"><u>Step-by-Step Guide: Locating & Updating Hardware Drivers in Windows - Tips From YL Computing</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-7-simple-steps-to-get-your-imessage-back-working-on-apple-gadgets/"><u>Top 7 Simple Steps to Get Your iMessage Back Working on Apple Gadgets</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-tips-for-correcting-the-missing-d3dx9-30dll-error-on-your-computer/"><u>Troubleshooting Tips for Correcting the 'Missing' D3dx9_ 30.dll Error on Your Computer</u></a></li>
+<li><a href="https://fox-that.techidaily.com/why-is-my-iphoneipad-overheating-solutions-and-prevention-tips/"><u>Why Is My iPhone/iPad Overheating? Solutions & Prevention Tips</u></a></li>
+</ul></div>
 

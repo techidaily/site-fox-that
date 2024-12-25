@@ -1,7 +1,7 @@
 ---
 title: Struggling to Save Chats From WhatsApp on Your iCloud? We Can Help
-date: 2024-08-15T12:03:14.054Z
-updated: 2024-08-16T12:03:14.054Z
+date: 2024-12-23T20:55:47.120Z
+updated: 2024-12-25T16:38:01.092Z
 tags:
   - iphone
   - apple
@@ -18,9 +18,17 @@ thumbnail: https://thmb.techidaily.com/8e69d784c77bd739f0f1c851de79322ac9ec55e88
 
  But sometimes this backup feature stops working on iPhones because of issues like improper iCloud settings. Luckily, you can easily get your WhatsApp backups up and running. Here are some easy fixes to try when WhatsApp isn't backing up to iCloud:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Check if WhatsApp Is Enabled for iCloud Backup
 
 ![name in iphone settings-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/name-in-iphone-settings-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![icloud settings in iphone settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/icloud-settings-in-iphone-settings.jpg)
 
@@ -40,13 +48,17 @@ Close
 
 ![chat backup option in whatsapp](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/chat-backup-option-in-whatsapp.jpg)
 
-![chats section in whatsapp](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/chats-section-in-whatsapp.jpg)
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
+![chats section in whatsapp](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/chats-section-in-whatsapp.jpg)
+
 ![Whatsapp chat backup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/whatsapp-chat-backup.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -63,28 +75,20 @@ To check your available iCloud storage space:
 3. If the backup size is larger than the space available on your iCloud, go to**Manage Account Storage** . Here you can review any large files and delete them. You can even [upgrade your iCloud storage](https://www.makeuseof.com/how-to-upgrade-icloud-storage/) if additional space is required.
 
 ![icloud settings in iphone settings-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/icloud-settings-in-iphone-settings-1.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![manage account storage option in iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/manage-account-storage-option-in-iphone.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 
 Close
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Perform a Manual Backup on WhatsApp
 
 ![chat backup option in whatsapp-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/chat-backup-option-in-whatsapp-1.jpg)
 
 ![Backing up now in Whatsapp](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/backing-up-now-in-whatsapp.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Close
 
@@ -97,20 +101,18 @@ Here's how you can do that:
 
  While not necessary, consider keeping WhatsApp open during this manual backup. This means not swiping the WhatsApp page up in the app switcher. You may use other apps or put your iPhone to sleep during this time though.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Check the iCloud Server Status
 
 ![Apple server status](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/apple-server-status.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Sometimes, the issue may not be with your device or with WhatsApp, but rather with iCloud services. Visit the [Apple System Status](https://www.apple.com/support/systemstatus/) page to see whether iCloud servers are down or having server issues.
 
  If the circle beside**iCloud Backup** isn't green, consider backing up WhatsApp once it is working again.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Restart Your iPhone
 
  Restarting your iPhone will fix a number of software-related issues, including those involving iCloud backups.
@@ -122,14 +124,19 @@ To restart your device:
 3. After a little while, press and hold the power button to switch your iPhone back on.
 4. Check to see if the WhatsApp backup succeeds now.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Update Your iPhone and WhatsApp
 
 ![General Section in iPhone Setttings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/general-section-in-iphone-setttings.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 
 ![Software Update in iPhone General Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/software-update-in-iphone-general-settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -143,9 +150,6 @@ To update your iPhone, follow these steps:
 
  WhatsApp also routinely updates its application to resolve bug fixes and system glitches. That's [why you should never disable automatic updates on your phone](https://www.makeuseof.com/never-disable-auto-app-updates-android-iphone/) if you're looking to use the best version of WhatsApp. To update the app, head on over to the**App Store,** search WhatsApp, and check if an update is available.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. Remove Videos From Your iCloud Backup
 
  Large videos in particular can end up using a lot of iCloud storage space. So, if your iCloud backup keeps failing, consider removing these videos from iCloud backup.
@@ -162,8 +166,9 @@ To do this, follow these steps:
 ![whatsapp messenger section in icloud settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/whatsapp-messenger-section-in-icloud-settings.jpg)
 
 ![whatsapp data in icloud](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/whatsapp-data-in-icloud.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Close
@@ -187,8 +192,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -196,4 +199,21 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-obs-not-recording-audio-solved-for-2024/"><u>[New] OBS Not Recording Audio [Solved] for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-top-10-screenrecord-tips-and-tricks-on-a-laptop/"><u>[Updated] 2024 Approved Top 10 ScreenRecord Tips and Tricks on a Laptop</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/condicoes-de-uso-e-termos-para-coupons-de-descontos-no-movavi/"><u>Condições De Uso E Termos Para Coupons De Descontos No Movavi</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-fix-your-iphone-when-it-refuses-to-change-orientation-landscape-tips-included/"><u>How to Fix Your iPhone When It Refuses to Change Orientation - Landscape Tips Included</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-vivo-x100-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Vivo X100 to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-brighten-your-iphones-nighttime-recordings/"><u>In 2024, Brighten Your iPhone's Nighttime Recordings</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-gps-location-on-tecno-camon-20-pro-5g-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Tecno Camon 20 Pro 5G Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-texting-problems-here-are-7-fixes-you-need/"><u>IPhone Texting Problems? Here Are 7 Fixes You Need</u></a></li>
+<li><a href="https://fox-that.techidaily.com/navigating-troublesome-iphone-x-challenges-solutions-to-the-7-most-common-quandaries/"><u>Navigating Troublesome iPhone X Challenges: Solutions to the 7 Most Common Quandaries</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-iphone-groaning-from-the-burden-of-its-own-ambition-like-an-old-man-struggling-uphill-but-hey-its-not-all-doom-and-gloom-the-iphone-12-comes-equi13/"><u>Overcoming iPhone Groaning From the Burden of Its Own Ambition, Like an Old Man Struggling Uphill. But Hey, It's Not All Doom and Gloom! The iPhone 12 Comes Equipped with a Suite of Features that Make It One Helluva Device for Photography Enthusiasts.</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solutions-for-finding-hidden-event-entries-in-ios-calendar/"><u>Solutions for Finding Hidden Event Entries in iOS Calendar</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-the-issue-why-youre-seeing-phone-numbers-rather-than-contact-names/"><u>Solving the Issue: Why You're Seeing Phone Numbers Rather Than Contact Names</u></a></li>
+<li><a href="https://some-skills.techidaily.com/superior-recommendations-elite-ios-audio-makers-for-2024/"><u>Superior Recommendations Elite iOS Audio Makers for 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-realme-c53-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Realme C53 | Dr.fone</u></a></li>
+</ul></div>
 

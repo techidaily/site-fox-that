@@ -1,7 +1,7 @@
 ---
 title: "Resolving Common iPhone 12 Glitches: A Complete Guide"
-date: 2024-08-15T12:02:57.355Z
-updated: 2024-08-16T12:02:57.355Z
+date: 2024-12-19T19:58:35.112Z
+updated: 2024-12-25T20:44:09.659Z
 tags:
   - iphone
   - apple
@@ -43,17 +43,26 @@ Close
 
 ![General iPhone settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/General-iPhone-Settings-1.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Software update of iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Software-update-of-iPhone-1.JPG)
 
 ![Update iPhone to the latest OS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Update-iPhone-to-the-latest-OS-1.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
  If none of the steps seem to work, your SIM port is probably busted and might need repair by a professional.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Problems With Face ID on iPhone 12
 
  iPhone 12 is one of the newer models that support Apple's face recognition system. It is an additional security step that lets you unlock the phone and authorize different transactions on the device.
@@ -65,19 +74,14 @@ Close
 ![Face ID in iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Face-ID-in-iPhone.JPG)
 
 ![Enter passcode on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Enter-passcode-on-iPhone.JPG)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 
 ![Face ID settings in iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Face-ID-settings-in-iPhone.JPG)
+
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Reset Face ID](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Reset-Face-ID.JPG)
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 
 Close
 
@@ -89,22 +93,21 @@ Close
  Usually, it is just a permission-related issue, but you have the option to reset it if needed.
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. iPhone 12 Audio Issues
 
  Some iPhone 12 users might come across audio issues. Remember that it's a temporary problem and super easy to fix within a couple of steps. Press the**Ringer** button (left of the iPhone above the Volume buttons) upwards to activate sounds.
 
 ![Ringer button of iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Ringer-button-of-iPhone.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 
  Once the ringer is turned ON, here's what you need to do on your iPhone:
 
 ![General iPhone settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/General-iPhone-Settings-1.JPG)
+
 <!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Ringtone and alert volume](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Ringtone-and-alert-volume.JPG)
@@ -117,19 +120,11 @@ Close
 
  If your ringer is on full, but the speakers don't produce sound,[restart your iPhone](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) . Still not successful? Maybe your speakers are damaged or filled with dust—time to seek the services of a professional.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. iPhone 12 Bluetooth Issues
 
 ![Bluetooth off](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Bluetooth-off.JPG)
 
 ![Bluetooth on](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Bluetooth-on.JPG)
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 
 Close
 
@@ -146,15 +141,8 @@ To fix the Wi-Fi problem, you can try the following steps:
 ![General iPhone settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/General-iPhone-Settings-1.JPG)
 
 ![Go to Wi-Fi](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Go-to-Wi-Fi-1.JPG)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 
 ![Forget this network](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Forget-this-network.JPG)
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Close
 
@@ -169,6 +157,10 @@ Close
 * Connecting your iPhone 12 to any other available Wi-Fi network.
 * Contacting your internet service provider if nothing seems to work.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Personal Hotspot Issues on iPhone 12
 
  Your iPhone 12 might have a Personal Hotspot issue where the network keeps dropping. The first step will be to check if Personal Hotspot is still active. Also,[disable Low Data Mode](https://www.makeuseof.com/disable-low-data-mode-iphone/) .
@@ -178,9 +170,6 @@ To disconnect and reconnect to the hotspot, here's what you need to do:
 ![Personal hotspot off](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Personal-hotspot-off.JPG)
 
 ![Personal hotspot on](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Personal-hotspot-on.JPG)
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 Close
 
@@ -201,11 +190,12 @@ Close
 ![Transfer or reset iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Transfer-or-reset-iPhone.JPG)
 
 ![Reset your iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Reset-your-iPhone.JPG)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![iPhone resetting options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/iPhone-resetting-options.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -215,6 +205,10 @@ Close
 4. Your device will require a passcode. Enter that to get the network to function.
 
  Also, feel free to check out these details if [cellular data is not working on your iPhone](https://www.makeuseof.com/iphone-cellular-data-not-working-fixes/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. iCloud Issues on the iPhone 12
 
@@ -227,9 +221,6 @@ Close
 ## 9\. Discoloration of the iPhone's Body
 
 ![Different iPhone color variants](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Different-iPhone-color-variants.jpg)
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The exciting part about iPhone 12 is its color variants. You get several options from red to blue, green, standard black, and many more. However, some users might see discoloration, despite taking relevant measures.
 
@@ -262,8 +253,9 @@ Close
  However, consistent heating might mean a severe issue waiting to be addressed. So,[factory reset your iPhone](https://www.makeuseof.com/tag/how-to-factory-reset-iphone-ipad/) to clear out any glitches. And if your iPhone 12 is still heating up more than usual, contact Apple to get a quick solution
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix Your iPhone 12 Issues Like a Pro
 
  Apple's iPhone 12 is trendy for users who wish to have a modern smartphone experience. Overall, it is a high-end device with premium features, but it's not without its problems.
@@ -278,8 +270,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -287,4 +277,23 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-the-art-of-analytic-assessment-in-the-youtube-sphere/"><u>[Updated] 2024 Approved The Art of Analytic Assessment in the YouTube Sphere</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-perfect-post-editing-eliminating-unwanted-picture-borders/"><u>[Updated] Perfect Post-Editing Eliminating Unwanted Picture Borders</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-powerful-films-for-purpose-and-positivity/"><u>[Updated] Powerful Films for Purpose and Positivity</u></a></li>
+<li><a href="https://fox-that.techidaily.com/enhance-your-iphones-connection-8-wi-fi-optimization-tips/"><u>Enhance Your iPhone's Connection: 8 Wi-Fi Optimization Tips</u></a></li>
+<li><a href="https://fox-that.techidaily.com/expert-guide-step-by-step-instructions-to-fix-the-sim-mm-2-not-provided-problem/"><u>Expert Guide: Step-by-Step Instructions to Fix the SIM MM 2 Not Provided Problem</u></a></li>
+<li><a href="https://fox-that.techidaily.com/expert-tips-for-repairing-5-persistent-iphone-errors-through-the-advanced-use-of-dfu-mode/"><u>Expert Tips for Repairing 5 Persistent iPhone Errors Through the Advanced Use of DFU Mode</u></a></li>
+<li><a href="https://fox-that.techidaily.com/get-expert-help-on-your-iphone-a-comprehensive-guide-to-leveraging-apples-support-tools/"><u>Get Expert Help on Your iPhone – A Comprehensive Guide to Leveraging Apple's Support Tools</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-vivo-s17-pro-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Vivo S17 Pro?</u></a></li>
+<li><a href="https://fox-making.techidaily.com/icloud-activation-puzzle-solved-discover-four-strategies-for-unlocking-devices-without-needing-your-password/"><u>ICloud Activation Puzzle Solved: Discover Four Strategies for Unlocking Devices Without Needing Your Password</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-realme-c55-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Realme C55? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-perfecting-visual-output-incorporating-luts-into-your-ae-projects/"><u>In 2024, Perfecting Visual Output Incorporating LUTs Into Your AE Projects</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-cant-make-calls-try-these-10-proven-methods-for-immediate-relief/"><u>IPhone Can't Make Calls? Try These 10 Proven Methods for Immediate Relief</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95782249-9781620551615-manual-of-psychomagic/"><u>Manual of Psychomagic | Free Book</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/egic-branding-techniques-for-higher-youtube-followings/"><u>Strategic Branding Techniques for Higher YouTube Followings</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-5-solutions-how-to-stop-constant-wi-fi-dropouts-on-your-iphone/"><u>Top 5 Solutions: How to Stop Constant Wi-Fi Dropouts on Your iPhone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-held-phone-charger-alerts-on-iphone-with-these-8-fixes/"><u>Troubleshoot Held Phone Charger Alerts on iPhone with These 8 Fixes</u></a></li>
+</ul></div>
 

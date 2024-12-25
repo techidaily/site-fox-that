@@ -1,7 +1,7 @@
 ---
 title: Correcting Problems With the Proximity Detection Function in iPhones
-date: 2024-12-13T21:57:47.904Z
-updated: 2024-12-17T00:01:19.700Z
+date: 2024-12-23T19:09:41.058Z
+updated: 2024-12-25T20:06:15.359Z
 tags:
   - iphone
   - apple
@@ -27,10 +27,6 @@ thumbnail: https://thmb.techidaily.com/6658e9df1d38e14ee675787c7264985ccf523b4b4
 
 ![A gray iPhone 6 on a woman's ear](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/a-gray-iphone-6-on-a-woman-s-ear.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The iPhone's proximity sensor uses infrared light from an emitter at the top of your screen. The sensor measures how long it takes for the rays to reflect off a surface to determine the distance.
 
  There could be things blocking the infrared waves; that's why it's good to run some tests before you conclude that there's something wrong with your iPhone.
@@ -42,6 +38,10 @@ Here are some things you could do to check if it's working:
 
  Your phone's display should go off In both scenarios. If they don't, you should consult the steps below for troubleshooting.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Steps to Take if Your iPhone's Proximity Sensor Isn't Working
 
  Hardware and software issues could cause this problem. But you could try the steps below in descending order.
@@ -50,15 +50,15 @@ Here are some things you could do to check if it's working:
 
 ![person cleaning a phone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/cleaning-phone.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The most likely culprit is dirt and gunk that has accumulated on the top half of your screen, making it difficult for the emitter or sensor to work. You will run into this issue if you have sweaty or oily skin.
 
  While you could try a quick wipe against your shirt or some other cloth, the best thing to do is [clean your iPhone properly](https://www.makeuseof.com/tag/clean-iphone-guide/) . Use a moist, lint-free cloth and gently but thoroughly wipe the dirt away in one direction.
 
  Be careful not to use rubbing alcohol, window cleaners, vinegar, or any similar grease-cutting products, as they could eat away your screen's coating.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Restart the Target Application or Your iPhone
 
@@ -77,13 +77,13 @@ Here are some things you could do to check if it's working:
 ![Software update information on iOS for iOS 16.6](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/software-update-information-on-ios-for-ios-16-6.jpeg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Update terms and conditions on iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/update-terms-and-conditions-on-ios.jpeg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Close
@@ -93,10 +93,6 @@ Close
 ### 4\. Remove the Screen Protector
 
 ![man applying screen protector to smartphone feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/man-applying-screen-protector-to-smartphone-feature.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Image Credit: Nor Gal/[Shutterstock](https://www.shutterstock.com/image-photo/man-replacing-broken-tempered-glass-screen-1106925758)
 
@@ -121,6 +117,10 @@ Here's a brief rundown of how to do it:
 
  Take your iPhone to a nearby Apple Store or an Apple-authorized service provider; they should be able to help you. If your iPhone is still under warranty, Apple will fix your device at no additional cost if there are no signs of accidental damage. Scenarios like this make having an [extended AppleCare+ warranty](http://www.makeuseof.com/tag/applecare-what-are-your-options-is-it-really-worth-it/) very attractive because accidental damage is covered under this plan.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The Proximity Sensor Is an Important Part of Your iPhone
 
  While your phone doesn't need it to function, there's no denying that your iPhone experience will be seriously impaired without a proximity sensor. It's integral to the way touchscreen phones work for phone calls.
@@ -142,21 +142,18 @@ Here's a brief rundown of how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-vloggers-guide-top-5-audio-excellence-headphones/"><u>[New] 2024 Approved Vloggers’ Guide Top 5 Audio Excellence Headphones</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-unmatched-video-capture-selecting-the-best-pc-and-mac-recorder/"><u>[New] Unmatched Video Capture Selecting the Best PC & Mac Recorder</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-secrets-to-crafting-compelling-igtv-summaries/"><u>[Updated] In 2024, Secrets to Crafting Compelling IGTV Summaries</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fixing-a-non-responsive-mute-switch-on-your-iphone-a-comprehensive-guide/"><u>Fixing a Non-Responsive Mute Switch on Your iPhone – A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-that.techidaily.com/guide-resolving-face-recognition-errors-within-the-apple-photos-application/"><u>Guide: Resolving Face Recognition Errors Within the Apple Photos Application</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-correct-the-no-more-lines-left-error-on-iphones-for-seamless-use/"><u>How to Correct the No More Lines Left Error on iPhones for Seamless Use</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/maximizing-your-workout-with-smart-chatgpt-prompt-strategies-insights-for-gym-buffs/"><u>Maximizing Your Workout with Smart ChatGPT Prompt Strategies – Insights for Gym Buffs</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/pattern-locks-are-unsafe-secure-your-poco-x6-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Poco X6 Phone Now with These Tips</u></a></li>
-<li><a href="https://techidaily.com/sign-word-2013-online-with-digisigner-by-ldigisigner-sign-a-word-sign-a-word/"><u>Sign Word 2013 Online with DigiSigner</u></a></li>
-<li><a href="https://fox-that.techidaily.com/stop-on-hold-iphone-charge-warnings-in-their-tracks-discover-these-8-fix-methods/"><u>Stop 'On-Hold' IPhone Charge Warnings in Their Tracks! Discover These 8 Fix Methods</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-eus-digital-strategy-and-its-influence-on-the-development-of-ai-systems-such-as-chatgpt/"><u>The EU's Digital Strategy & Its Influence on the Development of AI Systems Such as ChatGPT</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-ipad-applications-to-boost-efficiency-and-streamline-tasks-discover-the-key-tools-for-enhanced-productivity/"><u>Top iPad Applications to Boost Efficiency and Streamline Tasks: Discover the Key Tools for Enhanced Productivity</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshoot-and-restore-your-iphones-flashlight-a-guide-with-12-steps/"><u>Troubleshoot and Restore Your iPhone's Flashlight: A Guide with 12 Steps</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-instagram-delay-top-6-solutions-for-android-and-ios-users/"><u>Troubleshooting Instagram Delay: Top 6 Solutions for Android & iOS Users</u></a></li>
-<li><a href="https://fox-that.techidaily.com/ultimate-tips-and-tricks-to-correctly-adjust-your-whatsapp-camera-focus/"><u>Ultimate Tips and Tricks to Correctly Adjust Your WhatsApp Camera Focus</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ling-the-process-making-high-impact-educational-videos-on-youtube/"><u>Unveiling the Process Making High-Impact Educational Videos on YouTube</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-guide-to-powerdirector-2024-mastery/"><u>[Updated] The Ultimate Guide to PowerDirector 2024 Mastery</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-visualcut-content-checker/"><u>[Updated] VisualCut Content Checker</u></a></li>
+<li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-samsung-galaxy-xcover-7-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Samsung Galaxy XCover 7 to iPhone | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/avoid-common-spelling-mistakes-on-iphone-with-these-6-autocorrection-fixes/"><u>Avoid Common Spelling Mistakes on iPhone with These 6 AutoCorrection Fixes</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/guide-complet-pour-resoudre-les-problemes-de-clonage-ssd-non-supportes-par-windows-11-10-8-et-7/"><u>Guide Complet Pour Resoudre Les Problèmes De Clonage SSD Non Supportés Par Windows 11, 10, 8 Et 7</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721478571507-guide-to-easily-repairing-frequent-issues-with-apple-pay-learn-these-10-tips/"><u>Guide to Easily Repairing Frequent Issues with Apple Pay – Learn These 10 Tips</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-honor-magic-5-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Honor Magic 5 Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-vivo-y200e-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Vivo Y200e 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-choosing-between-gopro-max-and-hero-11-top-cameras-compared/"><u>In 2024, Choosing Between GoPro Max and Hero 11 Top Cameras Compared</u></a></li>
+<li><a href="https://win-dash.techidaily.com/latest-sound-card-software-updates-get-them-here/"><u>Latest Sound Card Software Updates - Get Them Here</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resetting-your-apple-screen-time-lock-with-ease-tips-for-all-users/"><u>Resetting Your Apple Screen Time Lock with Ease – Tips for All Users</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-7-causes-behind-a-non-responsive-iphone-screen-troubleshooting-guide/"><u>Top 7 Causes Behind a Non-Responsive iPhone Screen: Troubleshooting Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlocking-icloud-settings-top-strategies-for-iphone-and-ipad-users/"><u>Unlocking iCloud Settings: Top Strategies for iPhone and iPad Users</u></a></li>
 </ul></div>
 

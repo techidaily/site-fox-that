@@ -1,7 +1,7 @@
 ---
 title: Fix It Yourself! How to Boot Up an iPhone When Physical Keys Don't Work
-date: 2024-11-23T03:56:42.892Z
-updated: 2024-11-24T17:31:24.285Z
+date: 2024-12-18T20:25:42.500Z
+updated: 2024-12-25T22:15:54.005Z
 tags:
   - iphone
   - apple
@@ -23,9 +23,17 @@ thumbnail: https://thmb.techidaily.com/f74f161f0523579dd71e4de3d10404ac967ce66d0
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Restart an iPhone With Face ID
 
 ![How to Restart iPhone With Face ID](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/how-to-restart-iphone-with-face-id.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Follow these steps to restart iPhone X, iPhone XR, or any newer model with a notch or [Dynamic Island](https://www.makeuseof.com/what-is-dynamic-island/) :
 
@@ -36,17 +44,9 @@ thumbnail: https://thmb.techidaily.com/f74f161f0523579dd71e4de3d10404ac967ce66d0
 
  You have successfully restarted your iPhone with Face ID. Enter the device passcode to unlock it and get to the Home Screen.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Restart an iPhone With a Home Button
 
 ![How to Restart iPhone With Home Button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/how-to-restart-iphone-with-home-button.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Follow these steps to restart iPhone 6, 6S, 7, 8, and SE (2nd generation):
 
@@ -57,13 +57,13 @@ thumbnail: https://thmb.techidaily.com/f74f161f0523579dd71e4de3d10404ac967ce66d0
 
 You have successfully restarted your iPhone with a Home button.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Restart an iPhone With a Top Power Button
 
 ![How to Restart iPhone With Top Power Button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/how-to-restart-iphone-with-top-power-button.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you're using iPhone SE (1st generation), 5S, 5C, 5, 4S, 4, or earlier models, the steps are the same as above (for devices with the Home button). Just make sure to press the**Power button** on the top of the device instead.
 
@@ -84,10 +84,6 @@ You have successfully restarted your iPhone with a Home button.
 
 ![iPhone Settings app showing General option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/iphone-settings-app-showing-general-option.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![iPhone Settings app showing Shut Down](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/iphone-settings-app-showing-shut-down.png)
 
 ![iPhone Power off screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/iphone-power-off-screen.png)
@@ -106,7 +102,11 @@ Close
 ![using siri to restart iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/muo-in-article-image-1200px-by-600px-21-ratio-23.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Often Should You Restart Your iPhone?
@@ -136,19 +136,21 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-hassle-free-techniques-record-your-dell-screen-easily/"><u>[Updated] 2024 Approved Hassle-Free Techniques Record Your Dell Screen Easily</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-vanguard-designs-evaluation-studio-25-examined-current-year/"><u>[Updated] Vanguard Designs Evaluation Studio 25 Examined, Current Year</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-generate-a-face-online-best-tools-and-resources/"><u>2024 Approved Generate a Face Online Best Tools and Resources</u></a></li>
-<li><a href="https://fox-that.techidaily.com/7-quick-fixes-for-predictive-emoji-not-working-on-an-iphone-or-ipad/"><u>7 Quick Fixes for Predictive Emoji Not Working on an iPhone or iPad</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/a-how-to-guide-on-bypassing-the-iphone-15-pro-icloud-lock-by-drfone-ios/"><u>A How-To Guide on Bypassing the iPhone 15 Pro iCloud Lock</u></a></li>
-<li><a href="https://fox-that.techidaily.com/consolidating-repeated-individuals-photographs-across-different-albums-a-guide-for-ios-and-macos-users/"><u>Consolidating Repeated Individuals' Photographs Across Different Albums: A Guide for iOS & macOS Users</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fixing-safaricide-10-steps-to-restore-your-iphones-browser/"><u>Fixing Safaricide: 10 Steps to Restore Your iPhone's Browser</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-disable-the-liquid-sensor-alarm-in-iphones-with-usb-c-chargers/"><u>How to Disable the Liquid Sensor Alarm in iPhones with USB-C Chargers</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/improving-handheld-devices-microsofts-advanced-features-in-new-windows-update/"><u>Improving Handheld Devices: Microsoft's Advanced Features in New Windows Update</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-icloud-activation-lock-with-imei-code-on-your-iphone-6s-by-drfone-ios/"><u>In 2024, Bypass iCloud Activation Lock with IMEI Code On your iPhone 6s</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-from-shoot-to-screen-mastering-360-degree-video-edits-using-premiere-pro/"><u>In 2024, From Shoot to Screen Mastering 360-Degree Video Edits Using Premiere Pro</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/screen-recording-on-macos-ahead-with-bandicam-or-camtasia/"><u>Screen Recording on MacOS Ahead with Bandicam or Camtasia?</u></a></li>
-<li><a href="https://fox-that.techidaily.com/single-airpod-problem-discover-the-best-methods-for-repair/"><u>Single AirPod Problem? Discover the Best Methods for Repair</u></a></li>
-<li><a href="https://fox-that.techidaily.com/top-tips-to-compensate-for-a-lower-megapixel-iphone-camera/"><u>Top Tips to Compensate for a Lower Megapixel iPhone Camera</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-navigating-the-world-of-social-media-with-a-focused-brand/"><u>[New] 2024 Approved Navigating the World of Social Media with a Focused Brand</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/dell-network-driver-download-for-windows-7/"><u>Dell Network Driver Download for Windows 7</u></a></li>
+<li><a href="https://fox-that.techidaily.com/diagnosing-iphone-detection-problems-with-itunes-or-finder-easy-fixes/"><u>Diagnosing iPhone Detection Problems with iTunes or Finder - Easy Fixes!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-and-update-the-latest-creative-webcam-software-compatible-with-windows-os/"><u>Download & Update the Latest Creative Webcam Software Compatible with Windows OS</u></a></li>
+<li><a href="https://fox-that.techidaily.com/get-your-airplay-up-and-running-a-guide-for-troubled-devices/"><u>Get Your AirPlay Up and Running: A Guide for Troubled Devices</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-navigating-facebook-sharing-of-youtube-videos/"><u>In 2024, Navigating Facebook Sharing of YouTube Videos</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/invisible-voices-techniques-for-silent-screen-recordings/"><u>Invisible Voices Techniques for Silent Screen Recordings</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/lenovo-tab-4-analysis-an-affordable-android-device-with-considerations/"><u>Lenovo Tab 4 Analysis: An Affordable Android Device With Considerations</u></a></li>
+<li><a href="https://fox-that.techidaily.com/mastering-the-full-format-of-your-iphoneipad-a-comprehensive-walkthrough/"><u>Mastering the Full Format of Your iPhone/iPad – A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/utionary-tools-for-next-gen-streaming-experience/"><u>Revolutionary Tools for Next-Gen Streaming Experience</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solutions-for-locating-missing-events-on-your-iphones-digital-agenda/"><u>Solutions for Locating Missing Events on Your iPhone's Digital Agenda</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-list-8-key-steps-for-irresistible-unboxing-reels-for-2024/"><u>The Ultimate List 8 Key Steps for Irresistible Unboxing Reels for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-microsoft-office-substitutes/"><u>Top Microsoft Office Substitutes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlock-essential-features-and-enhancements-the-critical-need-to-install-ios-153-today/"><u>Unlock Essential Features and Enhancements: The Critical Need to Install iOS 15.3 Today</u></a></li>
+<li><a href="https://fox-that.techidaily.com/wi-fi-woes-discovering-the-7-main-reasons-for-slow-phone-internet-speeds/"><u>Wi-Fi Woes: Discovering the 7 Main Reasons for Slow Phone Internet Speeds</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721467470804-your-iphone-needs-checkup-discover-apples-rde-for-easy-hardware-testing/"><u>Your iPhone Needs Checkup? Discover Apple's RDE for Easy Hardware Testing</u></a></li>
 </ul></div>
 

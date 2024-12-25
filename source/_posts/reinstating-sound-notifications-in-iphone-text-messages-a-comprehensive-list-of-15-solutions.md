@@ -1,7 +1,7 @@
 ---
 title: "Reinstating Sound Notifications in iPhone Text Messages: A Comprehensive List of 15 Solutions"
-date: 2024-11-20T02:50:04.197Z
-updated: 2024-11-24T21:14:59.362Z
+date: 2024-12-23T17:25:22.152Z
+updated: 2024-12-25T19:34:33.191Z
 tags:
   - iphone
   - apple
@@ -40,20 +40,24 @@ To do this, follow these simple instructions:
 ![Screenshot showing Tap Notifications in iPhone Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/tap-notifications-in-iphone-settings-app.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Screenshot showing Tap Messages in iPhone Notifications](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/tap-messages-in-iphone-notifications.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Ensure all Messages app notification settings are enabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/ensure-all-messages-app-notification-settings-are-enabled.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
  After following the above steps, new text messages via SMS and iMessage should show up on your iPhone and make a sound when the device is locked.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Ensure the Person Isn't Muted
 
@@ -69,10 +73,6 @@ Close
 
 Close
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Turn Off Silent Mode and Focus
 
  After you put your iPhone in silent mode, new texts won't have a notification tone. To fix this, turn off silent mode by pushing up the mute switch located above your iPhone's volume buttons.
@@ -81,10 +81,6 @@ Close
 
  That said, you can [set up Focus modes](https://www.makeuseof.com/how-to-use-focus-modes-ios/) that let you configure which apps and people you want to allow notifications from.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Force Quit the Messages App
 
  On iPhones with Face ID, slowly swipe up from the bottom to the middle of the screen while you're in the Messages app and hold until you see the App Switcher. Now, swipe up on the Messages app card to force quit.
@@ -92,10 +88,6 @@ Close
  On the other hand, if you have an iPhone with a Home button, quickly double-press it to bring up the App Switcher, and then swipe up the Messages app card to force close it.
 
  After a few seconds, open this app again, and hopefully, this should smoothen the notification issues.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Ensure iMessage Is Enabled
 
@@ -117,13 +109,17 @@ Close
 
 ![Tap Messages in iPhone Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/tap-messages-in-iphone-settings.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Tap Unknown and Spam in iPhone Messages Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/tap-unknown-and-spam-in-iphone-messages-settings.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Turn off Filter Unknown Senders in iPhone Messages Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/turn-off-filter-unknown-senders-in-iphone-messages-settings.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -143,13 +139,13 @@ Close
 
 ![Tap Messages in iPhone Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/tap-messages-in-iphone-settings.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Tap Unknown and Spam in iPhone Messages Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/tap-unknown-and-spam-in-iphone-messages-settings.png)
 
 ![Swipe left on blocked iPhone contact and tap Unblock](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/swipe-left-on-blocked-iphone-contact-and-tap-unblock.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -165,10 +161,14 @@ Close
 
 ![Choose a different custom tone for contact](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/choose-a-different-custom-tone-for-contact.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Close
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 11\. Enable "Notify Me"
@@ -181,13 +181,13 @@ Close
 
 ![Tap Text Message Forwarding in iPhone Messages Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/tap-text-message-forwarding-in-iphone-messages-settings.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Turn off Text Message Forwarding for all your other Apple devices](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/turn-off-text-message-forwarding-for-all-your-other-apple-devices.png)
 
 Close
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 13\. Are You Using an Apple Watch?
 
@@ -197,6 +197,10 @@ Close
 
  If you keep the Messages app open on your Mac, new messages may appear there, and your iPhone may not play the text notification sound for them. To fix this,[quit the Messages app on your Mac](https://www.makeuseof.com/ways-to-quit-apps-on-mac/) . Or, you may use it there if you're already working on your computer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 15\. Other Solutions
 
 If none of the solutions above help, don't worry—hope isn't lost yet.
@@ -204,10 +208,6 @@ If none of the solutions above help, don't worry—hope isn't lost yet.
  The first thing you can do is make sure that your mobile plan allows you to receive text messages. Make sure your cellular plan is active and that you have no pending bills.
 
  If you think that glitches are causing your device to not receive iPhone text message notifications, you may need to update your iPhone's firmware. You can do that by going to**Settings** \>**General** \>**Software Update** . At times, bugs like failing text notifications are fixed by installing the newest iOS update.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Not Getting Text Notifications on iPhone? Let's Fix That
 
@@ -230,14 +230,24 @@ If none of the solutions above help, don't worry—hope isn't lost yet.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-extract-focus-from-logitech-cam-feed-for-2024/"><u>[New] Extract Focus From Logitech Cam Feed for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-revolutionize-your-brand-presence-on-igtv-with-these-top-10-strategies/"><u>[Updated] Revolutionize Your Brand Presence on IGTV with These Top 10 Strategies</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/behind-the-scenes-of-huggingchat-the-chatgpt-free-counterpart/"><u>Behind the Scenes of HuggingChat - The ChatGPT Free Counterpart</u></a></li>
-<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-oneplus-ace-2v-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On OnePlus Ace 2V | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/discovering-the-causes-behind-iphone-screen-brightness-adjustments/"><u>Discovering the Causes Behind iPhone Screen Brightness Adjustments</u></a></li>
-<li><a href="https://fox-that.techidaily.com/essential-steps-to-restore-non-responsive-airplay-features-on-your-devices/"><u>Essential Steps to Restore Non-Responsive AirPlay Features on Your Devices</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/how-to-make-your-own-youtube-closures-without-spending/"><u>How to Make Your Own YouTube Closures Without Spending</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-perform-a-fresh-start-on-your-iphone-by-bypassing-itunes/"><u>How to Perform a Fresh Start on Your iPhone by Bypassing iTunes</u></a></li>
-<li><a href="https://fox-that.techidaily.com/reviving-lost-memos-a-step-by-step-guide-to-restoring-your-deleted-iphone-notes/"><u>Reviving Lost Memos: A Step-by-Step Guide to Restoring Your Deleted iPhone Notes</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-dive-into-hp-envy-27-monitors-usb-c-innovation-for-2024/"><u>[New] Dive Into HP Envy 27 Monitor's USB-C Innovation for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-streamlining-youtube-edits-with-advanced-sony-vegas-techniques/"><u>[Updated] Streamlining YouTube Edits with Advanced Sony Vegas Techniques</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-video-narrative-enhancer-for-2024/"><u>[Updated] Video Narrative Enhancer for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/android-to-apple-how-to-transfer-photos-from-tecno-spark-20-proplus-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Android to Apple How To Transfer Photos From Tecno Spark 20 Pro+ to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/breakthrough-techniques-for-reviving-your-frozen-apple-phone/"><u>Breakthrough Techniques for Reviving Your Frozen Apple Phone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/bring-order-to-your-devices-6-methods-for-reliable-automatic-switching-of-airpods-with-apple-tech/"><u>Bring Order to Your Devices: 6 Methods for Reliable Automatic Switching of AirPods with Apple Tech</u></a></li>
+<li><a href="https://fox-that.techidaily.com/effective-strategies-for-handling-and-organizing-your-iphone-images/"><u>Effective Strategies for Handling and Organizing Your iPhone Images</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/effortlessly-share-data-with-your-htc-desire-eye-through-usb-bluetooth-or-wireless-connection/"><u>Effortlessly Share Data with Your HTC Desire Eye Through USB, Bluetooth or Wireless Connection</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-locked-iphone-display-enable-rotation-between-portrait-and-landscape-modes/"><u>Fixing Locked Iphone Display: Enable Rotation Between Portrait and Landscape Modes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-voice-communication-problems-in-rainbow-six-siege-after-the-2024-patch/"><u>How to Fix Voice Communication Problems in Rainbow Six Siege After the 2024 Patch</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-quick-resize-youtube-to-fit-mac-display-ratio/"><u>In 2024, Quick Resize YouTube to Fit Mac Display Ratio</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-iphone-ice-age-how-to-restore-functionality-when-it-stops-responding/"><u>Overcoming iPhone Ice Age: How to Restore Functionality When It Stops Responding</u></a></li>
+<li><a href="https://fox-that.techidaily.com/revive-your-iphone-like-a-pro-itunes-free-solutions-to-factory-reset/"><u>Revive Your iPhone Like a Pro: ITunes-Free Solutions to Factory Reset</u></a></li>
+<li><a href="https://program-issues.techidaily.com/rogue-company-update-fixes-pc-game-crashing-improved-performance-guaranteed/"><u>Rogue Company Update Fixes PC Game Crashing: Improved Performance Guaranteed</u></a></li>
+<li><a href="https://win11.techidaily.com/secure-port-scanning-for-network-windows-safety/"><u>Secure Port Scanning for Network Windows Safety</u></a></li>
+<li><a href="https://fox-that.techidaily.com/smartphone-aid-discovering-the-best-ios-features-for-sight-challenges/"><u>Smartphone Aid: Discovering the Best iOS Features for Sight Challenges</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-9-warnings-that-reveal-water-intrusion-in-your-iphone-device/"><u>Top 9 Warnings That Reveal Water Intrusion in Your iPhone Device</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-the-pitfalls-why-generative-ai-may-not-be-ideal-for-messaging-applications/"><u>Understanding the Pitfalls: Why Generative AI May Not Be Ideal for Messaging Applications</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlocking-the-secrets-to-optimizing-iphone-amos-battery-efficiency-and-health-issues/"><u>Unlocking the Secrets to Optimizing iPhone Amo's Battery Efficiency and Health Issues</u></a></li>
 </ul></div>
 

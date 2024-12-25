@@ -1,7 +1,7 @@
 ---
 title: IPhone Contact App Error? Resolve It Now - Follow This 3-Point Fix Process
-date: 2024-08-15T12:02:40.055Z
-updated: 2024-08-16T12:02:40.055Z
+date: 2024-12-24T16:24:05.161Z
+updated: 2024-12-25T20:19:19.757Z
 tags:
   - iphone
   - apple
@@ -27,9 +27,17 @@ thumbnail: https://thmb.techidaily.com/24b4a5d68fd5e6bea75410f8f6c4c82cdd5bcbea3
 
 ![viewing contact list in phone app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/viewing-contact-list-in-phone-app.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![viewing my own contact photo & poster](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/viewing-my-own-contact-phot-poster.jpeg)
 
 ![tweaking contact poster settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/tweaking-contact-poster-settings.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![pop-up menu that appears when you tap share automatically](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/pop-up-menu-that-appears-when-you-tap-share-automatically.jpeg)
 
@@ -37,9 +45,6 @@ Close
 
  If someone you know has set up their Contact Poster and you can't see it, simply ask them to follow the steps above and ensure the feature is enabled!
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 2\. Delete and Recreate the Contact Poster
 
  If the above fix doesn't work, we recommend deleting your Contact Poster entirely and creating a new one. Here's how you can delete your current Contact Poster:
@@ -50,57 +55,42 @@ Close
 4. Finally,[create and customize a new Contact Poster](https://www.makeuseof.com/how-to-use-contact-posters-on-iphone/) for yourself and your contacts.
 
 ![viewing my own contact photo & poster](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/viewing-my-own-contact-phot-poster-1.jpeg)
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![viewing my created contact posters](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/viewing-my-created-contact-posters-1.jpeg)
 
 ![swiping up on my created contact poster and trash icon appears](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/swiping-up-on-my-created-contact-poster-and-trash-icon-appears.jpeg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![deleting my contact poster](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/deleting-my-contact-poster.jpeg)
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Close
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Disable Name and Photo Sharing and Restart Your iPhone
 
  Perhaps a software bug is the culprit behind this issue. Fortunately, the simplest way to fix software glitches like this one is restarting your iPhone. Before you restart your iPhone, head to**Phone > My Card > Contact Photo & Poster** and disable**Name & Photo Sharing** .
 
  Whether you're using a model with a notch or Dynamic Island or an old-school iPhone with a physical Home button,[restarting your iPhone, even if the buttons aren't working](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) , is pretty straightforward. After you turn your iPhone back on, follow the steps above to enable**Name & Photo Sharing** again.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ## It's Time to Get Your Contact Posters Back
 
  If none of the troubleshooting steps we mentioned above worked, you may be experiencing this issue due to an iOS bug. Fortunately, Apple periodically rolls out software updates to resolve well-known problems like this. While it isn't ideal, we recommend waiting it out until a new update is available. Alternatively, you can contact Apple Support for expert assistance.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -109,4 +99,24 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-gamings-finest-top-12-tycoon-games-ensuring-hours-of-fun/"><u>[New] 2024 Approved Gaming's Finest - Top 12 Tycoon Games Ensuring Hours of Fun</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-inclusive-iptv-service-distribution/"><u>[Updated] 2024 Approved Inclusive IPTV Service Distribution</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-top-10-innovations-for-text-visualization/"><u>[Updated] In 2024, Top 10 Innovations for Text Visualization</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-skyboxes-to-studio-walls-top-9-drone-software-showdowns/"><u>2024 Approved From Skyboxes to Studio Walls Top 9 Drone Software Showdowns</u></a></li>
+<li><a href="https://fox-that.techidaily.com/addressing-the-most-persistent-iphone-12-problems-with-proven-fixes-and-strategies/"><u>Addressing the Most Persistent iPhone 12 Problems with Proven Fixes and Strategies</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/americas-favorite-non-native-tongues/"><u>America's Favorite Non-Native Tongues</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721447353957-cant-link-up-with-vpn-on-ios-discover-these-7-quick-fixes/"><u>Can't Link Up with VPN on iOS? Discover These 7 Quick Fixes</u></a></li>
+<li><a href="https://facebook.techidaily.com/credibility-clash-who-wins-in-the-meta-blue-battle/"><u>Credibility Clash: Who Wins in the Meta-Blue Battle?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/effortless-transformation-of-mtsm2ts-videos-into-mov-no-cost-solution-for-macos-users-targeting-ios-platforms/"><u>Effortless Transformation of MTS/M2TS Videos Into MOV - No Cost Solution for macOS Users Targeting iOS Platforms</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721463007159-fix-the-mysterious-vanishing-of-app-icons-from-your-iphone-quick-solutions-inside/"><u>Fix the Mysterious Vanishing of App Icons From Your iPhone – Quick Solutions Inside</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721473258603-fixing-a-non-responsive-tablet-screen-discover-these-8-helpful-tips/"><u>Fixing a Non-Responsive Tablet Screen? Discover These 8 Helpful Tips!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/incorporating-portable-app-menus-for-windows-desktop/"><u>Incorporating Portable App Menus for Windows Desktop</u></a></li>
+<li><a href="https://win-able.techidaily.com/roblox-not-working-discover-the-6-fastest-fixes-to-get-back-into-gaming-updated/"><u>Roblox Not Working? Discover the 6 Fastest Fixes to Get Back Into Gaming (Updated )</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-iphone-silent-messages-top-15-fixes-for-restoring-text-tones/"><u>Solving iPhone Silent Messages: Top 15 Fixes for Restoring Text Tones</u></a></li>
+<li><a href="https://fox-that.techidaily.com/struggling-with-an-unresponsive-face-id-on-iphone-try-out-these-14-fixes/"><u>Struggling with an Unresponsive Face ID on iPhone? Try Out These 14 Fixes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-and-repair-non-receiving-calls-on-iphones-using-our-top-11-methods/"><u>Troubleshoot and Repair Non-Receiving Calls on iPhones Using Our Top 11 Methods</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-siri-suggestions-when-they-wont-appear-on-your-iphone/"><u>Troubleshooting Siri Suggestions When They Won't Appear on Your iPhone</u></a></li>
+</ul></div>
 

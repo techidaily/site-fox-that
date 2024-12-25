@@ -1,7 +1,7 @@
 ---
 title: "IPhone's Silent Treatment: How to Restore Functionality with These 7 Volume Troubleshooting Steps"
-date: 2024-08-15T12:03:07.173Z
-updated: 2024-08-16T12:03:07.173Z
+date: 2024-12-23T21:44:55.689Z
+updated: 2024-12-25T19:42:29.993Z
 tags:
   - iphone
   - apple
@@ -27,15 +27,12 @@ thumbnail: https://thmb.techidaily.com/61e18062b10a05e50558d2765f20eeedf900f4f14
  To check this, head to**Settings > Sounds & Haptics** and toggle on**Change with Buttons** . If this isn't enabled, this could be why your volume buttons aren't working. If it's already enabled, proceed to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Remove Your iPhone From Its Case
 
 ![iPhone in a leather case](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/iphone-in-a-leather-case.jpg)
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  iPhones are expensive, so it's likely that most of you use a case to protect them. In some instances, your case can interfere with your volume buttons. This is especially true with cases that have layers or have built-in screen protectors.
 
@@ -43,12 +40,13 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  It's also possible that prolonged use of a case can cause your volume buttons to get dirty. If that's the case, proceed to the next step.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Clean Your iPhone's Volume Buttons Using Alcohol
 
 ![iPhone Ring/Silent switch](https://thmb.techidaily.com/14af88c4727edfc68754682f8d9e5a16b4632ead51b56f451896cf5d83dd52e4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  We use our phones so much that dirt and grime can sometimes get under the buttons, especially when not using a case. So, press down on your buttons a few times to check if your buttons are stuck. You might need to clean them if they're stuck or don't seem to click down.
 
@@ -57,6 +55,10 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  Use the cotton swab to clean around your volume button the best you can. If you can push down on the buttons, doing so might help you clean it better. There's no need to overdo it with the alcohol, as it doesn't take much to work.
 
  After cleaning, wait a few minutes for the alcohol to dry. If your volume buttons are working now, great! If they are only working a bit better, that's a sign that they are still dirty, and you should keep cleaning them. It's worth [cleaning your entire iPhone if it's dirty](https://www.makeuseof.com/tag/clean-iphone-guide/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Reset or Restore Your iPhone
 
@@ -72,9 +74,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  In some cases, restoring your backup might make them not work again. If that's the case, it might have been an app you tried to download, or your backup could be corrupted. Sadly, this means starting from scratch unless you have an older backup you can try restoring.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ## 5\. Update Your iPhone
 
  Not updating your iPhone can also cause issues with your iPhone's volume buttons. Outdated iPhones might not work with the latest apps, and the volume controls might not work correctly as a result.
@@ -83,12 +82,13 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  You can update it by heading to**Settings > General > Software Update** . Here, you can see if a new iOS version is available. If you're using a beta version of iOS, it might be time to switch back to the stable public build and report this issue to Apple.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Control Your iPhone's Volume Without Using Volume Buttons
 
 ![iphone screen volume control](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/iphone-screen-volume-control.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you use apps like Spotify, you can control the volume within the app without a physical button. If all else fails, there are still ways to control your volume without using the buttons. The easiest way is to use the Control Center.
 
@@ -98,6 +98,10 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  If you have AirPods, you can say, "Hey Siri, turn up the volume." Other Bluetooth headphones typically have built-in volume controls, which you can use as well. This means that you won't have to keep going to your phone when you want to change the volume.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Control the Volume With AssistiveTouch
 
  If you're looking for another way to control the volume, consider using AssistiveTouch. You can set the AssistiveTouch button to open a menu to control your volume on the screen or have it either turn up or down when tapped.
@@ -105,9 +109,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  To use it, go to**Settings > Accessibility > Touch > AssistiveTouch** . Here, you can set your device to turn the volume down with one tap and turn it up with two taps.
 
 ![assistive touch iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/IMG_2959.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 
 ## 7\. Get Your Volume Buttons Repaired
 
@@ -120,8 +121,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  While repairing your iPhone's volume buttons out of pocket can be expensive, it's cheaper than buying a new phone. But if you don't want to pay this price, maybe it's [time to upgrade your iPhone](https://www.makeuseof.com/7-signs-its-time-to-upgrade-your-iphone/) .
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Will Apple Discontinue the Volume Button?
 
  Considering Apple has discontinued the Home button, headphone jack, and Ring/Silent switch, it's logical to assume that one day the volume buttons might disappear too. For now, the volume buttons remain—even the iPhone 15 models have volume buttons.
@@ -134,8 +136,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -143,4 +143,19 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-unveiling-the-ultimate-collection-of-42-premium-free-video-compression-tools/"><u>[New] In 2024, Unveiling the Ultimate Collection of 42 Premium Free Video Compression Tools</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/tep-by-step-instructions-producing-alluring-video-thumbnails-on-youtube/"><u>[New] Step-by-Step Instructions Producing Alluring Video Thumbnails on YouTube</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-from-mediocre-to-marvelous-an-exhaustive-facetune-analysis/"><u>[Updated] From Mediocre to Marvelous An Exhaustive Facetune Analysis</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-premier-silent-sound-converters/"><u>[Updated] In 2024, Premier Silent Sound Converters</u></a></li>
+<li><a href="https://fox-that.techidaily.com/11-ways-to-fix-when-your-airpods-are-undetected-by-apples-find-my/"><u>11 Ways to Fix When Your AirPods Are Undetected by Apple's 'Find My'</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/5-essential-ai-technologies-every-entrepreneur-must-explore/"><u>5 Essential AI Technologies Every Entrepreneur Must Explore</u></a></li>
+<li><a href="https://fox-that.techidaily.com/from-hush-to-boom-easy-fixes-for-an-iphones-audio-issues/"><u>From Hush to Boom: Easy Fixes for an iPhone’s Audio Issues</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-xiaomi-13t-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Xiaomi 13T | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/social-snippets-showcase-twitters-trending-threads/"><u>Social Snippets Showcase Twitter’s Trending Threads</u></a></li>
+<li><a href="https://fox-that.techidaily.com/struggling-with-a-non-functioning-contacts-app-on-your-iphone-discover-3-easy-solutions/"><u>Struggling with a Non-Functioning Contacts App on Your iPhone? Discover 3 Easy Solutions!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/urgent-update-how-essential-is-it-to-upgrade-to-ios-153-immediately/"><u>Urgent Update: How Essential Is It To Upgrade to iOS 15.3 Immediately?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/why-isnt-my-iphone-alarm-working-fix-it-now/"><u>Why Isn't My iPhone Alarm Working? Fix It Now</u></a></li>
+</ul></div>
 

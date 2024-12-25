@@ -1,7 +1,7 @@
 ---
 title: Getting Your iPhone Mic Back to Working Order - A Comprehensive Fix
-date: 2024-11-18T23:10:38.040Z
-updated: 2024-11-25T00:02:58.972Z
+date: 2024-12-23T17:38:39.810Z
+updated: 2024-12-25T18:29:35.847Z
 tags:
   - iphone
   - apple
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/bc4c1fafbeb0a4b8e3066f1ca761f451b6c08fbe8
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Find Out Which Microphone Isn't Working
@@ -35,10 +35,6 @@ thumbnail: https://thmb.techidaily.com/bc4c1fafbeb0a4b8e3066f1ca761f451b6c08fbe8
 
 ![iphone clean speaker](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/iphone-clean-speaker.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Brent Dirks/[MakeUseOf](https://www.makeuseof.com/author/brentdirks/)
 
  One of the simplest ways to fix your microphone is by cleaning it. If one of your microphones sounds muffled when you speak, you might just need to clean it. iPhone microphones are sensitive, and a small piece of dust or dander can affect how they sound.
@@ -48,7 +44,7 @@ thumbnail: https://thmb.techidaily.com/bc4c1fafbeb0a4b8e3066f1ca761f451b6c08fbe8
  Isopropyl alcohol breaks up grime and dries fast, so it won't damage your iPhone. Try using the highest percentage of isopropyl alcohol you can find. While you're at it,[clean your entire iPhone thoroughly](https://www.makeuseof.com/tag/clean-iphone-guide/) if it's not in a good shape.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Disconnect From Bluetooth Devices
@@ -68,12 +64,16 @@ Close
  To grant an app permission, head to**Settings** and select the affected app. Now, make sure the**Microphone** toggle is enabled.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Use an External Microphone or AirPods
 
 ![A guy holding AirPods Pro in charging case showing orange light](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/02/a-guy-holding-airpods-pro-in-charging-case-showing-orange-light.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Hamlin Rozario/[MakeUseOf](https://www.makeuseof.com/author/hamlin-rozario/)
 
@@ -82,7 +82,7 @@ Close
  Most headphones, including Apple's AirPods, have built-in microphones. Since they connect via your iPhone's Lightning/USB-C port or Bluetooth, you won't have to rely on the built-in microphones for most tasks.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Other Generic Fixes
@@ -110,22 +110,18 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-launching-effective-charity-challenges-and-contests-online/"><u>[New] Launching Effective Charity Challenges and Contests Online</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-mastering-the-art-of-friendly-pins-in-snapchat/"><u>[New] Mastering the Art of Friendly Pins in Snapchat</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/avigating-the-process-of-clearing-up-browsers-watched-videos-for-2024/"><u>[New] Navigating the Process of Clearing Up Browser's Watched Videos for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-structuring-stimulating-podcast-sneak-peeks/"><u>[New] Structuring Stimulating Podcast Sneak Peeks</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-instagrams-hidden-details-uncovering-story-viewer-truths/"><u>2024 Approved Instagram's Hidden Details Uncovering Story Viewer Truths</u></a></li>
-<li><a href="https://fox-that.techidaily.com/beating-the-heat-on-idevices-understanding-and-fixing-excessive-warmth/"><u>Beating the Heat on iDevices: Understanding and Fixing Excessive Warmth</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/critical-considerations-before-investing-in-a-wearable-exerceband-device/"><u>Critical Considerations Before Investing in a Wearable Exerceband Device</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fixing-connection-issues-between-your-iphone-and-computer-quick-guide/"><u>Fixing Connection Issues Between Your iPhone and Computer - Quick Guide</u></a></li>
-<li><a href="https://fox-that.techidaily.com/hear-it-once-more-resolve-your-iphones-sound-problems-here/"><u>Hear It Once More: Resolve Your iPhone's Sound Problems Here</u></a></li>
-<li><a href="https://fox-that.techidaily.com/identifying-and-tackling-your-iphones-speed-issues-6-common-culprits/"><u>Identifying & Tackling Your iPhone's Speed Issues: 6 Common Culprits</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-best-windows-sketchpad-selections-cost-free-and-premium-plans/"><u>In 2024, Best Windows Sketchpad Selections Cost-Free & Premium Plans</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-perfecting-space-and-system-the-ultimate-preparation-guide/"><u>In 2024, Perfecting Space & System The Ultimate Preparation Guide</u></a></li>
-<li><a href="https://fox-that.techidaily.com/top-7-tips-for-correcting-a-fuzzy-image-on-your-iphone-lens/"><u>Top 7 Tips for Correcting a Fuzzy Image on Your iPhone Lens</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-iphone-why-you-cant-get-texts-from-android-devices-and-solutions/"><u>Troubleshooting iPhone: Why You Can't Get Texts From Android Devices and Solutions</u></a></li>
-<li><a href="https://fox-that.techidaily.com/uncovering-the-reasons-behind-your-find-my-iphone-not-showing-online-and-solutions/"><u>Uncovering the Reasons Behind Your 'Find My iPhone' Not Showing Online - And Solutions</u></a></li>
-<li><a href="https://fox-that.techidaily.com/understanding-iphones-hidden-photo-storage-solutions-for-items-missing-post-deletion/"><u>Understanding iPhone's Hidden Photo Storage: Solutions for Items Missing Post-Deletion</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/unlock-your-lava-agni-2-5gs-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Lava Agni 2 5Gs Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-navigating-chromes-pip-feature-across-devices/"><u>[New] Navigating Chrome's PIP Feature Across Devices</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-srt-decoding-for-windows-and-mac-users/"><u>[New] SRT Decoding for Windows & Mac Users</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-decibel-documentation-system-and-speech/"><u>[Updated] In 2024, Decibel Documentation System and Speech</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-zombie-mayhem-showdown-selecting-the-finest-games/"><u>[Updated] In 2024, Zombie Mayhem Showdown Selecting the Finest Games</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-the-best-approach-to-enhancing-your-4k-vision-with-a-new-lens/"><u>[Updated] The Best Approach to Enhancing Your 4K Vision with a New Lens</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/best-3-poco-m6-pro-4g-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Poco M6 Pro 4G Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-still-using-pattern-locks-with-realme-11-pro-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Realme 11 Pro? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-users-how-to-deal-with-slow-message-alerts-uncover-9-tips-for-faster-texting/"><u>Iphone Users: How to Deal With Slow Message Alerts - Uncover 9 Tips for Faster Texting</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphoneipad-overheating-understand-the-reasons-behind-it-and-fix-them-now/"><u>IPhone/iPad Overheating? Understand the Reasons Behind It & Fix Them Now!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/mastering-iphone-troubleshooting-with-help-from-apples-dedicated-support-app/"><u>Mastering iPhone Troubleshooting with Help From Apple's Dedicated Support App</u></a></li>
+<li><a href="https://fox-that.techidaily.com/struggling-with-delayed-texts-on-iphone-here-are-9-proven-ways-to-get-them-on-time/"><u>Struggling with Delayed Texts on iPhone? Here Are 9 Proven Ways to Get Them On Time</u></a></li>
+<li><a href="https://fox-that.techidaily.com/the-ultimate-cheat-sheet-for-eliminating-ghost-touch-glitch-in-iphones-top-10-tips-and-solutions/"><u>The Ultimate Cheat Sheet for Eliminating Ghost Touch Glitch in iPhones: Top 10 Tips and Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-9-frequent-issues-with-icloud-on-ios-devices-and-solutions/"><u>Top 9 Frequent Issues with iCloud on iOS Devices & Solutions</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Remedies for iPhone Proximity Recognition Failure: A Step-by-Step Guide"
-date: 2024-12-13T01:33:48.127Z
-updated: 2024-12-16T16:27:28.923Z
+date: 2024-12-21T21:09:42.009Z
+updated: 2024-12-25T17:23:02.783Z
 tags:
   - iphone
   - apple
@@ -23,13 +23,13 @@ thumbnail: https://thmb.techidaily.com/b993525d5116d4df453998a70a05051f652313974
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Test the Proximity Sensor on an iPhone
 
 ![A gray iPhone 6 on a woman's ear](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/a-gray-iphone-6-on-a-woman-s-ear.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The iPhone's proximity sensor uses infrared light from an emitter at the top of your screen. The sensor measures how long it takes for the rays to reflect off a surface to determine the distance.
 
@@ -41,10 +41,6 @@ Here are some things you could do to check if it's working:
 * If you don't want to make a call, you could send a voice note to someone on iMessage or WhatsApp and raise the phone to your ear to see if the screen goes off.
 
  Your phone's display should go off In both scenarios. If they don't, you should consult the steps below for troubleshooting.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Steps to Take if Your iPhone's Proximity Sensor Isn't Working
 
@@ -60,10 +56,6 @@ Here are some things you could do to check if it's working:
 
  Be careful not to use rubbing alcohol, window cleaners, vinegar, or any similar grease-cutting products, as they could eat away your screen's coating.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Restart the Target Application or Your iPhone
 
  If you notice that your proximity sensor is still not working after cleaning your screen, it could be the app (like WhatsApp or the Phone app) or iOS misbehaving.
@@ -71,7 +63,7 @@ Here are some things you could do to check if it's working:
  In this case, you should restart the app first. Merely returning to the Home Screen isn't enough; you must open the App Switcher (learn how to do so in our [iPhone navigation basics](https://www.makeuseof.com/how-to-go-back-get-home-switch-apps-iphone/) guide) and swipe up on the target app's preview. Open the app again and try to use the proximity sensor. You can also try [restarting your iPhone](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) for good measure.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Make Sure Your iPhone Is Up to Date
@@ -82,21 +74,29 @@ Here are some things you could do to check if it's working:
 
 ![iPhone searching for updates in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-searching-for-updates-in-settings.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Software update information on iOS for iOS 16.6](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/software-update-information-on-ios-for-ios-16-6.jpeg)
 
 ![Update terms and conditions on iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/update-terms-and-conditions-on-ios.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
  Your phone will restart a couple of times, but it will stabilize when it's finished. Test the proximity sensor again using our steps above.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 4\. Remove the Screen Protector
 
 ![man applying screen protector to smartphone feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/man-applying-screen-protector-to-smartphone-feature.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Image Credit: Nor Gal/[Shutterstock](https://www.shutterstock.com/image-photo/man-replacing-broken-tempered-glass-screen-1106925758)
 
@@ -142,24 +142,19 @@ Here's a brief rundown of how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-how-to-fix-blurry-facebook-videos-on-iphoneandroidchrome/"><u>2024 Approved How to Fix Blurry Facebook Videos on iPhone/Android/Chrome?</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-mastering-the-art-of-youtube-to-webm-conversion/"><u>2024 Approved Mastering the Art of YouTube-to-WebM Conversion</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/3-effective-ways-to-bypass-activation-lock-on-apple-iphone-7-by-drfone-ios/"><u>3 Effective Ways to Bypass Activation Lock on Apple iPhone 7</u></a></li>
-<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Oppo Reno 10 5G | Dr.fone</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/de-to-gathering-gold-from-guided-goods-gazes-online/"><u>A Guide to Gathering Gold From Guided Goods' Gazes Online</u></a></li>
-<li><a href="https://fox-that.techidaily.com/comprehensive-fix-for-mm-2-error-when-your-phone-shows-sim-not-provisioned-a-step-by-step-guide/"><u>Comprehensive Fix for 'MM 2 Error' When Your Phone Shows 'SIM Not Provisioned': A Step-by-Step Guide</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/edge-softening-secrets-in-photo-editing-software/"><u>Edge-Softening Secrets in Photo Editing Software</u></a></li>
-<li><a href="https://fox-that.techidaily.com/halt-your-ipads-buzz-tips-for-avoiding-interruptions-when-your-iphone-is-calling/"><u>Halt Your iPad's Buzz: Tips for Avoiding Interruptions When Your iPhone Is Calling</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-nokia-g42-5g-is-unlocked-by-drfone-android/"><u>How To Check if Your Nokia G42 5G Is Unlocked</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-nubia-red-magic-9-pro-drfone-by-drfone-virtual-android/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On Nubia Red Magic 9 Pro | Dr.fone</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-best-10-free-and-best-text-to-speech-generators/"><u>New Best 10 Free and Best Text-to-Speech Generators</u></a></li>
-<li><a href="https://fox-that.techidaily.com/nine-proven-methods-to-ensure-smooth-image-loading-with-safari-on-your-iphone/"><u>Nine Proven Methods to Ensure Smooth Image Loading with Safari on Your iPhone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/overcoming-icloud-photo-sync-problems-a-step-by-step-approach-for-iphone-users/"><u>Overcoming iCloud Photo Sync Problems: A Step-by-Step Approach for iPhone Users</u></a></li>
-<li><a href="https://fox-that.techidaily.com/reset-your-iphone-independently-guide-to-bypassing-itunes-for-a-fresh-start/"><u>Reset Your iPhone Independently - Guide to Bypassing iTunes for a Fresh Start</u></a></li>
-<li><a href="https://windows11.techidaily.com/tackling-update-glitches-the-case-of-error-codes-0xc1900101/"><u>Tackling Update Glitches: The Case of Error Codes 0xC1900101</u></a></li>
-<li><a href="https://fox-that.techidaily.com/the-digital-trail-how-to-recover-and-find-deleted-facetime-photos/"><u>The Digital Trail: How to Recover and Find Deleted FaceTime Photos</u></a></li>
-<li><a href="https://fox-that.techidaily.com/the-ultimate-list-of-common-iphone-display-issues-quick-fixes-inside/"><u>The Ultimate List of Common iPhone Display Issues - Quick Fixes Inside!</u></a></li>
-<li><a href="https://fox-that.techidaily.com/top-12-common-problems-with-the-iphone-12-series-and-effective-solutions/"><u>Top 12 Common Problems with the iPhone 12 Series & Effective Solutions</u></a></li>
-<li><a href="https://fox-that.techidaily.com/top-7-solutions-why-your-iphone-wont-deliver-messages/"><u>Top 7 Solutions: Why Your iPhone Won't Deliver Messages</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-native-os-capture-utility-chrome-edition-for-2024/"><u>[New] Native OS Capture Utility Chrome Edition for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/1716069276122-updated-2024-approved-top-tickles-for-young-game-fans/"><u>[Updated] 2024 Approved Top Tickles for Young Game Fans!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-xiaomi-redmi-k70-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Xiaomi Redmi K70 | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/essential-troubleshooting-steps-why-your-iphone-might-ignore-calls-and-how-to-solve-it/"><u>Essential Troubleshooting Steps: Why Your iPhone Might Ignore Calls & How To Solve It</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-the-ultimate-vpn-solutions-for-enhanced-viewing-of-tokyo-2021-olympics-expert-review-on-zdnet/"><u>Exploring The Ultimate VPN Solutions For Enhanced Viewing of Tokyo 2021 Olympics | Expert Review on ZDNet</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-samsung-galaxy-a23-5g-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Samsung Galaxy A23 5G?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/instagram-sluggish-here-are-six-proven-tips-to-speed-up-on-any-device/"><u>Instagram Sluggish? Here Are Six Proven Tips to Speed Up on Any Device</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-dnd-mode-hacks-ensuring-important-texts-and-calls-dont-miss-out/"><u>IPhone DND Mode Hacks: Ensuring Important Texts and Calls Don't Miss Out</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/the-pack-with-these-top-7-android-tools-against-ads-for-2024/"><u>Lead the Pack with These Top 7 Android Tools Against Ads for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcome-iphone-capture-failures-expert-advice-on-tackling-common-image-device-issues/"><u>Overcome iPhone Capture Failures: Expert Advice on Tackling Common Image Device Issues</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721479643045-overcome-iphone-display-challenges-with-easy-tips-for-rotating-between-modes/"><u>Overcome iPhone Display Challenges with Easy Tips for Rotating Between Modes</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-non-functional-ccleaner-in-win11/"><u>Troubleshooting Non-Functional CCleaner in Win11</u></a></li>
+<li><a href="https://fox-that.techidaily.com/ultimate-guide-solving-safari-browser-issues-on-your-iphone/"><u>Ultimate Guide: Solving Safari Browser Issues on Your iPhone</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-free-msnbc-live-online-stream-for-the-latest-shows-for-all-devices-for-2024/"><u>Updated Free MSNBC Live Online Stream for the Latest Shows for All Devices for 2024</u></a></li>
 </ul></div>
 

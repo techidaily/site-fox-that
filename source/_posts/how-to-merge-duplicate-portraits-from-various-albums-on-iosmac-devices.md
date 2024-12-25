@@ -1,7 +1,7 @@
 ---
 title: How to Merge Duplicate Portraits From Various Albums on iOS/Mac Devices
-date: 2024-12-14T17:36:31.274Z
-updated: 2024-12-17T04:02:23.052Z
+date: 2024-12-24T18:37:06.977Z
+updated: 2024-12-25T20:31:24.915Z
 tags:
   - iphone
   - apple
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/1ed4f091728645649c840ae907d2be87aba494a53
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Merge Multiple People in Photos on an iPhone or iPad
 
  Luckily, it's easy to fix duplicate people albums in Photos by merging them together. You can even merge People albums for totally different people into one, if you want to create one album for your entire family or group of friends. Follow these steps to merge different People albums into one on an iPhone or iPad:
@@ -41,24 +37,24 @@ thumbnail: https://thmb.techidaily.com/1ed4f091728645649c840ae907d2be87aba494a53
 ![select icon in top right](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/select-icon-in-top-right.PNG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![select profiles](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/select-profiles.PNG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![merge people albums](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/merge-people-albums.PNG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Close
 
  Related:[Tips That Will Help You Master the People Album in Photos](https://www.makeuseof.com/tips-to-master-people-album-photos-iphone/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Merge Multiple People in Photos on a Mac
 
@@ -75,10 +71,14 @@ Close
 ![Merge 2 People option in Photos app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/Merge-2-People-option-in-Photos-app.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Read More:[Ways to Fix iCloud Photos Not Syncing on Your Mac](http://www.makeuseof.com/how-to-fix-icloud-photos-not-syncing-mac/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Sort Through Your Photos by People
 
@@ -101,22 +101,19 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-leading-the-way-in-facebooks-video-exploration/"><u>[Updated] 2024 Approved Leading the Way in Facebook’s Video Exploration</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-how-to-watch-instagram-live-anonymously-for-2024/"><u>[Updated] How to Watch Instagram Live Anonymously for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-instantgrabbed-extendedcapture-for-2024/"><u>[Updated] InstantGrabbed ExtendedCapture for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-unlocking-channel-mastery-with-studio-power-ups/"><u>2024 Approved Unlocking Channel Mastery with Studio Power-Ups</u></a></li>
-<li><a href="https://fox-that.techidaily.com/best-practices-for-organizing-and-editing-photos-on-the-iphone-a-comprehensive-guide-to-solving-common-problems/"><u>Best Practices for Organizing & Editing Photos on the iPhone: A Comprehensive Guide to Solving Common Problems</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fixing-a-non-responsive-proximity-sensor-on-an-iphone-a-step-by-step-guide/"><u>Fixing a Non-Responsive Proximity Sensor on an iPhone: A Step-by-Step Guide</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/flashfreeze-video-interruption-tip-for-2024/"><u>FlashFreeze Video Interruption Tip for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-excessive-disk-consumption-caused-by-compatibility-telemetry-in-windows-11/"><u>How to Fix Excessive Disk Consumption Caused by Compatibility Telemetry in Windows 11</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-mov-files-of-tecno-using-video-repair-utility-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and MOV files of Tecno using Video Repair Utility on Mac?</u></a></li>
-<li><a href="https://fox-that.techidaily.com/icloud-backup-issues-for-whatsapp-users-easy-fixes-inside/"><u>ICloud Backup Issues for WhatsApp Users: Easy Fixes Inside!</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-increase-viewership-fairly-insights-for-video-marketers/"><u>In 2024, Increase Viewership Fairly Insights for Video Marketers</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/new-guide-how-to-check-icloud-activation-lock-status-from-your-apple-iphone-7-by-drfone-ios/"><u>New Guide How To Check iCloud Activation Lock Status From Your Apple iPhone 7</u></a></li>
-<li><a href="https://fox-that.techidaily.com/overcoming-safari-problems-on-the-iphone-a-10-step-guide/"><u>Overcoming Safari Problems on the iPhone: A 10-Step Guide</u></a></li>
-<li><a href="https://fox-that.techidaily.com/six-effective-ways-to-resolve-iphone-aol-email-issues/"><u>Six Effective Ways to Resolve iPhone AOL Email Issues</u></a></li>
-<li><a href="https://fox-that.techidaily.com/top-10-explanations-for-auto-dimming-displays-on-iphones/"><u>Top 10 Explanations for Auto-Dimming Displays on iPhones</u></a></li>
-<li><a href="https://fox-that.techidaily.com/top-7-causes-of-sluggish-wi-fi-speeds-on-mobile-devices/"><u>Top 7 Causes of Sluggish Wi-Fi Speeds on Mobile Devices</u></a></li>
-<li><a href="https://fox-that.techidaily.com/unable-to-update-device-here-are-9-fixes-for-iphone-and-ipad-issues/"><u>Unable to Update Device? Here Are 9 Fixes for iPhone and iPad Issues</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-beginners-tutorial-windows-movie-maker-6-installation/"><u>[New] Beginner's Tutorial Windows Movie Maker 6 Installation</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-decoding-instagrams-reels-and-stories-differences/"><u>[New] Decoding Instagram's Reels and Stories Differences</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-the-subscriber-youtube-connection-maximizing-engagement/"><u>[New] The Subscriber-YouTube Connection Maximizing Engagement</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-unlocking-revenue-how-to-profit-from-youtube-short-videos/"><u>[New] Unlocking Revenue How to Profit From YouTube Short Videos</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-secrets-of-effective-iptv-broadcasting-capture/"><u>[Updated] In 2024, Secrets of Effective IPTV Broadcasting Capture</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-uncomplicated-guide-to-mobile-device-live-captures/"><u>[Updated] Uncomplicated Guide to Mobile Device Live Captures</u></a></li>
+<li><a href="https://fox-that.techidaily.com/crack-the-code-of-constant-connection-six-tips-for-airpods-multi-device-management/"><u>Crack the Code of Constant Connection: Six Tips for AirPods Multi-Device Management</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-secure-your-online-information-from-openais-automated-scrapers/"><u>How to Secure Your Online Information From OpenAI's Automated Scrapers</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-troubleshoot-when-your-iphone-wont-sync-with-windows-or-mac/"><u>How To Troubleshoot When Your iPhone Won't Sync With Windows Or Mac</u></a></li>
+<li><a href="https://fox-that.techidaily.com/stop-waiting-solve-airdrop-failures-fast-with-our-top-16-troubleshooting-tips/"><u>Stop Waiting: Solve AirDrop Failures Fast With Our Top 16 Troubleshooting Tips</u></a></li>
+<li><a href="https://win11.techidaily.com/top-2024-video-audio-editing-software-and-apps-recommendations/"><u>Top 2024 Video Audio Editing Software & Apps - Recommendations</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721476707139-troubleshoot-your-iphones-dictation-problem-with-these-5-quick-fixes/"><u>Troubleshoot Your iPhone's Dictation Problem with These 5 Quick Fixes!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-a-non-responsive-iphone-home-button-top-five-remedies/"><u>Troubleshooting a Non-Responsive iPhone Home Button: Top Five Remedies</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-iphone-communication-glitches-with-10-proven-fixes/"><u>Troubleshooting iPhone Communication Glitches with 10 Proven Fixes</u></a></li>
 </ul></div>
 

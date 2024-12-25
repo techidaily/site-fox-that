@@ -1,7 +1,7 @@
 ---
 title: "Expert Tips for Addressing iPhone Dictation Failures: A 5-Step Approach"
-date: 2024-08-15T12:03:54.450Z
-updated: 2024-08-16T12:03:54.450Z
+date: 2024-12-23T20:23:05.381Z
+updated: 2024-12-25T22:17:43.132Z
 tags:
   - iphone
   - apple
@@ -35,8 +35,9 @@ thumbnail: https://thmb.techidaily.com/412d065764cb0ba50733f600b7a0dabb6c2d4fd11
 ![iphone keyboards setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/iphone-keyboards-setting.jpeg)
 
 ![enable dictation confirmation popup on iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/enable-dictation-confirmation-popup-on-iphone.PNG)
+
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Close
@@ -44,20 +45,11 @@ Close
  If dictation is already enabled, but the icon is still missing, try disabling and re-enabling the feature. In the same**Keyboards** setting page, toggle off**Enable Dictation** , tap**Turn Off Dictation** to confirm, then toggle on**Enable Dictation** again.
 
 ![iphone keyboard dictation setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/iphone-keyboard-dictation-setting.PNG)
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 
 ![turn off dictation confirmation popup on iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/turn-off-dictation-confirmation-popup-on-iphone.PNG)
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Close
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Add the Dictation Language to Your iPhone Keyboard
 
  Let's say you typically type in English on your iPhone but want to dictate something in Chinese. The iPhone's dictation feature won't recognize what you're saying if Chinese hasn't been added to the keyboard yet.
@@ -65,34 +57,40 @@ Close
  In this case, go to **Settings > General > Keyboard > Keyboards > Add New Keyboard** . From the list, choose**Chinese** (or your preferred language), select the keyboard input method, and tap**Done** .
 
 ![expanded iphone keyboards setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/expanded-iphone-keyboards-setting.PNG)
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![iphone keyboard language list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/iphone-keyboard-language-list.PNG)
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 
 ![keyboard language list on iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/keyboard-language-list-on-iphone.PNG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
  If you intend to dictate text in a Chinese dialect, there's an additional setting you need to do. In the**Keyboards** setting page, go to**Dictation Languages** . From the list, select one of the language variations in addition to**Mandarin** .
 
 ![iphone keyboard dictation setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/iphone-keyboard-dictation-setting.PNG)
+
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![iphone dictation languages setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/iphone-dictation-languages-setting.PNG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
  Now, when it comes to dictating your text, remember to switch the dictation language too. Tap the**microphone** icon, tap**EN** (which stands for English), and choose your new preferred dictation language.
 
 ![dictation button in iphone notes app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/dictation-button-in-iphone-notes-app.PNG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![change dictation language in iphone notes app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/change-dictation-language-in-iphone-notes-app.PNG)
 
@@ -101,8 +99,9 @@ Close
  Dictation isn't available for all languages. You can check [Apple's site](http://www.apple.com/ios/feature-availability/#quicktype-keyboard-dictation) for a list of dictation languages available for the iPhone.
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Allow Siri & Dictation in Your iPhone's Screen Time Settings
 
  If dictation still isn't working on your iPhone, it may be due to your iPhone's Screen Time settings, which can restrict the dictation feature on your device.
@@ -110,11 +109,12 @@ Close
  To check this, go to **Settings > Screen Time > Content & Privacy Restrictions > Allowed Apps** . If**Siri & Dictation** is toggled off, toggle it on so your iPhone will let you use the dictation function again.
 
 ![iphone screen time setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/iphone-screen-time-setting.PNG)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![iphone content and privacy restrictions setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/iphone-content-and-privacy-restrictions-setting.PNG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![allowed apps on iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/allowed-apps-on-iphone.PNG)
 
@@ -139,16 +139,14 @@ Close
  Go to **Settings > General > Transfer or Reset iPhone > Reset > Reset All Settings** . The process takes some time, so it's best to attempt it only when you don't need to use your iPhone for a while.
 
 ![General settings showing Transfer or Reset option in iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/general-settings-showing-transfer-or-reset-option-in-ios.jpeg)
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 
 ![transfer or reset iphone settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_7384.JPEG)
 
-![transfer or reset iphone settings confirmation window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_7385.JPEG)
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![transfer or reset iphone settings confirmation window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_7385.JPEG)
 
 Close
 
@@ -162,8 +160,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -171,4 +167,20 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-perfect-plays-in-a-minute-tiktok-templates-for-stellar-videos/"><u>[New] 2024 Approved Perfect Plays in a Minute TikTok Templates for Stellar Videos</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-determining-the-best-action-camera-gopro-max-or-hero-11-in-2024/"><u>[New] Determining the Best Action Camera GoPro Max or Hero 11, In 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-from-vision-to-reality-benqs-masterpiece-the-bl2711u-monitor-review/"><u>[New] From Vision to Reality BenQ’s Masterpiece, the BL2711U Monitor Review</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-simplified-strategies-to-acquire-and-download-vimeo-videos/"><u>[New] Simplified Strategies to Acquire & Download Vimeo Videos</u></a></li>
+<li><a href="https://fox-that.techidaily.com/cant-get-new-apps-on-your-iphone-here-are-10-methods-to-resolve-it-now/"><u>Can't Get New Apps on Your iPhone? Here Are 10 Methods to Resolve It Now</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-guide-to-the-kensun-compact-tire-pump-robustness-meets-convenience/"><u>Comprehensive Guide to the Kensun Compact Tire Pump – Robustness Meets Convenience</u></a></li>
+<li><a href="https://fox-that.techidaily.com/conquering-your-camera-roll-top-8-troubleshooting-tactics-for-iphone-photographers/"><u>Conquering Your Camera Roll: Top 8 Troubleshooting Tactics for iPhone Photographers</u></a></li>
+<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-itel-a05s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Itel A05s | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/guide-keeping-your-airpods-tethered-to-one-device-at-a-time/"><u>Guide: Keeping Your AirPods Tethered to One Device at a Time</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-transforming-footage-a-guide-to-gopro-color-tweaks/"><u>In 2024, Transforming Footage A Guide to GoPro Color Tweaks</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/optimal-tag-selection-elevate-your-videos-online-presence-for-2024/"><u>Optimal Tag Selection Elevate Your Video's Online Presence for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/restore-ios-16s-immersive-experience-mastering-depth-effect-restoration-on-your-lock-screen-here-are-7-fixes-to-get-you-started/"><u>Restore iOS 16'S Immersive Experience: Mastering Depth Effect Restoration on Your Lock Screen Here Are 7 Fixes to Get You Started</u></a></li>
+<li><a href="https://fox-that.techidaily.com/reviving-your-aol-ios-application-6-strategies-to-restore-functionality/"><u>Reviving Your AOL iOS Application: 6 Strategies to Restore Functionality</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Deactivating Apple's Do Not Disturb: A Guide to Getting Calls/Texts Back"
-date: 2024-12-15T17:17:44.449Z
-updated: 2024-12-17T02:02:34.781Z
+date: 2024-12-18T21:20:15.779Z
+updated: 2024-12-25T20:33:47.084Z
 tags:
   - iphone
   - apple
@@ -27,15 +27,15 @@ thumbnail: https://thmb.techidaily.com/5397c89a05d7c549e3c941ac0bcf9ef244a3e9feb
 
 ![do not disturb and personal mode in iphone control center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/1-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Although Apple started with Do Not Disturb, the feature has since been expanded to Focus mode. Focus includes Do Not Disturb, Personal, Work, and so on. You can [set up different Focus modes](https://www.makeuseof.com/focus-mode-ideas-to-set-up-in-ios/) and customize them for different purposes.
 
  If you accidentally enabled**Work** mode instead of**Do Not Disturb** or**Personal** mode on your iPhone, you will certainly receive texts and calls from work colleagues because the latter wasn't made to deter people from your workplace.
 
  Therefore, before proceeding with the other suggestions in the list, access your iPhone's**Control Center** and check that you have the correct Focus mode turned on to match your activity.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Review Your Allowed Apps
 
@@ -51,6 +51,10 @@ thumbnail: https://thmb.techidaily.com/5397c89a05d7c549e3c941ac0bcf9ef244a3e9feb
 
 ![allowed apps on do not disturb mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/dnd-allowed-apps.JPEG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Close
 
 ## 3\. Disable Time-Sensitive Notifications
@@ -63,6 +67,10 @@ Close
 
  Alternatively, you can tap**Turn Off** for a specific app if you see its notifications pop up on your Lock Screen.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Change Settings for Incoming Calls
 
  When you first enable Do Not Disturb mode on your iPhone,**Favorites** tends to be the default setting for the incoming calls allowed. If you previously added quite a few family members and friends to your Favorites list, this may be why your iPhone calls are coming through even after you enabled Do Not Disturb, as if it's not working.
@@ -71,16 +79,16 @@ Close
 
 ![do not disturb settings on iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/do-not-disturb-settings.JPEG)
 
-![call settings for do not disturb mode on iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/dnd-favorite-calls.JPEG)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![call settings for do not disturb mode on iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/dnd-favorite-calls.JPEG)
 
 ![change calls allowed on iphone do not disturb mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/dnd-allowed-calls.JPEG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Close
@@ -93,14 +101,6 @@ Close
 
 ![turn off allow repeated calls for iphone do not disturb mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/2-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Turn Off or Hide Your Focus Status
 
  When you turn on Do Not Disturb, you can also share your Focus status to let your contacts know that you're temporarily unavailable.
@@ -108,10 +108,6 @@ Close
  While it's a thoughtful feature that helps you inform others, a downside is its accompanying Notify Anyway option, which lets people override your Do Not Disturb mode. This causes text messages and calls to come through your iPhone.
 
  To stop receiving texts and calls in this manner, you can [turn off your Focus status](https://www.makeuseof.com/how-to-stop-notify-anyway-focus-mode-iphone/) or [hide your Focus status from certain iPhone contacts](https://www.makeuseof.com/how-to-hide-focus-status-from-certain-contacts-iphone/) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Review Your Do Not Disturb Schedule
 
@@ -123,15 +119,19 @@ Close
 
 ![schedule for iphone do not disturb mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/dnd-schedule.JPEG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![automate schedule for iphone do not disturb mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/dnd-schedule-2.JPEG)
 
 ![set time for iphone do not disturb mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/dnd-change-schedule.JPEG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Close
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Restart Your iPhone and Update iOS
 
@@ -162,20 +162,24 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-6plus-software-choices-download-youtube-music-as-mp3-for-iphone-users/"><u>[New] In 2024, 6+ Software Choices Download YouTube Music as MP3 for iPhone Users</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-future-fortunes-for-virtual-game-masters/"><u>[Updated] 2024 Approved Future Fortunes for Virtual Game Masters</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-the-insiders-guide-to-captivating-youtube-headlines-for-2024/"><u>[Updated] The Insider's Guide to Captivating YouTube Headlines for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-superior-websites-to-ditch-twitter-completely/"><u>2024 Approved Superior Websites to Ditch Twitter Completely</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fixing-spotify-app-crashes-on-ios-a-guide-for-iphone-users/"><u>Fixing Spotify App Crashes on iOS: A Guide for iPhone Users</u></a></li>
-<li><a href="https://win-best.techidaily.com/free-reliable-data-protection-tools-including-preboot-execution-environment-winpe-support/"><u>Free Reliable Data Protection Tools Including Preboot Execution Environment (WinPE) Support</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/great-value-in-wearable-tech-a-thorough-review-of-the-fitbit-versa-lites-features-and-performance/"><u>Great Value in Wearable Tech: A Thorough Review of the Fitbit Versa Lite's Features and Performance</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-harnessing-lut-power-for-free-high-quality-colorization/"><u>In 2024, Harnessing LUT Power for Free, High-Quality Colorization</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solve-your-iphone-screen-brightness-issues-7-helpful-tips-inside/"><u>Solve Your iPhone Screen Brightness Issues: 7 Helpful Tips Inside</u></a></li>
-<li><a href="https://fox-that.techidaily.com/the-ultimate-tutorial-on-entering-recovery-mode-with-your-ipad/"><u>The Ultimate Tutorial on Entering Recovery Mode with Your iPad</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-iphone-power-button-top-4-fixes-for-when-it-fails/"><u>Troubleshooting iPhone Power Button: Top 4 Fixes for When It Fails</u></a></li>
-<li><a href="https://fox-that.techidaily.com/unable-to-locate-your-iphone-application-discover-steps-to-retrieve-lost-apps/"><u>Unable to Locate Your iPhone Application? Discover Steps to Retrieve Lost Apps</u></a></li>
-<li><a href="https://fox-that.techidaily.com/unlock-the-power-of-connectivity-10-ways-to-solve-iphone-calling-difficulties/"><u>Unlock the Power of Connectivity: 10 Ways to Solve iPhone Calling Difficulties</u></a></li>
-<li><a href="https://fox-that.techidaily.com/unlocking-grayed-out-icloud-on-ios-devices-a-4-step-guide/"><u>Unlocking Grayed-Out iCloud on iOS Devices: A 4-Step Guide</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/count-value-on-youtubes-earnings-graph/"><u>View Count Value on YouTube's Earnings Graph</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-100-hysterical-moments-on-tiktok/"><u>[New] 2024 Approved 100 Hysterical Moments on TikTok</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-cutting-edge-tools-for-igtv-content-creation-and-editing/"><u>[New] 2024 Approved Cutting-Edge Tools for IGTV Content Creation and Editing</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-peculiar-playground-a-curated-list-of-tiktok-games/"><u>[New] 2024 Approved Peculiar Playground A Curated List of TikTok Games</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-snap-it-up-15-powerful-posting-techniques-revealed/"><u>[Updated] 2024 Approved Snap It Up! 15 Powerful Posting Techniques Revealed</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-how-to-live-stream-xbox-to-facebook-live/"><u>2024 Approved How to Live Stream Xbox to Facebook Live</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-livestran-vs-screen-capture-titans-battle-of-software-giants-obs-and-bandicam/"><u>2024 Approved Livestran vs Screen Capture Titans Battle of Software Giants, OBS & Bandicam</u></a></li>
+<li><a href="https://extra-information.techidaily.com/crafting-audio-identity-the-art-of-adding-your-own-tones-to-android-for-2024/"><u>Crafting Audio Identity The Art of Adding Your Own Tones to Android for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/easy-steps-to-resetting-your-iphones-network-configurations-for-improved-performance/"><u>Easy Steps to Resetting Your iPhone's Network Configurations for Improved Performance</u></a></li>
+<li><a href="https://fox-that.techidaily.com/expert-guide-for-reactivating-message-sound-alarms-on-your-ios-device/"><u>Expert Guide for Reactivating Message Sound Alarms on Your iOS Device</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-airplay-problems-a-comprehensive-diy-tutorial-for-smooth-streaming/"><u>Fixing AirPlay Problems: A Comprehensive DIY Tutorial for Smooth Streaming</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/free-online-converter-transform-mxf-into-avi-format-with-movavi/"><u>Free Online Converter - Transform MXF Into AVI Format with Movavi</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-resolve-the-issue-of-grayed-out-icloud-options-in-ios-devices/"><u>How to Resolve the Issue of Grayed-Out iCloud Options in iOS Devices</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-phantom-touch-malfunction-explore-10-diagnostic-steps-for-a-flawless-repair/"><u>IPhone Phantom Touch Malfunction? Explore 10 Diagnostic Steps for a Flawless Repair</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-tecno-spark-20-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your Tecno Spark 20 Phone? Unlock It Now</u></a></li>
+<li><a href="https://fox-that.techidaily.com/reviving-lost-icon-designs-on-iphone-proven-methods-to-fix-icon-issues/"><u>Reviving Lost Icon Designs on iPhone: Proven Methods to Fix Icon Issues</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-roblox-memory-issues-a-step-by-step-guide-for-iphone-users/"><u>Solving Roblox Memory Issues: A Step-by-Step Guide for iPhone Users</u></a></li>
+<li><a href="https://facebook.techidaily.com/transcending-limits-how-meta-aims-to-reshape-social-media-landscape/"><u>Transcending Limits: How 'Meta' Aims to Reshape Social Media Landscape</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-call-reception-steps-when-your-iphone-fails-to-get-inbound-calls/"><u>Troubleshooting Call Reception: Steps When Your iPhone Fails to Get Inbound Calls</u></a></li>
+<li><a href="https://fox-that.techidaily.com/whatsapp-sync-failures-with-icloud-discover-tips-to-secure-your-messages-on-apples-cloud-service/"><u>WhatsApp Sync Failures with iCloud? Discover Tips to Secure Your Messages on Apple's Cloud Service</u></a></li>
 </ul></div>
 

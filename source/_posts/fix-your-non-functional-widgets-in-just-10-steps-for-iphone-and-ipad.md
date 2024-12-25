@@ -1,7 +1,7 @@
 ---
 title: Fix Your Non-Functional Widgets in Just 10 Steps (for iPhone & iPad)
-date: 2024-08-15T12:03:28.028Z
-updated: 2024-08-16T12:03:28.028Z
+date: 2024-12-23T16:52:33.882Z
+updated: 2024-12-25T20:08:58.112Z
 tags:
   - iphone
   - apple
@@ -30,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/c2522eefb8fbc96fa570f56849cfdf92d72e221bd
 
 ![Slide to power off.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/3-slide-to-power-off-1.PNG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Close
 
 ## 2\. Update the Apps on Your iPhone or iPad
@@ -41,12 +45,12 @@ Close
 ![App Store main screen.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/4-app-store.PNG)
 
 ![Scan for updates.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/5-scan-for-updates-1.PNG)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 
 ![Update all apps.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/6-update-all-apps-1.PNG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -61,13 +65,14 @@ Close
  You can also activate automatic system-software updates for your iPhone. To do that, tap**Automatic Updates** (on the same screen) and turn on the switches next to**Download iOS Updates** and**Install iOS Updates** .
 
 ![General options screen.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/7-general-settings.PNG)
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Update the system software.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/8-software-update.PNG)
 
 Close
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Change the System Language
 
@@ -78,16 +83,14 @@ Close
  Follow this by switching back to your preferred language and double-check your widgets to see if they've started working correctly.
 
 ![General options screen.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/9-general-settings.PNG)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 
 ![Language preferences screen.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/10-language-settings.PNG)
 
-![Select a different language.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/11-choose-languages.PNG)
 <!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Select a different language.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/11-choose-languages.PNG)
 
 Close
 
@@ -95,9 +98,6 @@ Close
 
  To do that, simply go to**Settings** \>**General** \>**Display & Brightness** and turn on the switch next to**Bold Text** . In case that helps, disable the bold text and check if the issue recurs.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 5\. Disable Low Data Mode and Low Power Mode
 
 [Low Data Mode](https://www.makeuseof.com/how-to-use-low-data-mode-iphone-ipad/) and [Low Power Mode](https://www.makeuseof.com/iphone-low-power-mode/) can impair widget-related activity. Try disabling them and check if that helps.
@@ -107,14 +107,8 @@ Close
  If you use cellular data for internet connectivity, go to**Settings** \>**Cellular** \>**Cellular Data Options** and turn off the switch next to**Low Data Mode** .
 
 ![Cellular settings on iPhone.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/12-cellular-settings.PNG)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Cellular data options on iPhone.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/13-cellular-date-options.PNG)
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Close
 
@@ -123,9 +117,6 @@ Close
  iOS and iPadOS apply Low Data Mode for Wi-Fi on a per-connection basis. So head over to**Settings** \>**Wi-Fi** , select your active Wi-Fi connection, and deactivate the switch next to**Low Data Mode** .
 
 ![Wi-Fi Settings on iPhone.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/14-wi-fi-settings.PNG)
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Wi-Fi Preferences.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/15-wi-fi-preferences.PNG)
 
@@ -144,8 +135,9 @@ Close
  Open the**Settings** app and go to**Privacy** \>**Location Services** . Then, tap the relevant app and select**While Using the App or Widgets** or**Always** . That should allow the app (and its widget) to display data based on location.
 
 ![Privacy settings on iPhone.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/16-privacy-settings.PNG)
+
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Location services screen.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/17-location-services.PNG)
@@ -154,17 +146,11 @@ Close
 
 Close
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### How to Check Background App Refresh
 
  Open the**Settings** app and go to**General** \>**Background App Refresh** . Then, turn on the switch next to the app in question. That should allow the app (and its widget in turn) to refresh automatically in the background.
 
 ![General settings on iPhone.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/19-general-settings.PNG)
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Background App Refresh screen.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/20-background-app-refresh.PNG)
 
@@ -177,34 +163,21 @@ Close
  Taking the**Weather** widget as an example, start by long-pressing and selecting the**Edit Widget** option. You can then tap**My Location** to search for and pick the correct location. Follow that by tapping outside the widget area to save your changes.
 
 ![Widget contextual menu on Home screen.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/21-widget-contextual-menu.PNG)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Widget preferences.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/22-widget-preferences.PNG)
+
 <!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Edit widget preferences.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/23-edit-widget.PNG)
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 Close
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 8\. Remove and Re-add Widgets
 
  Removing and re-adding a widget that has loading or other issues can also help.
@@ -218,13 +191,14 @@ Close
 ![Removing widget on iPhone.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/24-remove-widget.PNG)
 
 ![Home screen in jiggle mode.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/25-jiggle-screen.PNG)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 
 ![Readding widget via Widgets gallery.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/26-add-widget-1.PNG)
 
 Close
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 9\. Reinstall Related Apps
 
@@ -235,17 +209,15 @@ Close
 ![General settings on iPhone.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/27-general-settings.PNG)
 
 ![Storage Management screen on iPhone.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/28-iphone-storage.PNG)
+
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Offoading an app on iPhone.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/29-offload-app.PNG)
 
 Close
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ## 10\. Reset Network or All Settings
 
  Try resetting the network settings on your iPhone. If that fails, you must reset all settings on your iOS device. That helps fix network-related and other underlying issues preventing widgets from functioning correctly.
@@ -255,17 +227,15 @@ Close
 ![General settings on iPhone.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/30-general-settings.PNG)
 
 ![Reset option on iPhone.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/31-reset-iphone.PNG)
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Reset network or all settings on iPhone.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/32-reset-settings.PNG)
 
 Close
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fixed: Widgets Working Correctly Again
 
  Keeping both the apps and the system software up-to-date is the best way to minimize widget-related issues going forward. Also, don't forget to check any widget-specific settings to ensure that everything's been set up correctly.
@@ -278,8 +248,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -287,4 +255,18 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/updated-discover-the-best-iphones-selfie-upgrades-all-for-free-now-for-2024/"><u>[Updated] Discover the Best iPhones' Selfie Upgrades - All for Free, Now for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-elite-focus-handheld-premium-mobile-mounting-systems/"><u>[Updated] In 2024, Elite Focus Handheld Premium Mobile Mounting Systems</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-step-by-step-techniques-for-efficiently-timestamp-youtube-content/"><u>2024 Approved Step-by-Step Techniques for Efficiently Timestamp YouTube Content</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effortless-pdf-splitting-techniques-3-simple-ways-to-divide-your-pdf-document/"><u>Effortless PDF Splitting Techniques: 3 Simple Ways to Divide Your PDF Document</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-locked-iphone-screens-unlock-portrait-mode/"><u>Fixing Locked iPhone Screens: Unlock Portrait Mode</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-itel-a60s-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Itel A60s? | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-losing-mobile-service-discover-these-10-essential-fixes-to-restore-data-connectivity/"><u>IPhone Losing Mobile Service? Discover These 10 Essential Fixes to Restore Data Connectivity</u></a></li>
+<li><a href="https://fox-that.techidaily.com/mastering-iphone-repairs-navigating-apples-online-support-and-testing-services/"><u>Mastering iPhone Repairs: Navigating Apple's Online Support and Testing Services</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solve-your-smartphone-screens-rapid-fluctuations-with-top-7-effective-solutions/"><u>Solve Your Smartphone Screen's Rapid Fluctuations with Top 7 Effective Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-the-mystery-of-overheating-iphoneipad-causes-and-remedies/"><u>Solving the Mystery of Overheating iPhone/iPad: Causes & Remedies</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/the-art-of-keeping-up-with-snapstreaks-for-2024/"><u>The Art of Keeping Up With Snapstreaks for 2024</u></a></li>
+</ul></div>
 

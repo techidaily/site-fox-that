@@ -1,7 +1,7 @@
 ---
 title: Troubleshoot AirDrop Glitches Swiftly with This List of 16 Helpful Hacks
-date: 2024-12-13T22:08:24.504Z
-updated: 2024-12-17T03:16:49.572Z
+date: 2024-12-24T22:43:25.559Z
+updated: 2024-12-25T16:58:14.050Z
 tags:
   - iphone
   - apple
@@ -50,10 +50,6 @@ thumbnail: https://thmb.techidaily.com/bbf8b4ac709b45ef5944f09a459d244c293de523e
 
 ![network options in iphone control center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/network-options-in-iphone-control-center.JPEG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![airdrop visibility options in iphone control center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/airdrop-visibility-options-in-iphone-control-center.JPEG)
 
 Close
@@ -71,7 +67,7 @@ Close
 ![go tab in mac finder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/go-tab-in-mac-finder.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Turn Off AirDrop Restrictions
@@ -82,14 +78,10 @@ Close
 
 ![iphone content and privacy restrictions settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/iphone-content-and-privacy-restrictions-settings.JPEG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![allowed apps in iphone content and privacy restriction settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/allowed-apps-in-iphone-content-and-privacy-restriction-settings.JPEG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Close
@@ -100,6 +92,10 @@ Close
 
  Make sure**AirDrop** is turned on for each device. You may need to enter your Screen Time passcode to make these changes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Enable AirDrop Over Cellular
 
  AirDrop's (Bluetooth) range is around 30 feet, so if you move beyond that distance, AirDrop won't work anymore. But if you've updated your device to iOS/iPadOS 17.1 (or later), you can enable a setting to allow AirDrop file transfers to continue even after you leave the range.
@@ -109,6 +105,10 @@ Close
 ![iphone general settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/iphone-general-settings-2.JPEG)
 
 ![iPhone General settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/iphone-general-settings.JPEG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![iphone airdrop settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/iphone-airdrop-settings.JPEG)
 
@@ -132,23 +132,19 @@ Close
 
  A particularly useful solution if AirDrop isn't working is to disable and re-enable Wi-Fi and Bluetooth. Open**Control Center** on your iPhone, iPad, or Mac and hit the**Wi-Fi** and**Bluetooth** icons to turn them off, then select them again to turn them back on.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 8\. Use AirDrop From a Third Apple Device
 
  This isn't an option for everyone, but if you have a spare Apple device, you should try using that to connect over AirDrop. Usually, if your iPhone, iPad, or Mac shows up on this new device, it will suddenly appear on the original device as well.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 9\. Send a Single File Instead of Multiple Files
 
  AirDrop lets you share many kinds of files at the same time. But if AirDrop isn't working, you should consider simplifying matters by sending a single file at a time instead.
 
  AirDrop files automatically open in a relevant app. For instance, images open in the Photos app, but multiple file types don't always open in the same app. This could explain why your AirDrop transfer failed.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 10\. Check the Downloads Folder for Missing Files
 
@@ -159,7 +155,7 @@ Close
 ![on my iphone folder in files app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/on-my-iphone-folder-in-files-app.JPEG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Close
@@ -183,7 +179,7 @@ Close
 ![Firewall option in macOS System Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Firewall-option-in-macOS-System-Settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 13\. Sign In to Your Apple ID Account Again
@@ -191,6 +187,10 @@ Close
  Go to**Settings** or**System Settings** on your iPhone or Mac respectively, then select**\[Your Name\]** at the top of the menu and choose**Sign Out** at the bottom of the following page. Choose the data to keep on your device, then confirm you want to sign out.
 
 ![apple id on mac](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/apple-id-on-mac.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  It doesn't matter too much if you keep data on your device since you're planning to sign in to the same account again. After signing out, return to**Settings** or**System Settings** to sign in to your Apple ID again.
 
@@ -202,16 +202,16 @@ Close
 
 ![iphone main settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/img_7705.JPEG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![iPhone General settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/iphone-general-settings.JPEG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 15\. Restart Both Devices
@@ -251,21 +251,18 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://novels-ebooks.techidaily.com/211239443-9788482510828-de-donde-vengo-a-donde-voy/"><u>¿De dónde vengo? ¿A dónde voy? | Free Book</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-stay-ahead-of-the-curve-with-these-10-must-use-tags/"><u>[New] Stay Ahead of the Curve with These 10 Must-Use Tags</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-unlocking-sierras-icloud-drives-for-all-access-for-2024/"><u>[New] Unlocking Sierra's iCloud Drives for All-Access for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-professional-strategies-for-inshot-edits/"><u>[Updated] Professional Strategies for Inshot Edits</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/1726224364977-asfmp4-movavi/"><u>ASF形式からMP4への免責ワークフロー: 無料でMovaviを使って</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/convert-video-formats-at-no-cost-mp3-mpeg-and-more-to-ogg-vorbis-with-movavis-online-tool/"><u>Convert Video Formats at No Cost: MP3, MPEG & More to Ogg Vorbis with Movavi's Online Tool</u></a></li>
-<li><a href="https://fox-that.techidaily.com/effective-ways-to-prevent-iphone-application-crashes-9-strategies-included/"><u>Effective Ways to Prevent iPhone Application Crashes (9 Strategies Included)</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/full-guide-to-unlock-iphone-xs-with-itunes-by-drfone-ios/"><u>Full Guide to Unlock iPhone XS with iTunes</u></a></li>
-<li><a href="https://fox-that.techidaily.com/guide-resolve-the-final-text-line-missing-problem-in-iphone-apps/"><u>Guide: Resolve the 'Final Text Line Missing' Problem in iPhone Apps</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-restore-functionality-of-guided-access-on-your-iphone-a-guide/"><u>How to Restore Functionality of Guided Access on Your iPhone – A Guide</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-samsung-galaxy-m14-4gwithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Samsung Galaxy M14 4Gwith/without a PC</u></a></li>
-<li><a href="https://fox-that.techidaily.com/iphoneipad-turned-oven-diagnose-and-resolve-your-devices-overheating-problems/"><u>IPhone/iPad Turned Oven? Diagnose & Resolve Your Device's Overheating Problems</u></a></li>
-<li><a href="https://fox-that.techidaily.com/mastering-mobile-device-care-with-apples-support-app-on-your-iphone/"><u>Mastering Mobile Device Care with Apple's Support App on Your iPhone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/the-ultimate-walkthrough-to-remote-diagnostic-examination-of-your-iphone-with-apple/"><u>The Ultimate Walkthrough to Remote Diagnostic Examination of Your iPhone with Apple</u></a></li>
-<li><a href="https://fox-that.techidaily.com/top-6-solutions-for-resolving-issues-when-apple-rejects-your-card/"><u>Top 6 Solutions for Resolving Issues When Apple Rejects Your Card</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/what-you-want-to-know-about-two-factor-authentication-for-icloud-on-your-iphone-15-by-drfone-ios/"><u>What You Want To Know About Two-Factor Authentication for iCloud On your iPhone 15</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-chart-topping-video-content-on-youtube-for-2024/"><u>[New] Chart-Topping Video Content on YouTube for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-brain-busting-the-premier-room-challenge-list/"><u>[Updated] Brain-Busting The Premier Room Challenge List</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-build-and-launch-youtube-video-ads-on-budget-for-2024/"><u>[Updated] Build & Launch YouTube Video Ads on Budget for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-windows-10-capture-champions-app-roundup/"><u>[Updated] Windows 10 Capture Champions App Roundup</u></a></li>
+<li><a href="https://fox-that.techidaily.com/5-key-issues-that-block-gift-sharing-on-iphone-and-ipad-devices/"><u>5 Key Issues That Block Gift Sharing on iPhone and iPad Devices</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/anticipating-the-launch-insights-and-forecasts-on-the-google-pixel-watch-series-4-pricing-release-timeline-and-latest-leaks/"><u>Anticipating the Launch: Insights & Forecasts on the Google Pixel Watch Series 4 - Pricing, Release Timeline, and Latest Leaks</u></a></li>
+<li><a href="https://fox-that.techidaily.com/expert-advice-wiping-and-rebuilding-the-settings-on-your-apple-tablet-or-phone/"><u>Expert Advice: Wiping and Rebuilding the Settings on Your Apple Tablet or Phone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-samsung-galaxy-s24-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Samsung Galaxy S24 Device SIM</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-not-feeling-the-vibe-learn-how-to-restore-your-devices-vibrating-function-in-quiet-modes/"><u>IPhone Not Feeling the Vibe? Learn How to Restore Your Device's Vibrating Function in Quiet Modes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/quick-start-gpt-4-for-current-chatgpt-engagements/"><u>Quick Start: GPT-4 for Current ChatGPT Engagements</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/the-essentials-of-making-professional-level-facebook-reels-for-2024/"><u>The Essentials of Making Professional-Level Facebook Reels for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/ultimate-fix-for-everyday-iphone-12-challenges-discover-how-to-overcome-them/"><u>Ultimate Fix for Everyday iPhone 12 Challenges: Discover How to Overcome Them</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/wechsel-der-benutzerprofile-von-windows-10-nach-windows-11-effiziente-losungsansatze/"><u>Wechsel Der Benutzerprofile Von Windows 10 Nach Windows 11 - Effiziente Lösungsansätze</u></a></li>
 </ul></div>
 

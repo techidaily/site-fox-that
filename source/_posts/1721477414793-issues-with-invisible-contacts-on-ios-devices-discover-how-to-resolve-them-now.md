@@ -1,7 +1,7 @@
 ---
 title: Issues with Invisible Contacts on iOS Devices? Discover How to Resolve Them Now
-date: 2024-08-15T12:03:38.857Z
-updated: 2024-08-16T12:03:38.857Z
+date: 2024-12-24T19:51:55.388Z
+updated: 2024-12-25T19:10:13.007Z
 tags:
   - iphone
   - apple
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/c9308c3a6e3bd3b331c76fa1b44152ac54aefa6a4
 
 ![Person using iPhone](https://thmb.techidaily.com/f4c650853e8507f493dd5a4da625f53ce5ecb8f26fcbb71888c8a6af3708b00c.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Restarting can fix most smartphone problems](https://www.makeuseof.com/why-restarting-smartphone-fixes-most-problems/) , and that’s why the first question a tech support agent asks is, "Have you tried turning it off and on again?"
 
  There are different ways to restart your iPhone, depending on the model. Read our dedicated guide on [how to restart any iPhone](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) for step-by-step instructions. Once your iPhone is back up and running, confirm if your contacts have been restored. If not, move on to step number two.
@@ -41,19 +45,14 @@ thumbnail: https://thmb.techidaily.com/c9308c3a6e3bd3b331c76fa1b44152ac54aefa6a4
 5. Re-enable**Contacts** again. And if your iPhone asks to merge existing contacts, select**Merge** .
 
 ![iPhone Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/Settings-iPhone.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![iCloud settings in iOS 16](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/icloud-page-ios-16.jpg)
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Disabling Contacts sync in iOS 16](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/disabling-contacts-sync-ios-16.jpg)
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Close
 
@@ -70,20 +69,21 @@ So, follow these steps to show hidden contact groups:
 3. On the**Lists** page, tap**All Contacts** at the top to view all your saved contacts.
 
 ![Contacts app in iOS 16](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/contacts-app-ios-16.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 
 ![All Accounts option in iOS 16](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/accounts-options-contacts-app.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
  If some contacts from a particular account weren’t showing up on your iPhone, this should fix the issue. However, read on if you still don’t see all your contacts.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Add All Your Accounts to Your iPhone
 
  If you have several accounts that you use, chances are contacts might be saved across them. To fix this, you need to add all your accounts to your iPhone to ensure you have access to all your contacts. So, follow these steps to add an account to your iPhone:
@@ -97,11 +97,19 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
 ![Accounts page in iOS settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/02-accounts-ios-settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Adding a new account in iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/03-add-account-ios.jpg)
 
 Close
 
  If you don't see any contacts from the newly added account, follow the steps in the next tip to ensure contact visibility.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Modify Your Contact Account Settings
 
@@ -112,34 +120,20 @@ Close
 3. Tap each account and ensure**Contacts** is toggled on.
 
 ![Screenshot of iOS Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/iOS-Settings-app.jpg)
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Contacts settings in iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/Contacts-option-in-iOS-settings-app.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 
 ![Individual account settings in iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/Individual-account-settings-iOS.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 
 Close
 
  If contacts from one of your connected accounts weren’t showing up on your iPhone, this should help fix the issue.
 
  Additionally, you can try disabling and enabling Short Name on your iPhone. While this feature is handy to ensure more names fit on the screen, it can sometimes be problematic. To do this, go to**Settings > Contacts > Short Name** . Disable**Short Name** , then wait for some time and turn it on.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Rebuild Your iPhone Contacts
 
@@ -170,17 +164,15 @@ Close
  If that doesn’t work, you can try using third-party [data recovery tools](https://www.makeuseof.com/tag/data-recovery-work/) to restore your contacts. There are a variety of affordable tools on the market for the job. A good example is [PhoneRescue by iMobie](https://www.imobie.com/phonerescue/buy-ios-data-recovery.htm) , which is highly reputable and works with many iOS versions, including iOS 16\. However, you’ll have to spend some cash to get it.
 
 <!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 8\. Seek the Help of Apple Support
 
  If all else fails or you don’t want to spend money on third-party data recovery tools, you can [get tech support with the Apple Support app](http://www.makeuseof.com/how-to-get-iphone-support-apple-support-app/) for more assistance.
 
  Alternatively, you can reach out to them via [Apple’s support website](https://getsupport.apple.com/) . Either way, a certified expert should help sort out the issue in more ways than we could.
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Restore Your Missing iPhone Contacts
 
  Contacts not showing up on an iPhone isn’t something new. It can happen to you, but when it does, don’t panic. There are a variety of ways to fix the problem. In summary, you could restart your iPhone, resync with iCloud, show all contacts in your Phone app, add all accounts to your iPhone, modify account settings, or force rebuild your contacts.
@@ -193,8 +185,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -202,4 +192,24 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-amusing-registration-journey/"><u>[New] Amusing Registration Journey</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-top-6-youtube-outro-makers-lots-of-free-options/"><u>[New] In 2024, Top 6 YouTube Outro Makers - Lots of FREE Options!</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-camstudio-screen-capturing-a-comprehensive-analysis-users/"><u>[Updated] 2024 Approved CamStudio Screen Capturing A Comprehensive Analysis Users</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-ideal-thumbnails-for-maximum-clicks/"><u>[Updated] Ideal Thumbnails for Maximum Clicks</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-elevating-your-social-media-presence-with-igtv-videos/"><u>2024 Approved Elevating Your Social Media Presence with IGTV Videos</u></a></li>
+<li><a href="https://fox-that.techidaily.com/cure-5-common-iphone-issues-with-a-simple-dfu-reset/"><u>Cure 5 Common iPhone Issues with a Simple DFU Reset</u></a></li>
+<li><a href="https://fox-that.techidaily.com/effortless-iphone-battery-optimization-learn-the-essential-6-step-calibration-strategy/"><u>Effortless iPhone Battery Optimization: Learn the Essential 6-Step Calibration Strategy</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/from-drama-to-film-shaping-realistic-dialogue/"><u>From Drama to Film Shaping Realistic Dialogue</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-resolve-icloud-photos-not-syncing-with-your-iphone-in-7-easy-ways/"><u>How to Resolve iCloud Photos Not Syncing with Your iPhone in 7 Easy Ways</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-quality-meets-convenience-the-best-5-hd-webcams-and-mics/"><u>In 2024, Quality Meets Convenience - The Best 5 HD Webcams & Mics</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimal-earphones-designed-for-switch/"><u>Optimal Earphones Designed for Switch</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solve-iphone-cellular-data-disruption-easily-uncover-the-top-10-fixes-that-work-every-time/"><u>Solve iPhone Cellular Data Disruption Easily: Uncover the Top 10 Fixes That Work Every Time</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-the-imessage-user-has-been-signed-out-error-on-your-iphone/"><u>Troubleshooting the 'iMessage: User Has Been Signed Out' Error on Your iPhone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/ultimate-guide-complete-steps-to-perform-a-full-reset-on-your-iphoneipad/"><u>Ultimate Guide: Complete Steps to Perform a Full Reset on Your iPhone/iPad</u></a></li>
+<li><a href="https://fox-that.techidaily.com/understanding-overheating-in-apple-devices-tips-for-keeping-your-ipad-or-iphone-cool/"><u>Understanding Overheating in Apple Devices: Tips for Keeping Your iPad or iPhone Cool</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlocking-the-secret-to-quicker-iphone-screen-turnoffs-effective-strategies-inside/"><u>Unlocking the Secret to Quicker iPhone Screen Turnoffs – Effective Strategies Inside</u></a></li>
+<li><a href="https://win11.techidaily.com/why-ditch-bot-helmed-windows-key-creation/"><u>Why Ditch Bot-Helmed Windows Key Creation?</u></a></li>
+</ul></div>
 

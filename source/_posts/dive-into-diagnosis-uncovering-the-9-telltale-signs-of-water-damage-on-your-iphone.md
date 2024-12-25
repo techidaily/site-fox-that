@@ -1,7 +1,7 @@
 ---
 title: "Dive Into Diagnosis: Uncovering the 9 Telltale Signs of Water Damage on Your iPhone"
-date: 2024-11-18T16:21:26.586Z
-updated: 2024-11-24T19:05:32.436Z
+date: 2024-12-20T18:52:52.652Z
+updated: 2024-12-25T17:04:36.770Z
 tags:
   - iphone
   - apple
@@ -23,12 +23,16 @@ thumbnail: https://thmb.techidaily.com/66f3cf36e141a02ee3ef4f8fc90997bfb9adc3902
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Foggy Cameras
 
 ![Foggy iPhone X photo of a man](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/05/foggy-iphone-x-photo-of-a-man.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  One of the first things you should do when inspecting a phone for any kind of damage is to check its cameras. They are sensitive pieces of hardware and are easily affected by scratches, drops, and water.
@@ -46,10 +50,6 @@ thumbnail: https://thmb.techidaily.com/66f3cf36e141a02ee3ef4f8fc90997bfb9adc3902
  Face ID works using the TrueDepth camera system embedded into the notch or Dynamic Island. While your front camera might dry, and your picture quality may return to what it used to be, Face ID could still remain unavailable. You can try to [fix Face ID on your iPhone](https://www.makeuseof.com/how-to-fix-face-id-not-working-or-not-available-on-iphone/) , but your best bet is to get it to an expert as soon as possible.
 
  Likewise, Touch ID could also be negatively affected by water if it slips through the side of the Home button and gets into the sensors. This is less likely to happen if you use an iPhone 7 or 8, but it's still possible if the phone falls into extremely dirty water.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Misbehaving Buttons
 
@@ -75,10 +75,6 @@ thumbnail: https://thmb.techidaily.com/66f3cf36e141a02ee3ef4f8fc90997bfb9adc3902
 
 ![iPhone 11 in the hands of a woman with volume control options on the screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/iphone-11-in-the-hands-of-a-woman-with-volume-control-options-on-the-screen.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Another clear sign that an iPhone is water-damaged is muffled speakers. If you want to purchase a used phone, after checking the cameras, you should play some sounds on the speakers to see what it sounds like.
 
  If the sounds on the iPhone come out muffled, then you can assume that the phone likely had some water damage to its speaker hardware at some point. You can also test the front speaker by playing a voice note on iMessage and placing it against your ear.
@@ -86,7 +82,7 @@ thumbnail: https://thmb.techidaily.com/66f3cf36e141a02ee3ef4f8fc90997bfb9adc3902
  You should dry out the speakers for iPhones that just fell into some water. If that still doesn't help, try some DIY [iPhone speaker fixes](https://www.makeuseof.com/tag/fix-iphone-speaker-not-working/) before you spend money on an expert.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Signs of Rust and Corrosion
@@ -97,12 +93,16 @@ thumbnail: https://thmb.techidaily.com/66f3cf36e141a02ee3ef4f8fc90997bfb9adc3902
 
  If you're skilled at DIY repairs, you can try opening up the iPhone to search the interior components for signs of rust.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8\. Unstable Charging
 
 ![Plugged-in iPhone resting on a black surface](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/plugged-in-iphone-resting-on-a-black-surface.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In most scenarios where a phone falls into some water, it will likely be dirty water. And dirty water could contain all sorts of things like sand, mud, or other icky particles. These particles can get into your phone's charging port and block the pins. When the pins are blocked in this manner, your charger might not be able to fully nest in your phone, stopping your phone from charging properly or charging at all.
@@ -140,24 +140,22 @@ thumbnail: https://thmb.techidaily.com/66f3cf36e141a02ee3ef4f8fc90997bfb9adc3902
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-engage-grow-and-rise-triple-threat-tactics-for-facebook-pages/"><u>[New] 2024 Approved Engage, Grow, and Rise Triple Threat Tactics for Facebook Pages</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-how-instagram-algorithm-update-will-affect-you/"><u>[New] 2024 Approved How Instagram Algorithm Update Will Affect You</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-proven-ways-to-archive-roblox-games-on-apple-devices/"><u>[New] 2024 Approved Proven Ways to Archive Roblox Games on Apple Devices</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-elevate-your-design-skills-mastering-3d-text-effects/"><u>[New] Elevate Your Design Skills Mastering 3D Text Effects</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-the-essentials-of-film-production-for-youtube-originals/"><u>[New] In 2024, The Essentials of Film Production for YouTube Originals</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-undetected-consumer-of-life-streams-fb/"><u>[Updated] Undetected Consumer of Life Streams (FB)</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/backwards-play-iphones-unique-reverse-feature-for-2024/"><u>Backwards Play IPhone's Unique Reverse Feature for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/competitor-analysis/"><u>Competitor Analysis</u></a></li>
-<li><a href="https://fox-that.techidaily.com/experiencing-missing-icons-in-all-apps-on-iphones-heres-how-to-resolve-the-issue/"><u>Experiencing Missing Icons in All Apps on iPhones? Here's How to Resolve the Issue</u></a></li>
-<li><a href="https://fox-that.techidaily.com/finding-iphone-assistance-a-guide-to-using-the-apple-support-application/"><u>Finding iPhone Assistance: A Guide to Using the Apple Support Application</u></a></li>
-<li><a href="https://fox-that.techidaily.com/getting-siri-back-to-work-on-iphoneipad-a-guide-to-overcoming-7-challenges/"><u>Getting Siri Back to Work on iPhone/iPad: A Guide to Overcoming 7 Challenges</u></a></li>
-<li><a href="https://fox-that.techidaily.com/iphone-face-id-malfunction-here-are-14-fixes-that-might-save-the-day/"><u>IPhone Face ID Malfunction? Here Are 14 Fixes That Might Save The Day</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/maximize-job-opportunities-discover-6-ai-techniques-using-chatgpt-for-successful-applications/"><u>Maximize Job Opportunities: Discover 6 AI Techniques Using ChatGPT for Successful Applications</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/1713964617797-new-read-and-learn-how-to-convert-a-slow-motion-video-to-normal-in-this-guide-besides-find-the-best-desktop-solution-to-adjust-video-speed-quickly-and-easil/"><u>New Read and Learn How to Convert a Slow-Motion Video to Normal in This Guide. Besides, Find the Best Desktop Solution to Adjust Video Speed Quickly and Easily for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/optimize-photo-collection-a-guide-to-fusing-multiple-shots-with-repeated-subjects-on-iphone-and-imac-systems/"><u>Optimize Photo Collection: A Guide to Fusing Multiple Shots with Repeated Subjects on iPhone and iMac Systems</u></a></li>
-<li><a href="https://fox-that.techidaily.com/overcome-iphone-recognition-problems-in-itunes-and-finder-using-simple-fixes/"><u>Overcome iPhone Recognition Problems in iTunes and Finder Using Simple Fixes</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solving-the-issue-when-your-airpods-wont-seamlessly-transfer-between-mac-and-iphone/"><u>Solving the Issue: When Your AirPods Won't Seamlessly Transfer Between Mac and iPhone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/superior-performance-free-amd-radeon-vega-3-update/"><u>Superior Performance - Free AMD Radeon Vega 3 Update</u></a></li>
-<li><a href="https://fox-that.techidaily.com/top-6-causes-of-sluggish-iphone-performance-and-solutions/"><u>Top 6 Causes of Sluggish iPhone Performance & Solutions</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-from-black-and-white-to-color-classic-video-transition-tips/"><u>[New] From Black-and-White to Color Classic Video Transition Tips</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-measuring-64gbs-video-holding-ability-for-2024/"><u>[Updated] Measuring 64Gb's Video Holding Ability for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-mastering-marketing-magic-20-keywords-for-profound-impact/"><u>2024 Approved Mastering Marketing Magic 20 Keywords for Profound Impact</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-vivo-y78t-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Vivo Y78t by Name | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/best-free-high-definition-movies-downloads-top-15-1080p-and-720p-mp4-websites/"><u>Best FREE High-Definition Movies Downloads: Top 15 1080P & 720P MP4 Websites</u></a></li>
+<li><a href="https://fox-that.techidaily.com/defeating-the-iphone-black-screen-of-death-expert-repair-techniques/"><u>Defeating the iPhone 'Black Screen of Death': Expert Repair Techniques</u></a></li>
+<li><a href="https://fox-that.techidaily.com/effective-fixes-for-the-roblox-memory-warning-problem-on-iphones/"><u>Effective Fixes for the Roblox Memory Warning Problem on iPhones</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fix-it-the-ultimate-guide-to-solving-your-iphones-camera-glitches-top-7-causes-unveiled/"><u>Fix It! The Ultimate Guide to Solving Your iPhone's Camera Glitches - Top 7 Causes Unveiled</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-update-your-pc-with-new-intel-serial-port-driver-download/"><u>How to Update Your PC with New Intel Serial Port Driver Download</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-tecno-pova-6-pro-5g-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your Tecno Pova 6 Pro 5G in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-perfect-your-igtv-shooting-skills-tips-for-smartphonedslr-cameras/"><u>In 2024, Perfect Your IGTV Shooting Skills Tips for Smartphone/DSLR Cameras</u></a></li>
+<li><a href="https://discover-able.techidaily.com/innovativo-e-smart-industry-solutions/"><u>Innovativo E Smart Industry Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solve-connectivity-problems-on-your-ios-device-with-a-complete-network-settings-reset/"><u>Solve Connectivity Problems on Your iOS Device with a Complete Network Settings Reset</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solve-your-single-airpod-issue-with-these-simple-fixes/"><u>Solve Your Single AirPod Issue with These Simple Fixes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-silent-siri-a-step-by-step-guide-to-restoring-audio-on-your-iphone/"><u>Solving Silent Siri: A Step-by-Step Guide to Restoring Audio on Your iPhone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-steps-why-your-iphone-isnt-getting-texts-from-android-devices-and-how-to-resolve-this-issue/"><u>Troubleshooting Steps: Why Your iPhone Isn't Getting Texts From Android Devices & How to Resolve This Issue</u></a></li>
+<li><a href="https://fox-that.techidaily.com/understanding-the-causes-when-does-find-my-iphone-go-offline/"><u>Understanding the Causes: When Does Find My iPhone Go Offline?</u></a></li>
 </ul></div>
 

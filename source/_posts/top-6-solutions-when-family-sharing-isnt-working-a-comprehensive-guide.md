@@ -1,7 +1,7 @@
 ---
 title: "Top 6 Solutions When Family Sharing Isn't Working: A Comprehensive Guide"
-date: 2024-08-15T12:04:12.761Z
-updated: 2024-08-16T12:04:12.761Z
+date: 2024-12-20T18:32:36.930Z
+updated: 2024-12-25T17:25:09.443Z
 tags:
   - iphone
   - apple
@@ -26,7 +26,15 @@ thumbnail: https://thmb.techidaily.com/3de06be99a3225bd572539cfd46d39535123115f6
 
 ![Apple's System Status page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/apple-s-system-status-page.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This will hardly be the culprit, but it's worth checking before going into the more detailed fixes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Turn on Purchase Sharing and Share With Family
 
@@ -44,9 +52,6 @@ Here's how to turn it on using an iPhone or iPad:
 ![Family menu on iOS 16 Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/1.jpeg)
 
 ![Family purchase sharing prompt screen on iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/2.jpeg)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 
 ![Purchase Sharing menu displaying payment options and family members on iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/3-1.jpeg)
 
@@ -59,15 +64,17 @@ And here's how to do the same on a Mac:
 3. Follow the on-screen prompts by clicking**Continue,** then**Turn On Purchase Sharing.**
 
 ![Purchase Sharing prompt in System Settings on macOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/purchase-sharing-prompt-in-system-settings-on-macos.png)
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 This might fix your issue, but try the next step if it doesn't.
 
 <!-- affiliate ads begin -->
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Change Apple ID Region
 
  This may not be immediately obvious, but regions matter a lot for apps and media purchases. If your family members are using different Apple ID regions, they won't be able to access the same subscriptions.
@@ -83,9 +90,6 @@ Here's a quick way to do it on your browser:
 
 ![Dreamchild's Apple ID personal information page on the Apple ID website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/dreamchild-s-apple-id-personal-information-page-on-the-apple-id-website.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ## 4\. Sign Out and Sign In to Media & Purchases
 
  First, you must ensure you're using the same Apple ID for Family Sharing and Media & Purchases. You can find it in**Settings** \>**Family** \>**Your Name** \>**Purchases** \>**Apple ID for Purchases** . Confirm that your Apple ID for purchases is the same as your regular Apple ID.
@@ -97,22 +101,13 @@ Here's a quick way to do it on your browser:
 3. Tap**Media & Purchases** again, and make sure you sign in with the same Apple ID you use for Family Sharing.
 
 ![Settings home screen on iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/1-1.jpeg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 
 ![Media & Purchases sub-settings in Apple ID menu on iOS Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/2-1.jpeg)
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Prompt to confirm Media & Purchases sign out on iOS Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/3-2.jpeg)
 
 Close
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Sign Out, Restart, and Sign In
 
  A little Apple ID reset on the device that isn't receiving the shared subscription might do the trick.
@@ -124,9 +119,6 @@ Close
 3. Now, restart your iPhone, go back to**Settings** , and select**Sign Into Your iPhone** .
 
 ![iOS Apple ID menu in Settings displaying Sign Out button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/1-ios-apple-id-menu-in-settings-displaying-sign-out-button.jpeg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 ![Prompt to enter Apple ID password](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/2-prompt-to-enter-apple-id-password.jpeg)
 
@@ -143,11 +135,12 @@ If the problematic device is a Mac, do this instead:
 
 ![System Settings Apple ID page displaying sign out button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/system-settings-apple-id-page-displaying-sign-out-button.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This should refresh the App Store and other apps, and it should now recognize that the signed-in Apple ID has access to the shared subscriptions.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Add the Family Member Again
 
  As an extension of refreshing it all, you can re-organize the Family Sharing group by disbanding it and adding everyone back again.
@@ -162,6 +155,10 @@ Here's how to do it on iOS and iPadOS:
 
 ![Faizah's Family menu displaying option to Remove Faizah from Family](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/faizah-s-family-menu-displaying-option-to-remove-faizah-from-family.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Close
 
 If you're on a Mac, follow these steps instead:
@@ -172,11 +169,16 @@ If you're on a Mac, follow these steps instead:
 
 ![Family member sub-window in System Settings on macOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/family-member-sub-window-in-system-settings-on-macos.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you want to learn more about managing your family members, you can read our guide on [how to stop using Apple Family](https://www.makeuseof.com/how-to-stop-apple-family-sharing-or-remove-members/) .
 
 <!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Check Payments if All Else Fails
 
  If you tried all these troubleshooting steps and still can't share your subscription, you can try contacting Apple Support for guidance.
@@ -191,8 +193,6 @@ If you're on a Mac, follow these steps instead:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -200,4 +200,24 @@ If you're on a Mac, follow these steps instead:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-chilly-cinematography-comprehensive-ice-cream-monitoring-tutorial/"><u>[New] 2024 Approved Chilly Cinematography Comprehensive Ice Cream Monitoring Tutorial</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-probing-the-depth-of-recmeisters-high-end-screen-capture-features-for-2024/"><u>[Updated] Probing the Depth of Recmeister's High-End Screen Capture Features for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/airpods-echo-or-panning-issues-turn-off-dynamic-head-tracking/"><u>AirPods Echo or Panning Issues? Turn Off Dynamic Head Tracking</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exploring-electric-two-wheelers-the-ins-and-outs-of-their-functioning/"><u>Exploring Electric Two-Wheelers: The Ins and Outs of Their Functioning</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721475320978-fix-that-autocorrect-and-improve-your-iphones-spell-check-like-a-pro/"><u>Fix That Autocorrect and Improve Your iPhone's Spell Check Like a Pro</u></a></li>
+<li><a href="https://win-dash.techidaily.com/free-download-best-behringer-audio-drivers-for-optimal-performance/"><u>Free Download: Best [Behringer] Audio Drivers for Optimal Performance</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-extended-device-lifespan-can-benefit-our-planet-a-google-discussion/"><u>How Extended Device Lifespan Can Benefit Our Planet: A Google Discussion</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-download-and-install-samsung-portable-ssd-drives-evo-t5-and-more/"><u>How To: Download And Install Samsung Portable SSD Drives – EVO, T5, and More</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-oneplus-nord-3-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on OnePlus Nord 3 5G Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-xiaomi-redmi-note-12t-pro-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Xiaomi Redmi Note 12T Pro Device</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721477061335-iphone-troubles-here-are-7-fixes-when-icloud-photos-dont-update/"><u>IPhone Troubles? Here Are 7 Fixes When iCloud Photos Don't Update!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/no-beep-reactivate-your-iphone-text-tones-with-these-16-handy-fixes/"><u>No Beep? Reactivate Your iPhone Text Tones with These 16 Handy Fixes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/soft-reset-techniques-for-reviving-your-iphones-performance/"><u>Soft Reset Techniques for Reviving Your iPhone's Performance</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-wi-fi-connection-problems-8-effective-fixes-for-iphone-and-ipad-users/"><u>Solving Wi-Fi Connection Problems: 8 Effective Fixes for iPhone and iPad Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/trasforma-file-dpx-in-gif-gratuitamente-con-movavi-servizi-di-conversione-online/"><u>Trasforma File DPX in GIF Gratuitamente Con Movavi - Servizi Di Conversione Online</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-iphone-how-to-enable-vibration-in-silent-and-ring-modes/"><u>Troubleshooting iPhone: How to Enable Vibration in Silent and Ring Modes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/why-wont-my-iphone-screen-power-down-resolve-the-issue-now/"><u>Why Won't My iPhone Screen Power Down? Resolve the Issue Now</u></a></li>
+</ul></div>
 

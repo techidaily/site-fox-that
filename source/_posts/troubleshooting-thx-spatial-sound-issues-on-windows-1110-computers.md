@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting THX Spatial Sound Issues on Windows 11/10 Computers
-date: 2024-12-15T21:50:17.152Z
-updated: 2024-12-16T21:59:37.904Z
+date: 2024-12-23T18:08:44.146Z
+updated: 2024-12-25T21:41:51.707Z
 tags:
   - win11
   - win10
@@ -54,12 +54,16 @@ thumbnail: https://thmb.techidaily.com/66f3a5314b7f0b6f994f976b66c33a57ff0466854
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b3a03daedd.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2) Type in your password and log in again.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b3a59dfeba.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3) Check if your Start menu works all right now.
 
@@ -95,6 +99,10 @@ net user newusername newpassword /add
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3: Reinstall video card and sound card drivers
 
  Many Windows users say that their video card driver and sound card driver are the culprit, especially after the latest Windows update, and quite a number of them got their Start menu back after they reinstall or update their video and sound card drivers to the recent correct version. Here is what you can do to get your Start menu working like a charm again:
@@ -109,16 +117,12 @@ net user newusername newpassword /add
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b931f18df7.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  When prompted with the following notification, tick the box for**Delete the driver software for this device** and click**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b939274834.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5) Restart your computer after the uninstall of both of your video card driver and your sound card driver.
@@ -136,7 +140,7 @@ net user newusername newpassword /add
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b960cea017.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  6.3) Click the **Update** button next to the flagged video and audio card to automatically download and install the correct versions of them (you can do this with the FREE version).
@@ -144,6 +148,10 @@ net user newusername newpassword /add
  Or click **Update All**  to automatically download and install the correct version of **_all_** the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b963732280.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 7) Check if your Start menu is back.
 
@@ -158,7 +166,7 @@ net user newusername newpassword /add
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5: Uninstall Dropbox
@@ -174,10 +182,6 @@ net user newusername newpassword /add
  2) View by**Category** , then click**Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b984aa9035.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Find Dropbox, and click**Uninstall** to get it removed from your computer.
 
@@ -223,16 +227,12 @@ DISM /Online /Cleanup-Image /RestoreHealth
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b9c8a8bb33.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6) When these two tests finishes, check if your Start menu is back.
 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8: Reinstall Cortana
@@ -244,12 +244,16 @@ DISM /Online /Cleanup-Image /RestoreHealth
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b3b34111eb.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) On the top of the Task Manager window, select**File** option and then choose**Run new task** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b8999a1831.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Then type **powershell**  and t  ick the box for**Create this task with administrative privileges** . Click **OK** .
 
@@ -261,10 +265,6 @@ Get-AppXPackage -Name Microsoft.Windows.Cortana | Foreach {Add-AppxPackage -Disa
 de -Register "$($_.InstallLocation)\AppXManifest.xml"}
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b9cce6260c.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If this command is not working in your case, try the following command instead:
 
@@ -295,18 +295,19 @@ Get-AppXPackage -AllUsers | Foreach {Add-AppxPackage -DisableDevelopmentMode -Re
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-premier-gaming-liquids-best-of-breed-lists/"><u>[New] 2024 Approved Premier Gaming Liquids Best of Breed Lists</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-learn-free-online-methods-for-turning-facebook-videos-into-mp4-hd/"><u>[Updated] 2024 Approved Learn Free Online Methods for Turning Facebook Videos Into MP4 HD</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-vivavideo-uncovered-user-perspectives-and-features/"><u>[Updated] In 2024, VivaVideo Uncovered User Perspectives and Features</u></a></li>
-<li><a href="https://fox-that.techidaily.com/conquering-iphone-xs-biggest-pains-a-guide-to-easy-fixes/"><u>Conquering iPhone X's Biggest Pains: A Guide to Easy Fixes</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/effective-solutions-for-windows-based-hydro-series-h100i-v2-driver-errors/"><u>Effective Solutions for Windows-Based Hydro Series H100i v2 Driver Errors</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/fotoframe-prox-impressive-show-high-cost-concerns/"><u>FotoFrame ProX: Impressive Show, High Cost Concerns</u></a></li>
-<li><a href="https://fox-that.techidaily.com/identifying-and-fixing-key-issues-in-iphone-12-the-ultimate-list-of-problems-and-solutions/"><u>Identifying and Fixing Key Issues in iPhone 12 - The Ultimate List of Problems and Solutions</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Oppo Reno 11 5G? | Dr.fone</u></a></li>
-<li><a href="https://article-tips.techidaily.com/integrating-songs-and-snaps-online-for-2024/"><u>Integrating Songs and Snaps Online for 2024</u></a></li>
-<li><a href="https://win-brilliant.techidaily.com/las-mejores-herramientas-gratis-para-backup-de-windows-gro-10-explicadas-a-nivel-principiante/"><u>Las Mejores Herramientas Gratis Para Backup De Windows Gro 10 Explicadas a Nivel Principiante</u></a></li>
-<li><a href="https://fox-that.techidaily.com/resolving-issues-with-iphones-distance-based-sensor-malfunction/"><u>Resolving Issues with iPhone's Distance-Based Sensor Malfunction</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-guide-top-7-solutions-when-wireless-charging-fails-on-iphones/"><u>Troubleshooting Guide: Top 7 Solutions When Wireless Charging Fails on iPhones</u></a></li>
-<li><a href="https://fox-that.techidaily.com/understanding-the-limits-of-picture-in-picture-mode-on-ios-devices/"><u>Understanding the Limits of Picture-in-Picture Mode on iOS Devices</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mastery-over-light-and-shadow-with-hdr-software/"><u>[New] Mastery Over Light and Shadow with HDR Software</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-unveiling-a-simple-yet-powerful-copywriting-model-for-ads-for-2024/"><u>[New] Unveiling a Simple, Yet Powerful Copywriting Model for Ads for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-camstudio-screen-recorder-review-2023/"><u>[Updated] In 2024, CamStudio Screen Recorder Review 2023</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-the-8-best-zombie-games/"><u>[Updated] In 2024, The 8 Best Zombie Games</u></a></li>
+<li><a href="https://fox-that.techidaily.com/cant-get-alerts-during-dnd-discover-these-easy-ways-to-keep-texts-and-calls-coming-on-your-iphone/"><u>Can't Get Alerts During DND? Discover These Easy Ways to Keep Texts & Calls Coming on Your iPhone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/craft-a-chic-google-collage-in-minutes-not-hours-for-2024/"><u>Craft a Chic Google Collage in Minutes, Not Hours for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/cyberpunk-2077-encounters-critical-error-code-2024-what-players-need-to-know/"><u>Cyberpunk 2077 Encounters Critical Error Code 2024: What Players Need To Know</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-quick-and-easy-snapshot-sharing-a-step-by-point-guide/"><u>In 2024, Quick and Easy Snapshot Sharing – A Step-By Point Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/step-by-step-guide-to-troubleshooting-undelivered-messages-on-ios-devices/"><u>Step-by-Step Guide to Troubleshooting Undelivered Messages on iOS Devices</u></a></li>
+<li><a href="https://fox-that.techidaily.com/tablet-touch-issues-discover-8-reliable-fixes-to-restore-your-devices-sensitivity/"><u>Tablet Touch Issues? Discover 8 Reliable Fixes to Restore Your Device's Sensitivity</u></a></li>
+<li><a href="https://facebook.techidaily.com/techs-clash-of-titans-top-six/"><u>Tech's Clash of Titans: Top Six</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721456901622-time-sensitive-update-top-advantages-of-switching-to-ios-nnow-with-version-153/"><u>Time-Sensitive Update: Top Advantages of Switching to iOS Nnow with Version 15.3</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-and-fix-non-responsive-iphone-voicemail-with-these-easy-tips/"><u>Troubleshoot and Fix Non-Responsive iPhone Voicemail with These Easy Tips</u></a></li>
+<li><a href="https://fox-that.techidaily.com/ultimate-guide-using-apple-support-app-for-iphone-technical-assistance/"><u>Ultimate Guide: Using Apple Support App for iPhone Technical Assistance</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Tips: Resolving Issues with Non-Responsive AirPlay"
-date: 2024-08-15T12:03:32.342Z
-updated: 2024-08-16T12:03:32.342Z
+date: 2024-12-23T20:16:27.944Z
+updated: 2024-12-25T16:14:41.128Z
 tags:
   - iphone
   - apple
@@ -44,8 +44,9 @@ thumbnail: https://thmb.techidaily.com/a1972899444c7fd6c447adfaf7d10b9ab8c7ebd02
  If you're interested, browse our recommendations of the [best AirPlay receivers](https://www.makeuseof.com/tag/4-airplay-receivers-that-are-cheaper-than-apple-tv/) .
 
 <!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Adjust AirPlay Receiver Settings in macOS
 
 [Modern Macs running macOS Monterey or later can double as an AirPlay receiver](https://www.makeuseof.com/how-to-airplay-to-a-mac/) . This makes it possible to AirPlay content from another device to your Mac and even share a Mac's screen via AirPlay, provided the AirPlay Receiver setting is turned on, as discussed below.
@@ -57,13 +58,18 @@ thumbnail: https://thmb.techidaily.com/a1972899444c7fd6c447adfaf7d10b9ab8c7ebd02
  Now, even devices that don't use the same Apple ID as your Mac can AirPlay to it. To permit any nearby devices to see your Mac as an AirPlay receiver, click**Allow AirPlay for** , choose**Everyone** from the menu, and then click the**Allow Everyone** button.
 
 ![System Settings on macOS Sonoma displaying the Allow AirPlay for everyone option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/apple-macos-sonoma-system-settings-allow-airplay-for-everyone-menu-option.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can also let new devices AirPlay to your Mac without password verification by turning off the**Require password** option.
 
  Apple recommends using an iPhone 7 or later and at least a 2018 Mac for an ideal experience. However, you can still use AirPlay on older devices at a lower video resolution. For example, we could AirPlay from an iPhone 6s, which isn't on Apple's compatibility list.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Wake Devices and Keep Them Close
 
@@ -81,17 +87,11 @@ thumbnail: https://thmb.techidaily.com/a1972899444c7fd6c447adfaf7d10b9ab8c7ebd02
 
  Now, you can quickly start or stop AirPlay, mirror your Mac's screen, or use a nearby iPad as a second display—all from the menu bar.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Disable Automatic AirPlay to TVs
 
  An iPhone or iPad may automatically AirPlay content to your Apple TV or AirPlay-compatible smart TV every time you use the feature. To stop that from happening, go to **Settings > General > AirPlay & Handoff > Automatically AirPlay** and choose**Never** .
 
 ![Apple iOS 17 Settings App Airplay and Handoff Section Highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/apple-ios-17-settings-app-airplay-and-handoff-section-highlighted.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 
 ![Apple iOS 17 Settings App Airplay and Handoff Section Automatically AirPlay Highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/apple-ios-17-settings-app-airplay-and-handoff-section-automatically-airplay-highlighted.jpg)
 
@@ -102,31 +102,21 @@ Close
  Doing so shall stop your iPhone from automatically connecting to a nearby AirPlay receiver like your Apple TV whenever you want to cast something on your Mac.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Turn Off Airplane Mode
 
  Enabling Airplane Mode on an iPhone or iPad turns off all wireless radios except Bluetooth. AirPlay requires both Wi-Fi and Bluetooth, so you'll need to quit Airplane Mode to use AirPlay.
 
 ![Closeup of iPhone's Settings app with Airplane Mode disabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/apple-ios-17-settings-app-airplane-mode-disabled.jpg)
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Open the Control Center on your iPhone or iPad by swiping down from the top-right corner, then touch a little airplane icon to toggle Airplane Mode. Alternatively, go to**Settings > Airplane Mode** to turn the feature on or off.
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Switch on Bluetooth
 
  Bluetooth must be enabled on both ends to allow the sender and receiver to discover each other. You can turn on Bluetooth on an iPhone and iPad in a couple of ways.
@@ -135,13 +125,14 @@ Close
 
 ![iOS 17 Settings with Bluetooth enabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/apple-ios-17-settings-app-bluetooth-enabled.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Close
 
  One way is to pull down from the top-right corner and enable the**Bluetooth** toggle in the Control Center. Alternatively, you can go to**Settings > Bluetooth** on your iPhone and use the toggle to disable the feature.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 8\. Use the Same Wi-Fi Network
 
  Peer-to-peer AirPlay lets AirPlay work even if the devices aren't on the same Wi-Fi network or any network for that matter. If peer-to-peer discovery isn't working for you, you should ensure both devices are connected to the same Wi-Fi network for best results.
@@ -149,14 +140,12 @@ Close
  To check what network you're currently using on your iOS or iPadOS device, visit**Settings > Wi-Fi** to view the current network name.
 
 ![iOS 17 Settings with the Wi-Fi section showing the current network](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/apple-ios-17-settings-app-wi-fi-section-highlighted-disabled.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![iOS 17 Settings with the Wi-Fi highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/apple-ios-17-settings-app-wi-fi-section-network-name-highlighted.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 
 Close
 
@@ -167,8 +156,9 @@ Close
  In case of any problems, we recommend checking our [tips for when your Mac won't connect to Wi-Fi](https://www.makeuseof.com/tag/mac-wont-connect-wifi/) . Apple TV users can check their current network in the**Settings > Network** menu.
 
 ![Apple TV 4K displaying the Wi-Fi network name in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/apple-tv-4k-settings-wi-fi-network-name.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If your Apple TV uses an Ethernet connection, be sure to connect it to the same router that creates your home's Wi-Fi connection.
@@ -177,14 +167,15 @@ Close
 
  Sometimes, the best solution is to restart all the devices you wish to use with AirPlay. On iOS and iPadOS, choose**Settings > General > Shut Down** . On tvOS, select**Settings > System > Restart** . To restart your Mac, click the**Apple** menu and choose**Restart** .
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 10\. Reboot Your Router
 
  Among the reasons AirPlay cannot stream your content could be an issue with your router. It might be that your router is restricting content due to a minor problem with its firmware. In most cases, you can [fix connection issues by turning a router off and back on](https://www.makeuseof.com/why-rebooting-router-works/) .
 
 ![image of ethernet cables connected to router](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/ethernet-router-connection.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 11\. Tweak Your Firewall Settings in macOS
 
@@ -193,6 +184,10 @@ Close
  Head over to**System Settings > Network** and click**Firewall** on the right. Next, click**Options** below the**Firewall** toggle if it's enabled. Now, turn off the**Block all incoming connections** switch at the top and enable the option labeled **Automatically allow downloaded signed software to receive incoming connections** .
 
 ![Firewall settings on macOS Sonoma with the option to allow signed software enabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/apple-macos-sonoma-firewall-settings-allow-singed-software-enabled.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Lastly, click**OK** to save your changes.
 
@@ -205,9 +200,6 @@ Close
 * [Updating your Apple TV](https://www.makeuseof.com/how-to-update-apple-tv/) : **Settings > System > Software Updates > Update Software**
 * [Updating your HomePod](https://www.makeuseof.com/how-to-update-homepod-homepod-mini/) : **Home app > More (…) > Home Settings > Software Update**
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Other Options for Connecting Apple Devices
 
  It can be frustrating when AirPlay stops functioning when you need it most. Trying out the tips outlined above should fix your AirPlay woes. If not, it's probably time to contact Apple Support.
@@ -220,8 +212,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -229,4 +219,18 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-entry-level-expenditure-cost-effective-platforms-for-youtube-purchases/"><u>[Updated] 2024 Approved Entry-Level Expenditure Cost-Effective Platforms for YouTube Purchases</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-best-tools-to-track-popular-tags-on-fb-twt-and-ig-networks-for-2024/"><u>[Updated] Best Tools to Track Popular Tags on FB, Twt & IG Networks for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-essential-techniques-for-designing-youtube-video-thumbnails/"><u>[Updated] In 2024, Essential Techniques for Designing YouTube Video Thumbnails</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/e-delight-endless-looping-of-youtube-videos-for-tvs-for-2024/"><u>Double Delight Endless Looping of YouTube Videos for TVs for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721445536785-iphone-home-button-not-working-try-these-5-easy-repairs-first/"><u>IPhone Home Button Not Working? Try These 5 Easy Repairs First!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-account-security-changing-reset-counter-after-failed-logins/"><u>Optimizing Account Security: Changing Reset Counter After Failed Logins</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-iphone-boot-issues-7-strategies-to-escape-the-apple-logo-loop/"><u>Overcoming iPhone Boot Issues: 7 Strategies to Escape the Apple Logo Loop</u></a></li>
+<li><a href="https://fox-that.techidaily.com/retrieve-unintentionally-erased-reminders-from-your-ipad-with-ease/"><u>Retrieve Unintentionally Erased Reminders From Your iPad with Ease</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/top-android-cloud-saving-tools/"><u>Top Android Cloud Saving Tools</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-iphoneipad-to-restore-functional-icloud-preferences/"><u>Troubleshooting iPhone/iPad to Restore Functional iCloud Preferences</u></a></li>
+<li><a href="https://fox-that.techidaily.com/understanding-iphone-unresponsiveness-a-list-of-7-common-issues-and-fixes/"><u>Understanding iPhone Unresponsiveness: A List of 7 Common Issues and Fixes</u></a></li>
+</ul></div>
 

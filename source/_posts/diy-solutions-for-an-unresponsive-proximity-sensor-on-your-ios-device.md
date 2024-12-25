@@ -1,7 +1,7 @@
 ---
 title: DIY Solutions for an Unresponsive Proximity Sensor on Your iOS Device
-date: 2024-08-15T12:04:42.842Z
-updated: 2024-08-16T12:04:42.842Z
+date: 2024-12-22T19:17:01.833Z
+updated: 2024-12-25T18:01:21.037Z
 tags:
   - iphone
   - apple
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/8728071c55cb4a9d737d3c276cbce71523d45848b
  All modern smartphones come with a proximity sensor, which detects when your face or any object is near it. These sensors are useful for saving energy and preventing accidental touch inputs while on a phone call by turning off the screen.
 
  iPhones are no different, and just like other phones, your iPhone's proximity sensor could get damaged or become unresponsive. If you run into this issue, there are some actions you could take to isolate the problem and fix it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Test the Proximity Sensor on an iPhone
 
@@ -41,6 +45,10 @@ Here are some things you could do to check if it's working:
 
 ![person cleaning a phone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/cleaning-phone.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The most likely culprit is dirt and gunk that has accumulated on the top half of your screen, making it difficult for the emitter or sensor to work. You will run into this issue if you have sweaty or oily skin.
 
  While you could try a quick wipe against your shirt or some other cloth, the best thing to do is [clean your iPhone properly](https://www.makeuseof.com/tag/clean-iphone-guide/) . Use a moist, lint-free cloth and gently but thoroughly wipe the dirt away in one direction.
@@ -60,36 +68,26 @@ Here are some things you could do to check if it's working:
  Head to**Settings > General > Software Update** and let the phone scan for updates. If any update appears, select**Download and Install** .
 
 ![iPhone searching for updates in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-searching-for-updates-in-settings.jpeg)
+
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Software update information on iOS for iOS 16.6](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/software-update-information-on-ios-for-ios-16-6.jpeg)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 
 ![Update terms and conditions on iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/update-terms-and-conditions-on-ios.jpeg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 Close
 
  Your phone will restart a couple of times, but it will stabilize when it's finished. Test the proximity sensor again using our steps above.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 4\. Remove the Screen Protector
 
 ![man applying screen protector to smartphone feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/man-applying-screen-protector-to-smartphone-feature.jpg)
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  Image Credit: Nor Gal/[Shutterstock](https://www.shutterstock.com/image-photo/man-replacing-broken-tempered-glass-screen-1106925758)
 
@@ -115,8 +113,9 @@ Here's a brief rundown of how to do it:
  Take your iPhone to a nearby Apple Store or an Apple-authorized service provider; they should be able to help you. If your iPhone is still under warranty, Apple will fix your device at no additional cost if there are no signs of accidental damage. Scenarios like this make having an [extended AppleCare+ warranty](http://www.makeuseof.com/tag/applecare-what-are-your-options-is-it-really-worth-it/) very attractive because accidental damage is covered under this plan.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Proximity Sensor Is an Important Part of Your iPhone
 
  While your phone doesn't need it to function, there's no denying that your iPhone experience will be seriously impaired without a proximity sensor. It's integral to the way touchscreen phones work for phone calls.
@@ -129,8 +128,6 @@ Here's a brief rundown of how to do it:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -138,4 +135,20 @@ Here's a brief rundown of how to do it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-capture-and-compose-best-writing-apps-for-photos-iosandroid/"><u>2024 Approved Capture and Compose Best Writing Apps for Photos (iOS/Android)</u></a></li>
+<li><a href="https://fox-that.techidaily.com/6-steps-to-fix-guided-access-glitches-on-your-ios-device/"><u>6 Steps to Fix Guided Access Glitches on Your iOS Device</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-windows-11-usability-widgets-for-your-desktop/"><u>Enhancing Windows 11 Usability: Widgets for Your Desktop</u></a></li>
+<li><a href="https://fox-that.techidaily.com/expert-tips-using-the-apple-support-app-for-easy-iphone-troubleshooting/"><u>Expert Tips: Using the Apple Support App for Easy iPhone Troubleshooting</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-honor-magic-5-lite-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Honor Magic 5 Lite? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-reactivate-forgotten-regedit-on-your-pc/"><u>How To Reactivate Forgotten Regedit on Your PC</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-savory-scenes-mastering-the-art-of-eating-focused-filmography/"><u>In 2024, Savory Scenes Mastering the Art of Eating-Focused Filmography</u></a></li>
+<li><a href="https://fox-that.techidaily.com/mute-or-malfunction-diagnose-and-repair-iphones-silent-stubbornness/"><u>Mute or Malfunction? Diagnose and Repair iPhone's Silent Stubbornness</u></a></li>
+<li><a href="https://fox-that.techidaily.com/navigating-the-process-enabling-ipads-recovery-mode-with-ease/"><u>Navigating the Process: Enabling iPad's Recovery Mode with Ease</u></a></li>
+<li><a href="https://fox-that.techidaily.com/remedies-for-iphone-proximity-recognition-failure-a-step-by-step-guide/"><u>Remedies for iPhone Proximity Recognition Failure: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-fixes-to-correct-the-file-not-found-msvcrtdll-issue-on-your-computer/"><u>Step-by-Step Fixes to Correct the File Not Found MSVCRT.DLL Issue on Your Computer</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-a-frozen-ios-phone-swift-fixes-that-work/"><u>Troubleshooting a Frozen iOS Phone: Swift Fixes That Work</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/troubleshooting-and-correcting-javascript-issues-in-your-discord-bot-code/"><u>Troubleshooting and Correcting JavaScript Issues in Your Discord Bot Code</u></a></li>
+</ul></div>
 

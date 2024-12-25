@@ -1,7 +1,7 @@
 ---
 title: Keyboard Malfunctioning on iOS Devices? Top 5 Fixes Inside
-date: 2024-11-24T00:41:53.179Z
-updated: 2024-11-25T00:04:26.960Z
+date: 2024-12-18T22:25:33.431Z
+updated: 2024-12-25T18:41:44.802Z
 tags:
   - iphone
   - apple
@@ -19,10 +19,6 @@ thumbnail: https://thmb.techidaily.com/d7456d8b7faa111d0a43957b4a5dc6a2bd7fa022e
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Quick Links
 
 * [iPhone or iPad Keyboard Isn't Showing Up](https://www.makeuseof.com/iphone-ipad-keyboard-not-working-solutions/#iphone-or-ipad-keyboard-isn-39-t-showing-up)
@@ -33,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/d7456d8b7faa111d0a43957b4a5dc6a2bd7fa022e
 * [General Fixes When Your iPhone or iPad Keyboard Doesn't Work](https://www.makeuseof.com/iphone-ipad-keyboard-not-working-solutions/#general-fixes-when-your-iphone-or-ipad-keyboard-doesn-39-t-work)
 
  Is your iPhone or iPad keyboard not showing up, typing the wrong letters, or malfunctioning in some other way? We'll go through common problems and the corresponding solutions you can try when your iPhone or iPad's on-screen or physical keyboard isn't working.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. iPhone or iPad Keyboard Isn't Showing Up
 
@@ -50,11 +50,11 @@ Close
 
 ![expanded iphone keyboards setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/expanded-iphone-keyboards-setting.PNG)
 
-![iphone keyboard language list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/iphone-keyboard-language-list.PNG)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![iphone keyboard language list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/iphone-keyboard-language-list.PNG)
 
 ![keyboard language list on iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/keyboard-language-list-on-iphone.PNG)
 
@@ -63,10 +63,6 @@ Close
 ## 2\. iPhone or iPad Keyboard Typing the Wrong Letters and Words
 
  Almost everyone has had a text message needlessly autocorrected by their iPhone or iPad. But if this happens too frequently, and there are more mistakes than accurate corrections, here's what you should do.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Test Your iPhone or iPad Screen
 
@@ -86,16 +82,12 @@ Close
 
 ![expanded iphone keyboards setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/expanded-iphone-keyboards-setting.PNG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![iphone text replacement setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/iphone-text-replacement-setting.PNG)
 
 ![removal of preset text in iphone text replacement setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/removal-of-preset-text-in-iphone-text-replacement-setting.PNG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Close
@@ -112,6 +104,10 @@ Close
 
 ![iphone general settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_7383.JPEG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![transfer or reset iphone settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_7384.JPEG)
 
 ![transfer or reset iphone settings confirmation window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_7385.JPEG)
@@ -119,7 +115,7 @@ Close
 Close
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Review Your Touch Accommodations Settings in Accessibility
@@ -132,12 +128,16 @@ Close
 
 ![ipohne touch setting with touch accommodations toggled on](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/ipohne-touch-setting-with-touch-accommodations-toggled-on.PNG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![iphone touch accommodations setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/iphone-touch-accommodations-setting.PNG)
 
 Close
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. No Sound or Vibration When Typing on the Keyboard
@@ -148,12 +148,16 @@ Close
 
 ![iphone settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/iphone-settings-app-1.PNG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![iphone sounds and haptics settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/iphone-sounds-and-haptics-settings.PNG)
 
 ![iphone keyboard feedback setting with sound and haptic enabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/iphone-keyboard-feedback-setting-with-sound-and-haptic-enabled.PNG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Close
@@ -163,10 +167,6 @@ Close
 ![iphone accessibility setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/iphone-accessibility-setting.PNG)
 
 ![iphone touch accessibility setting with vibration toggled on](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/iphone-touch-accessibility-setting-with-vibration-toggled-on.PNG)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Close
 
@@ -186,6 +186,10 @@ Close
 
  However, if you're using a third-party keyboard that's connected to your iPad via Bluetooth, toggle off Bluetooth on your iPad, wait for a few moments, then toggle it on and connect your keyboard again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. General Fixes When Your iPhone or iPad Keyboard Doesn't Work
 
  If your iPhone or iPad keyboard is still not working after going through the above troubleshooting methods, you can try a few generic solutions. First,[restart your iPhone](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) or iPad by turning it off and on again. However, if the on-screen keyboard is frozen, you may need to [force restart your iPhone](https://www.makeuseof.com/iphone-soft-reset/) or iPad instead.
@@ -193,10 +197,6 @@ Close
  Secondly, go to**Settings > General > Software Update** to check if a newer version of iOS or iPadOS is available for your device. Apple frequently rolls out updates that include bug fixes and performance improvements, which may help solve keyboard problems if it hasn't been working right.
 
 ![iphone general settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/iphone-general-settings-2.JPEG)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![iPhone General settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/iphone-general-settings.JPEG)
 
@@ -223,24 +223,17 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-dial-up-discovery-mastering-quick-search-on-social-media-for-2024/"><u>[New] Dial-Up Discovery Mastering Quick Search on Social Media for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-capturing-sound-in-windows-11-explained/"><u>[New] In 2024, Capturing Sound in Windows 11 Explained</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-livestream-elite-top-equipment-for-youtube-content-creators/"><u>[Updated] Livestream Elite Top Equipment For YouTube Content Creators</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-unravel-costs-liberating-your-vob-experience-pcmac/"><u>2024 Approved Unravel Costs Liberating Your VOB Experience (PC/Mac)</u></a></li>
-<li><a href="https://win11.techidaily.com/cm-3/"><u>動画素材中のCMパターンを見つけ出せ: 3つのスニファリティ方法</u></a></li>
-<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Xiaomi Civi 3 Disney 100th Anniversary Edition? | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/connectivity-glitches-between-iphones-and-computers-how-to-fix-them/"><u>Connectivity Glitches Between iPhones and Computers: How to Fix Them</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-the-six-greatest-super-mario-rpgs-available-on-pc/"><u>Discover the Six Greatest Super Mario RPGs Available on PC</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-xcover-7-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy XCover 7 Bootloader Easily</u></a></li>
-<li><a href="https://fox-that.techidaily.com/iphone-rejuvenation-guide-no-itunes-needed/"><u>IPhone Rejuvenation Guide: No iTunes Needed</u></a></li>
-<li><a href="https://fox-that.techidaily.com/navigating-tech-snags-comprehensive-instructions-to-fix-your-iphones-error-14/"><u>Navigating Tech Snags: Comprehensive Instructions to Fix Your iPhone's Error 14</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-simplified-singing-separation-tools-ideal-for-novices-and-experts/"><u>New 2024 Approved Simplified Singing Separation Tools Ideal for Novices & Experts</u></a></li>
-<li><a href="https://fox-that.techidaily.com/overcome-iphone-camera-glitches-the-ultimate-guide-to-solving-7-frequent-problems/"><u>Overcome iPhone Camera Glitches: The Ultimate Guide to Solving 7 Frequent Problems</u></a></li>
-<li><a href="https://fox-that.techidaily.com/seamless-syncing-secrets-overcome-your-airpods-connection-issues-between-apple-products/"><u>Seamless Syncing Secrets: Overcome Your AirPods' Connection Issues Between Apple Products</u></a></li>
-<li><a href="https://fox-that.techidaily.com/sent-from-my-iphone-avoid-the-frustration-of-non-delivery-sms-try-these-10-fixes/"><u>Sent From My iPhone: Avoid the Frustration of Non-Delivery SMS – Try These 10 Fixes</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solutions-for-a-flickering-phone-screen-top-7-tips/"><u>Solutions for a Flickering Phone Screen: Top 7 Tips</u></a></li>
-<li><a href="https://fox-that.techidaily.com/tackling-the-mystery-of-ghost-touch-on-iphone-screens-discover-10-useful-fixes-to-try-right-now/"><u>Tackling the Mystery of Ghost Touch on iPhone Screens – Discover 10 Useful Fixes to Try Right Now</u></a></li>
-<li><a href="https://fox-that.techidaily.com/the-complete-guide-to-dealing-with-iphone-14s-battery-life-concerns/"><u>The Complete Guide to Dealing with iPhone 14'S Battery Life Concerns</u></a></li>
-<li><a href="https://facebook.techidaily.com/unobtrusive-strategies-for-gaining-access-to-confidential-fb-videos/"><u>Unobtrusive Strategies for Gaining Access to Confidential FB Videos</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-premium-gpus-engineered-for-4k-gaming/"><u>[Updated] 2024 Approved Premium GPUs Engineered for 4K Gaming</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-9-zero-price-programs-to-take-your-videos-from-average-to-amazing/"><u>[Updated] In 2024, 9 Zero Price Programs to Take Your Videos From Average to Amazing</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-masterclass-in-making-engaging-video-lessons-your-step-by-step-guide-for-youtube/"><u>[Updated] Masterclass in Making Engaging Video Lessons Your Step-by-Step Guide for YouTube</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-ultimate-guide-to-easy-content-making-10-basic-youtube-videos/"><u>[Updated] The Ultimate Guide to Easy Content Making 10 Basic YouTube Videos</u></a></li>
+<li><a href="https://fox-that.techidaily.com/eliminating-robloxs-memory-crunch-tips-for-iphone-owners/"><u>Eliminating Roblox's Memory Crunch: Tips for iPhone Owners</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expert-recommendations-free-and-paid-hd-playback-for-pcmacos-for-2024/"><u>Expert Recommendations Free & Paid HD Playback for PC/macOS for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-new-lens-on-sonys-s6500-bdp-features/"><u>In 2024, The New Lens on Sony’s S6500 BDP Features</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/resolving-problems-with-microsoft-edge-a-step-by-step-tutorial/"><u>Resolving Problems with Microsoft Edge - A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/seamless-activation-of-chatgpt-on-linux-a-comprehensive-bavarder-walkthrough/"><u>Seamless Activation of ChatGPT on Linux: A Comprehensive Bavarder Walkthrough</u></a></li>
+<li><a href="https://fox-that.techidaily.com/silent-and-ring-mode-glitch-discover-eight-methods-to-get-your-iphone-vibrating-again/"><u>Silent and Ring Mode Glitch: Discover Eight Methods to Get Your iPhone Vibrating Again</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-the-mystery-of-gone-iphone-applications-discover-where-they-went-and-how-to-retrieve-them/"><u>Solving the Mystery of Gone iPhone Applications: Discover Where They Went and How to Retrieve Them</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-iphones-final-line-unavailable-issue-a-step-by-step-guide/"><u>Troubleshooting iPhone's Final Line Unavailable Issue: A Step-by-Step Guide</u></a></li>
 </ul></div>
 

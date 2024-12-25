@@ -1,7 +1,7 @@
 ---
 title: WhatsApp Camera Woes? Learn How to Adjust Zoom Settings Properly
-date: 2024-08-15T12:03:45.430Z
-updated: 2024-08-16T12:03:45.430Z
+date: 2024-12-18T17:51:56.394Z
+updated: 2024-12-25T21:39:13.727Z
 tags:
   - iphone
   - apple
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/8eb93e1b1b19fd0df7a5c4a69b010fd291b98c2d5
 
  If there is a backend issue, WhatsApp will investigate it, and all you need to do is wait. However, if the problem lies solely with you, you can begin applying the fixes listed below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Rule Out Hardware Issues
 
  First, rule out hardware issues to ensure a problem with the hardware isn't causing the camera to appear zoomed-in on WhatsApp. For that, perform the following checks:
@@ -36,6 +40,10 @@ thumbnail: https://thmb.techidaily.com/8eb93e1b1b19fd0df7a5c4a69b010fd291b98c2d5
 * Clean your cell phone camera thoroughly to ensure that the captured image does not appear zoomed-in because of a dusty lens.
 
  If the above checks fail to diagnose the main problem, suggesting there is no hardware issue, move on to the next step.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Rule Out Temporary Glitches
 
@@ -62,29 +70,24 @@ thumbnail: https://thmb.techidaily.com/8eb93e1b1b19fd0df7a5c4a69b010fd291b98c2d5
 5. Install the non-beta version of WhatsApp Messenger.
 
 ![Clicking on Leave Button to Leave Beta Tester Mode of App on Google Play Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Clicking-on-Leave-Button-to-Leave-Beta-Tester-Mode-of-App-on-Google-Play-Store.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Clicking on Leave in the Confirmation Pop-Up to Leave Beta Program of an App in Google Play Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Clicking-on-Leave-in-the-Confirmation-Pop-Up-to-Leave-Beta-Program-of-an-App-in-Google-Play-Store.jpg)
 
 ![Google Play Store Removing User From the Beta Tester](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Google-Play-Store-Removing-User-From-the-Beta-Tester.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 Close
 
  Hopefully, opting out of WhatsApp Messenger (Beta) will resolve the issue. If not, move on to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Ensure Your Device Has Enough Storage
 
  It's common to experience problems with your installed apps if there is insufficient space on your phone. So, if your phone is always running out of storage, you should free up the space to give WhatsApp breathing room to function correctly.
 
  Check out our articles on how to [clear storage space on Android](https://www.makeuseof.com/how-to-free-up-storage-on-your-samsung-phone/) and [free up space on iOS](https://www.makeuseof.com/tag/iphone-storage-full-create-free-space-ios/) to learn how to do it effectively.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Update the WhatsApp App
 
@@ -96,11 +99,16 @@ Follow the below steps to update WhatsApp Messenger on Android:
 2. Tap on the**Update** button next to WhatsApp Messenger. (If there is an**Open** button instead of an**Update** button, the application is already up-to-date)
 
 ![Visiting the WhatsApp Messenger’s Download Page on Google Play Store on Android](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Image-1-.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![WhatsApp App Got Updated in Google Play Store on Android](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Image-2-.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -121,9 +129,6 @@ Close
 
  If updating the app fixes the issue, keep auto-update enabled on your phone to avoid experiencing the same problem again. If you've already updated the app, or if updating it doesn't make any difference, move on to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ## 6\. Clear WhatsApp Cache and Data
 
  The accumulation of cached data can also lead to unforeseen problems with apps. So, when updating the app does not work, you should clear its cache.
@@ -137,16 +142,14 @@ To clear the WhatsApp cache on Android, follow these steps:
 ![Opening the Apps Option in the Settings App for Android](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/1-Opening-the-Apps-Option-in-the-Settings-App-for-Android.jpg)
 
 ![Selecting WhatsApp from the List of Installed Apps in the Settings App for Android](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/2-Selecting-WhatsApp-from-the-List-of-Installed-Apps-in-the-Settings-App-for-Android.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 
 ![Clicking on the Storage Settings under WhatsApp’s App Info Tab in Settings App for Android](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/3-Clicking-on-the-Storage-Settings-under-WhatsApp’s-App-Info-Tab-in-Settings-App-for-Android.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 
 ![Clearing Cache by Clicking on the Clear Cache Button in the Bottom-Right Corner under Storage Option in Settings App for Android](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/4-Clearing-Cache-by-Clicking-on-the-Clear-Cache-Button-in-the-Bottom-Right-Corner-under-Storage-Option-in-Settings-App-for-Android.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -160,18 +163,13 @@ To clear the WhatsApp cache on iOS, follow these steps:
 ![Opening the General Option in the Settings App for iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/1-1.jpg)
 
 ![Clicking on the iPhone Storage Option in the General Tab in Settings App for iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/2-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 ![Selecting WhatsApp from the List of Installed Apps in the Storage Tab in Settings App for iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/3-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Clicking on Offload App Button Right Below WhatsApp in Settings App for iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/4-1.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Close
@@ -179,27 +177,20 @@ Close
 If clearing the cache doesn't help, move on to the next step.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Reinstall WhatsApp
 
  If none of the fixes listed above work, you should reinstall WhatsApp. Uninstall the WhatsApp app from your device and install it from the Google Play Store (for Android) or App Store (for iOS) as you usually would.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ## 8\. Use the Camera App to Take Photos Instead
 
  Hopefully, reinstalling the app will resolve the issue. But if it doesn't, try using the mobile camera app instead. This way, you can capture the perfect shots and share them directly on your status or to your contacts without using the WhatsApp built-in camera interface.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Capture the Perfect Shots Within WhatsApp
 
@@ -213,8 +204,6 @@ No advertising on the website.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -222,4 +211,21 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-top-quality-economical-cam-recorder/"><u>[New] 2024 Approved Top Quality Economical Cam Recorder</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-innovation-at-speed-how-to-make-stunning-slow-motion-content-with-an-android/"><u>[New] Innovation at Speed How to Make Stunning Slow-Motion Content with an Android</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-vid-wizards-guide-to-glitter-and-glamour-creating-your-chanel/"><u>[Updated] In 2024, Vid-Wizards Guide to Glitter and Glamour Creating Your Chanel</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-mastering-360-videos-for-fb-creation-and-sharing-guide/"><u>[Updated] Mastering 360 Videos for FB Creation & Sharing Guide</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-desktop-dials-adjusting-audio-to-a-whisper/"><u>2024 Approved Desktop Dials Adjusting Audio to a Whisper</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/enhancing-tabletop-adventures-with-chatgpt-tips-and-tricks-for-dandd-gamers/"><u>Enhancing Tabletop Adventures with ChatGPT - Tips and Tricks for D&D Gamers</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-fix-when-siri-stops-responding-on-your-apple-device/"><u>How to Fix When Siri Stops Responding on Your Apple Device</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-honor-magic-6-pro-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Honor Magic 6 Pro to Another | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-11-apples-new-iphone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 11, Apples New iPhone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/locating-a-missing-iphone-effective-use-of-find-my-app/"><u>Locating a Missing iPhone: Effective Use of Find My App</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolving-iphone-startup-jams-seven-proven-techniques-for-bypassing-the-apple-emblem/"><u>Resolving iPhone Startup Jams: Seven Proven Techniques for Bypassing the Apple Emblem</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721477101911-troubleshoot-the-iphone-contacts-app-top-3-fixes-to-try-now/"><u>Troubleshoot the iPhone Contacts App - Top 3 Fixes to Try Now</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-steps-safari-crashes-or-freezes-on-iphones/"><u>Troubleshooting Steps: Safari Crashes or Freezes on iPhones</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-vanished-contacts-solutions-for-iphone-users/"><u>Troubleshooting Vanished Contacts: Solutions for iPhone Users</u></a></li>
+</ul></div>
 

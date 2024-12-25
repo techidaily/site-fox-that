@@ -1,7 +1,7 @@
 ---
 title: Can't Access the Control Center on Your iPhone? Try These 8 Effective Remedies Now!
-date: 2024-08-15T12:05:15.815Z
-updated: 2024-08-16T12:05:15.815Z
+date: 2024-12-19T20:36:46.858Z
+updated: 2024-12-25T19:50:57.684Z
 tags:
   - iphone
   - apple
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/23e666886afecfc048aeb4d50e179c98091d3b2c2
 
 ![A mirofiber cloth on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/a-mirofiber-cloth-on-an-iphone.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Turn Off VoiceOver
 
  For those unaware, VoiceOver is one of the many [accessibility features in iOS](https://www.makeuseof.com/overview-of-all-accessibility-features-iphone/) that lets a visually impaired person interact with their iPhone. It's a gesture-based screen reader that gives an audio description of what's on the screen. Unfortunately, you can't access the Control Center when VoiceOver is active.
@@ -37,9 +41,6 @@ thumbnail: https://thmb.techidaily.com/23e666886afecfc048aeb4d50e179c98091d3b2c2
 ![iPhone Setting Accessibility](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-setting-accessibility.jpg)
 
 ![iPhone Settings VoiceOver option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-settings-voiceover-option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 
 ![iPhone Settings VoiceOver toggle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-settings-voiceover-toggle.jpg)
 
@@ -56,18 +57,13 @@ Close
 3. Enable the**Control Center** toggle.
 
 ![iPhone Settings Face ID & Passcode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-settings-face-id-passcode.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 ![iPhone Enter Passcode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-enter-passcode.jpg)
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![iPhone Face ID & Passcode settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-face-id-passcode-settings.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Close
@@ -81,6 +77,10 @@ Close
  The process of enabling Control Center access within apps is pretty straightforward. Open the**Settings** app, select**Control Center** , and toggle on**Access Within Apps** .
 
 ![iPhone Settings Control Center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-settings-control-center.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![iPhone Control Center Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-control-center-settings.jpg)
 
@@ -99,24 +99,19 @@ Close
 3. Press the**Download and Install** button to initiate the update.
 
 ![iPhone General in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-general-in-settings.jpeg)
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![iPhone Software Update option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-software-update-option.jpeg)
 
-![iPhone Download and Install update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-download-and-install-update.jpeg)
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![iPhone Download and Install update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-download-and-install-update.jpeg)
 
 Close
 
  Once your iPhone is running the latest iOS version, try opening the Control Center again. If it's still not working, try some other solutions mentioned below.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 6\. Remove and Add Controls to Control Center
 
  Another possible reason you're unable to use Control Center on your iPhone could be a specific control that isn't working due to a bug.
@@ -130,29 +125,22 @@ Close
 
 ![iPhone Control Center Settings-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-control-center-settings-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![iPhone Control Center Remove button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-control-center-remove-button.jpg)
 
-![iPhone Control Center Add option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-control-center-add-option.jpg)
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![iPhone Control Center Add option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-control-center-add-option.jpg)
 
 Close
 
  After [customizing the Control Center on your iPhone](https://www.makeuseof.com/how-to-use-customize-control-center-iphone/) , try launching it again to check if the issue is fixed.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. Restart Your iPhone
 
  The best and quickest approach to resolve any software issue you might be experiencing on your iPhone is to restart it. Therefore, a simple restart should fix this Control Center issue. However, there's no dedicated restart button, so you need to turn it off and back on.
@@ -160,15 +148,13 @@ Close
  To shut down your iPhone, press and hold the side or power button if you have an iPhone 8 or older model. On the other hand, if you have an iPhone X or newer model, long-press the side and either volume down together. Then, drag the power-off slider to the right to turn it off.
 
 ![iPhone slide to power off](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-slide-to-power-off.jpg)
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can [restart your iPhone even if its buttons are broken](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) . Turn your iPhone on and check if you can access the Control Center.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 8\. Reset Your iPhone's Settings
 
  Your final option is to reset all the settings of your iPhone if the Control Center is still not functioning properly despite applying all the methods mentioned in this post.
@@ -182,15 +168,20 @@ Close
 ![iPhone Settings Tranfer or Reset iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-settings-tranfer-or-reset-iphone.jpg)
 
 ![iPhone Reset Settings option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-reset-settings-option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 
 ![iPhone Reset All Settings option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-reset-all-settings-option.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
  Enter your passcode for verification, and iOS will reset your iPhone's settings. Now, try accessing the Control Center gain.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Resolve Your Control Center Issues
 
@@ -204,8 +195,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -213,4 +202,21 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/updated-explore-6-superior-nft-tools-for-artistic-innovation/"><u>[Updated] Explore 6 Superior NFT Tools for Artistic Innovation</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-expert-tips-building-meme-foundations/"><u>[Updated] In 2024, Expert Tips Building Meme Foundations</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-snap-into-hilarity-meme-creation-made-simple/"><u>2024 Approved Snap Into Hilarity Meme Creation Made Simple</u></a></li>
+<li><a href="https://fox-that.techidaily.com/6-effective-solutions-for-iphone-and-ipad-keyboard-problems/"><u>6 Effective Solutions for iPhone and iPad Keyboard Problems</u></a></li>
+<li><a href="https://win-forum.techidaily.com/easily-undo-recent-windows-11-changes-with-this-simple-method/"><u>Easily Undo Recent Windows 11 Changes with This Simple Method</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fix-your-iphone-sos-only-dilemma-with-these-6-powerful-techniques-addressed-to-the-status-bar-glitch/"><u>Fix Your iPhone SOS-Only Dilemma with These 6 Powerful Techniques Addressed to the Status Bar Glitch</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/from-idea-to-action-founding-your-consumer-product-assessment-site/"><u>From Idea to Action Founding Your Consumer Product Assessment Site</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-keep-your-airpods-from-switching-between-different-apple-devices-smoothly/"><u>How to Keep Your AirPods From Switching Between Different Apple Devices Smoothly</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-brightening-videos-android-tips/"><u>In 2024, Brightening Videos Android Tips</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/iphone-slow-motion-camera-video/"><u>IPhone Slow-Motion Camera Video</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solve-that-pixelated-problem-7-quick-ways-to-stop-your-phones-flicker-issues/"><u>Solve That Pixelated Problem: 7 Quick Ways to Stop Your Phone's Flicker Issues</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-10-solutions-to-prevent-your-iphone-apps-from-crashing/"><u>Top 10 Solutions to Prevent Your iPhone Apps From Crashing</u></a></li>
+<li><a href="https://fox-access.techidaily.com/top-premier-sound-storylines/"><u>Top Premier Sound Storylines</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-tips-what-to-do-when-you-encounter-iphone-error-14/"><u>Troubleshooting Tips: What to Do When You Encounter iPhone Error 14</u></a></li>
+</ul></div>
 

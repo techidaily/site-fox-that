@@ -1,7 +1,7 @@
 ---
 title: "Unstick Your Phone: A Guide Through the 8 Steps Past Headphone Mode"
-date: 2024-08-15T12:05:24.373Z
-updated: 2024-08-16T12:05:24.373Z
+date: 2024-12-22T16:28:03.418Z
+updated: 2024-12-25T16:59:45.488Z
 tags:
   - iphone
   - apple
@@ -37,14 +37,20 @@ thumbnail: https://thmb.techidaily.com/024ced9c2dfad0404f5ee91e1efddba3dce2978ad
 
 ![Settings Menu on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/settings-menu-on-iphone.jpg)
 
-![Bluetooth Menu on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/bluetooth-menu-on-iphone.jpg)
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+![Bluetooth Menu on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/bluetooth-menu-on-iphone.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Disconnect or Forget Bluetooth Device on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/disconnect-or-forget-bluetooth-device-on-iphone.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Close
@@ -55,9 +61,6 @@ Close
 
  Plug your headphones into your iPhone's 3.5mm or Lightning port, and then disconnect them. After that,[open the**Control Center** on your iPhone](https://www.makeuseof.com/how-to-use-customize-control-center-iphone/) by swiping down from the top-right corner (or swiping up from the bottom if you have an iPhone with a Home button) and check if the headphone icon still appears in the volume slider.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Change the Audio Output
 
  When listening to music or watching videos, your iPhone lets you choose between different audio output devices. Open the Control Center, then tap and hold the**AirPlay** icon in the top-right corner of the music player card. Select**iPhone** from the list to set it as the audio output device.
@@ -65,8 +68,9 @@ Close
 ![iPhone Control Center Screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/iphone-control-center-screen.jpg)
 
 ![Change Audio Output Device on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/change-audio-output-device-on-iphone.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Close
@@ -78,18 +82,15 @@ Close
  It's best to turn off your iPhone before inserting anything into its ports to avoid causing a short circuit or introducing a static charge to the electronics. Once powered off, use a cotton swab or a paper clip to remove any dirt or debris from the port gently. You can refer to [our guide on cleaning iPhones](https://www.makeuseof.com/tag/clean-iphone-guide/) for more help.
 
 ![cleaning the Lightning port of an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/02/cleaning-the-lightning-port-of-an-iphone-1.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Brent Dirks/[MakeUseOf](https://www.makeuseof.com/author/brentdirks/)
 
  Apple advises against using compressed air and aerosol sprays for cleaning your iPhone, so it's best to avoid them. Also, it's important to be gentle when cleaning the port to avoid damaging internal components.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 ## 5\. Check for Water Damage
 
  If you can't find any debris in the ports, but your device is still stuck in headphone mode, it might be a [sign of a water-damaged iPhone](https://www.makeuseof.com/symptoms-of-water-damaged-iphone/) . This could happen from something as obvious as spilling coffee over your iPhone or as subtle as sweat dripping down your headphone cable.
@@ -99,13 +100,14 @@ The ultimate burning program for all your needs!</a>
 [Apple Support document](https://support.apple.com/en-us/HT204104) confirms that eSIM-only iPhones don't have Liquid Contact Indicators on the outside. They're located internally, so you'll need to disassemble your device to find it. However, we don't recommend doing this.
 
 ![Liquid Contact Indicator on iPhone Models](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/liquid-contact-indicator-on-iphone-models-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 
 [Apple](https://support.apple.com/en-us/HT204104)
 
  If your iPhone has suffered water damage recently, it's better to act quickly and get the water out to prevent further damage.[Avoid using rice to dry your iPhone](https://www.makeuseof.com/rice-doesnt-fix-water-damage/) because it may worsen the situation by leaving harmful residue or further obstructing the ports. Instead, refer to [our guide on saving a water-damaged phone](https://www.makeuseof.com/tag/fix-water-damaged-iphone/) for proper instructions.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Install iOS Updates
 
@@ -122,17 +124,15 @@ The ultimate burning program for all your needs!</a>
 Close
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Restart Your iPhone
 
  This may sound cliche, but [restarting your iPhone](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) can take care of any temporary issues that may have caused it to become stuck in headphone mode. Hence, don't forget to skip this step.
 
  Press and hold the**Side** button with one of the**Volume** buttons (or just hold the**Side** button on iPhone models with a Home button) until the power slider appears. Drag the slider to your right and wait for your iPhone to turn off completely. Then, press and hold the**Side** button again to turn it back on. After that, check if your iPhone outputs audio through its built-in speakers.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 8\. Factory Reset Your iPhone
 
  If installing iOS updates proves ineffective, you can consider factory resetting your iPhone. This process will erase all data and revert settings to their factory default values, essentially restoring your iPhone to its original state.
@@ -149,8 +149,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -158,4 +156,18 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-efficiently-log-your-overwatch-battles/"><u>[New] In 2024, Efficiently Log Your Overwatch Battles</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-slice-and-capture-best-cam-reevaluation/"><u>[New] Slice and Capture Best Cam Reevaluation</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-transforming-youtubers-into-titans-with-key-insights-from-the-hub/"><u>2024 Approved Transforming YouTubers Into Titans with Key Insights From the Hub</u></a></li>
+<li><a href="https://fox-that.techidaily.com/bypass-broken-buttons-on-your-iphone-a-simple-restart-guide/"><u>Bypass Broken Buttons on Your iPhone: A Simple Restart Guide</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/gratuit-m4v-to-mpg-conversion-en-ligne-avec-movavi-un-guide-complet-et-facile-a-utiliser/"><u>Gratuit M4V-to-MPG Conversion en Ligne Avec Movavi: Un Guide Complet Et Facile À Utiliser</u></a></li>
+<li><a href="https://extra-information.techidaily.com/shape-shifting-skills-a-comprehensive-pic-warping-manual/"><u>Shape-Shifting Skills A Comprehensive Pic Warping Manual</u></a></li>
+<li><a href="https://fox-making.techidaily.com/solving-the-auto-update-issue-top-5-tips-for-iphoneipad-mail-functionality/"><u>Solving the Auto-Update Issue: Top 5 Tips for iPhone/iPad Mail Functionality</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-5-obstacles-preventing-apple-users-from-sending-gifts/"><u>Top 5 Obstacles Preventing Apple Users From Sending Gifts</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/top-streamers-choice-does-virusmix-or-wirecast-rule-the-game-for-2024/"><u>Top Streamers Choice Does VirusMix or WireCast Rule the Game for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-how-to-solve-a-non-functioning-facetime-top-15-tips/"><u>Troubleshooting: How to Solve a Non-Functioning FaceTime - Top 15 Tips</u></a></li>
+<li><a href="https://fox-that.techidaily.com/why-is-my-iphone-so-slow-uncovering-6-common-reasons-and-their-fixes/"><u>Why Is My iPhone So Slow? Uncovering 6 Common Reasons and Their Fixes</u></a></li>
+</ul></div>
 

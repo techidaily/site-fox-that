@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting iPhone's Sound: Solutions When Your Mic Won't Work"
-date: 2024-08-15T12:04:58.405Z
-updated: 2024-08-16T12:04:58.405Z
+date: 2024-12-23T17:53:06.815Z
+updated: 2024-12-25T17:21:49.609Z
 tags:
   - iphone
   - apple
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/18c9dd2cba19f0ecf97513cafd5088c9e4acab9c6
 
  An iPhone is almost useless without a working microphone. A broken microphone means no FaceTime, phone calls, or Siri. Sometimes, videos shot on your iPhone may not have any audio. But before you pay Apple for a costly repair, try these fixes first.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Find Out Which Microphone Isn't Working
 
  Before you begin fixing your iPhone's microphone, you'll need to know which microphone isn't working. If you have an iPhone 5 or later, you'll have three microphones: one on the bottom of your phone for phone calls, one on the front of your phone for speakerphone, and one on the back for the camera.
@@ -23,15 +27,12 @@ thumbnail: https://thmb.techidaily.com/18c9dd2cba19f0ecf97513cafd5088c9e4acab9c6
  Test each microphone by recording using Voice Memos (bottom microphone), making a phone call on speakers (front microphone), and recording a video (back microphone). If all the microphones aren't working, it's most likely a hardware issue. If only one microphone isn't working or sounds muffled, continue to the next step.
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. iPhone Microphone Muffled or Muted? Try Cleaning It
 
 ![iphone clean speaker](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/iphone-clean-speaker.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 
  Brent Dirks/[MakeUseOf](https://www.makeuseof.com/author/brentdirks/)
 
@@ -41,10 +42,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
  Isopropyl alcohol breaks up grime and dries fast, so it won't damage your iPhone. Try using the highest percentage of isopropyl alcohol you can find. While you're at it,[clean your entire iPhone thoroughly](https://www.makeuseof.com/tag/clean-iphone-guide/) if it's not in a good shape.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ## 3\. Disconnect From Bluetooth Devices
 
 Close
@@ -54,8 +51,9 @@ Close
  This is a common issue with those who use Bluetooth headphones like AirPods or smart home systems. Check if you're connected to a Bluetooth device by [opening your iPhone's Control Center](https://www.makeuseof.com/how-to-use-customize-control-center-iphone/) , then toggle Bluetooth off. Alternatively, tap and hold it to view all your connected devices.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Make Sure Apps Have Microphone Permissions
 
 Close
@@ -65,13 +63,15 @@ Close
  To grant an app permission, head to**Settings** and select the affected app. Now, make sure the**Microphone** toggle is enabled.
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Use an External Microphone or AirPods
 
 ![A guy holding AirPods Pro in charging case showing orange light](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/02/a-guy-holding-airpods-pro-in-charging-case-showing-orange-light.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Hamlin Rozario/[MakeUseOf](https://www.makeuseof.com/author/hamlin-rozario/)
@@ -96,8 +96,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -105,4 +103,18 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-boost-your-igtv-presence-with-effective-title-and-summary-tweaks-for-2024/"><u>[New] Boost Your IGTV Presence with Effective Title & Summary Tweaks for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-the-ultimate-guide-to-shooting-phenomenal-igtv-with-dslrsmartphone/"><u>[Updated] 2024 Approved The Ultimate Guide to Shooting Phenomenal IGTV with DSLR/Smartphone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-detection-issue-wd-my-passport-ultra-and-windows-compatibility-woes/"><u>Fixing the Detection Issue: WD My Passport Ultra and Windows Compatibility Woes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/ios-16-lock-screen-troubles-how-to-activate-and-enhance-the-depth-effect-feature-7-tips/"><u>IOS 16 Lock Screen Troubles: How to Activate and Enhance the Depth Effect Feature (7 Tips)</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-frozen-try-these-7-tricks-to-escape-the-apple-emblem-loop/"><u>IPhone Frozen? Try These 7 Tricks to Escape the Apple Emblem Loop!</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/cting-projects-a-deep-dive-into-youtube-studio-editor-for-2024/"><u>Perfecting Projects A Deep Dive Into YouTube Studio Editor for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/rethinking-windows-photo-viewer-usage-on-modern-os/"><u>Rethinking Windows Photo Viewer Usage on Modern OS</u></a></li>
+<li><a href="https://fox-that.techidaily.com/step-by-step-guide-restoring-connectivity-of-your-iphone-hotspot/"><u>Step-by-Step Guide: Restoring Connectivity of Your iPhone Hotspot</u></a></li>
+<li><a href="https://fox-that.techidaily.com/struggling-with-iphoneipad-software-updates-here-are-9-solutions/"><u>Struggling with iPhone/iPad Software Updates? Here Are 9 Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-11-fixes-if-your-iphone-ignores-callers/"><u>Top 11 Fixes if Your iPhone Ignores Callers</u></a></li>
+<li><a href="https://fox-info.techidaily.com/unleash-the-potential-master-avi-to-gif-conversion-using-filmora-for-2024/"><u>Unleash the Potential Master AVI-to-GIF Conversion Using Filmora for 2024</u></a></li>
+</ul></div>
 

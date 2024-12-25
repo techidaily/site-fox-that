@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Salvaging Water-Damaged iPhone Speakers
-date: 2024-08-15T12:04:03.030Z
-updated: 2024-08-16T12:04:03.030Z
+date: 2024-12-20T17:58:57.299Z
+updated: 2024-12-25T16:01:48.365Z
 tags:
   - iphone
   - apple
@@ -21,8 +21,9 @@ thumbnail: https://thmb.techidaily.com/29b1b2904297da87da55ea288cd0a44b14a4d2e98
 * [What to Avoid When Your iPhone Speaker Is Wet](https://www.makeuseof.com/how-to-eject-water-speaker-microphone-iphone/#what-to-avoid-when-your-iphone-speaker-is-wet)
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * You can use the built-in Shortcuts app to quickly get rid of water trapped in your iPhone's speakers.
@@ -31,9 +32,6 @@ thumbnail: https://thmb.techidaily.com/29b1b2904297da87da55ea288cd0a44b14a4d2e98
 
  Although you're not supposed to take your iPhone into the shower or for a swim, many users do so anyway, causing water to get into the speaker. Fortunately, there are several free, simple ways to get water out of your iPhone's speakers.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Use the Water Eject Shortcut on Your iPhone
 
  First, make sure you have the Shortcuts app on your iPhone. Shortcuts is a native Apple app, so if you haven't got it, simply download it for free from the App Store.
@@ -61,15 +59,13 @@ Close
 Close
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Other Ways to Eject Water From Your iPhone's Speakers
 
  If you feel the Water Eject shortcut isn't sufficient for removing water from your iPhone's speaker, you can also try a couple of third-party tools.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Sonic
 
 Close
@@ -78,18 +74,24 @@ Close
 
 **Download:** [Sonic](https://apps.apple.com/us/app/sonic-tone-generator/id986999895?platform=iphone) (Free, in-app purchases available)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix My Speakers
 
 ![Fix My Speakers webpage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/muo-in-article-image-1200px-by-600px-21-ratio-49.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you prefer not to download a shortcut or app on your device, you can head to the [Fix My Speakers site](https://fixmyspeakers.com/) to play the tone needed to eject water from your iPhone's speakers. Just tap the button with the wind and water droplets emoji to activate the sound.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What to Avoid When Your iPhone Speaker Is Wet
 
  Your iPhone's speakers get wet when you accidentally drop the device in water. When you're attempting to [save a wet smartphone or tablet](https://www.makeuseof.com/tag/how-to-save-a-wet-cell-phone-or-tablet/) , you might instantly think of the method where people put their devices in rice to dry them.
@@ -106,8 +108,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -115,4 +115,26 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-ultimate-guide-to-ipados-screen-capture/"><u>[New] In 2024, Ultimate Guide to iPadOS Screen Capture</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-quick-aspect-tweaking-over-the-internet/"><u>[New] Quick Aspect Tweaking Over the Internet</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-convert-and-edit-wonders-10-best-youtube-tools-feat-audio/"><u>2024 Approved Convert & Edit Wonders 10 Best YouTube Tools Feat. Audio</u></a></li>
+<li><a href="https://fox-that.techidaily.com/calibrate-your-iphones-power-unit-in-just-6-quick-guidelines/"><u>Calibrate Your iPhone's Power Unit in Just 6 Quick Guidelines</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/complex-data-interpretation-excel-outperforms-chatbot-talk/"><u>Complex Data Interpretation Excel Outperforms Chatbot Talk</u></a></li>
+<li><a href="https://windows11.techidaily.com/create-efficiency-in-windows-unique-snapping-layouts-with-powertoys/"><u>Create Efficiency in Windows: Unique Snapping Layouts with PowerToys</u></a></li>
+<li><a href="https://fox-that.techidaily.com/delayed-imessages-troubleshooting-uncover-9-proven-solutions-to-sendreceive-promptly/"><u>Delayed iMessages Troubleshooting: Uncover 9 Proven Solutions to Send/Receive Promptly</u></a></li>
+<li><a href="https://fox-that.techidaily.com/discover-10-factors-causing-your-iphone-display-to-dim-automatically/"><u>Discover 10 Factors Causing Your iPhone Display to Dim Automatically</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/efficient-techniques-for-converting-flac-files-into-aiff-format/"><u>Efficient Techniques for Converting FLAC Files Into AIFF Format</u></a></li>
+<li><a href="https://fox-that.techidaily.com/enhance-iphone-connectivity-and-performance-with-a-simple-network-settings-reset-tutorial/"><u>Enhance iPhone Connectivity & Performance with a Simple Network Settings Reset Tutorial</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-the-persistent-connection-failed-error-in-hitman-3/"><u>How to Fix the Persistent 'Connection Failed' Error in Hitman 3</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/maximize-productivity-with-firefoxs-pip-feature/"><u>Maximize Productivity with Firefox’s PIP Feature</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/sharpen-aesthetic-focus-learning-border-techniques-for-insta-videos-for-2024/"><u>Sharpen Aesthetic Focus Learning Border Techniques for Insta-Videos for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/slow-mobile-connection-woes-learn-how-to-supercharge-your-data-pace-with-these-simple-steps/"><u>Slow Mobile Connection Woes? Learn How to Supercharge Your Data Pace with These Simple Steps</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solve-your-tablets-touchscreen-troubles-with-these-8-proven-tips/"><u>Solve Your Tablet's Touchscreen Troubles with These 8 Proven Tips</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/spectacular-8-cam-enhancers-for-improved-video-feeds-for-2024/"><u>Spectacular 8 Cam Enhancers for Improved Video Feeds for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-iphone-why-your-screen-wont-switch-to-landscape/"><u>Troubleshooting iPhone: Why Your Screen Won't Switch to Landscape</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-iphones-delayed-message-reception-with-these-9-effective-tips/"><u>Troubleshooting iPhone's Delayed Message Reception with These 9 Effective Tips</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-your-iphone-imessage-connection-issues/"><u>Troubleshooting Your iPhone iMessage Connection Issues</u></a></li>
+</ul></div>
 

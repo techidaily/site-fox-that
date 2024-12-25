@@ -1,7 +1,7 @@
 ---
 title: Resolve Your iPhone's Headphones Dilemma with These Easy 8 Troubleshooting Steps
-date: 2024-08-15T12:04:33.023Z
-updated: 2024-08-16T12:04:33.023Z
+date: 2024-12-18T21:00:09.765Z
+updated: 2024-12-25T17:37:34.325Z
 tags:
   - iphone
   - apple
@@ -28,8 +28,9 @@ thumbnail: https://thmb.techidaily.com/bbcc4a007f0a07614972fe24eb730165421ff81b1
  Dealing with an iPhone stuck in headphone mode can be frustrating, as it prevents sound from playing through the speakers, even after disconnecting your headphones. Fortunately, it's not difficult to turn off the headphone mode on your iPhone with the solutions below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Disconnect Your Bluetooth Headphones
 
  Your iPhone allows you to disconnect or unpair your Bluetooth devices, such as headphones, through the Settings app. If your iPhone appears to be stuck connected to Bluetooth headphones, use these steps to disconnect it:
@@ -39,16 +40,17 @@ thumbnail: https://thmb.techidaily.com/bbcc4a007f0a07614972fe24eb730165421ff81b1
 3. Select**Disconnect** . Alternatively, you can select the**Forget This Device** option to unpair the headphones.
 
 ![Settings Menu on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/settings-menu-on-iphone.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Bluetooth Menu on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/bluetooth-menu-on-iphone.jpg)
 
 ![Disconnect or Forget Bluetooth Device on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/disconnect-or-forget-bluetooth-device-on-iphone.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Close
@@ -64,14 +66,12 @@ Close
  When listening to music or watching videos, your iPhone lets you choose between different audio output devices. Open the Control Center, then tap and hold the**AirPlay** icon in the top-right corner of the music player card. Select**iPhone** from the list to set it as the audio output device.
 
 ![iPhone Control Center Screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/iphone-control-center-screen.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Change Audio Output Device on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/change-audio-output-device-on-iphone.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Close
 
@@ -96,17 +96,15 @@ Close
 [Apple Support document](https://support.apple.com/en-us/HT204104) confirms that eSIM-only iPhones don't have Liquid Contact Indicators on the outside. They're located internally, so you'll need to disassemble your device to find it. However, we don't recommend doing this.
 
 ![Liquid Contact Indicator on iPhone Models](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/liquid-contact-indicator-on-iphone-models-1.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [Apple](https://support.apple.com/en-us/HT204104)
 
  If your iPhone has suffered water damage recently, it's better to act quickly and get the water out to prevent further damage.[Avoid using rice to dry your iPhone](https://www.makeuseof.com/rice-doesnt-fix-water-damage/) because it may worsen the situation by leaving harmful residue or further obstructing the ports. Instead, refer to [our guide on saving a water-damaged phone](https://www.makeuseof.com/tag/fix-water-damaged-iphone/) for proper instructions.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Install iOS Updates
 
  There's an odd chance your iPhone has become stuck in headphone mode because of a software problem. If that's the case, it shouldn't take long for Apple to release a fix via a software update.
@@ -114,15 +112,13 @@ Close
  Go to**Settings > General > Software Update** to check for new updates. If any updates are available, download and install them on your iPhone.
 
 ![Settings App on iPhone-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/settings-app-on-iphone-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![General Settings Menu on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/general-settings-menu-on-iphone.jpg)
 
 ![Software Update Menu on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/software-update-menu-on-iphone.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Close
@@ -132,6 +128,10 @@ Close
  This may sound cliche, but [restarting your iPhone](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) can take care of any temporary issues that may have caused it to become stuck in headphone mode. Hence, don't forget to skip this step.
 
  Press and hold the**Side** button with one of the**Volume** buttons (or just hold the**Side** button on iPhone models with a Home button) until the power slider appears. Drag the slider to your right and wait for your iPhone to turn off completely. Then, press and hold the**Side** button again to turn it back on. After that, check if your iPhone outputs audio through its built-in speakers.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Factory Reset Your iPhone
 
@@ -149,8 +149,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -158,4 +156,21 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-share-your-tweets-as-snaps-easy-tutorials/"><u>[New] 2024 Approved Share Your Tweets as Snaps - Easy Tutorials</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-the-path-to-autoplay-configuring-youtube-content-for-uninterrupted-streaming/"><u>[New] 2024 Approved The Path to Autoplay Configuring Youtube Content for Uninterrupted Streaming</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-the-ultimate-connectivity-handbook-for-insta-and-tik/"><u>[New] In 2024, The Ultimate Connectivity Handbook for Insta & Tik</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-ps5xbox-gaming-monitors-the-5-most-exciting-choices/"><u>[New] PS5/Xbox Gaming Monitors The 5 Most Exciting Choices</u></a></li>
+<li><a href="https://fox-that.techidaily.com/4-ways-to-fix-grayed-out-icloud-settings-on-your-iphone-or-ipad/"><u>4 Ways to Fix Grayed Out iCloud Settings on Your iPhone or iPad</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-resolve-missing-powershell-errors-in-windows/"><u>Guide to Resolve Missing PowerShell Errors in Windows</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-oppo-a79-5g-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Oppo A79 5G Without Password | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-iphone-dictation-issues-a-comprehensive-guide-with-five-key-fixes/"><u>Overcoming iPhone Dictation Issues: A Comprehensive Guide with Five Key Fixes</u></a></li>
+<li><a href="https://win11.techidaily.com/reigniting-ram-overcoming-obstacles-in-windows/"><u>Reigniting RAM: Overcoming Obstacles in Windows</u></a></li>
+<li><a href="https://fox-that.techidaily.com/revive-ringing-discover-these-11-fixes-when-incoming-calls-arent-audible-on-your-iphone/"><u>Revive Ringing: Discover These 11 Fixes When Incoming Calls Aren't Audible on Your iPhone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solutions-for-fixing-a-non-responsive-iphone-proximity-detector/"><u>Solutions for Fixing a Non-Responsive iPhone Proximity Detector</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/form-your-revenue-with-youtube-shorts-tips/"><u>Transform Your Revenue with YouTube Shorts Tips</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-full-page-captures-solutions-when-safari-screenshots-fail/"><u>Troubleshooting Full Page Captures: Solutions When Safari Screenshots Fail</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/wake-up-rituals-for-keyboard-and-mouse-in-1011-environments/"><u>Wake-Up Rituals for Keyboard & Mouse in 10/11 Environments</u></a></li>
+</ul></div>
 
