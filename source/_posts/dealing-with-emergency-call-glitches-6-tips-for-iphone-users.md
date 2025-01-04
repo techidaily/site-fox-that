@@ -1,7 +1,7 @@
 ---
 title: "Dealing with Emergency Call Glitches: 6 Tips for iPhone Users"
-date: 2024-08-15T12:01:34.252Z
-updated: 2024-08-16T12:01:34.252Z
+date: 2025-01-02T21:23:44.399Z
+updated: 2025-01-04T07:18:22.233Z
 tags:
   - iphone
   - apple
@@ -24,11 +24,19 @@ thumbnail: https://thmb.techidaily.com/8e351a495ce579ab157428c084339d1c33794d9d4
 
 ![iPhone Settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-settings-cellular-screenshot.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![iPhone Settings Cellular Data turned off](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-cellular-settings-turn-data-off.jpg)
 
 Close
 
  Head into**Settings > Cellular** . It should be already on, so turn the**Cellular Data** switch off. Give it a few seconds, then turn**Cellular Data** back on. It may have just needed a quick reset, but if there is still no luck, move on to our next suggestion.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Enable Data Roaming
 
@@ -38,10 +46,11 @@ Close
 
 ![iPhone cellular settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-settings-cellular-data-options.jpg)
 
-![iPhone cellular data options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-settings-data-roaming.jpg)
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![iPhone cellular data options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-settings-data-roaming.jpg)
 
 Close
 
@@ -52,33 +61,26 @@ Close
  Your iPhone may have trouble picking up a specific type of cellular data, especially 5G. While 5G coverage has rapidly expanded over the past several years, LTE still blankets a larger portion of the United States. If your iPhone is set to receive 5G in a location where it's unavailable, you may need to [disable 5G on your device](https://www.makeuseof.com/how-to-disable-5g-on-any-device/) and fall back on another option.
 
 ![iPhone settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-cellular-settings.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![iPhone cellular data options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-cellular-data-options-voice-data-settings.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![iPhone 5G and LTE options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-voice-data-5g-settings.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Close
 
  Go to**Settings > Cellular > Cellular Data Options** like before, but this time tap**Voice & Data** . If**5G On** or**5G Auto** is selected, choose**LTE** and see if that gets rid of the SOS Only status.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ## 4\. Restart Your iPhone
 
 ![iPhone user trying to force restart their device](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-user-trying-to-force-restart-their-device.jpg)
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Of course, we have to mention the good old reboot technique. If you haven't yet tried turning your iPhone off and on again, let's go ahead and test it out. You'd be surprised how many little annoyances a quick restart can resolve.
 
@@ -89,6 +91,10 @@ Close
  Sometimes, carriers roll out over-the-air updates that can solve problems with connectivity. To check if one is available for your iPhone, open**Settings** , then go to**General > About** and wait for a few seconds.
 
 ![iPhone Settings menu showing General](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-settings-general.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![iPhone General settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-settings-general-about.jpg)
 
@@ -102,9 +108,6 @@ Close
 
  There may be an issue with your cell service that's worth getting to the bottom of. So, visit your carrier's website and search for a contact or support page to get a customer support phone number.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Getting to the Bottom of "SOS Only"
 
  It's frustrating when you don't have cell service on your iPhone. So, we hope one of these solutions aids in getting your service up and running again.
@@ -117,8 +120,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -126,4 +127,24 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/rameworks-producing-uplifting-life-journey-broadcasts/"><u>[New] Frameworks Producing Uplifting Life Journey Broadcasts</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-innovative-strategies-for-displaying-your-screen-in-google-meet/"><u>[New] In 2024, Innovative Strategies for Displaying Your Screen in Google Meet</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-pushing-boundaries-the-spectrum-of-colors-and-4k-resolution-for-2024/"><u>[New] Pushing Boundaries The Spectrum of Colors and 4K Resolution for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/clarifying-the-mystery-dealing-with-unexpected-sites-on-your-iphones-screen-time-tracking/"><u>Clarifying the Mystery: Dealing with Unexpected Sites on Your iPhone's Screen Time Tracking</u></a></li>
+<li><a href="https://fox-that.techidaily.com/decoding-iphone-message-changes-are-you-really-blocked/"><u>Decoding iPhone Message Changes: Are You Really Blocked?</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/enhancing-it-efficiency-the-critical-impact-of-repackaging-on-software-life-cycle-stewardship/"><u>Enhancing IT Efficiency: The Critical Impact of Repackaging on Software Life Cycle Stewardship</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fix-your-iphones-dimming-display-7-steps-for-improved-auto-brightness-control/"><u>Fix Your iPhone's Dimming Display: 7 Steps for Improved Auto-Brightness Control</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-through-gpts-input-restrictions/"><u>Navigating Through GPT's Input Restrictions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/seamless-sign-up-for-ai-chat-services-no-phone-needed-with-chatgpt-and-friends/"><u>Seamless Sign-Up for AI Chat Services: No Phone Needed with ChatGPT and Friends</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-iphones-usb-c-error-a-step-by-step-guide/"><u>Solving iPhone's USB-C Error: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/steps-to-resolve-message-error-code-mm-when-setting-up-new-sim/"><u>Steps to Resolve Message Error Code MM when Setting Up New SIM</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-top-free-dvd-player-downloads-for-windows-10/"><u>The Top Free DVD Player Downloads for Windows 10</u></a></li>
+<li><a href="https://fox-that.techidaily.com/the-ultimate-guide-to-restoring-imessage-functionality-after-receiving-signed-out-notifications-on-your-iphone/"><u>The Ultimate Guide to Restoring iMessage Functionality After Receiving Signed Out Notifications on Your iPhone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-10-swift-solutions-overcoming-widget-issues-on-iphoneipad/"><u>Top 10 Swift Solutions: Overcoming Widget Issues on iPhone/iPad</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-iphone-why-it-wont-vibrate-in-silentring-modes-and-how-to-solve-the-issue/"><u>Troubleshooting iPhone: Why It Won't Vibrate in Silent/Ring Modes & How to Solve the Issue</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/unlocking-the-potential-of-youtube-partnerships-tips-for-successful-collabs-for-2024/"><u>Unlocking the Potential of YouTube Partnerships Tips for Successful Collabs for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-best-websites-to-download-public-domain-videos-for-2024/"><u>Updated Best Websites to Download Public Domain Videos for 2024</u></a></li>
+</ul></div>
 

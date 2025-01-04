@@ -1,7 +1,7 @@
 ---
 title: Why Are My iPhone Pictures Still Here? - Top 8 Fixes for Remaining Pics
-date: 2024-08-15T12:01:01.245Z
-updated: 2024-08-16T12:01:01.245Z
+date: 2024-12-29T19:44:05.627Z
+updated: 2025-01-04T00:50:35.630Z
 tags:
   - iphone
   - apple
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/97d650cd0f6e07d2facd0c86f96f609a10afc326c
 
  Your browser does not support the video tag.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Check the Recently Deleted Folder
 
  A common reason for this issue revolves around the**Recently Deleted** album in the Photos app. This album allows you to recover deleted photos and videos for up to 30 days after deleting them. Like the Recycle Bin on your computer, it acts as a temporary safety net in case you change your mind.
@@ -34,22 +38,24 @@ thumbnail: https://thmb.techidaily.com/97d650cd0f6e07d2facd0c86f96f609a10afc326c
 
 ![all photos selected to delete](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/all-photos-selected-to-delete.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![recover and delete options in recently deleted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/recover-and-delete-options-in-recently-deleted.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
  If the problem isn't fixed after clearing out this folder, the rest of the below tips will lead you to a fix.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Restart Your iPhone
 
  Rebooting the system is a conventional fix to numerous bugs and errors. After you've removed a huge chunk of media from your storage, it's important to [restart your iPhone](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) . This will hopefully clear out any temporary hiccups causing your available storage to show incorrectly.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Update to the Latest iOS Software
 
  More often than not, there may be a minor bug in the current version of iOS you're using that's causing the problem. Apple usually fixes this in the next version of iOS, so make sure you have updated your iPhone to the latest iOS. To update your software, follow these steps:
@@ -60,15 +66,20 @@ Close
 
 ![general in iPhone settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/general-in-iphone-settings-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![software update in general settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/software-update-in-general-settings-1.jpg)
 
 ![software update available in settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/software-update-available-in-settings-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Close
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ## 4\. Modify the Date and Time to Reveal Old Photos
 
  The exact reasoning behind this fix isn't clear, but it often happens that media you deleted in the past returns as hidden files on your device. You won't know they exist, and you can't see them in the Recents album either.
@@ -83,9 +94,6 @@ Close
 6. Select everything that has reappeared in your albums and delete them from your phone. If you don't see anything, try going back another year or two and check again.
 
 ![iOS Settings General Page Open](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/ios-general-settings.jpeg)
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 
 ![date & time general settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/date-time-general-settings.jpg)
 
@@ -96,8 +104,9 @@ Close
  Deleting these "ghost files" that reappear should help free up that extra space on your iPhone (and even iCloud). Don't forget to set the time option back to automatic when you're done!
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Disable iCloud Sync (After Completing a Backup)
 
  iCloud Photos allows you to upload your iPhone's pictures to iCloud automatically. While this is convenient and a good way to protect your photos, it can also lead to your photos taking up too much space in iCloud.
@@ -111,23 +120,17 @@ Close
 3. Turn off the toggle next to**Sync this iPhone** .
 
 ![iCloud settings in Apple ID](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/icloud-settings-in-apple-id-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 
 ![iCloud options under Apple ID settings on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/icloud-options-under-apple-id-settings-on-iphone.jpeg)
+
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![sync this iPhone toggle in iCloud photos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/sync-this-iphone-toggle-in-icloud-photos-1.jpg)
 
 Close
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ## 6\. Optimize iPhone Photos for Storage
 
  If photos are taking up too much space on your iPhone's storage all the time, the optimization option is handy. This has your iPhone decrease the resolution of media saved locally in Photos but retains a full-resolution copy in iCloud. There, you will have to toggle on iCloud Photos for this fix, unlike the previous one.
@@ -139,8 +142,9 @@ Close
 3. Make sure the**Optimize iPhone Storage** option is selected.
 
 ![photos in iPhone settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/photos-in-iphone-settings-1.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![optimise iPhone storage option in iCloud settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/optimise-iphone-storage-option-in-icloud-settings.JPG)
@@ -175,10 +179,6 @@ Close
 
  You can do this online through**Apple Support** or [visit your nearest Apple Store](https://www.makeuseof.com/apple-store-appointment-genius-bar/) to talk with experts. A valid warranty will likely help your case in case of a major issue.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ## How to Better Manage iPhone Storage in the Future
 
  While this error was hopefully a one-time problem for you, there's a chance it could happen in the future. It's better to maintain your iPhone storage ahead of time to reduce the impact of such an issue, so you should consider ways to avoid filling up your storage.
@@ -193,9 +193,9 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 * Disable iCloud Photos if you don't use it—consider backing up photos to another cloud service.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Your iPhone Storage Can Breathe Now
 
  This iPhone and iCloud storage error, experienced by many, is definitely a pain. Fortunately, there are some ways around it. Hopefully, the methods presented here let you get your photo storage usage back to normal.
@@ -208,8 +208,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -217,4 +215,21 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-unveiling-imovies-inherent-cropping-rules-for-2024/"><u>[New] Unveiling iMovie's Inherent Cropping Rules for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-cutting-edge-innovation-best-8-cameras-for-live-broadcasting/"><u>[Updated] 2024 Approved Cutting-Edge Innovation Best 8 Cameras for Live Broadcasting</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-mastering-youtubes-networking-finding-and-creating-video-co-ops-for-2024/"><u>[Updated] Mastering YouTube's Networking Finding and Creating Video Co-Ops for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-the-vr-frontier-who-holds-the-crown-in-2024/"><u>[Updated] The VR Frontier Who Holds the Crown, In 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1-access-inspirational-spiritual-melodies-a-guide-to-free-gospel-songs-from-youtube/"><u>1. Access Inspirational Spiritual Melodies: A Guide to FREE Gospel Songs From YouTube</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-the-iphone-out-of-characters-error-with-ease/"><u>Fixing the ‘iPhone Out Of Characters Error’ with Ease</u></a></li>
+<li><a href="https://fox-that.techidaily.com/get-your-iphone-voicemail-back-on-track-with-these-9-proven-tips/"><u>Get Your iPhone Voicemail Back on Track with These 9 Proven Tips</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-audience-expansion-masterclass-skyrocketing-your-youtube-numbers/"><u>In 2024, Audience Expansion Masterclass Skyrocketing Your Youtube Numbers</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Tecno Phantom V Fold | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/key-dialogues-unraveling-crypto-and-ai/"><u>Key Dialogues Unraveling Crypto & AI</u></a></li>
+<li><a href="https://fox-that.techidaily.com/navigating-iphone-12-complications-unveiling-twelve-critical-concerns-and-how-to-address-them/"><u>Navigating iPhone 12 Complications: Unveiling Twelve Critical Concerns & How To Address Them</u></a></li>
+<li><a href="https://fox-that.techidaily.com/optimize-apples-power-source-the-ultimate-battery-calibration-tutorial-for-iphones/"><u>Optimize Apple's Power Source: The Ultimate Battery Calibration Tutorial for iPhones</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719160288445-uncover-chatgpts-hidden-game-treasures-the-best-6/"><u>Uncover ChatGPT's Hidden Game Treasures - The Best 6</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlock-the-secret-to-easier-mobile-troubleshooting-with-just-a-restart/"><u>Unlock the Secret to Easier Mobile Troubleshooting with Just a Restart</u></a></li>
+</ul></div>
 

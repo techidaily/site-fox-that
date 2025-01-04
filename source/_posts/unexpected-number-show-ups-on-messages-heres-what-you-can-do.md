@@ -1,7 +1,7 @@
 ---
 title: Unexpected Number Show-Ups on Messages? Here’s What You Can Do!
-date: 2024-11-17T22:31:30.766Z
-updated: 2024-11-24T19:23:53.593Z
+date: 2024-12-29T21:14:12.583Z
+updated: 2025-01-03T20:33:42.396Z
 tags:
   - iphone
   - apple
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/8e153531bfb1cc2249d2aa88119afd6c59e7a577b
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Does Your Contact Name Disappear?
 
  When you initially see the Messages app showing a phone number instead of a contact name, you may think someone random has messaged you.
@@ -42,7 +46,7 @@ thumbnail: https://thmb.techidaily.com/8e153531bfb1cc2249d2aa88119afd6c59e7a577b
  In the case that this doesn't work and you are still facing the same issue, follow the fixes below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Add or Remove the Country Code
@@ -58,11 +62,11 @@ thumbnail: https://thmb.techidaily.com/8e153531bfb1cc2249d2aa88119afd6c59e7a577b
 
 ![Contact Edit menu in iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/contact-edit-menu-in-ios.jpg)
 
-![Add Country Code to Number](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Fix-Messages-Not-Showing-Contact-Number.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Add Country Code to Number](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Fix-Messages-Not-Showing-Contact-Number.jpg)
 
 Close
 
@@ -71,10 +75,6 @@ Close
  Alternatively, if you choose to add a new contact from the phone number, you can add it to an existing contact. But then you'll have two numbers saved for that person.
 
  Once you fix a phone number, you'll see Messages will automatically merge the conversations split across different chats.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Toggle iCloud Contacts
 
@@ -95,13 +95,13 @@ To do this, follow these steps on your iPhone:
 ![Password and Security in iPhone iCloud Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/2FA-iPhone-Password-and-Security.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Contacts in iCloud Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Fix-Messages-Not-Showing-iCloud-Contacts.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Close
@@ -125,16 +125,21 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/elevating-your-creations-with-tiktok-tricks/"><u>Elevating Your Creations with TikTok Tricks</u></a></li>
-<li><a href="https://fox-that.techidaily.com/imessage-glossary-guide-dealing-with-contacts-showing-as-numbers-not-names/"><u>IMessage Glossary Guide: Dealing with Contacts Showing as Numbers, Not Names</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-oppo-find-x7-ultra-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Oppo Find X7 Ultra Device SIM</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-tecno-phantom-v-fold-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Tecno Phantom V Fold to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-seamless-image-transformations-with-our-6-best-erasers-online/"><u>In 2024, Seamless Image Transformations with Our 6 Best Erasers Online</u></a></li>
-<li><a href="https://fox-that.techidaily.com/noise-free-listening-a-step-by-step-guide-to-repairing-glitchy-airpods-audio/"><u>Noise-Free Listening: A Step-by-Step Guide to Repairing Glitchy AirPods Audio</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-correct-loadlibrary-failure-code-87/"><u>Steps to Correct LoadLibrary Failure Code 87</u></a></li>
-<li><a href="https://fox-that.techidaily.com/stumped-by-iphones-wireless-charging-malfunctions-discover-these-seven-resolving-strategies/"><u>Stumped by iPhone's Wireless Charging Malfunctions? Discover These ^Seven Resolving Strategies</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/trouble-free-mp4-viewing-on-your-chromebook-discover-three-effective-methods/"><u>Trouble-Free MP4 Viewing on Your Chromebook: Discover Three Effective Methods!</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-the-iphone-amoji-uncovering-the-6-typical-challenges-and-their-fixes/"><u>Troubleshooting the iPhone Amoji - Uncovering the 6 Typical Challenges and Their Fixes</u></a></li>
-<li><a href="https://fox-that.techidaily.com/understanding-and-troubleshooting-phone-numbers-instead-of-names-in-messages/"><u>Understanding and Troubleshooting Phone Numbers Instead of Names in Messages</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723209993082-fixed-ps4-nat-type-failed-step-by-step-guide/"><u>[Fixed] PS4 NAT Type Failed - Step by Step Guide</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-download-youtube-videos-anywhere-anytime-free-android-tips/"><u>[New] Download YouTube Videos Anywhere, Anytime Free Android Tips</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-essential-gear-checklist-for-youtube-success/"><u>[Updated] Essential Gear Checklist for YouTube Success</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-mastering-income-via-youtube-channel/"><u>[Updated] Mastering Income via YouTube Channel</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-how-to-edit-facebook-look-back-video/"><u>2024 Approved How to Edit Facebook Look Back Video</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-mambos-in-the-mangroves/"><u>2024 Approved Mambos in the Mangroves</u></a></li>
+<li><a href="https://win-studio.techidaily.com/comment-localiser-un-fichier-perdu-sous-windows-11-avec-des-astuces-faciles-a-succes/"><u>Comment Localiser Un Fichier Perdu Sous Windows 11 Avec Des Astuces Faciles À Succès</u></a></li>
+<li><a href="https://fox-that.techidaily.com/enhancing-your-iphones-wi-fi-8-effective-strategies-for-better-performance/"><u>Enhancing Your iPhone's Wi-Fi: 8 Effective Strategies for Better Performance</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-oneplus-nord-n30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On OnePlus Nord N30 5G? | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/master-the-art-of-icloud-synchronization-discover-absolutely-7-reliable-solutions-for-iphone-users-facing-non-sync-issues/"><u>Master the Art of iCloud Synchronization: Discover Absolutely 7 Reliable Solutions for iPhone Users Facing Non-Sync Issues</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-location-unavailable-a-guide-to-reactivating-iphone-gps-services/"><u>Overcoming 'Location Unavailable': A Guide to Reactivating iPhone GPS Services</u></a></li>
+<li><a href="https://fox-that.techidaily.com/slow-mobile-internet-woes-a-comprehensive-guide-to-boosting-speeds-in-just-10-simple-steps/"><u>Slow Mobile Internet Woes: A Comprehensive Guide to Boosting Speeds in Just 10 Simple Steps</u></a></li>
+<li><a href="https://fox-that.techidaily.com/snagged-by-slow-text-messages-on-your-iphone-try-these-effective-9-tricks-to-resolve-the-issue/"><u>Snagged by Slow Text Messages on Your iPhone? Try These Effective 9 Tricks to Resolve the Issue</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-the-issue-correcting-sim-not-provisioned-mmi-mm2-error/"><u>Solving The Issue: Correcting 'SIM Not Provisioned MMI' (MM2) Error</u></a></li>
+<li><a href="https://fox-that.techidaily.com/trouble-with-ringsilent-mode-on-iphone-learn-quick-fixes-for-silencing-calls/"><u>Trouble with Ring/Silent Mode on iPhone? Learn Quick Fixes for Silencing Calls!</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/vital-tips-making-an-informed-pre-owned-tech-decision/"><u>Vital Tips: Making an Informed Pre-Owned Tech Decision</u></a></li>
 </ul></div>
 

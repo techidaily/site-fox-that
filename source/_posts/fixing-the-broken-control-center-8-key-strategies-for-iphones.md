@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Broken Control Center: 8 Key Strategies for iPhones"
-date: 2024-08-15T12:01:27.247Z
-updated: 2024-08-16T12:01:27.247Z
+date: 2025-01-01T02:56:07.956Z
+updated: 2025-01-04T03:24:09.339Z
 tags:
   - iphone
   - apple
@@ -35,9 +35,6 @@ thumbnail: https://thmb.techidaily.com/d9e5776de3811350c1a1e02825a34775cfed017b7
  So, if you accidentally activated this feature, you can turn it off by heading over to**Settings** \>**Accessibility** . Once you're here, tap**VoiceOver** and toggle off the switch at the top. Now, try opening the Control Center on your iPhone.
 
 ![iPhone Setting Accessibility](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-setting-accessibility.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 
 ![iPhone Settings VoiceOver option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-settings-voiceover-option.jpg)
 
@@ -46,8 +43,9 @@ thumbnail: https://thmb.techidaily.com/d9e5776de3811350c1a1e02825a34775cfed017b7
 Close
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Enable Control Center Access When Locked
 
  This one is for those having trouble accessing Control Center from the Lock Screen on their iPhones. It only happens when you don't give access to Control Center when your iPhone is locked.
@@ -59,20 +57,18 @@ Close
 3. Enable the**Control Center** toggle.
 
 ![iPhone Settings Face ID & Passcode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-settings-face-id-passcode.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 ![iPhone Enter Passcode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-enter-passcode.jpg)
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 
 ![iPhone Face ID & Passcode settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-face-id-passcode-settings.jpg)
 
 Close
 
  After this, you should be able to access the Control Center from your iPhone'sLock Screen.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Enable Control Center Access Within Apps
 
@@ -82,7 +78,15 @@ Close
 
 ![iPhone Settings Control Center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-settings-control-center.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![iPhone Control Center Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-control-center-settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -100,12 +104,17 @@ Close
 
 ![iPhone General in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-general-in-settings.jpeg)
 
-![iPhone Software Update option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-software-update-option.jpeg)
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
+![iPhone Software Update option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-software-update-option.jpeg)
+
 ![iPhone Download and Install update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-download-and-install-update.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -123,15 +132,12 @@ Close
 4. Scroll down to the**More Controls** section and tap the**plus icon (+)** next to the control to add it back to the Control Center.
 
 ![iPhone Control Center Settings-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-control-center-settings-1.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![iPhone Control Center Remove button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-control-center-remove-button.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 
 ![iPhone Control Center Add option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-control-center-add-option.jpg)
 
@@ -139,9 +145,6 @@ Close
 
  After [customizing the Control Center on your iPhone](https://www.makeuseof.com/how-to-use-customize-control-center-iphone/) , try launching it again to check if the issue is fixed.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ## 7\. Restart Your iPhone
 
  The best and quickest approach to resolve any software issue you might be experiencing on your iPhone is to restart it. Therefore, a simple restart should fix this Control Center issue. However, there's no dedicated restart button, so you need to turn it off and back on.
@@ -149,29 +152,9 @@ Close
  To shut down your iPhone, press and hold the side or power button if you have an iPhone 8 or older model. On the other hand, if you have an iPhone X or newer model, long-press the side and either volume down together. Then, drag the power-off slider to the right to turn it off.
 
 ![iPhone slide to power off](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-slide-to-power-off.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 
  You can [restart your iPhone even if its buttons are broken](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) . Turn your iPhone on and check if you can access the Control Center.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 ## 8\. Reset Your iPhone's Settings
 
  Your final option is to reset all the settings of your iPhone if the Control Center is still not functioning properly despite applying all the methods mentioned in this post.
@@ -183,20 +166,22 @@ Key features:
 3. Tap**Reset** and choose**Reset All Settings** .
 
 ![iPhone Settings Tranfer or Reset iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-settings-tranfer-or-reset-iphone.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![iPhone Reset Settings option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-reset-settings-option.jpg)
 
 ![iPhone Reset All Settings option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-reset-all-settings-option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 
 Close
 
  Enter your passcode for verification, and iOS will reset your iPhone's settings. Now, try accessing the Control Center gain.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Resolve Your Control Center Issues
 
@@ -210,8 +195,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -219,4 +202,22 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-top-group-video-chat-apps-you-should-know-for-video-conferences-and-meetings/"><u>[New] 2024 Approved Top Group Video Chat Apps You Should Know [For Video Conferences and Meetings]</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-instagrams-most-trusted-grid-creation-applications-ranked-anew/"><u>[Updated] 2024 Approved Instagram's Most Trusted Grid Creation Applications Ranked Anew</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-decoding-earnings-for-content-producers-on-short-form-platform/"><u>[Updated] Decoding Earnings for Content Producers on Short-Form Platform</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721460713867-cant-use-facetime-here-are-16-ways-to-fix-it-and-get-connected-again/"><u>Can't Use FaceTime? Here Are 16 Ways To Fix It and Get Connected Again!</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/easily-resize-system-icons-on-windows-tips-from-yl-computings-guide-the-ultimate-trick/"><u>Easily Resize System Icons on Windows: Tips From YL Computing's Guide - The Ultimate Trick!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-media-player-server-issue/"><u>Eliminating Media Player Server Issue</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-simplifying-gif-design-for-beginners/"><u>In 2024, Simplifying GIF Design for Beginners</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-itel-p55-5g-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Itel P55 5G for Parents | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-dnd-troubles-here-are-eight-fixes-to-keep-you-in-the-loop-with-texts-and-calls/"><u>IPhone DND Troubles? Here Are Eight Fixes to Keep You in the Loop with Texts & Calls</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-wont-stay-connected-try-these-5-wi-fi-troubleshooting-tips/"><u>IPhone Won't Stay Connected? Try These 5 Wi-Fi Troubleshooting Tips!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolve-iphone-qr-code-scanner-problems-quickly-with-these-10-proven-strategies/"><u>Resolve iPhone QR Code Scanner Problems Quickly With These 10 Proven Strategies</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolving-safaris-imaging-hurdles-on-iphones-with-these-9-effective-fixes/"><u>Resolving Safari's Imaging Hurdles on iPhones with These 9 Effective Fixes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-7-quick-fixes-when-your-emojis-go-rogue-on-apple-gadgets/"><u>Troubleshooting: 7 Quick Fixes When Your Emojis Go Rogue on Apple Gadgets</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/ultimate-guide-to-mp4-from-instagram-advanced-2-step-processes-for-2024/"><u>Ultimate Guide to MP4 From Instagram Advanced 2-Step Processes for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-oppo-a79-5g-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Oppo A79 5G | Dr.fone</u></a></li>
+</ul></div>
 

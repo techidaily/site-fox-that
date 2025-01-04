@@ -1,7 +1,7 @@
 ---
 title: Solving the Problem When Your iPhone Shows Numbers as Contacts
-date: 2024-11-19T20:19:07.559Z
-updated: 2024-11-25T05:41:45.399Z
+date: 2024-12-28T19:37:24.755Z
+updated: 2025-01-03T16:40:33.067Z
 tags:
   - iphone
   - apple
@@ -27,10 +27,6 @@ thumbnail: https://thmb.techidaily.com/be96a560d136aae29d0d1d935d5244e5292b9067e
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Why Does Your Contact Name Disappear?
 
  When you initially see the Messages app showing a phone number instead of a contact name, you may think someone random has messaged you.
@@ -39,15 +35,15 @@ thumbnail: https://thmb.techidaily.com/be96a560d136aae29d0d1d935d5244e5292b9067e
 
  However, this is usually a temporary issue and should fix itself. If this isn't the case, you can try a few quick fixes to get things back to normal quickly.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Restart Your iPhone
 
  A quick fix to getting your contact names back instead of phone numbers is to [restart your iPhone](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) . As with many other issues, a quick reboot usually does the trick, and you should be able to see your contact names instead of phone numbers in Messages.
 
  In the case that this doesn't work and you are still facing the same issue, follow the fixes below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Add or Remove the Country Code
 
@@ -62,11 +58,11 @@ thumbnail: https://thmb.techidaily.com/be96a560d136aae29d0d1d935d5244e5292b9067e
 
 ![Contact Edit menu in iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/contact-edit-menu-in-ios.jpg)
 
-![Add Country Code to Number](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Fix-Messages-Not-Showing-Contact-Number.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Add Country Code to Number](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Fix-Messages-Not-Showing-Contact-Number.jpg)
 
 Close
 
@@ -75,6 +71,10 @@ Close
  Alternatively, if you choose to add a new contact from the phone number, you can add it to an existing contact. But then you'll have two numbers saved for that person.
 
  Once you fix a phone number, you'll see Messages will automatically merge the conversations split across different chats.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Toggle iCloud Contacts
 
@@ -92,16 +92,16 @@ To do this, follow these steps on your iPhone:
 
 ![Settings on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Fix-Messages-Not-Showing-iCloud.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Password and Security in iPhone iCloud Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/2FA-iPhone-Password-and-Security.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![Contacts in iCloud Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Fix-Messages-Not-Showing-iCloud-Contacts.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Close
@@ -125,19 +125,20 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-integrating-seamless-multimedia-elements-on-your-mac-screen/"><u>[New] 2024 Approved Integrating Seamless Multimedia Elements on Your Mac Screen</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-realizing-youre-off-the-friends-list/"><u>[New] 2024 Approved Realizing You're Off the Friends List</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/0plus-creative-cooking-channel-names-to-attract-more-audience-for-2024/"><u>[New] 80+ Creative Cooking Channel Names to Attract More Audience for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-spreading-smiles-building-a-solid-foundation-in-gif-humor/"><u>[Updated] Spreading Smiles Building a Solid Foundation in GIF Humor</u></a></li>
-<li><a href="https://fox-that.techidaily.com/easy-steps-rebooting-your-iphones-connectivity-issues/"><u>Easy Steps: Rebooting Your iPhone's Connectivity Issues</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-realme-note-50-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Realme Note 50 | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/is-your-iphone-staying-mute-when-you-need-a-shake-try-these-8-effective-solutions/"><u>Is Your iPhone Staying Mute When You Need a Shake? Try These 8 Effective Solutions</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-pc-accessibility-of-googles-voice-controlled-assistant-via-mobile-applications/"><u>Mastering PC Accessibility of Google's Voice-Controlled Assistant via Mobile Applications</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721477377574-one-airpod-not-working-heres-how-you-can-fix-it/"><u>One AirPod Not Working? Here's How You Can Fix It!</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/premier-call-customization-and-editing-software-for-2024/"><u>Premier Call Customization and Editing Software for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/reprogramming-steam-language-default/"><u>Reprogramming Steam Language Default</u></a></li>
-<li><a href="https://fox-that.techidaily.com/restore-true-colors-fixing-yellowed-iphone-screens-for-crystal-clear-imagery/"><u>Restore True Colors: Fixing Yellowed iPhone Screens for Crystal Clear Imagery</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solve-the-mystery-of-your-disappearing-iphone-with-find-my-techniques/"><u>Solve the Mystery of Your Disappearing iPhone with Find My Techniques</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solve-your-iphone-and-ipad-keyboard-issues-top-6-fixes/"><u>Solve Your iPhone and iPad Keyboard Issues: Top 6 Fixes</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-comparative-study-black-hero-4-versus-x1000v-in-action-filming/"><u>[New] In 2024, Comparative Study Black Hero 4 Versus X1000V in Action Filming</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-hymn-based-ringtone-options-for-every-believer/"><u>[Updated] In 2024, Hymn-Based Ringtone Options for Every Believer</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-mega-popular-youtube-vids-everlasting-titles/"><u>[Updated] Mega-Popular YouTube Vids Everlasting Titles</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-quick-growing-yt-sources-sparking-mental-flourish-for-2024/"><u>[Updated] Quick-Growing YT Sources Sparking Mental Flourish for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-reviving-a-dying-twitch-stream-in-seconds/"><u>[Updated] Reviving a Dying Twitch Stream in Seconds</u></a></li>
+<li><a href="https://fox-that.techidaily.com/easy-solutions-to-overcome-last-line-unavailable-errors-on-ios-devices/"><u>Easy Solutions to Overcome ‘Last Line Unavailable’ Errors on iOS Devices</u></a></li>
+<li><a href="https://fox-that.techidaily.com/get-the-most-out-of-your-smartphones-internet-top-10-tricks-for-swift-mobile-data/"><u>Get the Most Out of Your Smartphone's Internet: Top 10 Tricks for Swift Mobile Data</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-why-apple-account-disabled-from-your-iphone-se-2020-how-to-fix-by-drfone-ios/"><u>In 2024, Why Apple Account Disabled From your iPhone SE (2020)? How to Fix</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/optimal-tools-for-educators-lesson-archiving/"><u>Optimal Tools for Educator's Lesson Archiving</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolve-iphone-voice-recognition-problems-with-these-5-tips/"><u>Resolve iPhone Voice Recognition Problems with These 5 Tips</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/streamline-your-workflow-with-leading-tts-apps-for-mac-users/"><u>Streamline Your Workflow with Leading TTS Apps for Mac Users</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-guide-how-to-fix-your-iphone-when-it-gets-stuck-on-the-apple-sign-in/"><u>Troubleshooting Guide: How to Fix Your iPhone When It Gets Stuck on the Apple Sign-In</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-guide-why-arent-your-airpods-detected-by-find-my/"><u>Troubleshooting Guide: Why Aren't Your AirPods Detected by 'Find My'?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/understanding-the-causes-of-iphoneipad-overheating-solutions-and-prevention-tips/"><u>Understanding the Causes of iPhone/iPad Overheating: Solutions & Prevention Tips</u></a></li>
+<li><a href="https://fox-that.techidaily.com/why-does-my-iphone-still-show-pictures-ive-deleted-from-the-camera-roll-top-8-fixes-explored/"><u>Why Does My iPhone Still Show Pictures I've Deleted From the Camera Roll? Top 8 Fixes Explored</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Essential Troubleshooting Steps for Silent iPhones Receiving Calls
-date: 2024-12-19T19:42:13.957Z
-updated: 2024-12-25T19:36:39.344Z
+date: 2025-01-01T19:35:49.908Z
+updated: 2025-01-03T19:39:01.016Z
 tags:
   - iphone
   - apple
@@ -49,10 +49,6 @@ thumbnail: https://thmb.techidaily.com/c72cccdf9cacc0fda207b45b24ab86cf2fde475b8
 
 ![bluetooth disabled in iphone control center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_7378.JPEG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Close
 
  To disconnect devices individually instead, head to**Settings > Bluetooth** . Tap the**Info (i)** button next to the device and tap**Disconnect** . Once your Bluetooth devices are disconnected, incoming calls should play via your iPhone's speakers.
@@ -70,11 +66,11 @@ Close
 
 ![ringtone volume iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/img_5647.jpg)
 
-Close
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+Close
 
 ## 5\. Choose a Different or Louder Ringtone
 
@@ -90,7 +86,15 @@ Follow these steps to change your iPhone's ringtone:
 
 ![Tap Ringtone inside Sound & Haptics iPhone Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/tap-ringtone-inside-sound--haptics-iphone-settings.JPEG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Choose a ringtone in iPhone Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/choose-a-ringtone-in-iphone-settings.JPEG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -104,15 +108,19 @@ Close
 
 ![Tap a contact in iPhone Phone or Contacts app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/tap-a-contact-in-iphone-phone-or-contacts-app.JPEG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Tap Ringtone inside a Contact Card](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/tap-ringtone-inside-a-contact-card.JPEG)
 
 ![Choose a Loud Ringtone for the Contact](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/choose-a-loud-ringtone-for-the-contact.JPEG)
 
-Close
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+Close
 
 ## 7\. Restart Your iPhone
 
@@ -130,29 +138,21 @@ Close
 
 ![enable mobile data in iphone control center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_7380.JPEG)
 
-![iphone settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_7382.JPEG)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![iphone settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_7382.JPEG)
 
 ![iphone wifi settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_7379.JPEG)
 
 Close
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 9\. Fix an iPhone Stuck in Headphone Mode
 
  In rare situations, your iPhone may incorrectly think it is still connected to wired earphones, even though it isn't. As a result, there may be no sound from the built-in speakers when you play media or receive phone calls.
 
  To get out of this inconvenience, check out [how to fix an iPhone stuck in headphone mode](https://www.makeuseof.com/tag/how-to-fix-iphone-stuck-in-headphone-mode/) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 10\. Try Turning Off Calls on Other Devices
 
@@ -164,9 +164,21 @@ Close
 
 ![Tap Calls on Other Devices in iPhone Phone Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/tap-calls-on-other-devices-in-iphone-phone-settings.JPEG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Calls on Other Devices Screen in iPhone Phone Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/calls-on-other-devices-screen-in-iphone-phone-settings.JPEG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Calls on Other Devices turned off in iPhone Phone Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/calls-on-other-devices-turned-off-in-iphone-phone-settings.JPEG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -180,24 +192,16 @@ Close
 
 ![iphone general settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/img_6731.JPEG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Close
 
  Finally, if nothing else works, open **Settings > General > Transfer or Reset iPhone > Reset > Reset All Settings** . This won't erase personal data like music, photos, and apps. However, all the settings you've changed, like Wi-Fi, your Home Screen layout, notifications, and more, will return to default.
 
 ![iphone general settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_7383.JPEG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![transfer or reset iphone settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_7384.JPEG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![transfer or reset iphone settings confirmation window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_7385.JPEG)
@@ -205,10 +209,6 @@ Close
 Close
 
  It's a bit of a hassle, but it confirms that no settings prevent your iPhone from ringing when you get a call or text.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Hopefully, Your iPhone Rings Perfectly Now
 
@@ -231,16 +231,21 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-ideal-selections-economical-4k-home-theater-systems-for-2024/"><u>[New] Ideal Selections Economical 4K Home Theater Systems for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-pinnacle-mac-screen-plus-audio-transcription-system/"><u>[Updated] Pinnacle Mac Screen + Audio Transcription System</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/byzantine-beats-tracing-greek-through-ages/"><u>Byzantine Beats: Tracing Greek Through Ages</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-vivo-y100-5g-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Vivo Y100 5G Device</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/inside-scoop-rumors-release-timeline-and-tech-breakdown-for-apples-upcoming-household-bot/"><u>Inside Scoop: Rumors, Release Timeline, and Tech Breakdown for Apple's Upcoming Household Bot</u></a></li>
-<li><a href="https://fox-that.techidaily.com/iphone-photo-collection-made-simple-uncover-8-proven-strategies-and-insights-to-fix-camera-roll-challenges/"><u>IPhone Photo Collection Made Simple: Uncover 8 Proven Strategies & Insights to Fix Camera Roll Challenges</u></a></li>
-<li><a href="https://fox-that.techidaily.com/lost-iphone-apps-effective-techniques-for-tracking-down-disappeared-mobile-programs/"><u>Lost iPhone Apps: Effective Techniques for Tracking Down Disappeared Mobile Programs</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/no-cost-face-generation-top-online-platforms-for-2024/"><u>No-Cost Face Generation Top Online Platforms for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/overcoming-iphone-carrier-issues-discover-these-easy-to-follow-fixes/"><u>Overcoming iPhone Carrier Issues - Discover These Easy-to-Follow Fixes</u></a></li>
-<li><a href="https://fox-that.techidaily.com/reviving-your-personal-assistant-fixing-siri-problems-on-ios-devices-quickly/"><u>Reviving Your Personal Assistant: Fixing Siri Problems on iOS Devices Quickly</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-image-loading-issues-in-safari-top-9-tips/"><u>Troubleshooting Image Loading Issues in Safari: Top 9 Tips</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-navigating-the-world-of-drone-video-manipulation/"><u>[New] 2024 Approved Navigating the World of Drone Video Manipulation</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-youtube-editing-made-easy-with-the-8-best-no-cost-software-options/"><u>[New] YouTube Editing Made Easy with The 8 Best No-Cost Software Options</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-boosting-engagement-tactics-for-great-instagram-reels/"><u>[Updated] Boosting Engagement Tactics for Great Instagram Reels</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-correct-iosandroid-video-failures-on-fb/"><u>2024 Approved Correct iOS/Android Video Failures on FB</u></a></li>
+<li><a href="https://win11.techidaily.com/5-quick-wins-to-tackle-your-window-writes-woes/"><u>5 Quick Wins to Tackle Your Window' Writes Woes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/9-effective-solutions-when-chatgpt-stops-responding-on-ios-devices/"><u>9 Effective Solutions When ChatGPT Stops Responding on iOS Devices</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fix-imessage-issues-in-a-flash-a-guide-for-apple-users/"><u>Fix iMessage Issues in a Flash: A Guide for Apple Users</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-latest-amd-vega-drivers-streamlined-downloads-and-upgrades-for-players/"><u>Get the Latest AMD Vega Drivers: Streamlined Downloads and Upgrades for Players!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1726029869096-gif/"><u>GIF動画の向きを変える究極ガイド</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/new-methods-for-getting-roblox-running-smoothly-again-a-2022-guide/"><u>New Methods for Getting Roblox Running Smoothly Again: A 2022 Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolving-non-responsive-auto-brightness-in-your-iphone-try-these-7-techniques/"><u>Resolving Non-Responsive Auto-Brightness in Your iPhone? Try These 7 Techniques</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solution-guide-keeping-spotify-running-even-after-securing-your-iphones-display/"><u>Solution Guide: Keeping Spotify Running Even After Securing Your iPhone's Display</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-iphone-chatgpt-malfunctions-effective-remedies-for-a-smooth-experience/"><u>Solving iPhone ChatGPT Malfunctions: Effective Remedies for a Smooth Experience</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-iphone-guided-access-problems-6-effective-fixes/"><u>Solving iPhone Guided Access Problems - 6 Effective Fixes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-iphone-volume-control-issues-a-guide-to-the-top-7-repairs/"><u>Solving iPhone Volume Control Issues: A Guide to the Top 7 Repairs</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-guide-fixing-the-absent-jscriptdll-error/"><u>Troubleshooting Guide: Fixing the Absent JScript.dll Error</u></a></li>
 </ul></div>
 

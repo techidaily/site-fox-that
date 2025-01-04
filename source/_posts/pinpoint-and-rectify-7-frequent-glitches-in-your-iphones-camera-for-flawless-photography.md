@@ -1,7 +1,7 @@
 ---
 title: Pinpoint & Rectify 7 Frequent Glitches in Your iPhone's Camera for Flawless Photography
-date: 2024-08-15T11:57:34.259Z
-updated: 2024-08-16T11:57:34.259Z
+date: 2024-12-31T04:00:40.995Z
+updated: 2025-01-03T21:38:56.249Z
 tags:
   - iphone
   - apple
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/87f89d3b15c9e03d195fa4c767fb7770437292a21
  You wouldn't buy a new smartphone if it didn't have a camera on it. So what good is your iPhone when the camera isn't working?
 
  Here are the most common problems you might come across with your iPhone camera, along with everything you can do to fix them.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. iPhone Camera Shows a Black Screen
 
@@ -35,19 +39,14 @@ Close
 5. Turn off your iPhone by holding the Side button (along with either Volume button on the iPhone X and later), then slide to power off. Wait 30 seconds before pressing the Side button again to restart your iPhone. If that doesn't work,[force restart your iPhone](https://www.makeuseof.com/tag/restart-iphone-recovery-mode/) instead.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. iPhone Photos Are Blurry or Out of Focus
 
 ![iPhone camera blurry close up](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/01/iPhone-camera-blurry-close-up.jpg)
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 
 ![iPhone camera in focus close up](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/01/iPhone-camera-in-focus-close-up.jpg)
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Close
 
@@ -57,6 +56,10 @@ Close
 2. Remove any metallic or magnetic iPhone cases and camera accessories. They can interfere with the optical image stabilization on an iPhone 6S Plus, iPhone 7, iPhone X, or later iPhones. This might explain why the camera isn't working.
 3. If the Camera app says**AE/AF Lock** at the top of the screen, tap on a blank space to turn auto-focus back on. You may have accidentally locked the focus by tapping and holding in the Camera app.
 4. Keep your hand steady while tapping the shutter button. Sometimes it's easier to press one of the Volume buttons to take steady pictures instead. Be careful in the dark when the shutter needs to stay open for longer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. iPhone Camera Flash Isn't Working
 
@@ -69,16 +72,18 @@ Close
 3. Be careful when using the flash for long videos or in hot environments. If your iPhone gets too hot, it might disable the flash entirely until it has cooled down again.
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. iPhone Photos Are Flipped the Wrong Way
 
 ![iPhone photo flipped the wrong way](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/01/iPhone-photo-flipped-the-wrong-way.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 
 ![iPhone photo rotated in edit screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/01/iPhone-photo-rotated-in-edit-screen.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -94,10 +99,11 @@ Close
 
 ![Screen Time settings on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/01/Screen-Time-settings-on-iPhone.jpg)
 
-![Allowed Apps in Screen Time restrictions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/01/Allowed-Apps-in-Screen-Time-restrictions.jpg)
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Allowed Apps in Screen Time restrictions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/01/Allowed-Apps-in-Screen-Time-restrictions.jpg)
 
 Close
 
@@ -110,9 +116,6 @@ Close
 ## 6\. General iPhone Camera Software Fixes
 
 ![Reset All Settings iPhone confirmation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/01/Reset-All-Settings-iPhone-confirmation.jpg)
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you experience any other oddities with your iPhone camera not working, it's a good idea to try some general software troubleshooting tips. Test your iPhone camera again after each of the tips below.
 
@@ -122,9 +125,6 @@ Close
 4. Go to**Settings > General > Reset > Reset All Settings** . This doesn't delete any of your content---such as photos or apps---but it does reset all your iPhone settings.
 5. Finally,[factory reset your iPhone](https://www.makeuseof.com/tag/how-to-factory-reset-iphone-ipad/) and set it up as a new device. This erases everything and is the last resort, but should resolve any software issues that stop your iPhone camera from working.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ## 7\. General iPhone Camera Hardware Fixes
 
 ![iPhone 11 camera](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/01/iPhone-11-camera.jpg)
@@ -134,6 +134,10 @@ Close
 1. Double-check that the camera is not obstructed by a case or sticker.
 2. Make sure there are no smudges, dirt, or debris on the camera lens. Smudges and fingerprints should wipe away easily with a microfiber cloth.
 3. [Contact Apple Support](https://getsupport.apple.com/) to arrange a hardware repair at the Apple Store or at an Apple Authorized Service Provider. If your iPhone is out of warranty, you may need to pay for this repair yourself.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Get Back to Taking Great Photos With Your iPhone
 
@@ -149,8 +153,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -158,4 +160,24 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/ed-how-to-deal-with-youtube-trolls-and-negative-comments-for-2024/"><u>[Updated] How To Deal with YouTube Trolls and Negative Comments for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-decoding-fast-techniques-for-ssgnature-bg-cleansing/"><u>[Updated] In 2024, Decoding Fast Techniques for Ssgnature Bg Cleansing</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-switching-from-snippet-to-live-play-in-yt/"><u>[Updated] Switching From Snippet to Live Play in YT</u></a></li>
+<li><a href="https://fox-that.techidaily.com/9-ways-to-fix-iphone-voicemail-not-working/"><u>9 Ways to Fix iPhone Voicemail Not Working</u></a></li>
+<li><a href="https://fox-that.techidaily.com/addressing-undelivered-imessages-techniques-for-iphone-owners/"><u>Addressing Undelivered iMessages: Techniques for iPhone Owners</u></a></li>
+<li><a href="https://fox-that.techidaily.com/earphone-troubles-here-are-the-reasons-behind-one-airpod-being-louder-than-its-pair-and-how-to-fix-it/"><u>Earphone Troubles? Here Are the Reasons Behind One AirPod Being Louder Than Its Pair and How to Fix It</u></a></li>
+<li><a href="https://fox-that.techidaily.com/effective-methods-to-thaw-a-locked-iphone-screen-and-regain-control/"><u>Effective Methods to Thaw a Locked iPhone Screen and Regain Control</u></a></li>
+<li><a href="https://fox-that.techidaily.com/giveaway-glitches-5-common-hurdles-in-apples-gifting-feature/"><u>Giveaway Glitches: 5 Common Hurdles in Apple's Gifting Feature</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-lava-blaze-2-5g-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Lava Blaze 2 5G to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-infinix-hot-40-pro-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Infinix Hot 40 Pro</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-investing-insights-on-screen-best-youtube-guides-for-stocks/"><u>In 2024, Investing Insights on Screen Best YouTube Guides for Stocks</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-gionee-f3-pro-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Gionee F3 Pro with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-your-realme-c53s-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Realme C53s Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://fox-that.techidaily.com/step-by-step-tutorial-on-seeking-help-for-your-iphone-with-apples-dedicated-app/"><u>Step-by-Step Tutorial on Seeking Help for Your iPhone with Apple's Dedicated App</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-10-solutions-to-stop-constant-iphone-application-failures/"><u>Top 10 Solutions to Stop Constant iPhone Application Failures</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-11-solutions-what-to-do-if-your-airpods-arent-detected-by-find-my/"><u>Top 11 Solutions: What to Do If Your AirPods Aren't Detected by Find My</u></a></li>
+<li><a href="https://win-dash.techidaily.com/update-your-hp-officejet-4655-printer-drivers-with-our-guide-and-download-links/"><u>Update Your HP OfficeJet 4655 Printer Drivers with Our Guide & Download Links</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting iPhone's 'End of Text Not Found' Issue
-date: 2024-08-15T11:58:52.475Z
-updated: 2024-08-16T11:58:52.475Z
+date: 2025-01-03T03:02:27.323Z
+updated: 2025-01-03T18:45:29.840Z
 tags:
   - iphone
   - apple
@@ -36,13 +36,11 @@ thumbnail: https://thmb.techidaily.com/1950983d0af24cf7ccce7d0d9b553dd604417e3bd
 * While placing a call from the "Favorites" and "Recents" lists, tap the**Info** button and choose the number you want.
 
 ![Switch lines in Phone dialer.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/1-switch-lines-dialer.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 
 ![Switch lines in Favorites and Recents.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/2-switch-lines-favorites.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Close
@@ -50,8 +48,9 @@ Close
  If you do not want to use the alternative line on your iPhone, continue with the potential fixes below.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Toggle Airplane Mode On and Off on iPhone
 
  Enabling and disabling [Airplane Mode](https://www.makeuseof.com/tag/android-airplane-mode/) is a quick fix for most cellular connectivity issues on the iPhone. Just bring up the Control Center (swipe down from the top-right of the screen or double-click the**Home** button) and tap the**Airplane Mode** icon. After waiting 10 seconds, tap the icon once more.
@@ -59,8 +58,9 @@ Close
 ![Toggling Airplane Mode on iPhone.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/3-toogle-airplane-mode.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Restart Your iPhone
 
  Another quick way to fix the "Last Line No Longer" available error requires that you reboot your iPhone. Since iOS does not feature a "Restart" option, you must turn off the device and manually boot it back up.
@@ -70,9 +70,6 @@ Close
 ![iPhone Settings app.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/4-iphone-settings.jpeg)
 
 ![General preferences on iPhone.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/5-general-preferences.jpeg)
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Slide to Power Off screen on iPhone.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/6-power-off-screen.jpeg)
 
@@ -95,9 +92,6 @@ Close
 ![Recents list on the Phone app on iPhone.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/7-recent-calls.jpeg)
 
 ![Deleting call logs on iPhone.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/8-delete-call-log.jpeg)
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 ![Clearing all recent calls on iPhone.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/9-clear-all-recents.jpeg)
 
@@ -111,13 +105,18 @@ Close
 
 ![General preferences screen on iPhone.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/10-general-preferences.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Carrier information on the iPhone's About screen.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/11-about-screen.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Avoid Using Your Preferred Line for Cellular Data
 
  The "Last Line No Longer Available" error can also show up on your iPhone if you use your default or preferred line to access cellular data. You can change that by following these steps:
@@ -127,6 +126,10 @@ Close
 3. Select the other phone line or**Off** to disable cellular data altogether.
 
 ![Mobile data screen on iPhone.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/12-mobile-data-screen.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![Line selection screen for cellular data.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/13-select-mobile-date-line.jpeg)
 
@@ -141,17 +144,15 @@ Close
  To disable Automatic Network Selection, open the**Settings** app and tap**Cellular** \>**Network Selection** . Then, turn off the switch next to**Automatic Network Selection** and pick your carrier network.
 
 ![Cellular preferences screen on iPhone.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/14-cellular-preferences.jpeg)
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Disabling Automatic Network Selection on iPhone.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/15-disable-network-selection.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Close
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 8\. Disable Wi-Fi Calling on iPhone
 
 [Wi-Fi Calling](https://www.makeuseof.com/tag/how-wifi-calling-works/) allows you to make and receive phone calls over Wi-Fi in areas with poor cellular signal strength, but it could also create conflicts and result in the "Last Line No Longer Available" error.
@@ -159,17 +160,14 @@ Close
  To fix that, open the**Settings** app and tap**Cellular** \>**Wi-Fi Calling** . Then, turn off the switch next to**Wi-Fi Calling on This iPhone** .
 
 ![Cellular preferences screen on iPhone.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/16-cellular-screen-1.jpeg)
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Disabling Wi-Fi calling on iPhone.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/17-disable-wifi-calling-2.jpeg)
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 
 Close
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 9\. Install the Latest Software Updates
 
@@ -186,18 +184,17 @@ Close
  If none of the fixes above work, try [resetting your iPhone's network settings](https://www.makeuseof.com/how-to-reset-network-settings-iphone/) . To do that, open the**Settings** app, go to**General** \>**Transfer & Reset Phone** \>**Reset** \>**Reset Network Settings** .
 
 ![General preferences screen on iPhone.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/20-general-preferences.jpeg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Transfer on Reset screen on iPhone.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/21-reset-screen.jpeg)
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Reset menu on iPhone.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/22-reset-network-settings.jpeg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Close
@@ -206,9 +203,6 @@ Close
 
  Resetting the network settings on your iPhone deletes all the saved Wi-Fi hotspots and passwords. You must manually rejoin any networks afterward.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Say Goodbye to the "Last Line No Longer Available" Error
 
  Turning Airplane Mode on and off, restarting your iPhone, or clearing your "Recents" list almost always fixes the "Last Line No Longer Available" error. If not, take the time to go through the other fixes above, and it should eventually go away.
@@ -221,8 +215,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -230,4 +222,21 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/androids-elite-10-gb-games-simulators-for-2024/"><u>Android's Elite 10 GB Games Simulators for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/autoplay-youtube-on-mobile-no-distractions/"><u>AutoPlay YouTube on Mobile, No Distractions</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/clearing-up-display-defects-after-win11-switch/"><u>Clearing Up Display Defects After Win11 Switch</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721457054253-dont-delay-discover-the-essential-benefits-of-upgrading-to-ios-153-now/"><u>Don't Delay: Discover the Essential Benefits of Upgrading to iOS 15.3 Now</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-itel-p55-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Itel P55 | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unveiling-the-vr-future-latest-trends/"><u>In 2024, Unveiling the VR Future Latest Trends</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721473243402-iphone-not-syncing-with-laptop-discover-these-quick-fixes/"><u>IPhone Not Syncing with Laptop? Discover These Quick Fixes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721470659582-iphones-wi-fi-woes-discover-these-5-troubleshooting-strategies/"><u>Iphone's Wi-Fi Woes? Discover These 5 Troubleshooting Strategies!</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/learning-on-film-school-vid-editing-best-practices-for-2024/"><u>Learning on Film School Vid Editing Best Practices for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721461992906-struggling-to-link-your-iphone-with-your-computer-discover-the-solutions/"><u>Struggling to Link Your iPhone With Your Computer? Discover the Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721472795401-struggling-with-sluggish-mobile-speeds-boost-your-data-velocity-in-just-10-easy-ways/"><u>Struggling with Sluggish Mobile Speeds? Boost Your Data Velocity in Just 10 Easy Ways!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/tackling-court-obstacles-effectively-dealing-with-civil-action-6s-unusual-access-violation-exceptions/"><u>Tackling Court Obstacles Effectively: Dealing with Civil Action #6'S Unusual Access Violation Exceptions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-overcoming-launch-problems-in-maplestory/"><u>Troubleshooting Guide: Overcoming Launch Problems in MapleStory</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721463940528-why-isnt-my-iphone-buzzing-on-silentring-settings-fix-it-with-these-8-steps/"><u>Why Isn't My iPhone Buzzing on Silent/Ring Settings? Fix It With These 8 Steps!</u></a></li>
+</ul></div>
 

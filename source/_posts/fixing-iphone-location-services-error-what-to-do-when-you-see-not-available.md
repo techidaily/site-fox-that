@@ -1,7 +1,7 @@
 ---
 title: Fixing iPhone Location Services Error - What to Do When You See 'Not Available'
-date: 2024-08-15T11:59:27.204Z
-updated: 2024-08-16T11:59:27.204Z
+date: 2024-12-29T23:09:43.953Z
+updated: 2025-01-04T03:58:59.534Z
 tags:
   - iphone
   - apple
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/be8413a30f19599698e9b5b7f7e17b9eb5081fbfd
 
  So without any further ado, let's check out what it takes to fix the "Location Not Available" error on an iPhone. We'll start with the steps you can try yourself, before moving onto what the person you're trying to track needs to do.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Fix "Location Not Available" From Your Own iPhone
 
  There isn't a lot you can do yourself if Messages or the Find My app says "Location Not Available" when someone has chosen to [share their iPhone location with you](https://www.makeuseof.com/how-to-share-location-iphone/) . But it's still easiest to try these steps first, before involving somebody else.
@@ -33,63 +37,44 @@ To force quit Messages or Find My:
 3. Now go back to the Home screen and open Messages or Find My again.
 
 ![Home Screen on iPhone.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/1-iphone-home-screen.PNG)
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 
 ![App Switcher on iPhone.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/2-app-switcher.PNG)
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 
 ![Force-quitting an app on iPhone.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/3-force-quit-app.PNG)
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 
 Close
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Restart Your iPhone
 
  If closing and reopening the relevant app didn't work, you might need to [restart your iPhone](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) instead. To restart your iPhone, simply open the**Settings** app and tap**General > Shut Down** . Once the screen goes black, wait for several seconds and hold the**Side** or the**Top** button until you see the Apple logo.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Fix "Location Not Available" From Someone Else's iPhone
 
  If the two fixes above didn't help, you'll need to shift your attention to your friend or family member's iPhone. Walk them through the fixes below on a call. Or, share this post with them and make sure they follow the instructions in this section.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Toggle Share My Location Off and On
 
  Disabling and re-enabling Share My Location in the Find My preferences can help an iPhone broadcast its location again. To do that, go to**Settings** and tap the person's name at the top of the screen, then select**Find My** . Toggle the switch next to**Share My Location** off and then on.
 
 ![Settings app on iPhone.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/4-settings-app.PNG)
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 
 ![Apple ID settings screen.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/5-apple-id-settings.PNG)
 
 ![Find My preferences.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/6-share-my-location-1.PNG)
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Close
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Share the Location in Messages and Find My Again
 
@@ -102,16 +87,21 @@ Close
 
 ![Stop Sharing My Location.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/8-info-pane.PNG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Start sharing my location.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/9-info-pane-alt.PNG)
 
 Close
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Restart the iPhone
 
  The simplest method is to go to**Settings > General > Shut Down** . Then, press and hold the**Side** or**Top** button to restart the iPhone.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Check the Date and Time
 
@@ -120,8 +110,9 @@ Close
 ![iPhone Settings screen.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/10-iphone-settings.PNG)
 
 ![General settings screen on iPhone.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/11-general-settings.PNG)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Date or time screen on iPhone.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/12date-time.PNG)
@@ -135,8 +126,9 @@ Close
  If cellular data is active, the iPhone should automatically start using it. If not, tap the**Cellular** icon to activate it. Just make sure you don't have any [cellular data problems on your iPhone](https://www.makeuseof.com/iphone-cellular-data-not-working-fixes/) as well.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Sharing Your Location Isn't Always Wise
 
  Location tracking can be a double-edged sword. Although it enables valuable features such as location sharing in iMessage and Find My, various third-party apps and services can also use your location for nefarious purposes. Learn what you can do to find and disable unwanted location tracking on your iPhone to protect your privacy while taking advantage of this feature.
@@ -147,8 +139,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -156,4 +146,26 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/asterclass-in-conversions-top-software-for-youtube-to-avi/"><u>[New] Masterclass in Conversions Top Software for YouTube to AVI</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-step-by-step-tutorial-to-elevate-your-slow-motion-videos-for-2024/"><u>[New] Step-by-Step Tutorial to Elevate Your Slow Motion Videos for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-streamline-filming-borders-on-instagram-videos/"><u>[New] Streamline Filming Borders on Instagram Videos</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-unleash-potential-stardews-premium-mod-lineup-7-14/"><u>[Updated] Unleash Potential Stardew's Premium Mod Lineup #7-14</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721476193860-6-effective-fixes-for-an-iphone-stuck-showing-sos-in-the-status-bar-restore-full-use/"><u>6 Effective Fixes for an iPhone Stuck Showing SOS in the Status Bar - Restore Full Use</u></a></li>
+<li><a href="https://article-tips.techidaily.com/comprehensive-guide-understanding-google-podcasts-for-2024/"><u>Comprehensive Guide Understanding Google Podcasts for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-roundup-of-prime-day-savings-on-laptops-for-october-2024-tips-and-deals/"><u>Exclusive Roundup of Prime Day Savings on Laptops for October 2024 - Tips and Deals</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-microsofts-wireless-display-adapter-connectivity-woes-on-windows-10-systems/"><u>Fixing Microsoft's Wireless Display Adapter Connectivity Woes on Windows 10 Systems</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721458609353-flickering-phone-display-discover-these-7-quick-fixes/"><u>Flickering Phone Display? Discover These 7 Quick Fixes!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/guide-utilizing-apples-distance-based-diagnostic-for-iphone-repair-assessments/"><u>Guide: Utilizing Apple's Distance-Based Diagnostic for iPhone Repair Assessments</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-samsung-galaxy-f04-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Samsung Galaxy F04 Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721476313479-how-to-successfully-take-full-page-screenshots-using-safari-solutions-inside/"><u>How to Successfully Take Full-Page Screenshots Using Safari – Solutions Inside</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-beyond-indexation-decoding-the-purpose-of-unlisted-videos/"><u>In 2024, Beyond Indexation Decoding the Purpose of 'Unlisted' Videos</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-full-guide-to-unlock-iphone-7-with-itunes-drfone-by-drfone-ios/"><u>In 2024, Full Guide to Unlock iPhone 7 with iTunes | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolving-undelivered-messages-in-imessage-on-ios-devices/"><u>Resolving Undelivered Messages in iMessage on iOS Devices</u></a></li>
+<li><a href="https://fox-that.techidaily.com/siri-suggestions-not-popping-up-on-iphone-heres-how-to-fix-it/"><u>Siri Suggestions Not Popping Up on iPhone? Here's How to Fix It</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-the-overzoom-issue-tips-for-adjusting-your-whatsapp-camera-settings/"><u>Solving the Overzoom Issue: Tips for Adjusting Your WhatsApp Camera Settings</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-the-puzzle-of-icloud-desynchronization-a-guide/"><u>Solving the Puzzle of iCloud Desynchronization: A Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-iphones-silent-mic-solutions-to-reactivate-your-phones-audio-input/"><u>Troubleshooting iPhone's Silent Mic: Solutions to Reactivate Your Phone's Audio Input</u></a></li>
+</ul></div>
 

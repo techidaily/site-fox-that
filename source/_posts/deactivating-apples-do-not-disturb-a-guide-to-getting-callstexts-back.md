@@ -1,7 +1,7 @@
 ---
 title: "Deactivating Apple's Do Not Disturb: A Guide to Getting Calls/Texts Back"
-date: 2024-12-18T21:20:15.779Z
-updated: 2024-12-25T20:33:47.084Z
+date: 2025-01-02T23:41:39.131Z
+updated: 2025-01-04T04:15:55.979Z
 tags:
   - iphone
   - apple
@@ -23,13 +23,13 @@ thumbnail: https://thmb.techidaily.com/5397c89a05d7c549e3c941ac0bcf9ef244a3e9feb
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Check Whether You Enabled the Correct Focus Mode
 
 ![do not disturb and personal mode in iphone control center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/1-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Although Apple started with Do Not Disturb, the feature has since been expanded to Focus mode. Focus includes Do Not Disturb, Personal, Work, and so on. You can [set up different Focus modes](https://www.makeuseof.com/focus-mode-ideas-to-set-up-in-ios/) and customize them for different purposes.
 
@@ -47,13 +47,17 @@ thumbnail: https://thmb.techidaily.com/5397c89a05d7c549e3c941ac0bcf9ef244a3e9feb
 
 ![focus modes on iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/focus-modes.JPEG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![do not disturb settings on iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/do-not-disturb-settings.JPEG)
 
-![allowed apps on do not disturb mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/dnd-allowed-apps.JPEG)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![allowed apps on do not disturb mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/dnd-allowed-apps.JPEG)
 
 Close
 
@@ -68,7 +72,7 @@ Close
  Alternatively, you can tap**Turn Off** for a specific app if you see its notifications pop up on your Lock Screen.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Change Settings for Incoming Calls
@@ -79,19 +83,15 @@ Close
 
 ![do not disturb settings on iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/do-not-disturb-settings.JPEG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![call settings for do not disturb mode on iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/dnd-favorite-calls.JPEG)
 
 ![change calls allowed on iphone do not disturb mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/dnd-allowed-calls.JPEG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Close
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Don't Allow Repeated Calls
 
@@ -120,7 +120,7 @@ Close
 ![schedule for iphone do not disturb mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/dnd-schedule.JPEG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![automate schedule for iphone do not disturb mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/dnd-schedule-2.JPEG)
@@ -130,7 +130,7 @@ Close
 Close
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Restart Your iPhone and Update iOS
@@ -162,24 +162,14 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-100-hysterical-moments-on-tiktok/"><u>[New] 2024 Approved 100 Hysterical Moments on TikTok</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-cutting-edge-tools-for-igtv-content-creation-and-editing/"><u>[New] 2024 Approved Cutting-Edge Tools for IGTV Content Creation and Editing</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-peculiar-playground-a-curated-list-of-tiktok-games/"><u>[New] 2024 Approved Peculiar Playground A Curated List of TikTok Games</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-snap-it-up-15-powerful-posting-techniques-revealed/"><u>[Updated] 2024 Approved Snap It Up! 15 Powerful Posting Techniques Revealed</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-how-to-live-stream-xbox-to-facebook-live/"><u>2024 Approved How to Live Stream Xbox to Facebook Live</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-livestran-vs-screen-capture-titans-battle-of-software-giants-obs-and-bandicam/"><u>2024 Approved Livestran vs Screen Capture Titans Battle of Software Giants, OBS & Bandicam</u></a></li>
-<li><a href="https://extra-information.techidaily.com/crafting-audio-identity-the-art-of-adding-your-own-tones-to-android-for-2024/"><u>Crafting Audio Identity The Art of Adding Your Own Tones to Android for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/easy-steps-to-resetting-your-iphones-network-configurations-for-improved-performance/"><u>Easy Steps to Resetting Your iPhone's Network Configurations for Improved Performance</u></a></li>
-<li><a href="https://fox-that.techidaily.com/expert-guide-for-reactivating-message-sound-alarms-on-your-ios-device/"><u>Expert Guide for Reactivating Message Sound Alarms on Your iOS Device</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fixing-airplay-problems-a-comprehensive-diy-tutorial-for-smooth-streaming/"><u>Fixing AirPlay Problems: A Comprehensive DIY Tutorial for Smooth Streaming</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/free-online-converter-transform-mxf-into-avi-format-with-movavi/"><u>Free Online Converter - Transform MXF Into AVI Format with Movavi</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-resolve-the-issue-of-grayed-out-icloud-options-in-ios-devices/"><u>How to Resolve the Issue of Grayed-Out iCloud Options in iOS Devices</u></a></li>
-<li><a href="https://fox-that.techidaily.com/iphone-phantom-touch-malfunction-explore-10-diagnostic-steps-for-a-flawless-repair/"><u>IPhone Phantom Touch Malfunction? Explore 10 Diagnostic Steps for a Flawless Repair</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-tecno-spark-20-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your Tecno Spark 20 Phone? Unlock It Now</u></a></li>
-<li><a href="https://fox-that.techidaily.com/reviving-lost-icon-designs-on-iphone-proven-methods-to-fix-icon-issues/"><u>Reviving Lost Icon Designs on iPhone: Proven Methods to Fix Icon Issues</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solving-roblox-memory-issues-a-step-by-step-guide-for-iphone-users/"><u>Solving Roblox Memory Issues: A Step-by-Step Guide for iPhone Users</u></a></li>
-<li><a href="https://facebook.techidaily.com/transcending-limits-how-meta-aims-to-reshape-social-media-landscape/"><u>Transcending Limits: How 'Meta' Aims to Reshape Social Media Landscape</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-call-reception-steps-when-your-iphone-fails-to-get-inbound-calls/"><u>Troubleshooting Call Reception: Steps When Your iPhone Fails to Get Inbound Calls</u></a></li>
-<li><a href="https://fox-that.techidaily.com/whatsapp-sync-failures-with-icloud-discover-tips-to-secure-your-messages-on-apples-cloud-service/"><u>WhatsApp Sync Failures with iCloud? Discover Tips to Secure Your Messages on Apple's Cloud Service</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-fourfold-precision-in-color-capture-with-blade-cameras/"><u>[New] 2024 Approved Fourfold Precision in Color Capture with Blade Cameras</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722846480385-exploring-how-ram-speeds-influence-overall-system-responsiveness/"><u>Exploring How RAM Speeds Influence Overall System Responsiveness</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-connectivity-issues-between-non-supported-devices-and-iphones/"><u>Fixing Connectivity Issues Between Non-Supported Devices and iPhones</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-fix-an-iphone-when-the-close-range-detection-feature-fails/"><u>How To Fix an iPhone When the Close-Range Detection Feature Fails</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-fix-this-accessory-may-not-be-supported-on-an-iphone/"><u>How to Fix This Accessory May Not Be Supported on an iPhone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-voice-communication-problems-in-counter-strike-2/"><u>How to Resolve Voice Communication Problems in Counter-Strike 2</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-8-plus-with-a-mask-on-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 8 Plus with a Mask On</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/resuelto-error-crucial-processdied-en-sistemas-operaticos-windows-11/"><u>Resuelto: ERROR CRUCIAL 'PROCESS_DIED' EN SISTEMAS OPERATICOS WINDOWS 11</u></a></li>
+<li><a href="https://fox-that.techidaily.com/revolutionize-your-iphones-internet-discover-the-power-of-eight-expert-wi-fi-improvement-tricks/"><u>Revolutionize Your iPhone's Internet: Discover the Power of Eight Expert Wi-Fi Improvement Tricks</u></a></li>
 </ul></div>
 

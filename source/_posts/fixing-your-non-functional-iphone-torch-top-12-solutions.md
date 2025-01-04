@@ -1,7 +1,7 @@
 ---
 title: "Fixing Your Non-Functional iPhone Torch: Top 12 Solutions"
-date: 2024-08-15T11:57:52.848Z
-updated: 2024-08-16T11:57:52.848Z
+date: 2024-12-29T23:34:10.142Z
+updated: 2025-01-04T06:38:42.740Z
 tags:
   - iphone
   - apple
@@ -32,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/fa8cb6ca311af8694c1fd2b592b0789e69f633792
 
 ![turn off low power mode in iphone settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/iphone-settings-2.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Close
 
 ## 2\. Charge Your iPhone
@@ -41,8 +45,9 @@ Close
  The flashlight feature should start working again once your iPhone has sufficient power.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Check Your iPhone Isn't Too Hot
 
  When your iPhone gets too hot, the flashlight may stop working. It's not advisable to continue using an overheating iPhone. If your device exceeds a particular temperature limit, it will eventually shut down until it cools off. You'll also see a warning appear on your screen if the temperature gets too high.
@@ -50,6 +55,10 @@ Close
 ![blue iphone pro on white surface](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/blue-iphone-pro.jpg)
 
  To allow your device's temperature to drop naturally, place your iPhone in a cool, dry place away from direct sunlight. Do not attempt to put your device into the fridge, though, as this will cause damage to it. Just find somewhere that's naturally cool and shady. Once your device cools down, your iPhone's flashlight should start working again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Remove the Flashlight From the Control Center
 
@@ -61,19 +70,21 @@ Close
 4. Tap the**plus (+)** icon for**Flashlight** (or**Torch**).
 
 ![iphone settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/iphone-settings-1.JPG)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![customize iphone control center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/iphone-settings-3.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![customize iphone control center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/iphone-settings-4.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 5\. Close Your iPhone's Camera App
 
  Your iPhone's camera's flash function uses the same light as the flashlight. If you have the**Camera** app opened, it's normal to see the Control Center's flashlight icon grayed out. This is because you can't use both features at the same time.
@@ -81,8 +92,9 @@ Close
  To solve this, just exit the**Camera** app and access your**Control Center** again. You should see that the flashlight button can once more be selected as usual.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Turn On Your Flashlight Using the Camera Flash
 
  If you can't turn on your iPhone's flashlight from the Control Center, a workaround is to turn it on in the**Camera** app by activating the flash function. Here's how:
@@ -92,19 +104,17 @@ Close
 3. Tap the**Flash** icon. Select**On** .
 
 ![iphone camera video mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/video-mode-1.JPG)
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![iphone camera video mode options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/video-mode-2.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![turn on iphone camera flash](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/video-mode-3.JPG)
 
 Close
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 7\. Toggle the Flash in Your iPhone's Camera App
 
  To get rid of glitches that stop your iPhone's flashlight from working, you can also try turning your camera flash on and off. The steps are the same as the workaround to turn on your iPhone's camera flash, as discussed in the previous solution. But instead of leaving the**Flash** set to**On** , toggle between**On** and**Off** a few times.
@@ -116,20 +126,15 @@ Close
  First,[set up Siri on your iPhone](https://www.makeuseof.com/how-to-set-up-and-use-siri-iphone/) . Next, long-press the Side button on your iPhone or say, "Hey Siri." When the**Siri** icon pops up on your iPhone screen, say, "Turn on the flashlight." Your flashlight should turn on instantly, and Siri will also say that it's on now.
 
 ![siri icon on iphone screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/img_7829.JPEG)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 
 ![siri response after turning on iphone flashlight](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/img_7830.JPEG)
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 
 Close
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 9\. Update Your iPhone's iOS
 
  iOS updates usually come with fixes for performance bugs and various glitches. So, perhaps all you need to do to fix your iPhone's flashlight is to [update your iPhone to the latest version of iOS](https://www.makeuseof.com/tag/update-iphone-ios-apps-data/) .
@@ -149,8 +154,9 @@ Close
  Besides updating and restarting your iPhone, you can also try [restoring your iPhone to a previous backup](https://www.makeuseof.com/tag/restore-iphone-ipad-from-backup/) from when the flashlight was still working as usual. However, when you use this method, keep in mind that you will also lose any new data that was added to your device since you made that backup.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 12\. Reset All Settings on Your iPhone
 
  If all else fails, the last solution you can attempt is to reset your iPhone's settings by going to**Settings > General > Transfer or Reset iPhone** . Tap**Reset** and choose**Reset All Settings** from the pop-up menu. You won't lose any data from your iPhone; all this does is revert your iPhone's settings to factory default values.
@@ -171,8 +177,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -180,4 +184,20 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-best-5-gif-to-video-converters-online-no-need-to-download-for-2024/"><u>[New] Best 5 GIF to Video Converters Online [No Need to Download] for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-leading-tweeters-choice-youtube-to-twitter/"><u>[Updated] Leading Tweeters' Choice YouTube to Twitter</u></a></li>
+<li><a href="https://fox-that.techidaily.com/bring-back-your-hidden-airpods-a-comprehensive-list-of-amo-fixes-using-the-find-my-tool/"><u>Bring Back Your Hidden AirPods: A Comprehensive List of Amo Fixes Using the Find My Tool</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-fixes-for-your-browsers-sudden-shift-to-a-black-screen/"><u>Easy Fixes for Your Browser's Sudden Shift to a Black Screen</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fix-it-yourself-start-up-tricks-for-iphones-when-the-buttons-fail-you/"><u>Fix It Yourself: Start Up Tricks for iPhones When the Buttons Fail You</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-your-tablets-unresponsive-screen-top-8-solutions/"><u>Fixing Your Tablet's Unresponsive Screen: Top 8 Solutions</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-address-the-missing-msvcr110dll-file-in-helldivers-game/"><u>How to Address the Missing MSVCR110.dll File in Helldivers Game</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-depth-guide-to-installing-microsofts-movie-maker/"><u>In-Depth Guide to Installing Microsoft's Movie Maker</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/july-22-edition-of-nyt-connections-insights-and-answers-unveiled-clue-407/"><u>July 22 Edition of 'NYT Connections': Insights & Answers Unveiled (Clue #407)</u></a></li>
+<li><a href="https://fox-that.techidaily.com/maximize-your-iphones-wi-fi-speed-with-these-8-simple-fixes/"><u>Maximize Your iPhone's Wi-Fi Speed with These 8 Simple Fixes</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-12-prominent-motorola-moto-g14-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Motorola Moto G14 Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/vocal-victory-demystifying-difficult-phonetics-and-lexicon/"><u>Vocal Victory: Demystifying Difficult Phonetics and Lexicon</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-to-do-if-your-iphone-13-pro-has-bad-esn-or-blacklisted-imei-by-drfone-ios/"><u>What to do if your iPhone 13 Pro has bad ESN or blacklisted IMEI?</u></a></li>
+</ul></div>
 

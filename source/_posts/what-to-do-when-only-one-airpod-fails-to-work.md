@@ -1,7 +1,7 @@
 ---
 title: What To Do When Only One AirPod Fails to Work?
-date: 2024-12-19T22:36:59.827Z
-updated: 2024-12-25T20:59:36.002Z
+date: 2024-12-30T16:33:37.723Z
+updated: 2025-01-03T16:20:40.458Z
 tags:
   - iphone
   - apple
@@ -37,6 +37,10 @@ thumbnail: https://thmb.techidaily.com/047a2ad015e13f7c67c91065d1e02decc0d409c48
 
  Did one of your AirPods stop working all of a sudden? Before you assume it's a hardware problem and contact Apple for a repair or replacement AirPod, follow these simple troubleshooting steps, as they can often quickly resolve the issue.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Check Your AirPods Battery
 
  It's possible that one of your AirPods stopped working because it ran out of battery. Each AirPod has its own battery charge, and when it gets drained, that particular AirPod will stop functioning. You'll have to [check the battery level of each AirPod](http://www.makeuseof.com/tag/how-to-check-airpod-battery/) to see if that's the problem.
@@ -55,10 +59,6 @@ Close
 
 [Reboot your iPhone](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) , Windows computer, Android device, or Mac—whatever it is that you use with your AirPods. Once your device is powered on and Bluetooth is enabled, check if both your AirPods connect and work properly again.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Adjust the Audio Balance on Your Devices
 
  Most devices allow you to set the volume level for each AirPod individually. If you or someone else has tweaked this adjustment and routed the audio to only one of the AirPods, that may be why you're not hearing any sound from the other. It could also be [why one AirPod sounds louder than the other](https://www.makeuseof.com/why-one-airpod-louder-than-other-fixes/) when they're both working.
@@ -75,16 +75,16 @@ Close
 
 ![mac sound system settings airpods balance](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/mac-sound-system-settings-airpods-balance.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can adjust the AirPods audio balance on Windows 11 by opening**Settings > System > Sound** . Then, select your AirPods from the list of output devices and adjust the**Left channel** and**Right channel** sliders so that they're equal.
 
 ![Windows Sound Settings for AirPods Pro](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/windows-sound-settings-for-airpods-pro.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Try Your AirPods With Other Devices
@@ -94,10 +94,6 @@ Close
  In this case, try using your AirPods with your other devices and see if you can hear the audio on both AirPods.
 
  If both AirPods work just fine on any other device, you know the issue is with your primary device, and you'll need to fix it instead. Read [our AirPods troubleshooting guide](https://www.makeuseof.com/tag/apple-airpods-problems-fix/) for your specific device to see if one of the suggested fixes can rectify your problem.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Forget Your AirPods From Your Devices
 
@@ -117,6 +113,10 @@ Close
 
  After unpairing, you need to [re-pair your AirPods to your device](https://www.makeuseof.com/tag/how-to-connect-airpods-mac-iphone-pc-android/) . Then, see if both your AirPods work.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Reset Your AirPods to Factory Settings
 
  If your AirPods still don't work after unpairing and re-pairing them, try resetting them to their factory settings. Once they're unpaired, put your AirPods in their charging case, but don't close the lid.
@@ -126,7 +126,7 @@ Close
  Your iPhone will prompt you to set them up. If you're using another device, follow the standard Bluetooth setup steps.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Reset Your Phone's Network Settings
@@ -162,24 +162,17 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-15-strategies-to-supercharge-your-learning-with-podcasts/"><u>[New] 2024 Approved 15 Strategies to Supercharge Your Learning with Podcasts</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-dimension-dilemma-in-videos-insight-into-imovie-trimming-for-2024/"><u>[Updated] Dimension Dilemma in Videos Insight Into iMovie Trimming for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-periscope-stars-in-snapchat-highlights/"><u>[Updated] In 2024, Periscope Stars in Snapchat Highlights</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-memo-menagerie-the-ultimate-list-of-meme-generators/"><u>2024 Approved Memo Menagerie The Ultimate List of Meme Generators</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721477462829-cant-upload-photos-to-icloud-from-iphone-try-these-9-fixes/"><u>Can't Upload Photos to iCloud From iPhone? Try These 9 Fixes!</u></a></li>
-<li><a href="https://fox-that.techidaily.com/dealing-with-a-delayed-iphone-screen-shutdown-here-are-some-expert-tips/"><u>Dealing with a Delayed iPhone Screen Shutdown? Here Are Some Expert Tips</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/deciding-between-apples-top-ultraportables-how-does-the-new-m3-macbook-air-stack-up-against-its-predecessor-the-m2/"><u>Deciding Between Apple's Top Ultraportables: How Does the New M3 MacBook Air Stack Up Against Its Predecessor, the M2?</u></a></li>
-<li><a href="https://fox-that.techidaily.com/decoding-auto-dimmed-screens-on-iphones-unveiling-the-top-10-triggers-for-brightness-reduction/"><u>Decoding Auto-Dimmed Screens on iPhones: Unveiling the Top 10 Triggers for Brightness Reduction</u></a></li>
-<li><a href="https://fox-that.techidaily.com/headphone-looped-try-these-8-fixes-for-freeing-your-iphone-stuck-in-audio-mode/"><u>Headphone Looped? Try These 8 Fixes for Freeing Your iPhone Stuck in Audio Mode</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/how-can-i-watch-facebook-videos-on-my-apple-tv-for-2024/"><u>How Can I Watch Facebook Videos on My Apple TV for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-fix-missing-events-on-iphone-calendar/"><u>How to Fix Missing Events on iPhone Calendar</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-restore-access-to-disabled-icloud-settings-on-iphoneipad/"><u>How to Restore Access to Disabled iCloud Settings on iPhone/iPad</u></a></li>
-<li><a href="https://fox-that.techidaily.com/mastering-the-art-of-resetting-screen-time-passcodes-for-apple-devices/"><u>Mastering the Art of Resetting Screen Time Passcodes for Apple Devices</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/reviving-memories-with-instagram-reposts/"><u>Reviving Memories with Instagram Reposts</u></a></li>
-<li><a href="https://extra-support.techidaily.com/sightline-synopsis-study-for-2024/"><u>Sightline Synopsis Study for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/step-by-step-guide-to-fix-iphone-call-reception-problems/"><u>Step-by-Step Guide to Fix iPhone Call Reception Problems</u></a></li>
-<li><a href="https://fox-that.techidaily.com/trouble-with-a-lone-airpod-top-fixes-and-solutions/"><u>Trouble with a Lone AirPod? Top Fixes and Solutions</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/understanding-stealth-tactics-of-viruses-evading-antivirus-programs-perspectives-from-malwarefox/"><u>Understanding Stealth Tactics of Viruses: Evading Antivirus Programs, Perspectives From MalwareFox</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-relaxation-reigns-top-pc-titles/"><u>[New] Relaxation Reigns Top PC Titles</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-step-up-your-gameplay-with-a-top-ranked-no-fee-voice-transformation-tool-for-2024/"><u>[New] Step Up Your Gameplay with a Top-Ranked No-Fee Voice Transformation Tool for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-persistent-problems-avoid-spotify-freezing-on-ios-device-lock-screen/"><u>Fixing Persistent Problems: Avoid Spotify Freezing on iOS Device Lock Screen</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-activate-and-utilize-dfu-mode-on-your-iphone/"><u>How to Activate and Utilize DFU Mode on Your iPhone?</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-androids-best-rated-10-ultimate-game-boy-advance-simulators/"><u>In 2024, Android's Best-Rated 10 Ultimate Game Boy Advance Simulators</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/initial-steps-to-instagram-video-discussion-success/"><u>Initial Steps to Instagram Video Discussion Success</u></a></li>
+<li><a href="https://extra-information.techidaily.com/leading-8-ultimate-tripods-for-4k-video-capture/"><u>Leading 8 Ultimate Tripods for 4K Video Capture</u></a></li>
+<li><a href="https://fox-that.techidaily.com/revive-your-iphone-solve-these-5-common-glitches-via-dfu-mode/"><u>Revive Your iPhone: Solve These 5 Common Glitches via DFU Mode</u></a></li>
+<li><a href="https://games-able.techidaily.com/scaling-up-efficient-strategies-for-funding-steam-games/"><u>Scaling Up: Efficient Strategies for Funding Steam Games</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-image-loading-issues-in-safari-on-ios-top-9-solutions/"><u>Troubleshooting Image Loading Issues in Safari on iOS: Top 9 Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlocking-the-mystery-of-missed-calls-for-iphones-what-you-need-to-know/"><u>Unlocking the Mystery of Missed Calls for iPhones – What You Need to Know</u></a></li>
+<li><a href="https://win-help.techidaily.com/warum-der-befehl-nicht-ausgefuhrt-werden-kann-offenes-dialogfeld-verhindert-aktionen/"><u>Warum Der Befehl Nicht Ausgeführt Werden Kann? Offenes Dialogfeld Verhindert Aktionen</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: AirDrop Failures? Master the Art of Quick Fixes with 16 Proven Solutions
-date: 2024-11-18T17:55:02.726Z
-updated: 2024-11-24T21:02:04.125Z
+date: 2024-12-29T07:23:15.753Z
+updated: 2025-01-03T16:26:21.891Z
 tags:
   - iphone
   - apple
@@ -58,10 +58,6 @@ Close
 
 ![airdrop visibility settings on mac](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/airdrop-visibility-settings-on-mac.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Prepare Both Devices to Receive an AirDrop Request
 
  Your device can't be discovered if it's locked and in sleep mode. You must prepare your device for incoming AirDrop transfers, making it more likely to show up on someone else's device without delay.
@@ -88,6 +84,10 @@ Close
 
  Make sure**AirDrop** is turned on for each device. You may need to enter your Screen Time passcode to make these changes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Enable AirDrop Over Cellular
 
  AirDrop's (Bluetooth) range is around 30 feet, so if you move beyond that distance, AirDrop won't work anymore. But if you've updated your device to iOS/iPadOS 17.1 (or later), you can enable a setting to allow AirDrop file transfers to continue even after you leave the range.
@@ -101,10 +101,14 @@ Close
 ![iphone airdrop settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/iphone-airdrop-settings.JPEG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Close
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Allow Sharing by Bringing Devices Together
 
@@ -114,10 +118,6 @@ Close
 
  Note that NameDrop only lets you share new contact information. You can't update an existing contact with NameDrop.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Turn Off Do Not Disturb Mode
 
  Your device may not receive transfer requests from AirDrop if Do Not Disturb or another Focus mode is enabled. Open**Control Center** and hit the**Focus** icon (the default is a**moon** icon) to turn it off on your iPhone, iPad, or Mac.
@@ -125,11 +125,7 @@ Close
 ![Control Center on Mac](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/Control-Center-on-Mac.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Restart Wi-Fi and Bluetooth on Both Devices
@@ -141,7 +137,7 @@ Close
  This isn't an option for everyone, but if you have a spare Apple device, you should try using that to connect over AirDrop. Usually, if your iPhone, iPad, or Mac shows up on this new device, it will suddenly appear on the original device as well.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 9\. Send a Single File Instead of Multiple Files
@@ -155,6 +151,10 @@ Close
  If AirDrop sent a file to your device but you can't find it, take a look in the Downloads folder. On an iPhone, open the**Files** app and select the**Browse** tab from the bottom. Then, head into**iCloud Drive** or**On My iPhone** and tap into the**Downloads** folder.
 
 ![browse tab in iphone files app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/browse-tab-in-iphone-files-app.JPEG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![on my iphone folder in files app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/on-my-iphone-folder-in-files-app.JPEG)
 
@@ -170,6 +170,10 @@ Close
 
  On an iPhone or iPad, go to**Settings > VPN** to do this. On a Mac, go to**System Settings > Network > VPN** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 12\. Open Your Mac's Firewall to More Connections
 
  The firewall on your Mac might be set to block all incoming connections, which often includes new AirDrop transfers. You'll need to loosen these restrictions from System Settings if AirDrop still isn't working.
@@ -179,7 +183,7 @@ Close
 ![Firewall option in macOS System Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Firewall-option-in-macOS-System-Settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 13\. Sign In to Your Apple ID Account Again
@@ -187,10 +191,6 @@ Close
  Go to**Settings** or**System Settings** on your iPhone or Mac respectively, then select**\[Your Name\]** at the top of the menu and choose**Sign Out** at the bottom of the following page. Choose the data to keep on your device, then confirm you want to sign out.
 
 ![apple id on mac](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/apple-id-on-mac.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  It doesn't matter too much if you keep data on your device since you're planning to sign in to the same account again. After signing out, return to**Settings** or**System Settings** to sign in to your Apple ID again.
 
@@ -206,13 +206,13 @@ Close
 
 Close
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 15\. Restart Both Devices
 
  This is a classic troubleshooting tip because it's so effective.[Restarting your iPhone](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) , iPad, or Mac might be all you need to get AirDrop working again. And it only takes a moment to try it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 16\. Reset the Network Settings on Your Device
 
@@ -223,7 +223,7 @@ Close
 ![iphone general settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/iphone-reset.JPEG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![reset iphone settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/iphone-reset-settings.JPEG)
@@ -251,24 +251,17 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-how-to-craft-engaging-narratives-for-facebook-reels-for-2024/"><u>[New] How to Craft Engaging Narratives for Facebook Reels for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-direct-from-google-meet-securely-live-stream-on-youtube/"><u>[Updated] In 2024, Direct From Google Meet Securely Live Stream on YouTube</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1-resolving-the-issue-how-to-fix-windows-media-player-unable-to-stream-mp4-files/"><u>1. Resolving the Issue: How to Fix Windows Media Player Unable to Stream MP4 Files</u></a></li>
-<li><a href="https://fox-that.techidaily.com/cant-see-notifications-on-your-iphone-here-are-7-ways-to-fix-them/"><u>Can't See Notifications on Your iPhone? Here Are 7 Ways to Fix Them</u></a></li>
-<li><a href="https://win11.techidaily.com/custom-ringtones-made-simple-transform-mp3-into-m4r-for-iphone/"><u>Custom Ringtones Made Simple: Transform MP3 Into M4R for iPhone!</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/descubre-el-secreto-para-transformar-videos-pobremente-grabados-en-hd4k-profesionales-con-pcs-y-macbooks-paso-a-paso/"><u>Descubre El Secreto Para Transformar Videos Pobremente Grabados en HD/4K Profesionales Con PCs Y MacBooks - Paso a Paso</u></a></li>
-<li><a href="https://fox-that.techidaily.com/expert-tips-for-addressing-non-responsive-iphone-screens/"><u>Expert Tips for Addressing Non-Responsive iPhone Screens</u></a></li>
-<li><a href="https://fox-that.techidaily.com/get-your-iphones-auto-brightness-working-again-with-7-simple-steps/"><u>Get Your iPhone's Auto-Brightness Working Again with 7 Simple Steps</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-efficient-video-management-how-to-include-content-in-youtube-playlists/"><u>In 2024, Efficient Video Management How to Include Content in YouTube Playlists</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-exclusive-insights-unlock-the-secrets-to-screen-capturing-games/"><u>In 2024, Exclusive Insights Unlock the Secrets to Screen Capturing Games</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-seamlessly-integrate-pip-on-microsoft-edge/"><u>In 2024, Seamlessly Integrate PIP on Microsoft Edge</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-infinix-hot-40-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Infinix Hot 40 | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/navigate-with-ease-discover-the-8-accessibility-tools-in-ios-devices-for-low-vision-users/"><u>Navigate with Ease: Discover the 8 Accessibility Tools in iOS Devices for Low Vision Users</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/power-tools-mastering-the-art-of-taking-screenshots-in-windows-11/"><u>Power Tools: Mastering the Art of Taking Screenshots in Windows 11</u></a></li>
-<li><a href="https://fox-that.techidaily.com/revolutionize-your-iphones-wi-fi-experience-with-8-proven-strategies/"><u>Revolutionize Your iPhone's Wi-Fi Experience with 8 Proven Strategies</u></a></li>
-<li><a href="https://fox-that.techidaily.com/silent-iphone-solutions-for-restoring-audio-functionality/"><u>Silent iPhone: Solutions for Restoring Audio Functionality</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721477878907-tired-of-waiting-for-late-texts-on-ios-devices-heres-how-to-fix-it/"><u>Tired of Waiting for Late Texts on iOS Devices? Here's How to Fix It!</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-guide-how-to-solve-your-tablets-unresponsive-touch-screen-with-8-effective-techniques/"><u>Troubleshooting Guide: How to Solve Your Tablet's Unresponsive Touch Screen with 8 Effective Techniques</u></a></li>
-<li><a href="https://fox-that.techidaily.com/why-does-my-iphone-keep-changing-its-own-brightness-reveal-10-factors/"><u>Why Does My iPhone Keep Changing Its Own Brightness? Reveal 10 Factors</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-conquering-the-art-of-snapchats-boomerang-creation/"><u>[New] 2024 Approved Conquering the Art of Snapchat's Boomerang Creation</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-enthusiastic-presentation-appraisal-version-08/"><u>[New] Enthusiastic Presentation Appraisal, Version 08</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-in-depth-walkthrough-for-proficient-use-of-green-screen-in-kinemaster/"><u>[New] In-Depth Walkthrough for Proficient Use of Green Screen in Kinemaster</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-boosting-your-profile-top-25-high-gainning-instagram-tags/"><u>[Updated] Boosting Your Profile Top 25 High-Gainning Instagram Tags</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-proven-techniques-for-perfecting-video-aspect-ratios/"><u>[Updated] Proven Techniques for Perfecting Video Aspect Ratios</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/5-top-action-cameras-with-full-hd-in-your-pocket/"><u>5 Top Action Cameras with Full HD in Your Pocket</u></a></li>
+<li><a href="https://fox-that.techidaily.com/icons-vanish-from-every-mobile-app-on-your-iphone-explore-fixes-and-restore-them/"><u>Icons Vanish From Every Mobile App on Your iPhone? Explore Fixes and Restore Them!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcome-iphone-and-android-messaging-woes-fix-not-receiving-texts-today/"><u>Overcome iPhone and Android Messaging Woes - Fix Not Receiving Texts Today</u></a></li>
+<li><a href="https://program-issues.techidaily.com/pc-troubleshooting-made-simple-solving-hitman-3-game-crashes/"><u>PC Troubleshooting Made Simple: Solving Hitman 3 Game Crashes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/rekindle-your-iphones-camera-magic-address-these-7-prevalent-problems-and-fix-them-today/"><u>Rekindle Your iPhone's Camera Magic: Address These 7 Prevalent Problems & Fix Them Today</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/struggling-to-locate-a-web-based-dvd-authoring-tool-discover-effective-substitutes-here/"><u>Struggling to Locate a Web-Based DVD Authoring Tool? Discover Effective Substitutes Here!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-guide-top-15-solutions-when-facetime-fails/"><u>Troubleshooting Guide: Top 15 Solutions When FaceTime Fails</u></a></li>
 </ul></div>
 

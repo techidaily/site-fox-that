@@ -1,7 +1,7 @@
 ---
 title: How to Manually Adjust Your iPhone's Sound Settings Despite a Broken Ring/Silent Switch
-date: 2024-12-22T22:37:17.124Z
-updated: 2024-12-25T19:01:03.673Z
+date: 2025-01-02T02:01:31.070Z
+updated: 2025-01-03T22:09:36.099Z
 tags:
   - iphone
   - apple
@@ -34,10 +34,6 @@ thumbnail: https://thmb.techidaily.com/0fd141422ea325bb82ac6e625cf733b7dc3435639
 
 ![iPhone Accessibility settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-with-assistivetouch-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Touch settings on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-with-assistivetouch-3.jpg)
 
 ![enabling AssistiveTouch on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-with-assistivetouch-4.jpg)
@@ -50,6 +46,10 @@ Close
 
 ![Mute option in AssistiveTouch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-with-assistivetouch-6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Close
 
 * To unmute it, repeat the same steps. And this time, select**Unmute** under the**Device** options.
@@ -59,7 +59,7 @@ Close
  So, a better approach would be to customize AssistiveTouch's top-level menu and add the**Mute** option on the main screen. Or, to set up a custom action for AssistiveTouch to mute or unmute the device directly.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Customize the Top Level Menu
@@ -78,27 +78,27 @@ Close
 
 ![customizing AssistiveTouch's top-level menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customizing-assistivetouch-top-level-menu-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![adding a new button to the AssistiveTouch menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customizing-assistivetouch-top-level-menu-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![selecting Mute action for the new AssistiveTouch button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customizing-assistivetouch-top-level-menu-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![Mute action in AssistiveTouch's top-level menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customizing-assistivetouch-top-level-menu-5.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Close
 
  All you need to do now is tap the AssistiveTouch button and hit**Mute** . When you do this, the**Mute** button will change to**Unmute** , and you can tap on it again to unmute the device quickly.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Set Up a Custom Action
 
@@ -111,15 +111,15 @@ Follow these simple instructions to get this done:
 
 ![AssistiveTouch settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/setting-a-custom-action-for-assistivetouch-button-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![adding Mute action to Double-Tap gesture](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/setting-a-custom-action-for-assistivetouch-button-2.jpg)
 
 Close
 
  Once set up, muting and unmuting your iPhone should be even easier. Simply perform the gesture to which you've assigned the Mute action, and it'll mute the device. Repeat it again to unmute.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Mute or Unmute iPhone Using Back Tap
 
@@ -133,7 +133,7 @@ Close
 ![iPhone Accessibility settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-using-back-tap-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Back Tap feature under Touch Accessibility settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-using-back-tap-2.jpg)
@@ -149,15 +149,15 @@ Close
 
 ![setting Mute action to a Back Tap gesture](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-using-back-tap-4.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Close
 
  Now, whenever you want to mute your iPhone, simply perform the double-tap or triple-tap gesture on the back of your iPhone. To unmute it, perform the same gesture again.
 
  With certain iPhone cases, especially thicker ones, you might need to tap harder for the iPhone to register your taps and trigger the action.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Broken iPhone Ring/Silent Switch? No Problem
 
@@ -180,18 +180,18 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-comprehensive-guide-to-free-os-compatible-players/"><u>[New] 2024 Approved Comprehensive Guide to Free OS Compatible Players</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-no-video-paths-in-modern-education-systems-for-2024/"><u>[New] No-Video Paths in Modern Education Systems for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-voice-modification-tools-the-ultimate-guide-for-youtubers/"><u>[Updated] Voice Modification Tools – The Ultimate Guide for YouTubers</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-expedited-guide-to-effective-double-take-technique/"><u>2024 Approved Expedited Guide to Effective Double-Take Technique</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/astro-a40-headset-mic-problems-effective-fixes-that-worked-for-me/"><u>Astro A40 Headset Mic Problems: Effective Fixes That Worked for Me</u></a></li>
-<li><a href="https://win-tips.techidaily.com/expert-tips-for-securing-personal-data-complete-steps-to-preserve-files-and-settings-using-yl-software-tools/"><u>Expert Tips for Securing Personal Data: Complete Steps to Preserve Files and Settings Using YL Software Tools</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/gift-giving-with-knowledge-santas-language-skills/"><u>Gift-Giving with Knowledge: Santa’s Language Skills</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/inside-teslas-mind-unveiling-gpt/"><u>Inside Tesla's Mind: Unveiling GPT</u></a></li>
-<li><a href="https://fox-that.techidaily.com/is-your-smartphones-data-pace-dragging-you-down-accelerate-with-our-top-10-speed-enhancing-tips/"><u>Is Your Smartphone's Data Pace Dragging You Down? Accelerate with Our Top 10 Speed-Enhancing Tips</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-trailer-magic-top-video-editing-software-for-mac-and-pc/"><u>New Trailer Magic Top Video Editing Software for Mac and PC</u></a></li>
-<li><a href="https://fox-that.techidaily.com/restarting-your-iphones-control-panel-8-proven-methods-for-immediate-results/"><u>Restarting Your iPhone's Control Panel: 8 Proven Methods for Immediate Results</u></a></li>
-<li><a href="https://fox-that.techidaily.com/struggling-to-save-your-data-in-icloud-discover-these-9-fixes/"><u>Struggling to Save Your Data in iCloud? Discover These 9 Fixes.</u></a></li>
-<li><a href="https://fox-that.techidaily.com/top-5-challenges-of-sending-gifts-using-an-apple-device/"><u>Top 5 Challenges of Sending Gifts Using an Apple Device</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-clearing-tactics-for-youtubes-stored-video-queue/"><u>[New] 2024 Approved Clearing Tactics for YouTube's Stored Video Queue</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-effortless-gaming-sessions-on-your-screen/"><u>[New] In 2024, Effortless Gaming Sessions on Your Screen</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-the-ultimate-watch-list-top-10-music-clips-on-facebook/"><u>[Updated] The Ultimate Watch List Top 10 Music Clips on Facebook</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-mastering-closer-video-in-google-meet-sessions/"><u>2024 Approved Mastering Closer Video in Google Meet Sessions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/bypassing-a-non-functional-iphone-mute-button-easy-fixes-for-your-ringsilent-problem/"><u>Bypassing a Non-Functional iPhone Mute Button – Easy Fixes for Your Ring/Silent Problem</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/expert-guide-fixing-issues-when-windows-cant-locate-a-file/"><u>Expert Guide: Fixing Issues When Windows Can't Locate a File</u></a></li>
+<li><a href="https://fox-that.techidaily.com/facetime-malfunctioning-here-are-15-quick-fixes-that-can-help-you-connect-easily/"><u>FaceTime Malfunctioning? Here Are 15 Quick Fixes That Can Help You Connect Easily</u></a></li>
+<li><a href="https://media-tips.techidaily.com/guide-seamlessly-streaming-videos-music-and-movies-from-your-android-device-to-apple-tv-via-airplay/"><u>Guide: Seamlessly Streaming Videos, Music & Movies From Your Android Device to Apple TV via AirPlay</u></a></li>
+<li><a href="https://fox-that.techidaily.com/guide-sending-your-iphone-for-apples-professional-hardware-diagnostics/"><u>Guide: Sending Your iPhone for Apple's Professional Hardware Diagnostics</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-your-iphones-audio-problem-a-guide-to-restoring-mic-functionality/"><u>Troubleshoot Your iPhone's Audio Problem: A Guide to Restoring Mic Functionality</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-for-a-non-functional-altplus-combination/"><u>Troubleshooting Tips for a Non-Functional ALT+@ Combination</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlocking-the-potential-of-bluetooth-for-new-iphones-a-comprehensive-starter-guide/"><u>Unlocking the Potential of Bluetooth for New iPhones - A Comprehensive Starter Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlocking-the-potential-of-iphones-8-key-features-to-aid-people-suffering-from-vision-challenges/"><u>Unlocking the Potential of iPhones: 8 Key Features to Aid People Suffering From Vision Challenges</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "ION Audio Tailgater Plus Assessment: Experience Endless Sound Quality with Instant Bass Amplification"
-date: 2024-08-15T11:58:07.659Z
-updated: 2024-08-16T11:58:07.659Z
+date: 2024-12-30T20:02:01.084Z
+updated: 2025-01-03T18:34:09.803Z
 categories:
   - BestProducts
 description: "This Article Describes ION Audio Tailgater Plus Assessment: Experience Endless Sound Quality with Instant Bass Amplification"
@@ -43,9 +43,9 @@ Lifewire / Emily Isaacs
 4.8
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Kinesis Freestyle2 Blue
 
 ![Kinesis Freestyle2 Blue (Mac)](https://www.lifewire.com/thmb/wuNd6MsZiivoQ99Xm0JHB9iB4Rs=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Kinesis_ErgoKeyboard_1LW4147386_HeroSquare-99f80025b0254cbebe67ed22575a90c5.jpg)
@@ -73,9 +73,6 @@ Lifewire / Emily Isaacs
 
 [The Best Ergonomic Keyboards of 2024](https://www.lifewire.com/best-ergonomic-keyboards-4147386)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## **Design and Features: Freestyle2 breaks the mold**
 
  For people who are tethered to their[computers](https://www.lifewire.com/computer-and-laptop-reviews-4102643) , ergonomic keyboards are a must. These keyboards tend to be large thanks to the frequently employed swoop design that opens up the keys to provide additional spacing, so fingers feel less cramped, and a wrist-friendly position that prevents[repetitive stress injuries](https://www.lifewire.com/game-play-and-streaming-4781449) while typing. These keyboards are typically space hogs, taking up large portions of any surface that they’re placed on, often forcing users to reach further for[mice](https://www.lifewire.com/best-wireless-mice-6666207) . This can lead to shoulder injuries in place of wrist injuries—a trade-off no one wants.
@@ -97,9 +94,6 @@ Lifewire / Emily Isaacs
  The Kinesis Freestyle2 Blue arrives with the two keyboard halves, the instructional pamphlet, and a six-foot USB charging cable. Designed for use with iPads,[iPhones](https://www.lifewire.com/iphone-and-ios-4781515) , and[Macs](https://www.lifewire.com/macs-4781332) , the setup process is quick and easy to complete. First, we flipped the switch on the right-hand side of the keyboard from the off position to the on position. Then, we flipped the keyboard over and pressed the connect button on the backside. We knew it was ready to begin pairing when the lights on the frontside began flashing blue.
 
 ![Kinesis Freestyle2 Blue (Mac)](https://www.lifewire.com/thmb/XHY6Xe9cdaO1U6Uj0wDY6rROlcA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Kinesis_ErgoKeyboard_1LW4147386_04-7fad98b589454e0388ecf48afe425e8c.jpg)
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  Lifewire / Emily Isaacs
 
@@ -114,31 +108,29 @@ Lifewire / Emily Isaacs
  Its split design is comfortable, following the natural arc of your fingers and hands as they rest upon its keys.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Battery: Plenty of juice so you’re never in a bind**
 
  The battery life on the Freestyle2 is excellent. It arrives with a partial charge, so it’s important to remember to fully charge it after receiving it. Once charged, the battery life can last up to 300 plus hours of regular use. The Freestyle2 does an excellent job of letting you know when its battery is getting low—battery lights will flash red to indicate when there are about four hours of battery life remaining. This ensures you’re never left hanging.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Price: Excellent for the features**
 
  Full-size ergonomic keyboards tend to retail anywhere from $50 to $200, depending on the features involved. Generally retailing for about $100 on Amazon, the Freestyle2 sits comfortably at the front of this curve. While $100 may seem expensive for a keyboard, consider the features involved. Its travel-friendly build, adjustable setup options, extended battery life, and ability to switch quickly and smoothly between multiple connected devices make it an excellent choice for the features.
 
 ![Kinesis Freestyle2 Blue (Mac)](https://www.lifewire.com/thmb/vncgu0FEgBJ69UL6H8BjQ2QoGRI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Kinesis_ErgoKeyboard_1LW4147386_03-9055476d1d974c8bbe9b1c39d479b300.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Lifewire / Emily Isaacs
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## **Kinesis Freestyle2 Blue vs. Microsoft Sculpt Ergonomic Keyboard**
 
  Not all keyboards are created equal, and while the split, modular design offered by the Kinesis Freestyle2 Blue creates wonderful customization options, there’s something to be said for having a full keyboard. For Apple users willing to take a leap into Microsoft products, the Microsoft Sculpt Ergonomic Keyboard shines through as an excellent option.
@@ -157,6 +149,10 @@ Lifewire / Emily Isaacs
 
  The Kinesis Freestyle2 Blue for Mac is a compact, user-friendly ergonomic keyboard that takes comfort and customization to the next level for Apple users thanks to its split, modular design. Its extended battery life of up to 300 plus hours combined with its ability to connect to multiple iOS devices at a time is a game-changer, making it well worth the splurge.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Specs
 
 * Product Name  Freestyle2 Blue
@@ -173,14 +169,11 @@ Lifewire / Emily Isaacs
 * Compatibility  OS X 10.4 and newer, iOS devices
 * Key Switch  Peak force: 44 grams; activation force: 35 grams; travel distance: 3.9 mm; switch type: rubber dome, membrane
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -189,4 +182,23 @@ Lifewire / Emily Isaacs
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-timely-tweets-triumph-in-the-youtube-landscape/"><u>[New] 2024 Approved Timely Tweets Triumph in the YouTube Landscape</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-efficient-obs-fb-streaming-techniques/"><u>[New] Efficient OBS-FB Streaming Techniques</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-fast-track-to-using-ez-grabber-effectively-and-efficiently/"><u>[Updated] 2024 Approved Fast Track to Using EZ Grabber Effectively & Efficiently</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-the-future-of-interaction-with-microsofts-hololens-review/"><u>[Updated] 2024 Approved The Future of Interaction with Microsoft's HoloLens Review</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-simplifying-video-content-on-vimeo-with-right-plan-selection/"><u>[Updated] In 2024, Simplifying Video Content on Vimeo with Right Plan Selection</u></a></li>
+<li><a href="https://fox-that.techidaily.com/10-fixes-for-when-your-iphone-apps-keep-crashing/"><u>10 Fixes for When Your iPhone Apps Keep Crashing</u></a></li>
+<li><a href="https://fox-that.techidaily.com/11-quick-fixes-for-when-incoming-calls-fail-to-ring-on-your-iphone/"><u>11 Quick Fixes for When Incoming Calls Fail to Ring on Your iPhone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1725289741867-winx-dvd-ripper-platinum5/"><u>圧倒的な機能でお手頃価格！WinX DVD Ripper Platinumの5分制限を解除してください。無料版体験版もご用意します</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-fixes-for-when-your-pvpnet-patchers-kernel-stops-functioning/"><u>Effective Fixes for When Your PvP.net Patcher's Kernel Stops Functioning</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721452898225-how-to-resolve-the-annoying-flickering-issue-with-your-smartphone-top-7-tips/"><u>How to Resolve the Annoying Flickering Issue with Your Smartphone - Top 7 Tips!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721453158342-iphone-losing-cell-connection-discover-these-10-quick-fixes/"><u>IPhone Losing Cell Connection? Discover These 10 Quick Fixes!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721475134974-is-your-find-my-iphone-not-working-discover-why-and-fix-it-here/"><u>Is Your Find My iPhone Not Working? Discover Why and Fix It Here</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721473221058-solving-the-mystery-of-non-switching-airpods-discover-our-six-solutions/"><u>Solving the Mystery of Non-Switching AirPods - Discover Our Six Solutions!</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/strategies-to-locate-your-clandestine-snaps-for-2024/"><u>Strategies to Locate Your Clandestine Snaps for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721475712255-struggling-with-your-iphones-contacts-app-tackle-this-common-issue-in-just-3-steps/"><u>Struggling with Your iPhone's Contacts App? Tackle This Common Issue in Just 3 Steps!</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-error-malwarebytes-cant-properly-called-proc/"><u>Troubleshooting Error: Malwarebytes Can't Properly Called Proc</u></a></li>
+</ul></div>
 

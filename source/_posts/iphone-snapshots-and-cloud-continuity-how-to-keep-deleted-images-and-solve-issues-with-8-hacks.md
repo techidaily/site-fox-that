@@ -1,7 +1,7 @@
 ---
 title: "IPhone Snapshots & Cloud Continuity: How to Keep Deleted Images, and Solve Issues with 8 Hacks"
-date: 2024-08-15T11:58:22.034Z
-updated: 2024-08-16T11:58:22.034Z
+date: 2024-12-31T05:38:32.907Z
+updated: 2025-01-04T06:20:30.819Z
 tags:
   - iphone
   - apple
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/a0065ec58e14aa7a294fd33338e90d4d15fa577ac
 
  Your browser does not support the video tag.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Check the Recently Deleted Folder
 
  A common reason for this issue revolves around the**Recently Deleted** album in the Photos app. This album allows you to recover deleted photos and videos for up to 30 days after deleting them. Like the Recycle Bin on your computer, it acts as a temporary safety net in case you change your mind.
@@ -32,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/a0065ec58e14aa7a294fd33338e90d4d15fa577ac
 
 ![select option in recently deleted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/select-option-in-recently-deleted.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![all photos selected to delete](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/all-photos-selected-to-delete.jpg)
 
 ![recover and delete options in recently deleted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/recover-and-delete-options-in-recently-deleted.jpg)
@@ -40,9 +48,17 @@ Close
 
  If the problem isn't fixed after clearing out this folder, the rest of the below tips will lead you to a fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Restart Your iPhone
 
  Rebooting the system is a conventional fix to numerous bugs and errors. After you've removed a huge chunk of media from your storage, it's important to [restart your iPhone](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) . This will hopefully clear out any temporary hiccups causing your available storage to show incorrectly.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Update to the Latest iOS Software
 
@@ -53,16 +69,10 @@ Close
 3. If a new version is available, tap on**Download and Install** to begin.
 
 ![general in iPhone settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/general-in-iphone-settings-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 
 ![software update in general settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/software-update-in-general-settings-1.jpg)
 
 ![software update available in settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/software-update-available-in-settings-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 
 Close
 
@@ -83,19 +93,16 @@ Close
 
 ![date & time general settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/date-time-general-settings.jpg)
 
-![date & time set automatically toggle turned off](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/date-time-set-automatically-toggle-turned-off.jpg)
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![date & time set automatically toggle turned off](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/date-time-set-automatically-toggle-turned-off.jpg)
 
 Close
 
  Deleting these "ghost files" that reappear should help free up that extra space on your iPhone (and even iCloud). Don't forget to set the time option back to automatic when you're done!
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ## 5\. Disable iCloud Sync (After Completing a Backup)
 
  iCloud Photos allows you to upload your iPhone's pictures to iCloud automatically. While this is convenient and a good way to protect your photos, it can also lead to your photos taking up too much space in iCloud.
@@ -109,15 +116,20 @@ DbSchema database designer for all databases, schema design in the team, schema 
 3. Turn off the toggle next to**Sync this iPhone** .
 
 ![iCloud settings in Apple ID](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/icloud-settings-in-apple-id-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 ![iCloud options under Apple ID settings on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/icloud-options-under-apple-id-settings-on-iphone.jpeg)
 
 ![sync this iPhone toggle in iCloud photos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/sync-this-iphone-toggle-in-icloud-photos-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Close
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Optimize iPhone Photos for Storage
 
@@ -130,11 +142,12 @@ Close
 3. Make sure the**Optimize iPhone Storage** option is selected.
 
 ![photos in iPhone settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/photos-in-iphone-settings-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![optimise iPhone storage option in iCloud settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/optimise-iphone-storage-option-in-icloud-settings.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -153,34 +166,17 @@ To factory reset your iPhone, follow these steps:
 5. Confirm your choice, and your iPhone will return to factory defaults the next time it reboots.
 
 ![general in iPhone settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/general-in-iphone-settings-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Settings on iOS 17 showing the Transfer or Reset iPhone option highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/apple-ios-17-settings-transfer-or-reset-iphone-highlighted.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![reset iPhone options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/reset-iphone-options.jpg)
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Close
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ## 8\. Contact Apple Support
 
  You need to get in touch with an expert when all else fails. If the problem persists even after a factory reset, then it's likely severe, and you should get professional support from Apple.
@@ -200,9 +196,6 @@ No advertising on the website.
 * [Offload apps](https://www.makeuseof.com/tag/delete-offload-apps-save-space-iphone-ipad/) that take up a great amount of storage.
 * Disable iCloud Photos if you don't use it—consider backing up photos to another cloud service.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 ## Your iPhone Storage Can Breathe Now
 
  This iPhone and iCloud storage error, experienced by many, is definitely a pain. Fortunately, there are some ways around it. Hopefully, the methods presented here let you get your photo storage usage back to normal.
@@ -215,8 +208,6 @@ No advertising on the website.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -224,4 +215,21 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-play-and-save-nvidias-simple-screen-recorder/"><u>[New] 2024 Approved Play and Save NVIDIA's Simple Screen Recorder</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2023-12-methods-to-posted-facebook-videos-not-showing-up-for-2024/"><u>[Updated] 2023 | 12 Methods to Posted Facebook Videos Not Showing Up for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-unboxing-the-year-in-tweet-videos-complete-23-package/"><u>2024 Approved Unboxing the Year in Tweet Videos - Complete '23 Package</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721452858955-cant-get-your-iphone-to-vibrate-in-ring-or-silent-mode-use-these-8-techniques-to-resolve-the-issue/"><u>Can't Get Your iPhone to Vibrate in Ring or Silent Mode? Use These 8 Techniques to Resolve the Issue</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-guide-to-built-in-gps-on-current-and-past-ipad-lineups/"><u>Comprehensive Guide to Built-In GPS on Current and Past iPad Lineups</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-18-powerful-features-to-enhance-your-experience-with-apples-ios-shortcuts-app/"><u>Discover 18 Powerful Features to Enhance Your Experience with Apple's iOS Shortcuts App</u></a></li>
+<li><a href="https://driver-error.techidaily.com/efficient-troubleshooting-for-ndis-in-windows/"><u>Efficient Troubleshooting for NDIS in Windows</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-examination-how-the-amplifi-hd-eliminates-wi-fi-black-spots-in-your-home-network/"><u>In-Depth Examination: How the Amplifi HD Eliminates Wi-Fi Black Spots in Your Home Network</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721453985136-missing-depth-feature-on-iphones-lock-screen-in-ios-16-correct-it-with-our-top-7-fixes/"><u>Missing Depth Feature on iPhone's Lock Screen in iOS 16? Correct It with Our Top 7 Fixes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721473165289-overcome-iphone-ringsilent-switch-issues-expert-tips-for-effective-solutions/"><u>Overcome iPhone Ring/Silent Switch Issues: Expert Tips for Effective Solutions</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-vivo-s17t-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Vivo S17t FRP</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721466498751-struggling-with-unwanted-sounds-in-airpods-fix-it-by-deactivating-dynamic-head-tracking/"><u>Struggling with Unwanted Sounds in AirPods? Fix It by Deactivating Dynamic Head Tracking.</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721451962260-unable-to-find-your-iphones-lost-app-tricks-for-swift-retrieval/"><u>Unable To Find Your iPhone's Lost App? Tricks For Swift Retrieval!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721458526425-use-of-result-patterns-c-80plus/"><u>Use of Result Patterns (C# 8.0+):</u></a></li>
+</ul></div>
 

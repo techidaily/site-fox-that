@@ -1,7 +1,7 @@
 ---
 title: Top 6 Solutions for Troubleshooting Family Sharing Issues
-date: 2024-08-15T11:57:24.585Z
-updated: 2024-08-16T11:57:24.585Z
+date: 2025-01-02T06:34:58.587Z
+updated: 2025-01-03T23:20:23.081Z
 tags:
   - iphone
   - apple
@@ -26,7 +26,15 @@ thumbnail: https://thmb.techidaily.com/1ba8434482e5a95a933047ceef5f17b18e8ca4e12
 
 ![Apple's System Status page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/apple-s-system-status-page.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This will hardly be the culprit, but it's worth checking before going into the more detailed fixes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Turn on Purchase Sharing and Share With Family
 
@@ -44,14 +52,12 @@ Here's how to turn it on using an iPhone or iPad:
 ![Family menu on iOS 16 Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/1.jpeg)
 
 ![Family purchase sharing prompt screen on iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/2.jpeg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Purchase Sharing menu displaying payment options and family members on iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/3-1.jpeg)
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Close
 
@@ -64,6 +70,10 @@ And here's how to do the same on a Mac:
 ![Purchase Sharing prompt in System Settings on macOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/purchase-sharing-prompt-in-system-settings-on-macos.png)
 
 This might fix your issue, but try the next step if it doesn't.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Change Apple ID Region
 
@@ -93,20 +103,15 @@ Here's a quick way to do it on your browser:
 ![Settings home screen on iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/1-1.jpeg)
 
 ![Media & Purchases sub-settings in Apple ID menu on iOS Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/2-1.jpeg)
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 
 ![Prompt to confirm Media & Purchases sign out on iOS Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/3-2.jpeg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Close
 
 <!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Sign Out, Restart, and Sign In
 
  A little Apple ID reset on the device that isn't receiving the shared subscription might do the trick.
@@ -122,8 +127,9 @@ Close
 ![Prompt to enter Apple ID password](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/2-prompt-to-enter-apple-id-password.jpeg)
 
 ![iOS Settings with Apple ID signed out](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/ios-settings-with-apple-id-signed-out.jpeg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Close
@@ -136,16 +142,17 @@ If the problematic device is a Mac, do this instead:
 4. Go back to**System Settings** and choose**Sign In** .
 
 ![System Settings Apple ID page displaying sign out button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/system-settings-apple-id-page-displaying-sign-out-button.jpeg)
+
 <!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  This should refresh the App Store and other apps, and it should now recognize that the signed-in Apple ID has access to the shared subscriptions.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Add the Family Member Again
 
  As an extension of refreshing it all, you can re-organize the Family Sharing group by disbanding it and adding everyone back again.
@@ -169,15 +176,9 @@ If you're on a Mac, follow these steps instead:
 3. Invite them back by clicking**Add Member** in the Family menu and following the on-screen instructions.
 
 ![Family member sub-window in System Settings on macOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/family-member-sub-window-in-system-settings-on-macos.jpeg)
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  If you want to learn more about managing your family members, you can read our guide on [how to stop using Apple Family](https://www.makeuseof.com/how-to-stop-apple-family-sharing-or-remove-members/) .
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Check Payments if All Else Fails
 
  If you tried all these troubleshooting steps and still can't share your subscription, you can try contacting Apple Support for guidance.
@@ -192,8 +193,6 @@ If you're on a Mac, follow these steps instead:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -201,4 +200,19 @@ If you're on a Mac, follow these steps instead:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-step-by-step-guide-to-applying-new-colors-and-textures-on-past-media/"><u>[Updated] 2024 Approved Step-by-Step Guide to Applying New Colors & Textures on Past Media</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-captivating-creativity-with-advanced-tiktok-filters/"><u>2024 Approved Captivating Creativity with Advanced TikTok Filters</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/2024s-leading-nas-units-reviewed-choose-the-perfect-data-management-solution/"><u>2024'S Leading NAS Units Reviewed - Choose the Perfect Data Management Solution</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-factory-reset-your-iphone-or-ipad/"><u>How to Factory Reset Your iPhone or iPad</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unraveling-the-apple-podcast-app-submission-system/"><u>In 2024, Unraveling the Apple Podcast App Submission System</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/journey-in-style-canons-powershot-g9x-mark-ii-reviewed/"><u>Journey in Style – Canon's PowerShot G9X Mark II Reviewed</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-common-facetime-issues-a-step-by-step-guide-to-get-it-working-again/"><u>Solving Common FaceTime Issues: A Step-by-Step Guide to Get It Working Again</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-your-iphone-computer-connection-problems-expert-tips-and-tricks/"><u>Solving Your iPhone Computer Connection Problems - Expert Tips & Tricks</u></a></li>
+<li><a href="https://fox-that.techidaily.com/step-by-step-guide-to-restoring-functionality-for-unresponsive-airplay-feature/"><u>Step-by-Step Guide to Restoring Functionality for Unresponsive AirPlay Feature</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-common-issues-with-the-windows-1903-feature-update/"><u>Troubleshooting Common Issues with the Windows 1903 Feature Update</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-fixed-how-to-prevent-persistent-crashing-in-insurgency-sandstorm/"><u>Troubleshooting Fixed: How to Prevent Persistent Crashing in Insurgency: Sandstorm</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-pairings-4-innovative-windows-webp-viewer-apps/"><u>Winning Pairings: 4 Innovative Windows WebP Viewer Apps</u></a></li>
+</ul></div>
 

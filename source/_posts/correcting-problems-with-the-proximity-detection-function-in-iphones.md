@@ -1,7 +1,7 @@
 ---
 title: Correcting Problems With the Proximity Detection Function in iPhones
-date: 2024-12-23T19:09:41.058Z
-updated: 2024-12-25T20:06:15.359Z
+date: 2025-01-03T00:02:50.208Z
+updated: 2025-01-03T17:23:13.954Z
 tags:
   - iphone
   - apple
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/6658e9df1d38e14ee675787c7264985ccf523b4b4
 
 ![A gray iPhone 6 on a woman's ear](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/a-gray-iphone-6-on-a-woman-s-ear.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The iPhone's proximity sensor uses infrared light from an emitter at the top of your screen. The sensor measures how long it takes for the rays to reflect off a surface to determine the distance.
 
  There could be things blocking the infrared waves; that's why it's good to run some tests before you conclude that there's something wrong with your iPhone.
@@ -38,10 +42,6 @@ Here are some things you could do to check if it's working:
 
  Your phone's display should go off In both scenarios. If they don't, you should consult the steps below for troubleshooting.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Steps to Take if Your iPhone's Proximity Sensor Isn't Working
 
  Hardware and software issues could cause this problem. But you could try the steps below in descending order.
@@ -49,10 +49,6 @@ Here are some things you could do to check if it's working:
 1\. Clean the Top Half of the Screen
 
 ![person cleaning a phone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/cleaning-phone.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The most likely culprit is dirt and gunk that has accumulated on the top half of your screen, making it difficult for the emitter or sensor to work. You will run into this issue if you have sweaty or oily skin.
 
@@ -66,6 +62,10 @@ Here are some things you could do to check if it's working:
 
  In this case, you should restart the app first. Merely returning to the Home Screen isn't enough; you must open the App Switcher (learn how to do so in our [iPhone navigation basics](https://www.makeuseof.com/how-to-go-back-get-home-switch-apps-iphone/) guide) and swipe up on the target app's preview. Open the app again and try to use the proximity sensor. You can also try [restarting your iPhone](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) for good measure.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Make Sure Your iPhone Is Up to Date
 
  As an extension of software problems, your iPhone's proximity sensor might act up due to an iOS bug. The only way to completely rule out that possibility is to update your iPhone to the latest iOS version available.
@@ -74,16 +74,20 @@ Here are some things you could do to check if it's working:
 
 ![iPhone searching for updates in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-searching-for-updates-in-settings.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Software update information on iOS for iOS 16.6](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/software-update-information-on-ios-for-ios-16-6.jpeg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Update terms and conditions on iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/update-terms-and-conditions-on-ios.jpeg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Close
@@ -117,10 +121,6 @@ Here's a brief rundown of how to do it:
 
  Take your iPhone to a nearby Apple Store or an Apple-authorized service provider; they should be able to help you. If your iPhone is still under warranty, Apple will fix your device at no additional cost if there are no signs of accidental damage. Scenarios like this make having an [extended AppleCare+ warranty](http://www.makeuseof.com/tag/applecare-what-are-your-options-is-it-really-worth-it/) very attractive because accidental damage is covered under this plan.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## The Proximity Sensor Is an Important Part of Your iPhone
 
  While your phone doesn't need it to function, there's no denying that your iPhone experience will be seriously impaired without a proximity sensor. It's integral to the way touchscreen phones work for phone calls.
@@ -142,18 +142,18 @@ Here's a brief rundown of how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-guide-to-powerdirector-2024-mastery/"><u>[Updated] The Ultimate Guide to PowerDirector 2024 Mastery</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-visualcut-content-checker/"><u>[Updated] VisualCut Content Checker</u></a></li>
-<li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-samsung-galaxy-xcover-7-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Samsung Galaxy XCover 7 to iPhone | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/avoid-common-spelling-mistakes-on-iphone-with-these-6-autocorrection-fixes/"><u>Avoid Common Spelling Mistakes on iPhone with These 6 AutoCorrection Fixes</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/guide-complet-pour-resoudre-les-problemes-de-clonage-ssd-non-supportes-par-windows-11-10-8-et-7/"><u>Guide Complet Pour Resoudre Les Problèmes De Clonage SSD Non Supportés Par Windows 11, 10, 8 Et 7</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721478571507-guide-to-easily-repairing-frequent-issues-with-apple-pay-learn-these-10-tips/"><u>Guide to Easily Repairing Frequent Issues with Apple Pay – Learn These 10 Tips</u></a></li>
-<li><a href="https://techidaily.com/how-do-i-reset-my-honor-magic-5-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Honor Magic 5 Phone without technical knowledge? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-vivo-y200e-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Vivo Y200e 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-choosing-between-gopro-max-and-hero-11-top-cameras-compared/"><u>In 2024, Choosing Between GoPro Max and Hero 11 Top Cameras Compared</u></a></li>
-<li><a href="https://win-dash.techidaily.com/latest-sound-card-software-updates-get-them-here/"><u>Latest Sound Card Software Updates - Get Them Here</u></a></li>
-<li><a href="https://fox-that.techidaily.com/resetting-your-apple-screen-time-lock-with-ease-tips-for-all-users/"><u>Resetting Your Apple Screen Time Lock with Ease – Tips for All Users</u></a></li>
-<li><a href="https://fox-that.techidaily.com/top-7-causes-behind-a-non-responsive-iphone-screen-troubleshooting-guide/"><u>Top 7 Causes Behind a Non-Responsive iPhone Screen: Troubleshooting Guide</u></a></li>
-<li><a href="https://fox-that.techidaily.com/unlocking-icloud-settings-top-strategies-for-iphone-and-ipad-users/"><u>Unlocking iCloud Settings: Top Strategies for iPhone and iPad Users</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-full-page-capture-on-device/"><u>[New] In 2024, Full Page Capture on Device</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-protect-your-live-streams-the-periscope-video-howto-for-2024/"><u>[Updated] Protect Your Live Streams The Periscope Video HowTo for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-creative-windows-artistry-free-to-feed-tools-guide/"><u>2024 Approved Creative Windows Artistry - FREE to FEE'd Tools Guide</u></a></li>
+<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-oppo-find-x7-ultra-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Oppo Find X7 Ultra in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/seamless-pairing-solutions-resolve-your-airpods-iphone-disconnection-frustrations/"><u>Seamless Pairing Solutions: Resolve Your AirPods-iPhone Disconnection Frustrations</u></a></li>
+<li><a href="https://win11.techidaily.com/sidestep-sluggish-outlook-on-your-computer/"><u>Sidestep Sluggish Outlook on Your Computer</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solve-the-problem-of-constantly-moving-sounds-in-your-airpods-by-deactivating-dynamic-headtracking-feature/"><u>Solve the Problem of Constantly Moving Sounds in Your AirPods by Deactivating Dynamic Headtracking Feature</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/step-by-step-guide-to-setting-up-the-ghettos-aurora-build-on-kodi-version-19-the-matrix-edition/"><u>Step-by-Step Guide to Setting Up the Ghetto's Aurora Build on Kodi Version 19 - The Matrix Edition</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-and-fix-an-unresponsive-igadget-with-ease/"><u>Troubleshoot and Fix an Unresponsive iGadget with Ease</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-what-to-do-when-your-iphones-home-button-fails/"><u>Troubleshooting: What To Do When Your iPhone's Home Button Fails?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/understanding-the-limitations-5-barriers-to-sending-gifts-via-apple-devices/"><u>Understanding the Limitations: 5 Barriers to Sending Gifts via Apple Devices</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unveiling-the-secrets-of-high-performance-computers-via-toms-hardware/"><u>Unveiling the Secrets of High-Performance Computers via Tom's Hardware</u></a></li>
+<li><a href="https://fox-that.techidaily.com/use-of-result-patterns-c-80plus/"><u>Use of Result Patterns (C# 8.0+)</u></a></li>
 </ul></div>
 

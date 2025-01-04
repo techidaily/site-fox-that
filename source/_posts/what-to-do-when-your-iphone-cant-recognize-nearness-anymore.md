@@ -1,7 +1,7 @@
 ---
 title: What to Do When Your iPhone Can't Recognize Nearness Anymore
-date: 2024-11-18T20:11:36.231Z
-updated: 2024-11-24T21:53:18.439Z
+date: 2025-01-02T06:49:15.103Z
+updated: 2025-01-04T04:44:56.990Z
 tags:
   - iphone
   - apple
@@ -23,16 +23,12 @@ thumbnail: https://thmb.techidaily.com/f386bcd1cdef2e7eae82e10cf44eeb6665615e5a1
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Test the Proximity Sensor on an iPhone
 
 ![A gray iPhone 6 on a woman's ear](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/a-gray-iphone-6-on-a-woman-s-ear.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The iPhone's proximity sensor uses infrared light from an emitter at the top of your screen. The sensor measures how long it takes for the rays to reflect off a surface to determine the distance.
@@ -46,10 +42,6 @@ Here are some things you could do to check if it's working:
 
  Your phone's display should go off In both scenarios. If they don't, you should consult the steps below for troubleshooting.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Steps to Take if Your iPhone's Proximity Sensor Isn't Working
 
  Hardware and software issues could cause this problem. But you could try the steps below in descending order.
@@ -59,7 +51,7 @@ Here are some things you could do to check if it's working:
 ![person cleaning a phone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/cleaning-phone.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The most likely culprit is dirt and gunk that has accumulated on the top half of your screen, making it difficult for the emitter or sensor to work. You will run into this issue if you have sweaty or oily skin.
@@ -69,7 +61,7 @@ Here are some things you could do to check if it's working:
  Be careful not to use rubbing alcohol, window cleaners, vinegar, or any similar grease-cutting products, as they could eat away your screen's coating.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Restart the Target Application or Your iPhone
@@ -94,9 +86,17 @@ Close
 
  Your phone will restart a couple of times, but it will stabilize when it's finished. Test the proximity sensor again using our steps above.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. Remove the Screen Protector
 
 ![man applying screen protector to smartphone feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/man-applying-screen-protector-to-smartphone-feature.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Image Credit: Nor Gal/[Shutterstock](https://www.shutterstock.com/image-photo/man-replacing-broken-tempered-glass-screen-1106925758)
 
@@ -142,20 +142,19 @@ Here's a brief rundown of how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-step-by-step-fixes-for-youtube-short-failures/"><u>[New] 2024 Approved Step-by-Step Fixes for YouTube Short Failures</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-rise-above-the-crowd-10-proven-techniques-for-video-standout-for-2024/"><u>[Updated] Rise Above the Crowd 10 Proven Techniques for Video Standout for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721478529608-beat-iphone-x-irritations-discover-your-fixes-here/"><u>Beat iPhone X Irritations: Discover Your Fixes Here!</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/best-vivo-y36i-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Vivo Y36i Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
-<li><a href="https://fox-http.techidaily.com/detailed-guide-on-voice-memos-best-practices/"><u>Detailed Guide on Voice Memos Best Practices</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhancing-protection-fixing-defenders-unavailable-threat-detection/"><u>Enhancing Protection: Fixing Defender's Unavailable Threat Detection</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fixing-persistent-sos-mode-on-iphone-6-proven-techniques-for-restoring-normal-operation/"><u>Fixing Persistent SOS Mode on iPhone - 6 Proven Techniques for Restoring Normal Operation</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/gionee-f3-pro-music-recovery-recover-deleted-music-from-gionee-f3-pro-by-fonelab-android-recover-music/"><u>Gionee F3 Pro Music Recovery - Recover Deleted Music from Gionee F3 Pro</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-work-with-bmp-image-formats-introduction-to-bmp-files-and-methods-for-accessing-them-easily/"><u>How To Work With BMP Image Formats: Introduction to .bmp Files And Methods for Accessing Them Easily</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-oppo-a58-4g-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Oppo A58 4G FRP</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/in-2024-50-free-youtube-banners-come-see-them-all/"><u>In 2024, 50 FREE YouTube Banners - Come See Them All!</u></a></li>
-<li><a href="https://fox-that.techidaily.com/simple-techniques-for-softly-rebooting-your-iphone-without-data-loss/"><u>Simple Techniques for Softly Rebooting Your iPhone Without Data Loss</u></a></li>
-<li><a href="https://fox-that.techidaily.com/trouble-with-airdrop-here-are-16-fast-fixes-to-get-it-running-smoothly-again/"><u>Trouble With AirDrop? Here Are 16 Fast Fixes to Get It Running Smoothly Again</u></a></li>
-<li><a href="https://fox-that.techidaily.com/ultimate-tutorial-master-the-art-of-iphone-and-ipad-hardware-resets/"><u>Ultimate Tutorial: Master the Art of iPhone and iPad Hardware Resets</u></a></li>
-<li><a href="https://fox-that.techidaily.com/understanding-the-limits-gifting-from-apple-products-explained/"><u>Understanding the Limits: Gifting From Apple Products Explained</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-through-virtual-lenses-a-historical-view/"><u>[New] In 2024, Through Virtual Lenses A Historical View</u></a></li>
+<li><a href="https://fox-that.techidaily.com/5-minutes-to-resolve-iphone-and-ipad-widget-problems-a-quick-guide/"><u>5 Minutes to Resolve iPhone and iPad Widget Problems – A Quick Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/defeat-your-iphone-phone-connection-issues-using-these-10-proven-methods/"><u>Defeat Your iPhone Phone Connection Issues Using These 10 Proven Methods</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-xiaomi-redmi-note-12t-pro-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Xiaomi Redmi Note 12T Pro to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-on-realme-c33-2023-by-drfone-android/"><u>In 2024, How to Bypass FRP on Realme C33 2023?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/single-airpod-dilemma-how-to-revive-your-earbud-when-only-one-is-faulty/"><u>Single AirPod Dilemma: How to Revive Your Earbud When Only One Is Faulty</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-the-issue-why-wont-my-iphone-update-emails/"><u>Solving the Issue: Why Won't My iPhone Update Emails?</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/-video-popularity-with-essential-seo-aids-for-2024/"><u>Surge Video Popularity with Essential SEO Aids for 2024</u></a></li>
+<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-nokia-c12-pro-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on Nokia C12 Pro</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-boosting-your-minecraft-performance/"><u>Ultimate Guide: Boosting Your Minecraft Performance</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/unveiling-the-secrets-of-facebook-story-filming-and-editing-for-2024/"><u>Unveiling the Secrets of Facebook Story Filming and Editing for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/usb-c-troubleshooting-how-to-address-the-liquid-detected-prompt-on-your-iphone/"><u>USB-C Troubleshooting: How to Address the 'Liquid Detected' Prompt on Your iPhone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/why-are-my-iphone-texts-coming-in-late-here-are-9-quick-solutions/"><u>Why Are My iPhone Texts Coming in Late? Here Are 9 Quick Solutions</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/yl-software-presents-enchanting-images-of-the-slytherin-trio-downloadable-walls-and-backdrops-for-fans/"><u>YL Software Presents Enchanting Images of the Slytherin Trio - Downloadable Walls & Backdrops for Fans</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Six Simple Steps to Rebalance and Extend Your iPhone's Battery Life
-date: 2024-08-15T12:00:19.407Z
-updated: 2024-08-16T12:00:19.407Z
+date: 2024-12-28T16:01:29.010Z
+updated: 2025-01-03T17:32:24.706Z
 tags:
   - iphone
   - apple
@@ -37,8 +37,9 @@ thumbnail: https://thmb.techidaily.com/778dacc021ae6d569afd3e62fa61bf15ba6fe429d
  This will help lead to an accurate reading later in the process. After you've reset the battery, you can re-enable all of these options. It's also worth ensuring you haven't accidentally enabled Low Power Mode by going to**Settings > Battery** .
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Disable Location Services
 
 To disable location services on your iPhone, follow these steps:
@@ -51,9 +52,6 @@ To disable location services on your iPhone, follow these steps:
 ![privacy settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/privacy-settings.jpg)
 
 ![location services settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/location-services-settings.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 
 ![location services on off](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/location-services-on-off.jpg)
 
@@ -74,7 +72,15 @@ Close
 
 ![ios app refresh settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/03/ios-app-refresh-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Close
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Decrease Your Screen Brightness
 
@@ -85,14 +91,8 @@ Here's how to lower the screen brightness on an iPhone:
 3. Move the**Brightness** slider all the way to the left.
 
 ![ios brightness menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/03/ios-brightness-2.png)
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![ios brightness slider](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/03/ios-brightness.png)
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Close
 
@@ -105,13 +105,18 @@ Finally, to turn off automatic updates, follow these three steps:
 3. Under**Automatic Downloads** , toggle off**App Updates** .
 
 ![app store settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/app-store-settings.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![app updates off](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/app-updates-off.jpg)
 
 Close
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Calibrate Your iPhone's Battery
 
@@ -119,25 +124,16 @@ Close
 
  Luckily, you don't need any third-party tools or apps. Anything you see in the App Store promising to reset your iPhone's battery is, at best, unnecessary and, at worst, a scam. iPhone's battery calibration is easy to perform without extra help.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Step 1: Drain Your iPhone's Battery
 
  The first step is to completely drain your iPhone's battery. You can do so during normal usage. If you want to speed up the process, you can play a long video on YouTube with the volume turned up to the maximum level.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 ### Step 2: Wait Three Hours
 
  You may have noticed that your iPhone will automatically shut down even if the battery has a small percentage left. This process is by design; it gives the device a chance to save the current state of your apps so you don't lose data.
 
  It's important to let the last embers of the battery life die away. The only way to do this is to wait. The longer you wait, the better, but you should wait at least three hours. If you have time, letting it sit overnight is preferable.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 ### Step 3: Charge Your iPhone
 
  Now, it's time to refill the battery. To ensure optimal performance, make sure you follow these tips:
@@ -146,16 +142,14 @@ Close
 * Ideally, use an official Apple charger. At the very least, make sure you [use a trusted Lightning cable](https://www.makeuseof.com/tag/5-great-lightning-cables-charge-iphone-ipad/) or a [high-quality USB-C cable](https://www.makeuseof.com/tag/micro-usb-cables-charge/) if you have an iPhone 15 (or later) and not a cheap knockoff.
 * Continue to charge for a couple of hours even after your phone shows the battery as 100 percent full. You need to ensure you squeeze in every drop of power to ensure the calibration works correctly.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Step 4: Drain Your iPhone
 
  Now, you need to repeat the whole process a second time. It's the same drill as before: completely drain the power out of your device. Either use it as you normally would or play videos on loop to move it along faster.
 
 <!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Step 5: Wait Another Three Hours
 
  It's getting repetitive by now but stick with it. Once again, you need to ensure you drain that last bit of battery power from your iPhone. Like before, the longer you can leave it, the better.
@@ -176,11 +170,16 @@ And that's it. Now, your iPhone's battery has been recalibrated.
 
 ![battery settings iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/battery-settings-iphone.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![battery health settings iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/battery-health-settings-iphone.jpg)
 
 ![optimized battery charging iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/optimized-battery-charging-iphone.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Close
@@ -188,8 +187,9 @@ Close
  Head to **Settings > Battery > Battery Health & Charging > Optimized Battery Charging** to toggle this on. This slows down the aging of your iPhone's battery, keeping its maximum capacity from degrading quickly.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Other Battery-Saving iPhone Tips
 
  If recalibration hasn't fixed your iPhone's battery problems, it might be time to spend some money on a new battery. You can change the battery yourself if you're feeling confident, but doing so will void your iPhone's warranty.
@@ -202,8 +202,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -211,4 +209,20 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-reversing-the-flow-a-guide-to-tracing-instagram-pics-backwards/"><u>[New] Reversing the Flow A Guide to Tracing Instagram Pics Backwards</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-dive-into-instagram-live-without-hesitation/"><u>[Updated] 2024 Approved Dive Into Instagram Live Without Hesitation</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-moviemeld-insights-full-editing-review/"><u>[Updated] MovieMeld Insights – Full Editing Review</u></a></li>
+<li><a href="https://fox-that.techidaily.com/complete-guide-how-to-solve-iphone-black-display-problems/"><u>Complete Guide: How To Solve iPhone Black Display Problems</u></a></li>
+<li><a href="https://fox-that.techidaily.com/essential-tips-to-repair-keyboard-issues-on-iphones-and-ipads-a-step-by-hemisphere-approach/"><u>Essential Tips to Repair Keyboard Issues on iPhones & iPads: A Step-by-Hemisphere Approach</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721458458567-fixing-iphones-extended-screen-time-before-power-off-expert-advice/"><u>Fixing iPhone's Extended Screen Time Before Power Off - Expert Advice!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-restore-your-imessage-connection-tips-for-iphone-users/"><u>How to Restore Your iMessage Connection: Tips for iPhone Users</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-pro-level-text-wonders-discover-the-top-10-for-videos/"><u>In 2024, Pro-Level Text Wonders - Discover the Top 10 for Videos</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-driver-support-how-to-install-and-update-samsung-960-evo-drives-on-your-windows-device/"><u>Latest Driver Support: How to Install and Update Samsung 960 EVO Drives on Your Windows Device</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-icloud-integration-hurdles-a-step-by-step-guide-to-restoring-sync-functionality/"><u>Overcoming iCloud Integration Hurdles: A Step-by-Step Guide to Restoring Sync Functionality</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-the-challenge-of-unrecognized-iphones-in-itunes-and-finder/"><u>Overcoming the Challenge of Unrecognized iPhones in iTunes and Finder</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-newbies-guide-to-av1-codec-for-2024/"><u>The Newbie's Guide to AV1 Codec for 2024</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/top-gratis-alternativen-fur-den-datentracking-protokollverlauf-unter-windows-versionen-8-81-10-and-11/"><u>Top Gratis Alternativen Für Den Datentracking-Protokollverlauf Unter Windows Versionen 8, 8.1, 10 & 11</u></a></li>
+</ul></div>
 

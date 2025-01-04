@@ -1,7 +1,7 @@
 ---
 title: Revive Your iPhone Contacts App with These Simple Troubleshooting Steps (3 Tips)
-date: 2024-08-15T11:58:03.484Z
-updated: 2024-08-16T11:58:03.484Z
+date: 2024-12-28T02:17:07.570Z
+updated: 2025-01-04T02:09:55.173Z
 tags:
   - iphone
   - apple
@@ -33,13 +33,18 @@ thumbnail: https://thmb.techidaily.com/214585cc6f04e9f51b09b50240658d386b443c6b6
 
 ![pop-up menu that appears when you tap share automatically](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/pop-up-menu-that-appears-when-you-tap-share-automatically.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Close
 
  If someone you know has set up their Contact Poster and you can't see it, simply ask them to follow the steps above and ensure the feature is enabled!
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Delete and Recreate the Contact Poster
 
  If the above fix doesn't work, we recommend deleting your Contact Poster entirely and creating a new one. Here's how you can delete your current Contact Poster:
@@ -50,27 +55,23 @@ Close
 4. Finally,[create and customize a new Contact Poster](https://www.makeuseof.com/how-to-use-contact-posters-on-iphone/) for yourself and your contacts.
 
 ![viewing my own contact photo & poster](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/viewing-my-own-contact-phot-poster-1.jpeg)
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![viewing my created contact posters](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/viewing-my-created-contact-posters-1.jpeg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![swiping up on my created contact poster and trash icon appears](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/swiping-up-on-my-created-contact-poster-and-trash-icon-appears.jpeg)
 
 ![deleting my contact poster](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/deleting-my-contact-poster.jpeg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 
 Close
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Disable Name and Photo Sharing and Restart Your iPhone
 
  Perhaps a software bug is the culprit behind this issue. Fortunately, the simplest way to fix software glitches like this one is restarting your iPhone. Before you restart your iPhone, head to**Phone > My Card > Contact Photo & Poster** and disable**Name & Photo Sharing** .
@@ -78,20 +79,18 @@ Close
  Whether you're using a model with a notch or Dynamic Island or an old-school iPhone with a physical Home button,[restarting your iPhone, even if the buttons aren't working](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) , is pretty straightforward. After you turn your iPhone back on, follow the steps above to enable**Name & Photo Sharing** again.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## It's Time to Get Your Contact Posters Back
 
  If none of the troubleshooting steps we mentioned above worked, you may be experiencing this issue due to an iOS bug. Fortunately, Apple periodically rolls out software updates to resolve well-known problems like this. While it isn't ideal, we recommend waiting it out until a new update is available. Alternatively, you can contact Apple Support for expert assistance.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -100,4 +99,26 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-inside-vr-contemporary-insights-and-upcoming-struggles/"><u>[Updated] In 2024, Inside VR Contemporary Insights & Upcoming Struggles</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-how-to-pin-someone-on-snapchat-all-you-need-to-know/"><u>2024 Approved How to Pin Someone on Snapchat All You Need to Know</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721470024042-7-common-culprsits-to-weak-mobile-internet-via-wi-fi-know-them-inside-out/"><u>7 Common Culprsits to Weak Mobile Internet Via Wi-Fi: Know Them Inside Out!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722974394107-download-and-install-arduino-mega-2560-driver-in-minutes/"><u>Download and Install Arduino Mega 2560 Driver in Minutes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fix-voice-chat-glitches-in-call-of-duty-modern-warfare-solutions/"><u>Fix Voice Chat Glitches in Call of Duty - Modern Warfare Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721461506504-fixing-wi-fi-connection-issues-on-iphone-and-ipad-easy-steps-for-success/"><u>Fixing Wi-Fi Connection Issues on iPhone and iPad: Easy Steps for Success!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721471485310-full-pages-not-saving-as-screenshots-on-safari-heres-the-fix-you-need/"><u>Full Pages Not Saving as Screenshots on Safari? Here's the Fix You Need.</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721476440469-how-to-troubleshoot-a-lagging-iphone-identify-these-angs-reasons-and-apply-fixes/"><u>How to Troubleshoot a Lagging iPhone: Identify These Angs Reasons and Apply Fixes</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-effective-ways-to-fix-checkra1n-error-31-on-iphone-13-by-drfone-ios/"><u>In 2024, Effective Ways To Fix Checkra1n Error 31 On iPhone 13</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/increasing-or-slowing-down-frame-rate-on-your-story-feed/"><u>Increasing or Slowing Down Frame Rate on Your Story Feed</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721439206929-iphone-compromised-by-moisture-spot-these-9-warning-symptoms/"><u>IPhone Compromised by Moisture? Spot These 9 Warning Symptoms</u></a></li>
+<li><a href="https://fox-access.techidaily.com/reassessing-the-updates-to-sonys-s6500-bdhd-player/"><u>Reassessing the Updates to Sony's S6500 BD/HD Player</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721475287447-say-goodbye-to-voicemail-glitches-on-your-iphone-discover-these-9-fixing-techniques/"><u>Say Goodbye to Voicemail Glitches on Your iPhone - Discover These 9 Fixing Techniques</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95783010-9781594775314-sisters-of-the-extreme/"><u>Sisters of the Extreme | Free Book</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721451544590-struggling-with-iphones-unnoticed-alerts-try-out-these-proven-7-remedies/"><u>Struggling with iPhones Unnoticed Alerts? Try Out These Proven 7 Remedies</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/the-ultimate-guide-to-amr-format-processing-and-conversion/"><u>The Ultimate Guide to AMR Format Processing and Conversion</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721466952596-top-10-solutions-for-iphone-calling-issues-no-more-dropped-calls/"><u>Top 10 Solutions for iPhone Calling Issues – No More Dropped Calls</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Vivo T2 5G? | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721455857681-why-does-my-iphones-display-stay-on-too-long-solutions-inside/"><u>Why Does My iPhone's Display Stay On Too Long? Solutions Inside!</u></a></li>
+</ul></div>
 

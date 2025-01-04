@@ -1,7 +1,7 @@
 ---
 title: Can't Find iTunes? Here's How to Restore Your iPhone on Your Own
-date: 2024-08-15T11:58:18.782Z
-updated: 2024-08-16T11:58:18.782Z
+date: 2025-01-02T22:39:41.409Z
+updated: 2025-01-04T04:47:23.301Z
 tags:
   - iphone
   - apple
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/78f06b81f7c57e1e88ac6a7fa4601f5ae07cf7d31
  When Apple first released the iPhone, the best way to reset or restore your device was to connect it to a computer running iTunes. But in 2019, Apple discontinued iTunes for the Mac, replacing it with the Music app instead, and iTunes isn't installed on every Windows PC. So what's the best way to reset or restore an iPhone without using iTunes?
 
  We'll show you how to reset or restore your iPhone using the device settings, using Finder on a Mac, or using a third-party app for whenever iTunes isn't available to you.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Resetting vs. Restoring an iPhone
 
@@ -43,11 +47,16 @@ thumbnail: https://thmb.techidaily.com/78f06b81f7c57e1e88ac6a7fa4601f5ae07cf7d31
 ![iPhone Settings Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/11/iPhone-Settings-Menu.jpg)
 
 ![General Settings on iPhone showing Transfer or Reset iPhone option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/11/General-Settings-on-iPhone-showing-Transfer-or-Reset-iPhone-option.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![iPhone Reset options in iOS 15](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/iphone-reset-options-in-ios-15-1.PNG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -66,18 +75,6 @@ Close
 
  Depending on the problem with your iPhone, you may need to restore the firmware as well. You need to [put your iPhone into DFU mode](https://www.makeuseof.com/what-is-dfu-mode-iphone-and-how-to-use-it/) to do this.
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Restore an iPhone Without iTunes on a Windows PC
 
  If you need to restore an iPhone with a Windows PC, perhaps because [you have the white screen of death](https://www.makeuseof.com/tag/iphone-white-screen-of-death-tips/) , but you can't use iTunes or Finder, the situation is slightly more complicated. For this, you will need to use third-party software. Three of the leading brands are Tenorshare, dr.fone, and FonePaw.
@@ -86,9 +83,6 @@ Close
 
  If you haven't already, make sure you try to [download iTunes](https://www.apple.com/itunes/) from Apple's website before attempting a more complicated solution.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### How to Restore an iPhone Using Tenorshare
 
  Let's look at how to restore a non-functioning or disabled iPhone without iTunes. This is also the method you need to follow [if you've forgotten your iPhone passcode](https://www.makeuseof.com/tag/forgot-iphone-passcode/) , you're stuck in Recovery or DFU mode, or if iTunes is throwing out errors during the restore process.
@@ -104,8 +98,9 @@ Close
  After selecting Factory Reset,**Download** the latest firmware for your iPhone and follow the onscreen steps to put your iPhone in the right mode and carry out the repair.
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Restore Erased iPhone Data
 
  If restoring your iPhone deleted an important photo, message, document, or file, you might be able to recover it if you act quickly. Once again, Tenorshare has an app to help:[UltData](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU37553/https://www.tenorshare.com/products/iphone-data-recovery.html) . It's free, but you can also unlock more features with a subscription. The app is available for macOS or Windows.
@@ -120,13 +115,11 @@ To restore iPhone data without iTunes, follow the steps below:
 4. Click on the**Scan** button to see what's available, then restore whatever you need.
 
 ![Tenorshare UltData app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Tenorshare-UltData-app.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Third-Party Apps Give You More Options Than iTunes
 
  Although it might initially seem like you're at a disadvantage if you can't use iTunes to reset or restore your iPhone, many third-party apps actually offer a lot more features than iTunes.
@@ -139,8 +132,6 @@ To restore iPhone data without iTunes, follow the steps below:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -148,4 +139,22 @@ To restore iPhone data without iTunes, follow the steps below:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-incremental-volume-easing-in-logic-pro-audio-workflows/"><u>[New] 2024 Approved Incremental Volume Easing in Logic Pro Audio Workflows</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-windows-wonders-top-9-tools-to-capture-and-save-animated-gif-art/"><u>[Updated] 2024 Approved Windows Wonders Top 9 Tools to Capture and Save Animated GIF Art</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-monetizing-micro-vlogs-a-step-by-step-guide-for-2024/"><u>[Updated] Monetizing Micro-Vlogs A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-outshine-the-ordinary-30-innovative-ideas-for-standout-tiktok-photos-for-2024/"><u>[Updated] Outshine the Ordinary 30 Innovative Ideas for Standout TikTok Photos for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/5-ingenjavnade-stilar-att-klippa-ljud-fran-din-websida-med-movavi/"><u>5 Ingenjävnade Stilar Att Klippa Ljud Från Din Websida Med Movavi</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/crafting-aplenty-combining-canva-gpt-for-infinite-ideas/"><u>Crafting Aplenty: Combining Canva, GPT for Infinite Ideas</u></a></li>
+<li><a href="https://driver-download.techidaily.com/effortless-installation-of-the-magic-mouse-driver-for-windows-users/"><u>Effortless Installation of the Magic Mouse Driver for Windows Users</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-s6700-bdp-updates-explored/"><u>In 2024, S6700 BDP Updates Explored</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721476926919-issues-with-iphones-touch-sensitivity-explore-these-7-reasons-and-fixes/"><u>Issues with iPhone's Touch Sensitivity? Explore These 7 Reasons and Fixes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721474878090-quick-fixes-for-a-non-functional-iphone-home-button-get-started-now/"><u>Quick Fixes for a Non-Functional iPhone Home Button – Get Started Now!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721474268860-safari-image-woes-beat-the-glitch-discover-9-reliable-strategies-for-iphone-users/"><u>Safari Image Woes? Beat the Glitch: Discover 9 Reliable Strategies for iPhone Users.</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721459309516-solve-your-airdrop-problems-in-no-time-with-our-top-16-fixes/"><u>Solve Your AirDrop Problems in No Time with Our Top 16 Fixes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721467092645-struggling-with-apple-payments-try-these-6-troubleshooting-tips/"><u>Struggling With Apple Payments? Try These 6 Troubleshooting Tips</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721464012385-why-cant-your-iphone-get-texts-from-an-android-phone-find-the-solution-now/"><u>Why Can't Your iPhone Get Texts From an Android Phone? Find the Solution Now!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721474787378-wi-fi-disconnect-problems-on-iphone-here-are-your-5-go-to-remedies/"><u>Wi-Fi Disconnect Problems on iPhone? Here Are Your 5 Go-To Remedies!</u></a></li>
+</ul></div>
 

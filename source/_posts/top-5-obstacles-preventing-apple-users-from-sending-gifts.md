@@ -1,7 +1,7 @@
 ---
 title: Top 5 Obstacles Preventing Apple Users From Sending Gifts
-date: 2024-12-21T19:30:37.993Z
-updated: 2024-12-25T16:52:28.371Z
+date: 2024-12-28T04:09:19.878Z
+updated: 2025-01-04T04:57:41.574Z
 tags:
   - iphone
   - apple
@@ -30,7 +30,7 @@ thumbnail: https://thmb.techidaily.com/1b3acf6f92837e9104aa399e6aa268354b94b6b82
  For instance, if you're going to gift an app or game from the App Store in the United States, the person you're sending it to must also have an Apple ID in the United States. However, they can work around this by [changing their App Store country](https://www.makeuseof.com/tag/dont-switch-international-itunes-media-app-store-youve-read/) , but it has its own set of drawbacks.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. You're in an Unsupported Country or Region
@@ -40,38 +40,38 @@ thumbnail: https://thmb.techidaily.com/1b3acf6f92837e9104aa399e6aa268354b94b6b82
  It's possible to solve this problem by changing your App Store and iTunes country, but, as we mentioned earlier, it has a few issues of its own. You can visit [Apple Support](https://support.apple.com/en-us/HT204411) to learn what Apple services your country can access.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Your Family Sharing Settings
 
 ![Screenshot of Family Sharing setup on a Mac](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-family-sharing-setup-on-a-mac.JPG)
 
-[Apple's Family Sharing](https://www.makeuseof.com/tag/set-family-sharing-share-apps-music-itunes-purchases/) lets you share Apple content and subscriptions with your family. If you've enabled this feature on your device and turned on**Ask to Buy** , it'll prevent you from sending gifts. After turning it off, you should be able to purchase gifts.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+[Apple's Family Sharing](https://www.makeuseof.com/tag/set-family-sharing-share-apps-music-itunes-purchases/) lets you share Apple content and subscriptions with your family. If you've enabled this feature on your device and turned on**Ask to Buy** , it'll prevent you from sending gifts. After turning it off, you should be able to purchase gifts.
 
 ## 4\. Using the Wrong Device to Gift an Item
 
 ![A gold iPhone on top of a gold MacBook](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/a-gold-iphone-on-top-of-a-gold-macbook.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  What you can gift depends on whether you're on an iPhone, iPad, Mac, or PC. You can send gifts from the App Store, Apple Books, or iTunes Store on an iPhone or iPad. On a Mac or PC, you can send gifts using the iTunes Store.
 
  You need an iPhone or iPad to gift apps, TV shows, or movies and a Mac or PC to gift individual songs. For now, there's no workaround for this.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. You're Trying to Gift a Free App
 
  If you can't gift an item from the App Store, it might be because it's free. While you can only gift paid items, it is possible to share free ones as well. To do so, tap the share button beside the app, then select a recipient or your means of sending it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Make the Most of Apple's Gifting Feature
 
@@ -94,20 +94,22 @@ thumbnail: https://thmb.techidaily.com/1b3acf6f92837e9104aa399e6aa268354b94b6b82
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-perfecting-sound-design-for-canva-video-templates/"><u>[New] Perfecting Sound Design for Canva Video Templates</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-lightning-fast-lore-resurrecting-reddit-articles-lost/"><u>[Updated] 2024 Approved Lightning-Fast Lore Resurrecting Reddit Articles Lost</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-guide-to-nikon-d500-4k-performance/"><u>2024 Approved The Ultimate Guide to Nikon D500 4K Performance</u></a></li>
-<li><a href="https://change-location.techidaily.com/all-you-need-to-know-about-mega-greninja-for-vivo-y78plus-t1-edition-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Vivo Y78+ (T1) Edition | Dr.fone</u></a></li>
-<li><a href="https://win-tips.techidaily.com/best-practices-in-picking-exchange-solutions-insights-from-yl-software-experts/"><u>Best Practices in Picking Exchange Solutions: Insights From YL Software Experts</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-receive-messages-and-calls-with-do-not-disturb-enabled-on-your-iphone-top-8-solutions/"><u>How to Receive Messages & Calls with 'Do Not Disturb' Enabled on Your iPhone: Top 8 Solutions</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-vivo-y100-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Vivo Y100? | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721474919143-iphone-screen-not-functioning-discover-quick-fixes-here/"><u>Iphone Screen Not Functioning? Discover Quick Fixes Here</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/recover-disappearing-watch-icon-for-fb-users-for-2024/"><u>Recover Disappearing Watch Icon for FB Users for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/reviving-your-iphone-with-a-non-destructive-reboot-technique/"><u>Reviving Your iPhone with a Non-Destructive Reboot Technique</u></a></li>
-<li><a href="https://fox-that.techidaily.com/spotting-the-critical-clues-9-symptoms-of-a-wet-iphone-incident/"><u>Spotting the Critical Clues: 9 Symptoms of a Wet iPhone Incident</u></a></li>
-<li><a href="https://fox-that.techidaily.com/trouble-with-wireless-charge-on-iphone-discover-7-solutions/"><u>Trouble with Wireless Charge on iPhone? Discover 7 Solutions</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshoot-image-loading-issues-on-safari-in-ios-top-9-solutions/"><u>Troubleshoot Image Loading Issues on Safari in iOS: Top 9 Solutions</u></a></li>
-<li><a href="https://driver-download.techidaily.com/troubleshoot-your-display-solutions-for-dealing-with-graphics-driver-issues/"><u>Troubleshoot Your Display: Solutions for Dealing with 'Graphics Driver Issues'</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1726029005974-dvd2/"><u>リージョンコードが違うDVD「コード2」での問題と修正手段：見落としたポイント</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-the-path-to-proficiency-with-streamlabs-obs-mastery/"><u>[Updated] 2024 Approved The Path to Proficiency with Streamlabs OBS Mastery</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-securely-preserve-your-instagram-content-on-iphone/"><u>[Updated] In 2024, Securely Preserve Your Instagram Content on iPhone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-memetic-mastery-creating-viral-content-on-facebook-and-insta/"><u>2024 Approved Memetic Mastery Creating Viral Content on Facebook and Insta</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-oppo-a79-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Oppo A79 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fix-phantom-screen-interactions-on-iphones-now-learn-about-10-proven-solutions-to-try/"><u>Fix Phantom Screen Interactions on iPhones Now! Learn About 10 Proven Solutions to Try</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-safari-full-page-screenshot-dysfunction-expert-tips-and-tricks/"><u>Fixing Safari Full-Page Screenshot Dysfunction - Expert Tips & Tricks</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-unlock-screen-capture-potential-with-expert-tips-from-adobe-captivity/"><u>In 2024, Unlock Screen Capture Potential with Expert Tips From Adobe Captivity</u></a></li>
+<li><a href="https://fox-that.techidaily.com/keep-spotify-running-smoothly-even-after-securing-your-iphone/"><u>Keep Spotify Running Smoothly Even After Securing Your iPhone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/leveraging-generative-ai-llms-in-business-strategy-mastering-the-insights-of-rag/"><u>Leveraging Generative AI LLMs in Business Strategy: Mastering the Insights of RAG</u></a></li>
+<li><a href="https://fox-that.techidaily.com/restore-your-imessage-connection-on-iphone-easy-steps-to-address-the-signed-out-error/"><u>Restore Your iMessage Connection on iPhone: Easy Steps to Address the Signed Out Error</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resurrecting-a-dead-jabra-headset-effective-solutions-for-tech-enthusiasts/"><u>Resurrecting a Dead Jabra Headset: Effective Solutions for Tech Enthusiasts</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/score-the-ultimate-deal-on-apple-watch-series-9-exclusive-lowest-prices-post-prime-day/"><u>Score the Ultimate Deal on Apple Watch Series 9, Exclusive Lowest Prices Post Prime Day</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solve-your-iphones-touch-problems-with-our-guide-to-its-top-7-responsive-issues/"><u>Solve Your iPhone's Touch Problems with Our Guide to Its Top 7 Responsive Issues</u></a></li>
+<li><a href="https://fox-that.techidaily.com/struggling-with-iphone-computer-connection-issues-discover-how-to-resolve-them/"><u>Struggling with iPhone-Computer Connection Issues? Discover How to Resolve Them</u></a></li>
+<li><a href="https://facebook.techidaily.com/tailored-removal-techniques-cleaning-up-twitter-instagram/"><u>Tailored Removal Techniques: Cleaning up Twitter, Instagram</u></a></li>
+<li><a href="https://fox-that.techidaily.com/the-major-hurdles-with-iphone-12-and-expert-troubleshooting-tips/"><u>The Major Hurdles with iPhone 12 & Expert Troubleshooting Tips</u></a></li>
+<li><a href="https://fox-that.techidaily.com/why-turning-on-and-off-is-the-key-to-most-smartphone-repairs/"><u>Why Turning On and Off Is the Key to Most Smartphone Repairs</u></a></li>
 </ul></div>
 

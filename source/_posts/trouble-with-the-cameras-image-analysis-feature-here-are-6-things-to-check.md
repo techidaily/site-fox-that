@@ -1,7 +1,7 @@
 ---
 title: Trouble with the Camera's Image Analysis Feature? Here Are 6 Things to Check
-date: 2024-08-15T11:58:02.367Z
-updated: 2024-08-16T11:58:02.367Z
+date: 2025-01-01T22:07:42.547Z
+updated: 2025-01-03T21:35:27.879Z
 tags:
   - iphone
   - apple
@@ -38,9 +38,6 @@ thumbnail: https://thmb.techidaily.com/9494fa406dacd27bc0a8399abf0f5c2cdeea0b8aa
 
  If you have a compatible device but Visual Look Up is still not working, here are some possible reasons and workarounds.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. You're Using an Unsupported Language
 
  Whether Visual Look Up will work or not depends upon the language set on your iPhone. So, if you're using an unsupported language, the feature will not work as intended. To make sure you're able to use the feature, change your primary iPhone language to one of the currently supported languages.
@@ -51,18 +48,17 @@ Here's how to change the primary language on your iPhone:
 2. Tap**Add Language** , then select any one of the six supported languages—English, French, German, Italian, Japanese, or Spanish—and set it as the primary language.
 
 ![Main Screen in iPhone Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/steps-to-change-iphone-language-1.jpeg)
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![An image showing the Language & Region Option between Fonts and Dictionary sections within the General section](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/steps-to-change-iphone-language-2.jpeg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Menu that lets you add another language to your iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/steps-to-change-iphone-language-3.jpeg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Close
@@ -76,6 +72,10 @@ Close
 
 ![Siri & Search Under Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/Siri--Search-Under-Settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Show in Look Up, in Siri & Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/Show-in-Look-Up-in-Siri--Search.jpg)
 
 Close
@@ -87,9 +87,6 @@ Close
  Although Visual Look Up requires an ideal image to function at its best, it's still one of the powerful [hidden iOS features](https://www.makeuseof.com/tag/hidden-iphone-features-make-productive/) . Sometimes, you may be able to detect an object even with an obstructed view—as shown in the example below:
 
 ![Obscured Image Still Showing Visual Look Up Icon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/Obscured-Image-Still-Showing-Visual-Look-Up-Icon.PNG)
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Obscured Image Not Showing Visual Look Up Icon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/Obscured-Image-Not-Showing-Visual-Look-Up-Icon.PNG)
 
@@ -99,19 +96,20 @@ Close
 
 ![Visual Look Up Detecting Two Objects](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/Visual-Look-Up-Detecting-Two-Objects.PNG)
 
-![Visual Look Up Showing No results for two objects](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/Visual-Look-Up-Showing-No-results-for-two-objects.PNG)
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Visual Look Up Showing No results for two objects](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/Visual-Look-Up-Showing-No-results-for-two-objects.PNG)
 
 Close
 
  If you've taken a photo of the object on its own and your device still can't detect the object, the quality of the image may be a culprit. Check for lighting issues and glare before taking a photo, as you can greatly improve the accuracy of Visual Look Up if you [master how to take photos on an iPhone](https://www.makeuseof.com/tag/iphone-camera-settings/) .
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. You Aren't Connected to the Internet
 
  Siri requires an internet connection to fetch relevant data whenever you tap the**Visual Look Up** icon. You'll know your issue is a lack of internet connection when your device shows a Visual Look Up icon, but you get a**No Content Found** displayed in the results.
@@ -120,11 +118,12 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![Content Not Found after tapping Visual Look Up icon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/Content-Not-Found-after-tapping-Visual-Look-Up-icon.PNG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Close
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ## 5\. The Object Isn't Supported Yet
 
  Despite the constant updates the feature has received since its introduction alongside iOS 15, Visual Look Up is still largely dependent on [machine learning algorithms](https://www.makeuseof.com/tag/machine-learning-algorithms/) . It means that while the feature does get better over time, there's a chance it won't recognize the object you want to learn more about.
@@ -132,8 +131,9 @@ Close
  So, if you know that the item you're trying to learn about is supported, ensure that you try a different image from the internet because—as mentioned earlier—the first image you chose could also pose an issue, not letting Visual Look Up work.
 
 <!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. There May Be a Software Glitch
 
  Like other features on the iPhone, Visual Look Up may not work due to random errors. If none of the steps listed above help,[restart your iPhone](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) and check for new iOS updates to clear up the software bugs and other glitches that may be causing an error.
@@ -150,8 +150,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -159,4 +157,24 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/1715860074665-new-infinite-jest-joyride-top-kids-game-lineup/"><u>[New] Infinite Jest Joyride - Top Kids' Game Lineup!</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-ace-the-green-screen-scene-with-these-tips/"><u>[Updated] In 2024, Ace the Green Screen Scene with These Tips</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-spotlight-series-celebrating-top-10-game-bloggers-for-2024/"><u>[Updated] Spotlight Series Celebrating Top 10 Game Bloggers for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721460468933-cant-adjust-the-volume-on-your-iphone-fix-it-with-these-7-remedies/"><u>Can't Adjust the Volume on Your iPhone? Fix It with These 7 Remedies!</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-gmail-password-on-vivo-y200-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Vivo Y200 Devices</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-unlocking-youtube-studios-power-for-professional-edits/"><u>In 2024, Unlocking YouTube Studio's Power for Professional Edits</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721468033555-ios-update-issues-try-out-our-9-effective-remedies-today/"><u>IOS Update Issues? Try Out Our 9 Effective Remedies Today!</u></a></li>
+<li><a href="https://article-files.techidaily.com/master-iphones-multi-tasked-capture-feature/"><u>Master iPhone's Multi-Tasked Capture Feature</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/maximizing-views-on-tiktok-unboxing-content-for-2024/"><u>Maximizing Views on TikTok Unboxing Content for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721470583289-no-audio-on-your-apple-device-heres-what-you-can-do/"><u>No Audio on Your Apple Device? Here’s What You Can Do!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721462113834-overcome-these-6-prevalent-iphone-13-glitches-expert-fixing-guides-inside/"><u>Overcome These 6 Prevalent iPhone 13 Glitches - Expert Fixing Guides Inside!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721474710283-stuck-with-late-imessages-on-iphone-try-these-effective-methods-for-swift-communication/"><u>Stuck with Late iMessages on iPhone? Try These Effective Methods for Swift Communication.</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95782496-9781591439141-the-cosmic-code-book-vi/"><u>The Cosmic Code (Book VI) | Free Book</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-definitive-guide-to-repairing-missing-or-lost-steamdll-files/"><u>The Definitive Guide to Repairing Missing or Lost Steam.dll Files</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721463571995-top-6-solutions-when-apple-wont-accept-your-card-get-paid/"><u>Top 6 Solutions When Apple Won't Accept Your Card: Get Paid!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721471667281-tutorial-to-prevent-unwanted-switching-of-airpods-across-various-apple-devices/"><u>Tutorial to Prevent Unwanted Switching of AirPods Across Various Apple Devices</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721475566368-why-is-my-iphone-display-sticking-around-troubleshoot-and-fix-now/"><u>Why Is My iPhone Display Sticking Around? Troubleshoot & Fix Now</u></a></li>
+</ul></div>
 

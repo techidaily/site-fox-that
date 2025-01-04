@@ -1,7 +1,7 @@
 ---
 title: Unable to Install iOS Updates on iPhone/iPad? Here Are 9 Troubleshooting Steps
-date: 2024-08-15T11:59:11.718Z
-updated: 2024-08-16T11:59:11.718Z
+date: 2024-12-31T03:55:41.100Z
+updated: 2025-01-03T18:28:20.415Z
 tags:
   - iphone
   - apple
@@ -18,11 +18,19 @@ thumbnail: https://thmb.techidaily.com/d00f8f89497ceffd0abb3141cb4e3658817be8d65
 
  Let's look at some fixes that will help you get the latest system software running on your device properly. Here's how to fix your iPhone or iPad when it won't let you update iOS or iPadOS.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Charge Your iPhone or iPad
 
  Let's start with some basics before diving into more advanced troubleshooting. As you probably know, your iPhone won't let you upgrade if you don't have enough battery power. This is to prevent your device from shutting off in the middle of an update, which can cause serious problems.
 
 ![Photo of iPhone charging](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/iphone-on-charge.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Make sure you plug in your iPhone or iPad and have plenty of battery charge before starting the OS update. It's a good idea to leave it on the charger while the process runs, too. That way, if it takes longer than expected, your phone won't run out of power.
 
@@ -35,8 +43,9 @@ thumbnail: https://thmb.techidaily.com/d00f8f89497ceffd0abb3141cb4e3658817be8d65
  Look for your device name here. If you don't see it, your phone or tablet is too old to get the latest version. This is a [sign it's time to upgrade your iPhone](https://www.makeuseof.com/7-signs-its-time-to-upgrade-your-iphone/) .
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Wait a While Before Updating
 
  If you try to update to the latest version of iOS as soon as it comes out, you might run into trouble. Apple's servers go under heavy load when many thousands of people are trying to update all at once.
@@ -45,17 +54,22 @@ thumbnail: https://thmb.techidaily.com/d00f8f89497ceffd0abb3141cb4e3658817be8d65
 
  The update menu lets you schedule a system update to run overnight, when most people in your area won't be trying to update. Try that, and if it doesn't work either, wait a few days before giving it another shot.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Force-Restart Your Device
 
 ![iPhone in hand with Recovery Mode prompt showing](https://thmb.techidaily.com/f0b667ebcfe4598116d4b6654429dec8091fa0451fb3d4865d8f30f7e5a361bf.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  A one-off bug can prevent you from updating your iPhone. Restarting your phone will restart its processes and hopefully clear up any temporary glitches. If a normal shutdown and reboot of your phone doesn't work, follow our [guide to force-restarting your iPhone](https://www.makeuseof.com/tag/restart-iphone-recovery-mode/) to learn how to escalate this process on your specific device.
 
  Once you've done this successfully, you'll see your screen turn black. Afterward, an Apple logo will appear and you'll be greeted by your lock screen. Your device is now fully refreshed, so you can go ahead and try to update again.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ## 5\. Free Up Space on Your Device
 
  A lack of device storage is a common culprit for a faulty update process. Luckily, modern versions of iOS and iPadOS help you free up space easily. Here's how:
@@ -67,9 +81,6 @@ thumbnail: https://thmb.techidaily.com/d00f8f89497ceffd0abb3141cb4e3658817be8d65
 ![Tap iPhone Storage.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/10-select-iphone-storage.png)
 
 ![iPhone Storage App List](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/08/04a-iPhone-Storage-App-List.png)
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 Close
 
@@ -112,11 +123,6 @@ Let's look at what these do.
 
  After doing this, the update should install onto your device. If you have trouble, see [what to do when your iPhone won't connect to your computer](https://www.makeuseof.com/tag/iphone-wont-connect-to-computer/) .
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ## 7\. Delete Old Update Data (Including Beta Versions)
 
  If you try to install an iOS update and it fails, the update data sits on your device so you don't have to re-download it. But if there's something wrong with what you downloaded, you need to delete it to force your iPhone to run the update again.
@@ -126,14 +132,9 @@ The powerful video editing program for your Windows PC</a>
  Similarly, if you have installed beta system software on your device, try [uninstalling the beta version of iOS](https://www.makeuseof.com/tag/install-ios-beta/) before attempting the update again.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 8\. Check Your Network and Reset Network Settings
 
  If you can't update through iTunes or Finder, the next step is to take a look at your network connection. A slow or unreliable Wi-Fi connection means you may not be able to update properly, both on your iPhone and through your computer.
@@ -151,20 +152,18 @@ To reset network settings on your iPhone or iPad:
 
 ![iOS 15 General Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/01a-iOS-15-General-Settings.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![iOS 15 Reset Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/01b-iOS-15-Reset-Menu.png)
 
 ![iOS 15 Reset Network Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/01c-iOS-15-Reset-Network-Settings.png)
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 Close
 
  Once you reset your Wi-Fi configuration, reconnect to a strong Wi-Fi network and try the iOS update again.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 9\. Reset All Settings, Then Factory Reset
 
  If none of the above has fixed your problem, you should consider completely wiping your device. In the same**Reset** menu mentioned above, you can either reset all settings on your device or perform a factory reset to erase everything.
@@ -188,14 +187,8 @@ Here's how to factory reset your device:
 4. Walk through the steps, including entering your passcode to confirm.
 
 ![iOS 15 Reset Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/01b-iOS-15-Reset-Menu.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 ![iOS 15 Erase All](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/02a-iOS-15-Erase-All.png)
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Close
 
@@ -213,8 +206,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -222,4 +213,19 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-analyzing-ownership-rights-in-youtube-vs-freedom-of-use-in-cc/"><u>[New] Analyzing Ownership Rights in Youtube Vs. Freedom Of Use In CC</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-essential-5-online-video-capture-apps-for-2024/"><u>[New] Essential 5 Online Video Capture Apps for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-swap-periscope-leading-video-apps-for-iphoneandroid-devices/"><u>[Updated] Swap Periscope Leading Video Apps for iPhone/Android Devices</u></a></li>
+<li><a href="https://driver-download.techidaily.com/comprehensive-solutions-for-synaptics-device-driver-problems-in-microsofts-latest-operating-system/"><u>Comprehensive Solutions for Synaptics Device Driver Problems in Microsoft's Latest Operating System</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-zte-blade-a73-5gmirror-share-to-pc-drfone-by-drfone-android/"><u>How Can ZTE Blade A73 5GMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-crafting-a-winning-edge-mastering-keywords-in-digital-marketing/"><u>In 2024, Crafting a Winning Edge Mastering Keywords in Digital Marketing</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-itel-s23plus-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Itel S23+ Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721463002122-iphone-volume-buttons-failing-to-function-apply-these-7-fixes-now/"><u>IPhone Volume Buttons Failing to Function? Apply These 7 Fixes Now</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721454226068-trouble-with-iphone-cloud-syncing-discover-9-tactics-to-restore-your-icloud-backups/"><u>Trouble with iPhone Cloud Syncing? Discover 9 Tactics to Restore Your iCloud Backups!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721475399343-unable-to-link-up-with-vpn-on-iphone-try-these-7-proven-fixes-today/"><u>Unable to Link Up With VPN on iPhone? Try These 7 Proven Fixes Today</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721476462821-unlock-the-secrets-to-restoring-sms-functionality-on-your-iphone-top-tips-revealed/"><u>Unlock The Secrets to Restoring SMS Functionality On Your iPhone - Top Tips Revealed</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/king-iphones-loop-functionality-for-2024/"><u>Unlocking iPhone's Loop Functionality for 2024</u></a></li>
+</ul></div>
 

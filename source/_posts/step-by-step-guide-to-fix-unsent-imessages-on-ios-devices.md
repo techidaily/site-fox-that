@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to Fix Unsent iMessages on iOS Devices
-date: 2024-12-20T17:04:38.697Z
-updated: 2024-12-25T18:10:51.196Z
+date: 2024-12-28T06:56:28.102Z
+updated: 2025-01-03T20:03:17.752Z
 tags:
   - iphone
   - apple
@@ -31,10 +31,6 @@ thumbnail: https://thmb.techidaily.com/0de73caf3bb5c02daed1ee386cf09afb53bbd23f4
 
  Not everyone has this feature activated either. You can toggle read receipts for yourself by going to**Settings > Messages > Send Read Receipts** , where you can turn this function on or off. In fact, this subsection of Settings is essential if you have issues with iMessage.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Why Does iMessage Say "Delivered" When It's Not?
 
  Sometimes, a message will say it's Delivered, but the recipient will insist they never got it. Don't automatically think they're lying: there are many reasons this might happen. It could be a quirk of iMessage, but it could also be that the message was delivered to another device.
@@ -55,10 +51,6 @@ So, what does it mean when an iMessage doesn't say Delivered?
 
  If you normally receive read receipts from your contact, or it shows Delivered, but you don't have a reply, there's another possibility. Their device might be**set to Do Not Disturb** , which silences alerts. If it's an emergency, call them instead. At first, you won't get a response. But call again within three minutes and, if your contact hasn't changed the default settings, your repeated call will bypass Do Not Disturb mode.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## iMessages Won't Deliver: Troubleshooting
 
  It's tough to narrow down why iMessages won't deliver without some trial and error. One of the following solutions should work. You may have to try them all to get to the bottom of the problem.
@@ -71,6 +63,10 @@ So, what does it mean when an iMessage doesn't say Delivered?
 
  Review the options at**Settings > Cellular** (or**Mobile Data**) if you're relying on roaming. If you do have service, you'll simply have to wait until the recipient connects too.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Do You Have iMessage Turned On?
 
 ![iphone imessages won't deliver if this is turned off](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/03/iMessages-off.jpg)
@@ -81,10 +77,6 @@ Close
 
  This could be a quick fix to your problem that's easy to overlook. Navigate to**Settings > Messages** .[iMessage should already be turned on](https://www.makeuseof.com/how-to-activate-imessage/) ; if not, alter this now. Even if iMessage is already on, it's worth toggling off then back on again. Wait a few moments while it reactivates.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Send as SMS Instead of iMessage
 
  If the person you're contacting doesn't have an Apple product, iMessage won't work. You need to rely on SMS to send to Android devices, for example. In these instances, your messages will say Sent as Text Message, not Delivered, and appear in green bubbles.
@@ -94,10 +86,6 @@ Close
  iPhones default to iMessage when chatting between Apple devices. Messages will only send as traditional texts if there's no internet. You can't disable iMessage on cellular data while keeping it enabled for Wi-Fi connections—it's an all-or-nothing service. However, iMessage may fail to send if you've exceeded your cellular data limit.
 
  You can resend a message via SMS if it reads Not Delivered by tapping on the exclamation point next to the message. Alternatively, switch to another popular messaging app. Major options like WhatsApp and Telegram work on all platforms and offer [secure (and sometimes encrypted) messaging](https://www.makeuseof.com/best-encrypted-messaging-apps-android-ios/) . Of course, the recipient has to have the same app installed...
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Try a Force Restart
 
@@ -111,16 +99,24 @@ Close
 
  This will automatically check if your software is updated and, if not, suggest an installation. You won't lose any photos or messages, although some apps may ask you to log in again after updating.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Apple ID: Sign Out and Back In
 
  This is one of the most common fixes for iMessage troubles: you just need to sign out of your Apple ID and back in again. Go to**Settings > Messages > Send & Receive** and tap your ID. You should then**Sign Out** , after which all your details, except the phone number, will disappear. Select**Use your Apple ID for iMessage** and sign back in. This may take a few moments.
 
 ![iphone cell number and email address](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/03/iMessage-send-and-receive.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![send and receive from phone number and email address](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/03/Apple-ID.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Close
@@ -130,7 +126,7 @@ Close
  To add an email address, go to**Contacts** , select a name, and choose**Edit** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Should You Delete Previous Messages?
@@ -143,10 +139,14 @@ Close
 
 ![hold sms imessage to delete](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/03/text-options.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![mass delete sms imessages](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/03/select-text-messages.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Close
@@ -167,15 +167,15 @@ Close
 
  Go to**Settings > General > Reset > Reset All Settings** —careful you don't select anything else, as there's also the option to erase everything. You may need to sign back into your Apple ID afterwards. This should patch any Settings-related glitches, so it's worth remembering in case you have further issues with your iPhone.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## iMessage Won't Deliver: Is My Phone Number Blocked?
 
  Don't immediately think that someone's blocked you. In most situations, your number won't be blocked. However, it's a possibility. If you have been blocked, iMessage could still say Delivered. Nonetheless, it won't actually appear on the recipient's device.
 
  This thought will trouble you, but if you can contact that person elsewhere (on Facebook, Twitter, or Snapchat, for example), then they're unlikely to have blocked your phone number.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Why Is My iMessage Still Not Delivering?
 
@@ -198,22 +198,20 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-step-into-professionalism-aiseesofts-screen-recording-made-accessible-for-2024/"><u>[New] Step Into Professionalism Aiseesoft's Screen Recording Made Accessible for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ransform-spaceships-into-trees-youtubes-green-secrets-revealed/"><u>[New] Transform Spaceships Into Trees – Youtube’s Green Secrets Revealed</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-the-art-and-science-of-enhancing-visual-appeal-with-adobes-look-up-tables-luts/"><u>[Updated] The Art and Science of Enhancing Visual Appeal with Adobe's Look-Up Tables (LUTs)</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/efficiency-and-performance/"><u>Efficiency and Performance</u></a></li>
-<li><a href="https://win11.techidaily.com/efficiently-setting-up-your-computers-startup-routines-in-win11/"><u>Efficiently Setting Up Your Computer's Startup Routines in Win11</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-fix-a-splash-damaged-iphone-clearing-out-the-speakers/"><u>How to Fix a Splash-Damaged iPhone: Clearing Out the Speakers</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-resolve-iphone-and-ipad-wi-fi-connection-issues-top-8-solutions/"><u>How to Resolve iPhone & iPad Wi-Fi Connection Issues: Top 8 Solutions</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-xiaomi-redmi-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Xiaomi Redmi 12 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/locating-your-missing-facetime-images-a-step-by-step-guide/"><u>Locating Your Missing FaceTime Images: A Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-that.techidaily.com/lost-an-iphone-app-follow-this-simple-troubleshooting-technique-to-recover-it/"><u>Lost an iPhone App? Follow This Simple Troubleshooting Technique to Recover It</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-effortless-video-transfer-how-to-import-and-export-in-adobe-premiere-2023/"><u>New 2024 Approved Effortless Video Transfer How to Import and Export in Adobe Premiere 2023</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quick-and-easy-ways-to-speed-up-a-lagging-keyboard-response/"><u>Quick & Easy Ways to Speed Up a Lagging Keyboard Response</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solving-the-issue-of-airpods-auto-switching-among-apple-gadgets-easily/"><u>Solving the Issue of AirPods Auto-Switching Among Apple Gadgets Easily</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solving-wi-fi-connection-problems-on-iphone-and-ipad-the-ultimate-8-fix-guide/"><u>Solving Wi-Fi Connection Problems on iPhone and iPad: The Ultimate 8 Fix Guide</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/the-complete-guide-to-audio-editing-in-audacity-made-simple/"><u>The Complete Guide to Audio Editing in Audacity, Made Simple</u></a></li>
-<li><a href="https://fox-that.techidaily.com/top-7-factors-causing-sluggish-wi-fi-connectivity-on-mobile-devices/"><u>Top 7 Factors Causing Sluggish Wi-Fi Connectivity on Mobile Devices</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-tips-drying-out-wet-iphone-speaker-grilles/"><u>Troubleshooting Tips: Drying Out Wet iPhone Speaker Grilles</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-mastering-distance-remote-podcast-broadcast-for-2024/"><u>[New] Mastering Distance Remote Podcast Broadcast for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-mirthful-melodies-smart-picks-for-funny-phone-tones/"><u>[Updated] Mirthful Melodies Smart Picks for Funny Phone Tones</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/imoviedvd/"><u>最新iMovieガイド：DVDプレイヤー対応版の読み込みテクニック</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-vivo-y78plus-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Vivo Y78+ Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/correctly-identifying-individuals-a-step-by-step-guide-to-managing-mistakes-in-apple-photos/"><u>Correctly Identifying Individuals: A Step-by-Step Guide to Managing Mistakes in Apple Photos</u></a></li>
+<li><a href="https://win11.techidaily.com/dive-into-the-world-of-windows-11-the-taskbar-search-basics/"><u>Dive Into the World of Windows 11: The Taskbar Search Basics</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-toms-pc-world-a-comprehensive-resource/"><u>Exploring Tom's PC World: A Comprehensive Resource</u></a></li>
+<li><a href="https://fox-that.techidaily.com/identifying-and-fixing-the-issue-of-arbitrary-websites-showing-in-iphones-screen-time-data/"><u>Identifying and Fixing the Issue of Arbitrary Websites Showing in iPhones’ Screen Time Data</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-huawei-p60-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Huawei P60? | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-proven-methods-for-clear-rl-stream-quality/"><u>In 2024, Proven Methods for Clear RL Stream Quality</u></a></li>
+<li><a href="https://fox-that.techidaily.com/navigate-through-six-top-issues-affecting-your-iphoneipad-keyboard-functionality-today/"><u>Navigate Through Six Top Issues Affecting Your iPhone/iPad Keyboard Functionality Today!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-issues-with-apples-payment-gateway-a-guide-of-six-fixes/"><u>Overcoming Issues with Apple's Payment Gateway: A Guide of Six Fixes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-siri-issues-fixing-7-common-glitches-on-iphone-and-ipad/"><u>Solving Siri Issues: Fixing 7 Common Glitches on iPhone and iPad</u></a></li>
+<li><a href="https://fox-that.techidaily.com/soundless-airpod-woes-discover-these-essential-fixes/"><u>Soundless AirPod Woes? Discover These Essential Fixes!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-a-disabled-ios-device-how-to-regain-access-quickly/"><u>Troubleshooting a Disabled iOS Device: How to Regain Access Quickly</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Resolving WhatsApp & iCloud Backup Issues – Step-by-Step Guide
-date: 2024-08-15T11:59:20.340Z
-updated: 2024-08-16T11:59:20.340Z
+date: 2024-12-28T22:54:27.465Z
+updated: 2025-01-03T19:15:13.306Z
 tags:
   - iphone
   - apple
@@ -22,11 +22,23 @@ thumbnail: https://thmb.techidaily.com/aa8194d30133846c30b69d3fa6b3aa7f371a45347
 
 ![name in iphone settings-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/name-in-iphone-settings-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![icloud settings in iphone settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/icloud-settings-in-iphone-settings.jpg)
 
 ![show all option in icloud iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/show-all-option-in-icloud-iphone.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![apps using icloud in iphone settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/apps-using-icloud-in-iphone-settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -36,25 +48,17 @@ Close
 2. In the Section,**Apps Using iCloud** , and select**Show All** .
 3. Scroll down and**toggle** **on** the switch right next to**WhatsApp** . If it is already on, consider switching it off and then on again.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Make Sure You Have Free Space Available
 
 ![chat backup option in whatsapp](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/chat-backup-option-in-whatsapp.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![chats section in whatsapp](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/chats-section-in-whatsapp.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 
 ![Whatsapp chat backup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/whatsapp-chat-backup.jpg)
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Close
 
@@ -71,11 +75,12 @@ To check your available iCloud storage space:
 3. If the backup size is larger than the space available on your iCloud, go to**Manage Account Storage** . Here you can review any large files and delete them. You can even [upgrade your iCloud storage](https://www.makeuseof.com/how-to-upgrade-icloud-storage/) if additional space is required.
 
 ![icloud settings in iphone settings-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/icloud-settings-in-iphone-settings-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 
 ![manage account storage option in iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/manage-account-storage-option-in-iphone.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -96,23 +101,18 @@ Here's how you can do that:
 
  While not necessary, consider keeping WhatsApp open during this manual backup. This means not swiping the WhatsApp page up in the app switcher. You may use other apps or put your iPhone to sleep during this time though.
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Check the iCloud Server Status
 
 ![Apple server status](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/apple-server-status.jpeg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Sometimes, the issue may not be with your device or with WhatsApp, but rather with iCloud services. Visit the [Apple System Status](https://www.apple.com/support/systemstatus/) page to see whether iCloud servers are down or having server issues.
 
  If the circle beside**iCloud Backup** isn't green, consider backing up WhatsApp once it is working again.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Restart Your iPhone
 
  Restarting your iPhone will fix a number of software-related issues, including those involving iCloud backups.
@@ -154,16 +154,18 @@ To do this, follow these steps:
  You can always turn this switch back on to re-include WhatsApp videos in your iCloud backup.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 8\. Delete the Existing iCloud Backup
 
 ![whatsapp messenger section in icloud settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/whatsapp-messenger-section-in-icloud-settings.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 
 ![whatsapp data in icloud](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/whatsapp-data-in-icloud.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -173,6 +175,10 @@ Close
 2. Tap**WhatsApp Messenger** .
 3. Tap**Delete Data from iCloud**
 4. Once the backup has been deleted, return to WhatsApp and start a fresh backup.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Seamless WhatsApp Backups Can Give You Peace of Mind
 
@@ -186,8 +192,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -195,4 +199,24 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-beginners-guide-to-periscope-live-streaming/"><u>[New] In 2024, Beginner's Guide to Periscope Live Streaming</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-the-newest-vr-cam-face-off-hero5-and-yis-latest-battle/"><u>[New] In 2024, The Newest VR Cam Face-Off Hero5 and Yi's Latest Battle</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-best-of-the-best-pcmac-screen-recorder-software-for-2024/"><u>[Updated] Best of the Best PC/Mac Screen Recorder Software for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/3-simplified-ways-to-save-lenovo-screenshots/"><u>3 Simplified Ways to Save Lenovo Screenshots</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/customize-your-experience-with-cookiebot-technology-integration/"><u>Customize Your Experience with Cookiebot Technology Integration</u></a></li>
+<li><a href="https://win-forum.techidaily.com/efficient-techniques-for-forcibly-closing-stubborn-windows-applications/"><u>Efficient Techniques for Forcibly Closing Stubborn Windows Applications</u></a></li>
+<li><a href="https://fox-that.techidaily.com/get-a-lightning-fast-safari-browser-on-your-iphone-using-these-easy-4-techniques/"><u>Get a Lightning-Fast Safari Browser on Your iPhone Using These Easy 4 Techniques</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-easily-set-up-and-use-bluetooth-on-your-iphone-a-step-by-step-tutorial/"><u>How to Easily Set Up and Use Bluetooth on Your iPhone: A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-effortlessly-overcome-iphone-slide-album-challenges-with-these-8-essential-hacks/"><u>How to Effortlessly Overcome iPhone Slide Album Challenges with These 8 Essential Hacks</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-asus-by-fonelab-android-recover-call-logs/"><u>How To Restore Missing Call Logs from Asus</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/how-to-speed-up-video-on-instagram-for-2024/"><u>How to Speed Up Video on Instagram for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-capture-creativity-iosandroids-best-caption-apps/"><u>In 2024, Capture Creativity IOS/Android’s Best Caption Apps</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-safari-not-working-heres-what-you-can-do-in-10-simple-steps/"><u>IPhone Safari Not Working? Here's What You Can Do in 10 Simple Steps</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-the-issue-why-your-airpods-arent-seamlessly-connecting-across-apple-gadgets/"><u>Solving the Issue: Why Your AirPods Aren't Seamlessly Connecting Across Apple Gadgets</u></a></li>
+<li><a href="https://fox-that.techidaily.com/struggling-with-iphones-auto-brightness-try-these-7-methods/"><u>Struggling with iPhone's Auto-Brightness? Try These 7 Methods</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-tips-what-to-do-if-apple-refuses-your-payment-card/"><u>Troubleshooting Tips: What To Do If Apple Refuses Your Payment Card</u></a></li>
+<li><a href="https://fox-that.techidaily.com/ultimate-guide-changing-your-screen-time-password-on-ios-and-macos-devices/"><u>Ultimate Guide: Changing Your Screen Time Password on iOS & macOS Devices</u></a></li>
+</ul></div>
 

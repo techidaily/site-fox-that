@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Cross-Platform SMS Problems: Help for iPhones That Don't Get Android Texts"
-date: 2024-08-15T12:01:20.813Z
-updated: 2024-08-16T12:01:20.813Z
+date: 2024-12-31T03:41:21.328Z
+updated: 2025-01-03T23:11:04.380Z
 tags:
   - iphone
   - apple
@@ -32,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/5b3e332fa51492af21abf18ef33b574cc8cc90610
 
 ![mms messages](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/mms-messages.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This is the most common fix for this issue, but if this doesn't work, there are still several more fixes you can try.
 
 ## 2\. Make Sure the Number Isn't Blocked
@@ -42,11 +46,16 @@ thumbnail: https://thmb.techidaily.com/5b3e332fa51492af21abf18ef33b574cc8cc90610
 
 ![blocked numbers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/blocked-numbers.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you don't have the number in question blocked, try moving on to the next step. Speaking of blocking, is there someone you want to mute notifications from and not block? If so, you can [mute text message notifications from someone on your iPhone](http://www.makeuseof.com/how-to-mute-text-message-notifications-person-iphone/) .
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Delete All Your Old Text Messages
 
  If you have too many text messages on your iPhone, you might miss additional messages due to inadequate storage. If you haven't deleted text messages in a while or get low-storage notifications on your iPhone, deleting old messages can help.
@@ -54,22 +63,21 @@ thumbnail: https://thmb.techidaily.com/5b3e332fa51492af21abf18ef33b574cc8cc90610
  To delete messages, head to the Messages app and tap**Edit** \>**Select Messages** and delete any messages you don't need.
 
 ![select messages](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/select-messages.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once you delete these messages, try to get someone with an Android phone to send you another text message. If you receive it, then this was the issue, and you're good to go. If not, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Update Your Carrier Settings
 
 ![carrier settings about](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/carrier-settings-about.jpg)
 
-![carrier update page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/carrier-update-page.jpg)
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+![carrier update page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/carrier-update-page.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Close
@@ -81,9 +89,6 @@ Close
 ## 5\. Reset Your iPhone's Network Settings
 
 ![iPhone reset page in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/iphone-reset-page.jpg)
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![iphone choose reset](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/iphone-choose-reset.jpg)
 
@@ -97,9 +102,6 @@ Close
 
  You can also [reset your iPhone to factory settings](https://www.makeuseof.com/tag/how-to-factory-reset-iphone-ipad/) , but remember that it erases all the data on your device.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ## 6\. Contact Your Carrier
 
  If the above fixes weren't helpful in your case, you should contact your carrier to see if there's an issue with your cellular service. After all, your mobile network provider might have some information about why your iPhone isn't receiving text messages.
@@ -122,8 +124,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -131,4 +131,24 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://pokemon-go-android.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-realme-narzo-60-5g-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Realme Narzo 60 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/breeze-through-troubleshooting-the-ultimate-guide-to-common-apple-pay-fixes/"><u>Breeze Through Troubleshooting: The Ultimate Guide to Common Apple Pay Fixes</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-ultimate-educational-tools-top-10-apps-for-your-teens-success/"><u>Discover the Ultimate Educational Tools: Top 10 Apps for Your Teen's Success</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721468869423-experiencing-tardy-sms-notifications-on-iphone-discover-9-reliable-remedies-now/"><u>Experiencing Tardy SMS Notifications on iPhone? Discover 9 Reliable Remedies Now!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721460052462-fixing-subscription-share-problems-in-family-sharing-top-6-tips/"><u>Fixing Subscription Share Problems in Family Sharing - Top 6 Tips</u></a></li>
+<li><a href="https://fox-that.techidaily.com/four-easy-solutions-to-restore-active-icloud-settings-on-iphoneipad/"><u>Four Easy Solutions to Restore Active iCloud Settings on iPhone/iPad</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/guide-on-how-to-change-your-apple-id-email-address-on-iphone-12-mini-by-drfone-ios/"><u>Guide on How To Change Your Apple ID Email Address On iPhone 12 mini</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721474170629-icloud-sync-errors-demystified-effective-solutions-inside/"><u>ICloud Sync Errors Demystified - Effective Solutions Inside</u></a></li>
+<li><a href="https://fox-that.techidaily.com/identifying-and-fixing-event-disappearance-problems-within-apples-calendar-app/"><u>Identifying and Fixing Event Disappearance Problems Within Apple's Calendar App</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-game-of-thrones-ringtones-premier-download-websites-ranked/"><u>In 2024, Game of Thrones Ringtones Premier Download Websites Ranked</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-on-apple-iphone-14-pro-max-with-or-without-password-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID on Apple iPhone 14 Pro Max With or Without Password</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-screenplay-central-user-feedback-summary/"><u>In 2024, Screenplay Central - User Feedback Summary</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/score-an-amazing-sale-get-your-8tb-samsung-t5-ssd-for-up-to-36-less-post-prime-day-news/"><u>Score an Amazing Sale: Get Your 8TB Samsung T5 SSD for Up to 36% Less Post-Prime Day News</u></a></li>
+<li><a href="https://fox-that.techidaily.com/trouble-installing-iphone-applications-here-are-10-effective-remedies/"><u>Trouble Installing iPhone Applications? Here Are 10 Effective Remedies</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-guide-to-the-alpaka-go-sling-a-must-have-carrying-case-for-ipad-fans/"><u>Ultimate Guide to the Alpaka Go Sling: A Must-Have Carrying Case for iPad Fans</u></a></li>
+<li><a href="https://fox-that.techidaily.com/uncomfortable-sound-fluctuations-in-airpods-fix-it-by-deactivating-dynamic-ear-movement-sensors/"><u>Uncomfortable Sound Fluctuations in AirPods? Fix It by Deactivating Dynamic Ear Movement Sensors</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210840498-9781960892034-who-you-callin-crazy/"><u>Who You Callin' Crazy?! | Free Book</u></a></li>
+</ul></div>
 

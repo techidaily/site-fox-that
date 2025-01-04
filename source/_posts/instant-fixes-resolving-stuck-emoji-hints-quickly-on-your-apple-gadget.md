@@ -1,7 +1,7 @@
 ---
 title: "Instant Fixes: Resolving Stuck Emoji Hints Quickly on Your Apple Gadget"
-date: 2024-08-15T12:00:24.334Z
-updated: 2024-08-16T12:00:24.334Z
+date: 2025-01-01T23:05:02.447Z
+updated: 2025-01-03T23:17:05.201Z
 tags:
   - iphone
   - apple
@@ -35,18 +35,13 @@ thumbnail: https://thmb.techidaily.com/526c473a4f2f84c7776ce16d41fe4812db866e7d1
  First, check if you have the Emoji keyboard enabled on your device. Head to **Settings > General > Keyboard > Keyboards > Add a New Keyboard** , then find and select**Emoji** .
 
 ![Add New Keyboard in iPhone General Settings.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/3-add-new-keyboard-in-iphone-general-settings.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 
  Now, make sure the**Predictive** function is enabled. Go back to**Settings > General > Keyboard** , then scroll down and enable the**Predictive** toggle.
 
 ![Predictive option enabled in iPhone settings.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/4-predictive-option-enabled-in-iphone-settings.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Switch to Apple's English Keyboard
@@ -56,9 +51,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  To do this, tap and hold the**Emoji** or**Globe** icon in the bottom-left corner of your keyboard, then select the**English** keyboard.
 
 ![Selecting English keyboard on an iPhone.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/5-selecting-english-keyboard-on-an-iphone.jpg)
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Make sure the keyboard language matches what you're typing, otherwise it won't know which emojis to predict.
 
@@ -69,32 +61,33 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  You need to let your iPhone or iPad know that you like using emojis for it to start predicting them. To do that, open the app that doesn't show you predictive emojis and tap the**Emoji** icon in the bottom-left corner to select the**Emoji** keyboard.
 
 ![Emoji keyboard on an iPhone.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/6-emoji-keyboard-on-an-iphone.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now start typing random emojis. They don't need to make sense, but you need to add enough of them to teach your device that you like using emojis in this app. It could take 20 or more emojis.
 
 ![Typing random emojis on an iPhone.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/7-typing-random-emojis-on-an-iphone.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now delete all the content you just typed and check if Predictive Emoji is working by typing a word like "puppy," "candy," or "haha." You should see emoji suggestions above the keyboard.
 
 ![Predictive Emoji showing laughing options.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/8-predictive-emoji-showing-laughing-options.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You should repeat this process for every app where predictive emoji is not working.
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Reset Your Keyboard Dictionary
 
  If predictive emojis still aren't working, you should try resetting your keyboard dictionary. This will make your iPhone or iPad forget any words you've taught it, so you may need to [fix autocorrect errors on your Apple devices](https://www.makeuseof.com/tag/fix-bad-autocorrect-entries-train-iphone-spell-properly/) again. But it will also give you a clean slate to teach your device that you like using emojis again.
@@ -111,26 +104,27 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
 ![Deleting Emoji keyboard on an iPhone.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/10-deleting-emoji-keyboard-on-an-iphone.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Tap**Add New Keyboard** , then select**Emoji** to add it again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Restart Your iPhone or iPad
 
  If everything else seems to fail, you should try [restarting your iPhone](http://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) or iPad. Sometimes, a simple reboot can clear up issues and bugs, which may be enough to solve the problem.
 
 ![Slide to power off option on iPhone.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/11-slide-to-power-off-option-on-iphone.jpg)
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Update Your Software
 
  Apple does its best to improve your iPhone and iPad software with every update. These updates include fixing common bugs that pester users, like when the Predictive Emoji feature stops working. To update your software to the latest version of iOS or iPadOS, head to**Settings > General > Software Update** .
 
 ![Checking for update on iPhone.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/12-checking-for-update-on-iphone.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 
  If your software is out of date, you'll see a**Download and Install** button at the bottom of the screen. Tap it and follow the prompts to complete the update.
 
@@ -144,8 +138,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -153,4 +145,20 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/updated-perfecting-the-look-a-guide-to-haul-video-post-production-for-2024/"><u>[Updated] Perfecting the Look A Guide to Haul Video Post-Production for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/addressing-location-not-available-errors-a-step-by-step-guide-to-get-your-iphone-back-online/"><u>Addressing 'Location Not Available' Errors: A Step-by-Step Guide to Get Your iPhone Back Online</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fix-a-broken-face-id-on-your-iphone-with-this-list-of-14-quick-solutions/"><u>Fix a Broken Face ID on Your iPhone with This List of 14 Quick Solutions</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-poco-x6-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Poco X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-fresh-perspectives-on-logo-design-for-podcast-brands/"><u>In 2024, Fresh Perspectives on Logo Design for Podcast Brands</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-setting-up-audacity-for-effective-mac-based-sound-capture/"><u>In 2024, Setting Up Audacity for Effective Mac-Based Sound Capture</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlock-image-potential-10plus-lut-samples-some-at-zero-cost/"><u>In 2024, Unlock Image Potential 10+ LUT Samples, Some at Zero Cost</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-touchscreen-troubleshooting-discover-the-seven-reasons-for-lack-of-response/"><u>IPhone Touchscreen Troubleshooting: Discover the Seven Reasons for Lack of Response</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolve-iphone-control-center-problems-with-these-8-easy-steps/"><u>Resolve iPhone Control Center Problems with These 8 Easy Steps</u></a></li>
+<li><a href="https://fox-that.techidaily.com/revitalize-your-iphone-how-restoring-network-preferences-can-resolve-various-problems/"><u>Revitalize Your iPhone: How Restoring Network Preferences Can Resolve Various Problems</u></a></li>
+<li><a href="https://fox-that.techidaily.com/struggling-to-store-your-data-in-icloud-from-iphone-try-these-9-fixes/"><u>Struggling to Store Your Data in iCloud From iPhone? Try These 9 Fixes</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-art-of-composing-steam-reviews-tips-and-tricks/"><u>The Art of Composing Steam Reviews: Tips & Tricks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unravel-the-mysteries-of-your-windows-10-activity-archive/"><u>Unravel the Mysteries of Your Windows 10 Activity Archive</u></a></li>
+</ul></div>
 
