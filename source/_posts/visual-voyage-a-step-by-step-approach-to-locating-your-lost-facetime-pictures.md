@@ -1,7 +1,7 @@
 ---
 title: "Visual Voyage: A Step-by-Step Approach to Locating Your Lost FaceTime Pictures"
-date: 2024-12-29T19:13:38.420Z
-updated: 2025-01-03T18:01:40.159Z
+date: 2025-01-07T21:59:58.110Z
+updated: 2025-01-11T01:28:27.571Z
 tags:
   - iphone
   - apple
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/8852f9f0dff99dd98034c53ca9e7b84a75b979ac3
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Where Do FaceTime Live Photos Go?
@@ -72,7 +72,7 @@ Close
  Alternatively, hit**Cmd + Shift + 3** to take a screenshot of your entire screen. Aside from these two options, there are other [ways to take screenshots on your Mac](https://www.makeuseof.com/tag/how-to-take-a-screenshot-on-a-mac/) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Enable Live Photos in Your FaceTime Settings
@@ -82,10 +82,6 @@ Close
  On an iPhone, iPad, or iPod touch, go to**Settings > FaceTime** . Scroll down and turn on**FaceTime Live Photos** .
 
 ![iOS Settings menu FaceTime selected](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ios-settings-menu-facetime-selected.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![FaceTime Live Photos toggle enabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/facetime-live-photos-toggle-enabled.jpg)
 
@@ -108,7 +104,11 @@ Close
 ![Photos app on an iPhone Home Screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/share-shared-albums-with-non-apple-users.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Update to the Latest Operating System
@@ -120,22 +120,18 @@ Close
 ![Software update available in macOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/software-update-macos-settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Install any updates that are available there by clicking**Update Now** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Restart Your Device
 
  No matter what [FaceTime problem you're encountering](https://www.makeuseof.com/tag/facetime-not-working/) , you should always try to fix it by restarting your device. This is a remarkably effective troubleshooting step that only takes a moment to try out. Power off your iPhone, iPad, or Mac as you usually would, then wait 30 seconds before restarting it again.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 5\. Restart FaceTime on Your Device
 
@@ -145,15 +141,19 @@ Close
 
 ![iOS Settings menu FaceTime selected](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ios-settings-menu-facetime-selected.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![FaceTime enabled in iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/facetime-enabled-ios-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
  On a Mac, open the**FaceTime** app and go to**FaceTime > Settings** from the menu bar. In the**Settings** tab, uncheck the box for**Enable this account** , then check the box again to re-enable FaceTime.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Revisit Your FaceTime Photos on iPhone, iPad and Mac
 
@@ -176,20 +176,24 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-that.techidaily.com/avoid-blurry-photos-on-ios-solve-the-seven-major-iphone-camera-malfunctions-with-ease/"><u>Avoid Blurry Photos on iOS: Solve the Seven Major iPhone Camera Malfunctions with Ease</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/crafting-success-in-an-algorithmically-augmented-world/"><u>Crafting Success in an Algorithmically Augmented World</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1723002831139-eliminate-fallout-4-stutters-with-these-pro-solutions/"><u>Eliminate Fallout 4 Stutters with These Pro Solutions</u></a></li>
-<li><a href="https://fox-that.techidaily.com/enhance-photo-clarity-discover-the-seven-secrets-to-perfecting-your-iphones-camera-quality/"><u>Enhance Photo Clarity: Discover the Seven Secrets to Perfecting Your iPhone's Camera Quality</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fixing-an-unresponsive-home-button-on-your-iphone-effective-solutions-in-five-steps/"><u>Fixing an Unresponsive Home Button on Your iPhone: Effective Solutions in Five Steps</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-locate-a-missing-iphone-app-tips-and-tricks-for-users/"><u>How to Locate a Missing iPhone App: Tips & Tricks for Users</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-fresh-film-views-ranked-alternatives-1-7/"><u>In 2024, Fresh Film Views Ranked Alternatives #1-7</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-revolutionary-wraps-transforming-virtual-reality-play/"><u>In 2024, Revolutionary Wraps Transforming Virtual Reality Play</u></a></li>
-<li><a href="https://fox-that.techidaily.com/iphone-touchscreen-troubles-discover-7-key-factors-behind-it/"><u>IPhone Touchscreen Troubles? Discover 7 Key Factors Behind It</u></a></li>
-<li><a href="https://fox-that.techidaily.com/navigate-with-ease-a-guide-to-the-8-best-iphone-features-for-visual-difficulties/"><u>Navigate with Ease: A Guide to the 8 Best iPhone Features for Visual Difficulties</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-unlock-free-sound-effects-a-step-by-step-guide-for-final-cut-pro-users/"><u>New Unlock Free Sound Effects A Step-by-Step Guide for Final Cut Pro Users</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/octobers-ultimate-virtual-reality-bargain-metas-512gb-quest-3-offers-unbeatable-value-this-prime-day-insights-from-zdnet/"><u>October's Ultimate Virtual Reality Bargain: Meta's 512GB Quest 3 Offers Unbeatable Value This Prime Day – Insights From ZDNet</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/salmonella-spp/"><u>Salmonella Spp.</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/cket-engagement-with-youtubes-powerful-featured-channels-strategy-for-2024/"><u>Skyrocket Engagement with Youtube’s Powerful Featured Channels Strategy for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/understanding-the-common-culprits-behind-slow-wireless-connections-for-smartphones/"><u>Understanding the Common Culprits Behind Slow Wireless Connections for Smartphones</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-unveiling-profits-how-much-do-creators-earn-from-each-ad/"><u>[New] 2024 Approved Unveiling Profits How Much Do Creators Earn From Each Ad?</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-dive-into-high-quality-audio-7-royalty-free-selections-for-2024/"><u>[Updated] Dive Into High-Quality Audio 7 Royalty-Free Selections for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-elevate-your-visual-content-perfectly-place-icons-and-emojis-on-instagram-for-2024/"><u>[Updated] Elevate Your Visual Content Perfectly Place Icons & Emojis on Instagram for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-how-to-effortlessly-access-and-apply-instagrams-best-filters-for-2024/"><u>[Updated] How to Effortlessly Access and Apply Instagram's Best Filters for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/comprehensive-suite-of-business-plugins-and-slide-show-ideas/"><u>Comprehensive Suite of Business Plugins and Slide Show Ideas</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/cracking-the-code-knowing-your-posts-spectators-on-instagram/"><u>Cracking The Code Knowing Your Post's Spectators on Instagram</u></a></li>
+<li><a href="https://fox-that.techidaily.com/defrosting-dilemma-solved-unfreezing-your-iphone-easily/"><u>Defrosting Dilemma Solved: Unfreezing Your iPhone Easily</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-glitchy-airpod-audio-issues-the-ultimate-10-tips-for-quiet-and-crackling-free-sound/"><u>Fixing Glitchy AirPod Audio Issues: The Ultimate 10 Tips for Quiet and Crackling-Free Sound</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-15-apps-to-hack-wifi-password-on-xiaomi-by-drfone-android/"><u>In 2024, Top 15 Apps To Hack WiFi Password On Xiaomi</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721479388504-iphone-alarm-issues-heres-how-to-make-it-work-perfectly/"><u>IPhone Alarm Issues? Here’s How to Make It Work Perfectly</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/overcoming-zoom-camera-troubleshooting-challenges-effectively/"><u>Overcoming Zoom Camera Troubleshooting Challenges Effectively</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-pictures-from-smart-8-plus-by-fonelab-android-recover-pictures/"><u>Possible solutions to restore deleted pictures from Smart 8 Plus.</u></a></li>
+<li><a href="https://fox-that.techidaily.com/revive-your-iphones-message-alerts-and-ringtones-with-these-expert-tips-and-tricks/"><u>Revive Your iPhone's Message Alerts & Ringtones with These Expert Tips and Tricks</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/spice-up-content-kapwings-meme-builder-for-2024/"><u>Spice Up Content Kapwing's Meme Builder for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/step-by-step-process-on-securing-help-with-your-iphone-via-the-apple-support-application/"><u>Step-by-Step Process on Securing Help with Your iPhone via the Apple Support Application</u></a></li>
+<li><a href="https://fox-that.techidaily.com/the-seven-major-iphone-x-headaches-and-how-to-easily-resolve-them/"><u>The Seven Major iPhone X Headaches and How to Easily Resolve Them</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-6-causes-of-a-sluggish-iphone-effective-solutions-inside/"><u>Top 6 Causes of a Sluggish iPhone: Effective Solutions Inside</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-6-solutions-when-family-sharing-subscription-links-fail/"><u>Top 6 Solutions When Family Sharing Subscription Links Fail</u></a></li>
+<li><a href="https://fox-that.techidaily.com/why-does-my-iphone-preserve-images-post-deletion-discover-these-remedies/"><u>Why Does My iPhone Preserve Images Post-Deletion? Discover These Remedies!</u></a></li>
 </ul></div>
 

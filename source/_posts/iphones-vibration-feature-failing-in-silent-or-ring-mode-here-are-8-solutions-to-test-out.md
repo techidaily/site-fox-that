@@ -1,7 +1,7 @@
 ---
 title: IPhone's Vibration Feature Failing in Silent or Ring Mode? Here Are 8 Solutions to Test Out!
-date: 2024-12-28T22:51:53.009Z
-updated: 2025-01-04T06:38:34.452Z
+date: 2025-01-10T00:40:37.420Z
+updated: 2025-01-10T20:03:07.725Z
 tags:
   - iphone
   - apple
@@ -41,13 +41,21 @@ thumbnail: https://thmb.techidaily.com/010139d6077f90333f3025af8c182332c9900266f
 
 ![iphone settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/img_6668.JPEG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![iphone sounds and haptics settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/img_6667.JPEG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Close
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Enable Vibration in Accessibility
 
@@ -59,15 +67,7 @@ Close
 
 ![iphone accessibility settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/accessibility-settings.JPEG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![touch settings in iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/touch-settings.JPEG)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Close
 
@@ -80,7 +80,7 @@ Close
 ![play haptics for ring and silent mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/MUO-in-article-image-(1200px-by-600px-21-ratio)-(11)-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Check the Selected Vibration Pattern for Each Alert
@@ -96,16 +96,20 @@ Close
 ![sounds & haptics settings on iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/sounds--haptics-2.JPEG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![iphone ringtone settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/ringtone-settings.JPEG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![iphone ringtone vibration settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/vibration-settings.JPEG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -116,6 +120,10 @@ Close
  Apple's iOS software updates often come with bug fixes and performance improvements. So, if the above methods don't work for you, it may simply be a bug in the software itself.
 
  Therefore,[updating your iPhone](https://www.makeuseof.com/tag/update-iphone-ios-apps-data/) may be the solution when your device doesn't vibrate on Silent or Ring mode.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Restart Your iPhone
 
@@ -138,14 +146,10 @@ Close
 ![options to reset iphone settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/reset-iphone-options.JPEG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Close
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Can You Enable Vibration for Calls and Texts Only on Your iPhone?
 
@@ -162,10 +166,6 @@ Close
 ![turn on play haptics in silent mode and system haptics](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/IMG_4013.JPEG)
 
 ![touch settings in iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/touch-settings.JPEG)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Close
 
@@ -194,21 +194,20 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-strategies-to-circumvent-the-hidden-shadowban-on-tiktok/"><u>[Updated] In 2024, Strategies to Circumvent the Hidden Shadowban on TikTok</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-the-ultimate-guide-to-uniform-focus-in-teamblend-calls-for-2024/"><u>[Updated] The Ultimate Guide to Uniform Focus in Teamblend Calls for 2024</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/wedding-dvd/"><u>手軽でお得！無料Wedding DVDダビングテクニックを学ぶ方法 - 初めても簡単</u></a></li>
-<li><a href="https://fox-that.techidaily.com/cant-find-itunes-heres-how-to-restore-your-iphone-on-your-own/"><u>Can't Find iTunes? Here's How to Restore Your iPhone on Your Own</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/damians-db-salvation-ms-sql-mastery/"><u>Damian’s DB Salvation - MS SQL Mastery</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/educational-essays-or-ai-generated-text-the-new-norm/"><u>Educational Essays or AI-Generated Text? The New Norm?</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-clear-the-liquid-alert-on-an-iphone-when-using-a-usb-c-charging-cable/"><u>How to Clear the Liquid Alert on an iPhone When Using a USB-C Charging Cable</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-sony-xperia-5-v-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Sony Xperia 5 V Without Them Knowing? | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/iphone-snapshots-and-cloud-continuity-how-to-keep-deleted-images-and-solve-issues-with-8-hacks/"><u>IPhone Snapshots & Cloud Continuity: How to Keep Deleted Images, and Solve Issues with 8 Hacks</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/maximize-battery-performance-on-your-apple-watch-top-8-settings-adjustments-experts/"><u>Maximize Battery Performance on Your Apple Watch: Top 8 Settings Adjustments Experts</u></a></li>
-<li><a href="https://fox-that.techidaily.com/optimize-your-iphone-wi-fi-experience-with-these-8-essential-tweaks/"><u>Optimize Your iPhone Wi-Fi Experience with These 8 Essential Tweaks</u></a></li>
-<li><a href="https://fox-that.techidaily.com/overcoming-icloud-connectivity-hurdles-expert-tips-for-smooth-syncing/"><u>Overcoming iCloud Connectivity Hurdles: Expert Tips for Smooth Syncing</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/restore-accidentally-deleted-documents-on-windows-7-without-a-backup/"><u>Restore Accidentally Deleted Documents on Windows 7 Without a Backup</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solving-your-iphones-blackout-crisis-a-step-by-step-guide/"><u>Solving Your iPhone's Blackout Crisis: A Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-unexpected-website-appearances-in-iphone-screen-time/"><u>Troubleshooting Unexpected Website Appearances in iPhone Screen Time</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ultimate-xvid-video-player-guide-ideal-choice-for-pcs-macs-smartphones-and-tablets/"><u>Ultimate Xvid Video Player Guide: Ideal Choice for PCs, Macs, Smartphones & Tablets!</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-copyrighted-chords-navigating-music-uploads-to-insta/"><u>[New] Copyrighted Chords Navigating Music Uploads to Insta</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-the-complete-laptop-recording-manual-dell-edition/"><u>[New] In 2024, The Complete Laptop Recording Manual Dell Edition</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-perfecting-your-snap-with-snapchats-inbuilt-editing-tools/"><u>2024 Approved Perfecting Your Snap with Snapchat's Inbuilt Editing Tools</u></a></li>
+<li><a href="https://fox-that.techidaily.com/cant-access-contacts-on-ios-device-correct-it-with-our-triple-step-troubleshooting-guide/"><u>Can't Access Contacts on iOS Device? Correct It with Our Triple-Step Troubleshooting Guide!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/cant-use-qr-scanner-app-try-these-effective-fixes-for-iphone-users/"><u>Can't Use QR Scanner App? Try These Effective Fixes for iPhone Users</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/capture-and-share-your-digital-world-effortlessly/"><u>Capture and Share Your Digital World Effortlessly</u></a></li>
+<li><a href="https://fox-that.techidaily.com/forget-the-old-code-heres-how-to-set-a-new-screen-time-passcode-on-ios-and-macos-devices/"><u>Forget the Old Code? Here’s How to Set a New Screen Time Passcode on iOS and macOS Devices</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211142284-9781952353345-jahrtausendealte-geheimnisse-eines-meisterheilers/"><u>Jahrtausendealte Geheimnisse eines Meisterheilers | Free Book</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcome-iphone-camera-challenges-7-common-issues-and-solutions-explained/"><u>Overcome iPhone Camera Challenges: 7 Common Issues and Solutions Explained</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-the-infinite-wait-on-skyrims-loading-pages-solutions-explored/"><u>Overcoming the Infinite Wait on Skyrim's Loading Pages - Solutions Explored</u></a></li>
+<li><a href="https://win-forum.techidaily.com/popular-social-media-channels-connect-with-facebook-twitter-instagram-and-youtube/"><u>Popular Social Media Channels: Connect with Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-solution-for-the-critical-error-0x0000003d-on-windows-pc/"><u>Step-by-Step Solution for the Critical Error 0X0000003D on Windows PC</u></a></li>
+<li><a href="https://fox-that.techidaily.com/stuck-at-the-start-here-are-7-fixes-for-an-iphone-frozen-on-apple-logo/"><u>Stuck at the Start? Here Are 7 Fixes for an iPhone Frozen on Apple Logo</u></a></li>
+<li><a href="https://fox-that.techidaily.com/trouble-updating-ios-on-iphoneipad-discover-these-9-solutions/"><u>Trouble Updating iOS on iPhone/iPad? Discover These 9 Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/whatsapp-not-syncing-with-icloud-here-are-the-fixes-you-need/"><u>WhatsApp Not Syncing with iCloud? Here Are the Fixes You Need</u></a></li>
 </ul></div>
 

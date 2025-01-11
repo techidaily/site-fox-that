@@ -1,7 +1,7 @@
 ---
 title: Lose Your Screen Time Passcode? Easy Fixes to Restore Access on Mac, iPhone, and iPad
-date: 2025-01-02T03:24:02.934Z
-updated: 2025-01-04T02:36:40.992Z
+date: 2025-01-07T17:57:38.065Z
+updated: 2025-01-10T21:38:33.814Z
 tags:
   - iphone
   - apple
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/55eea1dea20c971ad29aa0a8be4aa55c4b1ce4519
 * [How to Reset the Screen Time Passcode for Your Child's Device](https://www.makeuseof.com/how-to-reset-screen-time-passcode-iphone-ipad-mac/#how-to-reset-the-screen-time-passcode-for-your-child-39-s-device)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -36,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/55eea1dea20c971ad29aa0a8be4aa55c4b1ce4519
 * If you disabled "Share Across Devices" and skipped the Screen Time passcode recovery step while setting up the feature, you're out of luck.
 
  Have you set a Screen Time passcode on your Apple device (or your child's to prevent them from messing around with settings), only to forget it later? Don't worry—resetting the Screen Time passcode on an iPhone, iPad, or Mac is simple!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Reset the Screen Time Passcode on Your iPhone or iPad
 
@@ -50,19 +54,23 @@ thumbnail: https://thmb.techidaily.com/55eea1dea20c971ad29aa0a8be4aa55c4b1ce4519
 
 ![Screen Time section in the Settings app on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/screen-time-section-in-the-settings-app-on-an-iphone.PNG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![changing or turning off Screen Time Passcode in the settings app on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/changing-or-turning-off-screen-time-passcode-in-the-settings-app-on-an-iphone.PNG)
 
 ![entering old screen time passcode on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/entering-old-screen-time-passcode-on-an-iphone.PNG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![iPhone screen displaying Screen Time Passcode Recovery page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/iphone-screen-displaying-screen-time-passcode-recovery-page.PNG)
 
 Close
 
  If you skipped the step to enter your Apple ID details for Screen Time passcode recovery while setting the feature up and have**Share Across Devices** disabled, you won't be able to reset the passcode.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Reset the Screen Time Passcode on Your Mac
 
@@ -76,10 +84,6 @@ Close
 6. Enter your Apple ID password and click**Next** or hit the**Return** key.  
 ![Mac Screen Time passcode recovery screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/mac-screen-time-passcoderecovery-screen.png)
 7. Finally, enter a new Screen Time passcode and then enter it again to verify.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Once again, you're out of luck if you don't have**Share Across Devices** enabled and skipped the Screen Time passcode recovery step during setup.
 
@@ -102,17 +106,17 @@ Close
 
 ![Family section in the Settings app on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/family-section-in-the-settings-app-on-an-iphone.PNG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![A child's account settings on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/a-child-s-account-settings-on-an-iphone.PNG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![A child's screen time settings on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/a-child-s-screen-time-settings-on-an-iphone.PNG)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![changing or turning off a child's Screen Time Passcode in the settings app on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/changing-or-turning-off-a-child-s-screen-time-passcode-in-the-settings-app-on-an-iphone.PNG)
 
@@ -129,10 +133,6 @@ Close
 5. Enter your Mac's**admin** password and hit the**Return** key or click**Unlock** .  
 ![Entering mac's admin password to reset child's screen time passcode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/entering-mac-s-admin-password-to-reset-child-s-screen-time-passcode.PNG)
 6. Now, type in a new Screen Time passcode and enter it again to confirm.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  It's that easy! However, if you also forgot your Apple account login details, you'll have to go through the complicated process of [resetting your Apple ID password](https://www.makeuseof.com/tag/forgot-apple-id-icloud-password/) first.
 
@@ -153,16 +153,16 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-quick-start-with-screencastify-video-recording/"><u>[Updated] Quick Start with Screencastify Video Recording</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-unparalleled-live-tv-experience-with-local-channels/"><u>[Updated] Unparalleled Live TV Experience with Local Channels</u></a></li>
-<li><a href="https://fox-that.techidaily.com/best-ways-to-resolve-persistent-iphone-app-crashes-a-10-point-guide/"><u>Best Ways to Resolve Persistent iPhone App Crashes: A 10-Point Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/elite-video-editing-laptop-picks-thoroughly-testing-and-analyzing-the-best-options-zdnet/"><u>Elite Video Editing Laptop Picks: Thoroughly Testing & Analyzing the Best Options | ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-hardware-opinions-from-toms-gadget-corner/"><u>Expert Hardware Opinions From Tom's Gadget Corner</u></a></li>
-<li><a href="https://fox-that.techidaily.com/ion-audio-tailgater-plus-assessment-experience-endless-sound-quality-with-instant-bass-amplification/"><u>ION Audio Tailgater Plus Assessment: Experience Endless Sound Quality with Instant Bass Amplification</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/prodigious-editing-power-utilizing-inshot-on-devices-for-2024/"><u>Prodigious Editing Power Utilizing Inshot on Devices for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solving-iphone-app-download-issues-top-10-tips-and-tricks/"><u>Solving iPhone App Download Issues: Top 10 Tips & Tricks</u></a></li>
-<li><a href="https://fox-that.techidaily.com/step-by-step-guide-securing-an-appointment-at-the-genius-bar-for-iphone-hardware-assessments/"><u>Step-by-Step Guide: Securing an Appointment at the Genius Bar for iPhone Hardware Assessments</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-tecno-camon-20-pro-5g-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Tecno Camon 20 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/why-your-text-might-appear-as-an-sms-are-you-experiencing-being-blocked-on-imessage/"><u>Why Your Text Might Appear as an SMS: Are You Experiencing Being Blocked on iMessage?</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-zippyzoom-echoframe-capture-for-2024/"><u>[Updated] ZippyZoom EchoFrame Capture for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/8-remedies-for-iphone-charging-alerts-on-hold-fixes-and-tricks-revealed/"><u>8 Remedies for iPhone Charging Alerts on Hold – Fixes and Tricks Revealed!</u></a></li>
+<li><a href="https://fox-info.techidaily.com/a-comical-voyage-analyzing-the-goofy-escapade/"><u>A Comical Voyage Analyzing 'The Goofy Escapade'</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/childhood-cruisers-crafted-games/"><u>Childhood Cruisers, Crafted Games</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-easily-edit-avi-files-on-your-windows-8-pc-a-beginners-guide/"><u>In 2024, Easily Edit AVI Files on Your Windows 8 PC A Beginners Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/july-2024-newest-releases-of-microsoft-windows-service-packs-and-updates/"><u>July 2024 Newest Releases of Microsoft Windows Service Packs & Updates</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723209761478-restore-your-devices-safety-turn-on-lsa-shield-again/"><u>Restore Your Device's Safety - Turn On LSA Shield Again</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/silence-not-solved-heres-how-to-reactivate-conexant-smartaudio-hd-sounds-on-windows-11/"><u>Silence Not Solved? Here's How to Reactivate Conexant SmartAudio HD Sounds on Windows 11</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-iphone-touchscreen-problems-in-minutes-expert-advice/"><u>Solving iPhone Touchscreen Problems in Minutes – Expert Advice</u></a></li>
+<li><a href="https://fox-that.techidaily.com/steps-to-resolve-your-iphones-inability-to-back-up-to-icloud-9-solutions/"><u>Steps to Resolve Your iPhone's Inability to Back Up to iCloud (9 Solutions)</u></a></li>
+<li><a href="https://fox-that.techidaily.com/why-your-iphone-isnt-getting-messages-from-android-fix-it-now/"><u>Why Your iPhone Isn't Getting Messages From Android? Fix It Now</u></a></li>
 </ul></div>
 

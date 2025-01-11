@@ -1,7 +1,7 @@
 ---
 title: What To Do When Only One AirPod Fails to Function?
-date: 2024-08-10T03:46:28.453Z
-updated: 2024-08-11T03:46:28.453Z
+date: 2025-01-09T01:17:28.566Z
+updated: 2025-01-10T19:10:30.168Z
 tags:
   - iphone
   - apple
@@ -33,8 +33,9 @@ thumbnail: https://thmb.techidaily.com/7c4b3f31474d59dd334b247ce3128a18563012870
  Did one of your AirPods stop working all of a sudden? Before you assume it's a hardware problem and contact Apple for a repair or replacement AirPod, follow these simple troubleshooting steps, as they can often quickly resolve the issue.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Check Your AirPods Battery
 
  It's possible that one of your AirPods stopped working because it ran out of battery. Each AirPod has its own battery charge, and when it gets drained, that particular AirPod will stop functioning. You'll have to [check the battery level of each AirPod](http://www.makeuseof.com/tag/how-to-check-airpod-battery/) to see if that's the problem.
@@ -46,8 +47,9 @@ thumbnail: https://thmb.techidaily.com/7c4b3f31474d59dd334b247ce3128a18563012870
 Close
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Restart the Connected Device
 
  Once you've checked your AirPods' battery levels and made sure they're charged, it's time to reboot the device you use your AirPods with.
@@ -70,9 +72,6 @@ Close
 
  On a Mac, you can adjust the AirPods audio balance by opening**System Settings > Sound** and selecting the**Output** tab. Then, make sure your AirPods are selected and set the**Balance** slider to the middle.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![mac sound system settings airpods balance](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/mac-sound-system-settings-airpods-balance.png)
 
  You can adjust the AirPods audio balance on Windows 11 by opening**Settings > System > Sound** . Then, select your AirPods from the list of output devices and adjust the**Left channel** and**Right channel** sliders so that they're equal.
@@ -80,9 +79,9 @@ Close
 ![Windows Sound Settings for AirPods Pro](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/windows-sound-settings-for-airpods-pro.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Try Your AirPods With Other Devices
 
  It isn't always your AirPods that have issues. Sometimes, one of your AirPods stops working because of a problem with your smartphone or your computer.
@@ -91,9 +90,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  If both AirPods work just fine on any other device, you know the issue is with your primary device, and you'll need to fix it instead. Read [our AirPods troubleshooting guide](https://www.makeuseof.com/tag/apple-airpods-problems-fix/) for your specific device to see if one of the suggested fixes can rectify your problem.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 5\. Forget Your AirPods From Your Devices
 
  One of the best ways to fix issues with Bluetooth devices is to forget them on your phone or other device and then re-pair them. This allows your device to establish a fresh Bluetooth connection.
@@ -113,10 +109,9 @@ Close
  After unpairing, you need to [re-pair your AirPods to your device](https://www.makeuseof.com/tag/how-to-connect-airpods-mac-iphone-pc-android/) . Then, see if both your AirPods work.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Reset Your AirPods to Factory Settings
 
  If your AirPods still don't work after unpairing and re-pairing them, try resetting them to their factory settings. Once they're unpaired, put your AirPods in their charging case, but don't close the lid.
@@ -124,6 +119,10 @@ The powerful video editing program for your Windows PC</a>
  Press and hold the setup button on the back of the AirPods charging case for 15 seconds until the light on the front flashes amber and white. Then, let go of the button and, with the lid open, hold your AirPods case near your iPhone.
 
  Your iPhone will prompt you to set them up. If you're using another device, follow the standard Bluetooth setup steps.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Reset Your Phone's Network Settings
 
@@ -149,8 +148,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -158,4 +155,20 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-editors-workshop-enhancing-your-youtube-video-visibility/"><u>[New] 2024 Approved Editor's Workshop Enhancing Your Youtube Video Visibility</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-perfectly-timed-instagram-content-our-list-of-the-top-8-schedulers/"><u>[Updated] Perfectly Timed Instagram Content - Our List of the Top 8 Schedulers</u></a></li>
+<li><a href="https://fox-that.techidaily.com/caught-in-the-slow-lane-of-mobile-internet-speed-up-with-our-top-10-tricks-today/"><u>Caught in the Slow Lane of Mobile Internet? Speed Up With Our Top 10 Tricks Today</u></a></li>
+<li><a href="https://fox-that.techidaily.com/comprehensive-troubleshooting-mastering-the-most-frequent-iphone-glitches-with-15-expert-tips/"><u>Comprehensive Troubleshooting: Mastering the Most Frequent iPhone Glitches with 15 Expert Tips</u></a></li>
+<li><a href="https://extra-information.techidaily.com/dive-into-asmr-its-positive-effects-explored/"><u>Dive Into ASMR Its Positive Effects Explored</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-leading-charts-to-screen-videos/"><u>In 2024, Leading Charts to Screen Videos</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-nokia-c210-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Nokia C210 | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/mondly-is-offering-free-mobile-language-courses-for-millions-of-ukrainian-refugees/"><u>Mondly Is Offering Free Mobile Language Courses for Millions of Ukrainian Refugees</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolving-issues-when-your-message-thread-shows-only-phone-numbers/"><u>Resolving Issues When Your Message Thread Shows Only Phone Numbers</u></a></li>
+<li><a href="https://fox-that.techidaily.com/ten-pro-tips-to-overcome-iphone-sms-troubles-a-step-by-step-guide/"><u>Ten Pro Tips to Overcome iPhone SMS Troubles: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/the-journey-of-facetime-snaps-how-to-locate-and-recover-them/"><u>The Journey of FaceTime Snaps: How to Locate and Recover Them</u></a></li>
+<li><a href="https://win-webmaster.techidaily.com/top-free-download-websites-for-creative-gifs-and-memes/"><u>Top Free Download Websites for Creative GIFs and Memes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/ultimate-troubleshooting-tips-performing-a-hard-reset-on-your-iphone-to-recovery-mode/"><u>Ultimate Troubleshooting Tips: Performing a Hard Reset on Your iPhone to Recovery Mode</u></a></li>
+</ul></div>
 

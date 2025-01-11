@@ -1,7 +1,7 @@
 ---
 title: "Deactivating Apple's Do Not Disturb: A Guide to Getting Calls/Texts Back"
-date: 2025-01-02T23:41:39.131Z
-updated: 2025-01-04T04:15:55.979Z
+date: 2025-01-07T01:48:25.987Z
+updated: 2025-01-11T00:31:30.708Z
 tags:
   - iphone
   - apple
@@ -23,13 +23,13 @@ thumbnail: https://thmb.techidaily.com/5397c89a05d7c549e3c941ac0bcf9ef244a3e9feb
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Check Whether You Enabled the Correct Focus Mode
 
 ![do not disturb and personal mode in iphone control center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/1-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Although Apple started with Do Not Disturb, the feature has since been expanded to Focus mode. Focus includes Do Not Disturb, Personal, Work, and so on. You can [set up different Focus modes](https://www.makeuseof.com/focus-mode-ideas-to-set-up-in-ios/) and customize them for different purposes.
 
@@ -48,13 +48,13 @@ thumbnail: https://thmb.techidaily.com/5397c89a05d7c549e3c941ac0bcf9ef244a3e9feb
 ![focus modes on iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/focus-modes.JPEG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![do not disturb settings on iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/do-not-disturb-settings.JPEG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![allowed apps on do not disturb mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/dnd-allowed-apps.JPEG)
@@ -71,10 +71,6 @@ Close
 
  Alternatively, you can tap**Turn Off** for a specific app if you see its notifications pop up on your Lock Screen.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Change Settings for Incoming Calls
 
  When you first enable Do Not Disturb mode on your iPhone,**Favorites** tends to be the default setting for the incoming calls allowed. If you previously added quite a few family members and friends to your Favorites list, this may be why your iPhone calls are coming through even after you enabled Do Not Disturb, as if it's not working.
@@ -89,10 +85,6 @@ Close
 
 Close
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Don't Allow Repeated Calls
 
  If someone calls you more than once in a three-minute timespan, Do Not Disturb lets their call come through, regardless of the incoming call preferences you indicated earlier. This feature ensures that people can reach you in cases of emergencies, and it's not because Do Not Disturb is not working.
@@ -100,6 +92,10 @@ Close
  But if there are people who call you mindlessly the moment you don't pick up, and this feature ends up giving you more problems than convenience, you can choose to disable it. As outlined in the previous solution, go to the**People** settings in**Do Not Disturb** . Then, toggle off**Allow Repeated Calls** .
 
 ![turn off allow repeated calls for iphone do not disturb mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/2-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Turn Off or Hide Your Focus Status
 
@@ -119,25 +115,29 @@ Close
 
 ![schedule for iphone do not disturb mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/dnd-schedule.JPEG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![automate schedule for iphone do not disturb mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/dnd-schedule-2.JPEG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![set time for iphone do not disturb mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/dnd-change-schedule.JPEG)
 
-Close
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+Close
 
 ## 8\. Restart Your iPhone and Update iOS
 
  If you went through all the steps above and your iPhone's Do Not Disturb mode is still not working, try [restarting your iPhone](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) to see if it resolves the issue. Software glitches can sometimes prevent features like Do Not Disturb from functioning as intended, which you can fix with a simple reboot.
 
  And if you haven't,[update your iPhone to the latest iOS version](https://www.makeuseof.com/tag/update-iphone-ios-apps-data/) as well. Apple's software updates often come with bug fixes and patches for performance-related issues.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## No More Disruptions on Do Not Disturb Mode
 
@@ -162,14 +162,20 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-fourfold-precision-in-color-capture-with-blade-cameras/"><u>[New] 2024 Approved Fourfold Precision in Color Capture with Blade Cameras</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722846480385-exploring-how-ram-speeds-influence-overall-system-responsiveness/"><u>Exploring How RAM Speeds Influence Overall System Responsiveness</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fixing-connectivity-issues-between-non-supported-devices-and-iphones/"><u>Fixing Connectivity Issues Between Non-Supported Devices and iPhones</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-fix-an-iphone-when-the-close-range-detection-feature-fails/"><u>How To Fix an iPhone When the Close-Range Detection Feature Fails</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-fix-this-accessory-may-not-be-supported-on-an-iphone/"><u>How to Fix This Accessory May Not Be Supported on an iPhone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-resolve-voice-communication-problems-in-counter-strike-2/"><u>How to Resolve Voice Communication Problems in Counter-Strike 2</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-8-plus-with-a-mask-on-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 8 Plus with a Mask On</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/resuelto-error-crucial-processdied-en-sistemas-operaticos-windows-11/"><u>Resuelto: ERROR CRUCIAL 'PROCESS_DIED' EN SISTEMAS OPERATICOS WINDOWS 11</u></a></li>
-<li><a href="https://fox-that.techidaily.com/revolutionize-your-iphones-internet-discover-the-power-of-eight-expert-wi-fi-improvement-tricks/"><u>Revolutionize Your iPhone's Internet: Discover the Power of Eight Expert Wi-Fi Improvement Tricks</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-immediate-screen-capture-on-mac-revealing-the-best-5-approaches/"><u>[New] Immediate Screen Capture on Mac Revealing the Best 5 Approaches</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-earning-in-the-e-commerce-arena-via-engaging-reviews/"><u>[Updated] 2024 Approved Earning in the E-Commerce Arena via Engaging Reviews</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-optimize-solo-streaming-with-flawless-execution/"><u>[Updated] How to Optimize Solo Streaming with Flawless Execution</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-from-space-to-nature-yts-guide-for-dynamic-green-screen-filmmaking/"><u>2024 Approved From Space to Nature YT's Guide for Dynamic Green Screen Filmmaking</u></a></li>
+<li><a href="https://fox-that.techidaily.com/6-ways-to-fix-autocorrect-fails-and-teach-your-iphone-to-spell-properly/"><u>6 Ways to Fix Autocorrect Fails and Teach Your iPhone to Spell Properly</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/crafting-captivating-content-the-instagram-reel-way/"><u>Crafting Captivating Content The Instagram Reel Way</u></a></li>
+<li><a href="https://win11.techidaily.com/efficiently-change-heic-to-jpeg-using-windows-tools/"><u>Efficiently Change HEIC to JPEG Using Windows Tools</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-fix-error-code-0x80004005/"><u>How to Fix Error Code 0X80004005</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-solve-iphone-screen-stuck-on-portrait-mode-enable-landscape-rotation/"><u>How To Solve iPhone Screen Stuck on Portrait Mode, Enable Landscape Rotation!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcome-iphone-microphone-malfunctions-tips-and-tricks-for-improved-audio-recording/"><u>Overcome iPhone Microphone Malfunctions: Tips and Tricks for Improved Audio Recording</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-imessage-not-delivered-errors-on-iphone-effective-methods/"><u>Overcoming iMessage Not Delivered Errors on iPhone: Effective Methods</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-9-solutions-for-correcting-the-yellow-discoloration-on-your-iphone-display/"><u>Top 9 Solutions for Correcting the Yellow Discoloration on Your iPhone Display</u></a></li>
+<li><a href="https://fox-that.techidaily.com/turn-off-unwanted-chimes-halting-ipad-rings-when-receiving-calls-on-your-iphone/"><u>Turn Off Unwanted Chimes: Halting iPad Rings When Receiving Calls on Your iPhone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/why-your-iphoneipad-gets-overheated-causes-solutions-and-prevention/"><u>Why Your iPhone/iPad Gets Overheated: Causes, Solutions & Prevention</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/windows-absolutebly-eliminating-temporary-files-a-comprehensive-tutorial-for-win11-users/"><u>Windows Absolutebly Eliminating Temporary Files: A Comprehensive Tutorial for Win11 Users</u></a></li>
 </ul></div>
 

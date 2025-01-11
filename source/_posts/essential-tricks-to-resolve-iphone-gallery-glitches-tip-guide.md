@@ -1,7 +1,7 @@
 ---
 title: Essential Tricks to Resolve iPhone Gallery Glitches (Tip Guide)
-date: 2024-08-10T03:43:59.277Z
-updated: 2024-08-11T03:43:59.277Z
+date: 2025-01-08T01:22:50.657Z
+updated: 2025-01-11T01:05:58.666Z
 tags:
   - iphone
   - apple
@@ -33,10 +33,11 @@ Wrong!
 
  To re-enable iCloud Photo Sync, go to**Settings > \[Name\] > iCloud > Photos** and enable**iCloud Photo Library** and**My Photo Stream** .
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![iPhone Apple ID Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2018/06/iphone-enable-cloud-1.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![iPhone Enable iCloud Photos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2018/06/iphone-enable-cloud-2.jpeg)
 
@@ -44,9 +45,6 @@ Close
 
  Also, many users reported that their photos disappeared after [upgrading to iOS 11](https://www.makeuseof.com/tag/complete-beginners-guide-ios-iphone-ipad/) . The fix is simple: just turn your phone off and back on again.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 2\. How to Recover Deleted Videos From Camera Roll
 
 ![iPhone Deleted Images](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2018/06/iphone-recover-image-1.jpeg)
@@ -61,6 +59,10 @@ Close
 
  You can check the contents of this folder by going to**Photos > Albums > Recently Deleted** . To restore a photo, long-press on the image and select**Recover** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. How to Transfer Videos From PC to Camera Roll
 
  If you use iTunes' native tools to transfer videos from your PC or Mac to your iPhone, they will not show up in the Camera Roll. Instead, they're only available in the Video Library.
@@ -72,19 +74,23 @@ Close
 1. Download and install the**Documents** app on your device.
 2. Open the app and go to**Settings > Wi-Fi Drive** .
 3. Slide the toggle next to**Enable Drive** into the**On** position.  
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 ![Documents Wi-Fi Drive Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2018/06/documents-wifi-drivea-1.jpeg)  
 ![Documents Wi-Fi Drive Enable](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2018/06/documents-wifi-drivea-2.jpeg)  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Close
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Make a note of the IP address shown underneath the options.
 5. Open a web browser on your computer, type that IP address, and press**Enter** .
 6. Click on**Choose File** and select the file on your machine.
 7. Click**Upload File** .  
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ![Documents PC Upload to iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2018/06/iphone-doc-upload-670x405.png)
 8. Open the Documents app on your phone a second time.
 9. Tap**Edit** in the upper right-hand corner.
@@ -92,18 +98,25 @@ Close
 11. Press**Copy** .
 12. Navigate to**Documents > Photos** .
 13. Press**Copy** again.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ![Documents Copy Photo](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2018/06/iphone-docs-copy-roll-2.jpeg)  
 ![Documents Move to Photos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2018/06/iphone-docs-copy-roll-1.jpeg)  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Close
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Your videos will now be visible in the Camera Roll.
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. How to Hide Photos in Camera Roll
 
  Did you know you can hide photos from the Camera Roll? Doing so has privacy benefits, but also lets you turn the Camera Roll into a curated list of high-quality images and videos that you can show to other people.
@@ -121,6 +134,10 @@ The process for hiding photos and video is simple:
 
 ![iPhone Hide Picture](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2018/06/iphone-unhide-pic-2.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Close
 
  If you change your mind and want to unhide a picture, follow these instructions:
@@ -130,9 +147,6 @@ Close
 3. Find the photo you want to unhide.
 4. Navigate to**Share > Unhide** .
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ## 5\. How to Send From Camera Roll to Snapchat
 
  Natively, it's not possible to share a file from your Camera Roll into a Snapchat Story. You can send it in a chat by locating the photo or video in the**Photos** app and going to**Share > Snapchat** . However, as dedicated Snapchat users will know, this method [will not influence your score or Snapstreak](https://www.makeuseof.com/tag/improve-snapchat-score/) .
@@ -141,9 +155,6 @@ Close
 
 **Warning:** Using a third-party app to post to Snapchat is against the terms of service and could get your account locked for 24 hours. Repeated offenses could result in Snapchat permanently deactivating your account. This is one reason why [jailbreaking really isn't worth it](https://www.makeuseof.com/tag/still-jailbreak-iphone-2015/) .
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. How to Back Up the iPhone Camera Roll
 
  Because Apple is incredibly stingy with the amount of free iCloud storage it gives you, many people don't realize their photos are not getting backed up.
@@ -172,14 +183,8 @@ Your photo/video will now be visible in the Camera Roll.
 
  But when you eventually get there, do you really want to spend the spend another hour getting back to the bottom of the roll and your most recent snaps? Of course not.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![iPhone Photos Tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2018/06/iphone-scroll-bottom-1.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ![iPhone Camera Roll Scroll to Bottom](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2018/06/iphone-scroll-bottom-2.jpeg)
 
 Close
@@ -198,8 +203,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -207,4 +210,23 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-splash-to-fame-surfers-choice-camera-picks-2e3/"><u>[New] 2024 Approved Splash to Fame Surfer's Choice Camera Picks (2E3)</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ow-does-youtube-manage-post-upload-operations-in-2024/"><u>[New] How Does YouTube Manage Post-Upload Operations, In 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-mastering-jump-cuts-for-dynamic-vlogging/"><u>[New] Mastering Jump Cuts for Dynamic Vlogging</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-the-best-of-the-brainless-top-zombie-game-sweepstakes/"><u>[New] The Best of the Brainless Top Zombie Game Sweepstakes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/6-fixes-to-try-if-you-cant-share-your-subscriptions-with-family-sharing/"><u>6 Fixes to Try If You Can't Share Your Subscriptions With Family Sharing</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-the-deadly-glitch-of-ghostrunner-game-on-windows-11-systems/"><u>Fixing the Deadly Glitch of Ghostrunner Game on Windows 11 Systems</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-the-flash-on-your-smartphone-display-with-7-simple-remedies/"><u>Fixing the Flash on Your Smartphone Display with 7 Simple Remedies</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-reboot-iphones-wi-fi-and-bluetooth-for-troubleshooting-a-step-by-step-guide/"><u>How to Reboot iPhone's Wi-Fi and Bluetooth for Troubleshooting: A Step-by-Step Guide</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-vivo-t2-5g-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your Vivo T2 5G in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-notification-troubles-18-proven-fixes-for-text-message-sounds-and-alerts-issues/"><u>IPhone Notification Troubles? 18 Proven Fixes for Text Message Sounds & Alerts Issues</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/leading-gallery-archive-services-for-2024/"><u>Leading Gallery Archive Services for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-iphone-restoration-issue-tips-for-fixing-error-4013-quickly/"><u>Overcoming iPhone Restoration Issue - Tips for Fixing Error 4013 Quickly</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/reinstating-disappeared-chatgpt-interactions/"><u>Reinstating Disappeared ChatGPT Interactions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-7-solutions-why-your-iphone-isnt-getting-messages-and-how-to-fix-it/"><u>Top 7 Solutions: Why Your iPhone Isn't Getting Messages & How To Fix It</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-techniques-for-internet-explorer-malfunctioning-problems/"><u>Troubleshooting Techniques for Internet Explorer Malfunctioning Problems</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unveiling-essential-information-on-iphone-14-battery-performance-concerns/"><u>Unveiling Essential Information on iPhone 14 Battery Performance Concerns</u></a></li>
+</ul></div>
 

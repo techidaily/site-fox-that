@@ -1,7 +1,7 @@
 ---
 title: "How to Resolve 'Safari Cannot Take Full-Page Screenshots': A Step-by-Step Guide"
-date: 2024-12-29T18:11:23.973Z
-updated: 2025-01-04T04:49:53.695Z
+date: 2025-01-09T22:32:10.142Z
+updated: 2025-01-10T19:06:35.383Z
 tags:
   - iphone
   - apple
@@ -23,22 +23,22 @@ thumbnail: https://thmb.techidaily.com/9be41d62e85e6d9d35faed892e42e95be3740ff67
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Take a Full-Page Screenshot
 
  To take a full-page, scrolling screenshot of a webpage, take a screenshot as you normally would while on Safari, then tap the preview and select**Full Page** at the top. You can then choose**Save PDF to Files** or the Share icon to send it elsewhere.
 
  Related:[How to Take Full-Page Screenshots in Safari on iOS](https://www.makeuseof.com/how-to-screenshot-full-webpage-safari-ios/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What to Do When Full-Page Screenshots Aren't Working
 
 Try these tips if you can't take full-page screenshots in Safari.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Check Your iOS Version
@@ -48,7 +48,7 @@ Try these tips if you can't take full-page screenshots in Safari.
  If your OS is not the problem, make sure to check the app you’re using when attempting to take a full-page screenshot. It only works with Safari.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Make Sure You're in Safari
@@ -57,13 +57,17 @@ Try these tips if you can't take full-page screenshots in Safari.
 
 ![Full-page screenshots](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/08/Full-page-screenshots.PNG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Save Full-page screenshots](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/08/Save-Full-page-screenshots.PNG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Close
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Remove Safari From Any Home Screen Folders
 
@@ -74,10 +78,6 @@ Close
  However, if you don’t like a cluttered Home Screen, you can also launch Safari from the App Library.
 
  Related:[What Is the iPhone App Library and How Do I Use It?](https://www.makeuseof.com/iphone-app-library-use/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Take Screenshots Again
 
@@ -98,17 +98,19 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-top-10-gratis-video-call-tools-for-virtual-gatherings/"><u>[Updated] 2024 Approved Top 10 Gratis Video Call Tools for Virtual Gatherings</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-streamlining-communication-the-art-of-using-zoom-in-win11/"><u>[Updated] In 2024, Streamlining Communication The Art of Using Zoom in Win11</u></a></li>
-<li><a href="https://fox-that.techidaily.com/cant-see-app-icons-on-ios-expert-tips-for-restoring-every-single-icon-easily/"><u>Can't See App Icons on iOS? Expert Tips for Restoring Every Single Icon Easily</u></a></li>
-<li><a href="https://fox-that.techidaily.com/cant-upgrade-your-iphone-or-ipad-os-unblock-the-pathway-with-these-9-methods/"><u>Can't Upgrade Your iPhone or iPad OS? Unblock the Pathway with These #9 Methods</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/extensive-evaluation-every-detail-of-the-bublcam-360-camera-for-2024/"><u>Extensive Evaluation Every Detail of the Bublcam 360 Camera for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-does-chatgpt-pose-risks-or-benefits-to-modern-search-engines/"><u>How Does ChatGPT Pose Risks or Benefits to Modern Search Engines?</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-realme-12-pro-5g-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Realme 12 Pro 5G FRP In 3 Different Ways</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-youtube-mastery-creating-quality-videos-on-phones/"><u>In 2024, YouTube Mastery Creating Quality Videos on Phones</u></a></li>
-<li><a href="https://fox-that.techidaily.com/quick-troubleshooting-mend-broken-widgets-in-ios-effortlessly/"><u>Quick Troubleshooting: Mend Broken Widgets in iOS Effortlessly</u></a></li>
-<li><a href="https://fox-that.techidaily.com/struggling-with-iphones-inductive-charging-here-are-7-methods-to-resolve-it/"><u>Struggling with iPhone's Inductive Charging? Here Are 7 Methods to Resolve It</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-next-leap-in-ai-beyond-turings-vision/"><u>The Next Leap in AI: Beyond Turing's Vision</u></a></li>
-<li><a href="https://fox-that.techidaily.com/top-5-solutions-overcoming-issues-with-iphone-voice-recognition/"><u>Top 5 Solutions: Overcoming Issues with iPhone Voice Recognition</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-dive-into-virtual-realities-with-up-to-date-android-tips-for-2024/"><u>[New] Dive Into Virtual Realities with Up-to-Date Android Tips for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-key-sites-for-innovative-font-design/"><u>[New] In 2024, Key Sites for Innovative Font Design</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-premiere-list-of-ios-ps2-emulation-tools/"><u>[Updated] In 2024, Premiere List of iOS PS2 Emulation Tools</u></a></li>
+<li><a href="https://fox-that.techidaily.com/effective-ways-to-access-apples-expert-help-using-the-support-app-on-your-iphone/"><u>Effective Ways to Access Apple's Expert Help: Using the Support App on Your iPhone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/eliminate-photo-redundancies-on-apple-products-with-easy-image-combining-techniques/"><u>Eliminate Photo Redundancies on Apple Products with Easy Image Combining Techniques</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-iphone-lockup-issues-preventing-spotify-from-crashing-on-ios/"><u>Fixing iPhone Lockup Issues: Preventing Spotify From Crashing on iOS</u></a></li>
+<li><a href="https://win-net.techidaily.com/guia-de-recuperacion-para-marcadores-perdidos-o-eliminados-en-microsoft-edge/"><u>Guía De Recuperación Para Marcadores Perdidos O Eliminados en Microsoft Edge</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-troubleshoot-wireless-charger-issues-on-iphones-7-effective-solutions/"><u>How To Troubleshoot Wireless Charger Issues On iPhones: 7 Effective Solutions</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-enhance-social-media-reach-on-facebook-using-proven-seo-methods/"><u>In 2024, Enhance Social Media Reach on Facebook Using Proven SEO Methods</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/premium-access-get-the-full-version-of-winx-mediatrans-for-ios-and-android/"><u>Premium Access: Get the Full Version of WinX MediaTrans for iOS and Android</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/premium-panzoid-structure-packs-for-2024/"><u>Premium Panzoid Structure Packs for 2024</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-oppo-a78-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Oppo A78 | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-top-9-icloud-issues-on-iphone-and-ipad-solutions-inside/"><u>Troubleshooting Top 9 iCloud Issues on iPhone & iPad: Solutions Inside</u></a></li>
+<li><a href="https://fox-that.techidaily.com/ultimate-guide-troubleshooting-when-your-iphone-alarm-fails-to-sound/"><u>Ultimate Guide: Troubleshooting When Your iPhone Alarm Fails to Sound</u></a></li>
 </ul></div>
 

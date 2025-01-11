@@ -1,7 +1,7 @@
 ---
 title: Correcting Problems With the Proximity Detection Function in iPhones
-date: 2025-01-03T00:02:50.208Z
-updated: 2025-01-03T17:23:13.954Z
+date: 2025-01-03T21:49:51.898Z
+updated: 2025-01-10T17:05:20.818Z
 tags:
   - iphone
   - apple
@@ -27,10 +27,6 @@ thumbnail: https://thmb.techidaily.com/6658e9df1d38e14ee675787c7264985ccf523b4b4
 
 ![A gray iPhone 6 on a woman's ear](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/a-gray-iphone-6-on-a-woman-s-ear.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The iPhone's proximity sensor uses infrared light from an emitter at the top of your screen. The sensor measures how long it takes for the rays to reflect off a surface to determine the distance.
 
  There could be things blocking the infrared waves; that's why it's good to run some tests before you conclude that there's something wrong with your iPhone.
@@ -41,6 +37,10 @@ Here are some things you could do to check if it's working:
 * If you don't want to make a call, you could send a voice note to someone on iMessage or WhatsApp and raise the phone to your ear to see if the screen goes off.
 
  Your phone's display should go off In both scenarios. If they don't, you should consult the steps below for troubleshooting.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Steps to Take if Your iPhone's Proximity Sensor Isn't Working
 
@@ -56,15 +56,15 @@ Here are some things you could do to check if it's working:
 
  Be careful not to use rubbing alcohol, window cleaners, vinegar, or any similar grease-cutting products, as they could eat away your screen's coating.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Restart the Target Application or Your iPhone
 
  If you notice that your proximity sensor is still not working after cleaning your screen, it could be the app (like WhatsApp or the Phone app) or iOS misbehaving.
 
  In this case, you should restart the app first. Merely returning to the Home Screen isn't enough; you must open the App Switcher (learn how to do so in our [iPhone navigation basics](https://www.makeuseof.com/how-to-go-back-get-home-switch-apps-iphone/) guide) and swipe up on the target app's preview. Open the app again and try to use the proximity sensor. You can also try [restarting your iPhone](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) for good measure.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. Make Sure Your iPhone Is Up to Date
 
@@ -74,21 +74,13 @@ Here are some things you could do to check if it's working:
 
 ![iPhone searching for updates in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-searching-for-updates-in-settings.jpeg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Software update information on iOS for iOS 16.6](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/software-update-information-on-ios-for-ios-16-6.jpeg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Update terms and conditions on iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/update-terms-and-conditions-on-ios.jpeg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Close
 
@@ -97,6 +89,10 @@ Close
 ### 4\. Remove the Screen Protector
 
 ![man applying screen protector to smartphone feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/man-applying-screen-protector-to-smartphone-feature.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Image Credit: Nor Gal/[Shutterstock](https://www.shutterstock.com/image-photo/man-replacing-broken-tempered-glass-screen-1106925758)
 
@@ -112,6 +108,10 @@ Here's a brief rundown of how to do it:
 4. Pull out the screen protector.
 
  Give the proximity sensor a test to see if that helped. But if you're still out of luck, you have a last-resort option.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 5\. Take Your Phone Back to Apple or an Authorized Service Provider
 
@@ -142,18 +142,17 @@ Here's a brief rundown of how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-full-page-capture-on-device/"><u>[New] In 2024, Full Page Capture on Device</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-protect-your-live-streams-the-periscope-video-howto-for-2024/"><u>[Updated] Protect Your Live Streams The Periscope Video HowTo for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-creative-windows-artistry-free-to-feed-tools-guide/"><u>2024 Approved Creative Windows Artistry - FREE to FEE'd Tools Guide</u></a></li>
-<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-oppo-find-x7-ultra-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Oppo Find X7 Ultra in 3 Ways | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/seamless-pairing-solutions-resolve-your-airpods-iphone-disconnection-frustrations/"><u>Seamless Pairing Solutions: Resolve Your AirPods-iPhone Disconnection Frustrations</u></a></li>
-<li><a href="https://win11.techidaily.com/sidestep-sluggish-outlook-on-your-computer/"><u>Sidestep Sluggish Outlook on Your Computer</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solve-the-problem-of-constantly-moving-sounds-in-your-airpods-by-deactivating-dynamic-headtracking-feature/"><u>Solve the Problem of Constantly Moving Sounds in Your AirPods by Deactivating Dynamic Headtracking Feature</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/step-by-step-guide-to-setting-up-the-ghettos-aurora-build-on-kodi-version-19-the-matrix-edition/"><u>Step-by-Step Guide to Setting Up the Ghetto's Aurora Build on Kodi Version 19 - The Matrix Edition</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshoot-and-fix-an-unresponsive-igadget-with-ease/"><u>Troubleshoot and Fix an Unresponsive iGadget with Ease</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-what-to-do-when-your-iphones-home-button-fails/"><u>Troubleshooting: What To Do When Your iPhone's Home Button Fails?</u></a></li>
-<li><a href="https://fox-that.techidaily.com/understanding-the-limitations-5-barriers-to-sending-gifts-via-apple-devices/"><u>Understanding the Limitations: 5 Barriers to Sending Gifts via Apple Devices</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unveiling-the-secrets-of-high-performance-computers-via-toms-hardware/"><u>Unveiling the Secrets of High-Performance Computers via Tom's Hardware</u></a></li>
-<li><a href="https://fox-that.techidaily.com/use-of-result-patterns-c-80plus/"><u>Use of Result Patterns (C# 8.0+)</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-the-artisans-blueprint-for-striking-image-collage/"><u>2024 Approved The Artisan's Blueprint for Striking Image Collage</u></a></li>
+<li><a href="https://fox-that.techidaily.com/clearing-iphone-water-alert-tips-to-fix-your-phones-charging-issue/"><u>Clearing iPhone Water Alert: Tips to Fix Your Phone's Charging Issue</u></a></li>
+<li><a href="https://fox-that.techidaily.com/essential-fixes-for-a-nonfunctional-safari-browser-on-ios-devices/"><u>Essential Fixes for a Nonfunctional Safari Browser on iOS Devices</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/facebooks-novelty-the-leading-five-new-features-unraveled-for-2024/"><u>Facebook's Novelty The Leading Five New Features Unraveled for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-open-your-iphone-7-without-a-home-button-by-drfone-ios/"><u>In 2024, How To Open Your iPhone 7 Without a Home Button</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-nokia-c32-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Nokia C32 Phones</u></a></li>
+<li><a href="https://howto.techidaily.com/reasons-for-honor-90-lite-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Honor 90 Lite Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolve-your-ios-16-depth-effect-problem-discover-these-7-easy-fixes-for-a-stunning-lockscreen-experience/"><u>Resolve Your iOS 16 Depth Effect Problem: Discover These 7 Easy Fixes for a Stunning Lockscreen Experience</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/the-secret-handbook-to-instagrams-exclusive-club-elevating-your-profile-with-six-tips-for-2024/"><u>The Secret Handbook to Instagram's Exclusive Club Elevating Your Profile with Six Tips for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-xiaomi-redmi-note-13-proplus-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Xiaomi Redmi Note 13 Pro+ 5G without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-imessage-problems-effortlessly-across-apple-devices/"><u>Troubleshoot iMessage Problems Effortlessly Across Apple Devices</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-stuck-icloud-picture-upload-a-guide-with-7-solutions/"><u>Troubleshoot Stuck iCloud Picture Upload: A Guide with 7 Solutions</u></a></li>
 </ul></div>
 

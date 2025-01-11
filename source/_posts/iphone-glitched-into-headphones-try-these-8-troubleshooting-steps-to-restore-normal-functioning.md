@@ -1,7 +1,7 @@
 ---
 title: IPhone Glitched Into Headphones? Try These 8 Troubleshooting Steps to Restore Normal Functioning!
-date: 2024-08-10T03:45:53.623Z
-updated: 2024-08-11T03:45:53.623Z
+date: 2025-01-09T17:05:05.951Z
+updated: 2025-01-10T19:45:24.289Z
 tags:
   - iphone
   - apple
@@ -15,8 +15,9 @@ thumbnail: https://thmb.techidaily.com/4ea85f8fd0d9ab2c6c04d80e6aa73ebac967f8aac
 ## IPhone Glitched Into Headphones? Try These 8 Troubleshooting Steps to Restore Normal Functioning
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Quick Links
 
 * [Disconnect Your Bluetooth Headphones](https://www.makeuseof.com/tag/how-to-fix-iphone-stuck-in-headphone-mode/#disconnect-your-bluetooth-headphones)
@@ -30,9 +31,6 @@ thumbnail: https://thmb.techidaily.com/4ea85f8fd0d9ab2c6c04d80e6aa73ebac967f8aac
 
  Dealing with an iPhone stuck in headphone mode can be frustrating, as it prevents sound from playing through the speakers, even after disconnecting your headphones. Fortunately, it's not difficult to turn off the headphone mode on your iPhone with the solutions below.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ## 1\. Disconnect Your Bluetooth Headphones
 
  Your iPhone allows you to disconnect or unpair your Bluetooth devices, such as headphones, through the Settings app. If your iPhone appears to be stuck connected to Bluetooth headphones, use these steps to disconnect it:
@@ -43,18 +41,16 @@ thumbnail: https://thmb.techidaily.com/4ea85f8fd0d9ab2c6c04d80e6aa73ebac967f8aac
 
 ![Settings Menu on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/settings-menu-on-iphone.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Bluetooth Menu on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/bluetooth-menu-on-iphone.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![Disconnect or Forget Bluetooth Device on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/disconnect-or-forget-bluetooth-device-on-iphone.jpg)
 
 Close
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 2\. Plug and Unplug Your Wired Headphones
 
  Temporary iOS glitches can sometimes mess up your iPhone's headphone detection mechanism and prevent it from detecting the removal of headphones. If it's just a one-off glitch, simply plugging and unplugging your headphones will help you fix the problem.
@@ -72,8 +68,9 @@ Close
 Close
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Clean the Headphone Port
 
  Accumulation of dirt, dust, or lint within your iPhone's 3.5mm headphone jack, Lightning, or USB-C port can lead the device to incorrectly detect headphones as plugged in, even when they're not. Inspect the port on your iPhone for any debris. If you find any, you'll need to clean it out.
@@ -81,6 +78,10 @@ Close
  It's best to turn off your iPhone before inserting anything into its ports to avoid causing a short circuit or introducing a static charge to the electronics. Once powered off, use a cotton swab or a paper clip to remove any dirt or debris from the port gently. You can refer to [our guide on cleaning iPhones](https://www.makeuseof.com/tag/clean-iphone-guide/) for more help.
 
 ![cleaning the Lightning port of an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/02/cleaning-the-lightning-port-of-an-iphone-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Brent Dirks/[MakeUseOf](https://www.makeuseof.com/author/brentdirks/)
 
@@ -94,34 +95,37 @@ Close
 
 [Apple Support document](https://support.apple.com/en-us/HT204104) confirms that eSIM-only iPhones don't have Liquid Contact Indicators on the outside. They're located internally, so you'll need to disassemble your device to find it. However, we don't recommend doing this.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Liquid Contact Indicator on iPhone Models](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/liquid-contact-indicator-on-iphone-models-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Apple](https://support.apple.com/en-us/HT204104)
 
  If your iPhone has suffered water damage recently, it's better to act quickly and get the water out to prevent further damage.[Avoid using rice to dry your iPhone](https://www.makeuseof.com/rice-doesnt-fix-water-damage/) because it may worsen the situation by leaving harmful residue or further obstructing the ports. Instead, refer to [our guide on saving a water-damaged phone](https://www.makeuseof.com/tag/fix-water-damaged-iphone/) for proper instructions.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Install iOS Updates
 
  There's an odd chance your iPhone has become stuck in headphone mode because of a software problem. If that's the case, it shouldn't take long for Apple to release a fix via a software update.
 
  Go to**Settings > General > Software Update** to check for new updates. If any updates are available, download and install them on your iPhone.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![Settings App on iPhone-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/settings-app-on-iphone-1.jpg)
 
 ![General Settings Menu on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/general-settings-menu-on-iphone.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Software Update Menu on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/software-update-menu-on-iphone.jpg)
 
 Close
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Restart Your iPhone
 
@@ -129,18 +133,6 @@ Close
 
  Press and hold the**Side** button with one of the**Volume** buttons (or just hold the**Side** button on iPhone models with a Home button) until the power slider appears. Drag the slider to your right and wait for your iPhone to turn off completely. Then, press and hold the**Side** button again to turn it back on. After that, check if your iPhone outputs audio through its built-in speakers.
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 8\. Factory Reset Your iPhone
 
  If installing iOS updates proves ineffective, you can consider factory resetting your iPhone. This process will erase all data and revert settings to their factory default values, essentially restoring your iPhone to its original state.
@@ -157,8 +149,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -166,4 +156,18 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-get-insightful-what-is-discord-nitro-benefits-and-purchase-paths/"><u>[Updated] 2024 Approved Get Insightful What Is Discord Nitro? Benefits & Purchase Paths</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-top-picks-hd-recording-with-nintendo-switch/"><u>[Updated] 2024 Approved Top Picks HD Recording with Nintendo Switch</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-formulating-flashy-podcast-teasers/"><u>[Updated] Formulating Flashy Podcast Teasers</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-composing-an-alluring-cinematic-teaser-track/"><u>2024 Approved Composing an Alluring Cinematic Teaser Track</u></a></li>
+<li><a href="https://fox-that.techidaily.com/cant-set-up-your-iphone-vpn-connection-follow-this-guide-and-fix-it-in-just-7-steps/"><u>Can't Set Up Your iPhone VPN Connection? Follow This Guide and Fix It in Just 7 Steps!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/four-key-fixes-for-overcoming-standby-not-working-on-the-latest-iphones/"><u>Four Key Fixes for Overcoming 'StandBy Not Working' On the Latest iPhones</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-crafting-quality-content-setting-up-your-mac-for-minecraft-sessions/"><u>In 2024, Crafting Quality Content Setting Up Your Mac for Minecraft Sessions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/mastering-ipad-recovery-mode-a-comprehensive-how-to-guide/"><u>Mastering iPad Recovery Mode: A Comprehensive How-To Guide</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastering-text-design-with-ae-top-10-tips-for-2024/"><u>Mastering Text Design with AE Top 10 Tips for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-silence-the-ultimate-guide-to-troubleshoot-iphones-no-sound-issue/"><u>Solving Silence: The Ultimate Guide to Troubleshoot iPhone's No-Sound Issue</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-5-solutions-how-to-resolve-constant-iphone-wi-fi-connection-issues/"><u>Top 5 Solutions: How to Resolve Constant iPhone Wi-Fi Connection Issues</u></a></li>
+</ul></div>
 

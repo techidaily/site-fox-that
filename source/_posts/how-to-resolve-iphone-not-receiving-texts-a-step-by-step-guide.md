@@ -1,7 +1,7 @@
 ---
 title: "How To Resolve 'iPhone Not Receiving Texts': A Step-by-Step Guide"
-date: 2024-08-15T11:56:47.571Z
-updated: 2024-08-16T11:56:47.571Z
+date: 2025-01-06T16:59:08.085Z
+updated: 2025-01-11T00:30:05.953Z
 tags:
   - iphone
   - apple
@@ -34,21 +34,20 @@ thumbnail: https://thmb.techidaily.com/e7a938c8213dc5d370405bab4afa736e010a188d2
 
  If you're receiving messages from other iPhones but not Android phones, this could be the reason. If that still doesn't help, but you are receiving iMessage texts, you can learn more about what to do if you're [not receiving texts from Android](https://www.makeuseof.com/iphone-not-receiving-android-texts/) .
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ## 2\. Edit Send & Receive Settings
 
 ![iOS settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/messages-settings-ios16.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![iphone messages settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/iphone-messages-settings.jpg)
 
 ![selecting email address for imessage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/apple-imessage-settings.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Close
@@ -59,9 +58,6 @@ Close
 
  Some people might be sending you messages to your email address unknowingly, so changing this particular setting will make it possible to receive these messages.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Make Sure You Have Cellular or Wi-Fi for iMessage
 
  If you are waiting for an iMessage from another iPhone user and aren't getting it, you could have a bad connection. iMessage requires Wi-Fi or cellular data to work.
@@ -69,6 +65,10 @@ Close
  If you have cellular data turned off or aren't connected to Wi-Fi, you won't receive iMessage texts until you reconnect. Also, if you are getting texts from some people and not others, you might be having [issues with iMessage in general](https://www.makeuseof.com/tag/imessage-not-working-on-mac-iphone-ipad/) .
 
  To solve this issue, reconnect to Wi-Fi or cellular data. And if you don't have a good connection, you can try the next step.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Bad Connection? Turn on Send as SMS
 
@@ -80,9 +80,6 @@ Close
 
 ![send as sms](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/send-as-sms.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 5\. Turn Off Message Filtering
 
 [iPhones allow you to filter text messages](https://www.makeuseof.com/how-to-filter-iphone-messages/) from unknown senders. While this is off by default, you may have accidentally turned it on. If that's the case, you could be missing text messages from numbers you don't have saved on your phone.
@@ -91,7 +88,15 @@ Close
 
 ![filter unknown senders](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/filter-unknown-senders.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once you turn it off, head to the Messages app to find any unread messages that the filter hid. Filtered messages don't get deleted. Instead, they get stored in another folder. Once you turn off Message Filtering, you'll see them in the**Messages** app.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Reset Your Network Settings
 
@@ -102,9 +107,6 @@ Close
  To do this, head to **Settings > General > Transfer or Reset iPhone > Reset > Reset Network Settings** .
 
 ![reset network settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/reset-network-settings.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  After resetting your network settings, get someone to send you another text message. If you still can't receive it, you can always try [resetting your iPhone entirely](https://www.makeuseof.com/tag/how-to-factory-reset-iphone-ipad/) . However, that is time-consuming and might not work.
 
@@ -115,6 +117,10 @@ Close
  If you pay your carrier for service and aren't receiving text messages, the carrier is responsible for restoring your text messaging. The carrier can verify your plan, check for outages, and try resetting your account if necessary. You may also want to consider trying a new SIM card and see if that helps.
 
  When calling your carrier, just let them know you aren't receiving text messages. If the carrier can't help you, consider switching to a different network provider unless you have a [carrier-locked phone](https://www.makeuseof.com/unlocked-vs-locked-phone/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## iPhone Not Receiving Texts? There Are Things You Can Do
 
@@ -130,8 +136,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -139,4 +143,26 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-seeking-solutions-why-no-facebook-videos-pop-up/"><u>[New] 2024 Approved Seeking Solutions Why No Facebook Videos Pop Up?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-text-techniques-top-10-video-enhancers/"><u>[New] 2024 Approved Text Techniques Top 10 Video Enhancers</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-innovative-strategies-for-youtube-video-closures/"><u>[New] Innovative Strategies for YouTube Video Closures</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-next-gen-game-viewing-top-5-hdmi-21-infinity-refresh-rates-for-2024/"><u>[New] Next-Gen Game Viewing Top 5 HDMI 2.1 Infinity Refresh Rates for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-leading-budget-friendly-record-software-showdown-in-games/"><u>2024 Approved Leading Budget-Friendly Record Software Showdown in Games</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/drive-traffic-generate-leads-mastering-telegram-marketing-for-2024/"><u>Drive Traffic, Generate Leads Mastering Telegram Marketing for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/explore-these-5-fantastic-no-cost-language-apps-that-are-dominating-2024/"><u>Explore These 5 Fantastic, No-Cost Language Apps That Are Dominating 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-texting-issues-discover-10-effective-fixes-for-message-failures/"><u>IPhone Texting Issues: Discover 10 Effective Fixes for Message Failures</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/laugh-ledger-pinpointing-prime-meme-generators/"><u>Laugh Ledger Pinpointing Prime Meme Generators</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcome-issues-with-stalled-ios-updates-using-our-6-step-guide/"><u>Overcome Issues With Stalled iOS Updates Using Our 6-Step Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/quick-reaction-time-in-updated-win11/"><u>Quick Reaction Time in Updated Win11</u></a></li>
+<li><a href="https://fox-that.techidaily.com/tackle-the-most-vexing-iphone-x-issues-with-these-effective-fixes/"><u>Tackle the Most Vexing iPhone X Issues with These Effective Fixes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-9-signs-your-iphone-has-been-exposed-to-liquid/"><u>Top 9 Signs Your iPhone Has Been Exposed To Liquid</u></a></li>
+<li><a href="https://fox-that.techidaily.com/tracing-back-your-facetime-visual-memories-tips-on-finding-stored-image-files/"><u>Tracing Back Your FaceTime Visual Memories - Tips on Finding Stored Image Files</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-apple-idevice-wi-fi-woes-with-these-8-effective-tips/"><u>Troubleshoot Apple iDevice Wi-Fi Woes with These 8 Effective Tips</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-siri-why-arent-siri-suggestions-showing-on-your-iphone/"><u>Troubleshooting Siri: Why Aren't Siri Suggestions Showing on Your iPhone?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-steps-for-resolving-sim-card-not-provided-message-mmi-mm2-issue/"><u>Troubleshooting Steps for Resolving SIM Card 'Not Provided, Message MMI' (MM2) Issue</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unseen-reminders-on-ios-correct-it-with-our-expert-7-solutions-for-notification-issues/"><u>Unseen Reminders on iOS? Correct It with Our Expert 7 Solutions for Notification Issues</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Apple iPhone X | Dr.fone</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Troubleshoot and Correct a Rejected Payment Method on Apple Services
-date: 2024-08-10T03:47:09.307Z
-updated: 2024-08-11T03:47:09.307Z
+date: 2025-01-03T18:17:39.261Z
+updated: 2025-01-10T19:16:14.729Z
 tags:
   - iphone
   - apple
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/9b8cd7a1defe234b7c5e19ea975a65111eb68a7f9
 
  Or perhaps you want to add a payment method to your Apple ID, but it gets declined. What do you do in either situation? Below, we'll list a few steps you can take when Apple declines your payment method.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Check Your Payment Information
 
  When Apple declines your payment method, the first thing to try is to check your payment information to ensure it's accurate and up-to-date. If your billing details, such as your address or ZIP code, is incorrect, this can cause your payment method to be declined.
@@ -31,21 +35,19 @@ To check your payment information on an iPhone or iPad:
 3. Check your card number, expiry date, CVV, and billing information. If you notice any discrepancies, update them.
 4. Tap**Done** in the top-right corner.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ![Settings in iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/settings-in-ios.jpeg)
 
 ![Apple ID Menu in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/apple-id-menu-in-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Payment and Shipping Menu Options in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/payment-and-shipping-menu-options-in-settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -57,16 +59,14 @@ To check your payment information on a Mac:
 4. Click on**Edit** beside your payment method, then check your payment information and fix inaccuracies if you notice any.
 5. Click**Done** in the bottom-right corner to save your changes.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Account Information Details from the App Store on macOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/account-information-details-from-the-app-store-on-macos.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  There you go. You've successfully checked and updated your payment information.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 2\. Try a Different Payment Method
 
  If Apple still declines your payment method, try a different payment method. You can add a new card to your Apple ID and see if it works.
@@ -75,9 +75,6 @@ To check your payment information on a Mac:
 
  Check [Apple's Support page](https://support.apple.com/en-us/HT202631) to see what payment methods you can use with your Apple ID.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Close up shot of a man's hand holding a bunch of debit cards](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/close-up-shot-of-a-man-s-hand-holding-a-bunch-of-debit-cards.jpg)
 
 ## 3\. Sign Out and Sign Back In
@@ -109,9 +106,6 @@ To sign out of the App Store on a Mac:
 
  To log back in, click**Sign In** in the bottom-left corner of the App Store's window and enter your Apple ID username and password.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Take Care of Outstanding Payments
 
  Your card may be declined in places like the App Store or iTunes Store if you have outstanding payments. To check for unpaid purchases, view your App Store purchase history.
@@ -122,11 +116,11 @@ Do the following to view your App Store purchases on an iPhone or iPad.
 2. Tap**Media & Purchases** from the Apple ID settings menu and choose**View Account** .
 3. Now, scroll down and tap on**Purchase** **History** . You may be required to sign in.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![Media & Purchases popup menu on iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/media-purchases-popup-menu-on-ios.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![Account Settings menu on iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/account-settings-menu-on-ios-1.jpeg)
 
@@ -139,8 +133,9 @@ Close
  After resolving any outstanding payments, you should be able to make purchases using your payment method. However, ensure you have sufficient funds first.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Contact Your Bank or Credit Card Company
 
  If you have sufficient funds in your bank account and your payment information is accurate, but you still can't add or use your payment method, contact your bank or credit card company. They should be able to explain the issue and help you resolve it.
@@ -150,8 +145,9 @@ Close
  If all else fails, contact Apple Support as soon as possible. You can visit [Apple's Get Support site](https://getsupport.apple.com/) to explain your problem. An expert technician should be able to assist you with your payment method problem.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Troubleshoot Your Apple ID Payment Issues
 
  It can be frustrating when Apple declines your payment method, but the good news is that you can try a few things to get to the root of the problem and fix it. Start by checking your payment information, then proceed from there.
@@ -164,8 +160,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -173,4 +167,21 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-find-hotspots-for-online-video-dialogue/"><u>[New] In 2024, Find Hotspots for Online Video Dialogue</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-instaharmony-androidplusios-photo-video-alchemy/"><u>[New] InstaHarmony Android+iOS Photo-Video Alchemy</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-probing-into-asuss-proart-pa-329q-professional-4k-display-review-insights/"><u>[Updated] Probing Into Asus's ProArt PA 329Q – Professional 4K Display Review Insights</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-decoding-and-mastering-the-true-significance-of-pfp-in-tiktok-world/"><u>2024 Approved Decoding and Mastering The True Significance of PFP in TikTok World</u></a></li>
+<li><a href="https://fox-that.techidaily.com/airpod-woes-stop-them-from-hopping-between-iphones-and-macs-heres-how/"><u>AirPod Woes? Stop Them From Hopping Between iPhones and Macs Here's How</u></a></li>
+<li><a href="https://fox-that.techidaily.com/back-to-basics-restoring-your-iphone-without-the-need-for-itunes-software/"><u>Back to Basics: Restoring Your iPhone Without the Need for iTunes Software</u></a></li>
+<li><a href="https://fox-that.techidaily.com/confused-by-text-instead-of-imessage-heres-how-to-tell-if-someone-blocked-you/"><u>Confused by Text Instead of iMessage? Here's How to Tell if Someone Blocked You</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-8-key-iphone-settings-can-improve-life-for-people-with-visual-challenges/"><u>How 8 Key iPhone Settings Can Improve Life for People With Visual Challenges</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-exclusive-fb-to-mp3-conversion-just-click-instant-results/"><u>In 2024, Exclusive FB to MP3 Conversion - Just Click, Instant Results</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-honor-x50-gt-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Honor X50 GT Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-apple-id-from-apple-iphone-8-plus-without-password-by-drfone-ios/"><u>In 2024, How to Remove Apple ID from Apple iPhone 8 Plus without Password?</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209668251-9781632658173-self-initiation-for-the-solitary-witch/"><u>Self-Initiation for the Solitary Witch | Free Book</u></a></li>
+<li><a href="https://fox-that.techidaily.com/step-by-step-guide-fixing-issues-with-safari-on-your-iphone-quickly-and-easily/"><u>Step-by-Step Guide: Fixing Issues with Safari on Your iPhone Quickly and Easily</u></a></li>
+<li><a href="https://fox-that.techidaily.com/step-by-step-troubleshooting-overcoming-the-error-0xc19001e1-on-your-windows-10-system/"><u>Step-by-Step Troubleshooting: Overcoming the Error 0xC19001E1 on Your Windows 10 System</u></a></li>
+</ul></div>
 

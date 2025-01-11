@@ -1,7 +1,7 @@
 ---
 title: "Unstuck Your Family Sharing: Essential Steps & Quick Fixes You Must Try"
-date: 2025-01-01T04:30:18.560Z
-updated: 2025-01-03T18:56:05.821Z
+date: 2025-01-07T18:00:17.956Z
+updated: 2025-01-11T01:54:32.406Z
 tags:
   - iphone
   - apple
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/99663f80a681577ef6d172804500e3555c286bc17
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Check Apple's System Status Page
@@ -35,11 +35,11 @@ thumbnail: https://thmb.techidaily.com/99663f80a681577ef6d172804500e3555c286bc17
 
 ![Apple's System Status page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/apple-s-system-status-page.jpeg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  This will hardly be the culprit, but it's worth checking before going into the more detailed fixes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Turn on Purchase Sharing and Share With Family
 
@@ -56,17 +56,13 @@ Here's how to turn it on using an iPhone or iPad:
 
 ![Family menu on iOS 16 Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/1.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Family purchase sharing prompt screen on iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/2.jpeg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Purchase Sharing menu displaying payment options and family members on iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/3-1.jpeg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Close
 
@@ -78,11 +74,11 @@ And here's how to do the same on a Mac:
 
 ![Purchase Sharing prompt in System Settings on macOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/purchase-sharing-prompt-in-system-settings-on-macos.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 This might fix your issue, but try the next step if it doesn't.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Change Apple ID Region
 
@@ -99,10 +95,6 @@ Here's a quick way to do it on your browser:
 
 ![Dreamchild's Apple ID personal information page on the Apple ID website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/dreamchild-s-apple-id-personal-information-page-on-the-apple-id-website.jpeg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Sign Out and Sign In to Media & Purchases
 
  First, you must ensure you're using the same Apple ID for Family Sharing and Media & Purchases. You can find it in**Settings** \>**Family** \>**Your Name** \>**Purchases** \>**Apple ID for Purchases** . Confirm that your Apple ID for purchases is the same as your regular Apple ID.
@@ -115,11 +107,11 @@ Here's a quick way to do it on your browser:
 
 ![Settings home screen on iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/1-1.jpeg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Media & Purchases sub-settings in Apple ID menu on iOS Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/2-1.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![Prompt to confirm Media & Purchases sign out on iOS Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/3-2.jpeg)
 
@@ -152,7 +144,15 @@ If the problematic device is a Mac, do this instead:
 
 ![System Settings Apple ID page displaying sign out button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/system-settings-apple-id-page-displaying-sign-out-button.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This should refresh the App Store and other apps, and it should now recognize that the signed-in Apple ID has access to the shared subscriptions.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Add the Family Member Again
 
@@ -166,10 +166,6 @@ Here's how to do it on iOS and iPadOS:
 
 ![Family menu on iOS 16 Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/1.jpeg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Faizah's Family menu displaying option to Remove Faizah from Family](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/faizah-s-family-menu-displaying-option-to-remove-faizah-from-family.jpeg)
 
 Close
@@ -181,6 +177,10 @@ If you're on a Mac, follow these steps instead:
 3. Invite them back by clicking**Add Member** in the Family menu and following the on-screen instructions.
 
 ![Family member sub-window in System Settings on macOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/family-member-sub-window-in-system-settings-on-macos.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you want to learn more about managing your family members, you can read our guide on [how to stop using Apple Family](https://www.makeuseof.com/how-to-stop-apple-family-sharing-or-remove-members/) .
 
@@ -207,17 +207,24 @@ If you're on a Mac, follow these steps instead:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/updated-tips-for-overcoming-iphone-camera-focusing-glitches/"><u>[Updated] Tips for Overcoming iPhone Camera Focusing Glitches</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fixing-sign-out-errors-in-imessage-for-a-seamless-messaging-experience-on-your-iphone/"><u>Fixing Sign-Out Errors in iMessage for a Seamless Messaging Experience on Your iPhone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/guide-streaming-your-phones-video-on-amazon-fire-tv-with-ease/"><u>Guide: Streaming Your Phone's Video on Amazon Fire TV with Ease</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-htc-u23-pro-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your HTC U23 Pro Screen to PC with Chromecast | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-realme-narzo-n55-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Realme Narzo N55 | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-nokia-c32mirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Nokia C32Mirror Share to PC? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/rapidly-reach-bing-ai-with-windows-11-search-shortcuts/"><u>Rapidly Reach Bing AI with Windows 11 Search Shortcuts</u></a></li>
-<li><a href="https://fox-that.techidaily.com/simplify-photo-management-combining-identical-person-albums-using-iphoneipad-or-mac-tools/"><u>Simplify Photo Management: Combining Identical Person Albums Using iPhone/iPad or Mac Tools</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solve-your-flickering-mobile-display-dilemma-with-these-7-tips/"><u>Solve Your Flickering Mobile Display Dilemma With These 7 Tips</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solving-the-issue-of-non-visible-events-in-ios-calendar/"><u>Solving the Issue of Non-Visible Events in iOS Calendar</u></a></li>
-<li><a href="https://some-tips.techidaily.com/transform-your-imagery-with-ar-and-accessible-luts-for-2024/"><u>Transform Your Imagery with AR & Accessible LUTs for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-your-icloud-connection-fixing-prevalent-glitches-on-iphone-and-ipad/"><u>Troubleshooting Your iCloud Connection: Fixing Prevalent Glitches on iPhone & iPad</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-financial-flourishing-with-glamour-vlogs/"><u>[New] 2024 Approved Financial Flourishing with Glamour Vlogs</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-precision-in-speech-synthesis-converting-text-formats-to-srt/"><u>[New] Precision in Speech Synthesis Converting Text Formats to SRT</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-unveiling-the-mystery-of-private-storymaking-in-snapchat/"><u>[New] Unveiling the Mystery of Private Storymaking in Snapchat</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-the-ultimate-edge-testing-gopros-hero5-black-against-sessions/"><u>[Updated] 2024 Approved The Ultimate Edge Testing GoPro's Hero5 Black Against Sessions</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-dual-domain-delight-posting-videos-across-social-platforms/"><u>[Updated] Dual-Domain Delight Posting Videos Across Social Platforms</u></a></li>
+<li><a href="https://games-able.techidaily.com/acquiring-googles-console-style-gaming-experience-for-computer-use/"><u>Acquiring Google's Console-Style Gaming Experience for Computer Use</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-most-advanced-and-sleek-ceiling-audio-innovations-available-in-cuy-24/"><u>Discover the Most Advanced and Sleek Ceiling Audio Innovations Available in Cuy-24</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/dive-into-the-dos-and-donts-of-youtube-beauty-channels/"><u>Dive Into the Do's and Don'ts of YouTube Beauty Channels</u></a></li>
+<li><a href="https://fox-that.techidaily.com/effortlessly-transfer-your-audio-experience-with-airpods-between-apple-devices-6-fixes/"><u>Effortlessly Transfer Your Audio Experience with AirPods Between Apple Devices – 6 Fixes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-malfunctioning-widgets-in-under-10-minutes-tips-for-iphone-and-ipad-users/"><u>Fixing Malfunctioning Widgets in Under 10 Minutes: Tips for iPhone and iPad Users</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/guida-rapida-due-tecniche-rapide-per-ripristinare-lefi-eliminato-su-windows-nativi-nel-tuo-computer/"><u>Guida Rapida: Due Tecniche Rapide per Ripristinare L'EFI Eliminato Su Windows Nativi Nel Tuo Computer!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-allow-contacts-through-when-you-enable-dnd-top-8-tips-for-iphones/"><u>How to Allow Contacts Through When You Enable DND: Top 8 Tips for iPhones</u></a></li>
+<li><a href="https://fox-that.techidaily.com/mastering-dfu-mode-to-fix-5-troublesome-iphone-errors-effectively/"><u>Mastering DFU Mode to Fix 5 Troublesome iPhone Errors Effectively</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcome-iphone-delays-discover-6-reasons-and-fixes-for-a-faster-device/"><u>Overcome iPhone Delays: Discover 6 Reasons and Fixes for a Faster Device</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-the-iphone-13-hurdles-a-guide-to-resolving-top-6-issues/"><u>Overcoming the iPhone 13 Hurdles: A Guide to Resolving Top 6 Issues</u></a></li>
+<li><a href="https://fox-that.techidaily.com/six-effective-fixes-when-your-aol-mail-keeps-crashing-on-ios-devices/"><u>Six Effective Fixes When Your AOL Mail Keeps Crashing on iOS Devices</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-definitive-list-best-free-html-coding-apps-for-windows-users/"><u>The Definitive List: Best Free HTML Coding Apps for Windows Users</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-solutions-for-when-your-iphone-displays-sos-on-the-status-bar/"><u>Top Solutions for When Your iPhone Displays 'SOS' On the Status Bar</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-iphone-how-to-repair-non-functional-volume-controls/"><u>Troubleshooting iPhone: How to Repair Non-Functional Volume Controls</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting GPS Problems When 'Location Not Available' Appears on iPhone
-date: 2024-12-30T00:53:56.845Z
-updated: 2025-01-04T05:34:12.923Z
+date: 2025-01-10T01:40:36.181Z
+updated: 2025-01-11T00:05:47.070Z
 tags:
   - iphone
   - apple
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/738b7371069538e959521966db00e5f006e9b11d9
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Fix "Location Not Available" From Your Own iPhone
 
  There isn't a lot you can do yourself if Messages or the Find My app says "Location Not Available" when someone has chosen to [share their iPhone location with you](https://www.makeuseof.com/how-to-share-location-iphone/) . But it's still easiest to try these steps first, before involving somebody else.
@@ -39,14 +43,22 @@ To force quit Messages or Find My:
 
 ![Home Screen on iPhone.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/1-iphone-home-screen.PNG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![App Switcher on iPhone.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/2-app-switcher.PNG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![Force-quitting an app on iPhone.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/3-force-quit-app.PNG)
 
 Close
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Restart Your iPhone
@@ -57,10 +69,6 @@ Close
 
  If the two fixes above didn't help, you'll need to shift your attention to your friend or family member's iPhone. Walk them through the fixes below on a call. Or, share this post with them and make sure they follow the instructions in this section.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Toggle Share My Location Off and On
 
  Disabling and re-enabling Share My Location in the Find My preferences can help an iPhone broadcast its location again. To do that, go to**Settings** and tap the person's name at the top of the screen, then select**Find My** . Toggle the switch next to**Share My Location** off and then on.
@@ -68,18 +76,18 @@ Close
 ![Settings app on iPhone.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/4-settings-app.PNG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Apple ID settings screen.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/5-apple-id-settings.PNG)
 
 ![Find My preferences.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/6-share-my-location-1.PNG)
 
-Close
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+Close
 
 ### Share the Location in Messages and Find My Again
 
@@ -94,15 +102,15 @@ Close
 
 ![Start sharing my location.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/9-info-pane-alt.PNG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Close
 
 ### Restart the iPhone
 
  The simplest method is to go to**Settings > General > Shut Down** . Then, press and hold the**Side** or**Top** button to restart the iPhone.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Check the Date and Time
 
@@ -110,17 +118,13 @@ Close
 
 ![iPhone Settings screen.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/10-iphone-settings.PNG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![General settings screen on iPhone.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/11-general-settings.PNG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Date or time screen on iPhone.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/12date-time.PNG)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Close
 
@@ -129,10 +133,6 @@ Close
  Spotty Wi-Fi can also play a factor, so try using cellular or mobile data instead. To do that, open the iPhone's**Control Center** (swipe down from the top-right of the screen or swipe up from the bottom if your iPhone has a Home button) and tap the**Wi-Fi** icon to disable it.
 
  If cellular data is active, the iPhone should automatically start using it. If not, tap the**Cellular** icon to activate it. Just make sure you don't have any [cellular data problems on your iPhone](https://www.makeuseof.com/iphone-cellular-data-not-working-fixes/) as well.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Sharing Your Location Isn't Always Wise
 
@@ -153,24 +153,20 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-building-a-better-movie-utilizing-windows-11s-movie-maker/"><u>[New] 2024 Approved Building a Better Movie Utilizing Windows 11'S Movie Maker</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-transform-your-youtube-footage-into-cinematic-delight-with-imovie-expertise/"><u>[Updated] 2024 Approved Transform Your YouTube Footage Into Cinematic Delight with iMovie Expertise</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-unlocking-ultra-clear-video-in-zoom-meetings/"><u>[Updated] 2024 Approved Unlocking Ultra-Clear Video in Zoom Meetings</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-webcam-wizardry-for-creative-minds-for-2024/"><u>[Updated] Webcam Wizardry for Creative Minds for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/beta-blocker-metabolism-is-often-mediated-by-liver-enzymes-with-genetic-variations-affecting-drug-levels/"><u>Beta Blocker Metabolism Is Often Mediated by Liver Enzymes, with Genetic Variations Affecting Drug Levels.</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/dell-audio-driver-fixes-and-solutions-for-your-windows-7-system/"><u>Dell Audio Driver Fixes and Solutions for Your Windows 7 System</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discover-the-ultimate-list-13-free-pdf-editors-for-july-2024/"><u>Discover the Ultimate List: 13 Free PDF Editors for July 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-avoid-spotify-disruptions-when-your-iphone-sleeps-mode-kicks-in/"><u>How to Avoid Spotify Disruptions When Your iPhone Sleeps Mode Kicks In</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-enablerestore-sms-ringtones-for-iphones-with-complete-step-by-step-fixes-15plus-tips/"><u>How to Enable/Restore SMS Ringtones for iPhones with Complete Step-by-Step Fixes (15+ Tips)</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-beyond-acid-the-future-of-graphic-vectors/"><u>In 2024, Beyond ACID The Future of Graphic Vectors</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-computational-photography-what-are-auto-hdr-smart-hdr-3-and-4-shooting-modes/"><u>In 2024, Computational Photography What Are Auto HDR, Smart HDR 3 & 4 Shooting Modes?</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/next-gen-powerhouse-unveiled-exclusive-review-of-the-macbook-pro-13-inch-m1-model/"><u>Next-Gen Powerhouse Unveiled: Exclusive Review of the MacBook Pro 13-Inch M1 Model</u></a></li>
-<li><a href="https://fox-that.techidaily.com/safari-on-iphone-running-slow-learn-how-to-make-it-zoom-ahead-in-just-4-steps/"><u>Safari on iPhone Running Slow? Learn How to Make It Zoom Ahead in Just 4 Steps</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-art-of-iphone-cinematography-transforming-fast-motion-into-sluggish-sequences/"><u>The Art of iPhone Cinematography Transforming Fast Motion Into Sluggish Sequences</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-guide-solving-your-airplay-connectivity-issues/"><u>Troubleshooting Guide: Solving Your AirPlay Connectivity Issues</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-non-responsive-keyboards-on-iphoneipad-top-6-fixes/"><u>Troubleshooting Non-Responsive Keyboards on iPhone/iPad - Top 6 Fixes</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-uneven-sound-solutions-for-when-one-airpod-is-louder/"><u>Troubleshooting Uneven Sound: Solutions for When One AirPod Is Louder</u></a></li>
-<li><a href="https://fox-that.techidaily.com/unlocking-faster-mobile-download-rates-a-comprehensive-10-step-strategy/"><u>Unlocking Faster Mobile Download Rates: A Comprehensive 10-Step Strategy</u></a></li>
-<li><a href="https://fox-that.techidaily.com/unstick-your-ios-device-3-quick-fixes-for-iphone-contacts-issues/"><u>Unstick Your iOS Device: 3 Quick Fixes for iPhone Contacts Issues</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-getting-started-with-obs-on-apple-a-comprehensive-guide/"><u>[New] Getting Started with OBS on Apple A Comprehensive Guide</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-the-complete-guide-to-enthralling-boomers-on-snapchat-for-2024/"><u>[New] The Complete Guide to Enthralling Boomers on Snapchat for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-expert-advice-moving-multimedia-on-apple-gear/"><u>[Updated] 2024 Approved Expert Advice Moving Multimedia on Apple Gear</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-iphone-lens-exploration-key-angles-to-elevate-your-photo-game/"><u>2024 Approved IPhone Lens Exploration Key Angles to Elevate Your Photo Game</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209541847-9781401944681-chris-p-bacon/"><u>Chris P. Bacon | Free Book</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-windows-11-endless-restart-loop/"><u>How to Fix Windows 11 Endless Restart Loop</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-infinix-smart-7-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Infinix Smart 7 | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-keeps-photos-in-secret-cache-discover-the-top-8-ways-to-clear-it/"><u>IPhone Keeps Photos in Secret Cache? Discover the Top 8 Ways to Clear It!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/quick-start-gpt-4-for-current-chatgpt-engagements/"><u>Quick Start: GPT-4 for Current ChatGPT Engagements</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-auto-brightness-issues-top-7-tips-to-restore-functionality-on-iphones/"><u>Solving Auto-Brightness Issues: Top 7 Tips to Restore Functionality on iPhones</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-guide-moving-your-iphone-applications-seamlessly-between-iphones/"><u>Step-by-Step Guide: Moving Your iPhone Applications Seamlessly Between iPhones</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-iphones-essential-fixes-for-non-receiving-text-messages/"><u>Troubleshoot iPhones: Essential Fixes for Non-Receiving Text Messages</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-depth-effect-issues-on-ios-16-lock-screen-a-comprehensive-guide-with-7-solutions/"><u>Troubleshooting Depth Effect Issues on iOS 16 Lock Screen: A Comprehensive Guide with 7 Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-guide-fixing-a-non-responsive-proximity-sensor-on-an-iphone/"><u>Troubleshooting Guide: Fixing a Non-Responsive Proximity Sensor on an iPhone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/why-cant-my-iphone-find-its-location-fix-common-errors-now/"><u>Why Can't My iPhone Find Its Location? Fix Common Errors Now</u></a></li>
 </ul></div>
 

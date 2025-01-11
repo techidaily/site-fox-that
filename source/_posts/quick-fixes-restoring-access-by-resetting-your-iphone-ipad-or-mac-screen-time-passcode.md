@@ -1,7 +1,7 @@
 ---
 title: "Quick Fixes: Restoring Access by Resetting Your iPhone, iPad or Mac Screen Time Passcode"
-date: 2024-08-10T03:44:17.160Z
-updated: 2024-08-11T03:44:17.160Z
+date: 2025-01-05T18:13:12.734Z
+updated: 2025-01-10T21:59:14.748Z
 tags:
   - iphone
   - apple
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/8dff629c3669eeacd81da2258d66f3b6e2ba5af06
 * [How to Reset the Screen Time Passcode on Your Mac](https://www.makeuseof.com/how-to-reset-screen-time-passcode-iphone-ipad-mac/#how-to-reset-the-screen-time-passcode-on-your-mac)
 * [How to Reset the Screen Time Passcode for Your Child's Device](https://www.makeuseof.com/how-to-reset-screen-time-passcode-iphone-ipad-mac/#how-to-reset-the-screen-time-passcode-for-your-child-39-s-device)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * You can reset your Screen Time passcode with your Apple ID account details.
@@ -28,9 +32,6 @@ thumbnail: https://thmb.techidaily.com/8dff629c3669eeacd81da2258d66f3b6e2ba5af06
 
  Have you set a Screen Time passcode on your Apple device (or your child's to prevent them from messing around with settings), only to forget it later? Don't worry—resetting the Screen Time passcode on an iPhone, iPad, or Mac is simple!
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 ## How to Reset the Screen Time Passcode on Your iPhone or iPad
 
  Here's what you need to do to reset the Screen Time passcode on your iPhone or iPad:
@@ -46,12 +47,13 @@ thumbnail: https://thmb.techidaily.com/8dff629c3669eeacd81da2258d66f3b6e2ba5af06
 
 ![changing or turning off Screen Time Passcode in the settings app on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/changing-or-turning-off-screen-time-passcode-in-the-settings-app-on-an-iphone.PNG)
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ![entering old screen time passcode on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/entering-old-screen-time-passcode-on-an-iphone.PNG)
 
 ![iPhone screen displaying Screen Time Passcode Recovery page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/iphone-screen-displaying-screen-time-passcode-recovery-page.PNG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -67,11 +69,12 @@ Close
 4. Click**Forgot Passcode?**
 5. Enter your Apple ID email and click**Next** or hit the**Return** key.
 6. Enter your Apple ID password and click**Next** or hit the**Return** key.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Mac Screen Time passcode recovery screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/mac-screen-time-passcoderecovery-screen.png)
 7. Finally, enter a new Screen Time passcode and then enter it again to verify.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once again, you're out of luck if you don't have**Share Across Devices** enabled and skipped the Screen Time passcode recovery step during setup.
 
@@ -82,8 +85,9 @@ Close
  You must be the family organizer to reset your child's Screen Time passcode.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### On an iPhone or iPad
 
  To reset the Screen Time passcode on your child's Apple device from your iPhone or iPad, follow the steps below:
@@ -95,28 +99,24 @@ Close
 5. You'll now be prompted to enter your device's passcode. If you use Touch ID or Face ID to unlock your device, you may scan your finger or face to proceed with the authentication process.
 6. Finally, enter the new Screen Time passcode and type it again to confirm.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![Family section in the Settings app on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/family-section-in-the-settings-app-on-an-iphone.PNG)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![A child's account settings on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/a-child-s-account-settings-on-an-iphone.PNG)
 
 ![A child's screen time settings on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/a-child-s-screen-time-settings-on-an-iphone.PNG)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ![changing or turning off a child's Screen Time Passcode in the settings app on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/changing-or-turning-off-a-child-s-screen-time-passcode-in-the-settings-app-on-an-iphone.PNG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ### On a Mac
 
  Here's what you need to do if you'd like to reset the Screen Time passcode for your child's device using your Mac:
@@ -139,8 +139,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -148,4 +146,18 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-accessing-global-events-facebook-live-on-roku-devices/"><u>[New] 2024 Approved Accessing Global Events Facebook Live on Roku Devices</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-skype-recording-techniques-for-pc-mac-users/"><u>[New] In 2024, Skype Recording Techniques for PC, Mac Users</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-mastering-podcast-xml-creating-rss-feeds-from-scratch/"><u>[Updated] Mastering Podcast XML Creating RSS Feeds From Scratch</u></a></li>
+<li><a href="https://fox-that.techidaily.com/expert-tips-resolve-these-top-5-iphone-faults-via-dfu-methodology/"><u>Expert Tips: Resolve These Top 5 iPhone Faults via DFU Methodology</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-lava-blaze-curve-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Lava Blaze Curve 5G without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/listing-everyone-who-likes-you/"><u>Listing Everyone Who Likes You</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-windows-settings-a-guide-to-clear-screen-conflicts/"><u>Mastering Windows Settings: A Guide to Clear Screen Conflicts</u></a></li>
+<li><a href="https://fox-that.techidaily.com/struggling-to-control-your-iphone-volume-settings-a-simple-guide-inside/"><u>Struggling to Control Your iPhone Volume Settings? A Simple Guide Inside</u></a></li>
+<li><a href="https://fox-that.techidaily.com/struggling-with-tardy-text-notifications-on-your-iphone-apply-these-9-remedies/"><u>Struggling with Tardy Text Notifications on Your iPhone? Apply These 9 Remedies!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-imessage-problems-in-just-7-steps-on-apple-devices/"><u>Troubleshoot iMessage Problems in Just 7 Steps on Apple Devices</u></a></li>
+<li><a href="https://fox-that.techidaily.com/urgent-fixes-getting-rid-of-water-in-your-iphone-audio-ports/"><u>Urgent Fixes: Getting Rid of Water in Your iPhone Audio Ports</u></a></li>
+</ul></div>
 

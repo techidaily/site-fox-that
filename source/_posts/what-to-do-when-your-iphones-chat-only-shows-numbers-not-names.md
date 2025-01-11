@@ -1,7 +1,7 @@
 ---
 title: What to Do When Your iPhone's Chat Only Shows Numbers, Not Names
-date: 2024-08-10T03:46:27.432Z
-updated: 2024-08-11T03:46:27.432Z
+date: 2025-01-03T19:40:05.613Z
+updated: 2025-01-11T01:45:05.088Z
 tags:
   - iphone
   - apple
@@ -30,9 +30,6 @@ thumbnail: https://thmb.techidaily.com/9adfd98abe6d7a86109b6983123bd98e50d69397f
 
  However, this is usually a temporary issue and should fix itself. If this isn't the case, you can try a few quick fixes to get things back to normal quickly.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ## Restart Your iPhone
 
  A quick fix to getting your contact names back instead of phone numbers is to [restart your iPhone](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) . As with many other issues, a quick reboot usually does the trick, and you should be able to see your contact names instead of phone numbers in Messages.
@@ -50,15 +47,17 @@ thumbnail: https://thmb.techidaily.com/9adfd98abe6d7a86109b6983123bd98e50d69397f
 3. Add the country code to the start of their phone number, using either the full format (0044) or the short format (+44). Make sure you get the right country code for their device, which should be what shows up in the Messages app.
 4. Click**Done** .
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Contact Edit menu in iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/contact-edit-menu-in-ios.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Add Country Code to Number](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Fix-Messages-Not-Showing-Contact-Number.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -69,8 +68,9 @@ Close
  Once you fix a phone number, you'll see Messages will automatically merge the conversations split across different chats.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Toggle iCloud Contacts
 
  Some people have reported iCloud contacts being the reason behind this issue. If you are syncing your contacts with your iCloud account, it might be worth re-syncing them, which might fix the issue.
@@ -88,14 +88,16 @@ To do this, follow these steps on your iPhone:
 ![Settings on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Fix-Messages-Not-Showing-iCloud.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Password and Security in iPhone iCloud Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/2FA-iPhone-Password-and-Security.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Contacts in iCloud Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Fix-Messages-Not-Showing-iCloud-Contacts.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -109,8 +111,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -118,4 +118,24 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-how-to-access-your-facebook-recent-view-log/"><u>[New] In 2024, How to Access Your Facebook Recent View Log</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-discovering-windows-best-snipping-and-cropping-software/"><u>[Updated] Discovering Windows' Best Snipping and Cropping Software</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-showmore-screen-recorder-review-all-you-need-to-know-for-2024/"><u>[Updated] ShowMore Screen Recorder Review All You Need To Know for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-concept-to-recording-best-practices-for-iphoneipad-podcasts/"><u>2024 Approved From Concept to Recording Best Practices for iPhone/iPad Podcasts</u></a></li>
+<li><a href="https://fox-that.techidaily.com/addressing-iphone-photography-dilemmas-with-effective-organization-techniques/"><u>Addressing iPhone Photography Dilemmas with Effective Organization Techniques</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-restore-voice-typing-on-your-iphone-a-5-step-guide/"><u>How to Restore Voice Typing on Your iPhone: A 5-Step Guide</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Motorola Moto G34 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-and-ipad-stuck-on-old-ios-learn-9-effective-ways-to-get-the-latest-version/"><u>IPhone & iPad Stuck on Old iOS? Learn 9 Effective Ways to Get the Latest Version</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/learn-how-to-lock-stolen-your-apple-iphone-13-mini-properly-by-drfone-ios/"><u>Learn How To Lock Stolen Your Apple iPhone 13 mini Properly</u></a></li>
+<li><a href="https://fox-access.techidaily.com/mastering-easy-underwater-film-making-top-7-hacks/"><u>Mastering Easy Underwater Film-Making Top 7 Hacks</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/mastering-iregistrykey-essential-techniques-and-strategies-for-optimization/"><u>Mastering IRegistryKey: Essential Techniques and Strategies for Optimization</u></a></li>
+<li><a href="https://fox-that.techidaily.com/optimize-your-videos-for-maximum-reach/"><u>Optimize Your Videos For Maximum Reach</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-communication-roadblocks-10-ways-to-fix-iphone-texting-problems/"><u>Overcoming Communication Roadblocks: 10 Ways to Fix iPhone Texting Problems</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-liquid-detected-errors-a-guide-to-clearing-water-from-your-iphones-usb-c-port/"><u>Solving 'Liquid Detected' Errors: A Guide to Clearing Water From Your iPhone's USB-C Port</u></a></li>
+<li><a href="https://fox-that.techidaily.com/step-by-step-guide-making-unsupported-accessories-work-with-your-iphone/"><u>Step-by-Step Guide: Making Unsupported Accessories Work with Your iPhone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/ultimate-guide-finding-iphone-assistance-using-the-apple-support-application/"><u>Ultimate Guide: Finding iPhone Assistance Using the Apple Support Application</u></a></li>
+<li><a href="https://win-data.techidaily.com/why-does-my-pc-keep-freezing-exploring-the-impact-of-corrupted-memory-sticks-on-windows-stability-tips-from-yl-software-experts/"><u>Why Does My PC Keep Freezing? Exploring the Impact of Corrupted Memory Sticks on Windows Stability - Tips From YL Software Experts</u></a></li>
+</ul></div>
 

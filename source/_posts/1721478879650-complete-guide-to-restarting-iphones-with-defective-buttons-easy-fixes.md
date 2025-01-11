@@ -1,7 +1,7 @@
 ---
 title: Complete Guide to Restarting iPhones with Defective Buttons - Easy Fixes
-date: 2024-08-10T03:45:58.252Z
-updated: 2024-08-11T03:45:58.252Z
+date: 2025-01-04T20:38:57.608Z
+updated: 2025-01-10T16:55:30.532Z
 tags:
   - iphone
   - apple
@@ -18,14 +18,8 @@ thumbnail: https://thmb.techidaily.com/4552dd09d3248cdc2d2f0b5a8866485e28d07f676
 
  The steps to restart iPhones are simple but vary according to the different sets of models. This guide shows you how you can restart any iPhone. It even shows you how to restart an iPhone if the buttons are broken and not working.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Restart an iPhone With Face ID
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![How to Restart iPhone With Face ID](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/how-to-restart-iphone-with-face-id.png)
 
  Follow these steps to restart iPhone X, iPhone XR, or any newer model with a notch or [Dynamic Island](https://www.makeuseof.com/what-is-dynamic-island/) :
@@ -36,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/4552dd09d3248cdc2d2f0b5a8866485e28d07f676
 4. Press the**Side button** and release it when you see the Apple logo on the startup screen. In a few seconds, your iPhone will turn on.
 
  You have successfully restarted your iPhone with Face ID. Enter the device passcode to unlock it and get to the Home Screen.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Restart an iPhone With a Home Button
 
@@ -50,15 +48,20 @@ thumbnail: https://thmb.techidaily.com/4552dd09d3248cdc2d2f0b5a8866485e28d07f676
 
 You have successfully restarted your iPhone with a Home button.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Restart an iPhone With a Top Power Button
 
 ![How to Restart iPhone With Top Power Button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/how-to-restart-iphone-with-top-power-button.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you're using iPhone SE (1st generation), 5S, 5C, 5, 4S, 4, or earlier models, the steps are the same as above (for devices with the Home button). Just make sure to press the**Power button** on the top of the device instead.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ## How to Restart an iPhone if the Buttons Are Broken or Not Working
 
  In the sections above, we detailed the steps to restart an iPhone using its physical buttons. However, there are two more methods you can use to restart your iPhone, and they don't involve using any buttons.
@@ -66,8 +69,9 @@ You have successfully restarted your iPhone with a Home button.
  This comes in handy if your iPhone buttons are broken or not working for any reason. It can also be helpful if you're unable to press and hold the buttons.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### How to Restart an iPhone From the Settings App
 
  The first method is to restart your iPhone through the**Settings** app. Follow these steps:
@@ -77,21 +81,18 @@ You have successfully restarted your iPhone with a Home button.
 3. Wait for at least 30 seconds.
 4. Finally, to turn on your iPhone, plug it in to charge.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ![iPhone Settings app showing General option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/iphone-settings-app-showing-general-option.png)
 
 ![iPhone Settings app showing Shut Down](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/iphone-settings-app-showing-shut-down.png)
 
 ![iPhone Power off screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/iphone-power-off-screen.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Close
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ### How to Restart an iPhone Using Siri
 
  The second button-free method involves using Siri, the virtual assistant on your iPhone. However, this method requires an iPhone running iOS 16 or later. To use Siri to restart your device, follow these steps:
@@ -103,9 +104,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![using siri to restart iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/muo-in-article-image-1200px-by-600px-21-ratio-23.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## How Often Should You Restart Your iPhone?
 
  The opinion on this varies from person to person. Some people don't restart their devices for weeks, while others frequently restart them. Most users perform a restart when their [iPhone feels slow](https://www.makeuseof.com/how-to-fix-slow-iphone/) , their [iPhone apps keep crashing](https://www.makeuseof.com/tag/iphone-ios-apps-keep-crashing-try-fixes/) , and the overall performance feels sluggish.
@@ -124,8 +122,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -133,4 +129,20 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-flash-clip-content-wizard/"><u>[New] In 2024, Flash Clip Content Wizard</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-pioneering-process-open-mac-seamlessly-with-watch/"><u>[New] Pioneering Process Open Mac Seamlessly with Watch</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-from-videos-to-vault-ajays-revenue-journey-on-youtube/"><u>[Updated] From Videos to Vault AJay’s Revenue Journey on YouTube</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-harmonizing-photo-and-video-in-one-iphone-session/"><u>[Updated] Harmonizing Photo & Video in One iPhone Session</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comprehensive-fixes-for-the-disk-write-failed-problem-on-steam/"><u>Comprehensive Fixes for the 'Disk Write Failed' Problem on Steam</u></a></li>
+<li><a href="https://fox-that.techidaily.com/effortless-fixes-for-common-imessage-errors-on-iphone-ipad-and-mac/"><u>Effortless Fixes for Common iMessage Errors on iPhone, iPad & Mac</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-unlock-icloud-account-without-password-on-apple-iphone-se-2020-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Unlock iCloud Account Without Password On Apple iPhone SE (2020)</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-innovative-approaches-for-logging-online-discussions/"><u>In 2024, Innovative Approaches for Logging Online Discussions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-struggling-with-texts-discover-10-quick-fixes/"><u>IPhone Struggling with Texts? Discover 10 Quick Fixes</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/review-compact-mini-controller-keyboards-save-space-and-stay-productive/"><u>Review: Compact Mini-Controller Keyboards - Save Space and Stay Productive</u></a></li>
+<li><a href="https://win-able.techidaily.com/successfully-installing-and-playing-tiny-tinas-wonderlands-on-your-pc-a-troubleshooting-guide/"><u>Successfully Installing and Playing Tiny Tina's Wonderlands on Your PC: A Troubleshooting Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-5-solutions-when-your-iphone-continuously-loses-wi-fi-connection/"><u>Top 5 Solutions When Your iPhone Continuously Loses Wi-Fi Connection</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-the-chatgpt-ios-application-top-9-solutions/"><u>Troubleshooting the ChatGPT iOS Application: Top 9 Solutions</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Fixing Problems with the AR Capabilities on Newer iPhones
-date: 2024-08-10T03:45:50.406Z
-updated: 2024-08-11T03:45:50.406Z
+date: 2025-01-08T23:41:37.254Z
+updated: 2025-01-10T16:37:06.516Z
 tags:
   - iphone
   - apple
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/650d5e59730c35ae2fda836f0e084961424a5a800
 
  So, if you're having trouble using the Visual Look Up feature on your iPhone, here are some reasons why it might not be working and what you can do to fix it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ## iPhone Models Supporting Visual Look Up
 
  First off, be sure to check if your device is running iOS 15 or iPadOS 15.1 (and later). To check, head to**Settings > General > About** , then check the iOS or iPadOS version. To download and install the latest firmware available, go to**Settings > General > Software Update** .
@@ -50,23 +47,18 @@ Here's how to change the primary language on your iPhone:
 1. Go to**Settings** \>**General** \>**Language & Region** .
 2. Tap**Add Language** , then select any one of the six supported languages—English, French, German, Italian, Japanese, or Spanish—and set it as the primary language.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ![Main Screen in iPhone Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/steps-to-change-iphone-language-1.jpeg)
 
 ![An image showing the Language & Region Option between Fonts and Dictionary sections within the General section](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/steps-to-change-iphone-language-2.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Menu that lets you add another language to your iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/steps-to-change-iphone-language-3.jpeg)
 
 Close
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Siri Look Up Is Not Enabled
 
  Visual Look Up is much like a new skill your virtual assistant Siri has learned. No content will show up if you don't allow Siri to use on-device learning to suggest relevant information based on your device usage. To enable this, here's what you need to do:
@@ -77,12 +69,16 @@ Close
 ![Siri & Search Under Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/Siri--Search-Under-Settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Show in Look Up, in Siri & Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/Show-in-Look-Up-in-Siri--Search.jpg)
 
 Close
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. There Is a Problem With the Image
 
@@ -90,10 +86,11 @@ Close
 
  Although Visual Look Up requires an ideal image to function at its best, it's still one of the powerful [hidden iOS features](https://www.makeuseof.com/tag/hidden-iphone-features-make-productive/) . Sometimes, you may be able to detect an object even with an obstructed view—as shown in the example below:
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![Obscured Image Still Showing Visual Look Up Icon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/Obscured-Image-Still-Showing-Visual-Look-Up-Icon.PNG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![Obscured Image Not Showing Visual Look Up Icon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/Obscured-Image-Not-Showing-Visual-Look-Up-Icon.PNG)
 
@@ -103,10 +100,11 @@ Close
 
 ![Visual Look Up Detecting Two Objects](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/Visual-Look-Up-Detecting-Two-Objects.PNG)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Visual Look Up Showing No results for two objects](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/Visual-Look-Up-Showing-No-results-for-two-objects.PNG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -118,13 +116,18 @@ Close
 
 ![Visual Look Up icon Showing for an Image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/Visual-Look-Up-icon-Showing-for-an-Image.PNG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Content Not Found after tapping Visual Look Up icon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/Content-Not-Found-after-tapping-Visual-Look-Up-icon.PNG)
 
 Close
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. The Object Isn't Supported Yet
 
  Despite the constant updates the feature has received since its introduction alongside iOS 15, Visual Look Up is still largely dependent on [machine learning algorithms](https://www.makeuseof.com/tag/machine-learning-algorithms/) . It means that while the feature does get better over time, there's a chance it won't recognize the object you want to learn more about.
@@ -135,9 +138,6 @@ Close
 
  Like other features on the iPhone, Visual Look Up may not work due to random errors. If none of the steps listed above help,[restart your iPhone](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) and check for new iOS updates to clear up the software bugs and other glitches that may be causing an error.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ## Ready to Look Up Some Photos?
 
  Visual Look Up is a simple feature that makes it easier to learn about the various things around you, be it a pet, plant, or more. So make sure to try out each of the suggested workarounds, as various reasons can prevent the Visual Look Up feature from working as intended.
@@ -150,8 +150,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -159,4 +157,20 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/updated-advanced-techniques-for-gradual-volume-change/"><u>[Updated] Advanced Techniques for Gradual Volume Change</u></a></li>
+<li><a href="https://fox-that.techidaily.com/escape-the-endless-apple-logo-7-tips-for-restarting-a-stuck-iphone/"><u>Escape the Endless Apple Logo: 7 Tips for Restarting a Stuck iPhone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-the-issue-of-silent-iphones-and-missed-alarms/"><u>Fixing the Issue of Silent iPhones and Missed Alarms</u></a></li>
+<li><a href="https://fox-that.techidaily.com/navigating-iphone-issues-leveraging-the-power-of-apples-in-house-support-software/"><u>Navigating iPhone Issues: Leveraging the Power of Apple’s In-House Support Software</u></a></li>
+<li><a href="https://review-topics.techidaily.com/nubia-data-retrieval-tool-restore-lost-data-from-nubia-z50s-pro-by-fonelab-android-recover-data/"><u>Nubia Data Retrieval tool – restore lost data from Nubia Z50S Pro</u></a></li>
+<li><a href="https://howto.techidaily.com/oneplus-ace-3-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>OnePlus Ace 3 Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcome-your-iphone-dilemma-with-these-effective-methods-for-fixing-hey-siri-not-responding/"><u>Overcome Your iPhone Dilemma with These Effective Methods for Fixing 'Hey Siri' Not Responding</u></a></li>
+<li><a href="https://fox-that.techidaily.com/step-by-step-solutions-to-repairing-iphone-black-screen-issues/"><u>Step-by-Step Solutions to Repairing iPhone Black Screen Issues</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210532948-9780762480463-the-chinese-zodiac/"><u>The Chinese Zodiac | Free Book</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/the-ultimate-guide-to-polarr-photo-editor-proficiency/"><u>The Ultimate Guide to Polarr Photo Editor Proficiency</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/transcribe-speech-to-text-seamlessly-using-words-tools-for-2024/"><u>Transcribe Speech to Text Seamlessly Using Word's Tools for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-guide-resolving-non-updating-email-issues-on-iphone/"><u>Troubleshooting Guide: Resolving Non-Updating Email Issues on iPhone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/zdnets-review-reveals-exceptional-sound-experience-with-highly-praised-compact-speaker-across-multiple-genres/"><u>ZDNet's Review Reveals Exceptional Sound Experience with Highly Praised Compact Speaker Across Multiple Genres</u></a></li>
+</ul></div>
 

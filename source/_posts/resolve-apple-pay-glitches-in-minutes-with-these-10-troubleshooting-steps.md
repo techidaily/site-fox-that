@@ -1,7 +1,7 @@
 ---
 title: Resolve Apple Pay Glitches in Minutes with These 10 Troubleshooting Steps
-date: 2024-08-10T03:44:44.273Z
-updated: 2024-08-11T03:44:44.273Z
+date: 2025-01-03T16:19:22.713Z
+updated: 2025-01-10T18:30:24.157Z
 tags:
   - iphone
   - apple
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/150a758dee3602d845be20dca449cfe34839f49d0
 
  Fortunately, most Apple Pay issues are quickly resolved. Here are some straightforward, actionable tips to get a malfunctioning Apple Pay working again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Verify the POS System
 
  First and foremost, verify that the POS (point-of-sale) terminal accepts Apple Pay payments. Although mobile wallets are widely recognized payment methods [accepted by most major retailers](https://www.makeuseof.com/retailers-in-us-who-accept-apple-pay/) in the US, you still can’t automatically assume that all merchants accept them.
@@ -27,15 +31,13 @@ thumbnail: https://thmb.techidaily.com/150a758dee3602d845be20dca449cfe34839f49d0
  If the POS system accepts Apple Pay, ask the store clerk if they frequently encounter similar issues with mobile payments. They might know some quick fixes. For instance, they might need to check the POS internet connection or change a setting at the checkout. They could even advise you to take off your phone case or hold the phone at a specific angle to improve NFC connectivity.
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Restart Your iPhone
 
  Before deciding to perform more extensive troubleshooting methods,[try restarting your iPhone](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) . Don’t skip this tip. A quick restart refreshes your device’s memory and clears the temporary cache, which might be interfering with the Apple Pay feature.
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Check the System Status of Apple Pay
 
 ![Screenshot of Apple System Status homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/screenshot-apple-system-status.jpg)
@@ -54,12 +56,13 @@ thumbnail: https://thmb.techidaily.com/150a758dee3602d845be20dca449cfe34839f49d0
 
  Go to **Settings > \[Your Name\] > Payment and Shipping > Apple Pay** . Then tap**Remove Apple Pay** . Afterward, sign out of your Apple ID, restart your iPhone, then sign in to your account and set up Apple Pay again.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Manually Select Your Card
 
 ![Woman changing the card on her mobile wallet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/woman-holding-card-and-smartphone.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Apple Pay automatically uses your default card for all payments—online and offline. Although this feature streamlines checkouts, the NFC chips on POS terminals don’t always read Apple Pay properly.
 
@@ -73,9 +76,6 @@ thumbnail: https://thmb.techidaily.com/150a758dee3602d845be20dca449cfe34839f49d0
 
  To add and remove cards, go to**Settings > Wallet & Apple Pay > Payment Cards** , then select**Remove This Card** on the malfunctioning card—or all your accounts. Afterward, restart your iPhone to clear the cache. Go back to the**Payment Cards** section and select**Add Card** . Repeat this as many times as needed.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ## 7\. Check Your Address and ZIP Code
 
  If you encounter an error prompt that says “Address did not match” when removing and adding credit cards, you might need to update your billing address. Note that you’ll have to update the following:
@@ -84,19 +84,18 @@ thumbnail: https://thmb.techidaily.com/150a758dee3602d845be20dca449cfe34839f49d0
 * **Wallet and Apple Pay:** Go to **Settings > Wallet and Apple Pay > Payment and Shipping > Address** , then edit the billing address indicated.
 * **Apple ID:** Head over to **Settings > Apple ID > Payment and Shipping > Address** , then input the updated billing address.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Screenshot of the iPhone settings wallet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/screenshot-of-iphone-settings-wallet.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Screenshot of the Apple Pay address section](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/screenshot-of-apple-pay-address-section.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Screenshot of changing the billing address](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/screenshot-of-changing-billing-address.jpg)
 
 Close
@@ -111,20 +110,22 @@ Close
 
 ![The notifications settings of an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/notifications-settings-iphone.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The notifications settings of the Apple Pay wallet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/notifications-settings-wallet.jpg)
 
 Close
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 9\. Recalibrate the Time and Date
 
  If you’re having trouble adding and removing credit cards to your Apple Pay app, check your device’s date and time. You might have accidentally changed it. Go to**Settings > General > Date and Time** , then toggle the**Set Automatically** feature to ensure that your device always stays updated no matter where you go.
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 10\. Ask the Apple Pay Support Communities
 
  There’s a high chance that another Apple Pay user has already encountered the issue you’re experiencing before. Seek help from them. Visit [Apple’s Apple Pay Support Communities](https://discussions.apple.com/community/apple%5Fpay) , then click**Start a discussion** . Input your Apple ID and password, follow the account authentication procedure, read the terms and conditions, then create a username.
@@ -133,10 +134,6 @@ Close
 
 ![Screenshot of Apple Pay Community questions page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/screenshot-apple-pay-community-questions.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## If All Else Fails, Contact Customer Support
 
  Contact [Apple’s customer support](https://getsupport.apple.com) team if Apple Pay still isn’t working so that they can scan for hardware defects. They’ll likely check your NFC chip. However, hopefully one of the troubleshooting tips mentioned above gets Apple Pay properly running again on your iPhone.
@@ -149,8 +146,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -158,4 +153,26 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-unveiling-the-leading-gratis-converters-srt-edition-for-2024/"><u>[New] Unveiling the Leading Gratis Converters SRT Edition for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-video-recording-rumble-obs-versus-shadowreplay/"><u>[New] Video Recording Rumble OBS Versus ShadowReplay</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-comprehensive-step-by-step-srt-mp4-enhancement/"><u>[Updated] Comprehensive Step-by-Step SRT MP4 Enhancement</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-best-youtube-channel-name-ideas-for-aspiring-vloggers-and-film-makers-maximum-length-156-characters/"><u>[Updated] In 2024, Best Youtube Channel Name Ideas For Aspiring Vloggers & Film Makers (Maximum Length 156 Characters)</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-photographic-journey-to-cinematic-expression-using-pixizs-tools/"><u>[Updated] Photographic Journey to Cinematic Expression Using Pixiz's Tools</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-the-ultimate-guide-to-audio-selection-in-video-unboxing/"><u>2024 Approved The Ultimate Guide to Audio Selection in Video Unboxing</u></a></li>
+<li><a href="https://fox-that.techidaily.com/avoid-frustration-with-these-15-critical-repair-techniques-for-all-your-iphone-models/"><u>Avoid Frustration with These 15 Critical Repair Techniques for All Your iPhone Models</u></a></li>
+<li><a href="https://fox-that.techidaily.com/conquering-annoying-iphone-x-issues-expert-tips-for-a-smooth-experience/"><u>Conquering Annoying iPhone X Issues: Expert Tips for a Smooth Experience</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-repair-your-iphones-faulty-proximity-sensing-capability/"><u>How to Repair Your iPhone's Faulty Proximity Sensing Capability</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-softly-reset-your-iphone-without-data-loss/"><u>How to Softly Reset Your iPhone Without Data Loss</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphoneipad-type-out-troubles-6-fixes-that-work/"><u>IPhone/iPad Type-Out Troubles? 6 Fixes That Work</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcome-eac-launch-errors-a-guide-to-verifying-and-installing-the-necessary-anti-cheat-protection/"><u>Overcome EAC Launch Errors: A Guide to Verifying and Installing the Necessary Anti-Cheat Protection</u></a></li>
+<li><a href="https://fox-that.techidaily.com/secure-your-devices-health-utilizing-apples-digital-examination-for-iphones/"><u>Secure Your Device's Health: Utilizing Apple’s Digital Examination for iPhones</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/steering-clear-of-mundane-channel-names-in-a-crowded-space-for-2024/"><u>Steering Clear of Mundane Channel Names in a Crowded Space for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-10-solutions-for-troubleshooting-airpods-noise-distortion-and-more/"><u>Top 10 Solutions for Troubleshooting AirPods: Noise, Distortion & More</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-slow-safari-on-iphone-discover-these-4-quick-fixes/"><u>Troubleshooting Slow Safari on iPhone? Discover These 4 Quick Fixes</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/troubleshooting-ssd-booting-issues-on-windows-11-8-ou-7-solucoes-efetivas-para-inicializacao-do-ssd/"><u>Troubleshooting SSD Booting Issues on Windows 11, 8 Ou 7: Soluções Efetivas Para Inicialização Do SSD</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-steps-reviving-your-non-functioning-iphoneipad/"><u>Troubleshooting Steps: Reviving Your Non-Functioning iPhone/iPad</u></a></li>
+<li><a href="https://driver-install.techidaily.com/1720063332842-windows-usb-hacks-unraveled-fixed/"><u>Windows USB Hacks Unraveled - Fixed!</u></a></li>
+</ul></div>
 

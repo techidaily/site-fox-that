@@ -1,7 +1,7 @@
 ---
 title: 6 Proven Methods to Prevent Unwanted 'SOS Only' Messages on Your iPhone
-date: 2024-08-10T03:46:36.920Z
-updated: 2024-08-11T03:46:36.920Z
+date: 2025-01-06T01:57:38.656Z
+updated: 2025-01-10T23:28:49.390Z
 tags:
   - iphone
   - apple
@@ -22,23 +22,14 @@ thumbnail: https://thmb.techidaily.com/65fba9a952c6564fd879ce858daef732be8f2531c
 
 [Your iPhone's cellular data may not be working properly](https://www.makeuseof.com/iphone-cellular-data-not-working-fixes/) . If that's the case, sometimes the best fix is the easiest fix: turning it off and on again.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![iPhone Settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-settings-cellular-screenshot.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ![iPhone Settings Cellular Data turned off](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-cellular-settings-turn-data-off.jpg)
 
 Close
 
  Head into**Settings > Cellular** . It should be already on, so turn the**Cellular Data** switch off. Give it a few seconds, then turn**Cellular Data** back on. It may have just needed a quick reset, but if there is still no luck, move on to our next suggestion.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Enable Data Roaming
 
  You may need to turn Data Roaming on, especially if you're traveling internationally. This allows your iPhone to connect to another network in a different country without having to sign up for a new service. Beware that turning this on can come with additional fees on your phone bill.
@@ -48,13 +39,22 @@ Close
 ![iPhone cellular settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-settings-cellular-data-options.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![iPhone cellular data options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-settings-data-roaming.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
  To enable Data Roaming on your iPhone, go to**Settings > Cellular > Cellular Data Options** . Then, toggle on the**Data Roaming** switch.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Switch to LTE
 
@@ -62,7 +62,15 @@ Close
 
 ![iPhone settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-cellular-settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![iPhone cellular data options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-cellular-data-options-voice-data-settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![iPhone 5G and LTE options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-voice-data-5g-settings.jpg)
 
@@ -70,15 +78,13 @@ Close
 
  Go to**Settings > Cellular > Cellular Data Options** like before, but this time tap**Voice & Data** . If**5G On** or**5G Auto** is selected, choose**LTE** and see if that gets rid of the SOS Only status.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Restart Your iPhone
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![iPhone user trying to force restart their device](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-user-trying-to-force-restart-their-device.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Of course, we have to mention the good old reboot technique. If you haven't yet tried turning your iPhone off and on again, let's go ahead and test it out. You'd be surprised how many little annoyances a quick restart can resolve.
 
@@ -88,14 +94,8 @@ Close
 
  Sometimes, carriers roll out over-the-air updates that can solve problems with connectivity. To check if one is available for your iPhone, open**Settings** , then go to**General > About** and wait for a few seconds.
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![iPhone Settings menu showing General](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-settings-general.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![iPhone General settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-settings-general-about.jpg)
 
 Close
@@ -108,9 +108,6 @@ Close
 
  There may be an issue with your cell service that's worth getting to the bottom of. So, visit your carrier's website and search for a contact or support page to get a customer support phone number.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Getting to the Bottom of "SOS Only"
 
  It's frustrating when you don't have cell service on your iPhone. So, we hope one of these solutions aids in getting your service up and running again.
@@ -123,8 +120,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -132,4 +127,19 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-instagram-tv-shutdown-procedure/"><u>[New] In 2024, Instagram TV Shutdown Procedure</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-top-6-online-webcam-recorders-2023/"><u>[Updated] 2024 Approved Top 6 Online Webcam Recorders 2023</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-complete-guide-to-selecting-high-performance-fpv-drone-propellers/"><u>[Updated] The Complete Guide to Selecting High-Performance FPV Drone Propellers</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-understanding-youtubers-income-average-ad-revenues-per-play/"><u>[Updated] Understanding Youtuber's Income Average Ad Revenues per Play?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-x9b-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from X9b</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-leading-solar-charging-stations-expert-picks-and-reviews-gizmogeek/"><u>Discover the Leading Solar Charging Stations - Expert Picks and Reviews | GizmoGeek</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-do-you-remove-restricted-mode-on-iphone-6s-drfone-by-drfone-ios/"><u>How Do You Remove Restricted Mode on iPhone 6s | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-control-center-issues-resolved-follow-these-8-strategies-to-restore-functionality/"><u>IPhone Control Center Issues Resolved: Follow These ✨8 Strategies to Restore Functionality!</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/maximizing-impact-making-an-engaging-podcast-trailer/"><u>Maximizing Impact Making an Engaging Podcast Trailer</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-the-mystery-why-arent-my-iphone-contacts-appearing/"><u>Solving the Mystery: Why Aren't My iPhone Contacts Appearing?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/step-by-step-guide-getting-help-with-your-iphone-through-the-apple-support-application/"><u>Step-by-Step Guide: Getting Help with Your iPhone Through the Apple Support Application</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-tips-overcoming-challenges-in-using-family-sharing-for-subscriptions/"><u>Troubleshooting Tips: Overcoming Challenges in Using Family Sharing for Subscriptions</u></a></li>
+</ul></div>
 

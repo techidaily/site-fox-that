@@ -1,7 +1,7 @@
 ---
 title: Turn Off Unwanted Rings on Your iPad when an iPhone Is Ringing – Easy Steps to Follow
-date: 2025-01-02T00:38:29.515Z
-updated: 2025-01-04T05:51:24.589Z
+date: 2025-01-05T19:23:10.222Z
+updated: 2025-01-11T01:16:26.219Z
 tags:
   - iphone
   - apple
@@ -32,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/773bcb287706a7e5add3e76fb4807bc2dd418c60c
 ![Turning down ringer and alerts volume on iPad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/how-to-stop-ipad-ringing-turn-off-ringer.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now, you've turned off your ringer and alert notifications. This could be a positive if you only want notifications from your iPhone or Apple Watch. On the other hand, if you count on Mail alerts on your iPad, this option won't work for you.
@@ -50,7 +50,7 @@ thumbnail: https://thmb.techidaily.com/773bcb287706a7e5add3e76fb4807bc2dd418c60c
  Still, this is a great option for quickly muting your iPad notifications.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stop Your iPad From Ringing With Focus Modes
@@ -65,10 +65,6 @@ thumbnail: https://thmb.techidaily.com/773bcb287706a7e5add3e76fb4807bc2dd418c60c
 
 ![Creating a Focus Mode on iPadOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/how-to-stop-ipad-ringing-create-focus.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  On this screen, you can select the people and apps you want to manage notifications from. Select**Choose Apps** , then select**Allow Notifications From** at the top of the list. The list below will populate with a few apps, but you can add more.
 
  To add an app you want to allow notifications from, tap the**Add Apps** button on the left, then select it from the list of available apps. Once apps are added to the list, you can tap the checkbox in the top-left of each app to enable or disable notifications. There are [plenty of other aspects to Focus modes](https://www.makeuseof.com/focus-mode-ideas-to-set-up-in-ios/) , but this is all you need for notifications.
@@ -80,10 +76,14 @@ thumbnail: https://thmb.techidaily.com/773bcb287706a7e5add3e76fb4807bc2dd418c60c
 ![Enabling a Focus Mode on iPadOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/how-to-stop-ipad-ringing-turn-focus-on.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  When you want to disable it, you can tap the**Focus** toggle.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Disable "Calls on Other Devices"
 
@@ -97,13 +97,13 @@ thumbnail: https://thmb.techidaily.com/773bcb287706a7e5add3e76fb4807bc2dd418c60c
 
 ![Choosing which devices to ring when your iPhone rings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/how-to-stop-ipad-ringing-iphone-calls-on-other-devices-custom.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Close
 
  If you want to disable calls everywhere but on your iPhone, disable the**Allow Calls on Other Devices** toggle. But if you only want to disable calls ringing on your iPad, leave this toggle enabled but look for your iPad under the "Allow Calls On" section further down on the screen, and then disable the slider next to it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Plenty of Ways to Silence iPad Calls
 
@@ -126,16 +126,20 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-unlocking-the-secrets-of-irecorder/"><u>[New] Unlocking the Secrets of iRecorder</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-the-illustrators-journey-navigating-for-success-in-designing/"><u>[Updated] 2024 Approved The Illustrator's Journey Navigating for Success in Designing</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-the-art-of-blending-audio-and-visuals-in-a-trailer/"><u>[Updated] The Art of Blending Audio and Visuals in a Trailer</u></a></li>
-<li><a href="https://fox-that.techidaily.com/7-key-tips-for-successfully-hooking-up-to-a-vpn-on-your-iphone-fix-it-now/"><u>7 Key Tips for Successfully Hooking Up to a VPN on Your iPhone – Fix It Now!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723862821573-how-an-old-school-crt-monitor-soared-to-a-stunning-700hz-by-slashing-its-pixel-count/"><u>How an Old School CRT Monitor Soared to a Stunning 700Hz by Slashing Its Pixel Count</u></a></li>
-<li><a href="https://fox-that.techidaily.com/illuminate-the-way-a-guide-to-restoring-iphone-flashlight-functionality-with-12-hacks/"><u>Illuminate the Way: A Guide to Restoring iPhone Flashlight Functionality with 12 Hacks</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-securely-download-vimeo-videos-a-comprehensive-softwares-approach/"><u>In 2024, Securely Download Vimeo Videos A Comprehensive Softwares Approach</u></a></li>
-<li><a href="https://fox-that.techidaily.com/iphone-14-battery-health-explained-what-users-should-be-aware-of/"><u>IPhone 14 Battery Health Explained: What Users Should Be Aware Of</u></a></li>
-<li><a href="https://driver-install.techidaily.com/opengl-hardware-interface-documentation/"><u>OpenGL Hardware Interface Documentation</u></a></li>
-<li><a href="https://fox-that.techidaily.com/overcoming-iphone-silence-setbacks-options-for-unmuted-or-muting-with-a-faulty-switch/"><u>Overcoming iPhone Silence Setbacks: Options for Unmuted or Muting with a Faulty Switch</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/steps-to-crossfade-audio-in-logic-pro-x-for-2024/"><u>Steps To Crossfade Audio In Logic Pro X for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-maximizing-clicks-ultimate-youtube-banner-guidebook/"><u>[New] In 2024, Maximizing Clicks Ultimate YouTube Banner Guidebook</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-maximizing-viewing-experience-in-android/"><u>2024 Approved Maximizing Viewing Experience in Android</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-pioneering-strategies-for-success-in-the-spotify-ad-arena/"><u>2024 Approved Pioneering Strategies for Success in the Spotify Ad Arena</u></a></li>
+<li><a href="https://fox-that.techidaily.com/diagnosing-the-reasons-behind-your-iphones-malfunctioning-visual-search-tool/"><u>Diagnosing the Reasons Behind Your iPhone's Malfunctioning Visual Search Tool</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Poco M6 5G? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/full-guide-to-apple-iphone-15-plus-icloud-bypass-by-drfone-ios/"><u>Full guide to Apple iPhone 15 Plus iCloud Bypass</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-a-complete-list-where-to-find-high-quality-music-files/"><u>In 2024, A Complete List Where to Find High-Quality Music Files</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-master-the-art-of-youtube-thumbnails-in-minutes/"><u>In 2024, Master the Art of YouTube Thumbnails in Minutes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721468241342-iphone-14-battery-woes-heres-everything-you-need-to-know/"><u>IPhone 14 Battery Woes? Here’s Everything You Need to Know!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcome-iphone-app-glitches-the-ultimate-guide-with-9-proven-chatgpt-fixes/"><u>Overcome iPhone App Glitches: The Ultimate Guide with 9 Proven ChatGPT Fixes</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/rhythms-riches-the-ultimate-dj-templates-collection-for-2024/"><u>Rhythm's Riches The Ultimate DJ Templates Collection for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solve-your-iphone-flashlight-issues-in-12-simple-fixes/"><u>Solve Your iPhone Flashlight Issues in 12 Simple Fixes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-6-solutions-how-to-restore-full-functionality-on-your-iphone-displaying-emergency-call-sos-icon/"><u>Top 6 Solutions: How to Restore Full Functionality on Your iPhone Displaying Emergency Call (SOS) Icon</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-picks-best-october-2024-prime-day-like-savings-on-laptops-tips-from-zdnet/"><u>Top Picks: Best October 2024 Prime Day-Like Savings on Laptops - Tips From ZDNet</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-liquid-detection-warnings-on-your-iphones-charger-port/"><u>Troubleshooting Liquid Detection Warnings on Your iPhone's Charger Port</u></a></li>
 </ul></div>
 

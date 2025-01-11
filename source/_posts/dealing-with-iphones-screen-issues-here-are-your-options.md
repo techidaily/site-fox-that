@@ -1,7 +1,7 @@
 ---
 title: Dealing with iPhones Screen Issues? Here Are Your Options
-date: 2024-08-10T03:47:20.105Z
-updated: 2024-08-11T03:47:20.105Z
+date: 2025-01-08T20:34:00.958Z
+updated: 2025-01-10T18:59:52.185Z
 tags:
   - iphone
   - apple
@@ -19,8 +19,9 @@ thumbnail: https://thmb.techidaily.com/1a1e5c2753d0c8947ba30db3ebb53725cfb2d0319
  Is your iPhone screen not working? If so, we’ll walk you through why that is and what you can do to get it working again.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Why Is Your iPhone Touchscreen Not Working?
 
  There are several reasons your iPhone touchscreen could stop working. One of the most common reasons is physical damage. If your screen stopped working after it hit something, the damage is most likely physical.
@@ -33,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/1a1e5c2753d0c8947ba30db3ebb53725cfb2d0319
 
  If your iPhone was exposed to salt water before it stopped working, then that was most likely the cause of the damage. Salt water is corrosive and, while your phone might have been fine right away, the damage could continue to progress for weeks after exposure.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Is Your Touchscreen Broken or Your LCD Screen?
 
  The iPhone actually has two parts to its screen. The top part is the digitizer and the part underneath is the LCD screen. The digitizer is the touchscreen and the LCD screen displays the contents of your iPhone.
@@ -44,8 +49,9 @@ thumbnail: https://thmb.techidaily.com/1a1e5c2753d0c8947ba30db3ebb53725cfb2d0319
  If there’s a problem with your digitizer, there are a few fixes you can try before taking your iPhone to a repair shop. However, if it’s the LCD, you’ll need to start searching for repairs straight away.
 
 <!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Make Sure Touch Accommodations Is Off
 
  Some users might have activated certain accessibility settings that can interfere with how the touchscreen works. The most common culprit is Touch Accommodations. If enabled, your iPhone screen will seem buggy and you’ll have a difficult time navigating the touchscreen.
@@ -66,9 +72,6 @@ If your screen is working, but not correctly, this could be the cause.
 
  If turning your iPhone off and on again doesn’t do anything, you’ll need to do a factory reset. Be sure to back up your iPhone before moving forward. If you can use your screen in some way, navigate to**Settings** \>**General** \>**Transfer or Reset iPhone** \>**Erase All Content and Settings** .
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![iphone erase content](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/iphone-erase-content.jpg)
 
  If you can’t navigate here, you’ll need to plug your iPhone into a computer to perform a factory reset. After resetting, in rare cases, your touchscreen will work again.
@@ -77,10 +80,6 @@ If your screen is working, but not correctly, this could be the cause.
 
  If you do choose to get your iPhone repaired, you’ll most likely need to do this anyway. This ensures that the technician won’t be able to access your personal data. They may also need to test Face ID to make sure the repair worked and will need the phone to be unlocked to do so, which means you’re better off erasing all your data first.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## Getting Your iPhone Screen Repaired
 
  If the above fixes didn’t work, this means you almost certainly need a physical repair.
@@ -98,8 +97,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  Related:[Learn to Fix Your Own Gadgets With Help From These Sites](https://www.makeuseof.com/tag/fix-gadgets-help-websites/)
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Using Your iPhone Without a Touchscreen
 
  If your iPhone isn’t working but you need to access certain files, you can still do that. To do so, you’ll need to activate Voice Control. This can be helpful for backing up and restoring your iPhone.
@@ -115,8 +115,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  To use Voice Control, you should familiarize yourself with the basic commands.[Apple](https://support.apple.com/HT210417) has a full list of these commands on its website.
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## iPhone Screen Not Working? These Fixes Should Have Helped
 
  If your iPhone stopped responding to touch after damage, heat, or salt water exposure, a repair is likely needed. However, a user might have activated Touch Accommodations, which could be the culprit. There are also rare cases where a software problem can cause the touchscreen to work and a factory reset could solve the problem.
@@ -129,8 +130,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -138,4 +137,26 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-elevating-audio-rates-on-youtube-dual-device-approach/"><u>[New] 2024 Approved Elevating Audio Rates on YouTube Dual Device Approach</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-engage-audiences-with-impactful-podcast-descriptions/"><u>[New] In 2024, Engage Audiences with Impactful Podcast Descriptions</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-sound-sphere-navigating-music-uploads/"><u>[Updated] The Sound Sphere Navigating Music Uploads</u></a></li>
+<li><a href="https://fox-that.techidaily.com/7-easy-fixes-for-when-hey-siri-isnt-working-correctly-on-iphones/"><u>7 Easy Fixes for When Hey Siri Isn’t Working Correctly on iPhones</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/battling-anxiety-with-ai-tips-and-tricks-for-utilizing-chatgpt/"><u>Battling Anxiety with AI: Tips and Tricks for Utilizing ChatGPT</u></a></li>
+<li><a href="https://fox-that.techidaily.com/cant-use-the-ringsilent-switch-mastering-alternative-methods-for-iphone-sound-control/"><u>Can't Use the Ring/Silent Switch? Mastering Alternative Methods for iPhone Sound Control</u></a></li>
+<li><a href="https://win-blog.techidaily.com/easy-steps-to-resolve-nwstoreexe-app-crashes-and-boost-performance/"><u>Easy Steps to Resolve NW_Store.exe App Crashes and Boost Performance</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-fix-icloud-synchronization-errors-quickly-and-easily/"><u>How to Fix iCloud Synchronization Errors Quickly and Easily</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-iphone-8-screen-lock-without-password-by-drfone-ios-unlock-ios-unlock/"><u>How to unlock iPhone 8 screen lock without password?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-leap-into-efficiency-with-quick-srt-to-txt-2023-guide/"><u>In 2024, Leap Into Efficiency with Quick SRT to TXT 2023 Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/make-the-move-top-5-critical-motivations-for-installing-ios-153-now/"><u>Make the Move: Top 5 Critical Motivations for Installing iOS 15.3 Now</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/minstrels-versus-chatgpt-and-real-alpacas-top-llms-battle/"><u>Minstrels Versus ChatGPT & Real Alpacas: Top LLMs Battle</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/regain-access-to-your-windows-console-with-ease/"><u>Regain Access to Your Windows Console with Ease</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/secure-your-hp-officejet-5255-with-updated-drivers-download-here/"><u>Secure Your HP OfficeJet 5255 with Updated Drivers - Download Here!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/simple-tricks-for-resolving-typical-apple-pay-glitches-top-10-methods/"><u>Simple Tricks for Resolving Typical Apple Pay Glitches (Top 10 Methods)</u></a></li>
+<li><a href="https://fox-that.techidaily.com/the-ultimate-guide-to-diagnosing-and-fixing-a-sluggish-iphone/"><u>The Ultimate Guide to Diagnosing & Fixing a Sluggish iPhone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/the-ultimate-tutorial-recovering-lost-iphones-via-the-powerful-find-my-application/"><u>The Ultimate Tutorial: Recovering Lost iPhones via the Powerful Find My Application</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-6-causes-of-a-sluggish-iphone-diagnosis-and-solutions/"><u>Top 6 Causes of a Sluggish iPhone: Diagnosis & Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlocking-the-secrets-fixing-persistent-iphone-application-failures-quickly/"><u>Unlocking the Secrets: Fixing Persistent iPhone Application Failures Quickly</u></a></li>
+</ul></div>
 
