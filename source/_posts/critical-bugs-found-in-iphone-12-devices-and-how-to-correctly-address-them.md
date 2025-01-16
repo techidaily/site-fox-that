@@ -1,7 +1,7 @@
 ---
 title: Critical Bugs Found in iPhone 12 Devices & How to Correctly Address Them
-date: 2025-01-01T20:36:43.663Z
-updated: 2025-01-04T05:52:10.471Z
+date: 2025-01-13T16:25:49.367Z
+updated: 2025-01-16T16:10:37.127Z
 tags:
   - iphone
   - apple
@@ -36,7 +36,7 @@ Before taking it to the nearest Apple Store, try these steps:
 ![Airplane mode off](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Airplane-mode-off-1.JPG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Close
@@ -53,7 +53,7 @@ Close
 ![General iPhone settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/General-iPhone-Settings-1.JPG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Software update of iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Software-update-of-iPhone-1.JPG)
@@ -76,16 +76,12 @@ Close
 
 ![Enter passcode on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Enter-passcode-on-iPhone.JPG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Face ID settings in iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Face-ID-settings-in-iPhone.JPG)
 
 ![Reset Face ID](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Reset-Face-ID.JPG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Close
@@ -103,13 +99,13 @@ Close
 
 ![Ringer button of iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Ringer-button-of-iPhone.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Once the ringer is turned ON, here's what you need to do on your iPhone:
 
 ![General iPhone settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/General-iPhone-Settings-1.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![Ringtone and alert volume](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Ringtone-and-alert-volume.JPG)
 
@@ -121,29 +117,21 @@ Close
 
  If your ringer is on full, but the speakers don't produce sound,[restart your iPhone](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) . Still not successful? Maybe your speakers are damaged or filled with dust—time to seek the services of a professional.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. iPhone 12 Bluetooth Issues
 
 ![Bluetooth off](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Bluetooth-off.JPG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Bluetooth on](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Bluetooth-on.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
  This might be the most annoying iPhone 12 issue on the list because some users might experience connectivity issues, especially when connecting with a non-iOS device. Try fixing this problem by bringing both gadgets up close.
 
  If it still doesn't work, turn off Bluetooth on both devices and turn it back on. Also, make sure both devices are visible and available for pairing. If the problem persists, you should get your device checked.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Wi-Fi Connection Problems With iPhone 12
 
@@ -156,6 +144,10 @@ To fix the Wi-Fi problem, you can try the following steps:
 ![Go to Wi-Fi](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Go-to-Wi-Fi-1.JPG)
 
 ![Forget this network](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Forget-this-network.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -180,6 +172,10 @@ To disconnect and reconnect to the hotspot, here's what you need to do:
 
 ![Personal hotspot on](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Personal-hotspot-on.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Close
 
 1. From**Settings** , go to**Cellular** .
@@ -197,7 +193,7 @@ Close
 ![General iPhone settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/General-iPhone-Settings-1.JPG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Transfer or reset iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Transfer-or-reset-iPhone.JPG)
@@ -241,6 +237,10 @@ Close
 
  If that doesn't help, you should browse relevant forums on Reddit to see if others are facing similar issues or start a discussion in [Apple Support Community](https://discussions.apple.com/welcome) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 11\. Fast Battery Drainage on the iPhone 12
 
 ![iPhone 13 MagSafe charging](https://thmb.techidaily.com/1f2f4c22410ca8169af4ae6d02cdc0eba714608bc6ab4df470b116ebdad1c1fb.jpg)
@@ -249,10 +249,6 @@ Close
 
  You can also contact the nearest Apple store and book an appointment for a battery replacement that'll set you back at $69, no matter which iPhone 12 model you have. Users also get guidance on efficient battery consumption by booking a Genius Bar reservation.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 12\. iPhone 12 Overheating Issues
 
  Most iPhones tend to overheat now and then, especially under heavy workloads. Sometimes, it can also overheat because of using an airtight cover, exposure to sunlight, or generally being in a room with significantly less ventilation.
@@ -260,6 +256,10 @@ Close
  Regardless of the cause, you may be unable to use certain features like flash or even charge the iPhone when it overheats. An infrequent heat-up is considered normal, and you can avoid that by placing your iPhone 12 under a shade.
 
  However, consistent heating might mean a severe issue waiting to be addressed. So,[factory reset your iPhone](https://www.makeuseof.com/tag/how-to-factory-reset-iphone-ipad/) to clear out any glitches. And if your iPhone 12 is still heating up more than usual, contact Apple to get a quick solution
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix Your iPhone 12 Issues Like a Pro
 
@@ -284,19 +284,24 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/approved-peak-traffic-times-for-stellar-video-performance/"><u>2024 Approved Peak Traffic Times for Stellar Video Performance</u></a></li>
-<li><a href="https://fox-links.techidaily.com/blending-and-bonding-creating-unique-image-collages-for-2024/"><u>Blending and Bonding Creating Unique Image Collages for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/boosting-mobile-data-speed-discover-the-top-10-ways/"><u>Boosting Mobile Data Speed: Discover the Top 10 Ways</u></a></li>
-<li><a href="https://games-able.techidaily.com/comparing-premium-games-psplus-and-xbgplus/"><u>Comparing Premium Games: PS+ and XBG+</u></a></li>
-<li><a href="https://win-news.techidaily.com/guide-complet-les-meilleurs-outils-de-sauvegarde-pour-serveur-windows-avec-aomei-server-backup-software/"><u>Guide Complet: Les Meilleurs Outils De Sauvegarde Pour Serveur Windows Avec AOMEI Server Backup Software</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-changing-instagram-voices-a-step-by-step-guide/"><u>In 2024, Changing Instagram Voices A Step-by-Step Guide</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-lock-apps-on-vivo-y02t-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Vivo Y02T to Protect Your Individual Information</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-screentosave-mobilepc-video-recording/"><u>In 2024, ScreenToSave Mobile/PC Video Recording</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-the-ultimate-strategy-for-top-tier-youtube-titles-and-tags/"><u>In 2024, The Ultimate Strategy for Top-Tier Youtube Titles & Tags</u></a></li>
-<li><a href="https://fox-that.techidaily.com/retrieve-a-stolen-iphone-a-step-by-step-guide-using-find-my-app/"><u>Retrieve a Stolen iPhone - A Step-by-Step Guide Using Find My App</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solving-the-on-hold-charge-problem-on-iphones-discover-8-effective-methods/"><u>Solving the On-Hold Charge Problem on iPhones: Discover 8 Effective Methods</u></a></li>
-<li><a href="https://fox-that.techidaily.com/top-7-techniques-for-clearing-up-a-fuzzy-iphone-lens/"><u>Top 7 Techniques for Clearing Up a Fuzzy iPhone Lens</u></a></li>
-<li><a href="https://fox-within.techidaily.com/understanding-unexpected-pc-reboots-insights-from-yl-computing-and-software-solutions/"><u>Understanding Unexpected PC Reboots: Insights From YL Computing and Software Solutions</u></a></li>
-<li><a href="https://fox-that.techidaily.com/why-cant-i-see-my-phone-on-find-my-iphone-insightful-guide-for-when-it-goes-offline/"><u>Why Can’t I See My Phone on 'Find My iPhone'? Insightful Guide for When It Goes Offline</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-the-backchannel-bridge-engaging-with-your-audience-for-2024/"><u>[New] The Backchannel Bridge Engaging with Your Audience for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/outubers-toolkit-essential-setup-guidelines-for-2024/"><u>[New] Youtubers' Toolkit Essential Setup Guidelines for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-mastering-revenue-on-youtube-shorts/"><u>[Updated] In 2024, Mastering Revenue on YouTube Shorts</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-low-cost-high-quality-4k-capture-devices/"><u>[Updated] Low-Cost, High-Quality 4K Capture Devices</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-facebooks-2023-vision-mastering-the-art-of-short-videos/"><u>2024 Approved Facebook's 2023 Vision Mastering the Art of Short Videos</u></a></li>
+<li><a href="https://fox-that.techidaily.com/eliminating-liquid-detection-warnings-on-iphones-with-usb-c-what-you-need-to-know/"><u>Eliminating Liquid Detection Warnings on iPhones with USB-C - What You Need to Know</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-restore-auto-brightness-functionality-in-your-iphone-a-step-by-step-guide/"><u>How to Restore Auto-Brightness Functionality in Your iPhone - A Step-by-Step Guide</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-motorola-edgeplus-2023-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Motorola Edge+ (2023) | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/navigating-common-icloud-hurdles-and-fixes-for-apple-tabletsphones/"><u>Navigating Common iCloud Hurdles and Fixes for Apple Tablets/Phones</u></a></li>
+<li><a href="https://fox-that.techidaily.com/revitalize-your-non-responsive-tablet-screen-a-guide-with-8-key-techniques/"><u>Revitalize Your Non-Responsive Tablet Screen: A Guide with 8 Key Techniques</u></a></li>
+<li><a href="https://fox-that.techidaily.com/silence-no-more-top-17-ways-to-get-sms-alerts-and-sound-back-on-your-iphone/"><u>Silence No More: Top 17 Ways to Get SMS Alerts and Sound Back on Your iPhone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solving-elan-input-lag-in-latest-windows-11/"><u>Solving Elan Input Lag in Latest Windows 11</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-tv-show-prep-which-software-winsvirusmix-or-wirecast-for-2024/"><u>The Ultimate TV Show Prep Which Software Wins—VirusMix or WireCast for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-step-by-step-process-to-factory-reset-your-dell-device/"><u>Ultimate Guide: Step-by-Step Process to Factory Reset Your Dell Device</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unleash-the-fun-try-these-best-chatgpt-games-out/"><u>Unleash the Fun! Try These Best ChatGPT Games Out</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlock-the-potential-of-your-iphone-a-tutorial-on-force-reboot-and-recovery-setup/"><u>Unlock the Potential of Your iPhone: A Tutorial on Force Reboot and Recovery Setup</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlocking-trouble-free-performance-why-rebooting-your-phone-matters/"><u>Unlocking Trouble-Free Performance: Why Rebooting Your Phone Matters</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unseen-alerts-on-your-apple-device-find-relief-with-these-aturinseven-fixes/"><u>Unseen Alerts on Your Apple Device? Find Relief With These Aturinseven Fixes!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/why-are-my-iphone-pictures-still-here-top-8-fixes-for-remaining-pics/"><u>Why Are My iPhone Pictures Still Here? - Top 8 Fixes for Remaining Pics</u></a></li>
 </ul></div>
 

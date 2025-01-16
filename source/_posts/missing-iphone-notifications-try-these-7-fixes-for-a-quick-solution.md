@@ -1,7 +1,7 @@
 ---
 title: Missing iPhone Notifications? Try These 7 Fixes for a Quick Solution
-date: 2025-01-10T01:42:38.793Z
-updated: 2025-01-10T16:10:32.189Z
+date: 2025-01-09T17:51:10.736Z
+updated: 2025-01-16T17:55:46.045Z
 tags:
   - iphone
   - apple
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/f26f632ded9a775a2cb222368880c548c2427581f
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Unmute Your iPhone
 
  The first step is to check whether you have accidentally muted your iPhone. When Silent mode is turned on, you won't hear incoming notification alerts, and as a result, you may think that you're not receiving notifications as they arrive.
@@ -39,20 +35,20 @@ thumbnail: https://thmb.techidaily.com/f26f632ded9a775a2cb222368880c548c2427581f
 
  If you expected vibration alerts on Silent mode but did not receive them for incoming notifications, you'll need to review the relevant settings. In those cases, incorrect settings are the main reason [why your iPhone isn't vibrating on Silent Mode](https://www.makeuseof.com/iphone-not-vibrating-on-silent-or-ring-mode-fixes/) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Restart Your iPhone
 
 ![fix notifications not showing on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/11/fix-notifications-not-showing-on-iphone.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Sometimes, your iPhone acts up for no apparent reason. Most of the time, a simple reboot can eliminate these glitches that cause temporary malfunctions.
 
  When you don't see notifications, try [turning off your iPhone](https://www.makeuseof.com/how-to-turn-off-iphone/) and turning it back on before moving on to more advanced troubleshooting steps.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Check Your Internet Connection
@@ -79,6 +75,10 @@ thumbnail: https://thmb.techidaily.com/f26f632ded9a775a2cb222368880c548c2427581f
 
 ![fix notifications not showing on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/11/fix-notifications-not-showing-on-iphone-image-02.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Since VPNs change both your cellular and Wi-Fi connections, they can interfere with notification delivery. For example, if you're using a [free VPN for your iPhone](https://www.makeuseof.com/best-free-vpn-iphone-ipad/) , try disabling it, then check if that fixes the notification issue.
 
  You can disable a VPN connection from the provider's app or go to **Settings > General > VPN & Device Management > VPN** to disconnect it.
@@ -93,9 +93,17 @@ thumbnail: https://thmb.techidaily.com/f26f632ded9a775a2cb222368880c548c2427581f
 
 ![iphone do not disturb mode enabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/img_6055.JPEG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![disable iphone focus mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/img_6056.JPEG)
 
 Close
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Disable Driving Focus
 
@@ -113,13 +121,13 @@ Close
 
  If you want notifications while [using Apple CarPlay](https://www.makeuseof.com/tag/apple-carplay-guide/) , you should also toggle off the**Activate With CarPlay** option. Leaving this enabled will activate Driving Focus when you connect your iPhone to a CarPlay-compatible vehicle.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Check and Modify Your Notification Settings
 
  If your iPhone doesn't display notifications for a particular app, check that the app's notification settings and preferences are correctly configured.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Change App Notifications From the Settings Menu
 
@@ -132,7 +140,7 @@ Close
 ![iphone notification settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/img_6061.JPEG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![iphone app notification settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/img_6062.JPEG)
@@ -149,13 +157,13 @@ Close
 
 ![iphone notification settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/img_6061.JPEG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![iphone scheduled summary](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/img_6063.JPEG)
 
 Close
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Check In-App Notification Settings
 
@@ -164,7 +172,7 @@ Close
 ![Instagram In-App Notification Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/11/fix-notifications-not-showing-on-iphone-08.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Telegram In-App Notification Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/11/fix-notifications-not-showing-on-iphone-09.jpg)
@@ -175,10 +183,6 @@ Close
 
  So, if an app doesn't show notifications despite having notifications enabled on your iPhone, check its in-app notification settings for any irregularities. For instance, WhatsApp allows you to mute individual conversations permanently. If you forgot to unmute them, you'll still get new messages without issues but won't get notified at the time of receipt.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. Update Your iPhone
 
  There's a chance that a software bug has messed up your iPhone's notifications. When you have system issues like this, it's always smart to download and [install the latest software update for your iPhone](https://www.makeuseof.com/tag/update-iphone-ios-apps-data/) .
@@ -186,7 +190,7 @@ Close
  Go to**Settings > General > Software Update** to see if there's an update available. And if there is, tap**Download and Install** and walk through the process to update your device.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Update Your Apps
@@ -196,10 +200,6 @@ Close
  Go to the**App Store** , type the app name in the**Search** tab, and hit**Search** . If there's an update available, you'll see an**Update** button next to the app's name.
 
 ![iphone app store search tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/search-app-store-1.JPEG)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![type keyword to search for app in iphone app store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/app-store-search-2.JPEG)
 
@@ -246,18 +246,24 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/ed-unlocking-user-engagement-through-strategic-tags/"><u>[Updated] Unlocking User Engagement Through Strategic Tags</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-selection-of-top-8-high-quality-free-online-translators/"><u>2024 Approved Mastering Selection of Top 8 High-Quality Free Online Translators</u></a></li>
-<li><a href="https://fox-that.techidaily.com/6-steps-to-fix-guided-access-glitches-on-your-ios-device/"><u>6 Steps to Fix Guided Access Glitches on Your iOS Device</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/a-brighter-future-in-digital-artistry-how-procreate-inspires-hope-among-visual-creators/"><u>A Brighter Future in Digital Artistry: How Procreate Inspires Hope Among Visual Creators</u></a></li>
-<li><a href="https://solve-news.techidaily.com/boosting-online-success-through-cookiebot-technology-a-leap-in-marketing-automation-and-personalization/"><u>Boosting Online Success Through Cookiebot Technology: A Leap in Marketing Automation and Personalization</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpt-in-education-best-practices-to-optimize-academic-performance/"><u>ChatGPT in Education: Best Practices to Optimize Academic Performance</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/creating-compelling-podcast-openings/"><u>Creating Compelling Podcast Openings</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/effortless-pubg-vocal-modifications/"><u>Effortless PUBG Vocal Modifications</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-solve-airplay-connectivity-errors-and-get-it-running-again/"><u>How to Solve AirPlay Connectivity Errors and Get It Running Again</u></a></li>
-<li><a href="https://fox-that.techidaily.com/no-luck-with-iphone-detection-try-these-effective-tips-for-itunesfinder-recognition/"><u>No Luck With iPhone Detection? Try These Effective Tips for iTunes/Finder Recognition</u></a></li>
-<li><a href="https://fox-that.techidaily.com/overcoming-the-landscape-switch-glitch-on-your-iphone-a-step-by-step-guide/"><u>Overcoming the Landscape Switch Glitch on Your iPhone – A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-common-minecraft-opengl-glitches-a-step-by-step-guide/"><u>Solving Common Minecraft OpenGL Glitches: A Step-by-Step Guide</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/streaming-powerhouses-face-off-streamlabs-versus-obs-analysis-for-2024/"><u>Streaming Powerhouses Face-Off Streamlabs versus OBS Analysis for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-graduating-from-novice-to-3d-lut-maestro/"><u>[New] 2024 Approved Graduating From Novice to 3D LUT Maestro</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-splitting-screens-evaluating-splitcams-video-quality/"><u>[New] 2024 Approved Splitting Screens Evaluating SplitCam's Video Quality</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-audio-options-dilemma-podcasts-against-youtube/"><u>[Updated] Audio Options Dilemma Podcasts Against YouTube</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/e-online-courses-for-beginner-youtube-creators/"><u>8 Free Online Courses for Beginner YouTube Creators</u></a></li>
+<li><a href="https://win-unique.techidaily.com/answer-the-new-length-will-be-6-inches-12-72-inches-maintaining-proportionality-in-scale-increase/"><u>Answer: The New Length Will Be 6 Inches 1.2 = 7.2 Inches, Maintaining Proportionality in Scale Increase.</u></a></li>
+<li><a href="https://fox-that.techidaily.com/guide-to-fixing-hitches-when-sharing-subscriptions-with-your-loved-ones/"><u>Guide to Fixing Hitches When Sharing Subscriptions with Your Loved Ones</u></a></li>
+<li><a href="https://fox-that.techidaily.com/hack-the-lag-how-to-get-your-iphones-safari-up-to-speed-with-these-4-solutions/"><u>Hack the Lag - How to Get Your iPhone's Safari Up to Speed with These 4 Solutions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-avoid-falling-for-bingchats-pseudo-cryptocurrency-schemes/"><u>How to Avoid Falling for BingChat's Pseudo-Cryptocurrency Schemes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-overcome-unsupported-accessory-problems-on-your-iphone/"><u>How to Overcome Unsupported Accessory Problems on Your iPhone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-resolve-safaris-full-screen-shot-problems-a-comprehensive-guide/"><u>How to Resolve Safari's Full Screen Shot Problems – A Comprehensive Guide</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Asus ROG Phone 7 Ultimate? | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-perfect-shade-editor/"><u>In 2024, Perfect Shade Editor</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-messenger-issues-solved-why-are-my-images-missing/"><u>IPhone Messenger Issues Solved: Why Are My Images Missing?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721479495880-itunes-or-finder-not-recognizing-your-iphone-heres-the-fix/"><u>ITunes or Finder Not Recognizing Your iPhone? Here's the Fix!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-tutorial-to-update-your-broadcom-ethernet-driver-on-windows-10-problems-solved/"><u>Step-by-Step Tutorial to Update Your Broadcom Ethernet Driver on Windows 10 - Problems Solved</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-5-indispensable-ios-16-features-with-easy-usage-guide-insights-from-zdnet/"><u>Top 5 Indispensable iOS 16 Features with Easy Usage Guide - Insights From ZDNet</u></a></li>
+<li><a href="https://fox-that.techidaily.com/track-down-your-vanished-iphone-expert-tips-on-utilizing-find-my-feature/"><u>Track Down Your Vanished iPhone - Expert Tips on Utilizing Find My Feature</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-a-broken-proximity-detector-on-your-apple-device/"><u>Troubleshooting a Broken Proximity Detector on Your Apple Device</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-steps-making-your-airpods-seamlessly-sync-with-multiple-iphonesipads/"><u>Troubleshooting Steps: Making Your AirPods Seamlessly Sync with Multiple iPhones/iPads</u></a></li>
 </ul></div>
 

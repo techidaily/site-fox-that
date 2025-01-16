@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting: How to Fix a Non-Functional QR Code Reader on Your iPhone"
-date: 2024-12-30T01:35:32.513Z
-updated: 2025-01-03T23:34:53.822Z
+date: 2025-01-13T16:04:02.785Z
+updated: 2025-01-16T16:37:38.938Z
 tags:
   - iphone
   - apple
@@ -33,17 +33,13 @@ thumbnail: https://thmb.techidaily.com/a7dd9142f70f2e1fb0515e1b92c73345b73af0eeb
 
 ![iPhone Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/img_1208.jpeg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![IPhone Camera Settings with Scan QR Codes Toggled On](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/img_1209.jpeg)
 
-Close
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+Close
 
 ## 2\. Ensure Your Camera Is in Photo Mode
 
@@ -53,9 +49,17 @@ Close
 
  For a quick and successful scan, make sure the QR code is positioned within the frame of your camera. Avoid scanning at steep angles, and try to keep the QR code parallel to your device. Also, ensure the QR code isn't wrinkled, obscured, or damaged in any way, as this can prevent a successful scan.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Move Into Better Lighting
 
 ![Person scanning QR Code on a parcel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/person-scanning-qr-code-on-a-parcel.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Good lighting is essential for any camera function, and the QR code scanner is no exception. A well-lit environment makes it easier for the camera to recognize and read the QR code. If you're in a dimly lit room or area, move to a brighter spot or shine some light on the QR code to improve visibility.
 
@@ -83,14 +87,10 @@ Here's how to add the Code Scanner to the Control Center:
 
 ![iPhone Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/img_1211.jpeg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![iPhone Control Center Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/img_1212.jpeg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![iPhone Control Center With Code Scanner](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/img_1213.jpeg)
@@ -98,7 +98,7 @@ Here's how to add the Code Scanner to the Control Center:
 ![iPhone QR Code Scanner](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/img_1221.jpeg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Close
@@ -115,20 +115,20 @@ Close
 
  To [update your iPhone](https://www.makeuseof.com/tag/update-iphone-ios-apps-data/) , go to**Settings > General > Software Update** to see if there is any available update. If there's a new iOS version available, tap**Download and Install** . Ensure you connect to a strong Wi-Fi network and that your iPhone is sufficiently charged before starting the update.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 10\. Check Out Third-Party QR Code Scanners
 
 ![using iPhone to scan a QR code](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/using-iphone-to-scan-a-qr-code.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If your iPhone's built-in QR code scanner still doesn't work after trying all these fixes, you should consider downloading a third-party QR code reader from the App Store. Many options, both free and paid, offer a wider range of capabilities compared to the built-in QR scanner.
 
  Popular iOS third-party QR code reader apps include [QR Code & Barcode Scanner](https://apps.apple.com/us/app/qr-code-barcode-scanner/id1048473097) by TeaCapps,[Scan Shot](https://apps.apple.com/us/app/scan-shot-document-scanner-pdf/id1575194801) by Scanner App PDF Tool, and [CamScanner](https://apps.apple.com/us/app/camscanner-pdf-scanner-app/id388627783) by INSTIG.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Decode QR Codes on Your iPhone Without Issues
@@ -152,21 +152,24 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-decoding-the-secret-of-highest-quality-youtube-mp3s/"><u>[New] 2024 Approved Decoding the Secret of Highest Quality YouTube MP3s</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-high-fidelity-graphics-on-4k-an-in-depth-look-at-proart-monitors/"><u>[New] High-Fidelity Graphics on 4K An In-Depth Look at ProArt Monitors</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-non-athlete-front-rows-the-ultimate-alternative-list/"><u>[New] Non-Athlete Front Rows The Ultimate Alternative List</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-top-10-igtv-edit-apps-maximize-your-video-content-for-2024/"><u>[New] Top 10 IGTV Edit Apps Maximize Your Video Content for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-from-recording-to-broadcast-masterful-podcast-editing-with-garageband-for-2024/"><u>[Updated] From Recording to Broadcast Masterful Podcast Editing with GarageBand for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/can-you-get-alerts-through-dnd-8-fixes-for-your-iphone-connection-issues/"><u>Can You Get Alerts Through DND? 8 Fixes for Your iPhone Connection Issues</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/expediting-fb-videos-leading-extensions-and-apps-compilation/"><u>Expediting FB Videos Leading Extensions & Apps Compilation</u></a></li>
-<li><a href="https://fox-that.techidaily.com/making-technology-inclusive-discover-these-8-powerful-iphone-features-designed-for-the-visually-impaired/"><u>Making Technology Inclusive: Discover These 8 Powerful iPhone Features Designed for the Visually Impaired</u></a></li>
-<li><a href="https://win-lab.techidaily.com/missing-content-alert-unable-to-retrieve-your-desired-webpage/"><u>Missing Content Alert: Unable to Retrieve Your Desired Webpage</u></a></li>
-<li><a href="https://win-able.techidaily.com/quick-resolution-guide-how-to-stop-rage-2-from-freezing/"><u>Quick Resolution Guide: How to Stop RAGE 2 From Freezing!</u></a></li>
-<li><a href="https://fox-that.techidaily.com/safari-not-showing-photos-9-essential-fixes-for-your-iphone/"><u>Safari Not Showing Photos? 9 Essential Fixes for Your iPhone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/top-concerns-with-iphone-14s-power-management-what-you-should-know/"><u>Top Concerns with iPhone 14'S Power Management: What You Should Know</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshoot-fortnite-play-errors-with-this-simple-permission-denied-fix/"><u>Troubleshoot Fortnite Play Errors with This Simple 'Permission Denied' Fix</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-iphone-photography-issues-strategies-and-fixes/"><u>Troubleshooting iPhone Photography Issues: Strategies and Fixes</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-your-iphone-snapshots-top-8-resolutions-and-hacks/"><u>Troubleshooting Your iPhone Snapshots: Top 8 Resolutions & Hacks</u></a></li>
-<li><a href="https://fox-that.techidaily.com/ultimate-guide-resolving-your-iphones-black-screen-of-death/"><u>Ultimate Guide: Resolving Your iPhone's 'Black Screen of Death'</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-cutting-through-the-facade-real-vs-pretend-facebook-followers-for-2024/"><u>[New] Cutting Through the Facade Real vs Pretend Facebook Followers for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-excellent-ios-tools-the-hottest-choices-for-simulating-psp-games/"><u>[Updated] 2024 Approved Excellent iOS Tools The Hottest Choices for Simulating PSP Games</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-minute-video-crafters/"><u>[Updated] Minute Video Crafters</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-simple-steps-to-import-youtube-music-into-imovie/"><u>[Updated] Simple Steps to Import YouTube Music Into iMovie</u></a></li>
+<li><a href="https://fox-that.techidaily.com/6-simple-solutions-to-restore-functionality-of-imessage-across-ios-and-macos-devices/"><u>6 Simple Solutions to Restore Functionality of iMessage Across iOS and macOS Devices</u></a></li>
+<li><a href="https://windows11.techidaily.com/a-step-by-step-solution-for-spotify-connectivity-fails/"><u>A Step-by-Step Solution for Spotify Connectivity Fails</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/adept-vlc-playback-and-capture-techniques-for-2024/"><u>Adept VLC Playback & Capture Techniques for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/decode-iphones-charging-dilemmas-solve-charging-on-hold-issues-using-our-proven-8-tips/"><u>Decode iPhone's Charging Dilemmas: Solve 'Charging On Hold' Issues Using Our Proven 8 Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-enable-control-for-voice-only-windows-bluetooth/"><u>How to Enable Control for Voice-Only Windows Bluetooth</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/in-2024-modify-twitter-clip-visuals/"><u>In 2024, Modify Twitter Clip Visuals</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-alarm-issues-heres-how-to-make-it-work-perfectly/"><u>IPhone Alarm Issues? Here’s How to Make It Work Perfectly!</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/master-photographers-tale-assembly-tool-for-2024/"><u>Master Photographer's Tale Assembly Tool for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-picture-descriptive-creator/"><u>Motion Picture Descriptive Creator</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-benefits-of-instantly-installing-the-latest-ios-1vewels-4-enhanced-security-features-in-ios-153/"><u>Top Benefits of Instantly Installing the Latest iOS 1Vewels - 4) Enhanced Security Features in iOS 15.3</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-your-iphones-dictation-problem-with-these-5-quick-fixes/"><u>Troubleshoot Your iPhone's Dictation Problem with These 5 Quick Fixes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-silent-mode-a-guide-to-restoring-audio-on-your-iphone/"><u>Troubleshooting Silent Mode: A Guide to Restoring Audio on Your iPhone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/ultimate-troubleshooting-tips-updating-your-mac-and-mobile-screen-time-password/"><u>Ultimate Troubleshooting Tips: Updating Your Mac and Mobile Screen Time Password</u></a></li>
+<li><a href="https://fox-that.techidaily.com/whatsapp-camera-distortion-how-to-correct-the-zoom-effect-on-screenshots/"><u>WhatsApp Camera Distortion: How to Correct the Zoom Effect on Screenshots</u></a></li>
+<li><a href="https://fox-that.techidaily.com/why-isnt-my-whatsapp-data-automatically-backed-up-to-icloud-expert-tips-for-resolution/"><u>Why Isn't My WhatsApp Data Automatically Backed Up to iCloud? Expert Tips for Resolution</u></a></li>
 </ul></div>
 

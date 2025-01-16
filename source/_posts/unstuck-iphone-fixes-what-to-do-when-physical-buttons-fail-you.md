@@ -1,7 +1,7 @@
 ---
 title: "Unstuck iPhone Fixes: What To Do When Physical Buttons Fail You"
-date: 2024-08-10T03:43:02.026Z
-updated: 2024-08-11T03:43:02.026Z
+date: 2025-01-09T16:26:26.506Z
+updated: 2025-01-16T16:56:09.269Z
 tags:
   - iphone
   - apple
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/f755ebc6fd74e541b86783b8f288eb9ebe73ceda2
 
  The steps to restart iPhones are simple but vary according to the different sets of models. This guide shows you how you can restart any iPhone. It even shows you how to restart an iPhone if the buttons are broken and not working.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ## How to Restart an iPhone With Face ID
 
 ![How to Restart iPhone With Face ID](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/how-to-restart-iphone-with-face-id.png)
@@ -36,11 +32,16 @@ DbSchema database designer for all databases, schema design in the team, schema 
  You have successfully restarted your iPhone with Face ID. Enter the device passcode to unlock it and get to the Home Screen.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Restart an iPhone With a Home Button
 
 ![How to Restart iPhone With Home Button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/how-to-restart-iphone-with-home-button.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Follow these steps to restart iPhone 6, 6S, 7, 8, and SE (2nd generation):
 
@@ -51,27 +52,21 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
 You have successfully restarted your iPhone with a Home button.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Restart an iPhone With a Top Power Button
 
 ![How to Restart iPhone With Top Power Button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/how-to-restart-iphone-with-top-power-button.png)
 
  If you're using iPhone SE (1st generation), 5S, 5C, 5, 4S, 4, or earlier models, the steps are the same as above (for devices with the Home button). Just make sure to press the**Power button** on the top of the device instead.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ## How to Restart an iPhone if the Buttons Are Broken or Not Working
 
  In the sections above, we detailed the steps to restart an iPhone using its physical buttons. However, there are two more methods you can use to restart your iPhone, and they don't involve using any buttons.
 
  This comes in handy if your iPhone buttons are broken or not working for any reason. It can also be helpful if you're unable to press and hold the buttons.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to Restart an iPhone From the Settings App
 
@@ -84,21 +79,16 @@ No advertising on the website.
 
 ![iPhone Settings app showing General option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/iphone-settings-app-showing-general-option.png)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![iPhone Settings app showing Shut Down](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/iphone-settings-app-showing-shut-down.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ![iPhone Power off screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/iphone-power-off-screen.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### How to Restart an iPhone Using Siri
 
  The second button-free method involves using Siri, the virtual assistant on your iPhone. However, this method requires an iPhone running iOS 16 or later. To use Siri to restart your device, follow these steps:
@@ -116,6 +106,10 @@ Close
 
  For the best iPhone experience, you should restart your iPhone at least once every week. If you do it every three days, that's even better. This gives the device a chance to shut down and cool off. Plus, temporary files are cleared, minor issues are fixed automatically, and you'll probably face fewer situations where you need to [force stop apps on your iPhone](https://www.makeuseof.com/should-you-force-stop-apps-on-your-phone/) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Force Restart When a Normal Restart Doesn't Work
 
  This is how you can restart any iPhone. As you saw, the process is quick and straightforward. However, if your device is frozen, the screen is black, stuck indefinitely on the Apple logo, or the touch screen isn't working, a simple restart may not work.
@@ -128,8 +122,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -137,4 +129,18 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-direct-transfer-path-youtube-content-to-dailymotion-hub/"><u>[Updated] 2024 Approved Direct Transfer Path YouTube Content to Dailymotion Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/boost-your-pcs-speed-with-top-tier-memory-solutions-workstation-and-gamer-editions-revealed-by-zdnet/"><u>Boost Your PC's Speed with Top-Tier Memory Solutions: Workstation and Gamer Editions Revealed by ZDNET</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/bypassing-the-blues-effective-fixes-for-ntdlldll-complications-on-your-windows-system-windows-7-8-and-10/"><u>Bypassing the Blues: Effective Fixes for ntdll.dll Complications on Your Windows System (Windows 7, 8 & 10)</u></a></li>
+<li><a href="https://facebook.techidaily.com/crafting-unique-visionaries-on-your-fans-feeds-with-facebook-reels/"><u>Crafting Unique Visionaries on Your Fans' Feeds with Facebook Reels</u></a></li>
+<li><a href="https://fox-that.techidaily.com/effortless-solutions-for-10-frequent-issues-with-apple-pay/"><u>Effortless Solutions for 10 Frequent Issues with Apple Pay</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721472936164-experiencing-iphone-volume-dysfunctions-correct-them-using-our-top-cuhre-methods/"><u>Experiencing iPhone Volume Dysfunctions? Correct Them Using Our Top Cuhre Methods!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixed-guide-to-overcome-safari-screen-grab-dilemmas-on-mac-devices/"><u>Fixed Guide to Overcome Safari Screen Grab Dilemmas on Mac Devices</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-xiaomi-14-ultra-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Xiaomi 14 Ultra PC | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-ultimate-list-of-8-free-software-options-for-separating-audio-tracks-from-video-files/"><u>The Ultimate List of 8 Free Software Options for Separating Audio Tracks From Video Files</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-test-assessing-the-forward-compatibility-of-netgears-nighthawk-ax8-wi-fi-6-mesh-expansion-system/"><u>The Ultimate Test: Assessing the Forward Compatibility of Netgear's Nighthawk AX8 Wi-Fi 6 Mesh Expansion System.</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-uneven-sound-in-apples-earpods-discover-4-effective-remedies/"><u>Troubleshooting Uneven Sound in Apple's EarPods: Discover 4 Effective Remedies</u></a></li>
+</ul></div>
 

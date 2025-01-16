@@ -1,7 +1,7 @@
 ---
 title: Don't Panic, You Can Get Your Forgotten iPhone Notes Back!
-date: 2024-08-03T02:46:22.064Z
-updated: 2024-08-04T02:46:22.064Z
+date: 2025-01-11T16:19:52.993Z
+updated: 2025-01-16T16:11:41.029Z
 tags:
   - iphone
   - apple
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/acf1543a08c93a8277bd32ca8ca0045c1e81ebd50
 
  Unfortunately, your notes can sometimes get deleted—which has caused a lot of trouble for some users. Luckily, there are two methods you can use to recover deleted notes, even if you haven't backed them up before. Keep reading to find out how to recover deleted notes on your iPhone.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Recover Notes From the Recently Deleted Folder
 
  The quickest way to recover a deleted note is from the Recently Deleted folder. This is available on all iPhones running iOS 11 and later. The Recently Deleted folder contains notes deleted in the past 30 days, after which they'll be permanently deleted.
@@ -29,12 +33,17 @@ thumbnail: https://thmb.techidaily.com/acf1543a08c93a8277bd32ca8ca0045c1e81ebd50
 3. Select the note or notes you want to recover and tap on**Move** .
 4. Select the folder you want to move your notes to—any of them will do.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ![Recently Deleted folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/Recover-Deleted-Notes-iPhone-Recently-Deleted.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Move Note to New Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/Recover-Deleted-Notes-iPhone-Move.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -42,9 +51,6 @@ Close
 
  If you can't find the Recently Deleted folder on your iPhone, you can also access it by going to the [iCloud](https://icloud.com/) website and selecting**Notes > Recently Deleted** . This will only be present if your Notes are being synced to iCloud.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Recover Notes From an iCloud Backup
 
  If your iPhone regularly backs up to iCloud, there's a fair chance that your deleted note may be present in a previous backup in the cloud. Even if you back up on an infrequent schedule, there's still a chance that the note will be available for you to recover. Related:[How to Organize Notes on Your iPhone Using Tags](https://www.makeuseof.com/how-to-use-tags-in-apple-notes/)
@@ -55,28 +61,14 @@ Close
 2. Tap on your profile at the top of the page.
 3. Tap on**iCloud** and scroll down and see if the**Notes** toggle is enabled or not. If the toggle is green, this means your iPhone is backing up your notes to iCloud.
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Settings page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/Recover-Deleted-Notes-iPhone-Settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![iCloud Settings in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/Recover-Deleted-Notes-iPhone-iCloud.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Notes toggle in iCloud Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/Recover-Deleted-Notes-iPhone-Settings-Notes.jpg)
 
 Close
@@ -98,8 +90,9 @@ To reset your iPhone and restore it from an iCloud Backup:
  **Once the backup restores, open up the Notes app and see if the deleted note is present there. You can restore your iPhone back to your latest backup once you've successfully recovered the note and copied its contents over to somewhere safe.**
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## ****Keep Your iPhone Backed Up!**
 
  **In light of everything, we'd recommend keeping your backups on—no matter what. You never know when your device might stop working, or when something may be accidentally deleted. It's always better to have a backup to recover from than to have nothing at all.**
@@ -110,8 +103,6 @@ To reset your iPhone and restore it from an iCloud Backup:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -119,4 +110,20 @@ To reset your iPhone and restore it from an iCloud Backup:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/ed-first-rate-screen-recorders-for-youtube-enthusiasts-for-2024/"><u>[Updated] First-Rate Screen Recorders for YouTube Enthusiasts for 2024</u></a></li>
+<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-oppo-find-n3-flip-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Oppo Find N3 Flip | Dr.fone</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/best-complimentary-mac-applications-top-picks-for-your-mac/"><u>Best Complimentary Mac Applications: Top Picks for Your Mac</u></a></li>
+<li><a href="https://fox-that.techidaily.com/deciphering-iphone-glitches-when-imessages-send-as-text-is-your-contact-blocked/"><u>Deciphering iPhone Glitches: When iMessages Send as Text, Is Your Contact Blocked?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/find-my-app-secrets-recovering-stolen-or-lost-iphones-made-easy/"><u>Find My App Secrets: Recovering Stolen or Lost iPhones Made Easy</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-detailed-review-of-doctorsim-unlock-service-for-apple-iphone-12-drfone-by-drfone-ios/"><u>In 2024, Detailed Review of doctorSIM Unlock Service For Apple iPhone 12 | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/itunes-or-finder-not-recognizing-your-iphone-heres-the-fix/"><u>ITunes or Finder Not Recognizing Your iPhone? Here's the Fix</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/ranking-the-top-8-apps-to-increase-popularity-on-facebook/"><u>Ranking the Top 8 Apps to Increase Popularity on Facebook</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolving-error-code-14-on-iphones-effective-fixes-explained/"><u>Resolving Error Code 14 on iPhones: Effective Fixes Explained</u></a></li>
+<li><a href="https://app-tips.techidaily.com/securing-your-entire-staff-with-1password-unlock-ultimate-protection-for-only-1995-monthly-it-business-solutions/"><u>Securing Your Entire Staff with 1Password - Unlock Ultimate Protection for Only $19.95 Monthly | IT Business Solutions</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/trendsetters-tunes-hits-of-the-week-for-yt-shorts-soundtracks-for-2024/"><u>Trendsetters’ Tunes Hits of the Week for YT Shorts Soundtracks for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unrecognized-by-itunes-or-finder-expert-tips-for-iphone-detection/"><u>Unrecognized by ITunes or Finder? Expert Tips for iPhone Detection!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/why-isnt-your-iphone-charging-wirelessly-discover-7-fixes-that-work/"><u>Why Isn’t Your iPhone Charging Wirelessly? Discover 7 Fixes That Work!</u></a></li>
+</ul></div>
 

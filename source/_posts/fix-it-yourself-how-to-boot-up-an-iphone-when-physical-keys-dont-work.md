@@ -1,7 +1,7 @@
 ---
 title: Fix It Yourself! How to Boot Up an iPhone When Physical Keys Don't Work
-date: 2024-12-29T06:07:31.269Z
-updated: 2025-01-03T21:06:43.900Z
+date: 2025-01-09T16:54:22.173Z
+updated: 2025-01-16T17:10:51.810Z
 tags:
   - iphone
   - apple
@@ -36,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/f74f161f0523579dd71e4de3d10404ac967ce66d0
 
  You have successfully restarted your iPhone with Face ID. Enter the device passcode to unlock it and get to the Home Screen.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Restart an iPhone With a Home Button
 
 ![How to Restart iPhone With Home Button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/how-to-restart-iphone-with-home-button.png)
@@ -49,18 +53,18 @@ thumbnail: https://thmb.techidaily.com/f74f161f0523579dd71e4de3d10404ac967ce66d0
 
 You have successfully restarted your iPhone with a Home button.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Restart an iPhone With a Top Power Button
 
 ![How to Restart iPhone With Top Power Button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/how-to-restart-iphone-with-top-power-button.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you're using iPhone SE (1st generation), 5S, 5C, 5, 4S, 4, or earlier models, the steps are the same as above (for devices with the Home button). Just make sure to press the**Power button** on the top of the device instead.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Restart an iPhone if the Buttons Are Broken or Not Working
@@ -80,21 +84,13 @@ You have successfully restarted your iPhone with a Home button.
 
 ![iPhone Settings app showing General option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/iphone-settings-app-showing-general-option.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![iPhone Settings app showing Shut Down](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/iphone-settings-app-showing-shut-down.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![iPhone Power off screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/iphone-power-off-screen.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Close
 
@@ -114,6 +110,10 @@ Close
  The opinion on this varies from person to person. Some people don't restart their devices for weeks, while others frequently restart them. Most users perform a restart when their [iPhone feels slow](https://www.makeuseof.com/how-to-fix-slow-iphone/) , their [iPhone apps keep crashing](https://www.makeuseof.com/tag/iphone-ios-apps-keep-crashing-try-fixes/) , and the overall performance feels sluggish.
 
  For the best iPhone experience, you should restart your iPhone at least once every week. If you do it every three days, that's even better. This gives the device a chance to shut down and cool off. Plus, temporary files are cleared, minor issues are fixed automatically, and you'll probably face fewer situations where you need to [force stop apps on your iPhone](https://www.makeuseof.com/should-you-force-stop-apps-on-your-phone/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Force Restart When a Normal Restart Doesn't Work
 
@@ -136,22 +136,18 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/updated-quick-content-in-a-facebook-frame-for-2024/"><u>[Updated] Quick Content in a Facebook Frame for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/7-steps-to-resolve-non-syncing-icloud-images-on-your-iphone-device/"><u>7 Steps to Resolve Non-Syncing iCloud Images on Your iPhone Device</u></a></li>
-<li><a href="https://fox-that.techidaily.com/beating-the-heat-on-idevices-understanding-and-fixing-excessive-warmth/"><u>Beating the Heat on iDevices: Understanding and Fixing Excessive Warmth</u></a></li>
-<li><a href="https://fox-that.techidaily.com/icloud-sync-troubles-heres-how-you-can-restore-seamless-cloud-integration/"><u>ICloud Sync Troubles? Here's How You Can Restore Seamless Cloud Integration</u></a></li>
-<li><a href="https://fox-that.techidaily.com/identifying-and-tackling-your-iphones-speed-issues-6-common-culprits/"><u>Identifying & Tackling Your iPhone's Speed Issues: 6 Common Culprits</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-oppo-a78-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Oppo A78 | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-cricket-apple-iphone-8-for-free-by-drfone-ios/"><u>In 2024, How To Unlock Cricket Apple iPhone 8 for Free</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-on-air-innovations-code-or-circuitry-prevails/"><u>In 2024, On-Air Innovations Code or Circuitry Prevails?</u></a></li>
-<li><a href="https://techtrends.techidaily.com/pixel-watch-3-rumors-revealed-speculated-costs-launch-dates-and-what-we-expect-from-its-tech-specs/"><u>Pixel Watch 3 Rumors Revealed: Speculated Costs, Launch Dates & What We Expect From Its Tech Specs</u></a></li>
-<li><a href="https://win-latest.techidaily.com/resolving-corrupt-os-issues-a-comprehensive-guide-solutions-from-yl-computing/"><u>Resolving Corrupt OS Issues: A Comprehensive Guide - Solutions From YL Computing</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/step-by-step-strategy-crafting-video-ads-without-spending-a-dime-for-2024/"><u>Step-by-Step Strategy Crafting Video Ads without Spending a Dime for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-curious-case-of-macbook-display-malfunctions-driving-sales-a-zdnet-analysis/"><u>The Curious Case of MacBook Display Malfunctions Driving Sales - A ZDNet Analysis</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-guide-resolving-issues-with-incomplete-downloads-on-your-iphone-or-ipad/"><u>Troubleshooting Guide: Resolving Issues with Incomplete Downloads on Your iPhone or iPad</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-iphone-why-you-cant-get-texts-from-android-devices-and-solutions/"><u>Troubleshooting iPhone: Why You Can't Get Texts From Android Devices and Solutions</u></a></li>
-<li><a href="https://fox-that.techidaily.com/ultimate-guide-resolving-iphone-app-malfunctions-and-crashes-top-10-tips/"><u>Ultimate Guide: Resolving iPhone App Malfunctions and Crashes (Top 10 Tips)</u></a></li>
-<li><a href="https://fox-that.techidaily.com/understanding-iphones-hidden-photo-storage-solutions-for-items-missing-post-deletion/"><u>Understanding iPhone's Hidden Photo Storage: Solutions for Items Missing Post-Deletion</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/update-your-acer-laptop-touchpad-for-windows-11-secure-the-best-experience/"><u>Update Your Acer Laptop Touchpad for Windows 11 – Secure the Best Experience!</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-unlocking-advanced-screen-captures-on-android/"><u>[New] In 2024, Unlocking Advanced Screen Captures on Android</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-unmatched-guide-the-ultimate-11-streaming-recorders-for-2024/"><u>[New] Unmatched Guide The Ultimate 11 Streaming Recorders for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-elevate-videography-with-youtube-music-features/"><u>[Updated] 2024 Approved Elevate Videography with YouTube Music Features</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-revisiting-the-golden-age-of-cinema-video-tutorials/"><u>2024 Approved Revisiting the Golden Age of Cinema Video Tutorials</u></a></li>
+<li><a href="https://fox-that.techidaily.com/avoid-overly-close-shots-how-to-optimize-your-camera-for-whatsapp-chats/"><u>Avoid Overly Close Shots: How to Optimize Your Camera for WhatsApp Chats</u></a></li>
+<li><a href="https://fox-that.techidaily.com/dynamic-head-motion-causes-earsplitting-noises-in-airpods-disable-for-silence/"><u>Dynamic Head Motion Causes Earsplitting Noises in AirPods - Disable for Silence</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-app-download-issues-top-10-solutions-you-should-know/"><u>IPhone App Download Issues: Top 10 Solutions You Should Know</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-guide-resolving-iphone-personal-hotspot-issues/"><u>Troubleshooting Guide: Resolving iPhone Personal Hotspot Issues</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-to-macbook-peripherals-expert-opinions-and-ratings-zdnet/"><u>Ultimate Guide to MacBook Peripherals : Expert Opinions and Ratings | ZDNet</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/user-insights-on-vllo/"><u>User Insights on VLLO</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-xiaomi-redmi-note-13-proplus-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Xiaomi Redmi Note 13 Pro+ 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/why-is-my-lava-blaze-pro-5g-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Lava Blaze Pro 5G Offline? Troubleshooting Guide | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-motorola-edgeplus-2023-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Motorola Edge+ (2023) Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
 </ul></div>
 

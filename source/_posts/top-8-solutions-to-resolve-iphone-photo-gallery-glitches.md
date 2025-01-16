@@ -1,7 +1,7 @@
 ---
 title: Top 8 Solutions to Resolve iPhone Photo Gallery Glitches
-date: 2024-08-10T03:40:33.877Z
-updated: 2024-08-11T03:40:33.877Z
+date: 2025-01-11T16:44:22.039Z
+updated: 2025-01-16T16:17:26.966Z
 tags:
   - iphone
   - apple
@@ -20,9 +20,6 @@ Wrong!
 
  There's a lot more to it than that. Keep reading as we investigate some of the roll's lesser-known tricks and even find answers to common issues and questions.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Why Photos Disappear From Camera Roll
 
  A lot of people complain about all their photos suddenly disappearing from the Camera Roll. Often, it's caused by a [misconfigured iCloud account](https://www.makeuseof.com/tag/common-icloud-problems/) .
@@ -36,31 +33,31 @@ Wrong!
 
  To re-enable iCloud Photo Sync, go to**Settings > \[Name\] > iCloud > Photos** and enable**iCloud Photo Library** and**My Photo Stream** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![iPhone Apple ID Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2018/06/iphone-enable-cloud-1.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![iPhone Enable iCloud Photos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2018/06/iphone-enable-cloud-2.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
  Also, many users reported that their photos disappeared after [upgrading to iOS 11](https://www.makeuseof.com/tag/complete-beginners-guide-ios-iphone-ipad/) . The fix is simple: just turn your phone off and back on again.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ## 2\. How to Recover Deleted Videos From Camera Roll
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![iPhone Deleted Images](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2018/06/iphone-recover-image-1.jpeg)
 
 ![iPhone Recover Image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2018/06/iphone-recover-image-2.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -82,10 +79,12 @@ Close
 2. Open the app and go to**Settings > Wi-Fi Drive** .
 3. Slide the toggle next to**Enable Drive** into the**On** position.  
 ![Documents Wi-Fi Drive Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2018/06/documents-wifi-drivea-1.jpeg)  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ![Documents Wi-Fi Drive Enable](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2018/06/documents-wifi-drivea-2.jpeg)  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Close
 4. Make a note of the IP address shown underneath the options.
 5. Open a web browser on your computer, type that IP address, and press**Enter** .
@@ -98,12 +97,18 @@ Close
 11. Press**Copy** .
 12. Navigate to**Documents > Photos** .
 13. Press**Copy** again.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Documents Copy Photo](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2018/06/iphone-docs-copy-roll-2.jpeg)  
 ![Documents Move to Photos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2018/06/iphone-docs-copy-roll-1.jpeg)  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Close
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Your videos will now be visible in the Camera Roll.
 
@@ -120,10 +125,11 @@ The process for hiding photos and video is simple:
 5. Select**Hide** from the pop-up menu.
 6. Agree to the on-screen confirmation.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![iPhone Share Photo Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2018/06/iphone-unhide-pic-1.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![iPhone Hide Picture](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2018/06/iphone-unhide-pic-2.jpeg)
 
@@ -166,20 +172,17 @@ Follow these instructions to get started:
 
 Your photo/video will now be visible in the Camera Roll.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ## 8\. How to Jump to the Bottom of the Camera Roll
 
  If you've been an iPhone user for a long time, your list of photos on the Camera Roll could be seriously long. You'll be furiously swiping for an hour to get to that awesome picture of a sunrise you took five years ago.
 
  But when you eventually get there, do you really want to spend the spend another hour getting back to the bottom of the roll and your most recent snaps? Of course not.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ![iPhone Photos Tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2018/06/iphone-scroll-bottom-1.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![iPhone Camera Roll Scroll to Bottom](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2018/06/iphone-scroll-bottom-2.jpeg)
 
@@ -199,8 +202,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -208,4 +209,23 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-capturing-screens-a-laptops-webcam-journey-for-2024/"><u>[New] Capturing Screens A Laptop's Webcam Journey for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/arning-excellence-a-guide-to-maximize-money-from-mobile-youtube-viewers-for-2024/"><u>[New] Earning Excellence A Guide to Maximize Money From Mobile YouTube Viewers for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-the-joyful-journey-of-sharing-smiles-through-gifs-in-snapchat/"><u>[Updated] The Joyful Journey of Sharing Smiles Through Gifs in Snapchat</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-crafting-compelling-360-videos-for-social-media-streams/"><u>2024 Approved Crafting Compelling 360 Videos for Social Media Streams</u></a></li>
+<li><a href="https://solve-info.techidaily.com/1728471242383-windows-11ssd/"><u>効率的なWindows 11のSSDへのクローン作成ガイド - ベストプラクティス</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/ex-russian-man-caught-in-spy-scandal-accused-of-betraying-both-us-and-sweden-while-illicitly-arming-russian-forces-inside-yl-computings-reveal/"><u>Ex-Russian Man Caught in Spy Scandal, Accused of Betraying Both US and Sweden While Illicitly Arming Russian Forces – Inside YL Computing's Reveal</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/free-online-converter-change-mod-files-to-mp4-format-with-ease/"><u>Free Online Converter: Change MOD Files to MP4 Format with Ease</u></a></li>
+<li><a href="https://fox-that.techidaily.com/identifying-and-repairing-your-iphones-display-difficulties-a-guide/"><u>Identifying and Repairing Your iPhone's Display Difficulties: A Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-get-unlimited-data-for-nothing-a-compreran-guide-to-30-best-cloud-storages/"><u>In 2024, Get Unlimited Data for Nothing! A Compreran Guide to 30 Best Cloud Storages</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcome-your-safari-full-page-snapshot-woes-with-these-effective-techniques/"><u>Overcome Your Safari Full-Page Snapshot Woes with These Effective Techniques</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solution-for-handling-multiple-shots-of-the-same-person-in-your-gallery-on-iphone-or-mac/"><u>Solution for Handling Multiple Shots of the Same Person in Your Gallery on iPhone or Mac</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solve-airdrop-issues-quickly-discover-the-top-16-remedies/"><u>Solve AirDrop Issues Quickly: Discover the Top 16 Remedies!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/the-journey-of-facetime-snaps-discover-their-hidden-location/"><u>The Journey of FaceTime Snaps: Discover Their Hidden Location</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-instagram-delays-top-6-solutions-for-smooth-app-performance-on-both-android-and-ios/"><u>Troubleshooting Instagram Delays: Top 6 Solutions for Smooth App Performance on Both Android & iOS</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlocking-the-mystery-14-tips-for-troubleshooting-iphones-unresponsive-face-id-feature/"><u>Unlocking the Mystery: 14 Tips for Troubleshooting iPhone's Unresponsive Face ID Feature</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/be-movie-maker-tutorial-and-alternatives-for-2024/"><u>YouTube Movie Maker Tutorial and Alternatives for 2024</u></a></li>
+</ul></div>
 

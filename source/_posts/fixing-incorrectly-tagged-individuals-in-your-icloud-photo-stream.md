@@ -1,7 +1,7 @@
 ---
 title: Fixing Incorrectly Tagged Individuals in Your iCloud Photo Stream
-date: 2024-08-10T03:40:55.550Z
-updated: 2024-08-11T03:40:55.550Z
+date: 2025-01-10T16:54:23.302Z
+updated: 2025-01-16T17:02:40.955Z
 tags:
   - iphone
   - apple
@@ -19,8 +19,9 @@ thumbnail: https://thmb.techidaily.com/3dc1e13d990f9f4ed1b30979889fa15d157b3da05
  Here's how you can review photos of identified people in the Photos app and fix any cases of mistaken identity, where your iPhone has tagged one person as someone else.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Review People in Photos on an iPhone or iPad
 
  To search for any misidentified photos of someone, you should first review your confirmed and uncategorized photos for that person to help your device learn what each person is supposed to look like. Here's how to do that:
@@ -30,25 +31,24 @@ thumbnail: https://thmb.techidaily.com/3dc1e13d990f9f4ed1b30979889fa15d157b3da05
 3. You should now see photos of this person. Tap on any picture of someone else to deselect it and press**Done** . If you don't see any, tap**Review More Photos** .
 4. A popup will appear with a photo, asking**Is This X?** Tap**Yes** or**No** . Your device will automatically take you through all the photos for review. If you get tired at any point, just tap**Done** and you will go back to your previous page.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![review confirmed photos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/review-confirmed-photos.PNG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![review more photos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/review-more-photos.PNG)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![confirm person](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/confirm-person.PNG)
 
 Close
 
  Read More:[Tips That Will Help You Master the People Album in Photos](https://www.makeuseof.com/tips-to-master-people-album-photos-iphone/)
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Fix Misidentified People in Photos on iPhone or iPad
 
  If your iPhone has misidentified someone in a photo, they won't show up when you search for them and instead Photos will save pictures of them in someone else's album. What's more, that person—who might be a stranger—will show up in the People album for whoever your iPhone thinks they are! Here's how to fix it:
@@ -60,10 +60,11 @@ Close
 
 ![select photos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/select-photos.PNG)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ![this is not X option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/this-is-not-X-option.PNG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -77,11 +78,11 @@ Close
 4. Control-click on the photo.
 5. Click**X is Not in This Photo** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![Person is not in this photo option in Photos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/Person-is-not-in-this-photo-option-in-Photos.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Easily Sort Pictures With the People Album
 
@@ -89,14 +90,11 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  However, having misidentified photos in the wrong albums can be quite a nuisance to deal with. Fortunately, the problem has a relatively quick and easy fix. You can review uncategorized photos to avoid the problem in the future, and you can remove any mismatched pictures you stumble across using the Share button.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -105,4 +103,23 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-saving-facebook-gifs-on-computer-phone-and-tablet/"><u>[Updated] 2024 Approved Saving Facebook GIFs on Computer, Phone & Tablet</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-jumpstart-your-projects-using-xps-film-editor/"><u>[Updated] Jumpstart Your Projects Using XP's Film Editor</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-periscope-footage-lifesaving-tips-and-tricks/"><u>2024 Approved Periscope Footage Lifesaving Tips & Tricks</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/converta-seus-arquivos-de-audio-livre-de-direitos-autorais-caf-em-formato-de-video-mp4-gratuitamente-usando-a-ferramenta-on-line-do-movavi-video-editor/"><u>Converta Seus Arquivos De Áudio Livre De Direitos Autorais (CAF) Em Formato De Vídeo MP4 Gratuitamente Usando a Ferramenta On-Line Do Movavi Video Editor</u></a></li>
+<li><a href="https://network-issues.techidaily.com/enhancing-lenovo-display-intensity-levels/"><u>Enhancing Lenovo Display Intensity Levels</u></a></li>
+<li><a href="https://win-data.techidaily.com/expert-advice-on-fixing-printer-issues-quickly-and-efficiently-yl-software-support-services/"><u>Expert Advice on Fixing Printer Issues Quickly and Efficiently - YL Software Support Services</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-adopting-seamless-video-conferencing-via-gmail-and-zoom/"><u>In 2024, Adopting Seamless Video Conferencing via Gmail & Zoom</u></a></li>
+<li><a href="https://fox-that.techidaily.com/ios-update-issues-try-out-our-9-effective-remedies-today/"><u>IOS Update Issues? Try Out Our 9 Effective Remedies Today</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/linux-screenshot-the-most-acclaimed-applications/"><u>Linux Screenshot The Most Acclaimed Applications</u></a></li>
+<li><a href="https://fox-that.techidaily.com/reactivate-and-maintain-stable-imessages-overcoming-the-signed-out-glitch-on-ios-devices/"><u>Reactivate and Maintain Stable iMessages: Overcoming the 'Signed Out' Glitch on iOS Devices</u></a></li>
+<li><a href="https://fox-that.techidaily.com/retaining-iphones-pictures-on-apples-server-post-deletion-top-8-tips/"><u>Retaining iPhones Pictures on Apple's Server Post-Deletion: Top 8 Tips</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-issues-top-6-methods-when-family-sharing-doesnt-work/"><u>Solving Issues: Top 6 Methods When Family Sharing Doesn't Work</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721480368234-struggling-with-iphones-contacts-feature-here-are-3-easy-fixes/"><u>Struggling with iPhone's Contacts Feature? Here Are 3 Easy Fixes!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721461929259-troubleshoot-non-functioning-predictive-emojis-on-ios-devices-asap/"><u>Troubleshoot Non-Functioning Predictive Emojis on iOS Devices ASAP</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ultimate-guide-eliminate-sims-4-slow-performance-on-your-computer/"><u>Ultimate Guide: Eliminate Sims 4 Slow Performance on Your Computer</u></a></li>
+<li><a href="https://fox-that.techidaily.com/ultimate-trick-resetting-or-reviving-your-iphone-without-itunes-dependency/"><u>Ultimate Trick: Resetting or Reviving Your iPhone Without iTunes Dependency</u></a></li>
+</ul></div>
 

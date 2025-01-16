@@ -1,7 +1,7 @@
 ---
 title: What To Do If Your Apple AirPod Is Silent? Expert Fixes for Solo Non-Working Units
-date: 2024-08-10T03:41:11.789Z
-updated: 2024-08-11T03:41:11.789Z
+date: 2025-01-11T17:10:05.859Z
+updated: 2025-01-16T17:30:05.266Z
 tags:
   - iphone
   - apple
@@ -15,8 +15,9 @@ thumbnail: https://thmb.techidaily.com/db7666071ae1a004e61a20e153e82a34797f455ea
 ## What To Do If Your Apple AirPod Is Silent? Expert Fixes for Solo Non-Working Units
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Quick Links
 
 * [Check Your AirPods Battery](https://www.makeuseof.com/one-airpod-not-working/#check-your-airpods-battery)
@@ -36,8 +37,9 @@ thumbnail: https://thmb.techidaily.com/db7666071ae1a004e61a20e153e82a34797f455ea
  Did one of your AirPods stop working all of a sudden? Before you assume it's a hardware problem and contact Apple for a repair or replacement AirPod, follow these simple troubleshooting steps, as they can often quickly resolve the issue.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Check Your AirPods Battery
 
  It's possible that one of your AirPods stopped working because it ran out of battery. Each AirPod has its own battery charge, and when it gets drained, that particular AirPod will stop functioning. You'll have to [check the battery level of each AirPod](http://www.makeuseof.com/tag/how-to-check-airpod-battery/) to see if that's the problem.
@@ -48,9 +50,6 @@ thumbnail: https://thmb.techidaily.com/db7666071ae1a004e61a20e153e82a34797f455ea
 
 Close
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 2\. Restart the Connected Device
 
  Once you've checked your AirPods' battery levels and made sure they're charged, it's time to reboot the device you use your AirPods with.
@@ -73,11 +72,6 @@ Close
 
  On a Mac, you can adjust the AirPods audio balance by opening**System Settings > Sound** and selecting the**Output** tab. Then, make sure your AirPods are selected and set the**Balance** slider to the middle.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ![mac sound system settings airpods balance](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/mac-sound-system-settings-airpods-balance.png)
 
  You can adjust the AirPods audio balance on Windows 11 by opening**Settings > System > Sound** . Then, select your AirPods from the list of output devices and adjust the**Left channel** and**Right channel** sliders so that they're equal.
@@ -91,6 +85,10 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
  In this case, try using your AirPods with your other devices and see if you can hear the audio on both AirPods.
 
  If both AirPods work just fine on any other device, you know the issue is with your primary device, and you'll need to fix it instead. Read [our AirPods troubleshooting guide](https://www.makeuseof.com/tag/apple-airpods-problems-fix/) for your specific device to see if one of the suggested fixes can rectify your problem.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Forget Your AirPods From Your Devices
 
@@ -111,17 +109,9 @@ Close
  After unpairing, you need to [re-pair your AirPods to your device](https://www.makeuseof.com/tag/how-to-connect-airpods-mac-iphone-pc-android/) . Then, see if both your AirPods work.
 
 <!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Reset Your AirPods to Factory Settings
 
  If your AirPods still don't work after unpairing and re-pairing them, try resetting them to their factory settings. Once they're unpaired, put your AirPods in their charging case, but don't close the lid.
@@ -131,8 +121,9 @@ Close
  Your iPhone will prompt you to set them up. If you're using another device, follow the standard Bluetooth setup steps.
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Reset Your Phone's Network Settings
 
  Your phone's network settings define how it connects to various other devices. It's worth changing back to the default settings to see if this fixes the AirPod that's not working.
@@ -157,8 +148,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -166,4 +155,22 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-top-talents-exceptional-instagram-hlv-artisans/"><u>[New] 2024 Approved Top Talents Exceptional Instagram HLV Artisans</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-banish-youtube-shorts-forever-with-ease/"><u>[Updated] 2024 Approved Banish YouTube Shorts Forever with Ease</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-incorporating-borders-in-your-next-video-post/"><u>2024 Approved Incorporating Borders in Your Next Video Post</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-xiaomi-13t-pro-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Xiaomi 13T Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/are-your-iphone-memories-stuck-even-after-clearing-photo-gallery-here-are-8-fixes/"><u>Are Your iPhone Memories Stuck Even After Clearing Photo Gallery? Here Are 8 Fixes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/bypassing-the-hold-alert-during-iphone-charging-with-these-8-tricks/"><u>Bypassing the Hold Alert During iPhone Charging with These 8 Tricks</u></a></li>
+<li><a href="https://fox-that.techidaily.com/essential-iphone-settings-for-improved-visual-impairment-support/"><u>Essential iPhone Settings for Improved Visual Impairment Support</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-the-mystery-phone-numbers-appearing-instead-of-names-in-your-messaging-application/"><u>Fixing the Mystery Phone Numbers Appearing Instead of Names in Your Messaging Application</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-get-water-out-of-your-iphones-speakers/"><u>How to Get Water Out of Your iPhone's Speakers</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-your-honor-x9bs-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Honor X9bs Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-brightness-struggles-try-these-7-solutions-for-auto-brightness/"><u>IPhone Brightness Struggles? Try These 7 Solutions for Auto-Brightness</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/lenovo-tab-m10-fhd-plus-2020-review-big-beautiful-display-on-a-budget/"><u>Lenovo Tab M10 FHD Plus (2020) Review: Big, Beautiful Display On a Budget</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-missing-execution-records-on-pc/"><u>Overcoming Missing Execution Records on PC</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/revive-your-pc-easily-expert-tips-on-utilizing-robust-backup-solutions-for-windows-system-restore/"><u>Revive Your PC Easily - Expert Tips on Utilizing Robust Backup Solutions for Windows System Restore</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/egic-play-tips-by-top-game-masters-for-2024/"><u>Strategic Play Tips by Top Game Masters for 2024</u></a></li>
+</ul></div>
 

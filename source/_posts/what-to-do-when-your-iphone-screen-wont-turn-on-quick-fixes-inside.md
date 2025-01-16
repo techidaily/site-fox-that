@@ -1,7 +1,7 @@
 ---
 title: What To Do When Your iPhone Screen Won't Turn On? Quick Fixes Inside
-date: 2024-08-10T03:39:57.464Z
-updated: 2024-08-11T03:39:57.464Z
+date: 2025-01-10T16:05:04.518Z
+updated: 2025-01-16T16:22:01.115Z
 tags:
   - iphone
   - apple
@@ -30,9 +30,6 @@ thumbnail: https://thmb.techidaily.com/91890d8faaa4ea50693cf087efaa142eb641e1cff
 
  If your iPhone was exposed to salt water before it stopped working, then that was most likely the cause of the damage. Salt water is corrosive and, while your phone might have been fine right away, the damage could continue to progress for weeks after exposure.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ## Is Your Touchscreen Broken or Your LCD Screen?
 
  The iPhone actually has two parts to its screen. The top part is the digitizer and the part underneath is the LCD screen. The digitizer is the touchscreen and the LCD screen displays the contents of your iPhone.
@@ -44,8 +41,9 @@ thumbnail: https://thmb.techidaily.com/91890d8faaa4ea50693cf087efaa142eb641e1cff
  If there’s a problem with your digitizer, there are a few fixes you can try before taking your iPhone to a repair shop. However, if it’s the LCD, you’ll need to start searching for repairs straight away.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Make Sure Touch Accommodations Is Off
 
  Some users might have activated certain accessibility settings that can interfere with how the touchscreen works. The most common culprit is Touch Accommodations. If enabled, your iPhone screen will seem buggy and you’ll have a difficult time navigating the touchscreen.
@@ -54,9 +52,6 @@ If your screen is working, but not correctly, this could be the cause.
 
  To check if this is enabled, head to**Settings** \>**Accessibility** \>**Touch** \>**Touch Accommodations** and turn it off.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![iphone touch accommodations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/iphone-touch-accommodations.jpg)
 
  If you’re having a hard time navigating there because of the dodgy touchscreen, just activate Siri and say “Turn off Touch Accommodations.”
@@ -64,8 +59,9 @@ If your screen is working, but not correctly, this could be the cause.
  Alternatively, you can click the Side button three times and this will disable it on most newer devices. For older devices, you may need to tap the Home button three times.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Back Up and Factory Reset Your iPhone
 
  If your touchscreen isn’t working correctly, you might have a software issue. While this is rare, it can happen.
@@ -79,6 +75,10 @@ If your screen is working, but not correctly, this could be the cause.
  Related:[How to Factory Reset Your iPhone or iPad](https://www.makeuseof.com/tag/how-to-factory-reset-iphone-ipad/)
 
  If you do choose to get your iPhone repaired, you’ll most likely need to do this anyway. This ensures that the technician won’t be able to access your personal data. They may also need to test Face ID to make sure the repair worked and will need the phone to be unlocked to do so, which means you’re better off erasing all your data first.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Getting Your iPhone Screen Repaired
 
@@ -96,26 +96,27 @@ If your screen is working, but not correctly, this could be the cause.
 
  Related:[Learn to Fix Your Own Gadgets With Help From These Sites](https://www.makeuseof.com/tag/fix-gadgets-help-websites/)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Using Your iPhone Without a Touchscreen
 
  If your iPhone isn’t working but you need to access certain files, you can still do that. To do so, you’ll need to activate Voice Control. This can be helpful for backing up and restoring your iPhone.
 
  To do this, your phone screen will need to at least partially work. If so, try to make your way to**Settings** \>**Accessibility** \>**Voice Control** and turn that on.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ![iphone voice control](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/iphone-voice-control.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If Siri’s enabled, you can enable Voice Control by saying “Hey Siri, turn on Voice Control.” Once enabled, you can access your iPhone without using the touchscreen.
 
  Related:[Where to Fix iPhone Screens for Cheap: Places to Check Out](https://www.makeuseof.com/tag/places-that-fix-iphone-screens-for-cheap/)
 
  To use Voice Control, you should familiarize yourself with the basic commands.[Apple](https://support.apple.com/HT210417) has a full list of these commands on its website.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## iPhone Screen Not Working? These Fixes Should Have Helped
 
@@ -129,8 +130,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -138,4 +137,23 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-clips.techidaily.com/new-enhancing-youtube-viewing-with-faster-or-slower-video-pace/"><u>[New] Enhancing YouTube Viewing with Faster or Slower Video Pace</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/expert-review-how-the-midland-gxt1000vp4-sets-new-standards-in-communication-clarity/"><u>Expert Review: How the Midland GXT1000VP4 Sets New Standards in Communication Clarity</u></a></li>
+<li><a href="https://fox-that.techidaily.com/getting-past-stuck-ios-updates-a-comprehensive-list-of-6-troubleshooting-steps/"><u>Getting Past Stuck iOS Updates: A Comprehensive List of 6 Troubleshooting Steps</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-copy-contacts-from-apple-iphone-x-to-sim-drfone-by-drfone-transfer-from-ios/"><u>How to Copy Contacts from Apple iPhone X to SIM? | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/o-remove-background-noise-from-your-youtube-video-for-2024/"><u>How To Remove Background Noise From Your YouTube Video for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-restore-communication-between-your-iphone-and-laptop/"><u>How To Restore Communication Between Your iPhone & Laptop</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-is-there-a-business-model-for-shopping-blog-reviews/"><u>In 2024, Is There a Business Model for Shopping Blog Reviews?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/keep-your-apple-device-cool-insights-and-remedies-for-common-heat-up-issues-in-ipads-and-iphones/"><u>Keep Your Apple Device Cool: Insights & Remedies for Common Heat-Up Issues in iPads and iPhones</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/kickstart-profits-earnings-blueprint-for-periscope-novices/"><u>Kickstart Profits Earnings Blueprint for Periscope Novices</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/repaired-printer-error-after-windows-11-update/"><u>Repaired: Printer Error After Windows 11 Update</u></a></li>
+<li><a href="https://fox-that.techidaily.com/revive-your-iphone-essential-dfu-troubleshooting-for-common-problems-5/"><u>Revive Your iPhone: Essential DFU Troubleshooting for Common Problems (#5)</u></a></li>
+<li><a href="https://fox-that.techidaily.com/reviving-your-ios-assistant-7-effective-fixes-when-siri-stops-responding-on-iphone-or-ipad/"><u>Reviving Your iOS Assistant: 7 Effective Fixes When Siri Stops Responding on iPhone or iPad</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-5-solutions-how-to-troubleshoot-iphone-dictation-issues/"><u>Top 5 Solutions: How to Troubleshoot iPhone Dictation Issues</u></a></li>
+<li><a href="https://fox-that.techidaily.com/ultimate-guide-wipe-your-iphoneipad-back-to-square-one/"><u>Ultimate Guide: Wipe Your iPhone/iPad Back to Square One</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unleash-your-potential-with-onlyoffice-docspace-enhanced-by-chatgpt-for-superior-results/"><u>Unleash Your Potential with ONLYOFFICE DocSpace Enhanced by ChatGPT for Superior Results</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-infinix-smart-8-plus-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Infinix Smart 8 Plus? | Dr.fone</u></a></li>
+</ul></div>
 

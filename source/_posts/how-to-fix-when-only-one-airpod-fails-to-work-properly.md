@@ -1,7 +1,7 @@
 ---
 title: How to Fix When Only One AirPod Fails to Work Properly
-date: 2024-08-10T03:43:05.232Z
-updated: 2024-08-11T03:43:05.232Z
+date: 2025-01-12T17:02:19.482Z
+updated: 2025-01-16T17:11:41.391Z
 tags:
   - iphone
   - apple
@@ -15,8 +15,9 @@ thumbnail: https://thmb.techidaily.com/92d4d3774b8fd498c6cfb488cbb5cb9a7cceb0aea
 ## How to Fix When Only One AirPod Fails to Work Properly
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Quick Links
 
 * [Check Your AirPods Battery](https://www.makeuseof.com/one-airpod-not-working/#check-your-airpods-battery)
@@ -28,8 +29,9 @@ thumbnail: https://thmb.techidaily.com/92d4d3774b8fd498c6cfb488cbb5cb9a7cceb0aea
 * [Reset Your Phone's Network Settings](https://www.makeuseof.com/one-airpod-not-working/#reset-your-phone-39-s-network-settings)
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Don't be quick to assume your AirPod is faulty because software bugs, depleted battery, and misconfigured settings could cause this issue.
@@ -70,17 +72,23 @@ Close
 
  On a Mac, you can adjust the AirPods audio balance by opening**System Settings > Sound** and selecting the**Output** tab. Then, make sure your AirPods are selected and set the**Balance** slider to the middle.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![mac sound system settings airpods balance](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/mac-sound-system-settings-airpods-balance.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can adjust the AirPods audio balance on Windows 11 by opening**Settings > System > Sound** . Then, select your AirPods from the list of output devices and adjust the**Left channel** and**Right channel** sliders so that they're equal.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Windows Sound Settings for AirPods Pro](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/windows-sound-settings-for-airpods-pro.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Try Your AirPods With Other Devices
 
@@ -108,9 +116,6 @@ Close
 
  After unpairing, you need to [re-pair your AirPods to your device](https://www.makeuseof.com/tag/how-to-connect-airpods-mac-iphone-pc-android/) . Then, see if both your AirPods work.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 6\. Reset Your AirPods to Factory Settings
 
  If your AirPods still don't work after unpairing and re-pairing them, try resetting them to their factory settings. Once they're unpaired, put your AirPods in their charging case, but don't close the lid.
@@ -119,9 +124,6 @@ Close
 
  Your iPhone will prompt you to set them up. If you're using another device, follow the standard Bluetooth setup steps.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ## 7\. Reset Your Phone's Network Settings
 
  Your phone's network settings define how it connects to various other devices. It's worth changing back to the default settings to see if this fixes the AirPod that's not working.
@@ -146,8 +148,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -155,4 +155,22 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-cut-the-clutter-not-quality-explore-top-37-apps-for-mobile-videos-downsize/"><u>[New] Cut the Clutter, Not Quality Explore Top 37 Apps for Mobile Videos Downsize</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-creating-a-captivating-experience-with-your-first-facebook-live/"><u>[New] In 2024, Creating a Captivating Experience with Your First Facebook Live</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-eliminate-blackout-issues-with-game-capture-apps/"><u>[Updated] Eliminate Blackout Issues with Game Capture Apps</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-collecting-conquerors-8-tools-every-business-leader-cant-overlook/"><u>2024 Approved Collecting Conquerors 8 Tools Every Business Leader Can’t Overlook</u></a></li>
+<li><a href="https://fox-that.techidaily.com/correcting-mystery-sites-displayed-by-screen-time-on-ios-devices/"><u>Correcting Mystery Sites Displayed by Screen Time on iOS Devices</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/enhance-audio-quality-in-no-time-upgrade-to-the-newest-acer-driver/"><u>Enhance Audio Quality in No Time - Upgrade to the Newest Acer Driver!</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/imagepuritymax-ultimate-eraser-for-clear-backgrounds-for-2024/"><u>ImagePurityMax Ultimate Eraser for Clear Backgrounds for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/lost-mobile-heres-what-causes-find-my-iphone-to-be-unavailable-and-fixing-tips/"><u>Lost Mobile? Here’s What Causes 'Find My iPhone' To Be Unavailable & Fixing Tips</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/predictive-security-analysis-spotlight-on-the-biggest-7-upcoming-cyber-trends/"><u>Predictive Security Analysis: Spotlight on the Biggest 7 Upcoming Cyber Trends</u></a></li>
+<li><a href="https://fox-that.techidaily.com/quick-fix-for-iphone-glitches-no-itunes-needed-to-restart-it/"><u>Quick Fix for iPhone Glitches: No iTunes Needed to Restart It</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resetting-screen-time-lock-code-on-ios-devices-and-mac-computers-a-step-by-step-tutorial/"><u>Resetting Screen Time Lock Code on iOS Devices & Mac Computers – A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/the-ultimate-guide-to-animation-makers-top-recommendations-for-2024/"><u>The Ultimate Guide to Animation Makers Top Recommendations for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-a-non-functional-airpod-essential-steps/"><u>Troubleshooting a Non-Functional AirPod: Essential Steps</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-siri-suggestion-issues-why-they-arent-showing-on-your-iphone/"><u>Troubleshooting Siri Suggestion Issues: Why They Aren't Showing on Your iPhone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/why-doesnt-my-iphone-screen-work-exploring-7-possible-reasons/"><u>Why Doesn't My iPhone Screen Work? Exploring 7 Possible Reasons</u></a></li>
+</ul></div>
 

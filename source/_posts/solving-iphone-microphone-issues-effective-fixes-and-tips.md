@@ -1,7 +1,7 @@
 ---
 title: Solving iPhone Microphone Issues - Effective Fixes & Tips
-date: 2024-08-10T03:41:36.663Z
-updated: 2024-08-11T03:41:36.663Z
+date: 2025-01-12T17:21:47.353Z
+updated: 2025-01-16T16:07:07.103Z
 tags:
   - iphone
   - apple
@@ -17,20 +17,22 @@ thumbnail: https://thmb.techidaily.com/7463aefc3bf7373e7e8450adfdbb24d271ecbb972
  An iPhone is almost useless without a working microphone. A broken microphone means no FaceTime, phone calls, or Siri. Sometimes, videos shot on your iPhone may not have any audio. But before you pay Apple for a costly repair, try these fixes first.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Find Out Which Microphone Isn't Working
 
  Before you begin fixing your iPhone's microphone, you'll need to know which microphone isn't working. If you have an iPhone 5 or later, you'll have three microphones: one on the bottom of your phone for phone calls, one on the front of your phone for speakerphone, and one on the back for the camera.
 
  Test each microphone by recording using Voice Memos (bottom microphone), making a phone call on speakers (front microphone), and recording a video (back microphone). If all the microphones aren't working, it's most likely a hardware issue. If only one microphone isn't working or sounds muffled, continue to the next step.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ## 2\. iPhone Microphone Muffled or Muted? Try Cleaning It
 
 ![iphone clean speaker](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/iphone-clean-speaker.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Brent Dirks/[MakeUseOf](https://www.makeuseof.com/author/brentdirks/)
 
@@ -40,6 +42,10 @@ thumbnail: https://thmb.techidaily.com/7463aefc3bf7373e7e8450adfdbb24d271ecbb972
 
  Isopropyl alcohol breaks up grime and dries fast, so it won't damage your iPhone. Try using the highest percentage of isopropyl alcohol you can find. While you're at it,[clean your entire iPhone thoroughly](https://www.makeuseof.com/tag/clean-iphone-guide/) if it's not in a good shape.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Disconnect From Bluetooth Devices
 
 Close
@@ -48,9 +54,6 @@ Close
 
  This is a common issue with those who use Bluetooth headphones like AirPods or smart home systems. Check if you're connected to a Bluetooth device by [opening your iPhone's Control Center](https://www.makeuseof.com/how-to-use-customize-control-center-iphone/) , then toggle Bluetooth off. Alternatively, tap and hold it to view all your connected devices.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Make Sure Apps Have Microphone Permissions
 
 Close
@@ -60,18 +63,11 @@ Close
  To grant an app permission, head to**Settings** and select the affected app. Now, make sure the**Microphone** toggle is enabled.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Use an External Microphone or AirPods
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ![A guy holding AirPods Pro in charging case showing orange light](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/02/a-guy-holding-airpods-pro-in-charging-case-showing-orange-light.jpg)
 
  Hamlin Rozario/[MakeUseOf](https://www.makeuseof.com/author/hamlin-rozario/)
@@ -81,8 +77,9 @@ Close
  Most headphones, including Apple's AirPods, have built-in microphones. Since they connect via your iPhone's Lightning/USB-C port or Bluetooth, you won't have to rely on the built-in microphones for most tasks.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Other Generic Fixes
 
 Close
@@ -99,8 +96,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -108,4 +103,22 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-cutting-edge-text-tools-for-immersive-storytelling-for-2024/"><u>[New] Cutting-Edge Text Tools for Immersive Storytelling for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-initiate-into-a-tiktok-live-with-ease/"><u>[New] In 2024, Initiate Into a TikTok Live with Ease</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-superior-nintendo-switch-brawlers-selection-max-156/"><u>[Updated] In 2024, Superior Nintendo Switch Brawlers Selection (Max 156)</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-revolutionizing-fun-vr-applications-unveiled/"><u>2024 Approved Revolutionizing Fun VR Applications Unveiled</u></a></li>
+<li><a href="https://fox-that.techidaily.com/6-fixes-for-airpods-not-switching-automatically-between-apple-devices/"><u>6 Fixes for AirPods Not Switching Automatically Between Apple Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/address-stuck-function-keys-on-windows-11-desktop/"><u>Address: Stuck Function Keys on Windows 11 Desktop</u></a></li>
+<li><a href="https://fox-that.techidaily.com/eight-effective-ways-to-restore-touchscreen-functionality-on-your-tablet/"><u>Eight Effective Ways to Restore Touchscreen Functionality on Your Tablet</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-advice-for-resolving-sound-driver-errors-on-a-dell-pc-windows-7/"><u>Expert Advice for Resolving Sound Driver Errors on a Dell PC (Windows 7)</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-about-vivo-y200-frp-bypass-by-drfone-android/"><u>In 2024, About Vivo Y200 FRP Bypass</u></a></li>
+<li><a href="https://network-issues.techidaily.com/max-resolution-achievable-fix-available-pc-win10/"><u>Max Resolution Achievable: Fix Available, PC (Win10)</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-the-challenge-of-error-14-tips-and-tricks-for-iphone-users/"><u>Overcoming the Challenge of Error 14: Tips and Tricks for iPhone Users</u></a></li>
+<li><a href="https://fox-that.techidaily.com/revive-iphone-notifications-uncover-these-n-key-strategies-for-immediate-relief/"><u>Revive iPhone Notifications: Uncover These N Key Strategies for Immediate Relief!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721476826559-top-10-solutions-for-iphone-calling-issues-get-connected/"><u>Top 10 Solutions for iPhone Calling Issues: Get Connected</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/top-rated-hd-video-editing-tools-for-professionals-and-beginners-for-2024/"><u>Top-Rated HD Video Editing Tools for Professionals and Beginners for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unraveling-the-mysteries-of-icloud-problems-in-ios-a-step-by-step-fixers-handbook/"><u>Unraveling the Mysteries of iCloud Problems in iOS: A Step-by-Step Fixer's Handbook</u></a></li>
+</ul></div>
 

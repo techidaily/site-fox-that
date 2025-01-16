@@ -1,7 +1,7 @@
 ---
 title: Understanding iPhone Visual Identification Issues and How to Fix Them
-date: 2024-08-10T03:40:47.041Z
-updated: 2024-08-11T03:40:47.041Z
+date: 2025-01-11T17:44:08.485Z
+updated: 2025-01-16T17:11:30.792Z
 tags:
   - iphone
   - apple
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/daa4ddbb9dc17599c8cc745fc4daad052ccf0ddb6
 
  So, if you're having trouble using the Visual Look Up feature on your iPhone, here are some reasons why it might not be working and what you can do to fix it.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ## iPhone Models Supporting Visual Look Up
 
  First off, be sure to check if your device is running iOS 15 or iPadOS 15.1 (and later). To check, head to**Settings > General > About** , then check the iOS or iPadOS version. To download and install the latest firmware available, go to**Settings > General > Software Update** .
@@ -41,9 +38,6 @@ thumbnail: https://thmb.techidaily.com/daa4ddbb9dc17599c8cc745fc4daad052ccf0ddb6
 
  If you have a compatible device but Visual Look Up is still not working, here are some possible reasons and workarounds.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. You're Using an Unsupported Language
 
  Whether Visual Look Up will work or not depends upon the language set on your iPhone. So, if you're using an unsupported language, the feature will not work as intended. To make sure you're able to use the feature, change your primary iPhone language to one of the currently supported languages.
@@ -53,9 +47,6 @@ Here's how to change the primary language on your iPhone:
 1. Go to**Settings** \>**General** \>**Language & Region** .
 2. Tap**Add Language** , then select any one of the six supported languages—English, French, German, Italian, Japanese, or Spanish—and set it as the primary language.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ![Main Screen in iPhone Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/steps-to-change-iphone-language-1.jpeg)
 
 ![An image showing the Language & Region Option between Fonts and Dictionary sections within the General section](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/steps-to-change-iphone-language-2.jpeg)
@@ -74,8 +65,9 @@ Close
 ![Siri & Search Under Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/Siri--Search-Under-Settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Show in Look Up, in Siri & Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/Show-in-Look-Up-in-Siri--Search.jpg)
 
 Close
@@ -86,9 +78,6 @@ Close
 
  Although Visual Look Up requires an ideal image to function at its best, it's still one of the powerful [hidden iOS features](https://www.makeuseof.com/tag/hidden-iphone-features-make-productive/) . Sometimes, you may be able to detect an object even with an obstructed view—as shown in the example below:
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Obscured Image Still Showing Visual Look Up Icon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/Obscured-Image-Still-Showing-Visual-Look-Up-Icon.PNG)
 
 ![Obscured Image Not Showing Visual Look Up Icon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/Obscured-Image-Not-Showing-Visual-Look-Up-Icon.PNG)
@@ -97,16 +86,25 @@ Close
 
  In some cases, Visual Look Up may detect more than one object in the photo, causing an error in retrieving results. You can see this in the example below.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ![Visual Look Up Detecting Two Objects](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/Visual-Look-Up-Detecting-Two-Objects.PNG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Visual Look Up Showing No results for two objects](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/Visual-Look-Up-Showing-No-results-for-two-objects.PNG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
  If you've taken a photo of the object on its own and your device still can't detect the object, the quality of the image may be a culprit. Check for lighting issues and glare before taking a photo, as you can greatly improve the accuracy of Visual Look Up if you [master how to take photos on an iPhone](https://www.makeuseof.com/tag/iphone-camera-settings/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. You Aren't Connected to the Internet
 
@@ -114,16 +112,18 @@ Close
 
 ![Visual Look Up icon Showing for an Image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/Visual-Look-Up-icon-Showing-for-an-Image.PNG)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ![Content Not Found after tapping Visual Look Up icon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/Content-Not-Found-after-tapping-Visual-Look-Up-icon.PNG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. The Object Isn't Supported Yet
 
  Despite the constant updates the feature has received since its introduction alongside iOS 15, Visual Look Up is still largely dependent on [machine learning algorithms](https://www.makeuseof.com/tag/machine-learning-algorithms/) . It means that while the feature does get better over time, there's a chance it won't recognize the object you want to learn more about.
@@ -135,8 +135,9 @@ Close
  Like other features on the iPhone, Visual Look Up may not work due to random errors. If none of the steps listed above help,[restart your iPhone](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) and check for new iOS updates to clear up the software bugs and other glitches that may be causing an error.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Ready to Look Up Some Photos?
 
  Visual Look Up is a simple feature that makes it easier to learn about the various things around you, be it a pet, plant, or more. So make sure to try out each of the suggested workarounds, as various reasons can prevent the Visual Look Up feature from working as intended.
@@ -149,8 +150,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -158,4 +157,20 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-unrivaled-selection-of-no-cost-4k-video-players-for-windows/"><u>[New] In 2024, Unrivaled Selection of No-Cost 4K Video Players for Windows</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-pinnacle-srt-upgrades-elevating-your-tech-game/"><u>[New] Pinnacle SRT Upgrades Elevating Your Tech Game</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-promoting-dialogue-enriching-conversations-in-the-youtube-community/"><u>[New] Promoting Dialogue Enriching Conversations in the YouTube Community</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/implified-cross-platform-listening-top-5-playlist-conversion-resources-for-2024/"><u>[New] Simplified Cross-Platform Listening Top 5 Playlist Conversion Resources for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/dissecting-facebook-short-videos-a-comprehensive-overview-for-2024/"><u>Dissecting Facebook Short Videos A Comprehensive Overview for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/guide-to-restoring-iphone-flashlight-functionality-discover-12-repair-techniques/"><u>Guide to Restoring iPhone Flashlight Functionality - Discover 12 Repair Techniques</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-swiftly-assemble-a-stunning-google-image-mosaic-with-ease/"><u>In 2024, Swiftly Assemble a Stunning Google Image Mosaic with Ease</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/quickly-connect-your-fb-story-via-linked-profile/"><u>Quickly Connect Your FB Story via Linked Profile</u></a></li>
+<li><a href="https://fox-that.techidaily.com/repairing-airpods-silent-mode-or-glitchy-sounds-discover-these-10-remedies/"><u>Repairing AirPods' Silent Mode or Glitchy Sounds: Discover These 10 Remedies</u></a></li>
+<li><a href="https://fox-that.techidaily.com/revive-unresponsive-widgets-on-iphones-and-ipads-with-these-quick-fixes/"><u>Revive Unresponsive Widgets on iPhones & iPads with These Quick Fixes</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/simple-guide-to-reverting-your-pc-back-to-an-earlier-windows-7-system-date/"><u>Simple Guide to Reverting Your PC Back to an Earlier Windows 7 System Date</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-your-iphone-for-better-performance-with-network-resets/"><u>Troubleshoot Your iPhone for Better Performance with Network Resets</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-quiet-a-step-by-step-fix-for-conexant-smartaudio-hd-sound-problems-in-windows-11/"><u>Troubleshooting Quiet: A Step-by-Step Fix for Conexant SmartAudio HD Sound Problems in Windows 11</u></a></li>
+</ul></div>
 

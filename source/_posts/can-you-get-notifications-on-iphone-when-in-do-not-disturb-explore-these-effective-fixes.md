@@ -1,7 +1,7 @@
 ---
 title: Can You Get Notifications on iPhone When in Do Not Disturb? Explore These Effective Fixes
-date: 2025-01-01T16:07:05.896Z
-updated: 2025-01-04T05:20:07.710Z
+date: 2025-01-12T16:32:17.556Z
+updated: 2025-01-16T16:04:24.611Z
 tags:
   - iphone
   - apple
@@ -33,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/07830baed28dcfedcdb1e672639175802d38d29df
 
  Therefore, before proceeding with the other suggestions in the list, access your iPhone's**Control Center** and check that you have the correct Focus mode turned on to match your activity.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Review Your Allowed Apps
 
  Do Not Disturb lets you choose which app you want to receive notifications from, even when it's enabled. For example, when working, you naturally wouldn't want to miss notifications from collaborative apps like Slack and Asana.
@@ -49,15 +45,7 @@ thumbnail: https://thmb.techidaily.com/07830baed28dcfedcdb1e672639175802d38d29df
 
 ![do not disturb settings on iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/do-not-disturb-settings.JPEG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![allowed apps on do not disturb mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/dnd-allowed-apps.JPEG)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Close
 
@@ -83,7 +71,15 @@ Close
 
 ![change calls allowed on iphone do not disturb mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/dnd-allowed-calls.JPEG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Close
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Don't Allow Repeated Calls
 
@@ -94,11 +90,7 @@ Close
 ![turn off allow repeated calls for iphone do not disturb mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/2-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Turn Off or Hide Your Focus Status
@@ -108,10 +100,6 @@ Close
  While it's a thoughtful feature that helps you inform others, a downside is its accompanying Notify Anyway option, which lets people override your Do Not Disturb mode. This causes text messages and calls to come through your iPhone.
 
  To stop receiving texts and calls in this manner, you can [turn off your Focus status](https://www.makeuseof.com/how-to-stop-notify-anyway-focus-mode-iphone/) or [hide your Focus status from certain iPhone contacts](https://www.makeuseof.com/how-to-hide-focus-status-from-certain-contacts-iphone/) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Review Your Do Not Disturb Schedule
 
@@ -123,12 +111,20 @@ Close
 
 ![schedule for iphone do not disturb mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/dnd-schedule.JPEG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![automate schedule for iphone do not disturb mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/dnd-schedule-2.JPEG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![set time for iphone do not disturb mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/dnd-change-schedule.JPEG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Close
@@ -138,6 +134,10 @@ Close
  If you went through all the steps above and your iPhone's Do Not Disturb mode is still not working, try [restarting your iPhone](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) to see if it resolves the issue. Software glitches can sometimes prevent features like Do Not Disturb from functioning as intended, which you can fix with a simple reboot.
 
  And if you haven't,[update your iPhone to the latest iOS version](https://www.makeuseof.com/tag/update-iphone-ios-apps-data/) as well. Apple's software updates often come with bug fixes and patches for performance-related issues.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## No More Disruptions on Do Not Disturb Mode
 
@@ -162,16 +162,18 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-advanced-ai-for-professional-photography/"><u>[New] Advanced AI for Professional Photography</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-elevate-earnings-through-effective-facebook-page-practices-for-2024/"><u>[New] Elevate Earnings Through Effective Facebook Page Practices for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-perfecting-onestream-broadcasts-essential-strategies-explored/"><u>[New] Perfecting OneStream Broadcasts Essential Strategies Explored</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-addressing-android-and-ios-issues-with-fb-messages-video-transmission-for-2024/"><u>[Updated] Addressing Android & iOS Issues with FB Messages Video Transmission for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-epic-mmo-collection-best-10-no-cost-online-adventures/"><u>[Updated] In 2024, Epic MMO Collection Best 10 No-Cost Online Adventures</u></a></li>
-<li><a href="https://fox-that.techidaily.com/mastering-screen-time-security-updating-your-ios-device-passcode-effortlessly/"><u>Mastering Screen Time Security: Updating Your iOS Device Passcode Effortlessly</u></a></li>
-<li><a href="https://fox-that.techidaily.com/swift-solutions-for-a-non-responsive-iphone-or-ipad/"><u>Swift Solutions for a Non-Responsive iPhone or iPad</u></a></li>
-<li><a href="https://fox-that.techidaily.com/the-ultimate-guide-7-key-reasons-your-iphones-touchscreen-may-fail-to-respond/"><u>The Ultimate Guide: 7 Key Reasons Your iPhone's Touchscreen May Fail to Respond</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/threefold-stabilization-to-shine-your-iphone-videos/"><u>Threefold Stabilization to Shine Your iPhone Videos</u></a></li>
-<li><a href="https://fox-that.techidaily.com/unlocking-full-features-how-to-get-depth-effects-running-smoothly-in-ios-n-16s-lock-screen/"><u>Unlocking Full Features: How to Get Depth Effects Running Smoothly in iOS N 16'S Lock Screen</u></a></li>
-<li><a href="https://techidaily.com/vivo-bypass-tools-to-bypass-lock-screen-vivo-y78plus-t1-edition-by-drfone-android-unlock-android-unlock/"><u>Vivo Bypass Tools to Bypass Lock Screen(Vivo Y78+ (T1) Edition)</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-how-iphoneandroid-users-add-soundtracks-to-their-profile/"><u>[New] How iPhone/Android Users Add Soundtracks to Their Profile</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-immediate-access-future-legacy-preserving-your-digital-moments-for-2024/"><u>[New] Immediate Access, Future Legacy Preserving Your Digital Moments for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-ultimate-screen-recorder-features-for-pcmac/"><u>[New] Ultimate Screen Recorder Features for PC/Mac</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-free-tools-to-craft-compelling-videos-for-effective-fb-advertising/"><u>[Updated] In 2024, Free Tools to Craft Compelling Videos for Effective Fb Advertising</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-understanding-the-mechanics-behind-altering-gender-in-snapchatfacebook-images/"><u>[Updated] In 2024, Understanding the Mechanics Behind Altering Gender in Snapchat/Facebook Images</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-ranking-the-best-third-place-recording-tools-for-ipad-for-2024/"><u>[Updated] Ranking the Best Third-Place Recording Tools for iPad for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-expertly-remove-items-from-iphone-photo-with-top-6-apps/"><u>2024 Approved Expertly Remove Items From iPhone Photo with Top 6 Apps</u></a></li>
+<li><a href="https://fox-that.techidaily.com/get-your-siri-back-7-tips-to-restore-voice-assistant-functionality-on-ios-gadgets/"><u>Get Your Siri Back: 7 Tips to Restore Voice Assistant Functionality on iOS Gadgets</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/harness-the-power-of-zoom-on-your-windows-10-pc-for-2024/"><u>Harness the Power of Zoom on Your Windows 10 PC for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-unlocking-youtubes-srt-files-three-easy-methods/"><u>In 2024, Unlocking YouTube’s SRT Files Three Easy Methods</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-the-issue-of-phantom-touches-on-your-iphone-top-10-effective-solutions/"><u>Solving the Issue of Phantom Touches on Your iPhone: Top 10 Effective Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-camera-distortion-in-whatsapp-video-calls/"><u>Troubleshooting Camera Distortion in WhatsApp Video Calls</u></a></li>
+<li><a href="https://fox-that.techidaily.com/why-isnt-my-iphone-volume-button-responding-here-are-7-fixes-that-work/"><u>Why Isn't My iPhone Volume Button Responding? Here Are 7 Fixes That Work</u></a></li>
 </ul></div>
 

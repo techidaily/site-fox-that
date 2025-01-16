@@ -1,7 +1,7 @@
 ---
 title: Troubleshoot Failed Speech Inputs on Your iPhone Here
-date: 2024-08-03T02:46:42.768Z
-updated: 2024-08-04T02:46:42.768Z
+date: 2025-01-13T16:36:46.316Z
+updated: 2025-01-16T17:03:51.205Z
 tags:
   - iphone
   - apple
@@ -25,25 +25,28 @@ thumbnail: https://thmb.techidaily.com/0464d20c8383250ad5eec7dae311ce3366a21c1ce
  Having issues converting voice to text on your iPhone? Or perhaps the dictation icon is nowhere to be found at all? Don't worry; these are several simple troubleshooting steps you can follow when dictation isn't working on your iPhone.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Check if Dictation Is Enabled on Your iPhone
 
  The dictation feature is represented by a microphone icon at the bottom of your iPhone's on-screen keyboard. While dictation is enabled by default, you'll need to turn it on in Settings first if you don't see the microphone icon on the keyboard.
 
  Go to**Settings > General > Keyboard** and toggle on**Enable Dictation** . Tap**Enable Dictation** again to confirm. The**microphone** icon will now appear on the iOS keyboard; tap it to begin dictating.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![iPhone General settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/iphone-general-settings.JPEG)
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![iphone keyboards setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/iphone-keyboards-setting.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![enable dictation confirmation popup on iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/enable-dictation-confirmation-popup-on-iphone.PNG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -51,9 +54,6 @@ Close
 
 ![iphone keyboard dictation setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/iphone-keyboard-dictation-setting.PNG)
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![turn off dictation confirmation popup on iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/turn-off-dictation-confirmation-popup-on-iphone.PNG)
 
 Close
@@ -82,19 +82,21 @@ Close
 
  Now, when it comes to dictating your text, remember to switch the dictation language too. Tap the**microphone** icon, tap**EN** (which stands for English), and choose your new preferred dictation language.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![dictation button in iphone notes app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/dictation-button-in-iphone-notes-app.PNG)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ![change dictation language in iphone notes app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/change-dictation-language-in-iphone-notes-app.PNG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
  Dictation isn't available for all languages. You can check [Apple's site](http://www.apple.com/ios/feature-availability/#quicktype-keyboard-dictation) for a list of dictation languages available for the iPhone.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Allow Siri & Dictation in Your iPhone's Screen Time Settings
 
@@ -102,17 +104,10 @@ Close
 
  To check this, go to **Settings > Screen Time > Content & Privacy Restrictions > Allowed Apps** . If**Siri & Dictation** is toggled off, toggle it on so your iPhone will let you use the dictation function again.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ![iphone screen time setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/iphone-screen-time-setting.PNG)
 
 ![iphone content and privacy restrictions setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/iphone-content-and-privacy-restrictions-setting.PNG)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ![allowed apps on iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/allowed-apps-on-iphone.PNG)
 
 Close
@@ -125,6 +120,10 @@ Close
 
  But if it's a hardware problem, you'll likely need to contact Apple Support or an Apple Authorized Service Provider.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. General Fixes: Restart, Update, or Reset Your iPhone
 
  If the above solutions fail, as a last attempt, there are a few general fixes you can try. First,[restart your iPhone](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) , which simply involves turning off your device and turning it on again.
@@ -135,24 +134,19 @@ Close
 
  Go to **Settings > General > Transfer or Reset iPhone > Reset > Reset All Settings** . The process takes some time, so it's best to attempt it only when you don't need to use your iPhone for a while.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ![General settings showing Transfer or Reset option in iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/general-settings-showing-transfer-or-reset-option-in-ios.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![transfer or reset iphone settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_7384.JPEG)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![transfer or reset iphone settings confirmation window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_7385.JPEG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -166,8 +160,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -175,4 +167,18 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/updated-achieving-audiovisual-consistency-in-premiers-for-2024/"><u>[Updated] Achieving Audiovisual Consistency in Premiers for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-snicker-snapshots-jokeframe/"><u>[Updated] Snicker Snapshots JokeFrame</u></a></li>
+<li><a href="https://fox-that.techidaily.com/accelerate-your-instagram-experience-swift-solutions-for-lagging-issues-in-android-and-ios/"><u>Accelerate Your Instagram Experience: Swift Solutions for Lagging Issues in Android & iOS</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bing-transformed-by-ai-unleashing-new-potential-with-microsoft/"><u>Bing Transformed by AI, Unleashing New Potential with Microsoft</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-incoming-call-issues-a-guide-for-iphone-users/"><u>Fixing Incoming Call Issues – A Guide for iPhone Users</u></a></li>
+<li><a href="https://review-topics.techidaily.com/issues-playing-h265-hevc-video-on-g54-5g-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Issues playing H.265 HEVC video on G54 5G</u></a></li>
+<li><a href="https://fox-that.techidaily.com/quick-solutions-how-to-repair-imessage-issues-on-your-ios-devices/"><u>Quick Solutions: How to Repair iMessage Issues on Your iOS Devices</u></a></li>
+<li><a href="https://common-error.techidaily.com/speed-up-your-keys-effective-methods-to-fix-laggy-keyboard-performance/"><u>Speed Up Your Keys: Effective Methods to Fix Laggy Keyboard Performance</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/vimeo-chapter-how-to-add-chapters-to-vimeo-video-in-2024/"><u>Vimeo Chapter How to Add Chapters to Vimeo Video, In 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721467435745-why-wont-my-iphone-back-up-to-icloud-here-are-9-fixes-that-work/"><u>Why Won’t My iPhone Back Up to iCloud? Here Are 9 Fixes That Work</u></a></li>
+<li><a href="https://fox-that.techidaily.com/wi-fi-not-working-on-ios-devices-discover-these-8-effective-fixes-for-iphone-and-ipad-connections/"><u>Wi-Fi Not Working on iOS Devices? Discover These 8 Effective Fixes for iPhone and iPad Connections</u></a></li>
+</ul></div>
 

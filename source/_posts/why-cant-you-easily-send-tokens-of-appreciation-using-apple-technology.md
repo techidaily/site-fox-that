@@ -1,7 +1,7 @@
 ---
 title: Why Can't You Easily Send Tokens of Appreciation Using Apple Technology?
-date: 2024-08-10T03:41:30.984Z
-updated: 2024-08-11T03:41:30.984Z
+date: 2025-01-09T17:42:07.068Z
+updated: 2025-01-16T17:45:52.363Z
 tags:
   - iphone
   - apple
@@ -19,9 +19,9 @@ thumbnail: https://thmb.techidaily.com/2fd2af990894cf11cb2087adc0179e8a43be6adf1
  However, sometimes you might be unable to send gifts from your device. So, if you're experiencing such an issue, here are some possible reasons.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. The Recipient Lives in a Different Country or Region
 
  Similar to how the recipient of an [Apple Gift Card](https://www.makeuseof.com/apple-gift-card-vs-app-store-gift-card-vs-apple-store-gift-card/) can't use it outside the country where it was purchased, the recipient of a gift from an Apple device can't use it outside of the country or region where it was sent because their Apple ID is in a different country or region.
@@ -29,8 +29,9 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
  For instance, if you're going to gift an app or game from the App Store in the United States, the person you're sending it to must also have an Apple ID in the United States. However, they can work around this by [changing their App Store country](https://www.makeuseof.com/tag/dont-switch-international-itunes-media-app-store-youve-read/) , but it has its own set of drawbacks.
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. You're in an Unsupported Country or Region
 
  You might be unable to send gifts because you can't buy music, apps, movies, or books in your country or region. This is because certain countries or regions cannot access some Apple services. For instance, if you live in Croatia, you won't be able to gift books from the App Store.
@@ -38,36 +39,35 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
  It's possible to solve this problem by changing your App Store and iTunes country, but, as we mentioned earlier, it has a few issues of its own. You can visit [Apple Support](https://support.apple.com/en-us/HT204411) to learn what Apple services your country can access.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Your Family Sharing Settings
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![Screenshot of Family Sharing setup on a Mac](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-family-sharing-setup-on-a-mac.JPG)
 
 [Apple's Family Sharing](https://www.makeuseof.com/tag/set-family-sharing-share-apps-music-itunes-purchases/) lets you share Apple content and subscriptions with your family. If you've enabled this feature on your device and turned on**Ask to Buy** , it'll prevent you from sending gifts. After turning it off, you should be able to purchase gifts.
 
 ## 4\. Using the Wrong Device to Gift an Item
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![A gold iPhone on top of a gold MacBook](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/a-gold-iphone-on-top-of-a-gold-macbook.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  What you can gift depends on whether you're on an iPhone, iPad, Mac, or PC. You can send gifts from the App Store, Apple Books, or iTunes Store on an iPhone or iPad. On a Mac or PC, you can send gifts using the iTunes Store.
 
  You need an iPhone or iPad to gift apps, TV shows, or movies and a Mac or PC to gift individual songs. For now, there's no workaround for this.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. You're Trying to Gift a Free App
 
  If you can't gift an item from the App Store, it might be because it's free. While you can only gift paid items, it is possible to share free ones as well. To do so, tap the share button beside the app, then select a recipient or your means of sending it.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 ## Make the Most of Apple's Gifting Feature
 
  Looking for a great gift for a loved one who's also an Apple user? Send them an app, song, book, or another item you know they'll love from your device.
@@ -80,8 +80,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -89,4 +87,26 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-10-best-srt-turbocharger-mods-compatible-with-os-x-and-win-for-2024/"><u>[New] 10 Best SRT Turbocharger Mods Compatible with OS X & Win for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-highpoint-design-suite-examination/"><u>[New] Highpoint Design Suite Examination</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-is-it-possible-to-see-all-chatted-content-of-others-for-2024/"><u>[Updated] Is It Possible to See All Chatted Content of Others for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-set-up-a-dynamic-fb-cover-for-2024/"><u>[Updated] Set Up a Dynamic FB Cover for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-weekly-must-see-elite-igtv-talents/"><u>[Updated] Weekly Must-See Elite IGTV Talents</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-flat-to-framed-achieving-realistic-text-effects-in-photoshop/"><u>2024 Approved From Flat to Framed Achieving Realistic Text Effects in Photoshop</u></a></li>
+<li><a href="https://dvd-bd.techidaily.com/easy-guide-converting-avi-files-to-dvds-for-seamless-playback-on-any-dvd-player/"><u>Easy Guide: Converting AVI Files to DVDs for Seamless Playback on Any DVD Player</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-fix-it-when-a-chromecasts-sound-is-not-working/"><u>How to Fix It When a Chromecast's Sound Is Not Working</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721471120471-iphone-siri-suggestions-not-showing-up-discover-effective-fixes-and-methods-today/"><u>IPhone Siri Suggestions Not Showing Up? Discover Effective Fixes and Methods Today</u></a></li>
+<li><a href="https://fox-that.techidaily.com/is-there-constant-movement-to-the-sounds-you-hear-on-airpods-stop-it-by-switching-off-dynamic-positioning-systems/"><u>Is There Constant Movement to the Sounds You Hear on AirPods? Stop It by Switching Off Dynamic Positioning Systems</u></a></li>
+<li><a href="https://fox-that.techidaily.com/lost-iconography-across-ios-applications-uncover-proven-remedies-now/"><u>Lost Iconography Across iOS Applications? Uncover Proven Remedies Now!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcome-lockout-restoring-functionality-on-ios-devices/"><u>Overcome Lockout: Restoring Functionality on iOS Devices</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcome-the-roblox-insufficient-memory-alerts-on-your-iphone-a-comprehensive-guide/"><u>Overcome the Roblox Insufficient Memory Alerts on Your iPhone: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/siri-malfunction-heres-how-to-resolve-the-top-7-issues-on-iphoneipad/"><u>Siri Malfunction? Here's How to Resolve the Top 7 Issues on iPhone/iPad</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/testdisk-het-meest-effectieve-tool-voor-het-herstel-van-data-in-windows-11-10-8-en-7/"><u>TestDisk Het Meest Effectieve Tool Voor Het Herstel Van Data In Windows 11, 10, 8 En 7</u></a></li>
+<li><a href="https://fox-that.techidaily.com/the-5-challenges-of-using-idevices-for-personalized-gifting/"><u>The 5 Challenges of Using iDevices for Personalized Gifting</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-siri-suggestion-issues-a-guide-to-restoring-pop-ups-on-your-iphone/"><u>Troubleshooting Siri Suggestion Issues: A Guide to Restoring Pop-Ups on Your iPhone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-samsung-galaxy-m14-4g-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Samsung Galaxy M14 4G | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unified-photo-album-creation-for-identical-portraits-on-iphones-and-macbooks/"><u>Unified Photo Album Creation for Identical Portraits on iPhones and MacBooks</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Handling a Rejected Payment on Apple Platforms? Try These 6 Quick Remedies!
-date: 2024-08-03T02:45:30.033Z
-updated: 2024-08-04T02:45:30.033Z
+date: 2025-01-15T16:18:22.803Z
+updated: 2025-01-16T16:54:34.335Z
 tags:
   - iphone
   - apple
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/202879ef7f02a179959dd0c2fa2c18e23fdc88226
 
  Or perhaps you want to add a payment method to your Apple ID, but it gets declined. What do you do in either situation? Below, we'll list a few steps you can take when Apple declines your payment method.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ## 1\. Check Your Payment Information
 
  When Apple declines your payment method, the first thing to try is to check your payment information to ensure it's accurate and up-to-date. If your billing details, such as your address or ZIP code, is incorrect, this can cause your payment method to be declined.
@@ -36,14 +33,8 @@ To check your payment information on an iPhone or iPad:
 
 ![Settings in iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/settings-in-ios.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Apple ID Menu in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/apple-id-menu-in-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ![Payment and Shipping Menu Options in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/payment-and-shipping-menu-options-in-settings.jpg)
 
 Close
@@ -58,6 +49,10 @@ To check your payment information on a Mac:
 
 ![Account Information Details from the App Store on macOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/account-information-details-from-the-app-store-on-macos.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  There you go. You've successfully checked and updated your payment information.
 
 ## 2\. Try a Different Payment Method
@@ -68,10 +63,11 @@ To check your payment information on a Mac:
 
  Check [Apple's Support page](https://support.apple.com/en-us/HT202631) to see what payment methods you can use with your Apple ID.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Close up shot of a man's hand holding a bunch of debit cards](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/close-up-shot-of-a-man-s-hand-holding-a-bunch-of-debit-cards.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Sign Out and Sign Back In
 
@@ -86,15 +82,20 @@ To sign out of the App Store on an iPhone or iPad:
 ![App Store Display on iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/app-store-display-on-ios.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![App Store Account on iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/app-store-account-on-ios.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![App Store Account Menu Options in iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/app-store-account-menu-options-in-ios.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -107,11 +108,12 @@ To sign out of the App Store on a Mac:
 
 ![Sign Out of App Store on macOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/sign-out-of-app-store-on-macos.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To log back in, click**Sign In** in the bottom-left corner of the App Store's window and enter your Apple ID username and password.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Take Care of Outstanding Payments
 
  Your card may be declined in places like the App Store or iTunes Store if you have outstanding payments. To check for unpaid purchases, view your App Store purchase history.
@@ -122,14 +124,15 @@ Do the following to view your App Store purchases on an iPhone or iPad.
 2. Tap**Media & Purchases** from the Apple ID settings menu and choose**View Account** .
 3. Now, scroll down and tap on**Purchase** **History** . You may be required to sign in.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ![Media & Purchases popup menu on iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/media-purchases-popup-menu-on-ios.jpg)
 
 ![Account Settings menu on iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/account-settings-menu-on-ios-1.jpeg)
 
 ![Purchase history on iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/purchase-history-on-ios-1.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -137,9 +140,6 @@ Close
 
  After resolving any outstanding payments, you should be able to make purchases using your payment method. However, ensure you have sufficient funds first.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ## 5\. Contact Your Bank or Credit Card Company
 
  If you have sufficient funds in your bank account and your payment information is accurate, but you still can't add or use your payment method, contact your bank or credit card company. They should be able to explain the issue and help you resolve it.
@@ -160,8 +160,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -169,4 +167,22 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-real-time-recording-rivalry-obs-versus-shadowreplay/"><u>[New] In 2024, Real-Time Recording Rivalry OBS Versus ShadowReplay</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-premier-gadgets-in-auto-traffic-camera-tech/"><u>[Updated] Premier Gadgets in Auto Traffic Camera Tech</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-step-by-step-guide-for-top-picture-editor-for-2024/"><u>[Updated] Step-by-Step Guide for Top Picture Editor for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-ultimate-directory-of-freely-licensed-sound-sources/"><u>[Updated] The Ultimate Directory of Freely Licensed Sound Sources</u></a></li>
+<li><a href="https://fox-that.techidaily.com/8-effective-tips-to-get-your-iphones-control-center-running-smoothly-again/"><u>8 Effective Tips to Get Your iPhone's Control Center Running Smoothly Again</u></a></li>
+<li><a href="https://fox-that.techidaily.com/decoding-icloud-dilemmas-on-apple-devices-the-top-9-challenges-and-how-to-overcome-them/"><u>Decoding iCloud Dilemmas on Apple Devices: The Top 9 Challenges & How to Overcome Them</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722973101276-easy-guide-to-installing-mouse-drivers-in-windows-7-download-successfully-tested/"><u>Easy Guide to Installing Mouse Drivers in Windows 7 – Download Successfully Tested!</u></a></li>
+<li><a href="https://article-files.techidaily.com/enhance-your-iphone-photography-with-time-lapse-for-2024/"><u>Enhance Your iPhone Photography with Time-Lapse for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-the-legality-of-firing-over-chatgpt-usage-a-detailed-analysis/"><u>Exploring the Legality of Firing Over ChatGPT Usage: A Detailed Analysis</u></a></li>
+<li><a href="https://fox-that.techidaily.com/important-alert-why-you-should-install-ios-153-without-delay/"><u>Important Alert: Why You Should Install iOS 15.3 Without Delay</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/mastering-chronos-shifts-using-phantoms-time-reversed-footage-for-2024/"><u>Mastering Chronos Shifts Using Phantom's Time-Reversed Footage for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-and-resolve-airpods-issues-silent-mode-to-crystal-clear-audio/"><u>Troubleshoot and Resolve AirPods Issues - Silent Mode to Crystal Clear Audio</u></a></li>
+<li><a href="https://discover-community.techidaily.com/troubleshooting-and-solutions-for-a-malfunctioning-gpu-insights-from-yl-software-experts/"><u>Troubleshooting and Solutions for a Malfunctioning GPU: Insights From YL Software Experts</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-chatgpt-ios-app-issues-top-9-solutions/"><u>Troubleshooting ChatGPT iOS App Issues: Top 9 Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-silent-messages-on-iphone-discover-15plus-methods-to-get-alerts-working-again/"><u>Troubleshooting Silent Messages on iPhone: Discover 15+ Methods to Get Alerts Working Again</u></a></li>
+</ul></div>
 

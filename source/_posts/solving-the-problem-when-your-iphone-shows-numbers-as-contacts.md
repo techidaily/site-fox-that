@@ -1,7 +1,7 @@
 ---
 title: Solving the Problem When Your iPhone Shows Numbers as Contacts
-date: 2024-12-28T19:37:24.755Z
-updated: 2025-01-03T16:40:33.067Z
+date: 2025-01-15T17:26:36.190Z
+updated: 2025-01-16T17:13:51.244Z
 tags:
   - iphone
   - apple
@@ -36,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/be96a560d136aae29d0d1d935d5244e5292b9067e
  However, this is usually a temporary issue and should fix itself. If this isn't the case, you can try a few quick fixes to get things back to normal quickly.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Restart Your iPhone
@@ -44,6 +44,10 @@ thumbnail: https://thmb.techidaily.com/be96a560d136aae29d0d1d935d5244e5292b9067e
  A quick fix to getting your contact names back instead of phone numbers is to [restart your iPhone](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) . As with many other issues, a quick reboot usually does the trick, and you should be able to see your contact names instead of phone numbers in Messages.
 
  In the case that this doesn't work and you are still facing the same issue, follow the fixes below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Add or Remove the Country Code
 
@@ -59,7 +63,7 @@ thumbnail: https://thmb.techidaily.com/be96a560d136aae29d0d1d935d5244e5292b9067e
 ![Contact Edit menu in iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/contact-edit-menu-in-ios.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Add Country Code to Number](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Fix-Messages-Not-Showing-Contact-Number.jpg)
@@ -73,7 +77,7 @@ Close
  Once you fix a phone number, you'll see Messages will automatically merge the conversations split across different chats.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Toggle iCloud Contacts
@@ -92,17 +96,13 @@ To do this, follow these steps on your iPhone:
 
 ![Settings on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Fix-Messages-Not-Showing-iCloud.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Password and Security in iPhone iCloud Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/2FA-iPhone-Password-and-Security.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Contacts in iCloud Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Fix-Messages-Not-Showing-iCloud-Contacts.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Close
 
@@ -125,20 +125,22 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-comparative-study-black-hero-4-versus-x1000v-in-action-filming/"><u>[New] In 2024, Comparative Study Black Hero 4 Versus X1000V in Action Filming</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-hymn-based-ringtone-options-for-every-believer/"><u>[Updated] In 2024, Hymn-Based Ringtone Options for Every Believer</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-mega-popular-youtube-vids-everlasting-titles/"><u>[Updated] Mega-Popular YouTube Vids Everlasting Titles</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-quick-growing-yt-sources-sparking-mental-flourish-for-2024/"><u>[Updated] Quick-Growing YT Sources Sparking Mental Flourish for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-reviving-a-dying-twitch-stream-in-seconds/"><u>[Updated] Reviving a Dying Twitch Stream in Seconds</u></a></li>
-<li><a href="https://fox-that.techidaily.com/easy-solutions-to-overcome-last-line-unavailable-errors-on-ios-devices/"><u>Easy Solutions to Overcome ‘Last Line Unavailable’ Errors on iOS Devices</u></a></li>
-<li><a href="https://fox-that.techidaily.com/get-the-most-out-of-your-smartphones-internet-top-10-tricks-for-swift-mobile-data/"><u>Get the Most Out of Your Smartphone's Internet: Top 10 Tricks for Swift Mobile Data</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-why-apple-account-disabled-from-your-iphone-se-2020-how-to-fix-by-drfone-ios/"><u>In 2024, Why Apple Account Disabled From your iPhone SE (2020)? How to Fix</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/optimal-tools-for-educators-lesson-archiving/"><u>Optimal Tools for Educator's Lesson Archiving</u></a></li>
-<li><a href="https://fox-that.techidaily.com/resolve-iphone-voice-recognition-problems-with-these-5-tips/"><u>Resolve iPhone Voice Recognition Problems with These 5 Tips</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/streamline-your-workflow-with-leading-tts-apps-for-mac-users/"><u>Streamline Your Workflow with Leading TTS Apps for Mac Users</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-guide-how-to-fix-your-iphone-when-it-gets-stuck-on-the-apple-sign-in/"><u>Troubleshooting Guide: How to Fix Your iPhone When It Gets Stuck on the Apple Sign-In</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-guide-why-arent-your-airpods-detected-by-find-my/"><u>Troubleshooting Guide: Why Aren't Your AirPods Detected by 'Find My'?</u></a></li>
-<li><a href="https://fox-that.techidaily.com/understanding-the-causes-of-iphoneipad-overheating-solutions-and-prevention-tips/"><u>Understanding the Causes of iPhone/iPad Overheating: Solutions & Prevention Tips</u></a></li>
-<li><a href="https://fox-that.techidaily.com/why-does-my-iphone-still-show-pictures-ive-deleted-from-the-camera-roll-top-8-fixes-explored/"><u>Why Does My iPhone Still Show Pictures I've Deleted From the Camera Roll? Top 8 Fixes Explored</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-from-good-to-great-transformative-tactics-with-studio/"><u>[Updated] 2024 Approved From Good to Great Transformative Tactics with Studio</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-why-virtual-reality-lack-of-content-2023-update/"><u>[Updated] 2024 Approved Why Virtual Reality Lack of Content? -2023 Update</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-grand-selection-of-incredibly-affordable-footage-for-2024/"><u>[Updated] Grand Selection of Incredibly Affordable Footage for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-innovating-your-reality-essential-vr-peripherals-guide/"><u>2024 Approved Innovating Your Reality Essential VR Peripherals Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/6-key-solutions-for-overcoming-challenges-with-family-sharing-features/"><u>6 Key Solutions for Overcoming Challenges with Family Sharing Features</u></a></li>
+<li><a href="https://fox-that.techidaily.com/bright-ideas-for-fixing-an-unresponsive-iphone-torch-in-just-12-steps/"><u>Bright Ideas for Fixing an Unresponsive iPhone Torch in Just 12 Steps</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/creating-costless-webinars-on-youtube-a-handbook-for-2024/"><u>Creating Costless Webinars on YouTube A Handbook for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discovering-whos-at-the-helm-of-chatgpt-ownership/"><u>Discovering Who's at the Helm of ChatGPT Ownership</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/fresh-face-of-amazons-echo-dot-gen-4-review-a-comprehensive-look/"><u>Fresh Face of Amazon's Echo Dot Gen 4 Review: A Comprehensive Look</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-excel-surpasses-gpt-based-interaction/"><u>How Excel Surpasses GPT-Based Interaction</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-retrieve-deleted-facetime-pictures-on-your-iphone-or-ipad/"><u>How to Retrieve Deleted FaceTime Pictures on Your iPhone or iPad</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-create-an-apple-developer-account-on-iphone-se-by-drfone-ios/"><u>In 2024, How To Create an Apple Developer Account On iPhone SE</u></a></li>
+<li><a href="https://fox-that.techidaily.com/navigating-iphone-13-hiccups-top-6-solutions-exposed/"><u>Navigating iPhone 13 Hiccups: Top 6 Solutions Exposed</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcome-iphone-text-limit-errors-how-to-restore-full-typing-capacity/"><u>Overcome iPhone Text Limit Errors – How to Restore Full Typing Capacity</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolve-mobile-web-browsing-woes-top-10-tips-for-a-functional-iphone-safari/"><u>Resolve Mobile Web Browsing Woes: Top 10 Tips for a Functional iPhone Safari</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-your-iphone-wi-fi-sharing-issues-a-step-by-step-fix-for-non-working-hotspot-feature/"><u>Solving Your iPhone Wi-Fi Sharing Issues - A Step-by-Step Fix for Non-Working Hotspot Feature</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-steps-getting-your-airplay-back-on-track/"><u>Troubleshooting Steps: Getting Your AirPlay Back on Track</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting: How to Repair an Unresponsive iPhone/iPad Keyboard"
-date: 2025-01-09T22:40:55.867Z
-updated: 2025-01-10T20:43:15.348Z
+date: 2025-01-15T16:24:47.939Z
+updated: 2025-01-16T17:22:48.111Z
 tags:
   - iphone
   - apple
@@ -30,11 +30,19 @@ thumbnail: https://thmb.techidaily.com/d560ca9c3c8262a76b0a5ec32a0dcb8921bf59ea8
 
  Is your iPhone or iPad keyboard not showing up, typing the wrong letters, or malfunctioning in some other way? We'll go through common problems and the corresponding solutions you can try when your iPhone or iPad's on-screen or physical keyboard isn't working.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. iPhone or iPad Keyboard Isn't Showing Up
 
  If the entire on-screen keyboard isn't showing up when you need to type something, it's probably because the cursor isn't in a text field yet. Try tapping a text field or search box on your screen for the keyboard to appear.
 
 ![spendee app add a transaction menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/spendee-app.PNG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![spendee app with cursor in notes field](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/spendee-app-with-cursor-in-notes-field.jpeg)
 
@@ -50,10 +58,6 @@ Close
 
 ![keyboard language list on iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/keyboard-language-list-on-iphone.PNG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Close
 
 ## 2\. iPhone or iPad Keyboard Typing the Wrong Letters and Words
@@ -68,6 +72,10 @@ Close
 
  But if the cause of ghost touch is damaged hardware—for example, you dropped your iPhone recently, and there are visible screen cracks—you probably need to replace your iPhone's display. While we recommend getting it fixed by Apple, you have [options if you want to fix your iPhone's screen for cheap](https://www.makeuseof.com/tag/places-that-fix-iphone-screens-for-cheap/) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Check Your Text Replacement Setting
 
  Let's say you're typing the phrase "I'm studying" in a message, but it autocorrects to "I'm napping" every time. This is probably caused by a text replacement setting.
@@ -78,23 +86,23 @@ Close
 
 ![expanded iphone keyboards setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/expanded-iphone-keyboards-setting.PNG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![iphone text replacement setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/iphone-text-replacement-setting.PNG)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![removal of preset text in iphone text replacement setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/removal-of-preset-text-in-iphone-text-replacement-setting.PNG)
 
 Close
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. iPhone or iPad Keyboard Is Lagging
 
  If you're typing swiftly on your iPhone keyboard but the text takes a while to show up on the screen, the cause might be a temporary software glitch or an incorrect iPhone setting. Try the solutions below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Reset the Keyboard Dictionary
 
@@ -107,16 +115,16 @@ Close
 ![transfer or reset iphone settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_7384.JPEG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![transfer or reset iphone settings confirmation window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_7385.JPEG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Close
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Review Your Touch Accommodations Settings in Accessibility
 
@@ -126,15 +134,15 @@ Close
 
 ![iphone accessibility setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/iphone-accessibility-setting.PNG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![ipohne touch setting with touch accommodations toggled on](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/ipohne-touch-setting-with-touch-accommodations-toggled-on.PNG)
 
 ![iphone touch accommodations setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/iphone-touch-accommodations-setting.PNG)
 
 Close
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. No Sound or Vibration When Typing on the Keyboard
 
@@ -147,10 +155,14 @@ Close
 ![iphone sounds and haptics settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/iphone-sounds-and-haptics-settings.PNG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![iphone keyboard feedback setting with sound and haptic enabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/iphone-keyboard-feedback-setting-with-sound-and-haptic-enabled.PNG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -159,10 +171,6 @@ Close
 ![iphone accessibility setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/iphone-accessibility-setting.PNG)
 
 ![iphone touch accessibility setting with vibration toggled on](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/iphone-touch-accessibility-setting-with-vibration-toggled-on.PNG)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Close
 
@@ -190,15 +198,7 @@ Close
 
 ![iphone general settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/iphone-general-settings-2.JPEG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![iPhone General settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/iphone-general-settings.JPEG)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![iphone ios 17.0.3 software update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/img_7670.JPEG)
 
@@ -223,20 +223,24 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-become-a-youtube-partner-you-need-10000-views-now/"><u>[Updated] 2024 Approved How to Become a YouTube Partner - You Need 10,000 Views Now</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-how-to-use-a-whiteboard-in-google-meet-on-laptopiphoneandroid/"><u>[Updated] How to Use a Whiteboard in Google Meet on Laptop/iPhone/Android</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-get-superior-visuals-from-youtube-downloading-thumbnails-free/"><u>[Updated] In 2024, Get Superior Visuals From YouTube - Downloading Thumbnails Free!</u></a></li>
-<li><a href="https://fox-that.techidaily.com/boosting-mobile-internet-speeds-a-quick-guide-with-10-effective-tips/"><u>Boosting Mobile Internet Speeds: A Quick Guide with 10 Effective Tips</u></a></li>
-<li><a href="https://extra-information.techidaily.com/enhancing-detail-in-scenes-using-kinemaster-zoom-features/"><u>Enhancing Detail in Scenes Using Kinemaster Zoom Features</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-realme-narzo-n53-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Realme Narzo N53</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-solve-your-iphones-hotspot-connectivity-problems-swiftly/"><u>How to Solve Your iPhone's Hotspot Connectivity Problems Swiftly</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-from-first-steps-to-proficiency-in-iphone-voice-memos/"><u>In 2024, From First Steps to Proficiency in iPhone Voice Memos</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-master-picks-for-commercial-cloud-space/"><u>In 2024, Master Picks for Commercial Cloud Space</u></a></li>
-<li><a href="https://fox-that.techidaily.com/mastering-your-iphones-photo-archive-top-8-troubleshooting-techniques/"><u>Mastering Your iPhone's Photo Archive: Top 8 Troubleshooting Techniques</u></a></li>
-<li><a href="https://fox-that.techidaily.com/resolving-robloxs-low-memory-alerts-a-step-by-step-guide-for-iphones/"><u>Resolving Roblox's 'Low Memory' Alerts: A Step-by-Step Guide for iPhones</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/techniques-to-overcome-malfunctioning-ccleaner-in-windows-1011/"><u>Techniques to Overcome Malfunctioning CCleaner in Windows 10/11</u></a></li>
-<li><a href="https://fox-that.techidaily.com/the-ultimate-fixes-for-when-imessage-says-youre-not-connected-on-an-iphone/"><u>The Ultimate Fixes for When iMessage Says You're Not Connected on an iPhone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/top-8-iphone-tools-enhancing-usability-for-the-visually-impaired/"><u>Top 8 iPhone Tools Enhancing Usability for the Visually Impaired</u></a></li>
-<li><a href="https://fox-that.techidaily.com/unstuck-from-silence-resolving-iphone-and-ipad-keyboard-problems-in-just-6-steps/"><u>Unstuck From Silence: Resolving iPhone and iPad Keyboard Problems in Just 6 Steps</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-earnings-empire-constructing-a-profitable-youtube-channel/"><u>[New] 2024 Approved Earnings Empire Constructing a Profitable YouTube Channel</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-revival-of-obs-camera-achieved/"><u>[New] In 2024, Revival of OBS Camera Achieved</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-spotlight-10-anonymous-story-gazers-for-2024/"><u>[New] Spotlight 10 Anonymous Story Gazers for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-enhance-your-aerial-imagery-dji-drones-get-20-free-luts/"><u>[Updated] In 2024, Enhance Your Aerial Imagery DJI Drones Get 20 FREE LUTS</u></a></li>
+<li><a href="https://fox-access.techidaily.com/a-comprehensive-list-of-15-competitors-to-gopro-cameras/"><u>A Comprehensive List of 15 Competitors to GoPro Cameras</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/creative-tims-elite-flutter-framework-unleash-the-potential-of-now-ui-pro-for-exceptional-app-design/"><u>Creative Tim's Elite Flutter Framework: Unleash the Potential of Now UI Pro for Exceptional App Design</u></a></li>
+<li><a href="https://fox-that.techidaily.com/dont-miss-a-beat-11-tricks-to-fix-your-iphones-ring-call-problems/"><u>Don't Miss a Beat: 11 Tricks to Fix Your iPhone's Ring Call Problems</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721455955237-fix-your-airdrop-woes-instantly-discover-16-effective-tricks-today/"><u>Fix Your AirDrop Woes Instantly – Discover 16 Effective Tricks Today!</u></a></li>
+<li><a href="https://driver-install.techidaily.com/hasten-lexmark-drivers-compatibility-rollout/"><u>Hasten Lexmark Drivers' Compatibility Rollout</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-maintain-an-active-state-on-a-mac-without-interruption/"><u>How To Maintain an Active State on a Mac Without Interruption</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-meizu-21-pro-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Meizu 21 Pro Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-missing-push-messages-resolve-with-these-7-quick-fixes/"><u>IPhone Missing Push Messages? Resolve with These 7 Quick Fixes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-wi-fi-hotspot-failures-comprehensive-guide-to-restore-connectivity/"><u>IPhone Wi-Fi Hotspot Failures? Comprehensive Guide to Restore Connectivity</u></a></li>
+<li><a href="https://fox-that.techidaily.com/mastering-dfu-a-guide-to-solving-5-widespread-problems-on-iphones/"><u>Mastering DFU: A Guide to Solving 5 Widespread Problems on iPhones</u></a></li>
+<li><a href="https://fox-that.techidaily.com/six-proven-tips-to-calibrate-your-iphones-power-unit-and-improve-performance/"><u>Six Proven Tips to Calibrate Your iPhone's Power Unit and Improve Performance</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solution-steps-how-to-recover-missing-icon-images-on-your-iphone-screen/"><u>Solution Steps: How to Recover Missing Icon Images on Your iPhone Screen</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-the-problem-of-non-appearing-events-in-ios-calendar-app/"><u>Solving the Problem of Non-Appearing Events in iOS Calendar App</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ise-guide-to-youtube-video-enhancement-in-imovie-for-2024/"><u>Stepwise Guide to YouTube Video Enhancement in iMovie for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-7-irritating-iphone-x-issues-and-their-solutions/"><u>Top 7 Irritating iPhone X Issues & Their Solutions</u></a></li>
 </ul></div>
 

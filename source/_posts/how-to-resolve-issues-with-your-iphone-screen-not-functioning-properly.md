@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Issues with Your iPhone Screen Not Functioning Properly
-date: 2025-01-09T20:56:50.150Z
-updated: 2025-01-10T19:31:42.874Z
+date: 2025-01-10T17:08:14.203Z
+updated: 2025-01-16T17:08:17.986Z
 tags:
   - iphone
   - apple
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/07aa9db678660a97880964bc167fdc56576717cff
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Why Is Your iPhone Touchscreen Not Working?
 
  There are several reasons your iPhone touchscreen could stop working. One of the most common reasons is physical damage. If your screen stopped working after it hit something, the damage is most likely physical.
@@ -38,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/07aa9db678660a97880964bc167fdc56576717cff
  Related:[Is Your iPhone Home Button Not Working? Quick Fixes to Try](https://www.makeuseof.com/tag/iphone-home-button-working-fix/)
 
  If your iPhone was exposed to salt water before it stopped working, then that was most likely the cause of the damage. Salt water is corrosive and, while your phone might have been fine right away, the damage could continue to progress for weeks after exposure.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Is Your Touchscreen Broken or Your LCD Screen?
 
@@ -59,16 +59,12 @@ If your screen is working, but not correctly, this could be the cause.
 
 ![iphone touch accommodations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/iphone-touch-accommodations.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you’re having a hard time navigating there because of the dodgy touchscreen, just activate Siri and say “Turn off Touch Accommodations.”
 
  Alternatively, you can click the Side button three times and this will disable it on most newer devices. For older devices, you may need to tap the Home button three times.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Back Up and Factory Reset Your iPhone
@@ -79,11 +75,19 @@ If your screen is working, but not correctly, this could be the cause.
 
 ![iphone erase content](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/iphone-erase-content.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you can’t navigate here, you’ll need to plug your iPhone into a computer to perform a factory reset. After resetting, in rare cases, your touchscreen will work again.
 
  Related:[How to Factory Reset Your iPhone or iPad](https://www.makeuseof.com/tag/how-to-factory-reset-iphone-ipad/)
 
  If you do choose to get your iPhone repaired, you’ll most likely need to do this anyway. This ensures that the technician won’t be able to access your personal data. They may also need to test Face ID to make sure the repair worked and will need the phone to be unlocked to do so, which means you’re better off erasing all your data first.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Getting Your iPhone Screen Repaired
 
@@ -101,6 +105,10 @@ If your screen is working, but not correctly, this could be the cause.
 
  Related:[Learn to Fix Your Own Gadgets With Help From These Sites](https://www.makeuseof.com/tag/fix-gadgets-help-websites/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Using Your iPhone Without a Touchscreen
 
  If your iPhone isn’t working but you need to access certain files, you can still do that. To do so, you’ll need to activate Voice Control. This can be helpful for backing up and restoring your iPhone.
@@ -109,19 +117,11 @@ If your screen is working, but not correctly, this could be the cause.
 
 ![iphone voice control](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/iphone-voice-control.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If Siri’s enabled, you can enable Voice Control by saying “Hey Siri, turn on Voice Control.” Once enabled, you can access your iPhone without using the touchscreen.
 
  Related:[Where to Fix iPhone Screens for Cheap: Places to Check Out](https://www.makeuseof.com/tag/places-that-fix-iphone-screens-for-cheap/)
 
  To use Voice Control, you should familiarize yourself with the basic commands.[Apple](https://support.apple.com/HT210417) has a full list of these commands on its website.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## iPhone Screen Not Working? These Fixes Should Have Helped
 
@@ -144,20 +144,17 @@ If your screen is working, but not correctly, this could be the cause.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-the-artistic-journey-animating-scenes-with-windows-movie-maker/"><u>[New] In 2024, The Artistic Journey Animating Scenes with Windows Movie Maker</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-how-to-convert-any-vimeo-video-to-a-secure-mp4-file/"><u>[Updated] 2024 Approved How To Convert Any Vimeo Video to a Secure MP4 File</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-the-art-of-video-thumbnail-making-for-popular-content/"><u>[Updated] The Art of Video Thumbnail Making for Popular Content</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/chronological-breakdown-of-apples-ios-upgrades-version-10-through-180/"><u>Chronological Breakdown of Apple’s iOS Upgrades - Version 1.0 Through 18.0</u></a></li>
-<li><a href="https://fox-that.techidaily.com/crack-down-on-iphone-delays-discover-the-6-main-causes-and-how-to-correct-them/"><u>Crack Down on iPhone Delays - Discover the 6 Main Causes and How to Correct Them</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ing-video-credits-the-best-fonts-for-thumbnails-for-2024/"><u>Engaging Video Credits The Best Fonts for Thumbnails for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-overcome-difficulties-in-sharing-subscriptions-among-families/"><u>How to Overcome Difficulties in Sharing Subscriptions Among Families</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-lava-storm-5g-easily-by-drfone-android/"><u>How To Unlock a Lava Storm 5G Easily?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/ideal-hosts-maximizing-youtube-video-exposure-for-2024/"><u>Ideal Hosts Maximizing YouTube Video Exposure for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-in-search-of-perfection-the-top-10-live-streamers/"><u>In 2024, In Search of Perfection The Top 10 Live Streamers</u></a></li>
-<li><a href="https://fox-that.techidaily.com/lost-iphone-heres-why-it-might-be-invisible-on-find-my-and-how-to-spot-it/"><u>Lost iPhone? Here's Why It Might Be Invisible on 'Find My' And How to Spot It!</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721475023985-quick-fixes-to-get-your-airdrop-functionality-up-and-running-again-learn-the-best-1ve-tips/"><u>Quick Fixes to Get Your AirDrop Functionality Up and Running Again: Learn the Best 1Ve Tips!</u></a></li>
-<li><a href="https://fox-that.techidaily.com/restore-your-lost-iphone-notes-a-step-by-step-guide/"><u>Restore Your Lost iPhone Notes: A Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-that.techidaily.com/undoing-the-mistake-easy-ways-to-get-back-your-deletion-notes-from-ios-devices/"><u>Undoing the Mistake: Easy Ways to Get Back Your Deletion Notes From iOS Devices</u></a></li>
-<li><a href="https://fox-that.techidaily.com/why-does-my-iphones-screen-keep-getting-darker-understanding-10-triggers/"><u>Why Does My iPhone's Screen Keep Getting Darker? Understanding 10 Triggers</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-jumpstart-to-partner-elevation-secure-10k-views-in-minutes/"><u>[New] 2024 Approved Jumpstart to Partner Elevation Secure 10K Views in Minutes</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-imaginedge-coder/"><u>[Updated] ImaginEdge Coder</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-a-detailed-examination-of-mycam-for-smart-home-setups/"><u>[Updated] In 2024, A Detailed Examination of MyCam for Smart Home Setups</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-swift-playback-on-instagram-videos-mobiledesktop/"><u>2024 Approved Swift Playback on Instagram Videos (Mobile/Desktop)</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/access-all-matches-free-world-cup-live-streaming-options/"><u>Access All Matches Free World Cup Live Streaming Options</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-dialogues-battlefront-choosing-between-gpt-and-bing/"><u>AI Dialogues Battlefront: Choosing Between GPT & Bing</u></a></li>
+<li><a href="https://fox-that.techidaily.com/speed-up-instagram-6-essential-tips-to-enhance-app-performance-on-all-smartphones/"><u>Speed Up Instagram: 6 Essential Tips to Enhance App Performance on All Smartphones</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/step-by-step-instructions-on-initiating-a-cross-platform-skype-conversation-with-ease/"><u>Step-by-Step Instructions on Initiating a Cross-Platform Skype Conversation with Ease</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-guide-identifying-and-fixing-iphone-screen-response-failures/"><u>Troubleshooting Guide: Identifying and Fixing iPhone Screen Response Failures</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-tips-for-hidden-event-entries-in-iphones-schedule/"><u>Troubleshooting Tips for Hidden Event Entries in iPhone's Schedule</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlocking-iphones-potential-for-vision-difficulty-a-guide-to-its-top-8-features/"><u>Unlocking iPhone's Potential for Vision Difficulty: A Guide to Its Top 8 Features</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unveiling-the-secrets-where-are-my-saved-facetime-photos-stored/"><u>Unveiling the Secrets: Where Are My Saved FaceTime Photos Stored?</u></a></li>
 </ul></div>
 

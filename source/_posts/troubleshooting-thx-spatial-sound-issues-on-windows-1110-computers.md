@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting THX Spatial Sound Issues on Windows 11/10 Computers
-date: 2025-01-08T21:54:27.735Z
-updated: 2025-01-10T23:23:33.523Z
+date: 2025-01-14T16:07:18.760Z
+updated: 2025-01-16T16:21:26.423Z
 tags:
   - win11
   - win10
@@ -27,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/66f3a5314b7f0b6f994f976b66c33a57ff0466854
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fixes for ‘Windows 10 Start Menu Not Working’
@@ -50,7 +50,7 @@ thumbnail: https://thmb.techidaily.com/66f3a5314b7f0b6f994f976b66c33a57ff0466854
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1: Relog into your account
@@ -61,16 +61,12 @@ thumbnail: https://thmb.techidaily.com/66f3a5314b7f0b6f994f976b66c33a57ff0466854
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b3a03daedd.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 2) Type in your password and log in again.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b3a59dfeba.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3) Check if your Start menu works all right now.
@@ -89,13 +85,13 @@ thumbnail: https://thmb.techidaily.com/66f3a5314b7f0b6f994f976b66c33a57ff0466854
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b8999a1831.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Then type **powershell**  and t  ick the box for**Create this task with administrative privileges** . Click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b8a563ff80.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) In PowerShell window, copy and paste in the following command and press the**Enter** key on your keyboard:
 
@@ -104,6 +100,10 @@ net user newusername newpassword /add
  We are using the username**“easeware”** and password “**drivereasy”** as an example in the screenshot, you can set them as per your own preference.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b8bbeac77b.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5) Restart your computer and log into the new user account.
 
@@ -144,7 +144,7 @@ net user newusername newpassword /add
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b960cea017.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  6.3) Click the **Update** button next to the flagged video and audio card to automatically download and install the correct versions of them (you can do this with the FREE version).
@@ -152,6 +152,10 @@ net user newusername newpassword /add
  Or click **Update All**  to automatically download and install the correct version of **_all_** the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b963732280.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 7) Check if your Start menu is back.
 
@@ -214,7 +218,7 @@ net user newusername newpassword /add
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b8a563ff80.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Type**sfc /scannow** in and press the**Enter** key on your keyboard. Wait for a while for the process to complete.
@@ -227,13 +231,13 @@ DISM /Online /Cleanup-Image /RestoreHealth
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b9c8a8bb33.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6) When these two tests finishes, check if your Start menu is back.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8: Reinstall Cortana
 
@@ -251,10 +255,6 @@ DISM /Online /Cleanup-Image /RestoreHealth
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b8a563ff80.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Copy and paste the following command in and press the **Enter** key on your keyboard.
 
 Get-AppXPackage -Name Microsoft.Windows.Cortana | Foreach {Add-AppxPackage -DisableDevelopmentMo  
@@ -262,15 +262,15 @@ de -Register "$($_.InstallLocation)\AppXManifest.xml"}
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b9cce6260c.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If this command is not working in your case, try the following command instead:
 
 Get-AppXPackage -AllUsers | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register "$($_.InstallLocation)\AppXManifest.xml"}
 
  4) There, your Cortana is reinstalled, and your Start menu should also be back now.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Last but not least: refresh your PC
 
@@ -295,21 +295,17 @@ Get-AppXPackage -AllUsers | Foreach {Add-AppxPackage -DisableDevelopmentMode -Re
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/comprehensive-guide-understanding-the-ins-and-outs-of-clipconvertercc/"><u>Comprehensive Guide: Understanding the Ins and Outs of ClipConverter.cc</u></a></li>
-<li><a href="https://discover-exclusive.techidaily.com/enhance-your-livestreams-using-manycam-the-ultimate-software-and-virtual-cam-system/"><u>Enhance Your Livestreams Using ManyCam - The Ultimate Software and Virtual Cam System</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/expert-tips-for-initiating-a-safe-mode-restart-on-windows-systems/"><u>Expert Tips for Initiating a Safe Mode Restart on Windows Systems</u></a></li>
-<li><a href="https://fox-http.techidaily.com/from-mpeg-4-to-multifarious-formats-a-guide-using-vlc-for-2024/"><u>From MPEG-4 to Multifarious Formats A Guide Using VLC for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/guide-to-the-newest-graphics-driver-updates-for-windows-users/"><u>Guide to the Newest Graphics Driver Updates for Windows Users</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-comprehensive-review-transform-your-images-with-facetune/"><u>In 2024, Comprehensive Review Transform Your Images with Facetune</u></a></li>
-<li><a href="https://fox-that.techidaily.com/iphone-mastery-15-essential-steps-for-problem-free-usage-across-models/"><u>IPhone Mastery: 15 Essential Steps for Problem-Free Usage Across Models</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/pros-choice-the-best-screen-recorders-for-editing/"><u>Pro's Choice The Best Screen Recorders for Editing</u></a></li>
-<li><a href="https://fox-that.techidaily.com/quick-fixes-for-when-your-iphones-sleep-function-wont-work-standby/"><u>Quick Fixes for When Your iPhone's Sleep Function Won't Work (StandBy)</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solutions-unsupported-accessories-compatible-with-iphones/"><u>Solutions: Unsupported Accessories Compatible with iPhones?</u></a></li>
-<li><a href="https://fox-that.techidaily.com/the-simple-way-to-refresh-your-iphones-operating-system/"><u>The Simple Way to Refresh Your iPhone's Operating System</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-image-loads-in-safari-top-9-solutions-for-iphone/"><u>Troubleshooting Image Loads in Safari: Top 9 Solutions for iPhone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-addressing-stop-errors-with-printer-drivers-on-32-bit-os/"><u>Troubleshooting Tips: Addressing Stop Errors with Printer Drivers on 32-Bit OS</u></a></li>
-<li><a href="https://fox-that.techidaily.com/ultimate-guide-resolving-iphones-final-line-unavailable-issue/"><u>Ultimate Guide: Resolving iPhone's 'Final Line Unavailable' Issue</u></a></li>
-<li><a href="https://howto.techidaily.com/why-does-my-realme-11-pro-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Realme 11 Pro Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/why-is-my-iphone-running-slow-identify-the-issues-and-rectify-them/"><u>Why Is My iPhone Running Slow? Identify the Issues & Rectify Them!</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-ultimate-tutorial-for-full-utilization-of-final-cut-pro/"><u>[Updated] Ultimate Tutorial for Full Utilization of Final Cut Pro</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-unleashing-vintage-charm-filters-for-existing-media-on-ig-for-2024/"><u>[Updated] Unleashing Vintage Charm Filters for Existing Media on IG for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/10-quick-fixes-for-when-your-iphone-fails-at-scanning-qr-codes/"><u>10 Quick Fixes for When Your iPhone Fails at Scanning QR Codes</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-cutting-edge-tech-mastering-dslr-macpc-for-social-media-broadcasts/"><u>2024 Approved Cutting Edge Tech Mastering DSLR, Mac/PC for Social Media Broadcasts</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721466080774-apple-device-gift-sending-issues-uncovering-the-top-5-restrictions/"><u>Apple Device Gift-Sending Issues: Uncovering the Top 5 Restrictions.</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721458639907-cant-charge-your-iphone-wirelessly-here-are-7-fixes-that-might-help/"><u>Can't Charge Your iPhone Wirelessly? Here Are 7 Fixes That Might Help</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-leading-free-defrag-programs-for-optimal-pc-performance-in-july-2024/"><u>Discover the Leading Free Defrag Programs for Optimal PC Performance in July 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/elite-4k-reflections-the-best-mirrorless-picks-for-2024/"><u>Elite 4K Reflections The Best Mirrorless Picks for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-asus-rog-phone-7-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Asus ROG Phone 7 Phone | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-the-ultimate-guide-to-samsung-galaxy-m14-4g-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Samsung Galaxy M14 4G Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721451728240-iphone-not-connecting-to-the-cellular-network-discover-10-reliable-fixes/"><u>IPhone Not Connecting to the Cellular Network? Discover 10 Reliable Fixes!</u></a></li>
+<li><a href="https://fox-access.techidaily.com/superior-guide-to-16-freeware-players-for-pc-and-mac-for-2024/"><u>Superior Guide to 16 Freeware Players for PC & Mac for 2024</u></a></li>
 </ul></div>
 

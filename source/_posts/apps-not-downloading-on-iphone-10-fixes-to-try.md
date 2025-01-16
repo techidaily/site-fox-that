@@ -1,7 +1,7 @@
 ---
 title: Apps Not Downloading on iPhone? 10 Fixes to Try
-date: 2024-12-27T19:06:05.370Z
-updated: 2025-01-03T19:03:50.267Z
+date: 2025-01-10T17:02:35.234Z
+updated: 2025-01-16T16:51:57.818Z
 tags:
   - iphone
   - apple
@@ -21,12 +21,16 @@ thumbnail: https://thmb.techidaily.com/272ead7cf67b3a822b77b0890cd7f03854b0d3a76
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Won't My iPhone Apps Download?
 
  There are several reasons your iPhone might not let you download any apps, from problems with your internet connection to a lack of storage on your device. Whatever the reason, you can use the troubleshooting steps below to fix it. We've listed them starting with the most common issues, that are the quickest to fix, so just work your way down the list to start downloading apps on your iPhone again.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Test Your Internet Connection
@@ -47,26 +51,18 @@ thumbnail: https://thmb.techidaily.com/272ead7cf67b3a822b77b0890cd7f03854b0d3a76
 
 ![iPhone Storage settings showing 30 GB of free space](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2019/12/iPhone-Storage-settings-showing-30-GB-of-free-space.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Internal iPhone storage is not expandable. You can't download new apps on your iPhone if you've already filled up your device with photos, videos, music, and other content.
 
 When this happens, an alert should pop up saying "Not Enough Storage."
 
  Go to**Settings > General > iPhone Storage** to see how much free space you have and take a look at which apps are using the most. There are plenty of ways to [create more free space on your iPhone](https://www.makeuseof.com/tag/iphone-storage-full-create-free-space-ios/) if you need to, such as offloading apps, uploading photos to the cloud, or deleting junk that you no longer need. You can do all of this from the iPhone storage settings.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Update Your Apple ID Details
 
 ![Apple ID Payment Information page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2019/12/Apple-ID-Payment-Information-page.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Even if you only download free apps from the App Store, you still need to have valid payment information and contact details linked to your Apple ID account. It's possible that the payment details on your account expired, so you should check if you need to update them.
@@ -81,10 +77,6 @@ Update your Apple ID details from the iPhone Settings app:
 
 ![Date & Time Settings with Set Automatically option in settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2019/12/Date-Time-Settings-with-Set-Automatically-option-in-settings.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  As strange as it sounds, having the wrong date or time set might be the reason your iPhone won' let yout download or install apps from the App Store. This inconsistency causes communication problems between your device and Apple's servers.
 
 To correct the date and time on your iPhone:
@@ -97,10 +89,6 @@ To correct the date and time on your iPhone:
 ## 5\. Turn Off Content and Privacy Restrictions
 
 ![Content & Privacy Restrictions for Installing Apps on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2019/12/Content-Privacy-Restrictions-for-Installing-Apps-on-iPhone.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The content and privacy restrictions on an iPhone let you limit settings, apps, or features to keep the device safe for children. However, those same limitations explain why you can't download new apps on your iPhone.
 
@@ -128,6 +116,10 @@ To edit your restrictions:
 
 ![Apple Sign In window for iPhone App Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2019/12/Apple-Sign-In-window-for-iPhone-App-Store.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Like pausing and resuming downloads, you can fix a lot of software bugs by signing in to the App Store again. This often reveals issues with your Apple ID account, like an incorrect password or username.
 
  When you sign out of the App Store, it cancels any app downloads in progress. After signing in again, you need to download the app from the App Store again.
@@ -143,6 +135,10 @@ To sign out of the App Store:
 
 ![App Switcher view on iPhone with App Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2019/12/App-Switcher-view-on-iPhone-with-App-Store.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After downloading an app to your iPhone, it might appear as a white icon with gray lines running through it. This happens when an app doesn't download or install correctly. You can usually fix it by restarting your device. This step can also be useful if your iPhone won't download any apps from the App Store, since you'll also restart the App Store itself.
 
  First, swipe up from the bottom of the screen (or double-click the Home button if your iPhone has one) to view the App Switcher. Then slide each app off the top of the screen to close it.
@@ -151,12 +147,16 @@ To sign out of the App Store:
 
  Wait 30 seconds after it powers off before pressing the**Side** or**Sleep/Wake** button again to restart it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 9\. Delete the App, Then Download It Again
 
 ![Delete Minecraft iPhone popup alert](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2019/12/Delete-Minecraft-iPhone-popup-alert.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Sometimes a download becomes so corrupted that the only way to fix it is deleting the half-downlaoded app and downloading it again from scratch. If you never used the app before, there's nothing to lose from doing this.
@@ -168,7 +168,7 @@ To sign out of the App Store:
  After deleting an app, restart your iPhone and download it again from the App Store.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 10\. Make Sure the App Works With Your iPhone
@@ -204,21 +204,22 @@ To sign out of the App Store:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-the-science-behind-time-warp-visuals/"><u>[New] 2024 Approved The Science Behind Time Warp Visuals</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-optimizing-your-music-library-transitioning-from-spotify-to-youtube-music/"><u>[Updated] 2024 Approved Optimizing Your Music Library Transitioning From Spotify To YouTube Music</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-soaring-sights-dissecting-the-gopro-karma-drones-features/"><u>2024 Approved Soaring Sights Dissecting the GoPro Karma Drone's Features</u></a></li>
-<li><a href="https://fox-that.techidaily.com/apples-method-for-testing-your-iphones-hardware-remotely-how-to/"><u>Apple’s Method for Testing Your iPhone's Hardware Remotely - How To</u></a></li>
-<li><a href="https://win-able.techidaily.com/converting-mov-files-to-mp4-format-easy-guide-for-both-online-and-offline-methods/"><u>Converting MOV Files to MP4 Format - Easy Guide for Both Online and Offline Methods</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/holistic-photo-tale-architect-platform-for-2024/"><u>Holistic Photo Tale Architect Platform for 2024</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-on-iphone-13-mini-with-or-without-password-drfone-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID on iPhone 13 mini With or Without Password | Dr.fone</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-perfectly-pairing-photos-step-by-step-guide/"><u>In 2024, Perfectly Pairing Photos - Step-by-Step Guide</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-ultimate-strategies-for-webinar-capture-with-minimal-effort-windows-mac/"><u>In 2024, Ultimate Strategies for Webinar Capture with Minimal Effort (Windows, Mac)</u></a></li>
-<li><a href="https://fox-that.techidaily.com/iphone-home-button-issues-here-are-5-easy-fixes-to-restore-functionality/"><u>Iphone Home Button Issues? Here Are 5 Easy Fixes to Restore Functionality</u></a></li>
-<li><a href="https://fox-that.techidaily.com/mastering-passcode-reset-on-iphone-ipad-and-mac-computers-a-complete-walkthrough/"><u>Mastering Passcode Reset on iPhone, iPad, and Mac Computers – A Complete Walkthrough</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721479462350-safari-not-responding-on-iphone-here-are-10-fixes-to-try-now/"><u>Safari Not Responding on iPhone? Here Are 10 Fixes to Try Now</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-iphone-icloud-backup-issues-top-9-solutions/"><u>Troubleshooting iPhone iCloud Backup Issues: Top 9 Solutions</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-tips-resolving-issues-with-non-responsive-apple-airplay/"><u>Troubleshooting Tips: Resolving Issues with Non-Responsive Apple AirPlay</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-totally-quiet-iphones-how-to-get-sound-back-in-no-time/"><u>Troubleshooting Totally Quiet iPhones: How to Get Sound Back in No Time</u></a></li>
-<li><a href="https://win-dash.techidaily.com/update-now-fresh-install-of-nvidia-drivers-available-for-download/"><u>Update Now: Fresh Install of NVIDIA Drivers Available for Download</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-ranking-the-greats-top-15-stop-motion-masterpieces/"><u>[New] Ranking the Greats - Top 15 Stop Motion Masterpieces</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-android-developers-choice-premier-tools-for-extracting-fb-videos/"><u>[Updated] Android Developer's Choice Premier Tools for Extracting FB Videos</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-reassessing-manycam-search-for-a-top-contender/"><u>[Updated] Reassessing ManyCam Search for a Top Contender</u></a></li>
+<li><a href="https://fox-that.techidaily.com/accelerate-your-mobile-data-speeds-with-these-10-proven-strategies/"><u>Accelerate Your Mobile Data Speeds with These 10 Proven Strategies</u></a></li>
+<li><a href="https://fox-that.techidaily.com/dealing-with-lone-malfunctioning-airpods-a-step-by-step-guide/"><u>Dealing with Lone Malfunctioning AirPods: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fix-your-iphones-qr-code-reader-top-10-effective-tricks/"><u>Fix Your iPhone's QR Code Reader: Top 10 Effective Tricks</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/how-to-add-custom-youtube-shorts-thumbnails-with-ease/"><u>How to Add Custom YouTube Shorts Thumbnails with Ease?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-forgotten-the-voicemail-password-of-infinix-smart-7-hd-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Infinix Smart 7 HD? Try These Fixes</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-realme-narzo-n53-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Realme Narzo N53 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-xiaomi-13t-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Xiaomi 13T Pro | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-mastering-tiktok-livestreams-on-your-home-office-desktop/"><u>In 2024, Mastering TikTok Livestreams on Your Home Office Desktop</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphones-wi-fi-charge-woes-discover-7-effective-fixes/"><u>IPhone's Wi-Fi Charge Woes? Discover 7 Effective Fixes</u></a></li>
+<li><a href="https://article-posts.techidaily.com/preventing-virtual-reality-queasiness-for-2024/"><u>Preventing Virtual Reality Queasiness for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/protect-your-iphone-from-liquid-damage-remedies-for-liquid-detected-in-connector/"><u>Protect Your iPhone From Liquid Damage – Remedies for 'Liquid Detected in Connector'</u></a></li>
+<li><a href="https://fox-that.techidaily.com/reviving-frozen-ios-update-installations-a-step-by-nstep-approach/"><u>Reviving Frozen iOS Update Installations - A Step-by-nStep Approach</u></a></li>
+<li><a href="https://fox-that.techidaily.com/stuck-with-iphone-app-downloads-unlock-the-problem-using-our-top-n-solutions/"><u>Stuck with iPhone App Downloads? Unlock the Problem Using Our Top N Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/whatsapp-image-quality-woes-heres-how-to-fix-camera-zooming-problems/"><u>WhatsApp Image Quality Woes? Here's How to Fix Camera Zooming Problems</u></a></li>
 </ul></div>
 

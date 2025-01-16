@@ -1,7 +1,7 @@
 ---
 title: "How to Fix: When Your iPhone Shows Phone Numbers Not Names in Messages"
-date: 2024-12-28T02:38:54.114Z
-updated: 2025-01-04T06:29:25.884Z
+date: 2025-01-12T16:35:57.997Z
+updated: 2025-01-16T16:52:13.342Z
 tags:
   - iphone
   - apple
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/a7b063e2c5f1e938dc6e32e2ce85c52239dfc8e77
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Does Your Contact Name Disappear?
 
  When you initially see the Messages app showing a phone number instead of a contact name, you may think someone random has messaged you.
@@ -35,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/a7b063e2c5f1e938dc6e32e2ce85c52239dfc8e77
 
  However, this is usually a temporary issue and should fix itself. If this isn't the case, you can try a few quick fixes to get things back to normal quickly.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Restart Your iPhone
 
  A quick fix to getting your contact names back instead of phone numbers is to [restart your iPhone](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) . As with many other issues, a quick reboot usually does the trick, and you should be able to see your contact names instead of phone numbers in Messages.
@@ -42,7 +50,7 @@ thumbnail: https://thmb.techidaily.com/a7b063e2c5f1e938dc6e32e2ce85c52239dfc8e77
  In the case that this doesn't work and you are still facing the same issue, follow the fixes below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Add or Remove the Country Code
@@ -58,10 +66,6 @@ thumbnail: https://thmb.techidaily.com/a7b063e2c5f1e938dc6e32e2ce85c52239dfc8e77
 
 ![Contact Edit menu in iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/contact-edit-menu-in-ios.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Add Country Code to Number](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Fix-Messages-Not-Showing-Contact-Number.jpg)
 
 Close
@@ -71,6 +75,10 @@ Close
  Alternatively, if you choose to add a new contact from the phone number, you can add it to an existing contact. But then you'll have two numbers saved for that person.
 
  Once you fix a phone number, you'll see Messages will automatically merge the conversations split across different chats.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Toggle iCloud Contacts
 
@@ -89,20 +97,12 @@ To do this, follow these steps on your iPhone:
 ![Settings on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Fix-Messages-Not-Showing-iCloud.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Password and Security in iPhone iCloud Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/2FA-iPhone-Password-and-Security.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Contacts in iCloud Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Fix-Messages-Not-Showing-iCloud-Contacts.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Close
 
@@ -125,16 +125,17 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-secrets-to-mastering-photosvideos-in-windows-11/"><u>[New] 2024 Approved Secrets to Mastering Photos/Videos in Windows 11</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-best-gopro-hero5-black-batteries-and-chargers-official-and-3rd-party/"><u>[Updated] 2024 Approved Best GoPro Hero5 Black Batteries & Chargers Official and 3Rd Party</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-find-rich-ambiance-for-video-content/"><u>[Updated] Find Rich Ambiance for Video Content</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-the-essential-guide-to-live-broadcasts-optimizing-with-obs-for-youtube-and-twitch-for-2024/"><u>[Updated] The Essential Guide to Live Broadcasts Optimizing with OBS for YouTube & Twitch for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-into-the-heart-of-windows-10-flawless-media-import-techniques/"><u>2024 Approved Into the Heart of Windows 10 Flawless Media Import Techniques</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ng-likes-and-loads-jake-pauls-youtube-ambition/"><u>Chasing Likes and Loads Jake Paul's YouTube Ambition</u></a></li>
-<li><a href="https://fox-that.techidaily.com/identifying-a-blocked-number-in-imessages-a-step-by-step-guide/"><u>Identifying a Blocked Number in iMessages: A Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-that.techidaily.com/there-are-different-types-of-noise-associated-with-jfets-such-as-thermal-noise-johnson-nyquist-noise-flicker-noise-also-known-as-1f-noise-and-shot-noise/"><u>There Are Different Types of Noise Associated with JFETs, Such as Thermal Noise (Johnson-Nyquist Noise), Flicker Noise (Also Known as 1/F Noise), and Shot Noise</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-iphone-photography-issues-fixes-and-strategies/"><u>Troubleshooting iPhone Photography Issues: Fixes and Strategies</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-iphone-why-youre-missing-android-messages-and-solutions/"><u>Troubleshooting iPhone: Why You're Missing Android Messages and Solutions</u></a></li>
-<li><a href="https://fox-that.techidaily.com/ultimate-guide-overcoming-problems-with-stalled-ios-updates-still-saying-retry/"><u>Ultimate Guide: Overcoming Problems with Stalled iOS Updates (Still Saying 'Retry')</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-a-beginners-guide-to-embedding-youtube-playlists-in-code-for-2024/"><u>[Updated] A Beginner's Guide to Embedding YouTube Playlists in Code for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-capture-the-internets-attention-craft-with-kapwing/"><u>[Updated] In 2024, Capture the Internet’s Attention – Craft with Kapwing</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-the-essentials-of-clear-coherent-ps3-game-recordings-for-2024/"><u>[Updated] The Essentials of Clear, Coherent PS3 Game Recordings for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-turn-photos-inside-out-with-ease-using-photoshop/"><u>2024 Approved Turn Photos Inside Out with Ease Using Photoshop</u></a></li>
+<li><a href="https://win-popular.techidaily.com/creative-tims-argondjango-a-fully-integrated-bootstrap-4-admin-panel-for-django-projects/"><u>Creative Tim's ArgonDjango: A Fully Integrated Bootstrap 4 Admin Panel for Django Projects</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/effective-strategies-for-capturing-online-gatherings-mac-pc-for-2024/"><u>Effective Strategies for Capturing Online Gatherings (Mac, PC) for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/explore-apples-curated-list-of-must-have-applications-and-gaming-experiences-as-recommended-by-zdnet/"><u>Explore Apple’s Curated List of Must-Have Applications and Gaming Experiences , as Recommended by ZDNET</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-imessage-glitches-top-7-simple-steps-for-all-apple-devices/"><u>Fixing iMessage Glitches: Top 7 Simple Steps for All Apple Devices</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-resolve-prolonged-display-turnoff-issues-on-your-iphone-swiftly-and-easily/"><u>How to Resolve Prolonged Display Turnoff Issues on Your iPhone Swiftly and Easily</u></a></li>
+<li><a href="https://fox-that.techidaily.com/mastering-the-art-of-full-page-screen-captures-on-safari-tips-and-tricks-uncovered/"><u>Mastering the Art of Full-Page Screen Captures on Safari: Tips and Tricks Uncovered</u></a></li>
+<li><a href="https://fox-that.techidaily.com/thawing-techniques-reviving-an-apple-iphone-that-wont-respond/"><u>Thawing Techniques: Reviving an Apple iPhone That Won't Respond</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-art-of-minimizing-disruptions-in-windows-updates/"><u>The Art of Minimizing Disruptions in Windows Updates</u></a></li>
 </ul></div>
 

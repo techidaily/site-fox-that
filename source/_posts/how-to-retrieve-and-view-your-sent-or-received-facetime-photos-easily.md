@@ -1,7 +1,7 @@
 ---
 title: How to Retrieve and View Your Sent or Received FaceTime Photos Easily
-date: 2025-01-02T03:15:16.155Z
-updated: 2025-01-03T22:10:01.116Z
+date: 2025-01-09T17:27:29.641Z
+updated: 2025-01-16T16:38:33.835Z
 tags:
   - iphone
   - apple
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/7640686b3055c0a77032f97db3d754d6950a2fb76
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Where Do FaceTime Live Photos Go?
 
@@ -40,7 +44,7 @@ thumbnail: https://thmb.techidaily.com/7640686b3055c0a77032f97db3d754d6950a2fb76
 ![Creating a smart album in Photos on Mac](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/create-smart-albums-photos-mac.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You'll need to type "FaceTime" into the third box manually since it isn't an option in the dropdown menu.
@@ -55,14 +59,10 @@ thumbnail: https://thmb.techidaily.com/7640686b3055c0a77032f97db3d754d6950a2fb76
 
 ![Making a FaceTime video call on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/facetime-call-in-progress-ios.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Capturing a FaceTime Live Photo](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/taking-a-facetime-live-photo.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Close
@@ -80,7 +80,7 @@ Close
  Alternatively, hit**Cmd + Shift + 3** to take a screenshot of your entire screen. Aside from these two options, there are other [ways to take screenshots on your Mac](https://www.makeuseof.com/tag/how-to-take-a-screenshot-on-a-mac/) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Enable Live Photos in Your FaceTime Settings
@@ -92,7 +92,7 @@ Close
 ![iOS Settings menu FaceTime selected](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ios-settings-menu-facetime-selected.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![FaceTime Live Photos toggle enabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/facetime-live-photos-toggle-enabled.jpg)
@@ -105,12 +105,16 @@ Close
 
  There are lots of problems that might stop you from being able to snap a Live Photo during your FaceTime calls. If you can't find the shutter button, FaceTime isn't saving your photos, or you have trouble finding FaceTime photos after you take them, try these troubleshooting tips to fix it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Enable FaceTime Live Photos on Both Devices
 
  To take a photo of someone during a FaceTime call, everyone on the call needs to turn on FaceTime Live Photos from their device settings. Go to**Settings > FaceTime** to do this. Make sure the person you're taking a photo of checks their settings as well.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Open the Photos App on Your Device
@@ -127,15 +131,15 @@ Close
 
 ![Software update available in macOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/software-update-macos-settings.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Install any updates that are available there by clicking**Update Now** .
 
 ### 4\. Restart Your Device
 
  No matter what [FaceTime problem you're encountering](https://www.makeuseof.com/tag/facetime-not-working/) , you should always try to fix it by restarting your device. This is a remarkably effective troubleshooting step that only takes a moment to try out. Power off your iPhone, iPad, or Mac as you usually would, then wait 30 seconds before restarting it again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 5\. Restart FaceTime on Your Device
 
@@ -146,10 +150,6 @@ Close
 ![iOS Settings menu FaceTime selected](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ios-settings-menu-facetime-selected.jpg)
 
 ![FaceTime enabled in iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/facetime-enabled-ios-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Close
 
@@ -176,22 +176,24 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-capture-conserve-continue-a-guide-to-saving-snapchat-content/"><u>[New] 2024 Approved Capture, Conserve, Continue A Guide to Saving Snapchat Content</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-combat-black-screen-disruptions-in-gaming-feeds/"><u>[New] In 2024, Combat Black Screen Disruptions in Gaming Feeds</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-navigating-iphones-with-ease-download-podcasts-made-simple/"><u>[New] In 2024, Navigating iPhones with Ease - Download Podcasts Made Simple</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-leveraging-video-production-microsofts-movie-maker-for-windows-11/"><u>[Updated] In 2024, Leveraging Video Production Microsoft's Movie Maker for Windows 11</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-transformative-tutorials-into-thriving-treasuries/"><u>2024 Approved Transformative Tutorials Into Thriving Treasuries</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fixing-the-orange-glow-9-tips-to-address-iphone-screen-issues/"><u>Fixing the Orange Glow: 9 Tips to Address iPhone Screen Issues</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-reactivate-disappeared-siri-suggestions-on-your-ios-device/"><u>How to Reactivate Disappeared Siri Suggestions on Your iOS Device</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-triumph-over-slow-mobile-data-unlock-expert-secrets-and-turbocharge-your-speed-in-only-n-steps/"><u>How to Triumph Over Slow Mobile Data: Unlock Expert Secrets and Turbocharge Your Speed in Only N Steps</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-lava-yuva-3-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Lava Yuva 3 Pro? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-honor-80-pro-straight-screen-edition-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Honor 80 Pro Straight Screen Edition Device</u></a></li>
-<li><a href="https://fox-that.techidaily.com/revive-your-aol-mail-top-6-strategies-for-iphone-users-facing-connectivity-issues/"><u>Revive Your AOL Mail: Top ˈ6 Strategies for iPhone Users Facing Connectivity Issues</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/transformer-facilement-vos-images-jpeg-en-png-sur-internet-gratuite-mouvavi/"><u>Transformer Facilement Vos Images JPEG en PNG Sur Internet Gratuite - Mouvavi</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-instagram-performance-issues-top-6-fixes-for-android-and-ios/"><u>Troubleshooting Instagram Performance Issues: Top 6 Fixes for Android & iOS</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-siri-solving-common-issues-on-iphone-and-ipad/"><u>Troubleshooting Siri: Solving Common Issues on iPhone and iPad</u></a></li>
-<li><a href="https://fox-that.techidaily.com/understanding-iphone-14-a-deep-dive-into-its-battery-lifespan-and-performance-concerns/"><u>Understanding iPhone 14: A Deep Dive Into Its Battery Lifespan and Performance Concerns</u></a></li>
-<li><a href="https://fox-that.techidaily.com/unifying-recurring-subject-images-into-one-album-for-easy-access-on-iphone-or-mac/"><u>Unifying Recurring Subject Images Into One Album for Easy Access on iPhone or Mac</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/unite-music-and-imagery-via-auditory-integration-in-premiere-pro/"><u>Unite Music and Imagery via Auditory Integration in Premiere Pro</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-engage-enlighten-and-enthrall-with-immersive-facebook-sharing/"><u>[New] Engage, Enlighten and Enthrall with Immersive Facebook Sharing</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-jokefactory-enjoy-and-create-online/"><u>[New] JokeFactory Enjoy & Create Online</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-silent-recorders-revealed-6-undiscovered-android-and-ios-apps/"><u>[Updated] 2024 Approved Silent Recorders Revealed 6 Undiscovered Android & iOS Apps</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-top-5-free-screen-recorder-extensions-for-chromebooks/"><u>2024 Approved TOP 5 Free Screen Recorder Extensions for Chromebooks</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/a-beginners-guide-to-music-in-online-video-footage-fb/"><u>A Beginner's Guide to Music in Online Video Footage (FB)</u></a></li>
+<li><a href="https://fox-that.techidaily.com/boosting-safari-speeds-top-4-fixes-for-a-faster-iphone-browser/"><u>Boosting Safari Speeds: Top 4 Fixes for a Faster iPhone Browser</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/design-dynamics-the-role-of-color-integration-for-2024/"><u>Design Dynamics The Role of Color Integration for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721478556575-experiencing-issues-with-ipadiphone-keyboards-resolve-them-using-our-top-nfixes/"><u>Experiencing Issues With iPad/iPhone Keyboards? Resolve Them Using Our Top Nfixes.</u></a></li>
+<li><a href="https://fox-that.techidaily.com/guide-to-finding-your-absent-iphone-through-apples-find-my-app-feature/"><u>Guide to Finding Your Absent iPhone Through Apple's Find My App Feature</u></a></li>
+<li><a href="https://fox-that.techidaily.com/guide-to-restoring-functionality-on-an-iphone-with-a-broken-display/"><u>Guide to Restoring Functionality on an Iphone With a Broken Display</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-honor-90-lite-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Honor 90 Lite | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-fix-an-unresponsive-or-disabled-face-id-on-your-iphone-in-14-steps/"><u>How to Fix an Unresponsive or Disabled Face ID on Your iPhone in 14 Steps</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/samsung-galaxy-a14-4g-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy A14 4G Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/smartwatch-leaders-for-2er-2024-in-depth-reviews-and-rankings-zdnet/"><u>Smartwatch Leaders for 2Er 2024: In-Depth Reviews and Rankings | ZDNet</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721480386941-solve-airdrop-issues-quickly-discover-the-top-16-remedies/"><u>Solve AirDrop Issues Quickly: Discover the Top 16 Remedies</u></a></li>
+<li><a href="https://fox-that.techidaily.com/step-by-step-process-forcing-reboot-of-iphone-into-recovery-mode-explained/"><u>Step-by-Step Process: Forcing Reboot of iPhone Into Recovery Mode Explained</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-5-underrated-gpt-3-functions-unleashing-your-ai-potential/"><u>Top 5 Underrated GPT-3 Functions: Unleashing Your AI Potential</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-7-solutions-when-your-iphone-wont-deliver-messages/"><u>Top 7 Solutions When Your iPhone Won't Deliver Messages</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-instagram-delays-effective-solutions-for-iphone-and-android-users/"><u>Troubleshooting Instagram Delays: Effective Solutions for iPhone & Android Users</u></a></li>
 </ul></div>
 

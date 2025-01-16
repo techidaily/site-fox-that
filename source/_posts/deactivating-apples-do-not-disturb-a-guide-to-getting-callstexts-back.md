@@ -1,7 +1,7 @@
 ---
 title: "Deactivating Apple's Do Not Disturb: A Guide to Getting Calls/Texts Back"
-date: 2025-01-07T01:48:25.987Z
-updated: 2025-01-11T00:31:30.708Z
+date: 2025-01-10T16:58:59.410Z
+updated: 2025-01-16T16:03:40.001Z
 tags:
   - iphone
   - apple
@@ -27,10 +27,6 @@ thumbnail: https://thmb.techidaily.com/5397c89a05d7c549e3c941ac0bcf9ef244a3e9feb
 
 ![do not disturb and personal mode in iphone control center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/1-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Although Apple started with Do Not Disturb, the feature has since been expanded to Focus mode. Focus includes Do Not Disturb, Personal, Work, and so on. You can [set up different Focus modes](https://www.makeuseof.com/focus-mode-ideas-to-set-up-in-ios/) and customize them for different purposes.
 
  If you accidentally enabled**Work** mode instead of**Do Not Disturb** or**Personal** mode on your iPhone, you will certainly receive texts and calls from work colleagues because the latter wasn't made to deter people from your workplace.
@@ -48,14 +44,10 @@ thumbnail: https://thmb.techidaily.com/5397c89a05d7c549e3c941ac0bcf9ef244a3e9feb
 ![focus modes on iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/focus-modes.JPEG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![do not disturb settings on iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/do-not-disturb-settings.JPEG)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![allowed apps on do not disturb mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/dnd-allowed-apps.JPEG)
 
@@ -68,6 +60,10 @@ Close
  If you don't want to receive such notifications, go to your**Do Not Disturb** settings in the**Settings** app. Tap**Apps** and toggle off**Time-Sensitive Notifications** .
 
 ![disable time sensitive notifications for iphone do not disturb mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/3-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Alternatively, you can tap**Turn Off** for a specific app if you see its notifications pop up on your Lock Screen.
 
@@ -85,6 +81,10 @@ Close
 
 Close
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Don't Allow Repeated Calls
 
  If someone calls you more than once in a three-minute timespan, Do Not Disturb lets their call come through, regardless of the incoming call preferences you indicated earlier. This feature ensures that people can reach you in cases of emergencies, and it's not because Do Not Disturb is not working.
@@ -94,7 +94,11 @@ Close
 ![turn off allow repeated calls for iphone do not disturb mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/2-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Turn Off or Hide Your Focus Status
@@ -118,13 +122,13 @@ Close
 ![automate schedule for iphone do not disturb mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/dnd-schedule-2.JPEG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![set time for iphone do not disturb mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/dnd-change-schedule.JPEG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Close
@@ -134,10 +138,6 @@ Close
  If you went through all the steps above and your iPhone's Do Not Disturb mode is still not working, try [restarting your iPhone](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) to see if it resolves the issue. Software glitches can sometimes prevent features like Do Not Disturb from functioning as intended, which you can fix with a simple reboot.
 
  And if you haven't,[update your iPhone to the latest iOS version](https://www.makeuseof.com/tag/update-iphone-ios-apps-data/) as well. Apple's software updates often come with bug fixes and patches for performance-related issues.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## No More Disruptions on Do Not Disturb Mode
 
@@ -162,20 +162,20 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-immediate-screen-capture-on-mac-revealing-the-best-5-approaches/"><u>[New] Immediate Screen Capture on Mac Revealing the Best 5 Approaches</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-earning-in-the-e-commerce-arena-via-engaging-reviews/"><u>[Updated] 2024 Approved Earning in the E-Commerce Arena via Engaging Reviews</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-how-to-optimize-solo-streaming-with-flawless-execution/"><u>[Updated] How to Optimize Solo Streaming with Flawless Execution</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-from-space-to-nature-yts-guide-for-dynamic-green-screen-filmmaking/"><u>2024 Approved From Space to Nature YT's Guide for Dynamic Green Screen Filmmaking</u></a></li>
-<li><a href="https://fox-that.techidaily.com/6-ways-to-fix-autocorrect-fails-and-teach-your-iphone-to-spell-properly/"><u>6 Ways to Fix Autocorrect Fails and Teach Your iPhone to Spell Properly</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/crafting-captivating-content-the-instagram-reel-way/"><u>Crafting Captivating Content The Instagram Reel Way</u></a></li>
-<li><a href="https://win11.techidaily.com/efficiently-change-heic-to-jpeg-using-windows-tools/"><u>Efficiently Change HEIC to JPEG Using Windows Tools</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-fix-error-code-0x80004005/"><u>How to Fix Error Code 0X80004005</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-solve-iphone-screen-stuck-on-portrait-mode-enable-landscape-rotation/"><u>How To Solve iPhone Screen Stuck on Portrait Mode, Enable Landscape Rotation!</u></a></li>
-<li><a href="https://fox-that.techidaily.com/overcome-iphone-microphone-malfunctions-tips-and-tricks-for-improved-audio-recording/"><u>Overcome iPhone Microphone Malfunctions: Tips and Tricks for Improved Audio Recording</u></a></li>
-<li><a href="https://fox-that.techidaily.com/overcoming-imessage-not-delivered-errors-on-iphone-effective-methods/"><u>Overcoming iMessage Not Delivered Errors on iPhone: Effective Methods</u></a></li>
-<li><a href="https://fox-that.techidaily.com/top-9-solutions-for-correcting-the-yellow-discoloration-on-your-iphone-display/"><u>Top 9 Solutions for Correcting the Yellow Discoloration on Your iPhone Display</u></a></li>
-<li><a href="https://fox-that.techidaily.com/turn-off-unwanted-chimes-halting-ipad-rings-when-receiving-calls-on-your-iphone/"><u>Turn Off Unwanted Chimes: Halting iPad Rings When Receiving Calls on Your iPhone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/why-your-iphoneipad-gets-overheated-causes-solutions-and-prevention/"><u>Why Your iPhone/iPad Gets Overheated: Causes, Solutions & Prevention</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/windows-absolutebly-eliminating-temporary-files-a-comprehensive-tutorial-for-win11-users/"><u>Windows Absolutebly Eliminating Temporary Files: A Comprehensive Tutorial for Win11 Users</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-dynamic-shots-infusing-energy-into-your-youtube-videos/"><u>[Updated] In 2024, Dynamic Shots Infusing Energy Into Your YouTube Videos</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-tiktoks-legal-boundaries-understanding-pre-upload-rights-for-2024/"><u>[Updated] TikTok's Legal Boundaries Understanding Pre-Upload Rights for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-exclusive-list-of-top-iphone-vr-game-hits/"><u>2024 Approved Exclusive List of Top iPhone VR Game Hits</u></a></li>
+<li><a href="https://fox-that.techidaily.com/5-key-reasons-why-sending-tokens-of-affection-through-apple-products-may-not-work/"><u>5 Key Reasons Why Sending Tokens of Affection Through Apple Products May Not Work</u></a></li>
+<li><a href="https://fox-that.techidaily.com/easy-fixes-for-zoom-in-glitch-in-your-whatsapp-photos/"><u>Easy Fixes for Zoom-In Glitch in Your WhatsApp Photos</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/factory-reset-on-iphone-11-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>Factory Reset on iPhone 11 | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-vivo-y56-5g-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Vivo Y56 5G Phone Hassle-Free</u></a></li>
+<li><a href="https://fox-that.techidaily.com/perfect-picture-perfection-a-guide-to-resolving-blurriness-on-iphones/"><u>Perfect Picture Perfection: A Guide to Resolving Blurriness on iPhones</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/premium-vr-headset-picks-for-uavs-for-2024/"><u>Premium VR Headset Picks for UAVs for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-iphone-computer-connection-issues-expert-tips-and-solutions/"><u>Solving iPhone-Computer Connection Issues: Expert Tips & Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-8-tricks-to-boost-your-iphones-wireless-network-speed-and-stability/"><u>Top 8 Tricks to Boost Your iPhone's Wireless Network Speed and Stability</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-how-to-get-your-iphone-connected-to-your-pc-easily/"><u>Troubleshoot: How to Get Your iPhone Connected to Your PC Easily</u></a></li>
+<li><a href="https://extra-information.techidaily.com/ultimate-collection-top-free-ae-template-packs/"><u>Ultimate Collection Top Free AE Template Packs</u></a></li>
+<li><a href="https://fox-that.techidaily.com/understanding-iphone-visual-identification-issues-and-how-to-fix-them/"><u>Understanding iPhone Visual Identification Issues and How to Fix Them</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/bes-best-10-cutting-edge-reaction-ideas/"><u>YouTube's Best 10 Cutting-Edge Reaction Ideas</u></a></li>
 </ul></div>
 

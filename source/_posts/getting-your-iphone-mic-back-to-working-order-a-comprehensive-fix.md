@@ -1,7 +1,7 @@
 ---
 title: Getting Your iPhone Mic Back to Working Order - A Comprehensive Fix
-date: 2024-12-30T00:39:47.252Z
-updated: 2025-01-04T00:21:52.508Z
+date: 2025-01-12T16:20:18.960Z
+updated: 2025-01-16T17:08:46.857Z
 tags:
   - iphone
   - apple
@@ -21,22 +21,22 @@ thumbnail: https://thmb.techidaily.com/bc4c1fafbeb0a4b8e3066f1ca761f451b6c08fbe8
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Find Out Which Microphone Isn't Working
 
  Before you begin fixing your iPhone's microphone, you'll need to know which microphone isn't working. If you have an iPhone 5 or later, you'll have three microphones: one on the bottom of your phone for phone calls, one on the front of your phone for speakerphone, and one on the back for the camera.
 
  Test each microphone by recording using Voice Memos (bottom microphone), making a phone call on speakers (front microphone), and recording a video (back microphone). If all the microphones aren't working, it's most likely a hardware issue. If only one microphone isn't working or sounds muffled, continue to the next step.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. iPhone Microphone Muffled or Muted? Try Cleaning It
 
 ![iphone clean speaker](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/iphone-clean-speaker.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Brent Dirks/[MakeUseOf](https://www.makeuseof.com/author/brentdirks/)
@@ -48,7 +48,7 @@ thumbnail: https://thmb.techidaily.com/bc4c1fafbeb0a4b8e3066f1ca761f451b6c08fbe8
  Isopropyl alcohol breaks up grime and dries fast, so it won't damage your iPhone. Try using the highest percentage of isopropyl alcohol you can find. While you're at it,[clean your entire iPhone thoroughly](https://www.makeuseof.com/tag/clean-iphone-guide/) if it's not in a good shape.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Disconnect From Bluetooth Devices
@@ -60,7 +60,7 @@ Close
  This is a common issue with those who use Bluetooth headphones like AirPods or smart home systems. Check if you're connected to a Bluetooth device by [opening your iPhone's Control Center](https://www.makeuseof.com/how-to-use-customize-control-center-iphone/) , then toggle Bluetooth off. Alternatively, tap and hold it to view all your connected devices.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Make Sure Apps Have Microphone Permissions
@@ -76,7 +76,7 @@ Close
 ![A guy holding AirPods Pro in charging case showing orange light](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/02/a-guy-holding-airpods-pro-in-charging-case-showing-orange-light.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Hamlin Rozario/[MakeUseOf](https://www.makeuseof.com/author/hamlin-rozario/)
@@ -110,18 +110,24 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-excellent-typography-trick-sets/"><u>[New] In 2024, Excellent Typography Trick Sets</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-mold-sharable-imagery-in-adobe-software/"><u>[Updated] Mold Sharable Imagery in Adobe Software</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-youtube-conversion-guide-top-8-picks-for-avi-enthusiasts/"><u>[Updated] YouTube Conversion Guide Top 8 Picks for AVI Enthusiasts</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-plus-and-its-role-in-accelerating-your-language-education-progress/"><u>ChatGPT Plus and Its Role in Accelerating Your Language Education Progress</u></a></li>
-<li><a href="https://fox-that.techidaily.com/experiencing-imbalanced-sound-in-your-airpods-here-are-4-effective-remedies/"><u>Experiencing Imbalanced Sound in Your AirPods? Here Are 4 Effective Remedies</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fix-an-iphones-charge-alert-when-on-call-discover-8-key-strategies/"><u>Fix an iPhone's Charge Alert When On Call: Discover 8 Key Strategies!</u></a></li>
-<li><a href="https://fox-that.techidaily.com/iphone-users-guide-resolving-issues-with-non-functional-aol-email/"><u>IPhone Users Guide: Resolving Issues with Non-Functional AOL Email</u></a></li>
-<li><a href="https://fox-that.techidaily.com/step-by-step-tutorial-mastering-bluetooth-connectivity-with-your-iphone/"><u>Step-by-Step Tutorial: Mastering Bluetooth Connectivity with Your iPhone</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-google-pixel-8-pro-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Google Pixel 8 Pro Reset Code | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/tips-and-tricks-to-counteract-lower-megapixels-in-iphone-cameras/"><u>Tips and Tricks to Counteract Lower Megapixels in iPhone Cameras</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-from-infinix-smart-8-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Infinix Smart 8 FRP Bypass</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/ultimate-microsoft-surface-laptop-4-analysis-top-of-the-line-performance/"><u>Ultimate Microsoft Surface Laptop 4 Analysis: Top-of-the-Line Performance</u></a></li>
-<li><a href="https://fox-that.techidaily.com/why-wont-my-iphone-touchscreen-respond-explore-these-7-reasons/"><u>Why Won't My iPhone Touchscreen Respond? Explore These 7 Reasons</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-explore-8-best-strategies-for-increasing-youtube-traffic/"><u>[New] In 2024, Explore 8 Best Strategies for Increasing Youtube Traffic</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-top-12-solutions-to-decipher-and-display-hidden-video-posts-on-fb/"><u>[New] In 2024, Top 12 Solutions to Decipher and Display Hidden Video Posts on FB</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-pinnacle-writing-in-cinemas-diverse-segments/"><u>[New] Pinnacle Writing in Cinema's Diverse Segments</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-visualize-success-discover-the-top-10-online-tools-for-channel-branding/"><u>[Updated] 2024 Approved Visualize Success - Discover the Top 10 Online Tools for Channel Branding</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-streamlining-post-production-with-luts-in-ae/"><u>[Updated] Streamlining Post-Production with LUTs in AE</u></a></li>
+<li><a href="https://fox-that.techidaily.com/5-troublesome-iphone-glitches-corrected-by-mastering-dfu-restore/"><u>5 Troublesome iPhone Glitches Corrected by Mastering DFU Restore</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/discover-the-list-of-upcoming-motorola-devices-compatible-with-android-15/"><u>Discover the List of Upcoming Motorola Devices Compatible with Android 15</u></a></li>
+<li><a href="https://article-files.techidaily.com/flipping-video-content-easily-in-android-applications-for-2024/"><u>Flipping Video Content Easily in Android Applications for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/free-individualized-music-for-engaging-video-conclusions-for-2024/"><u>Free, Individualized Music for Engaging Video Conclusions for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-screenshot-to-ringtone-your-guide-to-tiktok-song-selection/"><u>In 2024, From Screenshot to Ringtone Your Guide to TikTok Song Selection</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721479103926-ineffective-auto-brightness-on-iphone-discover-7-corrective-steps-now/"><u>Ineffective Auto-Brightness on iPhone? Discover 7 Corrective Steps Now</u></a></li>
+<li><a href="https://fox-that.techidaily.com/ios-16-display-issues-how-to-restore-depth-effect-on-lock-screen-using-these-7-fixes/"><u>IOS 16 Display Issues: How to Restore Depth Effect on Lock Screen Using These 7 Fixes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolve-your-iphones-contact-app-glitch-with-these-3-tips/"><u>Resolve Your iPhone's Contact App Glitch with These 3 Tips</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-no-service-error-restoring-gps-functionality-on-your-iphone/"><u>Solving 'No Service' Error: Restoring GPS Functionality on Your iPhone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-iphone-mic-issues-proven-fixes-for-non-functioning-microphones/"><u>Solving iPhone Mic Issues: Proven Fixes for Non-Functioning Microphones</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-12-iphone-12-problems-effective-solutions-revealed/"><u>Top 12 iPhone 12 Problems: Effective Solutions Revealed</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-non-responsive-emoji-prediction-quickly-on-your-iphoneipad/"><u>Troubleshoot Non-Responsive Emoji Prediction Quickly on Your iPhone/iPad</u></a></li>
+<li><a href="https://fox-that.techidaily.com/uncover-the-mystery-where-do-your-photo-chats-end-up-after-a-facetime-call/"><u>Uncover the Mystery: Where Do Your Photo Chats End Up After a FaceTime Call?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unlock-your-pcs-potential-how-to-enjoy-mobile-gaming-and-apps-with-windows-1-setup-for-android-in-windows-10/"><u>Unlock Your PC's Potential: How to Enjoy Mobile Gaming and Apps with Windows 1# Setup for Android in Windows 10</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Troubleshoot AirDrop Glitches Swiftly with This List of 16 Helpful Hacks
-date: 2025-01-07T21:54:46.286Z
-updated: 2025-01-11T01:17:17.039Z
+date: 2025-01-10T17:28:24.459Z
+updated: 2025-01-16T16:13:28.422Z
 tags:
   - iphone
   - apple
@@ -59,11 +59,7 @@ Close
 ![airdrop visibility settings on mac](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/airdrop-visibility-settings-on-mac.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Prepare Both Devices to Receive an AirDrop Request
@@ -84,19 +80,11 @@ Close
 
 ![allowed apps in iphone content and privacy restriction settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/allowed-apps-in-iphone-content-and-privacy-restriction-settings.JPEG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Close
 
  On a Mac, go to **System Settings > Screen Time > Content & Privacy > App Restrictions** .
 
 ![content and privacy settings on mac](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/content-and-privacy-settings-on-mac.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Make sure**AirDrop** is turned on for each device. You may need to enter your Screen Time passcode to make these changes.
 
@@ -108,15 +96,23 @@ Close
 
 ![iphone general settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/iphone-general-settings-2.JPEG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![iPhone General settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/iphone-general-settings.JPEG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![iphone airdrop settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/iphone-airdrop-settings.JPEG)
 
 Close
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Allow Sharing by Bringing Devices Together
 
@@ -140,10 +136,6 @@ Close
 
  This isn't an option for everyone, but if you have a spare Apple device, you should try using that to connect over AirDrop. Usually, if your iPhone, iPad, or Mac shows up on this new device, it will suddenly appear on the original device as well.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 9\. Send a Single File Instead of Multiple Files
 
  AirDrop lets you share many kinds of files at the same time. But if AirDrop isn't working, you should consider simplifying matters by sending a single file at a time instead.
@@ -151,7 +143,7 @@ Close
  AirDrop files automatically open in a relevant app. For instance, images open in the Photos app, but multiple file types don't always open in the same app. This could explain why your AirDrop transfer failed.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 10\. Check the Downloads Folder for Missing Files
@@ -162,6 +154,10 @@ Close
 
 ![on my iphone folder in files app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/on-my-iphone-folder-in-files-app.JPEG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Close
 
  On a Mac, you can usually find the**Downloads** folder by opening a new Finder window and pressing**Option + Command + L** . You may also find it next to**Trash** on your**Dock** .
@@ -169,7 +165,7 @@ Close
 ![Downloads folder in macOS Sonoma](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/downloads-folder-in-macos-sonoma.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 11\. Turn Off Your VPN for AirDrop to Work
@@ -177,10 +173,6 @@ Close
  Some users found that AirDrop didn't work until they [turned off the VPN on their iPhone](https://www.makeuseof.com/how-to-turn-off-vpn-on-iphone/) or Mac. You might need to do this in the VPN app or your device settings.
 
  On an iPhone or iPad, go to**Settings > VPN** to do this. On a Mac, go to**System Settings > Network > VPN** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 12\. Open Your Mac's Firewall to More Connections
 
@@ -207,12 +199,20 @@ Close
 ![iphone main settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/img_7705.JPEG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![iPhone General settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/iphone-general-settings.JPEG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Close
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 15\. Restart Both Devices
 
@@ -251,19 +251,21 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-refined-connections-zoom-insight-for-professional-google-meets/"><u>[New] In 2024, Refined Connections Zoom Insight for Professional Google Meets</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-spacious-mini-cities-with-oriental-flair/"><u>[New] Spacious Mini Cities with Oriental Flair</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-small-scale-screenplay-idea/"><u>[Updated] Small-Scale Screenplay Idea</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/becoming-a-vlogger-voice-confident-content-creation-strategies/"><u>Becoming a Vlogger Voice Confident Content Creation Strategies</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fixing-incompatibility-making-all-iphone-accessories-work-together-smoothly/"><u>Fixing Incompatibility: Making All iPhone Accessories Work Together Smoothly</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/gopros-underwater-journey-essential-tactics-to-make-your-videos-stand-out-for-2024/"><u>GoPro’s Underwater Journey Essential Tactics to Make Your Videos Stand Out for 2024</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-create-an-apple-developer-account-on-apple-iphone-7-plus-by-drfone-ios/"><u>How To Create an Apple Developer Account On Apple iPhone 7 Plus</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-your-pcs-muted-microphone-after-the-latest-windows-10-upgrade/"><u>How to Fix Your PC's Muted Microphone After the Latest Windows 10 Upgrade</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719348868755-is-your-pc-compatible-with-windows-11-see-here/"><u>Is Your PC Compatible with Windows 11? See Here</u></a></li>
-<li><a href="https://fox-that.techidaily.com/slow-iphones-demystified-6-reasons-and-fix-it-tips/"><u>Slow iPhones Demystified: 6 Reasons and Fix-It Tips</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solve-your-iphones-safari-image-problem-with-these-9-handy-tips/"><u>Solve Your iPhone's Safari Image Problem with These 9 Handy Tips</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-gps-problems-when-location-not-available-appears-on-iphone/"><u>Troubleshooting GPS Problems When 'Location Not Available' Appears on iPhone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/unstuck-your-family-sharing-essential-steps-and-quick-fixes-you-must-try/"><u>Unstuck Your Family Sharing: Essential Steps & Quick Fixes You Must Try</u></a></li>
-<li><a href="https://games-able.techidaily.com/what-you-need-to-know-about-filing-complaints-on-xbox/"><u>What You Need To Know About Filing Complaints on Xbox</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-epic-comic-strip-crafting-app/"><u>[Updated] 2024 Approved Epic Comic Strip Crafting App</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-a-comprehensive-quick-start-to-mastering-video-editing-win11s-movie-maker/"><u>[Updated] A Comprehensive Quick Start to Mastering Video Editing Win11's Movie Maker</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-spectrum-screens-a-new-film-language/"><u>[Updated] In 2024, Spectrum Screens A New Film Language</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-navigating-legal-pathways-for-gaining-a-million-youtube-views/"><u>[Updated] Navigating Legal Pathways for Gaining a Million YouTube Views</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-audiences-choice-for-best-action-capture-tools/"><u>2024 Approved Audience's Choice for Best Action Capture Tools</u></a></li>
+<li><a href="https://fox-that.techidaily.com/discover-the-destination-of-facetime-photographs-tips-and-tricks/"><u>Discover the Destination of FaceTime Photographs - Tips & Tricks</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721462046677-fix-the-iphone-charge-on-hold-warning-in-just-8-simple-methods/"><u>Fix the iPhone Charge-on-Hold Warning in Just 8 Simple Methods</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-the-issue-top-6-solutions-for-unresponsive-ios-software-updates/"><u>Fixing the Issue: Top 6 Solutions for Unresponsive iOS Software Updates</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-motorola-edge-40-pro-phone-without-pin-by-drfone-android/"><u>How to Unlock Motorola Edge 40 Pro Phone without PIN</u></a></li>
+<li><a href="https://fox-that.techidaily.com/lost-iphone-app-permanently-removed-heres-how-you-can-restore-them/"><u>Lost iPhone App Permanently Removed? Here's How You Can Restore Them!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolving-sim-card-not-provisioned-mme-2-issue-step-by-step-guide/"><u>Resolving SIM Card 'Not Provisioned' MME 2 Issue: Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solve-iphone-unrecognized-by-itunesfinder-essential-troubleshooting-steps/"><u>Solve iPhone Unrecognized by iTunes/Finder: Essential Troubleshooting Steps</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721443772821-the-biggest-iphone-x-bugs-and-their-quick-fixes-unveiled/"><u>The Biggest iPhone X Bugs & Their Quick Fixes Unveiled!</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-5-best-screens-for-playstation-5-gamers-for-2024/"><u>TOP 5 Best Screens for PlayStation 5 Gamers for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-laptop-speakers-a-guide-to-restoring-your-sound/"><u>Troubleshooting Laptop Speakers: A Guide to Restoring Your Sound</u></a></li>
 </ul></div>
 
