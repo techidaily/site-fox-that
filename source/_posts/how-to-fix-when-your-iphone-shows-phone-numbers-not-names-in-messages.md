@@ -1,7 +1,7 @@
 ---
 title: "How to Fix: When Your iPhone Shows Phone Numbers Not Names in Messages"
-date: 2025-01-12T16:35:57.997Z
-updated: 2025-01-16T16:52:13.342Z
+date: 2025-01-21T19:59:47.125Z
+updated: 2025-01-22T16:13:01.315Z
 tags:
   - iphone
   - apple
@@ -28,7 +28,7 @@ thumbnail: https://thmb.techidaily.com/a7b063e2c5f1e938dc6e32e2ce85c52239dfc8e77
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why Does Your Contact Name Disappear?
@@ -40,7 +40,7 @@ thumbnail: https://thmb.techidaily.com/a7b063e2c5f1e938dc6e32e2ce85c52239dfc8e77
  However, this is usually a temporary issue and should fix itself. If this isn't the case, you can try a few quick fixes to get things back to normal quickly.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Restart Your iPhone
@@ -48,10 +48,6 @@ thumbnail: https://thmb.techidaily.com/a7b063e2c5f1e938dc6e32e2ce85c52239dfc8e77
  A quick fix to getting your contact names back instead of phone numbers is to [restart your iPhone](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) . As with many other issues, a quick reboot usually does the trick, and you should be able to see your contact names instead of phone numbers in Messages.
 
  In the case that this doesn't work and you are still facing the same issue, follow the fixes below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Add or Remove the Country Code
 
@@ -77,7 +73,7 @@ Close
  Once you fix a phone number, you'll see Messages will automatically merge the conversations split across different chats.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Toggle iCloud Contacts
@@ -96,15 +92,19 @@ To do this, follow these steps on your iPhone:
 
 ![Settings on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Fix-Messages-Not-Showing-iCloud.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Password and Security in iPhone iCloud Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/2FA-iPhone-Password-and-Security.jpg)
 
 ![Contacts in iCloud Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Fix-Messages-Not-Showing-iCloud-Contacts.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Close
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix Messages Showing Phone Numbers Instead of Contact Names
 
@@ -125,17 +125,24 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/ed-a-beginners-guide-to-embedding-youtube-playlists-in-code-for-2024/"><u>[Updated] A Beginner's Guide to Embedding YouTube Playlists in Code for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-capture-the-internets-attention-craft-with-kapwing/"><u>[Updated] In 2024, Capture the Internet’s Attention – Craft with Kapwing</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-the-essentials-of-clear-coherent-ps3-game-recordings-for-2024/"><u>[Updated] The Essentials of Clear, Coherent PS3 Game Recordings for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-turn-photos-inside-out-with-ease-using-photoshop/"><u>2024 Approved Turn Photos Inside Out with Ease Using Photoshop</u></a></li>
-<li><a href="https://win-popular.techidaily.com/creative-tims-argondjango-a-fully-integrated-bootstrap-4-admin-panel-for-django-projects/"><u>Creative Tim's ArgonDjango: A Fully Integrated Bootstrap 4 Admin Panel for Django Projects</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/effective-strategies-for-capturing-online-gatherings-mac-pc-for-2024/"><u>Effective Strategies for Capturing Online Gatherings (Mac, PC) for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/explore-apples-curated-list-of-must-have-applications-and-gaming-experiences-as-recommended-by-zdnet/"><u>Explore Apple’s Curated List of Must-Have Applications and Gaming Experiences , as Recommended by ZDNET</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fixing-imessage-glitches-top-7-simple-steps-for-all-apple-devices/"><u>Fixing iMessage Glitches: Top 7 Simple Steps for All Apple Devices</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-resolve-prolonged-display-turnoff-issues-on-your-iphone-swiftly-and-easily/"><u>How to Resolve Prolonged Display Turnoff Issues on Your iPhone Swiftly and Easily</u></a></li>
-<li><a href="https://fox-that.techidaily.com/mastering-the-art-of-full-page-screen-captures-on-safari-tips-and-tricks-uncovered/"><u>Mastering the Art of Full-Page Screen Captures on Safari: Tips and Tricks Uncovered</u></a></li>
-<li><a href="https://fox-that.techidaily.com/thawing-techniques-reviving-an-apple-iphone-that-wont-respond/"><u>Thawing Techniques: Reviving an Apple iPhone That Won't Respond</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-art-of-minimizing-disruptions-in-windows-updates/"><u>The Art of Minimizing Disruptions in Windows Updates</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-quick-guide-youtube-videos-for-your-instagram-story/"><u>[New] 2024 Approved Quick Guide YouTube Videos for Your Instagram Story</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-illuminating-craftsmanship-avoiding-common-film-lighting-pitfalls/"><u>[New] Illuminating Craftsmanship Avoiding Common Film-Lighting Pitfalls</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-educators-manual-for-integrating-videos-in-instruction/"><u>[New] In 2024, Educator's Manual for Integrating Videos in Instruction</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/astering-chapter-division-in-youtube-videos/"><u>[New] Mastering Chapter Division in YouTube Videos</u></a></li>
+<li><a href="https://fox-that.techidaily.com/5-key-strategies-to-restore-iphones-dictation-feature/"><u>5 Key Strategies to Restore iPhone's Dictation Feature</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/cd/"><u>専門家が選ぶCDコンバータプログラム：高解像度、豊富機能。ストレス無くオーディオファイル作り！</u></a></li>
+<li><a href="https://fox-that.techidaily.com/bypass-the-hurdle-a-step-by-step-guide-when-your-iphone-wont-show-up-in-itunesfinder/"><u>Bypass the Hurdle: A Step-by-Step Guide When Your iPhone Won't Show Up in iTunes/Finder</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/comprehensive-analysis-of-asus-tuf-gaming-a14-power-and-durability-explored/"><u>Comprehensive Analysis of Asus TUF Gaming A14: Power & Durability Explored</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/curving-images-without-complication-a-guide/"><u>Curving Images without Complication A Guide</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/efficient-regulation-compliance-search-engine-optimization/"><u>Efficient Regulation Compliance Search Engine Optimization</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-mm-2-the-ultimate-solution-for-non-provisioned-sim-card-alerts/"><u>Fixing MM 2: The Ultimate Solution for Non-Provisioned SIM Card Alerts</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-update-issues-for-iphones-and-ipads-top-9-tips-and-tricks/"><u>Fixing Update Issues for iPhones and iPads: Top 9 Tips & Tricks</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-system-of-apple-iphone-15-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair System of Apple iPhone 15? | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-transform-your-photos-into-musical-masterpieces-withwithout/"><u>In 2024, Transform Your Photos Into Musical Masterpieces (With/Without)</u></a></li>
+<li><a href="https://fox-that.techidaily.com/mastering-apple-remote-diagnostics-a-users-guide-to-iphone-hardware-assessment/"><u>Mastering Apple Remote Diagnostics: A User’s Guide to iPhone Hardware Assessment</u></a></li>
+<li><a href="https://fox-that.techidaily.com/navigating-through-common-icloud-challenges-tips-for-iphoneipad-users/"><u>Navigating Through Common iCloud Challenges: Tips for iPhone/iPad Users</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solution-strategies-for-restoring-functionality-on-ios-devices/"><u>Solution Strategies for Restoring Functionality on iOS Devices</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-guide-solving-common-issues-with-apple-airplay/"><u>Troubleshooting Guide: Solving Common Issues with Apple AirPlay</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-tips-for-when-your-device-displays-numbers-in-place-of-contact-names-on-messages/"><u>Troubleshooting Tips for When Your Device Displays Numbers in Place of Contact Names on Messages</u></a></li>
 </ul></div>
 

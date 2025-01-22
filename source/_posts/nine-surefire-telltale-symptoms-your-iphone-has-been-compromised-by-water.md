@@ -1,7 +1,7 @@
 ---
 title: Nine Surefire Telltale Symptoms Your iPhone Has Been Compromised by Water
-date: 2025-01-15T17:06:02.774Z
-updated: 2025-01-16T17:24:03.311Z
+date: 2025-01-20T18:02:19.995Z
+updated: 2025-01-22T21:27:22.658Z
 tags:
   - iphone
   - apple
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/de7e32da454b1a64d1a9e174bd2f0af6c1c09ee74
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Foggy Cameras
@@ -32,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/de7e32da454b1a64d1a9e174bd2f0af6c1c09ee74
 ![Foggy iPhone X photo of a man](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/05/foggy-iphone-x-photo-of-a-man.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  One of the first things you should do when inspecting a phone for any kind of damage is to check its cameras. They are sensitive pieces of hardware and are easily affected by scratches, drops, and water.
@@ -40,10 +40,6 @@ thumbnail: https://thmb.techidaily.com/de7e32da454b1a64d1a9e174bd2f0af6c1c09ee74
  When water finds its way into your camera, it can fog up the lens and affect the quality of your pictures. And the front camera is particularly prone to damage in this manner, especially if you have replaced the screen at some point in the phone's history.
 
  If you use your iPhone's camera and your pictures look like they're from a low-budget movie from the 50s, then it might be water-damaged. If you see a photo like this, turn off your phone and dry it thoroughly.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Face ID or Touch ID Malfunctioning
 
@@ -55,9 +51,17 @@ thumbnail: https://thmb.techidaily.com/de7e32da454b1a64d1a9e174bd2f0af6c1c09ee74
 
  Likewise, Touch ID could also be negatively affected by water if it slips through the side of the Home button and gets into the sensors. This is less likely to happen if you use an iPhone 7 or 8, but it's still possible if the phone falls into extremely dirty water.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Misbehaving Buttons
 
  Dirty water often contains all sorts of particles that can get into small gaps and block them. If you notice that the buttons on an iPhone feel stuck, make a grainy sound, or simply do not respond, then you could be holding a water-damaged iPhone.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Patches on the Display
 
@@ -67,10 +71,6 @@ thumbnail: https://thmb.techidaily.com/de7e32da454b1a64d1a9e174bd2f0af6c1c09ee74
 
  Once you see signs of water under the display, dry the device and [back up all your iPhone's data](https://www.makeuseof.com/tag/how-to-backup-iphone-ipad/) . Whatever you do, do not put it in rice because that myth may accelerate your problem. If there's still a dark spot after your phone is dry, you might need to change the screen assembly.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Faulty Touchscreen and Flickering Display
 
  This is rare on iPhones, but if you see no cracks on your screen, yet the phone's touch function seems partially or completely unresponsive, you can assume that water may have affected a part of the screen. You might also experience "ghost touches," meaning the phone's screen seems to work itself.
@@ -79,13 +79,13 @@ thumbnail: https://thmb.techidaily.com/de7e32da454b1a64d1a9e174bd2f0af6c1c09ee74
 
  The phone's display module may have been affected by water. You should return it to Apple or an Apple Authorized Service Provider to replace that part of the screen.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Muffled Speakers
 
 ![iPhone 11 in the hands of a woman with volume control options on the screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/iphone-11-in-the-hands-of-a-woman-with-volume-control-options-on-the-screen.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Another clear sign that an iPhone is water-damaged is muffled speakers. If you want to purchase a used phone, after checking the cameras, you should play some sounds on the speakers to see what it sounds like.
 
@@ -140,16 +140,22 @@ thumbnail: https://thmb.techidaily.com/de7e32da454b1a64d1a9e174bd2f0af6c1c09ee74
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-premier-5-goggles-securing-victory-in-air-races/"><u>[New] In 2024, Premier 5 Goggles Securing Victory in Air Races</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/op-5-freefire-techniques-for-gaming-vloggers/"><u>[New] Top 5 FreeFire Techniques for Gaming Vloggers</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-zero-to-hero-amplifying-youtube-influence-via-famebit-partnerships/"><u>[Updated] 2024 Approved From Zero to Hero Amplifying YouTube Influence via FameBit Partnerships</u></a></li>
-<li><a href="https://fox-that.techidaily.com/5-fixes-if-your-iphone-keeps-disconnecting-from-wi-fi/"><u>5 Fixes if Your iPhone Keeps Disconnecting From Wi-Fi</u></a></li>
-<li><a href="https://fox-that.techidaily.com/comprehensive-solutions-to-enable-text-tone-notifications-when-iphone-fails-to-alert/"><u>Comprehensive Solutions to Enable Text Tone Notifications When iPhone Fails To Alert</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/tial-guidelines-to-create-impactful-youtube-banners/"><u>Essential Guidelines to Create Impactful YouTube Banners</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fast-solutions-resolving-issues-with-widget-functionality-on-ios-devices/"><u>Fast Solutions: Resolving Issues with Widget Functionality on iOS Devices</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-off-mode-on-apples-new-flagship-phones-the-ultimate-guide-for-iphone-15-propro-max/"><u>Mastering Off Mode on Apple's New Flagship Phones: The Ultimate Guide for iPhone 15 Pro/Pro Max</u></a></li>
-<li><a href="https://fox-that.techidaily.com/retrieve-accidentally-deleted-reminders-and-memos-on-your-ios-device/"><u>Retrieve Accidentally Deleted Reminders & Memos on Your iOS Device</u></a></li>
-<li><a href="https://common-error.techidaily.com/ultimate-guide-resolving-your-pcs-constant-freeze-up-problems/"><u>Ultimate Guide: Resolving Your PC's Constant Freeze-Up Problems</u></a></li>
-<li><a href="https://extra-information.techidaily.com/unraveling-humor-in-the-funnies-of-goofy/"><u>Unraveling Humor in 'The Funnies of Goofy'</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-mastery-in-captioning-a-youtube-creators-handbook/"><u>[New] 2024 Approved Mastery in Captioning A YouTube Creator's Handbook</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-6-completely-different-places-to-get-icons-and-logos-for-youtube-videos/"><u>[Updated] 2024 Approved 6 Completely Different Places to Get Icons and Logos for YouTube Videos</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-ultimate-4k-gaming-experience-top-laptop-picks-for-2024/"><u>[Updated] Ultimate 4K Gaming Experience - Top Laptop Picks for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-extensive-movement-analysis-2023/"><u>2024 Approved Extensive Movement Analysis 2023</u></a></li>
+<li><a href="https://fox-that.techidaily.com/avoiding-error-4013-expert-advice-for-smooth-iphone-software-updates-and-restores/"><u>Avoiding Error 4013: Expert Advice for Smooth iPhone Software Updates and Restores</u></a></li>
+<li><a href="https://fox-that.techidaily.com/cant-use-facetime-anymore-discover-15-effective-ways-to-get-it-up-and-running-again/"><u>Can't Use FaceTime Anymore? Discover 15 Effective Ways to Get It Up and Running Again</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/free-vs-paid-discover-the-best-zoom-transcription-tools-for-2024/"><u>Free vs Paid Discover the Best Zoom Transcription Tools for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-troubleshoot-and-resolve-safari-issues-on-your-ios-device/"><u>How to Troubleshoot and Resolve Safari Issues on Your iOS Device</u></a></li>
+<li><a href="https://fox-that.techidaily.com/identifying-the-culprits-behind-poor-mobile-wi-fi-speeds-a-7-point-guide/"><u>Identifying the Culprits Behind Poor Mobile Wi-Fi Speeds: A 7-Point Guide</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-a-quick-dive-into-obs-zoom-fusion-steps/"><u>In 2024, A Quick Dive Into OBS-Zoom Fusion Steps</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-streamline-live-tv-capture-in-windows-free-methods/"><u>In 2024, Streamline Live TV Capture in Windows (Free Methods)</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/iphone-16-enhances-photography-with-new-ai-vision-technology-comparable-to-google-lens-insights/"><u>IPhone 16 Enhances Photography with New AI Vision Technology Comparable to Google Lens - Insights</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-stuck-in-portrait-learn-easy-ways-to-enable-screen-rotation/"><u>IPhone Stuck in Portrait? Learn Easy Ways to Enable Screen Rotation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-to-uninstall-quickly-in-windows-11/"><u>Navigating to Uninstall Quickly in Windows 11</u></a></li>
+<li><a href="https://fox-that.techidaily.com/stop-your-iphone-from-staying-charged-while-on-hold-8-essential-tips/"><u>Stop Your iPhone From Staying Charged While on Hold - 8 Essential Tips</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-5-solutions-for-persistent-wi-fi-connection-issues-on-your-iphone/"><u>Top 5 Solutions for Persistent Wi-Fi Connection Issues on Your iPhone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/why-does-my-iphone-screen-keep-changing-brightness-discover-the-top-reasons/"><u>Why Does My iPhone Screen Keep Changing Brightness? Discover the Top Reasons!</u></a></li>
 </ul></div>
 

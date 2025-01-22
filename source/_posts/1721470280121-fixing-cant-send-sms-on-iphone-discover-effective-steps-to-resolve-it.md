@@ -1,7 +1,7 @@
 ---
 title: "Fixing 'Can't Send SMS' On iPhone: Discover Effective Steps to Resolve It!"
-date: 2024-08-10T03:36:13.508Z
-updated: 2024-08-11T03:36:13.508Z
+date: 2025-01-20T19:37:01.586Z
+updated: 2025-01-22T17:12:15.480Z
 tags:
   - iphone
   - apple
@@ -29,8 +29,9 @@ thumbnail: https://thmb.techidaily.com/0ad90fd897d188ac3bdb1a7ec9d7a4db382e65d4a
  Try moving to an area with better reception if it's weak or nonexistent. If you're in an area that usually has a good signal, contact your mobile network operator.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Make Sure SMS and MMS Are On
 
  When you message another contact with an Apple device, your iPhone sends it via iMessage by default.
@@ -44,11 +45,20 @@ thumbnail: https://thmb.techidaily.com/0ad90fd897d188ac3bdb1a7ec9d7a4db382e65d4a
 ![iOS Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/01-iphone-settings-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Messages settings in iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/02-iphone-messages-settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![SMS and MMS enabled on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/03-sms-mms-enabled-iphone.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -62,15 +72,6 @@ Here's how you can activate MMS messages:
 
  Do note that your personal cell plan may not cover MMS messaging. In this case, any text message sent with multimedia will fail to send. MMS is limited, too. We recommend using one of [the best instant messaging apps](https://www.makeuseof.com/best-instant-messaging-apps-2021/) if you'd like to share media files without a fuss when iMessage fails.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 ## 3\. Are You in Airplane Mode?
 
  Airplane Mode prevents your iPhone from sending and receiving cellular signals. Unless you're connected to a Wi-Fi network, you won't be able to send or receive text messages via iMessage when you enable Airplane mode.
@@ -81,9 +82,6 @@ Here's how you can activate MMS messages:
 
 ![Control Center in iOS with Airplane Mode enabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/02-control-center-iphone-airplane-mode.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ![Control Center in iOS with Airplane Mode disabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/03-control-center-airplane-mode-disabled.jpg)
 
 Close
@@ -91,8 +89,9 @@ Close
  You can do this by opening your iPhone's**Control Center** and tapping the**Airplane** toggle in the top left. This symbol is grayed out whenever Airplane Mode is off. As a bonus, sometimes toggling Airplane Mode on and off can clear up temporary signal hiccups, too.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Did You Text the Right Number?
 
  Sending text messages to inactive or unused numbers is a recipe for failure and frustration. When sending an SMS message, make sure you enter the correct number.
@@ -118,20 +117,10 @@ You can also delete conversations in Messages by doing the following:
 3. Tap the**Delete** icon, and tap**Delete** from the pop-up to confirm.
 4. Finally, press the**Compose** icon in the top-right corner of the Messages screen to give it another try.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![An iPhone's Home Screen in iOS 16](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/01-ios-home-screen.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ![Deleting a message in Messages](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/02-deleting-message-imessage.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 ![Delete message pop-up confirmation in Messages](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/03-message-deletion-confirmation-imessage.jpg)
 
 Close
@@ -139,8 +128,9 @@ Close
  This method is extremely useful if a message continually tries to send but is unable to do so.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Is Your Mobile Plan Active?
 
  You should next check whether you currently have an active mobile service plan. If you don't have one, you won't be able to send texts.
@@ -168,13 +158,14 @@ Close
 
 ![Shutting down an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/03-shutting-down-iphone.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Close
 
  When the phone turns back on, you should be able to enter Messages and easily resend the problematic text.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 8\. Update iOS
 
 [You should always keep your iPhone updated](https://www.makeuseof.com/reasons-you-need-to-update-ios/) with the latest version of iOS. New updates for iOS can iron out software issues and bugs. So if your iPhone still can't send text messages, it's a good idea to update.
@@ -186,14 +177,15 @@ Close
 3. Tap**Software Update** .
 4. You'll see a**Download and Install** button if a pending update is available. Select it to download the latest version and install it on your iPhone.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Settings app in iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/01-settings-app-iphone.jpg)
 
 ![General settings in iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/02-software-update-ios-settings.jpg)
 
 ![iOS software updates page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/03-ios-update-page.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -214,16 +206,21 @@ Here's how to clear your iPhone's network settings:
 5. Enter your passcode.
 6. Tap**Reset Network Settings** to confirm.
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![General Settings page on iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/01-General-settings-page-iphone-1.jpg)
 
 ![Reset iPhone option in iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/02-Reset-iPhone.jpg)
 
 ![iPhone reset options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/03-Reset-iPhone-options.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Close
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 10\. Still Not Working? Get Professional Help
 
@@ -231,9 +228,6 @@ Close
 
  Depending on your location, you can [book an Apple Store appointment at a Genius Bar](https://www.makeuseof.com/apple-store-appointment-genius-bar/) . You may have to eventually replace the iPhone, but that should be the last case scenario.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix Your iPhone Messaging Issues
 
  Unfortunately, it can take a little bit of time to figure out exactly what the source of your texting issues may be. However, if you're patient and willing to try a couple of different techniques, you should have no problem getting your iPhone working again.
@@ -246,8 +240,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -255,6 +247,24 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-the-dos-and-donts-of-instagram-live/"><u>[New] The Do's and Don'ts of Instagram Live</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-enhance-interaction-share-your-custom-youtube-playlist-for-2024/"><u>[Updated] Enhance Interaction Share Your Custom YouTube Playlist for 2024</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/boost-leads-and-sales-using-the-advanced-targeting-of-cookiebot-technology/"><u>Boost Leads and Sales Using the Advanced Targeting of Cookiebot Technology</u></a></li>
+<li><a href="https://fox-that.techidaily.com/clear-lens-perfect-image-unblurring-techniques-for-iphone-cameras/"><u>Clear Lens, Perfect Image: Unblurring Techniques for iPhone Cameras</u></a></li>
+<li><a href="https://fox-that.techidaily.com/five-fingers-and-no-response-here-are-10-fixes-for-your-iphones-ghost-touch-problems/"><u>Five Fingers and No Response? Here Are 10 Fixes for Your iPhone's Ghost Touch Problems</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-contacts-from-oneplus-11r-by-fonelab-android-recover-contacts/"><u>How to get back lost contacts from OnePlus 11R.</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-motorola-moto-g04-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Motorola Moto G04</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-troubleshoot-and-repair-a-malfunctioning-safari-app-on-ios-devices/"><u>How to Troubleshoot and Repair a Malfunctioning Safari App on iOS Devices</u></a></li>
+<li><a href="https://review-topics.techidaily.com/huawei-nova-y91-support-forgotten-screen-lock-by-drfone-android-unlock-android-unlock/"><u>Huawei Nova Y91 support - Forgotten screen lock.</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-common-hurdles-in-launching-obs-windows/"><u>Overcoming Common Hurdles in Launching OBS (Windows)</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-iphone-13-challenges-a-guide-to-the-six-most-prevalent-issues/"><u>Overcoming iPhone 13 Challenges: A Guide to the Six Most Prevalent Issues</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-iphone-hurdles-7-ways-to-restore-missed-message-functionality/"><u>Overcoming iPhone Hurdles: 7 Ways to Restore Missed Message Functionality</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solutions-for-boosting-image-resolution-on-phones-with-minimal-megapixel-cameras/"><u>Solutions for Boosting Image Resolution on Phones with Minimal Megapixel Cameras</u></a></li>
+<li><a href="https://driver-download.techidaily.com/the-ultimate-guide-to-getting-your-hp-laserjet-pro-m4e-printer-driver-up-and-running-on-a-windows-system/"><u>The Ultimate Guide to Getting Your HP LaserJet Pro M4e Printer Driver Up and Running on a Windows System</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/to-retweet-or-not-to-retweet-exploring-the-meaning-of-re-tweets-on-twitter/"><u>To Retweet Or Not to Retweet? Exploring the Meaning of Re-Tweets on Twitter</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlocking-the-secret-restoring-your-iphone-independently-from-itunes/"><u>Unlocking the Secret: Restoring Your iPhone Independently From iTunes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/whats-the-solution-for-contact-numbers-displayed-rather-than-names-in-chats/"><u>What's the Solution for Contact Numbers Displayed Rather Than Names in Chats?</u></a></li>
+</ul></div>
 

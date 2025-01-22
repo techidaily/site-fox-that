@@ -1,7 +1,7 @@
 ---
 title: Beta Blockers Reduce Heart Rate and Blood Pressure by Blocking Beta-1 Receptors in the Heart.
-date: 2025-01-11T16:28:11.342Z
-updated: 2025-01-16T17:41:40.111Z
+date: 2025-01-21T20:55:21.241Z
+updated: 2025-01-22T16:13:24.127Z
 tags:
   - iphone
   - apple
@@ -30,7 +30,7 @@ thumbnail: https://thmb.techidaily.com/be822f3b46b270ef9926d48a1de9e3c012d7d2f35
 ![Cellular settings with App Store turned on](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2019/12/Cellular-settings-with-App-Store-turned-on.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  For your iPhone to download apps from the App Store, it needs a working internet connection. Most of the time, you should connect to Wi-Fi, since cellular downloads use up your data allowance and often only let you download apps smaller than 200MB.
@@ -43,13 +43,13 @@ thumbnail: https://thmb.techidaily.com/be822f3b46b270ef9926d48a1de9e3c012d7d2f35
 2. Scroll down to the list of apps and turn on**App Store** .
 3. Then go to**Settings > App Store** , tap**App Downloads** and choose if you want your iPhone to ask permission before downloading apps over 200MB in size.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Make Sure Your Have Enough Free Space
 
 ![iPhone Storage settings showing 30 GB of free space](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2019/12/iPhone-Storage-settings-showing-30-GB-of-free-space.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Internal iPhone storage is not expandable. You can't download new apps on your iPhone if you've already filled up your device with photos, videos, music, and other content.
 
@@ -57,13 +57,13 @@ When this happens, an alert should pop up saying "Not Enough Storage."
 
  Go to**Settings > General > iPhone Storage** to see how much free space you have and take a look at which apps are using the most. There are plenty of ways to [create more free space on your iPhone](https://www.makeuseof.com/tag/iphone-storage-full-create-free-space-ios/) if you need to, such as offloading apps, uploading photos to the cloud, or deleting junk that you no longer need. You can do all of this from the iPhone storage settings.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Update Your Apple ID Details
 
 ![Apple ID Payment Information page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2019/12/Apple-ID-Payment-Information-page.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Even if you only download free apps from the App Store, you still need to have valid payment information and contact details linked to your Apple ID account. It's possible that the payment details on your account expired, so you should check if you need to update them.
 
@@ -73,17 +73,9 @@ Update your Apple ID details from the iPhone Settings app:
 2. Tap**Payment & Shipping** to view your payment information.
 3. Lastly, tap**Add Payment Method** to add a payment method, or use**Edit** to edit your existing methods.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Change the Date and Time
 
 ![Date & Time Settings with Set Automatically option in settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2019/12/Date-Time-Settings-with-Set-Automatically-option-in-settings.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  As strange as it sounds, having the wrong date or time set might be the reason your iPhone won' let yout download or install apps from the App Store. This inconsistency causes communication problems between your device and Apple's servers.
 
@@ -98,6 +90,10 @@ To correct the date and time on your iPhone:
 
 ![Content & Privacy Restrictions for Installing Apps on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2019/12/Content-Privacy-Restrictions-for-Installing-Apps-on-iPhone.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The content and privacy restrictions on an iPhone let you limit settings, apps, or features to keep the device safe for children. However, those same limitations explain why you can't download new apps on your iPhone.
 
 To edit your restrictions:
@@ -107,10 +103,6 @@ To edit your restrictions:
 3. Turn off all**Content & Privacy Restrictions** at the top of the screen or change the following setting:  
    1. Tap**iTunes & App Store Purchases > Installing Apps** .  
    2. Select**Allow** to enable installing apps.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Pause and Resume Your App Download
 
@@ -123,6 +115,10 @@ To edit your restrictions:
  Alternatively, tap and hold on the app icon to reveal a quick-action menu. You can choose to**Pause Download** or**Resume Download** from this menu as well.
 
  Alternatively, you have the option to**Prioritize Download** from the quick-action menu. This is a good idea if your iPhone is downloading other content as well, since it prioritizes this app above all other downloads.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Sign Out of the App Store, Then Sign In Again
 
@@ -139,9 +135,17 @@ To sign out of the App Store:
 3. Confirm you want to**Sign Out** .
 4. Now tap**Media & Purchases** again and sign in with your Apple ID account.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8\. Quit Every App and Restart Your iPhone
 
 ![App Switcher view on iPhone with App Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2019/12/App-Switcher-view-on-iPhone-with-App-Store.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After downloading an app to your iPhone, it might appear as a white icon with gray lines running through it. This happens when an app doesn't download or install correctly. You can usually fix it by restarting your device. This step can also be useful if your iPhone won't download any apps from the App Store, since you'll also restart the App Store itself.
 
@@ -155,10 +159,6 @@ To sign out of the App Store:
 
 ![Delete Minecraft iPhone popup alert](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2019/12/Delete-Minecraft-iPhone-popup-alert.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Sometimes a download becomes so corrupted that the only way to fix it is deleting the half-downlaoded app and downloading it again from scratch. If you never used the app before, there's nothing to lose from doing this.
 
  However, if you were trying to update an app rather than download it for the first time, deleting it might also delete any data you have saved in the app. You should [make a backup of your iPhone](https://www.makeuseof.com/tag/how-to-backup-iphone-ipad/) before deleting apps to protect your data.
@@ -166,10 +166,6 @@ To sign out of the App Store:
  When you want to delete an app from your iPhone, tap and hold the app icon on the Home Screen. In the quick-action menu that appears, tap**Remove App** , then confirm you want to**Delete App** .
 
  After deleting an app, restart your iPhone and download it again from the App Store.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 10\. Make Sure the App Works With Your iPhone
 
@@ -182,6 +178,10 @@ To sign out of the App Store:
  Tap the dropdown arrow to view more information about the app compatibility.
 
  If an app doesn't work with your device, you might need to [update iOS on your iPhone](https://www.makeuseof.com/tag/update-iphone-ios-apps-data/) to the latest available version. This is a good idea even if the app is compatible, since iOS updates often fix problematic software bugs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Find Ways to Organize Your Downloaded Apps
 
@@ -204,14 +204,24 @@ To sign out of the App Store:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-valhallas-fury-gods-of-war-converge/"><u>[New] Valhalla's Fury Gods of War Converge</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-how-to-record-screen-and-video-on-android-4-methods/"><u>[Updated] In 2024, How to Record Screen and Video on Android? [4 Methods]</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-and-setup-samsung-960-evo-nvme-ssd-drivers-on-your-windows-pc/"><u>Download & Setup Samsung 960 EVO NVMe SSD Drivers on Your Windows PC</u></a></li>
-<li><a href="https://fox-that.techidaily.com/ensure-your-whatsapp-chats-stay-safe-in-icloud-step-by-step-guide/"><u>Ensure Your WhatsApp Chats Stay Safe in iCloud - Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-that.techidaily.com/imessage-turns-into-text-could-you-be-on-someones-block-list/"><u>IMessage Turns Into Text - Could You Be on Someone's Block List?</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-realme-gt-neo-5-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Realme GT Neo 5 Phones? | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721473896205-iphone-photo-mystery-why-your-gallery-wont-free-up-and-what-you-can-do-about-it/"><u>IPhone Photo Mystery: Why Your Gallery Won't Free Up, and What You Can Do About It!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reinvigorating-windows-group-policy-configurations/"><u>Reinvigorating Windows Group Policy Configurations</u></a></li>
-<li><a href="https://fox-that.techidaily.com/why-wont-my-iphone-touch-screen-work-uncover-7-common-issues-and-fixes/"><u>Why Won't My iPhone Touch Screen Work? Uncover 7 Common Issues and Fixes</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-10-top-free-online-photo-editor/"><u>[New] 10 Top Free Online Photo Editor</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-beginners-choices-superior-gopro-accessories/"><u>[New] 2024 Approved Beginner’s Choices Superior GoPro Accessories</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-enter-the-world-of-games-with-a-single-funimate-apk-download-for-2024/"><u>[New] Enter the World of Games with a Single Funimate APK Download for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-ultimate-guide-recording-your-youtube-livestreams/"><u>[Updated] Ultimate Guide Recording Your YouTube Livestreams</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-cutting-edge-tech-for-live-broadcasts-the-top-6-microphone-options/"><u>2024 Approved Cutting-Edge Tech for Live Broadcasts The Top 6 Microphone Options</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-experience-effortless-videodownloads-on-pinterest-with-5-best-tools/"><u>2024 Approved Experience Effortless Videodownloads on Pinterest with 5 Best Tools</u></a></li>
+<li><a href="https://fox-that.techidaily.com/6-fixes-to-try-if-apple-declines-your-payment-method/"><u>6 Fixes to Try if Apple Declines Your Payment Method</u></a></li>
+<li><a href="https://fox-that.techidaily.com/6-simple-steps-to-adjust-your-iphone-battery-settings/"><u>6 Simple Steps to Adjust Your iPhone Battery Settings</u></a></li>
+<li><a href="https://fox-that.techidaily.com/conquer-connection-woes-11-fixes-for-keeping-your-airpods-paired-with-iphone-flawlessly/"><u>Conquer Connection Woes: 11 Fixes for Keeping Your AirPods Paired With iPhone Flawlessly</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-fix-your-iphone-emails-not-updating/"><u>How to Fix Your iPhone Emails Not Updating</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-start-editing-with-ease-implementing-movie-maker-in-windows-11/"><u>In 2024, Start Editing with Ease Implementing Movie Maker in Windows 11</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/2520861-9781101992425-monsters-among-us/"><u>Monsters Among Us | Free Book</u></a></li>
+<li><a href="https://fox-that.techidaily.com/struggling-with-your-iphones-home-button-try-our-5-swift-repairs/"><u>Struggling with Your iPhone's Home Button? Try Our 5 Swift Repairs!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-10-solutions-for-recurrently-crashing-iphone-applications/"><u>Top 10 Solutions for Recurrently Crashing iPhone Applications</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-10-solutions-iphone-unable-to-deliver-sms-get-it-fixed/"><u>Top 10 Solutions: IPhone Unable to Deliver SMS - Get It Fixed!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-6-causes-of-iphone-sluggishness-and-solutions-to-speed-up/"><u>Top 6 Causes of iPhone Sluggishness & Solutions to Speed Up</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-windows-11-how-to-correct-error-code-0x8024401c/"><u>Troubleshooting Windows 11: How to Correct Error Code 0X8024401C</u></a></li>
+<li><a href="https://os-tips.techidaily.com/understanding-icloud-keychain-a-step-by-step-guide-to-unlocking-your-iphones-secrets/"><u>Understanding iCloud Keychain: A Step-by-Step Guide to Unlocking Your iPhone's Secrets</u></a></li>
+<li><a href="https://fox-that.techidaily.com/what-to-do-if-your-iphones-proximity-sensor-isnt-working/"><u>What to Do if Your iPhone's Proximity Sensor Isn't Working</u></a></li>
 </ul></div>
 

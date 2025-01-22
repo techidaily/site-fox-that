@@ -1,7 +1,7 @@
 ---
 title: What To Do When Only One AirPod Fails to Work?
-date: 2025-01-15T16:34:10.068Z
-updated: 2025-01-16T16:43:39.771Z
+date: 2025-01-20T22:03:28.257Z
+updated: 2025-01-22T17:39:41.375Z
 tags:
   - iphone
   - apple
@@ -19,10 +19,6 @@ thumbnail: https://thmb.techidaily.com/047a2ad015e13f7c67c91065d1e02decc0d409c48
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Quick Links
 
 * [Check Your AirPods Battery](https://www.makeuseof.com/one-airpod-not-working/#check-your-airpods-battery)
@@ -33,10 +29,6 @@ thumbnail: https://thmb.techidaily.com/047a2ad015e13f7c67c91065d1e02decc0d409c48
 * [Reset Your AirPods to Factory Settings](https://www.makeuseof.com/one-airpod-not-working/#reset-your-airpods-to-factory-settings)
 * [Reset Your Phone's Network Settings](https://www.makeuseof.com/one-airpod-not-working/#reset-your-phone-39-s-network-settings)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * Don't be quick to assume your AirPod is faulty because software bugs, depleted battery, and misconfigured settings could cause this issue.
@@ -46,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/047a2ad015e13f7c67c91065d1e02decc0d409c48
  Did one of your AirPods stop working all of a sudden? Before you assume it's a hardware problem and contact Apple for a repair or replacement AirPod, follow these simple troubleshooting steps, as they can often quickly resolve the issue.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Check Your AirPods Battery
@@ -67,6 +59,10 @@ Close
 
 [Reboot your iPhone](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) , Windows computer, Android device, or Mac—whatever it is that you use with your AirPods. Once your device is powered on and Bluetooth is enabled, check if both your AirPods connect and work properly again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Adjust the Audio Balance on Your Devices
 
  Most devices allow you to set the volume level for each AirPod individually. If you or someone else has tweaked this adjustment and routed the audio to only one of the AirPods, that may be why you're not hearing any sound from the other. It could also be [why one AirPod sounds louder than the other](https://www.makeuseof.com/why-one-airpod-louder-than-other-fixes/) when they're both working.
@@ -83,12 +79,16 @@ Close
 
 ![mac sound system settings airpods balance](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/mac-sound-system-settings-airpods-balance.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can adjust the AirPods audio balance on Windows 11 by opening**Settings > System > Sound** . Then, select your AirPods from the list of output devices and adjust the**Left channel** and**Right channel** sliders so that they're equal.
 
 ![Windows Sound Settings for AirPods Pro](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/windows-sound-settings-for-airpods-pro.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Try Your AirPods With Other Devices
@@ -126,7 +126,7 @@ Close
  Your iPhone will prompt you to set them up. If you're using another device, follow the standard Bluetooth setup steps.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Reset Your Phone's Network Settings
@@ -162,17 +162,21 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/updated-from-standard-to-spectacular-the-transformative-power-of-high-dynamic-range/"><u>[Updated] From Standard to Spectacular The Transformative Power of High Dynamic Range</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-mac-users-path-to-professional-audio-with-audacity/"><u>[Updated] Mac Users' Path to Professional Audio with Audacity</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-from-video-to-song-instagrams-mp3-conversion-process/"><u>2024 Approved From Video to Song Instagram's Mp3 Conversion Process</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/swf-wmv-movavi/"><u>網路無限制 SWF 到 WMV 自由轉化 - 利用 Movavi 改編工具</u></a></li>
-<li><a href="https://fox-that.techidaily.com/breaking-down-iphone-14s-battery-problems-what-you-need-to-know-and-how-to-fix-them/"><u>Breaking Down iPhone 14'S Battery Problems - What You Need to Know and How to Fix Them</u></a></li>
-<li><a href="https://fox-that.techidaily.com/diy-solutions-for-an-unresponsive-proximity-sensor-on-your-ios-device/"><u>DIY Solutions for an Unresponsive Proximity Sensor on Your iOS Device</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/expressiveness-enhancing-youtube-comments-via-emojis-for-2024/"><u>Expressiveness Enhancing YouTube Comments via Emojis for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-seamless-video-editing-on-windows-11-platform/"><u>In 2024, Seamless Video Editing on Windows 11 Platform</u></a></li>
-<li><a href="https://fox-that.techidaily.com/iphone-tethering-woes-expert-advice-on-getting-your-personal-hotspot-up-and-running/"><u>IPhone Tethering Woes? Expert Advice on Getting Your Personal Hotspot Up and Running</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/keep-your-viewers-hooked-6-compelling-video-types/"><u>Keep Your Viewers Hooked 6 Compelling Video Types</u></a></li>
-<li><a href="https://fox-search.techidaily.com/ready-to-enhance-your-browsing-experience-uninstall-flipbuilder-toolbar-now/"><u>Ready to Enhance Your Browsing Experience? Uninstall FlipBuilder Toolbar Now!</u></a></li>
-<li><a href="https://fox-that.techidaily.com/trouble-with-icloud-sync-heres-how-you-can-fix-it/"><u>Trouble with iCloud Sync? Here's How You Can Fix It</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-glide-3-face-off-mirage-4-enters/"><u>[Updated] Glide 3 Face-Off Mirage 4 Enters</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-vimeo-unveiled-the-premier-video-platform-for-2024/"><u>[Updated] Vimeo Unveiled The Premier Video Platform for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-mastering-easy-hdr-a-step-by-step-guide/"><u>2024 Approved Mastering Easy HDR A Step-by-Step Guide</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/alexa-integrated-ultra-hd-ready-insignia-ns-43df710na19-fire-tv-edition-an-unbeatable-combination/"><u>Alexa Integrated, Ultra HD Ready Insignia NS-43DF710NA19 Fire TV Edition - An Unbeatable Combination!</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-on-overcoming-gameplay-hiccups-fixing-stutters-and-increasing-fps-in-naraka-bladepoint/"><u>Expert Advice on Overcoming Gameplay Hiccups - Fixing Stutters & Increasing FPS in Naraka: Bladepoint</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-resolve-unprovisioned-sim-card-mm-2-errors-effectively/"><u>How to Resolve Unprovisioned SIM Card MM 2 Errors Effectively</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-no-watermark-no-problem-free-and-paid-solutions-for-filmora/"><u>New No Watermark, No Problem Free and Paid Solutions for Filmora</u></a></li>
+<li><a href="https://fox-that.techidaily.com/no-need-for-itunes-heres-how-you-can-bring-your-iphone-back-from-the-dead/"><u>No Need for iTunes? Here's How You Can Bring Your iPhone Back From the Dead!</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/quick-and-easy-techniques-to-separate-foreground-from-background-in-photos-using-your-iphone/"><u>Quick and Easy Techniques to Separate Foreground From Background in Photos Using Your iPhone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolved-why-arent-my-iphone-contacts-displaying-troubleshooting-steps-inside/"><u>Resolved! Why Aren't My iPhone Contacts Displaying? Troubleshooting Steps Inside</u></a></li>
+<li><a href="https://fox-that.techidaily.com/say-goodbye-to-voicemail-glitches-on-your-iphone-discover-these-9-fixing-techniques/"><u>Say Goodbye to Voicemail Glitches on Your iPhone - Discover These 9 Fixing Techniques!</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/secure-your-investments-expert-tips-on-safeguarding-transactions-in-the-crypto-market-insights-by-yl-computing/"><u>Secure Your Investments: Expert Tips on Safeguarding Transactions in the Crypto Market - Insights by YL Computing</u></a></li>
+<li><a href="https://app-tips.techidaily.com/stepping-up-your-system-a-comprehensive-guide-on-transitioning-from-windows-home-to-professional-insights-and-benefits/"><u>Stepping Up Your System: A Comprehensive Guide on Transitioning From Windows Home to Professional - Insights and Benefits</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unstuck-from-a-dead-iphone-heres-how-no-physical-buttons-needed/"><u>Unstuck From a Dead iPhone? Here's How - No Physical Buttons Needed!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721451904807-unveiling-the-must-have-features-in-ios-153-why-upgrading-is-imperative-right-now/"><u>Unveiling the Must-Have Features in iOS 15.3: Why Upgrading Is Imperative Right Now</u></a></li>
+<li><a href="https://fox-that.techidaily.com/what-to-do-when-an-iphone-app-goes-missing-recovery-techniques-explained/"><u>What to Do When an iPhone App Goes Missing: Recovery Techniques Explained</u></a></li>
 </ul></div>
 

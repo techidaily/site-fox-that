@@ -1,7 +1,7 @@
 ---
 title: Cure Your iPhone's Application Malfunctions with These 10 Tips
-date: 2024-08-03T02:41:48.409Z
-updated: 2024-08-04T02:41:48.409Z
+date: 2025-01-19T17:42:37.044Z
+updated: 2025-01-22T21:10:08.745Z
 tags:
   - iphone
   - apple
@@ -28,11 +28,19 @@ thumbnail: https://thmb.techidaily.com/d47941553c96756e0922bd70e1fb7654903727793
 
 ![iPhone being charged with a MagSafe charger](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/charge-your-iphone-with-a-wireless-charger.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you're playing a multiplayer game with high-quality graphics, yet there's only a battery level of 10 percent left on your iPhone, your app might close abruptly because your device is struggling to provide enough power to support it.
 
  If it's an urgent case, quickly plugging in your iPhone to charge it may temporarily prevent the app from crashing again. However, it's not advisable to frequently charge your iPhone this way.
 
  Heavy usage of your iPhone while charging will likely result in overheating. This might cause your apps to crash all over again. It's also bad practice if you want to [maintain your iPhone's battery health](https://www.makeuseof.com/ways-to-maintain-your-iphones-battery-health/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Close and Relaunch the App
 
@@ -40,25 +48,20 @@ thumbnail: https://thmb.techidaily.com/d47941553c96756e0922bd70e1fb7654903727793
 
  In this case, try exiting the app completely before relaunching it. Access the**App Switcher** , swipe to the opened app, and swipe up to close it. Then, head to your**Home Screen** to relaunch the app.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Update the App
 
  Developers often release app updates to fix bugs and patch other performance issues. When your apps keep crashing on your iPhone, updating them may just be the trick to solving it.
 
  To quickly check whether a specific app has an update, go to the App Store's**Search** tab to find the app. If an update is available, you'll see an**Update** button instead of the usual**Open** button. Tap on it to update the app.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![search tab in iphone app store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/app-store-search.JPEG)
 
 ![type keyword to search for app in iphone app store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/app-store-search-2.JPEG)
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![update instagram in iphone app store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/app-store-search-3.JPEG)
 
 Close
@@ -70,15 +73,13 @@ Close
  Go to**Settings > General > Software Update** to see if an update is available for your device.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Restart Your iPhone
 
  Restarting your iPhone often solves most technical hiccups, including repeated app crashes. The steps to [restart your iPhone](https://www.makeuseof.com/tag/restart-iphone-recovery-mode/) are easy, but it does vary depending on your iPhone model.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 7\. Remove and Reinstall the App
 
  If no app updates are available, another solution is to remove and reinstall the problematic app. Before you do so, remember that this erases all the app's local data on your iPhone. For example, if it's a game app and you did not link your account to other platforms such as Facebook or Google, you will lose all progress.
@@ -86,6 +87,10 @@ Close
  If you're sure you want to proceed, go to the Home Screen, long-press the app, and then tap on**Remove App** to uninstall. Choose**Delete App** to confirm. To reinstall the app, go to the App Store and use the**Search** tab to find the app. Tap the**Cloud** icon to reinstall.
 
 ![reinstall tetris app from iphone app store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/MUO-in-article-image-(1200px-by-600px-21-ratio)-(11).jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  However, if you're facing problems with reinstalling the app, check that you're signed in to the same Apple ID to [restore deleted apps and in-app purchases on your iPhone](https://www.makeuseof.com/how-to-restore-deleted-app-iphone/) properly.
 
@@ -95,23 +100,17 @@ Close
 
  To check your current storage situation, go to**Settings > General > iPhone Storage** to get an overview of which apps are taking up the most space. And if you see any apps you don't use, make sure to remove them.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ![iphone settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/settings-general.JPEG)
 
 ![general settings in iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/settings-general-2.JPEG)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![iphone storage in iphone settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/iphone-storage.JPEG)
 
 Close
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 9\. Reset All Settings
 
@@ -119,16 +118,10 @@ Close
 
  Your iPhone won't delete any data as long as you don't accidentally choose to**Erase All Content and Settings** .
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![general settings in iphone settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/general-3.JPEG)
 
 ![reset iphone in iphone settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/reset-iphone-menu.JPEG)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 ![options to reset iphone settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/reset-iphone-options.JPEG)
 
 Close
@@ -140,11 +133,16 @@ Close
  Therefore, your device's age may be the main culprit when you find that your iPhone apps keep crashing. Consider upgrading to a new model if multiple issues (besides app crashes) are severely impacting the functionality of your iPhone.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## iPhone Apps Still Keep Crashing? Your Device May Not Be the Problem
 
  If you're using a recent iPhone model and have tried all the above solutions, the issue may be the app itself when it keeps closing. Although this is beyond your control, there are still some steps you can take.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Check if an App Update Is in Development
 
@@ -152,15 +150,11 @@ Close
 
  This way, you will know whether or not the developers plan to fix the crashing issue in a future update. And if they are, all you need to do is wait for its release.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![iphone app store icon with red notification badge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/MUO-in-article-image-(1200px-by-600px-21-ratio)-(10).jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Provide Feedback to the App Developer
 
@@ -168,16 +162,10 @@ Close
 
  While it's understandably frustrating that your iPhone app keeps crashing when you want to use it, be polite and constructive in your feedback. Remember that app developers are people, too!
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ### Replace With a Similar App
 
  If you notice that the latest version history of the app was a year or two ago, and its social media hasn't been updated in ages, chances are that the developers are no longer active. So, it's best to head to the App Store to install another app that serves the same purpose to replace your current one.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Get Your iPhone Apps Working Again
 
  If you've had a headache over wondering why your apps keep crashing on your iPhone, we hope our list of fixes has helped you resolve the problem.
@@ -190,8 +178,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -199,4 +185,22 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-the-filmmakers-guide-to-capturing-exceptional-vo-recordings/"><u>[New] 2024 Approved The Filmmaker's Guide to Capturing Exceptional VO Recordings</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-7-key-reddit-techniques-to-elevate-your-startups-brand-visibility/"><u>[Updated] 7 Key Reddit Techniques to Elevate Your Startup's Brand Visibility</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-list-10-best-date-counting-clocks-androidios/"><u>[Updated] The Ultimate List 10 Best Date-Counting Clocks Android/iOS</u></a></li>
+<li><a href="https://fox-that.techidaily.com/end-your-iphones-constant-wi-fi-dropping-problem-with-these-5-techniques/"><u>End Your iPhone's Constant Wi-Fi Dropping Problem with These 5 Techniques</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/tly-slice-your-videos-macs-finest-mp4-applications-for-2024/"><u>Expertly Slice Your Videos Mac's Finest MP4 Applications for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/identifying-moisture-mayhem-9-key-symptoms-of-water-damaged-iphones-revealed/"><u>Identifying Moisture Mayhem: 9 Key Symptoms of Water-Damaged iPhones Revealed</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/investigating-unmodified-audio-from-ffmpeg-output-for-2024/"><u>Investigating Unmodified Audio From FFmpeg Output for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/t-power-up-maximize-youtube-studio-dollars-across-platforms/"><u>Profit Power-Up Maximize YouTube Studio Dollars Across Platforms</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-travel-bookworms-device-a-thorough-analysis-of-the-kobo-clara-hd-e-reader/"><u>The Ultimate Travel Bookworm's Device: A Thorough Analysis of the Kobo Clara HD E-Reader</u></a></li>
+<li><a href="https://fox-that.techidaily.com/tired-of-buffering-on-the-go-discover-10-quick-fixes-to-accelerate-your-mobile-internet-speed/"><u>Tired of Buffering on the Go? Discover 10 Quick Fixes to Accelerate Your Mobile Internet Speed</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-whatsapp-solutions-when-your-chat-history-isnt-syncing-with-icloud/"><u>Troubleshooting WhatsApp: Solutions When Your Chat History Isn't Syncing with iCloud</u></a></li>
+<li><a href="https://fox-that.techidaily.com/ultimate-guide-solving-the-issue-of-non-functional-iphone-torch/"><u>Ultimate Guide: Solving the Issue of Non-Functional iPhone Torch</u></a></li>
+<li><a href="https://fox-that.techidaily.com/understanding-the-key-issues-behind-weak-wi-fi-connectivity-for-smartphones/"><u>Understanding the Key Issues Behind Weak Wi-Fi Connectivity for Smartphones</u></a></li>
+<li><a href="https://fox-that.techidaily.com/why-isnt-my-iphone-syncing-emails-solutions-to-update-your-inbox-efficiently/"><u>Why Isn't My iPhone Syncing Emails? Solutions to Update Your Inbox Efficiently</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/-voices-channeling-lifes-milestinasubscriber-channel-for-impactful-personal-storytelling/"><u>Youth Voices Channeling Life's Milestinasubscriber Channel for Impactful Personal Storytelling.</u></a></li>
+</ul></div>
 

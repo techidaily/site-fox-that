@@ -1,7 +1,7 @@
 ---
 title: IPhone Won't Back Up to iCloud? 9 Fixes to Try
-date: 2024-08-10T03:36:58.533Z
-updated: 2024-08-11T03:36:58.533Z
+date: 2025-01-16T16:02:43.149Z
+updated: 2025-01-22T22:31:10.061Z
 tags:
   - iphone
   - apple
@@ -18,9 +18,17 @@ thumbnail: https://thmb.techidaily.com/d6c8d5c25a5b3ae8109b2957c3f404be919cf133b
 
  Irrespective of the exact cause, you don't have to do anything too complicated to get your iPhone backing up to iCloud again. You just need to work out what the problem is first, and we're here to help.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Check Your iCloud Settings
 
 ![Settings page for iCloud](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2019/03/appleid_settings.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![iCloud Backup slider](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2019/03/icloud_backup_slider.png)
 
@@ -42,18 +50,13 @@ To switch on iCloud backups, you should do the following:
  By doing this, you'll switch automatic iCloud backups on. As such, you can now back up your iPhone simply by plugging it into a power source and connecting it to Wi-Fi. You also have to make sure that your iPhone is locked.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Check Your Wi-Fi Connection
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![iPhone Settings page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2019/03/iphone_settings-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Switching on the iPhone's Wi-Fi](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2019/03/wifi_settings.png)
 
 ![Joining a Wi-Fi network](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2019/03/wifi_network_selection.png)
@@ -81,17 +84,12 @@ Close
 
 ## 4\. Make Sure You Have Enough iCloud Storage
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ![iCloud Storage settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2019/03/icloud_storage.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Delete confirmation prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2019/03/delete_confirmation.png)
 
 Close
@@ -109,13 +107,6 @@ Here's how to check how much space you have left:
 
  Once on the iCloud Storage page, you might see that you've used up all 5GB of your allotted space. If so, you'll need to take one of two actions.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ### Making More iCloud Space
 
  First, you could delete old backed-up data. This could be for your iPhone itself, or from one of your apps. Deleting your iPhone backup will likely free up the most space. However, if you delete it and then make a new backup, you'll probably run into the same storage problems again. As such, it's better to delete the backups of app-related data.
@@ -128,12 +119,13 @@ This is what you should do:
 
  Secondly, instead of deleting backups, you could upgrade your iCloud storage plan for a few dollars per month. In many cases, this small fee is worth it to avoid the hassle of juggling your space. To do this, you should tap**Upgrade** on the iCloud Storage page. We've looked at [ways to use your iCloud storage](https://www.makeuseof.com/tag/spare-icloud-storage-uses/) if you wonder what to do with all that newfound space.
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Check iCloud Status
 
 ![Apple System Status webpage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2019/03/apple_system_status.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Believe it or not, Apple's iCloud servers can sometimes go down. This means that no matter what you do you won't be able to back up your iPhone to iCloud.
 
@@ -141,9 +133,6 @@ This is what you should do:
 
  Here, look for**iCloud Backup** . If you see a green light next to it, everything is working as it should. In other words, your backup issue is due to a problem on your end.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## 6\. Sign Out of iCloud
 
  You can sometimes solve iPhone backup issues by signing out of your iCloud account, then signing back in. This solves problems related to verification issues.
@@ -177,9 +166,6 @@ If you have an iPhone 8 or earlier, the process is a bit different:
 2. Swipe right on the power off slider.
 3. After shutdown, hold the**Side button** until the Apple logo appears.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ## 8\. Reset Settings
 
  If a restart doesn't fix your iPhone backup problems, you should try resetting all settings. This won't erase your data, but it will erase preferences like your saved Wi-Fi passwords and all phone settings.
@@ -191,14 +177,19 @@ If you have an iPhone 8 or earlier, the process is a bit different:
 3. Scroll down and press**Reset** .
 4. Select**Reset Settings** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## 9\. Update iOS
 
 ![iPhone General settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2019/03/iphone_general_settings.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![iPhone Software Update screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2019/03/software_update.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![Enter password screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2019/03/iphone_password_screen.png)
 
@@ -215,6 +206,10 @@ Here's how you can update:
 5. If an update is available, tap**Download and Install** .
 6. If prompted, enter your passcode.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## General iPhone Maintenance Tips
 
  At least one of the steps above should be enough to help you when your iPhone won't back up to iCloud.
@@ -227,8 +222,6 @@ Here's how you can update:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -236,6 +229,26 @@ Here's how you can update:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-guidelines-for-successful-twilight-photo-shoots/"><u>[Updated] In 2024, Guidelines for Successful Twilight Photo Shoots</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/cookiebot-integration-enhance-marketing-efforts-and-drive-sales-successfully/"><u>Cookiebot Integration: Enhance Marketing Efforts and Drive Sales Successfully</u></a></li>
+<li><a href="https://win-blog.techidaily.com/crash-no-more-expert-fixes-to-the-infamous-tales-of-arise-hiccups/"><u>Crash No More: Expert Fixes to the Infamous Tales of Arise Hiccups</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/easy-guide-how-to-bypass-tecno-phantom-v-flip-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Tecno Phantom V Flip FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://fox-that.techidaily.com/enhance-mobile-usability-with-these-8-iphone-adjustments-tailored-for-people-with-low-vision/"><u>Enhance Mobile Usability with These 8 iPhone Adjustments Tailored for People With Low Vision</u></a></li>
+<li><a href="https://driver-download.techidaily.com/find-and-install-compatible-mouse-drivers-for-windows-7-systems/"><u>Find and Install Compatible Mouse Drivers for Windows 7 Systems</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fix-the-gap-receiving-messages-on-iphone-from-android-phones-made-simple/"><u>Fix the Gap: Receiving Messages on iPhone From Android Phones Made Simple</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-incessant-load-solutions-for-overcoming-red-dead-redemption-2-freeze/"><u>Fixing the Incessant Load: Solutions for Overcoming Red Dead Redemption 2 Freeze</u></a></li>
+<li><a href="https://fox-that.techidaily.com/guide-to-address-random-internet-visits-appearing-under-iphone-usage-screen-time/"><u>Guide to Address Random Internet Visits Appearing Under iPhone Usage Screen Time</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-photos-from-nokia-g310-by-fonelab-android-recover-photos/"><u>How to Rescue Lost Photos from Nokia G310?</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your OnePlus Ace 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-honor-x50-gt-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Honor X50 GT Phone without Google Account?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphoneipad-update-troubles-try-these-9-proven-techniques/"><u>IPhone/iPad Update Troubles? Try These 9 Proven Techniques</u></a></li>
+<li><a href="https://fox-that.techidaily.com/locating-hidden-appointments-in-your-ios-calendar-application/"><u>Locating Hidden Appointments in Your iOS Calendar Application</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-avs-video-editor-2023-is-it-worth-the-hype/"><u>New In 2024, AVS Video Editor 2023 Is It Worth the Hype?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/the-ultimate-guide-to-finding-and-restoring-lost-notes-on-your-iphones/"><u>The Ultimate Guide to Finding and Restoring Lost Notes on Your iPhones</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-a-lagging-iphone-top-6-causes-and-remedies/"><u>Troubleshooting a Lagging iPhone: Top 6 Causes & Remedies</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-tips-to-stop-spotify-crashes-when-your-iphone-is-locked/"><u>Troubleshooting Tips to Stop Spotify Crashes When Your iPhone Is Locked</u></a></li>
+<li><a href="https://fox-that.techidaily.com/why-wont-my-iphone-screen-work-discover-the-7-most-common-issues-and-fixes/"><u>Why Won't My iPhone Screen Work? Discover the 7 Most Common Issues and Fixes</u></a></li>
+</ul></div>
 

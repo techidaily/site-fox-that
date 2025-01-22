@@ -1,7 +1,7 @@
 ---
 title: How to Fix Your iPhone When It Refuses to Change Orientation - Landscape Tips Included!
-date: 2024-08-03T02:42:05.261Z
-updated: 2024-08-04T02:42:05.261Z
+date: 2025-01-16T18:34:24.173Z
+updated: 2025-01-22T18:16:19.085Z
 tags:
   - iphone
   - apple
@@ -22,9 +22,6 @@ thumbnail: https://thmb.techidaily.com/e24af9d0b47d7bf3dcde61ab73ef441dcda155d4e
 
  Remember, although all the methods below will let you change the screen orientation on an iPhone, your phone should theoretically adjust itself whenever you physically rotate it. If it doesn't, here are a few troubleshooting tips to try:
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 1\. Check the Portrait Orientation Lock
 
  Are you sure that you haven't accidentally enabled the Portrait Orientation Lock? You'll find this toggle in the Control Center, which many iPhone users accidentally enable but realize much later when landscape mode isn't working.
@@ -34,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/e24af9d0b47d7bf3dcde61ab73ef441dcda155d4e
  Here, tap on the Portrait Orientation Lock toggle (which looks like a lock with a circular arrow) to turn it on or off. The lock will remain in place until you disable it again.
 
 ![iphone portrait lock](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/iphone-portrait-lock.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Toggle Display Zoom
 
@@ -50,20 +51,16 @@ thumbnail: https://thmb.techidaily.com/e24af9d0b47d7bf3dcde61ab73ef441dcda155d4e
 
 ![Display Zoom Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/Display-Zoom-Screenshot.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Close
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Force Landscape Mode Using AssistiveTouch
 
  You can use AssistiveTouch, an iOS feature that comes in handy [when your iPhone's Home button isn't working](https://www.makeuseof.com/tag/iphone-home-button-working-fix/) , to force rotate your iPhone's screen into landscape mode, even if you're using the device in portrait mode. This is the only built-in way to force-rotate your iPhone screen.
@@ -76,18 +73,20 @@ Close
 4. Tap one of the three options (**Single Tap** ,**Double Tap** , or**Long Press**) and set it to**Open Menu** .
 5. Return to your iPhone's Home Screen.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Settings Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/Settings-Screenshot.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![Accessibility Settings Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/Accessibility-Settings-Screenshot.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![AssistiveTouch Settings Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/AssistiveTouch-Settings-Screenshot.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![AssistiveTouch Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/AssistiveTouch-Screenshot.jpg)
 
 Close
@@ -100,19 +99,17 @@ Close
 
  The force rotate feature will not work on apps that do not support landscape view. Only the iPhone 6 Plus, 6S Plus, 7 Plus, and 8 Plus can rotate the iOS Home Screen. Therefore, there's no possibility of a landscape Home Screen on iPhone X or later, likely due to the Face ID camera position.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Use a Video Rotation App
 
  One of the main reasons people want to rotate the screen on their iPhones is to watch videos in the correct format. Of course, videos are naturally better in landscape mode, but the nature of smartphones means many people record their videos in portrait instead.
 
  It's easy to rotate videos from the**Edit** option in the**Photos** app on your iPhone. But not everyone keeps their videos in this app. Thankfully, some third-party apps on the App Store allow you to rotate your iPhone videos from portrait to landscape and vice-versa. One of the best video rotation apps on iOS is Video Rotate + Flip. It's free to use with ads, which you can remove with a one-time fee of .99 cents.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Screenshot of the Video Rotate + Flip app on the App Store.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/07/Video-Rotate-Screenshot.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once you've converted your video from portrait to landscape in the app, it will export a copy to your iPhone's Camera Roll. You can force-rotate videos of any length, and the app does not leave watermarks. It also works with videos in your Files app or those you download from Google Drive.
 
@@ -120,10 +117,6 @@ Close
 
 **Download:** [Video Rotate + Flip](https://apps.apple.com/app/video-rotate-flip-video-easy/id1071677375?platform=iphone) (Free, premium version available)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ## Is Your iPhone's Accelerometer Broken?
 
  If you've checked all the solutions above but still can't rotate your iPhone into landscape mode, it's possible your iPhone has a broken accelerometer. The accelerometer is what tells your device that it's been rotated and then rotates the screen to match.
@@ -134,10 +127,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
  If your iPhone is covered by Apple's one-year limited warranty or you [pay for AppleCare+](https://www.makeuseof.com/reasons-to-purchase-applecare-for-mac/) , you can get its accelerometer repaired for free.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 ## Is There Any Other Way to Rotate Your iPhone Screen?
 
  Unfortunately, there is no other way to rotate your iPhone screen into landscape mode. This is Apple's choice, as it discontinued landscape mode on several devices.
@@ -152,8 +141,6 @@ The ultimate burning program for all your needs!</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -161,4 +148,24 @@ The ultimate burning program for all your needs!</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-first-contact-with-freight-elevating-the-opening-moment/"><u>[New] 2024 Approved First Contact with Freight Elevating the Opening Moment</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-elevate-your-ppt-game-with-clear-concise-voiceover-techniques/"><u>[New] Elevate Your PPT Game with Clear, Concise Voiceover Techniques</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-mastering-the-deck-to-deck-experience-with-durecorder/"><u>[Updated] Mastering the Deck-to-Deck Experience with DuRecorder</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/easy-conversion-from-sbv-to-srtxmlvtt-a-comprehensive-guide-for-your-youtube-closed-captions/"><u>Easy Conversion From SBV to SRT/XML/VTT: A Comprehensive Guide for Your YouTube Closed Captions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fix-misnamed-faces-on-your-macbook-pro-using-simple-steps-learn-how-now/"><u>Fix Misnamed Faces on Your MacBook Pro Using Simple Steps – Learn How Now!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-the-overzoomed-lens-clear-images-on-whatsapp-now/"><u>Fixing the Overzoomed Lens: Clear Images on WhatsApp Now!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-california-drivers-can-link-their-licenses-to-apple-and-google-wallets-step-by-step-guide/"><u>How California Drivers Can Link Their Licenses to Apple and Google Wallets: Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-stop-your-iphones-persistent-wi-fi-dropping-issues-a-5-step-guide/"><u>How To Stop Your iPhone's Persistent Wi-Fi Dropping Issues – A 5 Step Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-successfully-connect-to-vpn-using-your-iphone-7-helpful-tips-and-tricks/"><u>How to Successfully Connect to VPN Using Your iPhone: 7 Helpful Tips & Tricks</u></a></li>
+<li><a href="https://fox-that.techidaily.com/icloud-not-updating-expert-tips-and-tricks-to-correct-your-data-synchronization-woes/"><u>ICloud Not Updating? Expert Tips & Tricks to Correct Your Data Synchronization Woes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/mastering-ipad-recovery-mode-setup-a-comprehensive-tutorial/"><u>Mastering iPad Recovery Mode Setup - A Comprehensive Tutorial</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-rated-network-attached-storage-devices-for-media-management-and-playback/"><u>Top-Rated Network Attached Storage Devices for Media Management and Playback</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-how-to-resolve-when-itunes-and-finder-fail-to-detect-your-iphone/"><u>Troubleshooting: How To Resolve When iTunes & Finder Fail To Detect Your iPhone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ultimate-strategies-to-enhance-your-notes-using-chatgpt/"><u>Ultimate Strategies to Enhance Your Notes Using ChatGPT</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/ultimate-tips-for-fast-and-efficient-avchd-to-avi-video-transformation/"><u>Ultimate Tips for Fast and Efficient AVCHD to AVI Video Transformation</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unstick-your-iphone-from-endless-headphones-setting-with-these-8-fixes/"><u>Unstick Your iPhone From Endless Headphones Setting With These 8 Fixes</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/windowsmac-accessing-srt-files-for-2024/"><u>Windows/Mac Accessing SRT Files for 2024</u></a></li>
+</ul></div>
 

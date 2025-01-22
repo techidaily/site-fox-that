@@ -1,7 +1,7 @@
 ---
 title: Can't Use ChatGPT on iPhone? Here Are 9 Fixes to Get It Up and Running Again
-date: 2024-08-03T02:40:47.977Z
-updated: 2024-08-04T02:40:47.977Z
+date: 2025-01-20T19:28:48.957Z
+updated: 2025-01-22T19:07:34.700Z
 tags:
   - iphone
   - apple
@@ -14,9 +14,6 @@ thumbnail: https://thmb.techidaily.com/bd283f525b3e6f9ab0f82e7d532a7dcceb86337b9
 
 ## Can't Use ChatGPT on iPhone? Here Are 9 Fixes to Get It Up and Running Again
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Check your internet connection: A stable Wi-Fi or cellular connection is crucial for the ChatGPT app to work. Verify your connection and try reconnecting if necessary.
@@ -27,9 +24,6 @@ thumbnail: https://thmb.techidaily.com/bd283f525b3e6f9ab0f82e7d532a7dcceb86337b9
 
  However, we've compiled a list of effective troubleshooting solutions to restore your app's functionality in case of a problem. You can easily try them all out and have your ChatGPT app back up on its feet in no time.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## 1\. Verify Your iPhone's Internet Connection
 
  It is essential for your iPhone to have a stable Wi-Fi or cellular connection for the ChatGPT app to work. If you do not have one, your prompts will not be received or replied to.
@@ -44,9 +38,6 @@ Close
 
  If you do have a strong internet connection, but it doesn't seem to be working on your device, you can try reconnecting to the network by entering the Wi-Fi password again or disabling and re-enabling cellular data from the Control Center.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Ensure All Permissions Are Enabled
 
  The ChatGPT app requires your permission to run certain features on your iPhone for optimum performance. For example, if the voice input feature isn't working, it may be because you haven't allowed microphone access for the app. To make sure all permissions are enabled, follow these steps:
@@ -55,29 +46,23 @@ Close
 2. Scroll down until you find**ChatGPT** from the list of apps and tap to open.
 3. Turn on the toggle for**Microphone** ,**Mobile Data** , and all the toggles under**Siri & Search** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ChatGPT app in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-app-in-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ChatGPT app permissions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-app-permissions.jpg)
 
 Close
 
  If you don't see the option for**Mobile Data** here, you can go to**Settings** , tap**Mobile Data** and then turn on the toggle for**ChatGPT** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![mobile data in settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/mobile-data-in-settings.jpg)
 
 ![mobile data toggle on for ChatGPT app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/mobile-data-toggle-on-for-chatgpt-app.jpg)
 
 Close
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Ensure Sufficient iPhone Storage Space
 
@@ -88,19 +73,25 @@ Close
 ![software update, iPhone storage, and background app refresh options in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/software-update-and-iphone-storage-options-in-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![iPhone storage details](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-storage-details.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![system data and app storage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/system-data-and-app-storage.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
  If you're unsure how to do this, you can learn [how to create free space on iOS](https://www.makeuseof.com/tag/iphone-storage-full-create-free-space-ios/) if your iPhone's storage is full.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Disconnect VPN
 
  VPNs are great tools for online privacy, but they can potentially interfere with connections to the server. Many apps have a hard time maintaining a stable connection or syncing data with VPNs, especially if the service is having a slow day, and ChatGPT can be one of them.
@@ -117,12 +108,12 @@ Close
 
 ![search for ChatGPT app in app store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/search-for-chatgpt-app-in-app-store.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![ChatGPT app in app store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-app-in-app-store.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ![open ChatGPT app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/open-chatgpt-app.jpg)
 
 Close
@@ -143,10 +134,11 @@ To delete an app from your iPhone, follow these steps:
 
 ![delete app pop-up](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/delete-app-pop-up.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![confirm deleting ChatGPT app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/confirm-deleting-chatgpt-app.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -163,29 +155,25 @@ Close
 ![general and accessibility in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/general-and-accessibility-in-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![software update, iPhone storage, and background app refresh options in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/software-update-and-iphone-storage-options-in-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ![iOS updated](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/ios-updated.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 8\. Restart Your iPhone
 
  No list of troubleshooting fixes is complete without the mention of the tried and tested restart technique. Restarting your iPhone is equivalent to taking a power nap for a quick boost.
 
  The steps to restart your iPhone vary according to the model of your iPhone, but you can find out [how to restart any iPhone, even if the buttons are broken](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) .
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ## 9\. Reach Out to ChatGPT Support
 
  If you can't figure out the problem yourself, leave it to the professionals to do it for you. They know all the inner workings of the app, and they'll figure out what's wrong.
@@ -198,16 +186,21 @@ To contact ChatGPT support, follow these steps:
 4. A list of FAQ's and related articles will open up. If you still don't find what you're looking for, tap on the chat icon in the bottom-right corner.
 5. Tap on**Send us a message** and begin your query.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![help center in ChatGPT app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/help-center-in-chatgpt-app.jpg)
 
 ![chat icon in ChatGPT app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chat-icon-in-chatgpt-app.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![send us a message option in ChatGPT app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/send-us-a-message-option-in-chatgpt-app.jpg)
 
 Close
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Resolving Your ChatGPT Issues
 
@@ -221,8 +214,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -230,4 +221,20 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/ssential-quick-steps-for-effective-double-take-filming/"><u>[New] Essential Quick Steps for Effective Double Take Filming</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-asmr-sound-mastery-selecting-the-ideal-microphone-for-2024/"><u>[Updated] ASMR Sound Mastery Selecting the Ideal Microphone for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-prime-business-sky-storage-choice/"><u>2024 Approved Prime Business Sky-Storage Choice</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-step-by-step-methods-for-amassing-tiktok-videos/"><u>2024 Approved Step-by-Step Methods for Amassing TikTok Videos</u></a></li>
+<li><a href="https://fox-that.techidaily.com/battling-connection-issues-discover-7-ways-to-fix-your-iphones-failed-attempt-at-joining-a-vpn/"><u>Battling Connection Issues? Discover 7 Ways to Fix Your iPhone's Failed Attempt at Joining a VPN</u></a></li>
+<li><a href="https://fox-that.techidaily.com/error-4013-on-iphone-troubleshooting-and-solutions-for-successful-updates/"><u>Error 4013 on iPhone - Troubleshooting and Solutions for Successful Updates</u></a></li>
+<li><a href="https://fox-that.techidaily.com/experiencing-disconnection-problems-between-your-airpods-and-iphone-discover-11-quick-fixes/"><u>Experiencing Disconnection Problems Between Your AirPods and iPhone? Discover 11 Quick Fixes!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-iphone-contacts-problems-top-3-strategies-that-work/"><u>Fixing iPhone Contacts Problems – Top 3 Strategies That Work!</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/imovie-alternative-for-mac-advanced-video-editor-for-2024/"><u>IMovie Alternative for Mac Advanced Video Editor for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-crystal-clear-playback-top-5-ultra-hd-gaming-displays-with-hdmi-21-ps5/"><u>In 2024, Crystal Clear Playback Top 5 Ultra HD Gaming Displays with HDMI 2.1 [PS5]</u></a></li>
+<li><a href="https://fox-that.techidaily.com/lost-airpods-here-are-11-ways-to-spot-them-on-your-iphones-find-my/"><u>Lost AirPods? Here Are 11 Ways to Spot Them on Your iPhone's 'Find My'</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-honor-x50iplus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Honor X50i+ | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/stuck-with-an-outdated-ios-discover-9-effective-fixes-for-failed-apple-updates/"><u>Stuck with an Outdated iOS? Discover 9 Effective Fixes for Failed Apple Updates</u></a></li>
+</ul></div>
 

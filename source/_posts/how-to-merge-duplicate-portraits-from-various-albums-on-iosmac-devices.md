@@ -1,7 +1,7 @@
 ---
 title: How to Merge Duplicate Portraits From Various Albums on iOS/Mac Devices
-date: 2025-01-09T16:19:07.493Z
-updated: 2025-01-16T17:59:24.473Z
+date: 2025-01-19T19:37:27.751Z
+updated: 2025-01-22T17:29:35.030Z
 tags:
   - iphone
   - apple
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/1ed4f091728645649c840ae907d2be87aba494a53
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Merge Multiple People in Photos on an iPhone or iPad
 
  Luckily, it's easy to fix duplicate people albums in Photos by merging them together. You can even merge People albums for totally different people into one, if you want to create one album for your entire family or group of friends. Follow these steps to merge different People albums into one on an iPhone or iPad:
@@ -41,7 +37,7 @@ thumbnail: https://thmb.techidaily.com/1ed4f091728645649c840ae907d2be87aba494a53
 ![select icon in top right](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/select-icon-in-top-right.PNG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![select profiles](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/select-profiles.PNG)
@@ -49,7 +45,7 @@ thumbnail: https://thmb.techidaily.com/1ed4f091728645649c840ae907d2be87aba494a53
 ![merge people albums](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/merge-people-albums.PNG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Close
@@ -57,7 +53,7 @@ Close
  Related:[Tips That Will Help You Master the People Album in Photos](https://www.makeuseof.com/tips-to-master-people-album-photos-iphone/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Merge Multiple People in Photos on a Mac
@@ -75,10 +71,14 @@ Close
 ![Merge 2 People option in Photos app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/Merge-2-People-option-in-Photos-app.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Read More:[Ways to Fix iCloud Photos Not Syncing on Your Mac](http://www.makeuseof.com/how-to-fix-icloud-photos-not-syncing-mac/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Sort Through Your Photos by People
 
@@ -101,17 +101,24 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-record-and-share-every-victory-in-obs/"><u>[New] In 2024, Record & Share Every Victory in OBS</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-effortlessly-journey-to-your-custom-designed-music-library-on-youtube/"><u>[Updated] 2024 Approved Effortlessly Journey to Your Custom-Designed Music Library on Youtube</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-unlock-professional-vimeo-edits-without-paid-software/"><u>[Updated] In 2024, Unlock Professional Vimeo Edits Without Paid Software</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/facebook-lightened-up-heres-how-to-switch-back-to-dark-mode/"><u>Facebook Lightened Up? Here’s How to Switch Back to Dark Mode!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fortnite-video-memory-problem-now-fixed/"><u>Fortnite Video Memory Problem - Now Fixed!</u></a></li>
-<li><a href="https://howto.techidaily.com/htc-u23-pro-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>HTC U23 Pro Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/minecraft-performance-optimization-overcoming-freeze-frames-update-2ebytes/"><u>Minecraft Performance Optimization: Overcoming Freeze Frames, Update 2Ebytes</u></a></li>
-<li><a href="https://fox-that.techidaily.com/struggling-with-invisible-iphone-app-icons-successful-strategies-to-solve-the-issue-await-you/"><u>Struggling with Invisible iPhone App Icons? Successful Strategies to Solve the Issue Await You</u></a></li>
-<li><a href="https://fox-that.techidaily.com/tired-of-sluggish-mobile-internet-speeds-discover-the-secret-formula-for-rapid-improvement-with-our-10-step-plan/"><u>Tired of Sluggish Mobile Internet Speeds? Discover the Secret Formula for Rapid Improvement with Our 10-Step Plan</u></a></li>
-<li><a href="https://fox-that.techidaily.com/trouble-with-airpods-and-iphone-connections-here-are-nine-fixes-to-restore-seamless-interaction/"><u>Trouble With AirPods and iPhone Connections? Here Are Nine Fixes to Restore Seamless Interaction</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-why-does-the-visual-look-up-feature-fail-on-your-iphone/"><u>Troubleshooting: Why Does the Visual Look Up Feature Fail on Your iPhone?</u></a></li>
-<li><a href="https://fox-that.techidaily.com/unstuck-the-qr-code-scanning-on-your-iphone-try-these-10-fixes/"><u>Unstuck the QR Code Scanning on Your iPhone? Try These 10 Fixes!</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/levate-engagement-discover-these-top-12-techniques-for-video-success-for-2024/"><u>[New] Elevate Engagement - Discover These Top 12 Techniques for Video Success for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-optimizing-hashtag-performance-on-facebook-ads/"><u>[Updated] 2024 Approved Optimizing Hashtag Performance on Facebook Ads</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-exploring-options-a-treasure-hunt-for-your-tiktok-symbol/"><u>[Updated] In 2024, Exploring Options A Treasure Hunt for Your TikTok Symbol</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-distortion-dialogue-expert-tips-for-text-alteration/"><u>2024 Approved Distortion Dialogue Expert Tips for Text Alteration</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/canon-g9-x-mark-ii-review-a-blend-of-old-and-new/"><u>Canon G9 X Mark II Review – A Blend of Old & New</u></a></li>
+<li><a href="https://fox-that.techidaily.com/face-id-malfunction-on-iphone-find-relief-through-this-comprehensive-guide-of-14-fixes/"><u>Face ID Malfunction on iPhone: Find Relief Through This Comprehensive Guide of 14 Fixes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixes-and-solutions-stop-battlefield-v-from-freezing-or-crashing-on-your-computer/"><u>Fixes & Solutions: Stop Battlefield V From Freezing or Crashing on Your Computer</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-realme-c33-2023-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Realme C33 2023 Without Password | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-retrieve-deleted-facetime-photographs-from-apple-devices/"><u>How to Retrieve Deleted FaceTime Photographs From Apple Devices</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721472554259-how-to-triumph-over-slow-mobile-data-unlock-expert-secrets-and-turbocharge-your-speed-in-only-n-steps/"><u>How to Triumph Over Slow Mobile Data: Unlock Expert Secrets and Turbocharge Your Speed in Only N Steps!</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-seamlessly-enhancing-content-learn-video-filter-techniques-on-pcmobile/"><u>In 2024, Seamlessly Enhancing Content Learn Video Filter Techniques on PC/Mobile</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-screen-malfunction-here-are-proven-fixes/"><u>IPhone Screen Malfunction? Here Are Proven Fixes!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-the-art-of-mobile-photography-with-your-iphone-or-ipad/"><u>Mastering the Art of Mobile Photography with Your iPhone or iPad</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-common-challenges-with-iphone-guided-access-functionality/"><u>Overcoming Common Challenges with iPhone Guided Access Functionality</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/review-of-the-elgato-game-capture-neo-the-ultimate-straightforward-solution-for-gaming-footage/"><u>Review of the Elgato Game Capture Neo: The Ultimate, Straightforward Solution for Gaming Footage</u></a></li>
+<li><a href="https://fox-that.techidaily.com/reviving-your-iphone-overcoming-limited-access-when-sos-is-displayed-on-the-status-bar/"><u>Reviving Your iPhone: Overcoming Limited Access when SOS Is Displayed on the Status Bar</u></a></li>
+<li><a href="https://fox-that.techidaily.com/secure-your-device-today-discover-why-ios-153-is-a-must-have-update/"><u>Secure Your Device Today: Discover Why iOS 15.3 Is a Must-Have Update</u></a></li>
+<li><a href="https://fox-that.techidaily.com/six-secrets-to-overcoming-iphone-typing-errors-and-enhancing-autocorrect-functionality/"><u>Six Secrets to Overcoming iPhone Typing Errors and Enhancing AutoCorrect Functionality</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solve-your-iphones-facial-recognition-problem-with-these-14-proven-techniques/"><u>Solve Your iPhone's Facial Recognition Problem with These 14 Proven Techniques</u></a></li>
 </ul></div>
 

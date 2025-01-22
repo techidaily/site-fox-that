@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Failed iMessages: Solutions for iPhone Users"
-date: 2024-08-10T03:35:46.938Z
-updated: 2024-08-11T03:35:46.938Z
+date: 2025-01-21T17:41:49.276Z
+updated: 2025-01-22T23:15:26.731Z
 tags:
   - iphone
   - apple
@@ -26,9 +26,6 @@ thumbnail: https://thmb.techidaily.com/46bc9e67353768ac792e1534a64f3c2875130c736
 
  Not everyone has this feature activated either. You can toggle read receipts for yourself by going to**Settings > Messages > Send Read Receipts** , where you can turn this function on or off. In fact, this subsection of Settings is essential if you have issues with iMessage.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Why Does iMessage Say "Delivered" When It's Not?
 
  Sometimes, a message will say it's Delivered, but the recipient will insist they never got it. Don't automatically think they're lying: there are many reasons this might happen. It could be a quirk of iMessage, but it could also be that the message was delivered to another device.
@@ -53,6 +50,10 @@ So, what does it mean when an iMessage doesn't say Delivered?
 
  It's tough to narrow down why iMessages won't deliver without some trial and error. One of the following solutions should work. You may have to try them all to get to the bottom of the problem.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Do You Both Have Internet Access?
 
  The obvious reason your message won't deliver is because the recipient has no service. iMessage relies on an internet connection, so if no Wi-Fi or cellular data is available, it won't appear until their phone is connected. This is a particular concern in rural or underground areas without free online access, or if the recipient is on vacation.
@@ -61,25 +62,24 @@ So, what does it mean when an iMessage doesn't say Delivered?
 
  Review the options at**Settings > Cellular** (or**Mobile Data**) if you're relying on roaming. If you do have service, you'll simply have to wait until the recipient connects too.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Do You Have iMessage Turned On?
 
 ![iphone imessages won't deliver if this is turned off](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/03/iMessages-off.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![turn imessages on if texts won't deliver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/03/iMessage.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
  This could be a quick fix to your problem that's easy to overlook. Navigate to**Settings > Messages** .[iMessage should already be turned on](https://www.makeuseof.com/how-to-activate-imessage/) ; if not, alter this now. Even if iMessage is already on, it's worth toggling off then back on again. Wait a few moments while it reactivates.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Send as SMS Instead of iMessage
 
  If the person you're contacting doesn't have an Apple product, iMessage won't work. You need to rely on SMS to send to Android devices, for example. In these instances, your messages will say Sent as Text Message, not Delivered, and appear in green bubbles.
@@ -108,7 +108,15 @@ Close
 
 ![iphone cell number and email address](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/03/iMessage-send-and-receive.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![send and receive from phone number and email address](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/03/Apple-ID.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -116,9 +124,6 @@ Close
 
  To add an email address, go to**Contacts** , select a name, and choose**Edit** .
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Should You Delete Previous Messages?
 
  Have you ever tried sending an email that was too large? It stays in your outbox, attempting to send again and again. Eventually, you have to give up and delete it. That's what you should try here too. This primarily applies when iMessages won't deliver to only one or two contacts.
@@ -130,17 +135,15 @@ Close
 ![hold sms imessage to delete](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/03/text-options.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![mass delete sms imessages](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/03/select-text-messages.jpg)
 
 Close
 
  There could be just one message causing the issue, so this clears the backlog and lets you try again.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Swap Your SIM Card
 
  SIM cards are fickle; it's possible yours has decided it doesn't like a particular number. Head to the store of your service provider if you've exhausted everything else.
@@ -149,14 +152,15 @@ Close
 
  They'll activate a new SIM and you'll have to wait until your old one has no service before swapping to the new card. Transferring between SIMs can take up to 24 hours. From personal experience, it rarely takes longer than an hour before carrier settings are restored.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Reset All Settings
 
  This should really be your last resort because you'll need to sign into accounts and set up network settings like Wi-Fi and VPNs again. Most importantly,**this does not delete your data** .
 
  Go to**Settings > General > Reset > Reset All Settings** —careful you don't select anything else, as there's also the option to erase everything. You may need to sign back into your Apple ID afterwards. This should patch any Settings-related glitches, so it's worth remembering in case you have further issues with your iPhone.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## iMessage Won't Deliver: Is My Phone Number Blocked?
 
@@ -165,8 +169,9 @@ Close
  This thought will trouble you, but if you can contact that person elsewhere (on Facebook, Twitter, or Snapchat, for example), then they're unlikely to have blocked your phone number.
 
 <!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Why Is My iMessage Still Not Delivering?
 
  If you've tried everything above and iMessage still won't deliver, there are further possibilities to entertain. The first is that there's nothing wrong with your phone; the problem is with the recipient's device. This is likely if messages to your other contacts are delivered correctly, although that's not always the case.
@@ -179,8 +184,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -188,6 +191,21 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-getting-fcp-on-the-house-simple-steps/"><u>[Updated] In 2024, Getting FCP on the House - Simple Steps</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-leading-8-digital-image-composition-tool-for-2024/"><u>[Updated] Leading 8 Digital Image Composition Tool for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-seamlessiphonedesktop-video-editing-top-8-software-recommendations/"><u>2024 Approved SeamlessiPhone/Desktop Video Editing Top 8 Software Recommendations</u></a></li>
+<li><a href="https://fox-that.techidaily.com/balancing-your-earbuds-understand-why-an-airpods-volume-may-vary-and-solutions/"><u>Balancing Your Earbuds: Understand Why an AirPod's Volume May Vary and Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-fix-a-broken-proximity-sensor-on-your-iphone/"><u>How to Fix a Broken Proximity Sensor on Your iPhone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-samsung-galaxy-a05-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On Samsung Galaxy A05 | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-overcome-lack-of-support-for-iphone-accessories-expert-hacks/"><u>How to Overcome Lack of Support for iPhone Accessories: Expert Hacks</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-overcome-the-major-challenges-of-using-your-iphone-a-comprehensive-guide/"><u>How to Overcome the Major Challenges of Using Your iPhone Ⅻ – A Comprehensive Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-pdf-v14-document-with-digital-signature-app-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>How to sign a PDF v1.4 document with digital signature app</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-crafting-the-perfect-gaming-channel-header/"><u>In 2024, Crafting the Perfect Gaming Channel Header</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-evolution-from-rgb-to-srgb-in-graphic-media/"><u>In 2024, The Evolution From RGB to Srgb in Graphic Media</u></a></li>
+<li><a href="https://fox-that.techidaily.com/navigating-apples-virtual-hardware-evaluation-for-your-iphone-device/"><u>Navigating Apple's Virtual Hardware Evaluation for Your iPhone Device</u></a></li>
+<li><a href="https://facebook.techidaily.com/outsmarting-elite-social-schemes-with-tactics/"><u>Outsmarting Elite Social Schemes with Tactics</u></a></li>
+<li><a href="https://fox-that.techidaily.com/streamline-your-experience-top-eight-tips-to-enable-auto-switching-on-airpods-for-multiple-apple-devices/"><u>Streamline Your Experience - Top Eight Tips to Enable Auto-Switching on AirPods for Multiple Apple Devices</u></a></li>
+</ul></div>
 

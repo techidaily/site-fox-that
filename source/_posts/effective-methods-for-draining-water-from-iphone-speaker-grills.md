@@ -1,7 +1,7 @@
 ---
 title: Effective Methods for Draining Water From iPhone Speaker Grills
-date: 2024-08-10T03:35:16.891Z
-updated: 2024-08-11T03:35:16.891Z
+date: 2025-01-21T22:33:40.051Z
+updated: 2025-01-22T18:38:19.697Z
 tags:
   - iphone
   - apple
@@ -15,17 +15,15 @@ thumbnail: https://thmb.techidaily.com/57fc80a0532998e9a3fa34c3a10aaf11a38c8a257
 ## Effective Methods for Draining Water From iPhone Speaker Grills
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Quick Links
 
 * [Use the Water Eject Shortcut on Your iPhone](https://www.makeuseof.com/how-to-eject-water-speaker-microphone-iphone/#use-the-water-eject-shortcut-on-your-iphone)
 * [Other Ways to Eject Water From Your iPhone's Speakers](https://www.makeuseof.com/how-to-eject-water-speaker-microphone-iphone/#other-ways-to-eject-water-from-your-iphone-39-s-speakers)
 * [What to Avoid When Your iPhone Speaker Is Wet](https://www.makeuseof.com/how-to-eject-water-speaker-microphone-iphone/#what-to-avoid-when-your-iphone-speaker-is-wet)
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Key Takeaways
 
 * You can use the built-in Shortcuts app to quickly get rid of water trapped in your iPhone's speakers.
@@ -35,8 +33,9 @@ thumbnail: https://thmb.techidaily.com/57fc80a0532998e9a3fa34c3a10aaf11a38c8a257
  Although you're not supposed to take your iPhone into the shower or for a swim, many users do so anyway, causing water to get into the speaker. Fortunately, there are several free, simple ways to get water out of your iPhone's speakers.
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Use the Water Eject Shortcut on Your iPhone
 
  First, make sure you have the Shortcuts app on your iPhone. Shortcuts is a native Apple app, so if you haven't got it, simply download it for free from the App Store.
@@ -63,22 +62,14 @@ Close
 
 Close
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Other Ways to Eject Water From Your iPhone's Speakers
 
  If you feel the Water Eject shortcut isn't sufficient for removing water from your iPhone's speaker, you can also try a couple of third-party tools.
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Sonic
 
 Close
@@ -87,17 +78,19 @@ Close
 
 **Download:** [Sonic](https://apps.apple.com/us/app/sonic-tone-generator/id986999895?platform=iphone) (Free, in-app purchases available)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix My Speakers
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Fix My Speakers webpage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/muo-in-article-image-1200px-by-600px-21-ratio-49.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you prefer not to download a shortcut or app on your device, you can head to the [Fix My Speakers site](https://fixmyspeakers.com/) to play the tone needed to eject water from your iPhone's speakers. Just tap the button with the wind and water droplets emoji to activate the sound.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What to Avoid When Your iPhone Speaker Is Wet
 
@@ -115,8 +108,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -124,6 +115,24 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-innovate-on-screen-imagery-with-youtubes-green-screens-edge/"><u>[New] 2024 Approved Innovate On-Screen Imagery with YouTube’s Green Screens Edge</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-blueprints-for-success-top-10-insights-into-instagram-video-marketing/"><u>2024 Approved Blueprints for Success Top 10 Insights Into Instagram Video Marketing</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/apple-enthusiasts-beware-why-stick-with-your-current-device-instead-of-switching-to-the-new-iphone-ilfnz-tech-analysis/"><u>Apple Enthusiasts Beware! Why Stick with Your Current Device Instead of Switching to the New iPhone ˈiːlfɜnz - Tech Analysis</u></a></li>
+<li><a href="https://fox-that.techidaily.com/avoiding-tech-hassles-how-dfu-mode-can-fix-your-iphones-top-5-problems/"><u>Avoiding Tech Hassles: How DFU Mode Can Fix Your iPhone's Top 5 Problems</u></a></li>
+<li><a href="https://fox-that.techidaily.com/comprehensive-guide-to-correcting-iphone-alarm-malfunctions/"><u>Comprehensive Guide to Correcting iPhone Alarm Malfunctions</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Xiaomi Redmi Note 12 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-vivo-y17s-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Vivo Y17s Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/mastering-the-fix-for-persistent-imessage-sign-out-issues-on-iphone-devices/"><u>Mastering the Fix for Persistent iMessage Sign-Out Issues on iPhone Devices</u></a></li>
+<li><a href="https://fox-that.techidaily.com/navigating-through-iphone-14-battery-health-challenges-a-comprehensive-guide/"><u>Navigating Through iPhone 14 Battery Health Challenges: A Comprehensive Guide</u></a></li>
+<li><a href="https://driver-download.techidaily.com/quick-and-simple-usb-30-driver-update-process-for-windows-pcs/"><u>Quick and Simple USB 3.0 Driver Update Process for Windows PCs</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/rectify-print-job-failures-on-windows-11/"><u>Rectify Print Job Failures on Windows 11</u></a></li>
+<li><a href="https://fox-that.techidaily.com/safari-full-page-image-snags-quick-fixes-for-your-screen-capture-woes/"><u>Safari Full-Page Image Snags: Quick Fixes for Your Screen Capture Woes!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/the-simplest-guide-to-softly-rebooting-your-iphone-device/"><u>The Simplest Guide to Softly Rebooting Your iPhone Device</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-7-ways-to-restore-wireless-charging-functionality-on-your-iphone/"><u>Top 7 Ways to Restore Wireless Charging Functionality on Your iPhone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-get-your-razer-headset-mic-up-and-running-again/"><u>Troubleshooting Tips: Get Your Razer Headset Mic Up and Running Again</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-10-free-mp4-video-editing-software-picks-for-2024/"><u>Updated 10 Free MP4 Video Editing Software Picks for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/workaround-strategies-maximizing-use-of-unsupported-accessories-with-your-ios-device/"><u>Workaround Strategies: Maximizing Use of Unsupported Accessories with Your iOS Device</u></a></li>
+</ul></div>
 
