@@ -1,7 +1,7 @@
 ---
 title: Issues with Your iPhone's Flashlight? Try These 12 Remedies to Restore Illumination
-date: 2024-08-10T03:37:58.811Z
-updated: 2024-08-11T03:37:58.811Z
+date: 2025-01-27T09:23:35.427Z
+updated: 2025-01-29T20:03:01.406Z
 tags:
   - iphone
   - apple
@@ -30,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/197c2ed369e4a9919f13d946f77f5157856e3dbfa
 
 ![iphone settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/iphone-settings-1.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![turn off low power mode in iphone settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/iphone-settings-2.JPG)
 
 Close
@@ -44,16 +48,14 @@ Close
 
  When your iPhone gets too hot, the flashlight may stop working. It's not advisable to continue using an overheating iPhone. If your device exceeds a particular temperature limit, it will eventually shut down until it cools off. You'll also see a warning appear on your screen if the temperature gets too high.
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![blue iphone pro on white surface](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/blue-iphone-pro.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To allow your device's temperature to drop naturally, place your iPhone in a cool, dry place away from direct sunlight. Do not attempt to put your device into the fridge, though, as this will cause damage to it. Just find somewhere that's naturally cool and shady. Once your device cools down, your iPhone's flashlight should start working again.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ## 4\. Remove the Flashlight From the Control Center
 
  If your iPhone's torch still isn't working, another potential fix is to remove the flashlight option from the Control Center and then add it back again. Here's how:
@@ -65,11 +67,16 @@ Close
 
 ![iphone settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/iphone-settings-1.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![customize iphone control center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/iphone-settings-3.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![customize iphone control center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/iphone-settings-4.JPG)
 
 Close
@@ -88,19 +95,21 @@ Close
 2. Swipe up from the bottom menu (on the word,**Video**) to bring up more options.
 3. Tap the**Flash** icon. Select**On** .
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![iphone camera video mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/video-mode-1.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![iphone camera video mode options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/video-mode-2.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![turn on iphone camera flash](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/video-mode-3.JPG)
 
 Close
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Toggle the Flash in Your iPhone's Camera App
 
@@ -112,31 +121,22 @@ Close
 
  First,[set up Siri on your iPhone](https://www.makeuseof.com/how-to-set-up-and-use-siri-iphone/) . Next, long-press the Side button on your iPhone or say, "Hey Siri." When the**Siri** icon pops up on your iPhone screen, say, "Turn on the flashlight." Your flashlight should turn on instantly, and Siri will also say that it's on now.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![siri icon on iphone screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/img_7829.JPEG)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![siri response after turning on iphone flashlight](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/img_7830.JPEG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## 9\. Update Your iPhone's iOS
 
  iOS updates usually come with fixes for performance bugs and various glitches. So, perhaps all you need to do to fix your iPhone's flashlight is to [update your iPhone to the latest version of iOS](https://www.makeuseof.com/tag/update-iphone-ios-apps-data/) .
 
  Go to**Settings > General > Software Update** to see if an update is available for your iPhone. Make sure your iPhone is charging or has more than 50% battery before you proceed with the update process.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ## 10\. Restart Your iPhone
 
  If the above methods don't solve the problem and your iPhone's flashlight still isn't working, the next step you should try is [restarting your iPhone](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) .
@@ -146,15 +146,17 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  The method you need to follow varies depending on the iPhone model you have. But in general, you can go to **Settings > General > Shut Down > Slide to power off** . Then, hold the**Side** button to restart your iPhone once it powers off.
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 11\. Restore Your iPhone to a Previous Backup
 
  Besides updating and restarting your iPhone, you can also try [restoring your iPhone to a previous backup](https://www.makeuseof.com/tag/restore-iphone-ipad-from-backup/) from when the flashlight was still working as usual. However, when you use this method, keep in mind that you will also lose any new data that was added to your device since you made that backup.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 12\. Reset All Settings on Your iPhone
 
  If all else fails, the last solution you can attempt is to reset your iPhone's settings by going to**Settings > General > Transfer or Reset iPhone** . Tap**Reset** and choose**Reset All Settings** from the pop-up menu. You won't lose any data from your iPhone; all this does is revert your iPhone's settings to factory default values.
@@ -175,8 +177,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -184,6 +184,22 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-xsplit-compendium-in-depth-gaming-analysis/"><u>[New] 2024 Approved XSplit Compendium In-Depth Gaming Analysis</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-secrets-to-collecting-costless-clipart-for-2024/"><u>[New] Secrets to Collecting Costless Clipart for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-how-to-fix-full-screen-error-in-obs-for-2024/"><u>[Updated] How to Fix Full Screen Error in OBS for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-the-insiders-guide-to-facebook-live-with-360-degrees/"><u>[Updated] The Insider's Guide to Facebook Live with 360 Degrees</u></a></li>
+<li><a href="https://fox-that.techidaily.com/bypassing-the-hold-alert-during-iphone-charging-with-these-8-tricks/"><u>Bypassing the Hold Alert During iPhone Charging with These 8 Tricks</u></a></li>
+<li><a href="https://fox-that.techidaily.com/eliminating-excessive-magnification-of-images-in-whatsapp-conversations/"><u>Eliminating Excessive Magnification of Images in WhatsApp Conversations</u></a></li>
+<li><a href="https://fox-that.techidaily.com/essential-iphone-settings-for-improved-visual-impairment-support/"><u>Essential iPhone Settings for Improved Visual Impairment Support</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-the-mystery-phone-numbers-appearing-instead-of-names-in-your-messaging-application/"><u>Fixing the Mystery Phone Numbers Appearing Instead of Names in Your Messaging Application</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-vivo-y27-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Vivo Y27 5G | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-vivo-s18e-drfone-by-drfone-virtual-android/"><u>In 2024, Which is the Best Fake GPS Joystick App On Vivo S18e? | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-brightness-struggles-try-these-7-solutions-for-auto-brightness/"><u>IPhone Brightness Struggles? Try These 7 Solutions for Auto-Brightness</u></a></li>
+<li><a href="https://fox-that.techidaily.com/mastering-autocorrect-6-strategies-to-ensure-accurate-typing-on-your-iphone/"><u>Mastering AutoCorrect: 6 Strategies to Ensure Accurate Typing on Your iPhone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/mastering-windows-drivers-seamless-and-straightforward-updates/"><u>Mastering Windows Drivers: Seamless and Straightforward Updates</u></a></li>
+<li><a href="https://win11.techidaily.com/the-essential-guide-to-a-clearer-taskbar-in-win11/"><u>The Essential Guide to a Clearer Taskbar in Win11</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/without-a-powerful-rival-to-qualcomm-intel-faces-an-imminent-demise-of-the-x86-architecture-in-computers-insights-from-zdnet/"><u>Without a Powerful Rival to Qualcomm, Intel Faces an Imminent Demise of the X86 Architecture in Computers: Insights From ZDNet</u></a></li>
+</ul></div>
 

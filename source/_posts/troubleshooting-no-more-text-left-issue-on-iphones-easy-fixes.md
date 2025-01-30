@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting 'No More Text Left' Issue on iPhones - Easy Fixes
-date: 2024-08-15T11:49:30.664Z
-updated: 2024-08-16T11:49:30.664Z
+date: 2025-01-25T06:15:23.978Z
+updated: 2025-01-30T02:01:58.944Z
 tags:
   - iphone
   - apple
@@ -28,9 +28,6 @@ thumbnail: https://thmb.techidaily.com/f14703ab2e75a5e3ef7cee5c0a7ee5ddd2895b6cf
 
  Let's go through each possible way to fix the "Last Line No Longer Available" iPhone error.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ## 1\. Switch Phone Lines Manually on iPhone
 
  Tapping the**Call** option on the "Last Line No Longer Available" pop-up automatically puts the call through the other line on your iPhone. If that doesn't work as well, try switching numbers manually.
@@ -41,18 +38,14 @@ thumbnail: https://thmb.techidaily.com/f14703ab2e75a5e3ef7cee5c0a7ee5ddd2895b6cf
 ![Switch lines in Phone dialer.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/1-switch-lines-dialer.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Switch lines in Favorites and Recents.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/2-switch-lines-favorites.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -70,19 +63,21 @@ Close
 
  To do that, open the**Settings** app and go to**General** \>**Shut Down** . Then, swipe the**Power** icon to the right, wait until the screen goes fully dark, and hold the**Side** button until you see the Apple logo.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![iPhone Settings app.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/4-iphone-settings.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![General preferences on iPhone.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/5-general-preferences.jpeg)
 
 ![Slide to Power Off screen on iPhone.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/6-power-off-screen.jpeg)
 
 Close
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Clear Your iPhone's Call History
 
@@ -98,26 +93,14 @@ Close
 2. Tap**Clear** .
 3. Tap**Clear All Recents** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ![Recents list on the Phone app on iPhone.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/7-recent-calls.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Deleting call logs on iPhone.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/8-delete-call-log.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![Clearing all recent calls on iPhone.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/9-clear-all-recents.jpeg)
 
 Close
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Update the Carrier Settings on iPhone
 
  Check if your iPhone has a pending carrier update. To do that, open the**Settings** app and tap**General** \>**About** . Then, scroll down to the**Carrier** section and wait for up to a minute. If you get a "Carrier Update Available" prompt, tap**Update** to install it.
@@ -138,9 +121,6 @@ Close
 2. Tap**Cellular Data** .
 3. Select the other phone line or**Off** to disable cellular data altogether.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ![Mobile data screen on iPhone.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/12-mobile-data-screen.jpg)
 
 ![Line selection screen for cellular data.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/13-select-mobile-date-line.jpeg)
@@ -149,9 +129,6 @@ Close
 
  You may also want to try experimenting by setting the**Allow Cellular Data Switching** option to on or off.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. Disable Automatic Network Selection on iPhone
 
  Another reason for the "Last Line No Longer Available" iPhone error is a feature called Automatic Network Selection. It prompts your iPhone to pick the best network to establish a connection but causes issues on Dual-SIM iPhones.
@@ -162,7 +139,15 @@ Close
 
 ![Disabling Automatic Network Selection on iPhone.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/15-disable-network-selection.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Close
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Disable Wi-Fi Calling on iPhone
 
@@ -172,17 +157,22 @@ Close
 
 ![Cellular preferences screen on iPhone.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/16-cellular-screen-1.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Disabling Wi-Fi calling on iPhone.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/17-disable-wifi-calling-2.jpeg)
 
 Close
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 9\. Install the Latest Software Updates
 
  Apple regularly pushes software updates to iPhones in order to address issues like this. So, a newer software version might contain a permanent fix for the "Last Line No Longer Available" error. To check, open the**Settings** app and go to**General** \>**Software Update** . Then, tap**Download & Install** to install the latest available version of iOS for your iPhone.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![General preferences screen on iPhone.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/18-general-preferences.jpeg)
 
 ![Updating the system software on iPhone.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/19-update-iphone.jpeg)
@@ -193,19 +183,18 @@ Close
 
  If none of the fixes above work, try [resetting your iPhone's network settings](https://www.makeuseof.com/how-to-reset-network-settings-iphone/) . To do that, open the**Settings** app, go to**General** \>**Transfer & Reset Phone** \>**Reset** \>**Reset Network Settings** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ![General preferences screen on iPhone.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/20-general-preferences.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Transfer on Reset screen on iPhone.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/21-reset-screen.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Reset menu on iPhone.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/22-reset-network-settings.jpeg)
 
 Close
@@ -226,8 +215,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -235,6 +222,23 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-ultimate-6-tech-for-subtitle-creation-in-video/"><u>[New] In 2024, Ultimate 6 Tech for Subtitle Creation in Video</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-elevate-your-gaming-experience-innovative-ways-to-record-vr-games-for-2024/"><u>[Updated] Elevate Your Gaming Experience Innovative Ways to Record VR Games for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-youtube-growth-secrets-masterful-narration-techniques/"><u>[Updated] YouTube Growth Secrets Masterful Narration Techniques</u></a></li>
+<li><a href="https://os-tips.techidaily.com/2023s-finest-iphone-15-leather-sleeves-expert-picks-and-reviews/"><u>2023'S Finest iPhone 15 Leather Sleeves: Expert Picks and Reviews</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-streamline-your-youtube-productions-with-pc-editing-techniques/"><u>2024 Approved Streamline Your YouTube Productions with PC Editing Techniques</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721462341435-airpod-woes-try-these-6-fixes-for-auto-connect-issues-between-apple-gadgets/"><u>AirPod Woes? Try These 6 Fixes for Auto-Connect Issues Between Apple Gadgets</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-nokia-xr21-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Nokia XR21 | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/escape-from-earphones-entrapment-8-iphone-fixes-for-continuous-sound-problems/"><u>Escape From Earphones Entrapment: 8 iPhone Fixes for Continuous Sound Problems</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-revitalize-a-lagging-iphone-the-ultimate-guide-7-tips-inside/"><u>How To Revitalize A Lagging iPhone: The Ultimate Guide (7 Tips Inside)</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-what-everyone-must-know-about-creating-short-form-videos/"><u>In 2024, What Everyone Must Know About Creating Short-Form Videos</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-analysis-iphone-15-pro-max-and-samsung-galaxy-s24-ultra-head-to-head-comparison/"><u>In-Depth Analysis: IPhone 15 Pro Max and Samsung Galaxy S24 Ultra Head to Head Comparison</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcome-iphone-brightness-control-glitches-learn-7-handy-tips-and-tricks/"><u>Overcome iPhone Brightness Control Glitches: Learn 7 Handy Tips and Tricks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-not-functional-errors-with-win-based-applications/"><u>Overcoming 'Not Functional' Errors with Win-Based Applications</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-the-low-memory-warning-issue-in-roblox-for-your-iphone-easily/"><u>Troubleshoot the 'Low Memory Warning' Issue in Roblox for Your iPhone Easily</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlock-your-phones-potential-how-rebooting-clears-common-problems/"><u>Unlock Your Phone's Potential: How Rebooting Clears Common Problems</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unstuck-iphone-woes-mastering-dfu-mode-fixes-for-5-frequent-glitches/"><u>Unstuck iPhone Woes? Mastering DFU Mode Fixes for 5 Frequent Glitches</u></a></li>
+</ul></div>
 

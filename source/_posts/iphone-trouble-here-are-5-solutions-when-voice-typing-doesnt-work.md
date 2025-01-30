@@ -1,7 +1,7 @@
 ---
 title: IPhone Trouble? Here Are 5 Solutions When Voice Typing Doesn't Work
-date: 2024-08-10T03:38:03.908Z
-updated: 2024-08-11T03:38:03.908Z
+date: 2025-01-23T19:34:25.800Z
+updated: 2025-01-29T16:32:55.759Z
 tags:
   - iphone
   - apple
@@ -25,26 +25,24 @@ thumbnail: https://thmb.techidaily.com/ffbfddf161d0ac60a22be92f9cba6a955de35f0f8
  Having issues converting voice to text on your iPhone? Or perhaps the dictation icon is nowhere to be found at all? Don't worry; these are several simple troubleshooting steps you can follow when dictation isn't working on your iPhone.
 
 <!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Check if Dictation Is Enabled on Your iPhone
 
  The dictation feature is represented by a microphone icon at the bottom of your iPhone's on-screen keyboard. While dictation is enabled by default, you'll need to turn it on in Settings first if you don't see the microphone icon on the keyboard.
 
  Go to**Settings > General > Keyboard** and toggle on**Enable Dictation** . Tap**Enable Dictation** again to confirm. The**microphone** icon will now appear on the iOS keyboard; tap it to begin dictating.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ![iPhone General settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/iphone-general-settings.JPEG)
 
 ![iphone keyboards setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/iphone-keyboards-setting.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![enable dictation confirmation popup on iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/enable-dictation-confirmation-popup-on-iphone.PNG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -52,30 +50,33 @@ Close
 
 ![iphone keyboard dictation setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/iphone-keyboard-dictation-setting.PNG)
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![turn off dictation confirmation popup on iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/turn-off-dictation-confirmation-popup-on-iphone.PNG)
 
 Close
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Add the Dictation Language to Your iPhone Keyboard
 
  Let's say you typically type in English on your iPhone but want to dictate something in Chinese. The iPhone's dictation feature won't recognize what you're saying if Chinese hasn't been added to the keyboard yet.
 
  In this case, go to **Settings > General > Keyboard > Keyboards > Add New Keyboard** . From the list, choose**Chinese** (or your preferred language), select the keyboard input method, and tap**Done** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ![expanded iphone keyboards setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/expanded-iphone-keyboards-setting.PNG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![iphone keyboard language list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/iphone-keyboard-language-list.PNG)
 
 ![keyboard language list on iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/keyboard-language-list-on-iphone.PNG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -83,9 +84,6 @@ Close
 
 ![iphone keyboard dictation setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/iphone-keyboard-dictation-setting.PNG)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![iphone dictation languages setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/iphone-dictation-languages-setting.PNG)
 
 Close
@@ -96,9 +94,17 @@ Close
 
 ![change dictation language in iphone notes app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/change-dictation-language-in-iphone-notes-app.PNG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Close
 
  Dictation isn't available for all languages. You can check [Apple's site](http://www.apple.com/ios/feature-availability/#quicktype-keyboard-dictation) for a list of dictation languages available for the iPhone.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Allow Siri & Dictation in Your iPhone's Screen Time Settings
 
@@ -108,15 +114,8 @@ Close
 
 ![iphone screen time setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/iphone-screen-time-setting.PNG)
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![iphone content and privacy restrictions setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/iphone-content-and-privacy-restrictions-setting.PNG)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![allowed apps on iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/allowed-apps-on-iphone.PNG)
 
 Close
@@ -128,6 +127,10 @@ Close
  A quick way to test it is to record a short audio clip [using your iPhone's Voice Memos app](https://www.makeuseof.com/voice-memos-app-guide-iphone/) . If it's a software issue, there are [solutions to fix your iPhone's microphone](https://www.makeuseof.com/iphone-microphone-fixes/) quickly.
 
  But if it's a hardware problem, you'll likely need to contact Apple Support or an Apple Authorized Service Provider.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. General Fixes: Restart, Update, or Reset Your iPhone
 
@@ -143,9 +146,6 @@ Close
 
 ![transfer or reset iphone settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_7384.JPEG)
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![transfer or reset iphone settings confirmation window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_7385.JPEG)
 
 Close
@@ -160,8 +160,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -169,6 +167,26 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/updated-essential-tips-building-an-instagram-money-machine/"><u>[Updated] Essential Tips Building an Instagram Money Machine</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-humorous-highlights-create-with-kapwing-meme-maker/"><u>[Updated] In 2024, Humorous Highlights Create with Kapwing Meme Maker</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721467704422-10-rapid-repairs-to-get-your-iphoneipad-widgets-working-again/"><u>10 Rapid Repairs to Get Your iPhone/iPad Widgets Working Again!</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-triumph-through-film-the-top-10-motivating-titles/"><u>2024 Approved Triumph Through Film The Top 10 Motivating Titles</u></a></li>
+<li><a href="https://fox-that.techidaily.com/apple-pay-dilemmas-decoded-simple-strategies-for-the-top-10-common-errors/"><u>Apple Pay Dilemmas Decoded: Simple Strategies for the Top 10 Common Errors</u></a></li>
+<li><a href="https://win11.techidaily.com/formulating-enduring-file-disposal-strategies-on-windows-systems/"><u>Formulating Enduring File Disposal Strategies on Windows Systems</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-camera-roundup-top-picks-for-superior-videography/"><u>In 2024, Camera Roundup Top Picks for Superior Videography</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-captivating-cuts-10-essential-filmora-edits-everyone-loves/"><u>In 2024, Captivating Cuts 10 Essential Filmora Edits Everyone Loves</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-nokia-c12-pro-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Nokia C12 Pro</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-elevated-commands-always-access-terminal-as-admin/"><u>Mastering Elevated Commands: Always Access Terminal as Admin</u></a></li>
+<li><a href="https://fox-that.techidaily.com/maximize-mobile-browsing-eight-strategies-to-enhance-iphone-wi-fi-functionality/"><u>Maximize Mobile Browsing: Eight Strategies to Enhance iPhone Wi-Fi Functionality</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-expert-recommended-free-video-splitters/"><u>New In 2024, Expert-Recommended Free Video Splitters</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-your-iphoneipad-and-wi-fi-connection-woes-top-8-remedies/"><u>Solving Your iPhone/iPad and Wi-Fi Connection Woes: Top 8 Remedies</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-11-solutions-for-missing-airpods-on-apples-find-my-application/"><u>Top 11 Solutions for Missing AirPods on Apple's 'Find My' Application</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-and-resolve-overzoomed-images-on-whatsapp-with-these-steps/"><u>Troubleshoot and Resolve Overzoomed Images on WhatsApp with These Steps</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-tablet-touchscreen-issues-top-8-solutions/"><u>Troubleshooting Tablet Touchscreen Issues: Top 8 Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-tips-why-are-my-iphone-contacts-disappearing/"><u>Troubleshooting Tips: Why Are My iPhone Contacts Disappearing?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/uncovering-the-cause-of-asymmetrical-volume-in-apple-earphones-and-fixes/"><u>Uncovering the Cause of Asymmetrical Volume in Apple Earphones and Fixes</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/upcoming-google-gathering-insights-into-latest-news-and-speculations/"><u>Upcoming Google Gathering: Insights Into Latest News & Speculations</u></a></li>
+</ul></div>
 

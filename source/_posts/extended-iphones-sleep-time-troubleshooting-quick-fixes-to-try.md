@@ -1,7 +1,7 @@
 ---
 title: Extended iPhones Sleep Time Troubleshooting - Quick Fixes to Try!
-date: 2024-08-10T03:38:33.038Z
-updated: 2024-08-11T03:38:33.038Z
+date: 2025-01-24T17:56:52.310Z
+updated: 2025-01-29T20:37:12.581Z
 tags:
   - iphone
   - apple
@@ -22,9 +22,6 @@ thumbnail: https://thmb.techidaily.com/d91a8e4d3e328994798cbf4d4f5c1573225bbff13
 
 ## Why Does Your iPhone Screen Take a While to Turn Off?
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ![Turned off iPhone 12 Pro Max laid facedown on green tablecloth, showing a blank screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/iphone-12-pro-max-sierra-blue-green-tablecloth.jpg)
 
  Ideally, when you press the Side button on your iPhone, it should go to sleep immediately, i.e., the screen should go black. However, if your iPhone screen takes longer than normal to turn off, it's possible some feature on your iPhone is keeping it awake. Wallet, Guided Access, and Accessibility Shortcut are three iPhone features known to cause this issue.
@@ -47,22 +44,24 @@ thumbnail: https://thmb.techidaily.com/d91a8e4d3e328994798cbf4d4f5c1573225bbff13
 2. Scroll down and select**Wallet & Apple Pay** .
 3. Toggle off the**Double-Click Side Button** option.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Wallet and Apple Pay in iOS Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/disable-apple-pay-shortcut-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Wallet and Apple Pay settings in iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/disable-apple-pay-shortcut-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
 <!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Disable Guided Access and Accessibility Shortcut Trigger
 
  If you've enabled Guided Access or Accessibility Shortcut on your iPhone, follow these steps to disable it and eliminate the sleep delay:
@@ -72,17 +71,19 @@ DbSchema database designer for all databases, schema design in the team, schema 
 3. Scroll down to the**General** section at the bottom, tap on**Guided Access** if it's on, and then use the toggle to disable it.
 4. Now, head back to the Accessibility settings menu, tap on**Accessibility Shortcut** if that's on, and uncheck the accessibility features you've assigned.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ![Accessibility in the iOS Settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/disable-guided-access-accessibility-shortcut-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Guided Access in iOS Accessibility settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/disable-guided-access-accessibility-shortcut-2.jpg)
 
 ![Disabling Guided Access from Accessibility Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/disable-guided-access-accessibility-shortcut-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -100,8 +101,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -109,6 +108,24 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-uncover-these-ten-youtube-sources-with-the-fastest-growth-rates/"><u>[New] In 2024, Uncover These Ten YouTube Sources with the Fastest Growth Rates</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-navigating-the-intricacies-of-morphvox-evolution/"><u>[Updated] In 2024, Navigating the Intricacies of MorphVOX Evolution</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-step-backward-in-time-reversing-youtube-media/"><u>[Updated] Step Backward in Time Reversing YouTube Media</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-pro-level-mac-audio-logging-tools-uncover-the-top-5/"><u>2024 Approved Pro-Level Mac Audio Logging Tools Uncover the Top 5</u></a></li>
+<li><a href="https://fox-that.techidaily.com/4-effective-methods-to-restore-iphone-standby-functionality/"><u>4 Effective Methods to Restore iPhone Standby Functionality</u></a></li>
+<li><a href="https://fox-that.techidaily.com/6-key-tips-to-get-your-airpods-to-auto-switch-between-apple-gadgets-flawlessly/"><u>6 Key Tips to Get Your AirPods to Auto-Switch Between Apple Gadgets Flawlessly</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-unbeatable-deals-the-premier-magsafe-compatible-wallet-not-from-apple-or-anker-exclusive-review-by-zdnet/"><u>Discover Unbeatable Deals: The Premier MagSafe Compatible Wallet Not From Apple or Anker - Exclusive Review by ZDNet!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-restore-siri-suggestions-on-your-iphone-when-they-disappear-unexpectedly/"><u>How to Restore Siri Suggestions on Your iPhone When They Disappear Unexpectedly</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-sony-xperia-1-v-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Sony Xperia 1 V? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-optimal-method-for-integrating-gopro-footage-into-360-degree-films/"><u>In 2024, Optimal Method for Integrating GoPro Footage Into 360-Degree Films</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-2fa-on-twitch-a-comprehensive-guide-for-safer-streaming/"><u>Mastering 2FA on Twitch - A Comprehensive Guide for Safer Streaming</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/slash-length-amplify-impact-youtube-video-editing-for-2024/"><u>Slash Length, Amplify Impact YouTube Video Editing for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/step-by-step-fix-for-no-more-lines-available-message-on-your-iphone-screen/"><u>Step-by-Step Fix for 'No More Lines Available' Message on Your iPhone Screen</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721470655963-struggling-with-iphones-vpn-connection-issues-here-are-7-quick-fixes/"><u>Struggling with iPhone's VPN Connection Issues? Here Are 7 Quick Fixes.</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-7-prevalent-iphone-screen-problems-and-their-solutions/"><u>Top 7 Prevalent iPhone Screen Problems and Their Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-8-iphone-accessibility-options-for-users-with-visual-impairments/"><u>Top 8 iPhone Accessibility Options for Users with Visual Impairments</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721446042202-why-arent-siris-smart-tips-appearing-resolve-this-iphone-issue-now/"><u>Why Aren’t Siri's Smart Tips Appearing? Resolve This iPhone Issue Now.</u></a></li>
+</ul></div>
 

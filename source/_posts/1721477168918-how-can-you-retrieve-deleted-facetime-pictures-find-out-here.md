@@ -1,7 +1,7 @@
 ---
 title: How Can You Retrieve Deleted FaceTime Pictures? Find Out Here!
-date: 2024-08-15T11:49:40.295Z
-updated: 2024-08-16T11:49:40.295Z
+date: 2025-01-27T09:02:51.083Z
+updated: 2025-01-29T22:52:10.401Z
 tags:
   - iphone
   - apple
@@ -16,23 +16,20 @@ thumbnail: https://thmb.techidaily.com/c2e520b7fa2ea279c78f437762c6d9b1bb9afdd3b
 
  You may have noticed the camera shutter button during FaceTime calls, but have you wondered where these FaceTime photos are stored? Whether you want to take FaceTime photos, find their location, or have trouble getting the feature to work, we've got you covered.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Where Do FaceTime Live Photos Go?
 
  It's all well and good snapping a photo while you're using FaceTime, but you need to know where those photos go to enjoy them after the call. The answer is pretty simple: FaceTime photos save directly to the Photos app on your device.
 
  To view your FaceTime photos, open the**Photos** app and go to the**Library** tab at the bottom, then select the**All Photos** view to make sure your device doesn't filter them out. Scroll to the date and time you took a photo to find it.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Library tab in the Photos app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/03-library-tab-photos-app-ios.jpg)
 
  You can simplify matters by viewing only your Live Photos. To do this, go to the**Albums** tab and look for the**Live Photos** album. Your iPhone, iPad, or Mac creates this album automatically as soon as you add a Live Photo to your library.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Create a Smart Album for All Your FaceTime Live Photos
 
  If you want to keep all your FaceTime Live Photos in the same place, create a Smart Album to automatically capture them all. You need to [use a Mac to create a Smart Album in the Photos app](http://www.makeuseof.com/how-to-create-and-use-smart-albums-on-mac/) . Unfortunately, you can't create Smart Albums from the Photos app on an iPhone or iPad.
@@ -46,6 +43,10 @@ thumbnail: https://thmb.techidaily.com/c2e520b7fa2ea279c78f437762c6d9b1bb9afdd3b
  Click**OK** to create your Smart Album. Photos should fill the album with all the Live Photos you've captured during FaceTime calls. Any new FaceTime photos you take should also appear in the album automatically.
 
  If you [sync Photos over iCloud](https://www.makeuseof.com/how-to-set-up-sync-icloud-photos/) , this Smart Album will become available from the**Albums** tab on your other devices as well.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Take Photos During FaceTime Calls
 
@@ -77,18 +78,16 @@ Close
 
 ![iOS Settings menu FaceTime selected](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ios-settings-menu-facetime-selected.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ![FaceTime Live Photos toggle enabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/facetime-live-photos-toggle-enabled.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
  On a Mac, open**FaceTime** and go to**FaceTime > Settings** from the menu bar. In the**Settings** tab, turn on the option to**Allow Live Photos to be captured during video calls** .
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Troubleshooting FaceTime Photo Problems
 
  There are lots of problems that might stop you from being able to snap a Live Photo during your FaceTime calls. If you can't find the shutter button, FaceTime isn't saving your photos, or you have trouble finding FaceTime photos after you take them, try these troubleshooting tips to fix it.
@@ -98,8 +97,9 @@ Close
  To take a photo of someone during a FaceTime call, everyone on the call needs to turn on FaceTime Live Photos from their device settings. Go to**Settings > FaceTime** to do this. Make sure the person you're taking a photo of checks their settings as well.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 2\. Open the Photos App on Your Device
 
  When you take Live Photos in FaceTime, it automatically saves those pictures to the Photos app on your device. If you haven't used Photos before, open it on your device to initialize the app before FaceTime can save photos.
@@ -107,18 +107,20 @@ Close
 ![Photos app on an iPhone Home Screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/share-shared-albums-with-non-apple-users.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 3\. Update to the Latest Operating System
 
  In some older versions of iOS, Apple temporarily removed the ability to take Live Photos on FaceTime. This was presumably due to a FaceTime security bug. FaceTime photos are available now, but you need to update your device to the latest software to use them. The person you're taking a photo of needs to update their device to the latest software as well.
 
  On an iPhone, iPad, or iPod touch, go to**Settings > General > Software Update** . On a Mac, go to**System Settings > General > Software Update** .
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Software update available in macOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/software-update-macos-settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Install any updates that are available there by clicking**Update Now** .
 
@@ -126,9 +128,6 @@ Close
 
  No matter what [FaceTime problem you're encountering](https://www.makeuseof.com/tag/facetime-not-working/) , you should always try to fix it by restarting your device. This is a remarkably effective troubleshooting step that only takes a moment to try out. Power off your iPhone, iPad, or Mac as you usually would, then wait 30 seconds before restarting it again.
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 5\. Restart FaceTime on Your Device
 
  Finally, try turning FaceTime off and on in your device settings. You may need to sign in to your Apple ID account again when you do this.
@@ -138,9 +137,14 @@ Close
 ![iOS Settings menu FaceTime selected](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ios-settings-menu-facetime-selected.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![FaceTime enabled in iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/facetime-enabled-ios-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -158,8 +162,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -167,6 +169,16 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-essential-tech-for-effective-pc-image-capture-the-5-best/"><u>[New] In 2024, Essential Tech for Effective PC Image Capture, The 5 Best</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-icloud-backup-issues-with-whatsapp-on-ios-devices-a-step-by-step-guide/"><u>Fixing iCloud Backup Issues with WhatsApp on iOS Devices - A Step-by-Step Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-12-pro-to-the-previous-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 12 Pro to the Previous iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-get-your-safari-back-up-and-running-on-an-iphone-expert-tips-and-tricks/"><u>How to Get Your Safari Back Up and Running on an iPhone - Expert Tips & Tricks</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-realme-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Realme 11 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-make-marine-scenes-fluidly-with-these-7-tricks/"><u>In 2024, Make Marine Scenes Fluidly with These 7 Tricks</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solve-audio-problems-with-these-simple-techniques-for-nonfunctional-airpods/"><u>Solve Audio Problems with These Simple Techniques for Nonfunctional AirPods</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-5-factors-to-evaluate-when-selecting-your-perfect-fitness-tracker/"><u>Top 5 Factors to Evaluate When Selecting Your Perfect Fitness Tracker</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-techniques-for-common-iphone-12-malfunctions-learn-how-to-resolve-them-easily/"><u>Troubleshooting Techniques for Common iPhone 12 Malfunctions – Learn How to Resolve Them Easily</u></a></li>
+</ul></div>
 

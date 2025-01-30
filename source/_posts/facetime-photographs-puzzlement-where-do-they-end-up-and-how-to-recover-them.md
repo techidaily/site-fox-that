@@ -1,7 +1,7 @@
 ---
 title: "FaceTime Photographs Puzzlement: Where Do They End Up & How To Recover Them?"
-date: 2024-08-10T03:37:20.404Z
-updated: 2024-08-11T03:37:20.404Z
+date: 2025-01-27T03:13:55.482Z
+updated: 2025-01-30T02:43:23.383Z
 tags:
   - iphone
   - apple
@@ -27,17 +27,15 @@ thumbnail: https://thmb.techidaily.com/b432bdff253fde3d555eb0e4e70a3a08238022a0a
  You can simplify matters by viewing only your Live Photos. To do this, go to the**Albums** tab and look for the**Live Photos** album. Your iPhone, iPad, or Mac creates this album automatically as soon as you add a Live Photo to your library.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Create a Smart Album for All Your FaceTime Live Photos
 
  If you want to keep all your FaceTime Live Photos in the same place, create a Smart Album to automatically capture them all. You need to [use a Mac to create a Smart Album in the Photos app](http://www.makeuseof.com/how-to-create-and-use-smart-albums-on-mac/) . Unfortunately, you can't create Smart Albums from the Photos app on an iPhone or iPad.
 
  Click the**plus (+)** button that appears when you hover over**My Albums** in the sidebar and choose**Smart Album** from the popup. Name your Smart Album, then configure the following filter using the dropdown menus:**Lens includes FaceTime** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Creating a smart album in Photos on Mac](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/create-smart-albums-photos-mac.jpg)
 
  You'll need to type "FaceTime" into the third box manually since it isn't an option in the dropdown menu.
@@ -51,6 +49,10 @@ thumbnail: https://thmb.techidaily.com/b432bdff253fde3d555eb0e4e70a3a08238022a0a
  You can take a Live Photo during a FaceTime call using the**shutter** button. This appears when you tap the screen on an iPhone, iPad, or iPod touch or when you hover your mouse over the FaceTime window on a Mac. It looks like two white circles, one inside the other.
 
 ![Making a FaceTime video call on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/facetime-call-in-progress-ios.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![Capturing a FaceTime Live Photo](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/taking-a-facetime-live-photo.jpg)
 
@@ -68,6 +70,10 @@ Close
 
  Alternatively, hit**Cmd + Shift + 3** to take a screenshot of your entire screen. Aside from these two options, there are other [ways to take screenshots on your Mac](https://www.makeuseof.com/tag/how-to-take-a-screenshot-on-a-mac/) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Enable Live Photos in Your FaceTime Settings
 
  Before you can take a Live Photo in FaceTime, both you and the person you're taking a photo of need to enable Live Photos in your FaceTime Settings. So, if you don't want other people to take photos of you during FaceTime calls, you should disable this option. Keep in mind that other people will still be able to take a screenshot, though.
@@ -77,63 +83,55 @@ Close
 ![iOS Settings menu FaceTime selected](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ios-settings-menu-facetime-selected.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![FaceTime Live Photos toggle enabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/facetime-live-photos-toggle-enabled.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
  On a Mac, open**FaceTime** and go to**FaceTime > Settings** from the menu bar. In the**Settings** tab, turn on the option to**Allow Live Photos to be captured during video calls** .
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Troubleshooting FaceTime Photo Problems
 
  There are lots of problems that might stop you from being able to snap a Live Photo during your FaceTime calls. If you can't find the shutter button, FaceTime isn't saving your photos, or you have trouble finding FaceTime photos after you take them, try these troubleshooting tips to fix it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 ### 1\. Enable FaceTime Live Photos on Both Devices
 
  To take a photo of someone during a FaceTime call, everyone on the call needs to turn on FaceTime Live Photos from their device settings. Go to**Settings > FaceTime** to do this. Make sure the person you're taking a photo of checks their settings as well.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 2\. Open the Photos App on Your Device
 
  When you take Live Photos in FaceTime, it automatically saves those pictures to the Photos app on your device. If you haven't used Photos before, open it on your device to initialize the app before FaceTime can save photos.
 
 ![Photos app on an iPhone Home Screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/share-shared-albums-with-non-apple-users.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3\. Update to the Latest Operating System
 
  In some older versions of iOS, Apple temporarily removed the ability to take Live Photos on FaceTime. This was presumably due to a FaceTime security bug. FaceTime photos are available now, but you need to update your device to the latest software to use them. The person you're taking a photo of needs to update their device to the latest software as well.
 
  On an iPhone, iPad, or iPod touch, go to**Settings > General > Software Update** . On a Mac, go to**System Settings > General > Software Update** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![Software update available in macOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/software-update-macos-settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Install any updates that are available there by clicking**Update Now** .
 
 <!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 4\. Restart Your Device
 
  No matter what [FaceTime problem you're encountering](https://www.makeuseof.com/tag/facetime-not-working/) , you should always try to fix it by restarting your device. This is a remarkably effective troubleshooting step that only takes a moment to try out. Power off your iPhone, iPad, or Mac as you usually would, then wait 30 seconds before restarting it again.
@@ -164,8 +162,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -173,6 +169,23 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/new-comic-corner-tickling-fun-with-the-top-tiktok-jokes-and-pranks/"><u>[New] Comic Corner Tickling Fun with the Top TikTok Jokes and Pranks</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-call-recorder-iphone-captures-all-calls/"><u>[New] In 2024, Call Recorder IPhone Captures All Calls</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-finding-hashtags-that-amplify-to-6k-views/"><u>[Updated] 2024 Approved Finding #Hashtags That Amplify to 6K Views</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-ideal-summertime-screens-top-10-family-vacay-movies/"><u>[Updated] Ideal Summertime Screens Top 10 Family Vacay Movies</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-sjcam-sj6-legend-action-camera-complete-review/"><u>[Updated] In 2024, SJCam SJ6 Legend Action Camera Complete Review</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/boost-your-efficiency-with-these-5-amazing-non-rooted-android-clicker-apps/"><u>Boost Your Efficiency with These 5 Amazing Non-Rooted Android Clicker Apps</u></a></li>
+<li><a href="https://fox-that.techidaily.com/ensuring-your-airpods-stay-loyal-avoiding-unwanted-auto-switching-between-iphones-and-macs/"><u>Ensuring Your AirPods Stay Loyal: Avoiding Unwanted Auto-Switching Between iPhones & Macs</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-enter-and-utilize-dfu-mode-on-iphones-explained/"><u>How to Enter and Utilize DFU Mode on iPhones Explained</u></a></li>
+<li><a href="https://fox-that.techidaily.com/icloud-not-updating-heres-how-to-fix-sync-issues-easily/"><u>ICloud Not Updating? Here's How to Fix Sync Issues Easily</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/in-2024-how-to-translate-instagram-videos-for-global-engagement/"><u>In 2024, How to Translate Instagram Videos for Global Engagement</u></a></li>
+<li><a href="https://facebook.techidaily.com/instagrams-conversation-hub-disappears-in-december/"><u>Instagram’s Conversation Hub Disappears in December</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-app-download-issues-here-are-10-tips-for-a-smooth-solution/"><u>IPhone App Download Issues? Here Are 10 Tips for a Smooth Solution</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolve-this-issue-how-to-spot-your-airpods-using-the-find-my-feature/"><u>Resolve This Issue! How to Spot Your AirPods Using the 'Find My' Feature</u></a></li>
+<li><a href="https://fox-that.techidaily.com/safari-cant-take-full-page-screen-shots-follow-these-steps-for-a-quick-solution/"><u>Safari Can't Take Full Page Screen Shots? Follow These Steps for a Quick Solution</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-ethernet-connectivity-problems-in-windows-10-and-7/"><u>Troubleshooting Ethernet Connectivity Problems in Windows 10 and 7</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unstick-your-idevices-ios-patch-a-guide-with-six-tips-for-successful-downloads/"><u>Unstick Your iDevice's iOS Patch: A Guide with Six Tips for Successful Downloads</u></a></li>
+</ul></div>
 

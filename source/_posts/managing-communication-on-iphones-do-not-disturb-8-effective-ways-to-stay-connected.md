@@ -1,7 +1,7 @@
 ---
 title: Managing Communication on iPhone's Do Not Disturb - 8 Effective Ways to Stay Connected
-date: 2024-08-10T03:38:59.298Z
-updated: 2024-08-11T03:38:59.298Z
+date: 2025-01-25T20:12:33.585Z
+updated: 2025-01-30T00:33:31.074Z
 tags:
   - iphone
   - apple
@@ -39,9 +39,14 @@ thumbnail: https://thmb.techidaily.com/04735b88e1441114a8925bb5e15d2369f293d2c3a
 ![focus modes on iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/focus-modes.JPEG)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![do not disturb settings on iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/do-not-disturb-settings.JPEG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![allowed apps on do not disturb mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/dnd-allowed-apps.JPEG)
 
@@ -57,28 +62,35 @@ Close
 
  Alternatively, you can tap**Turn Off** for a specific app if you see its notifications pop up on your Lock Screen.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Change Settings for Incoming Calls
 
  When you first enable Do Not Disturb mode on your iPhone,**Favorites** tends to be the default setting for the incoming calls allowed. If you previously added quite a few family members and friends to your Favorites list, this may be why your iPhone calls are coming through even after you enabled Do Not Disturb, as if it's not working.
 
  To change this, head to**Settings > Focus > Do Not Disturb** **\> People** . Now, tap on**Allow Calls From** and select your preferred option. If you want to only allow specific individuals to call you during Do Not Disturb mode, choose**Allowed People Only** and tap the**Add** button above to select your contacts.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![do not disturb settings on iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/do-not-disturb-settings.JPEG)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![call settings for do not disturb mode on iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/dnd-favorite-calls.JPEG)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![change calls allowed on iphone do not disturb mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/dnd-allowed-calls.JPEG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Close
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Don't Allow Repeated Calls
 
@@ -88,9 +100,6 @@ Close
 
 ![turn off allow repeated calls for iphone do not disturb mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/2-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Turn Off or Hide Your Focus Status
 
  When you turn on Do Not Disturb, you can also share your Focus status to let your contacts know that you're temporarily unavailable.
@@ -100,8 +109,9 @@ Close
  To stop receiving texts and calls in this manner, you can [turn off your Focus status](https://www.makeuseof.com/how-to-stop-notify-anyway-focus-mode-iphone/) or [hide your Focus status from certain iPhone contacts](https://www.makeuseof.com/how-to-hide-focus-status-from-certain-contacts-iphone/) .
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Review Your Do Not Disturb Schedule
 
  Let's say you used to work morning shifts every day and had set your Do Not Disturb schedule to match. If you suddenly switch to afternoon shifts, you may feel that Do Not Disturb is not working because you're receiving unwanted texts and calls on your iPhone during your new working hours.
@@ -112,32 +122,18 @@ Close
 
 ![schedule for iphone do not disturb mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/dnd-schedule.JPEG)
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![automate schedule for iphone do not disturb mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/dnd-schedule-2.JPEG)
 
 ![set time for iphone do not disturb mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/dnd-change-schedule.JPEG)
 
 Close
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ## 8\. Restart Your iPhone and Update iOS
 
  If you went through all the steps above and your iPhone's Do Not Disturb mode is still not working, try [restarting your iPhone](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) to see if it resolves the issue. Software glitches can sometimes prevent features like Do Not Disturb from functioning as intended, which you can fix with a simple reboot.
 
  And if you haven't,[update your iPhone to the latest iOS version](https://www.makeuseof.com/tag/update-iphone-ios-apps-data/) as well. Apple's software updates often come with bug fixes and patches for performance-related issues.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ## No More Disruptions on Do Not Disturb Mode
 
  Do Not Disturb mode aims to help you focus on your task or rest and recharge when needed while ensuring you're still aware of the important matters that require your immediate attention.
@@ -152,8 +148,6 @@ No advertising on the website.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -161,6 +155,26 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-ios-insiders-list-top-rated-downloading-apps-for-video-buffs/"><u>[New] In 2024, IOS Insider's List Top-Rated Downloading Apps for Video Buffs</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-uploading-and-sharing-gifs-on-instagram-step-by-step-approach/"><u>[New] Uploading & Sharing GIFs on Instagram Step-by-Step Approach</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-hacking-htc-vive-for-a-nausea-free-session/"><u>[Updated] Hacking HTC Vive for a Nausea-Free Session</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721473202358-cant-upgrade-ios-discover-9-effective-solutions-for-iphone-and-ipad-software-issues/"><u>Can't Upgrade iOS? Discover 9 Effective Solutions for iPhone and iPad Software Issues.</u></a></li>
+<li><a href="https://fox-that.techidaily.com/ending-iphone-app-annoyances-a-step-by-step-guide-to-keeping-them-running-smoothly/"><u>Ending iPhone App Annoyances: A Step-by-Step Guide to Keeping Them Running Smoothly</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-realme-11-proplus-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Realme 11 Pro+ Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-google-frp-on-poco-c55-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass Google FRP on Poco C55</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-recover-from-an-iphone-that-shows-sos-but-no-other-signal-indicators/"><u>How to Recover From an iPhone that Shows SOS But No Other Signal Indicators</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/illuminating-your-adventures-with-romers-premium-rechargeable-outdoor-led-flashlight-an-essential-gear-assessment/"><u>Illuminating Your Adventures with Romer's Premium Rechargeable Outdoor LED Flashlight: An Essential Gear Assessment</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-crafting-a-winning-windowsmac-skype-chat-circle/"><u>In 2024, Crafting a Winning Windows/Mac Skype Chat Circle</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-app-icon-error-heres-how-you-can-fix-them-back/"><u>IPhone App Icon Error? Here's How You Can Fix Them Back</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-idevice-typing-troubles-a-guide-to-fixing-your-ios-keyboard-in-6-steps/"><u>Overcoming iDevice Typing Troubles: A Guide to Fixing Your iOS Keyboard in 6 Steps</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/purifyplayback-enhancing-video-quality/"><u>PurifyPlayback: Enhancing Video Quality</u></a></li>
+<li><a href="https://fox-that.techidaily.com/quick-fixes-for-when-your-iphone-wont-sync-with-your-computer/"><u>Quick FIXES for When Your iPhone Won't Sync with Your Computer</u></a></li>
+<li><a href="https://fox-that.techidaily.com/quick-troubleshooting-tips-for-broken-widgets-on-apples-mobile-devices/"><u>Quick Troubleshooting Tips for Broken Widgets on Apple's Mobile Devices</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/revolutionize-your-gaming-recordings-a-guide-to-fbx-tech/"><u>Revolutionize Your Gaming Recordings A Guide to FBX Tech</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721475477207-ultimate-guide-fix-your-iphone-apps-crash-issues-with-these-tips/"><u>Ultimate Guide - Fix Your iPhone Apps' Crash Issues with These Tips</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-when-xiaomi-redmi-12-5g-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Xiaomi Redmi 12 5G Has Black Screen of Death? | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/why-your-iphone-ignores-silentring-modes-for-vibration-explore-these-8-effective-solutions/"><u>Why Your iPhone Ignores Silent/Ring Modes for Vibration? Explore These 8 Effective Solutions</u></a></li>
+</ul></div>
 

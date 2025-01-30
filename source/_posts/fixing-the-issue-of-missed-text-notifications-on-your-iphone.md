@@ -1,7 +1,7 @@
 ---
 title: Fixing the Issue of Missed Text Notifications on Your iPhone
-date: 2025-01-19T17:05:56.656Z
-updated: 2025-01-22T21:34:27.159Z
+date: 2025-01-22T19:31:50.128Z
+updated: 2025-01-29T21:33:41.266Z
 tags:
   - iphone
   - apple
@@ -25,23 +25,19 @@ thumbnail: https://thmb.techidaily.com/992704407ab581931890c09cce338091c04f10f6e
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Make Sure Messaging Is Enabled
 
  If you've just set up your iPhone or completed an iOS update, there is a chance iMessage isn't enabled. If not enabled, you won't receive texts from other iPhones. To turn this on, head to**Settings > Messages > iMessage** .
 
 ![imessage settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/imessage-settings.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Below iMessage, you will also see a setting for**Send & Receive** . Make sure you have an address enabled to receive iMessages. While you're here, be sure to also enable**MMS** and**Group Messaging** . If you scroll down, you will see the options for these.
 
 ![mms group messages](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/mms-group-messages.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Sometimes, certain emojis will be sent as an MMS message. If you have this off, you won't receive the text. There are also cases where someone might tag another person in the text and make it a group text. If this option was off, you wouldn't have received that text either.
 
@@ -53,11 +49,11 @@ thumbnail: https://thmb.techidaily.com/992704407ab581931890c09cce338091c04f10f6e
 
 ![iphone messages settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/iphone-messages-settings.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![selecting email address for imessage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/apple-imessage-settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -66,10 +62,6 @@ Close
  To do this, open Settings, head to**Messages > Send & Receive** , and select your Apple ID email address. This will allow you to send or receive messages over the internet using this email address.
 
  Some people might be sending you messages to your email address unknowingly, so changing this particular setting will make it possible to receive these messages.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Make Sure You Have Cellular or Wi-Fi for iMessage
 
@@ -90,7 +82,7 @@ Close
 ![send as sms](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/send-as-sms.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Turn Off Message Filtering
@@ -101,7 +93,15 @@ Close
 
 ![filter unknown senders](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/filter-unknown-senders.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once you turn it off, head to the Messages app to find any unread messages that the filter hid. Filtered messages don't get deleted. Instead, they get stored in another folder. Once you turn off Message Filtering, you'll see them in the**Messages** app.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Reset Your Network Settings
 
@@ -124,7 +124,7 @@ Close
  When calling your carrier, just let them know you aren't receiving text messages. If the carrier can't help you, consider switching to a different network provider unless you have a [carrier-locked phone](https://www.makeuseof.com/unlocked-vs-locked-phone/) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## iPhone Not Receiving Texts? There Are Things You Can Do
@@ -150,18 +150,24 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-how-to-make-videos-with-music-for-tiktok-in-2024/"><u>[New] How To Make Videos With Music for Tiktok, In 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-capture-and-share-online-journeys-browsers-top-screen-recorders/"><u>[Updated] In 2024, Capture and Share Online Journeys Browsers' Top Screen Recorders</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-precision-trimming-elevating-your-youtube-video-quality/"><u>[Updated] Precision Trimming Elevating Your YouTube Video Quality</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-perfecting-youtube-visibility-a-step-by-step-featured-channels-guide/"><u>2024 Approved Perfecting YouTube Visibility A Step-by-Step Featured Channels Guide</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-radiant-realms-creating-exceptional-hdr-with-photoshop/"><u>2024 Approved Radiant Realms Creating Exceptional HDR with Photoshop</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/enhance-visual-engagement-mastering-instagram-image-posts/"><u>Enhance Visual Engagement Mastering Instagram Image Posts</u></a></li>
-<li><a href="https://games-able.techidaily.com/enhance-your-gaming-experience-with-top-5-benefits-of-paid-mobile-apps/"><u>Enhance Your Gaming Experience with Top 5 Benefits of Paid Mobile Apps</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-enable-landscape-orientation-on-your-iphone-when-it-stays-in-portrait/"><u>How to Enable Landscape Orientation on Your iPhone When It Stays in Portrait</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-retrieve-and-locate-saved-images-from-your-imessage-or-facetime-conversations/"><u>How to Retrieve and Locate Saved Images From Your iMessage or FaceTime Conversations</u></a></li>
-<li><a href="https://fox-that.techidaily.com/master-the-art-of-resetting-your-iphone-techniques-for-immediate-power-off-and-initiating-recovery-settings/"><u>Master the Art of Resetting Your iPhone: Techniques for Immediate Power-Off and Initiating Recovery Settings</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/secrets-revealed-mastering-minecraft-recordings-on-a-macbook-pro/"><u>Secrets Revealed Mastering Minecraft Recordings on a MacBook Pro</u></a></li>
-<li><a href="https://fox-that.techidaily.com/top-solutions-how-to-correct-the-yellow-discoloration-on-your-iphone-display/"><u>Top Solutions: How to Correct the Yellow Discoloration on Your iPhone Display</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-resources-stuck-in-usage-on-windows-11-systems/"><u>Unlocking Resources Stuck in Usage on Windows 11 Systems</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-analyzing-flight-performance-in-djis-drone-standard-edition/"><u>[New] 2024 Approved Analyzing Flight Performance in DJI's Drone Standard Edition</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-capture-clarity-ideal-phone-tripod-pairs/"><u>[Updated] 2024 Approved Capture Clarity Ideal Phone-Tripod Pairs</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-elevate-your-teams-productivity-with-slack-plus-filmora-harmony-for-2024/"><u>[Updated] Elevate Your Team's Productivity with Slack + Filmora Harmony for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-samsung-ubd-k8500-review/"><u>[Updated] Samsung UBD-K8500 Review</u></a></li>
+<li><a href="https://fox-that.techidaily.com/cant-use-face-id-discover-14-tips-to-restore-functionality-on-your-iphone/"><u>Can't Use Face ID? Discover 14 Tips to Restore Functionality on Your iPhone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/converting-jpegpng-images-to-pdf-on-ipad-and-iphone-devices/"><u>Converting JPEG/PNG Images to PDF on iPad and iPhone Devices</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixes-for-non-responsive-custom-settings-on-your-device/"><u>Fixes for Non-Responsive Custom Settings on Your Device</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-fix-it-steps-for-dealing-with-a-non-working-airpod/"><u>How To Fix It: Steps For Dealing With A Non-Working AirPod</u></a></li>
+<li><a href="https://fox-that.techidaily.com/imessage-alerts-signs-of-being-blocked-by-another-user/"><u>IMessage Alerts: Signs of Being Blocked by Another User</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-vivo-x90s-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Vivo X90S to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/instructions-on-disabling-and-deleting-windows-reserved-partition/"><u>Instructions on Disabling and Deleting Windows Reserved Partition</u></a></li>
+<li><a href="https://fox-that.techidaily.com/simple-steps-to-carry-out-a-soft-reset-of-your-iphone-without-data-loss/"><u>Simple Steps to Carry Out a Soft Reset of Your iPhone Without Data Loss</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-guide-to-tiktok-video-amplification-for-2024/"><u>The Ultimate Guide to TikTok Video Amplification for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-7-causes-behind-non-responsive-iphone-touchscreen-solutions-inside/"><u>Top 7 Causes Behind Non-Responsive iPhone Touchscreen: Solutions Inside!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-six-solutions-when-your-iphone-displays-emergency-call-sos-on-the-status-bar/"><u>Top Six Solutions When Your iPhone Displays Emergency Call (SOS) on the Status Bar</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-and-repair-an-unresponsive-iphone-home-button-in-minutes/"><u>Troubleshoot and Repair an Unresponsive iPhone Home Button in Minutes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-eliminate-error-224003-playback-issues-on-your-videos/"><u>Troubleshooting Guide: Eliminate 'Error 224003 - Playback Issues' On Your Videos</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-steps-for-outdated-ios-email-syncing-problems/"><u>Troubleshooting Steps for Outdated iOS Email Syncing Problems</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unveiling-the-secrets-behind-your-iphones-automatic-brightness-changes/"><u>Unveiling the Secrets Behind Your iPhone's Automatic Brightness Changes</u></a></li>
 </ul></div>
 

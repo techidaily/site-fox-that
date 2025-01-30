@@ -1,7 +1,7 @@
 ---
 title: Unable to Install iOS Updates on Your Device? Try These 9 Remedies
-date: 2024-08-10T03:37:46.494Z
-updated: 2024-08-11T03:37:46.494Z
+date: 2025-01-24T03:36:31.315Z
+updated: 2025-01-29T21:48:24.616Z
 tags:
   - iphone
   - apple
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/b53e4c331196053afd389dad87c586f0b9c8a334f
 
  Let's look at some fixes that will help you get the latest system software running on your device properly. Here's how to fix your iPhone or iPad when it won't let you update iOS or iPadOS.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Charge Your iPhone or iPad
 
  Let's start with some basics before diving into more advanced troubleshooting. As you probably know, your iPhone won't let you upgrade if you don't have enough battery power. This is to prevent your device from shutting off in the middle of an update, which can cause serious problems.
@@ -26,13 +30,14 @@ thumbnail: https://thmb.techidaily.com/b53e4c331196053afd389dad87c586f0b9c8a334f
 
  Make sure you plug in your iPhone or iPad and have plenty of battery charge before starting the OS update. It's a good idea to leave it on the charger while the process runs, too. That way, if it takes longer than expected, your phone won't run out of power.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Make Sure Your Device Is Eligible for the Update
 
  Over time, Apple drops support for older devices, so not all iPhone and iPad models can update to the latest iOS version. To make sure your device can get the latest release of Apple's mobile operating system, scroll down to the bottom of [Apple's iOS info page](https://www.apple.com/ios/) or [iPadOS info page](https://www.apple.com/ipados/) , where you'll see a box that says**iOS is compatible with these devices** .
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![iOS 16 Compatibility List](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/ios-16-compatibility-list.jpg)
 
  Look for your device name here. If you don't see it, your phone or tablet is too old to get the latest version. This is a [sign it's time to upgrade your iPhone](https://www.makeuseof.com/7-signs-its-time-to-upgrade-your-iphone/) .
@@ -45,9 +50,6 @@ thumbnail: https://thmb.techidaily.com/b53e4c331196053afd389dad87c586f0b9c8a334f
 
  The update menu lets you schedule a system update to run overnight, when most people in your area won't be trying to update. Try that, and if it doesn't work either, wait a few days before giving it another shot.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ## 4\. Force-Restart Your Device
 
 ![iPhone in hand with Recovery Mode prompt showing](https://thmb.techidaily.com/f0b667ebcfe4598116d4b6654429dec8091fa0451fb3d4865d8f30f7e5a361bf.jpg)
@@ -56,9 +58,6 @@ thumbnail: https://thmb.techidaily.com/b53e4c331196053afd389dad87c586f0b9c8a334f
 
  Once you've done this successfully, you'll see your screen turn black. Afterward, an Apple logo will appear and you'll be greeted by your lock screen. Your device is now fully refreshed, so you can go ahead and try to update again.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 5\. Free Up Space on Your Device
 
  A lack of device storage is a common culprit for a faulty update process. Luckily, modern versions of iOS and iPadOS help you free up space easily. Here's how:
@@ -67,15 +66,13 @@ thumbnail: https://thmb.techidaily.com/b53e4c331196053afd389dad87c586f0b9c8a334f
 2. Scroll down and tap**General** .
 3. Tap**iPhone Storage** or**iPad Storage** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Tap iPhone Storage.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/10-select-iphone-storage.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![iPhone Storage App List](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/08/04a-iPhone-Storage-App-List.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -112,14 +109,19 @@ Let's look at what these do.
 6. Click**Download** .
 7. Once the download is finished, select**Update** .
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![iPhone Back Up to iTunes 2021](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/iPhone-Back-Up-to-iTunes-2021.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Since Apple retired iTunes for Mac starting with macOS Catalina, you'll need to do this through Finder instead. Connect your device to your Mac, open Finder, and click your device's name on the left sidebar. This will bring you to a panel similar to the old iTunes interface, where you can follow the steps above (the necessary controls appear under the**General** tab).
 
  After doing this, the update should install onto your device. If you have trouble, see [what to do when your iPhone won't connect to your computer](https://www.makeuseof.com/tag/iphone-wont-connect-to-computer/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Delete Old Update Data (Including Beta Versions)
 
@@ -144,10 +146,11 @@ To reset network settings on your iPhone or iPad:
 3. Select**Reset** at the bottom, followed by**Reset Network Settings** .
 4. Enter your passcode and confirm you want to do this.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ![iOS 15 General Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/01a-iOS-15-General-Settings.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![iOS 15 Reset Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/01b-iOS-15-Reset-Menu.png)
 
@@ -157,9 +160,6 @@ Close
 
  Once you reset your Wi-Fi configuration, reconnect to a strong Wi-Fi network and try the iOS update again.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 9\. Reset All Settings, Then Factory Reset
 
  If none of the above has fixed your problem, you should consider completely wiping your device. In the same**Reset** menu mentioned above, you can either reset all settings on your device or perform a factory reset to erase everything.
@@ -184,14 +184,15 @@ Here's how to factory reset your device:
 
 ![iOS 15 Reset Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/01b-iOS-15-Reset-Menu.png)
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ![iOS 15 Erase All](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/02a-iOS-15-Erase-All.png)
 
 Close
 
  Your device will now revert back to its factory state. Because everything is fresh again, you'll hopefully be able to update without issue. You can [restore your iPhone backup](https://www.makeuseof.com/tag/restore-iphone-ipad-from-backup/) during the setup process.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## iPhone Updating Troubles: Fixed
 
@@ -205,8 +206,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -214,6 +213,24 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-swiveling-screens-mastering-video-rotation-on-instagram/"><u>[Updated] 2024 Approved Swiveling Screens Mastering Video Rotation on Instagram</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-elite-corporate-space-for-secure-storage/"><u>2024 Approved Elite Corporate Space for Secure Storage</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/computational-photography-what-are-auto-hdr-smart-hdr-3-and-4-shooting-modes-for-2024/"><u>Computational Photography What Are Auto HDR, Smart HDR 3 & 4 Shooting Modes for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721456239166-facetime-wont-start-here-are-the-15-most-effective-solutions-to-test-out-now/"><u>FaceTime Won't Start? Here Are the 15 Most Effective Solutions to Test Out Now</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721447481809-home-button-issues-on-iphones-here-are-5-swift-fixes-to-try/"><u>Home Button Issues on iPhones? Here Are 5 Swift Fixes to Try!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-clear-iphone-network-configuration-a-guide-to-solving-various-issues/"><u>How to Clear iPhone Network Configuration: A Guide to Solving Various Issues</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-windows-10-display-flicker-problems/"><u>How To Resolve Windows 10 Display Flicker Problems</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-iphone-passcode-again-unlock-iphone-7-plus-without-passcode-now-by-drfone-ios/"><u>In 2024, Forgot iPhone Passcode Again? Unlock iPhone 7 Plus Without Passcode Now</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-the-essential-process-for-saving-social-media-video-content/"><u>In 2024, The Essential Process for Saving Social Media Video Content</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-the-ultimate-guide-to-making-reaction-videos-on-your-phone/"><u>New 2024 Approved The Ultimate Guide to Making Reaction Videos on Your Phone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/stop-missed-calls-discover-11-methods-for-reactivating-iphone-ringers/"><u>Stop Missed Calls: Discover 11 Methods for Reactivating iPhone Ringers</u></a></li>
+<li><a href="https://fox-that.techidaily.com/streamlining-your-iphone-photography-experience-strategies-for-managing-and-fixing-issues/"><u>Streamlining Your iPhone Photography Experience: Strategies for Managing and Fixing Issues</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-iphone-memory-warnings-when-playing-roblox-essential-tips/"><u>Troubleshooting iPhone Memory Warnings When Playing Roblox: Essential Tips</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-iphone-why-wont-my-phone-switch-between-portrait-and-landscape/"><u>Troubleshooting iPhone: Why Won't My Phone Switch Between Portrait and Landscape?</u></a></li>
+<li><a href="https://win-best.techidaily.com/tutorial-gratuit-transformer-un-fichier-mp4-au-format-3gp-sur-le-web-avec-movavi/"><u>Tutorial Gratuit: Transformer Un Fichier MP4 Au Format 3GP Sur Le Web Avec Movavi</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlocking-frozen-icloud-controls-tips-for-apple-device-owners/"><u>Unlocking Frozen iCloud Controls: Tips for Apple Device Owners</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>What is Fake GPS Location Pro and Is It Good On Apple iPhone 12 mini? | Dr.fone</u></a></li>
+</ul></div>
 

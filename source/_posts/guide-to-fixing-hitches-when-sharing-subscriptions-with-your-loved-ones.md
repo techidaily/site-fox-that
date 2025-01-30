@@ -1,7 +1,7 @@
 ---
 title: Guide to Fixing Hitches When Sharing Subscriptions with Your Loved Ones
-date: 2024-08-10T03:39:06.936Z
-updated: 2024-08-11T03:39:06.936Z
+date: 2025-01-27T06:30:40.737Z
+updated: 2025-01-29T16:51:37.271Z
 tags:
   - iphone
   - apple
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/c8eb03733ef324f2e03346e87f6cada30d7b235c9
 
  However, some people have tried to make this feature work and failed. So, if you're sure you've paid for a subscription service and you notice that it's not shared among family members, we have listed a few troubleshooting steps to resolve the problem.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Check Apple's System Status Page
 
  Before logging out of your Apple ID, removing and adding family members, and sifting through your payment details, you might save some time by checking if the service you seemingly can't share is online in the first place.
@@ -28,9 +32,6 @@ thumbnail: https://thmb.techidaily.com/c8eb03733ef324f2e03346e87f6cada30d7b235c9
 
  This will hardly be the culprit, but it's worth checking before going into the more detailed fixes.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 2\. Turn on Purchase Sharing and Share With Family
 
  Purchase Sharing is a feature that allows family members to share apps, movies, TV shows, songs, and books they bought with each other. The family organizer will pay for it using a shared payment method, but all the family members will get to download it if they want. You can learn more about it in [our guide on Apple Family Sharing](https://www.makeuseof.com/tag/set-family-sharing-share-apps-music-itunes-purchases/) .
@@ -44,26 +45,19 @@ Here's how to turn it on using an iPhone or iPad:
 5. Return to the Apple ID settings menu and tap**Subscriptions** .
 6. Toggle on**Share With Family** .
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Family menu on iOS 16 Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/1.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Family purchase sharing prompt screen on iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/2.jpeg)
 
 ![Purchase Sharing menu displaying payment options and family members on iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/3-1.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -73,12 +67,13 @@ And here's how to do the same on a Mac:
 2. Select**Purchase Sharing** from the menu.
 3. Follow the on-screen prompts by clicking**Continue,** then**Turn On Purchase Sharing.**
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Purchase Sharing prompt in System Settings on macOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/purchase-sharing-prompt-in-system-settings-on-macos.png)
 
 This might fix your issue, but try the next step if it doesn't.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Change Apple ID Region
 
@@ -95,9 +90,6 @@ Here's a quick way to do it on your browser:
 
 ![Dreamchild's Apple ID personal information page on the Apple ID website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/dreamchild-s-apple-id-personal-information-page-on-the-apple-id-website.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Sign Out and Sign In to Media & Purchases
 
  First, you must ensure you're using the same Apple ID for Family Sharing and Media & Purchases. You can find it in**Settings** \>**Family** \>**Your Name** \>**Purchases** \>**Apple ID for Purchases** . Confirm that your Apple ID for purchases is the same as your regular Apple ID.
@@ -113,15 +105,17 @@ Here's a quick way to do it on your browser:
 ![Media & Purchases sub-settings in Apple ID menu on iOS Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/2-1.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Prompt to confirm Media & Purchases sign out on iOS Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/3-2.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ## 5\. Sign Out, Restart, and Sign In
 
  A little Apple ID reset on the device that isn't receiving the shared subscription might do the trick.
@@ -136,9 +130,6 @@ Close
 
 ![Prompt to enter Apple ID password](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/2-prompt-to-enter-apple-id-password.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![iOS Settings with Apple ID signed out](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/ios-settings-with-apple-id-signed-out.jpeg)
 
 Close
@@ -154,6 +145,10 @@ If the problematic device is a Mac, do this instead:
 
  This should refresh the App Store and other apps, and it should now recognize that the signed-in Apple ID has access to the shared subscriptions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Add the Family Member Again
 
  As an extension of refreshing it all, you can re-organize the Family Sharing group by disbanding it and adding everyone back again.
@@ -166,10 +161,11 @@ Here's how to do it on iOS and iPadOS:
 
 ![Family menu on iOS 16 Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/1.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Faizah's Family menu displaying option to Remove Faizah from Family](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/faizah-s-family-menu-displaying-option-to-remove-faizah-from-family.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -179,9 +175,6 @@ If you're on a Mac, follow these steps instead:
 2. Select the family member and choose**Remove from Family** .
 3. Invite them back by clicking**Add Member** in the Family menu and following the on-screen instructions.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![Family member sub-window in System Settings on macOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/family-member-sub-window-in-system-settings-on-macos.jpeg)
 
  If you want to learn more about managing your family members, you can read our guide on [how to stop using Apple Family](https://www.makeuseof.com/how-to-stop-apple-family-sharing-or-remove-members/) .
@@ -200,8 +193,6 @@ If you're on a Mac, follow these steps instead:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -209,6 +200,23 @@ If you're on a Mac, follow these steps instead:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-elevate-video-output-quality-mastering-aiseesoft-screencast-tech/"><u>[New] 2024 Approved Elevate Video Output Quality Mastering Aiseesoft Screencast Tech</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-essential-guide-to-launching-a-zoom-session-on-android/"><u>[New] The Essential Guide to Launching a Zoom Session on Android</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-harmonize-video-quality-with-instagrams-visual-theme-for-2024/"><u>[Updated] Harmonize Video Quality with Instagram's Visual Theme for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/6-ways-to-fix-a-stuck-ios-update-that-says-resume-download/"><u>6 Ways to Fix a Stuck iOS Update That Says Resume Download</u></a></li>
+<li><a href="https://fox-info.techidaily.com/best-value-for-money-8-ace-free-srt-apps-reviewed/"><u>Best Value for Money 8 Ace Free SRT Apps Reviewed</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fix-your-iphones-troublesome-apps-10-steps-to-prevent-constant-crashing/"><u>Fix Your iPhone's Troublesome Apps – 10 Steps to Prevent Constant Crashing</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-10-financially-friendly-live-streaming-apps-ios-and-android-reviewed/"><u>In 2024, 10 Financially Friendly Live Streaming Apps IOS & Android Reviewed</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-unrecognized-by-itunes-or-finder-quick-troubleshooting-guide-and-fixes/"><u>IPhone Unrecognized by iTunes or Finder: Quick Troubleshooting Guide & Fixes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/lost-iphone-application-a-comprehensive-guide-to-recover-vanished-apps/"><u>Lost iPhone Application: A Comprehensive Guide to Recover Vanished Apps</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/maximize-savings-save-big-on-macbooks-for-costco-members-exclusive-discount-secrets-revealed-zdnet/"><u>Maximize Savings: Save Big on MacBooks for Costco Members - Exclusive Discount Secrets Revealed | ZDNET</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-adjusting-video-playback-speed-in-quicktime-a-beginners-guide/"><u>New 2024 Approved Adjusting Video Playback Speed in QuickTime A Beginners Guide</u></a></li>
+<li><a href="https://discover-able.techidaily.com/reflecting-on-the-pioneering-creative-design-journey-of-2016-a-recap-of-pcdj-achievements/"><u>Reflecting on the Pioneering Creative Design Journey of 2016: A Recap of PCDJ Achievements</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolving-final-character-unavailable-on-your-iphone-screen/"><u>Resolving 'Final Character Unavailable' On Your iPhone Screen</u></a></li>
+<li><a href="https://fox-that.techidaily.com/step-by-step-tutorial-on-seeking-tech-help-for-your-iphone-via-apple-support-services/"><u>Step-by-Step Tutorial on Seeking Tech Help for Your iPhone via Apple Support Services</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/streamlining-skype-calls-with-advanced-zoom-use/"><u>Streamlining Skype Calls with Advanced Zoom Use</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-preventing-and-repairing-heat-issues-on-your-apple-devices/"><u>Troubleshooting: Preventing and Repairing Heat Issues on Your Apple Devices</u></a></li>
+</ul></div>
 

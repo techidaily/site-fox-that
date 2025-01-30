@@ -1,7 +1,7 @@
 ---
 title: "Mastering iPhone Battery Care: A 6-Step Restoration Method"
-date: 2025-01-17T18:42:52.827Z
-updated: 2025-01-22T21:20:04.365Z
+date: 2025-01-26T17:17:22.721Z
+updated: 2025-01-30T07:22:52.687Z
 tags:
   - iphone
   - apple
@@ -35,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/0f9975c7424be8ab80f0e3edfa04cf204d756fbbd
 
  While you shouldn't need to calibrate regularly, it's worth a try if your iPhone is older or you've had battery issues that other steps didn't resolve.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Preparing to Calibrate Your iPhone's Battery
 
  Before starting the calibration process, you should take a few steps in preparation. They all revolve around disabling features and services, so as few tasks as possible draw power.
@@ -54,23 +58,11 @@ To disable location services on your iPhone, follow these steps:
 
 ![location services settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/location-services-settings.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![location services on off](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/location-services-on-off.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Close
 
  Remember, you can [use Location Services to track a lost iPhone](https://www.makeuseof.com/tag/how-to-trace-a-mobile-phone-location-with-google-latitude/) , so make sure you don't forget to re-enable this after you're done calibrating.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Disable Background Refresh
 
@@ -83,11 +75,11 @@ Close
 
 ![ios app refresh menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/03/ios-app-refresh-2.png)
 
-![ios app refresh settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/03/ios-app-refresh-1.png)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![ios app refresh settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/03/ios-app-refresh-1.png)
 
 Close
 
@@ -101,11 +93,11 @@ Here's how to lower the screen brightness on an iPhone:
 
 ![ios brightness menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/03/ios-brightness-2.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![ios brightness slider](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/03/ios-brightness.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -124,7 +116,7 @@ Finally, to turn off automatic updates, follow these three steps:
 Close
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Calibrate Your iPhone's Battery
@@ -132,10 +124,6 @@ Close
  Now, you're ready to calibrate the battery on your iPhone. Be warned that it takes quite a bit of patience; you'll need to wait around for a couple of complete charge and drain cycles to finish.
 
  Luckily, you don't need any third-party tools or apps. Anything you see in the App Store promising to reset your iPhone's battery is, at best, unnecessary and, at worst, a scam. iPhone's battery calibration is easy to perform without extra help.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Step 1: Drain Your iPhone's Battery
 
@@ -146,6 +134,10 @@ Close
  You may have noticed that your iPhone will automatically shut down even if the battery has a small percentage left. This process is by design; it gives the device a chance to save the current state of your apps so you don't lose data.
 
  It's important to let the last embers of the battery life die away. The only way to do this is to wait. The longer you wait, the better, but you should wait at least three hours. If you have time, letting it sit overnight is preferable.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Step 3: Charge Your iPhone
 
@@ -160,12 +152,16 @@ Close
  Now, you need to repeat the whole process a second time. It's the same drill as before: completely drain the power out of your device. Either use it as you normally would or play videos on loop to move it along faster.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 5: Wait Another Three Hours
 
  It's getting repetitive by now but stick with it. Once again, you need to ensure you drain that last bit of battery power from your iPhone. Like before, the longer you can leave it, the better.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Step 6: Charge Your iPhone Again
 
@@ -174,6 +170,10 @@ Close
  Finally, you need to re-enable the services and functions you disabled earlier. Turn Location Services, Background Refresh, and Automatic Updates back on and turn the screen brightness back up.
 
 And that's it. Now, your iPhone's battery has been recalibrated.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Enable Optimized Battery Charging After Calibration
 
@@ -192,7 +192,7 @@ Close
  Head to **Settings > Battery > Battery Health & Charging > Optimized Battery Charging** to toggle this on. This slows down the aging of your iPhone's battery, keeping its maximum capacity from degrading quickly.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Other Battery-Saving iPhone Tips
@@ -216,21 +216,19 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-stream.techidaily.com/new-free-traffic-on-youtube-tips-that-actually-work/"><u>[New] Free Traffic on YouTube Tips That Actually Work</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-stories-the-bare-essentials-guide-for-2024/"><u>[Updated] Stories The Bare Essentials Guide for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-overcoming-absence-of-color-in-game-recordings/"><u>2024 Approved Overcoming Absence of Color in Game Recordings</u></a></li>
-<li><a href="https://fox-that.techidaily.com/cant-capture-memories-on-your-iphone-fix-these-common-camera-issues-now/"><u>Can’t Capture Memories on Your iPhone? Fix These Common Camera Issues Now</u></a></li>
-<li><a href="https://fox-that.techidaily.com/diagnose-and-repair-your-iphones-silent-mic-problem-today/"><u>Diagnose & Repair Your iPhone's Silent Mic Problem Today</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/expert-tips-on-finding-optimal-free-srt-translator-services/"><u>Expert Tips on Finding Optimal Free SRT Translator Services</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fix-vanishing-alerts-on-your-iphone-top-eight-strategies-to-try-now/"><u>Fix Vanishing Alerts on Your iPhone: Top Eight Strategies to Try Now</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-put-an-end-to-that-flickering-display-unveil-these-7-tips-for-your-phone/"><u>How to Put an End to That Flickering Display – Unveil These 7 Tips for Your Phone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-solve-your-iphones-hotspot-connectivity-problems-swiftly/"><u>How to Solve Your iPhone's Hotspot Connectivity Problems Swiftly</u></a></li>
-<li><a href="https://win-info.techidaily.com/iconic-simpsons-series-wallpapers-backgrounds-and-hd-images-comprehensive-collection-by-yl-computing/"><u>Iconic Simpson's Series Wallpapers, Backgrounds & HD Images - Comprehensive Collection by YL Computing</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-any-tecno-spark-go-2024-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Tecno Spark Go (2024) Phone Password Using Emergency Call</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/revamp-your-pcs-dns-cache-efficiently/"><u>Revamp Your PC's DNS Cache Efficiently</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-tutorial-accessing-high-quality-flac-music-on-ios-platforms/"><u>Step-by-Step Tutorial: Accessing High-Quality FLAC Music on iOS Platforms</u></a></li>
-<li><a href="https://fox-that.techidaily.com/struggling-with-your-iphones-cell-service-try-these-10-troubleshooting-steps/"><u>Struggling with Your iPhone's Cell Service? Try These 10 Troubleshooting Steps</u></a></li>
-<li><a href="https://fox-that.techidaily.com/unstuck-from-silence-resolving-iphone-and-ipad-keyboard-problems-in-just-6-steps/"><u>Unstuck From Silence: Resolving iPhone and iPad Keyboard Problems in Just 6 Steps</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/otkrytie-samye-effektivnye-alternativy-clearscope-dlya-uluchsheniya-seo-perspektiv-rekomendacii-seo-powersuite/"><u>Открытие: Самые Эффективные Альтернативы Clearscope Для Улучшения Сео-Перспектив - Рекомендации SEO PowerSuite</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-capture-composition-ideal-plugins-and-websites-to-frame-your-images-for-2024/"><u>[New] Capture Composition Ideal Plugins and Websites to Frame Your Images for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-10-superior-youtube-mp3-extractors-for-2024/"><u>[Updated] 10 Superior YouTube Mp3 Extractors for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-airwaves-to-iphone-essential-knowledge-on-podcast-downloads/"><u>[Updated] From Airwaves to iPhone Essential Knowledge on Podcast Downloads</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-from-captured-moment-to-moving-picture/"><u>[Updated] From Captured Moment to Moving Picture</u></a></li>
+<li><a href="https://fox-that.techidaily.com/achieve-perfect-photo-clarity-on-your-iphone-camera-using-these-7-techniques/"><u>Achieve Perfect Photo Clarity on Your iPhone Camera Using These 7 Techniques</u></a></li>
+<li><a href="https://fox-that.techidaily.com/clearing-up-yellow-hue-issues-in-your-ios-device-screen-iphone/"><u>Clearing Up Yellow Hue Issues In Your iOS Device Screen (iPhone)</u></a></li>
+<li><a href="https://fox-that.techidaily.com/detecting-drenched-devices-navigate-through-these-pressure-points-for-a-waterlogged-iphone/"><u>Detecting Drenched Devices: Navigate Through These Pressure Points for a Waterlogged iPhone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721480122474-facing-challenges-with-your-apple-device-updates-use-our-9-top-tips/"><u>Facing Challenges with Your Apple Device Updates? Use Our 9 Top Tips!</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-xiaomi-13t-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Xiaomi 13T | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/oppo-f25-pro-5g-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Oppo F25 Pro 5G ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://article-tips.techidaily.com/sounds-of-laughter-top-ringtones-downloaders/"><u>Sounds of Laughter Top Ringtones Downloaders</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-fixes-for-a-broken-skype-mic-configuration-on-windows-10/"><u>Step-by-Step Fixes for a Broken Skype Mic Configuration on Windows 10</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/form-your-videos-on-demand-freedom-through-editing-android-edition/"><u>Transform Your Videos on Demand Freedom Through Editing, Android Edition</u></a></li>
+<li><a href="https://fox-that.techidaily.com/want-to-surf-the-web-on-your-idevice-beat-wi-fi-connection-issues-with-our-8-quick-fixes/"><u>Want to Surf the Web on Your iDevice? Beat Wi-Fi Connection Issues with Our 8 Quick Fixes</u></a></li>
 </ul></div>
 

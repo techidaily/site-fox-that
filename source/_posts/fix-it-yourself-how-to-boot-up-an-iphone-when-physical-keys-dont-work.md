@@ -1,7 +1,7 @@
 ---
 title: Fix It Yourself! How to Boot Up an iPhone When Physical Keys Don't Work
-date: 2025-01-20T23:10:06.565Z
-updated: 2025-01-22T22:38:17.163Z
+date: 2025-01-24T22:00:59.883Z
+updated: 2025-01-30T03:21:52.781Z
 tags:
   - iphone
   - apple
@@ -23,16 +23,12 @@ thumbnail: https://thmb.techidaily.com/f74f161f0523579dd71e4de3d10404ac967ce66d0
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Restart an iPhone With Face ID
 
 ![How to Restart iPhone With Face ID](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/how-to-restart-iphone-with-face-id.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Follow these steps to restart iPhone X, iPhone XR, or any newer model with a notch or [Dynamic Island](https://www.makeuseof.com/what-is-dynamic-island/) :
@@ -43,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/f74f161f0523579dd71e4de3d10404ac967ce66d0
 4. Press the**Side button** and release it when you see the Apple logo on the startup screen. In a few seconds, your iPhone will turn on.
 
  You have successfully restarted your iPhone with Face ID. Enter the device passcode to unlock it and get to the Home Screen.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Restart an iPhone With a Home Button
 
@@ -69,6 +69,10 @@ You have successfully restarted your iPhone with a Home button.
 
  This comes in handy if your iPhone buttons are broken or not working for any reason. It can also be helpful if you're unable to press and hold the buttons.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to Restart an iPhone From the Settings App
 
  The first method is to restart your iPhone through the**Settings** app. Follow these steps:
@@ -80,19 +84,19 @@ You have successfully restarted your iPhone with a Home button.
 
 ![iPhone Settings app showing General option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/iphone-settings-app-showing-general-option.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![iPhone Settings app showing Shut Down](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/iphone-settings-app-showing-shut-down.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![iPhone Power off screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/iphone-power-off-screen.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Close
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to Restart an iPhone Using Siri
 
@@ -104,10 +108,6 @@ Close
 4. You'll see a pop-up on your screen. Tap**Restart** to confirm. Your iPhone will now turn off and turn on again all by itself.
 
 ![using siri to restart iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/muo-in-article-image-1200px-by-600px-21-ratio-23.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How Often Should You Restart Your iPhone?
 
@@ -136,17 +136,18 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-scope-to-screen-partnerships-for-mcns/"><u>2024 Approved Scope-to-Screen Partnerships for MCNs</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/boosting-efficiency-tackling-sluggish-ssd-write-velocity-challenges/"><u>Boosting Efficiency: Tackling Sluggish SSD Write Velocity Challenges</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-oppo-find-x6-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Oppo Find X6 | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-perfecting-your-personal-palette-a-guide-to-whatsapp-alerts-on-phones/"><u>In 2024, Perfecting Your Personal Palette A Guide to WhatsApp Alerts on Phones</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-streamlining-srt-file-integration-on-digital-platforms/"><u>In 2024, Streamlining SRT File Integration on Digital Platforms</u></a></li>
-<li><a href="https://fox-that.techidaily.com/iphone-users-rejoice-discover-these-9-quick-fixes-for-a-non-responsive-chatgpt-application/"><u>IPhone Users Rejoice! Discover These 9 Quick Fixes for a Non-Responsive ChatGPT Application</u></a></li>
-<li><a href="https://fox-that.techidaily.com/lost-all-iconography-on-ios-device-heres-how-to-restore-them/"><u>Lost All Iconography on iOS Device? Here's How to Restore Them</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solving-uneven-sound-discover-how-to-fix-asymmetrical-volume-in-your-airpods/"><u>Solving Uneven Sound: Discover How to Fix Asymmetrical Volume in Your AirPods</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-guide-erasing-your-youtube-viewing-and-search-records/"><u>Step-by-Step Guide: Erasing Your YouTube Viewing and Search Records</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-guide-how-to-repair-facetime-when-it-stops-responding/"><u>Troubleshooting Guide: How to Repair FaceTime When It Stops Responding</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721457446100-unsticking-images-in-safari-on-ios-devices-9-handy-fixes-for-you/"><u>Unsticking Images in Safari on iOS Devices: 9 Handy Fixes for You</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/x-audio-capture-pc-version-for-2024/"><u>X-Audio Capture PC Version for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-accelerated-image-viewer-in-windows-environment/"><u>[New] In 2024, Accelerated Image Viewer in Windows Environment</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ltimate-youtube-watch-list-highest-watched-in-24-hours/"><u>[New] Ultimate YouTube Watch List Highest-Watched in 24 Hours</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-firefoxvidrecorder-plugins/"><u>[Updated] FirefoxVidRecorder Plugins</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-the-social-media-whizs-playbook-analyzing-user-behavior-with-insta-insights/"><u>[Updated] In 2024, The Social Media Whiz's Playbook Analyzing User Behavior with Insta Insights</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlocking-video-editing-on-windows-11-for-professionals/"><u>[Updated] Unlocking Video Editing on Windows 11 for Professionals</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/are-torrent-downloads-from-the-pirate-bay-secure-and-legal/"><u>Are Torrent Downloads From The Pirate Bay Secure and Legal?</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/budget-friendly-powerhouse-in-depth-look-at-the-zte-blade-a3y/"><u>Budget-Friendly Powerhouse: In-Depth Look at the ZTE Blade A^3Y</u></a></li>
+<li><a href="https://extra-information.techidaily.com/canvas-beats-the-art-of-cropping-and-editing-video-sound-for-2024/"><u>Canvas Beats The Art of Cropping and Editing Video Sound for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fix-liquid-intrusion-alert-in-apple-iphones-using-usb-c-connector/"><u>Fix Liquid Intrusion Alert in Apple iPhones Using USB-C Connector</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Vivo Y78+? | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/reviving-your-iphone-without-physical-controls-a-comprehensive-guide/"><u>Reviving Your iPhone Without Physical Controls: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-8-solutions-to-resolve-iphone-photo-gallery-glitches/"><u>Top 8 Solutions to Resolve iPhone Photo Gallery Glitches</u></a></li>
+<li><a href="https://fox-that.techidaily.com/uneven-earbud-volume-try-these-4-fixes-to-balance-your-airpods-sound/"><u>Uneven Earbud Volume? Try These 4 Fixes to Balance Your AirPods Sound</u></a></li>
 </ul></div>
 

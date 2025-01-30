@@ -1,7 +1,7 @@
 ---
 title: Resolving Issues with Your Phone's Near Field Detection Feature (Proximity Sensor)
-date: 2024-08-10T03:38:41.568Z
-updated: 2024-08-11T03:38:41.568Z
+date: 2025-01-25T10:35:59.152Z
+updated: 2025-01-29T20:14:35.298Z
 tags:
   - iphone
   - apple
@@ -19,8 +19,9 @@ thumbnail: https://thmb.techidaily.com/7258b8f35a232c1cea7c283f6887f95e75da539c9
  iPhones are no different, and just like other phones, your iPhone's proximity sensor could get damaged or become unresponsive. If you run into this issue, there are some actions you could take to isolate the problem and fix it.
 
 <!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Test the Proximity Sensor on an iPhone
 
 ![A gray iPhone 6 on a woman's ear](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/a-gray-iphone-6-on-a-woman-s-ear.jpg)
@@ -42,9 +43,6 @@ Here are some things you could do to check if it's working:
 
 1\. Clean the Top Half of the Screen
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ![person cleaning a phone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/cleaning-phone.jpg)
 
  The most likely culprit is dirt and gunk that has accumulated on the top half of your screen, making it difficult for the emitter or sensor to work. You will run into this issue if you have sweaty or oily skin.
@@ -53,6 +51,10 @@ Here are some things you could do to check if it's working:
 
  Be careful not to use rubbing alcohol, window cleaners, vinegar, or any similar grease-cutting products, as they could eat away your screen's coating.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Restart the Target Application or Your iPhone
 
  If you notice that your proximity sensor is still not working after cleaning your screen, it could be the app (like WhatsApp or the Phone app) or iOS misbehaving.
@@ -60,8 +62,9 @@ Here are some things you could do to check if it's working:
  In this case, you should restart the app first. Merely returning to the Home Screen isn't enough; you must open the App Switcher (learn how to do so in our [iPhone navigation basics](https://www.makeuseof.com/how-to-go-back-get-home-switch-apps-iphone/) guide) and swipe up on the target app's preview. Open the app again and try to use the proximity sensor. You can also try [restarting your iPhone](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) for good measure.
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 3\. Make Sure Your iPhone Is Up to Date
 
  As an extension of software problems, your iPhone's proximity sensor might act up due to an iOS bug. The only way to completely rule out that possibility is to update your iPhone to the latest iOS version available.
@@ -70,9 +73,6 @@ Here are some things you could do to check if it's working:
 
 ![iPhone searching for updates in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-searching-for-updates-in-settings.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ![Software update information on iOS for iOS 16.6](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/software-update-information-on-ios-for-ios-16-6.jpeg)
 
 ![Update terms and conditions on iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/update-terms-and-conditions-on-ios.jpeg)
@@ -82,11 +82,16 @@ Close
  Your phone will restart a couple of times, but it will stabilize when it's finished. Test the proximity sensor again using our steps above.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 4\. Remove the Screen Protector
 
 ![man applying screen protector to smartphone feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/man-applying-screen-protector-to-smartphone-feature.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Image Credit: Nor Gal/[Shutterstock](https://www.shutterstock.com/image-photo/man-replacing-broken-tempered-glass-screen-1106925758)
 
@@ -103,9 +108,6 @@ Here's a brief rundown of how to do it:
 
  Give the proximity sensor a test to see if that helped. But if you're still out of luck, you have a last-resort option.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 5\. Take Your Phone Back to Apple or an Authorized Service Provider
 
  Sometimes, the issue could be bigger than software bugs or something blocking the sensor. It's officially beyond your pay grade, and it's time to take your phone to someone who could open it up if need be.
@@ -126,8 +128,6 @@ Here's a brief rundown of how to do it:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -135,6 +135,24 @@ Here's a brief rundown of how to do it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-maximizing-youtube-engagement-with-strategic-hashes/"><u>[New] 2024 Approved Maximizing YouTube Engagement with Strategic Hashes</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-direct-viewing-verdict-obs-vs-shadowcast-for-2024/"><u>[New] Direct Viewing Verdict OBS vs ShadowCast for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/nhancing-viewership-maintaining-youtubes-creative-commons-for-2024/"><u>[New] Enhancing Viewership Maintaining YouTube's Creative Commons for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-premier-earnings-prodigy-on-youtube/"><u>[Updated] Premier Earnings Prodigy on YouTube</u></a></li>
+<li><a href="https://fox-that.techidaily.com/7-effective-solutions-to-stop-phone-screen-from-flickering/"><u>7 Effective Solutions to Stop Phone Screen From Flickering</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/defeating-ps4-network-errors-an-in-depth-stepwise-strategy-for-nat-success/"><u>Defeating PS4 Network Errors: An In-Depth Stepwise Strategy for NAT Success</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/tless-keyword-harvesting-explore-the-best-7-no-fee-tag-extractors-for-2024/"><u>Effortless Keyword Harvesting Explore the Best 7 No-Fee Tag Extractors for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exclusive-insight-unveiling-the-persistent-80-discount-on-apples-2nd-generation-watchse-after-prime-day-hype-tech-analysis-by-zdnet/"><u>Exclusive Insight: Unveiling the Persistent $80 Discount on Apple's 2Nd Generation WatchSE After Prime Day Hype | Tech Analysis by ZDNET</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fix-aol-email-problems-on-iphones-with-these-6-easy-solutions/"><u>Fix AOL Email Problems on iPhones with These 6 Easy Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-the-stuck-stand-by-mode-on-your-iphone-in-just-4-steps/"><u>Fixing the Stuck Stand-By Mode on Your iPhone in Just 4 Steps</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-repair-a-broken-home-button-on-your-iphone-with-these-5-quick-tips/"><u>How to Repair a Broken Home Button on Your IPhone with These 5 Quick Tips</u></a></li>
+<li><a href="https://fox-that.techidaily.com/improve-audio-clarity-by-disabling-auto-position-adjustment-feature-in-your-airpod-earphones/"><u>Improve Audio Clarity by Disabling Auto-Position Adjustment Feature in Your AirPod Earphones</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210127709-9782824633855-les-secrets-du-voyage-astral/"><u>Les secrets du voyage astral | Free Book</u></a></li>
+<li><a href="https://fox-that.techidaily.com/persistent-wi-fi-problems-on-iphone-try-these-5-troubleshooting-steps/"><u>Persistent Wi-Fi Problems on iPhone? Try These 5 Troubleshooting Steps!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-hyperx-cloud-alpha-s-mic-problems-step-by-step-guide/"><u>Resolving HyperX Cloud Alpha S Mic Problems - Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/struggling-with-your-iphone-data-connection-discover-10-remedies-that-work/"><u>Struggling With Your iPhone Data Connection? Discover 10 Remedies That Work!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721466170042-ultimate-guide-restore-your-airpods-clarity-with-these-10-techniques/"><u>Ultimate Guide: Restore Your AirPods' Clarity with These 10 Techniques!</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "How to Receive Messages & Calls in Do Not Disturb Modes on iPhones: Top 8 Solutions"
-date: 2024-08-15T11:49:54.392Z
-updated: 2024-08-16T11:49:54.392Z
+date: 2025-01-23T03:51:26.115Z
+updated: 2025-01-29T19:59:50.476Z
 tags:
   - iphone
   - apple
@@ -19,11 +19,16 @@ thumbnail: https://thmb.techidaily.com/ad7d05b0030775951042fde08b0fbde9a0ebb4cf0
  However, if you're still getting texts and calls on Do Not Disturb, it pretty much defeats the purpose of the feature. So, let's look at the steps you can take when Do Not Disturb is not working on your iPhone.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Check Whether You Enabled the Correct Focus Mode
 
 ![do not disturb and personal mode in iphone control center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/1-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Although Apple started with Do Not Disturb, the feature has since been expanded to Focus mode. Focus includes Do Not Disturb, Personal, Work, and so on. You can [set up different Focus modes](https://www.makeuseof.com/focus-mode-ideas-to-set-up-in-ios/) and customize them for different purposes.
 
@@ -43,32 +48,28 @@ thumbnail: https://thmb.techidaily.com/ad7d05b0030775951042fde08b0fbde9a0ebb4cf0
 
 ![do not disturb settings on iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/do-not-disturb-settings.JPEG)
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![allowed apps on do not disturb mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/dnd-allowed-apps.JPEG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Disable Time-Sensitive Notifications
 
  Examples of time-sensitive notifications are reminders, emails, or messages that contain references to date and time. So, for instance, even if the**Messages** app is not in your list of Allowed Apps, an iPhone text message may still pass through Do Not Disturb due to the nature of its content, thus making it seem that Do Not Disturb is not working on your iPhone.
 
  If you don't want to receive such notifications, go to your**Do Not Disturb** settings in the**Settings** app. Tap**Apps** and toggle off**Time-Sensitive Notifications** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![disable time sensitive notifications for iphone do not disturb mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/3-3.jpg)
 
  Alternatively, you can tap**Turn Off** for a specific app if you see its notifications pop up on your Lock Screen.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Change Settings for Incoming Calls
 
  When you first enable Do Not Disturb mode on your iPhone,**Favorites** tends to be the default setting for the incoming calls allowed. If you previously added quite a few family members and friends to your Favorites list, this may be why your iPhone calls are coming through even after you enabled Do Not Disturb, as if it's not working.
@@ -80,9 +81,9 @@ Close
 ![call settings for do not disturb mode on iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/dnd-favorite-calls.JPEG)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![change calls allowed on iphone do not disturb mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/dnd-allowed-calls.JPEG)
 
 Close
@@ -95,6 +96,10 @@ Close
 
 ![turn off allow repeated calls for iphone do not disturb mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/2-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Turn Off or Hide Your Focus Status
 
  When you turn on Do Not Disturb, you can also share your Focus status to let your contacts know that you're temporarily unavailable.
@@ -102,6 +107,10 @@ Close
  While it's a thoughtful feature that helps you inform others, a downside is its accompanying Notify Anyway option, which lets people override your Do Not Disturb mode. This causes text messages and calls to come through your iPhone.
 
  To stop receiving texts and calls in this manner, you can [turn off your Focus status](https://www.makeuseof.com/how-to-stop-notify-anyway-focus-mode-iphone/) or [hide your Focus status from certain iPhone contacts](https://www.makeuseof.com/how-to-hide-focus-status-from-certain-contacts-iphone/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Review Your Do Not Disturb Schedule
 
@@ -111,23 +120,14 @@ Close
 
  Head to your**Do Not Disturb** settings and tap on your existing schedule to edit it. You can also tap**Add Schedule** to set a new time to turn on Do Not Disturb.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ![schedule for iphone do not disturb mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/dnd-schedule.JPEG)
 
 ![automate schedule for iphone do not disturb mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/dnd-schedule-2.JPEG)
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![set time for iphone do not disturb mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/dnd-change-schedule.JPEG)
 
 Close
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 8\. Restart Your iPhone and Update iOS
 
  If you went through all the steps above and your iPhone's Do Not Disturb mode is still not working, try [restarting your iPhone](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) to see if it resolves the issue. Software glitches can sometimes prevent features like Do Not Disturb from functioning as intended, which you can fix with a simple reboot.
@@ -148,8 +148,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -157,6 +155,24 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-complete-guide-to-slow-down-a-video-on-snapchat/"><u>[New] Complete Guide to Slow Down a Video on Snapchat</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-elevate-your-facebook-streams-to-hd-levels/"><u>[Updated] Elevate Your Facebook Streams to HD Levels</u></a></li>
+<li><a href="https://fox-that.techidaily.com/conquer-frustrating-iphone-x-hiccups-expert-advice-for-easy-solutions/"><u>Conquer Frustrating iPhone X Hiccups: Expert Advice for Easy Solutions</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/convert-music-to-mp3-or-opus-for-free-effortless-file-transformation-by-movavi-web-service/"><u>Convert Music to MP3 or Opus for Free - Effortless File Transformation by Movavi Web Service</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-ensure-smooth-gaming-addressing-the-f1-2020-crash-problems-on-your-pc/"><u>How to Ensure Smooth Gaming - Addressing the F1 2020 Crash Problems on Your PC</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-qr-scanner-issues-discover-these-5-quick-fixes/"><u>IPhone QR Scanner Issues? Discover These 5 Quick Fixes</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Samsung Galaxy S21 FE 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/revive-missing-iphone-apps-easy-to-follow-tips-for-finding-and-restoring-deleted-programs/"><u>Revive Missing iPhone Apps: Easy-to-Follow Tips for Finding and Restoring Deleted Programs</u></a></li>
+<li><a href="https://fox-that.techidaily.com/say-goodbye-to-the-blinky-phone-dilemamo-with-our-expert-fix-1-through-7/"><u>Say Goodbye to the Blinky Phone Dilemamo with Our Expert Fix #1 Through #7</u></a></li>
+<li><a href="https://games-able.techidaily.com/scrutinizing-microsoft-and-blizzards-potential-alliance/"><u>Scrutinizing Microsoft and Blizzard's Potential Alliance</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/superior-video-qualitat-erzielen-bildverbesserung-and-wiederherstellung-in-ultra-hd-mit-winxvideo-ai-technologie/"><u>Superior Video Qualität Erzielen: Bildverbesserung & Wiederherstellung in Ultra-HD Mit Winxvideo AI Technologie</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-vivo-y100a-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Vivo Y100A Device</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-solutions-what-to-do-if-your-airpods-are-missing-from-find-my/"><u>Top Solutions: What To Do If Your AirPods Are Missing From 'Find My'</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-steps-why-your-iphone-isnt-getting-texts-from-android-devices-and-how-to-resolve-this-issue/"><u>Troubleshooting Steps: Why Your iPhone Isn't Getting Texts From Android Devices & How to Resolve This Issue</u></a></li>
+<li><a href="https://fox-that.techidaily.com/understanding-and-solving-iphoneipad-overheating-a-comprehvew-guide/"><u>Understanding & Solving iPhone/iPad Overheating – A Comprehvew Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/understanding-the-causes-when-does-find-my-iphone-go-offline/"><u>Understanding the Causes: When Does Find My iPhone Go Offline?</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/unlocking-os-x-mavericks-video-editing-potential/"><u>Unlocking OS X Mavericks Video Editing Potential</u></a></li>
+</ul></div>
 

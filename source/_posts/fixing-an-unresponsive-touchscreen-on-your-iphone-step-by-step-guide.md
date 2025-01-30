@@ -1,7 +1,7 @@
 ---
 title: Fixing an Unresponsive Touchscreen on Your iPhone – Step by Step Guide
-date: 2025-01-19T17:17:15.445Z
-updated: 2025-01-22T18:47:59.458Z
+date: 2025-01-28T17:07:31.583Z
+updated: 2025-01-29T21:09:52.007Z
 tags:
   - iphone
   - apple
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/b19b440ee033b062893436bff7c73d55af4b510d9
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Is Your iPhone Touchscreen Not Working?
 
  There are several reasons your iPhone touchscreen could stop working. One of the most common reasons is physical damage. If your screen stopped working after it hit something, the damage is most likely physical.
@@ -35,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/b19b440ee033b062893436bff7c73d55af4b510d9
 
  If your iPhone was exposed to salt water before it stopped working, then that was most likely the cause of the damage. Salt water is corrosive and, while your phone might have been fine right away, the damage could continue to progress for weeks after exposure.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Is Your Touchscreen Broken or Your LCD Screen?
 
  The iPhone actually has two parts to its screen. The top part is the digitizer and the part underneath is the LCD screen. The digitizer is the touchscreen and the LCD screen displays the contents of your iPhone.
@@ -44,6 +52,10 @@ thumbnail: https://thmb.techidaily.com/b19b440ee033b062893436bff7c73d55af4b510d9
  If your LCD screen is out, your iPhone won’t turn on at all and you won’t see anything on your screen. Alternatively, your screen will be blurry or fuzzy or will have some sort of visible damage.
 
  If there’s a problem with your digitizer, there are a few fixes you can try before taking your iPhone to a repair shop. However, if it’s the LCD, you’ll need to start searching for repairs straight away.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Make Sure Touch Accommodations Is Off
 
@@ -55,13 +67,13 @@ If your screen is working, but not correctly, this could be the cause.
 
 ![iphone touch accommodations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/iphone-touch-accommodations.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you’re having a hard time navigating there because of the dodgy touchscreen, just activate Siri and say “Turn off Touch Accommodations.”
 
  Alternatively, you can click the Side button three times and this will disable it on most newer devices. For older devices, you may need to tap the Home button three times.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Back Up and Factory Reset Your iPhone
 
@@ -71,10 +83,6 @@ If your screen is working, but not correctly, this could be the cause.
 
 ![iphone erase content](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/iphone-erase-content.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you can’t navigate here, you’ll need to plug your iPhone into a computer to perform a factory reset. After resetting, in rare cases, your touchscreen will work again.
 
  Related:[How to Factory Reset Your iPhone or iPad](https://www.makeuseof.com/tag/how-to-factory-reset-iphone-ipad/)
@@ -82,7 +90,7 @@ If your screen is working, but not correctly, this could be the cause.
  If you do choose to get your iPhone repaired, you’ll most likely need to do this anyway. This ensures that the technician won’t be able to access your personal data. They may also need to test Face ID to make sure the repair worked and will need the phone to be unlocked to do so, which means you’re better off erasing all your data first.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Getting Your iPhone Screen Repaired
@@ -109,19 +117,11 @@ If your screen is working, but not correctly, this could be the cause.
 
 ![iphone voice control](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/iphone-voice-control.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If Siri’s enabled, you can enable Voice Control by saying “Hey Siri, turn on Voice Control.” Once enabled, you can access your iPhone without using the touchscreen.
 
  Related:[Where to Fix iPhone Screens for Cheap: Places to Check Out](https://www.makeuseof.com/tag/places-that-fix-iphone-screens-for-cheap/)
 
  To use Voice Control, you should familiarize yourself with the basic commands.[Apple](https://support.apple.com/HT210417) has a full list of these commands on its website.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## iPhone Screen Not Working? These Fixes Should Have Helped
 
@@ -144,20 +144,21 @@ If your screen is working, but not correctly, this could be the cause.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-evaluating-tunefab-for-video-capture-excellence-for-2024/"><u>[New] Evaluating Tunefab for Video Capture Excellence for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-premium-mac-graphics-collector-for-2024/"><u>[New] Premium Mac Graphics Collector for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-iphone-image-transfer-methods-explained/"><u>[Updated] In 2024, IPhone Image Transfer Methods Explained</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-elevate-your-call-quality-mastering-facetime-recording/"><u>2024 Approved Elevate Your Call Quality Mastering FaceTime Recording</u></a></li>
-<li><a href="https://win-hot.techidaily.com/discover-the-advantages-of-putting-your-money-into-digital-assets-insights-by-yl-computing/"><u>Discover the Advantages of Putting Your Money Into Digital Assets - Insights by YL Computing</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/how-to-optimize-your-next-4k-camera-lens-purchase/"><u>How to Optimize Your Next 4K Camera Lens Purchase</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-oppo-k11x-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Oppo K11x? | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/mastering-mmos-in-vr-oculus-vs-htc-vive-vs-ps-vr-for-2024/"><u>Mastering MMOs in VR Oculus vs HTC Vive vs PS VR for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/perfect-picture-quality-on-iphone-7-fixes-for-blurry-lens-dilemmas/"><u>Perfect Picture Quality on iPhone: 7 Fixes for Blurry Lens Dilemmas</u></a></li>
-<li><a href="https://fox-that.techidaily.com/resolving-sim-card-not-activated-tackling-the-mini-mobile-mm-issue/"><u>Resolving 'SIM Card Not Activated' - Tackling the Mini-Mobile (MM) Issue</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solving-the-issue-top-7-methods-to-restore-sync-in-icloud-photos-for-iphone-users/"><u>Solving the Issue: Top 7 Methods to Restore Sync in iCloud Photos for iPhone Users</u></a></li>
-<li><a href="https://fox-that.techidaily.com/step-by-step-solution-what-to-do-when-your-airplay-device-fails/"><u>Step-by-Step Solution: What To Do When Your AirPlay Device Fails</u></a></li>
-<li><a href="https://fox-that.techidaily.com/stop-unwanted-airpod-connection-switches-among-various-apple-devices-a-step-by-step-guide/"><u>Stop Unwanted AirPod Connection Switches Among Various Apple Devices - A Step-By-Step Guide</u></a></li>
-<li><a href="https://fox-that.techidaily.com/strategies-for-enhancing-image-clarity-on-iphones-with-lower-megapixels/"><u>Strategies for Enhancing Image Clarity on iPhones with Lower Megapixels</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/unlocking-engagement-strategies-for-instagram-puzzle-creation-for-2024/"><u>Unlocking Engagement Strategies for Instagram Puzzle Creation for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-from-hobbyist-to-pro-professionalizing-gopro-videos/"><u>[New] From Hobbyist to Pro Professionalizing GoPro Videos</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-the-ultimate-guide-to-displaying-screens-in-google-meet/"><u>[New] In 2024, The Ultimate Guide to Displaying Screens in Google Meet</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-metaverse-vs-multimeva-unveiling-their-comparative-features/"><u>[New] Metaverse Vs. Multimeva Unveiling Their Comparative Features</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/nique-day-to-day-vlog-themes/"><u>[New] Unique Day-to-Day Vlog Themes</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-how-to-attract-and-retain-more-viewers-on-youtube/"><u>2024 Approved How to Attract and Retain More Viewers on YouTube</u></a></li>
+<li><a href="https://fox-that.techidaily.com/breaking-down-the-bottlenecks-a-list-of-7-reasons-for-your-phones-lagging-wi-fi-connection/"><u>Breaking Down the Bottlenecks: A List of 7 Reasons for Your Phone's Lagging Wi-Fi Connection</u></a></li>
+<li><a href="https://fox-that.techidaily.com/correcting-random-website-tracking-on-your-iphone-through-screen-time-settings/"><u>Correcting Random Website Tracking on Your iPhone Through Screen Time Settings</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/diving-deep-into-nikons-d500-for-exceptional-4k-imaging-for-2024/"><u>Diving Deep Into Nikon's D500 for Exceptional 4K Imaging for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-galaxy-m34-5g-has-native-hevc-support-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Does Galaxy M34 5G has native HEVC support?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/easy-steps-to-access-professional-tech-aid-on-your-iphone-via-apples-official-app/"><u>Easy Steps to Access Professional Tech Aid on Your iPhone via Apple’s Official App</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-stop-charging-on-hold-notifications-top-8-fixes-for-iphone-users/"><u>How To Stop 'Charging On Hold' Notifications - Top 8 Fixes for iPhone Users</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/mac-users-choice-top-screen-recorder-picks/"><u>Mac Users' Choice Top Screen Recorder Picks</u></a></li>
+<li><a href="https://fox-that.techidaily.com/revive-your-iphone-contacts-app-with-these-simple-troubleshooting-steps-3-tips/"><u>Revive Your iPhone Contacts App with These Simple Troubleshooting Steps (3 Tips)</u></a></li>
+<li><a href="https://apple-account.techidaily.com/tips-and-tricks-for-apple-id-locked-issue-from-iphone-12-pro-by-drfone-ios/"><u>Tips and Tricks for Apple ID Locked Issue From iPhone 12 Pro</u></a></li>
+<li><a href="https://fox-that.techidaily.com/trouble-with-the-cameras-image-analysis-feature-here-are-6-things-to-check/"><u>Trouble with the Camera's Image Analysis Feature? Here Are 6 Things to Check</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-tips-for-fixing-not-provisioned-mm-error-with-sim-card/"><u>Troubleshooting Tips for Fixing Not Provisioned MM Error with SIM Card</u></a></li>
 </ul></div>
 

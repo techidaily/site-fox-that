@@ -1,7 +1,7 @@
 ---
 title: "DON'T BE STUCK: Solve the Mystery of Disappearing Messages and Phone Notifications in iOS Do Not Disturb"
-date: 2024-08-10T03:39:21.946Z
-updated: 2024-08-11T03:39:21.946Z
+date: 2025-01-29T01:15:37.946Z
+updated: 2025-01-29T20:34:39.028Z
 tags:
   - iphone
   - apple
@@ -38,14 +38,23 @@ thumbnail: https://thmb.techidaily.com/909f3c7957e52f6fe9de5cd9ae15915a5af92e863
 
 ![focus modes on iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/focus-modes.JPEG)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ![do not disturb settings on iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/do-not-disturb-settings.JPEG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![allowed apps on do not disturb mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/dnd-allowed-apps.JPEG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Close
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Disable Time-Sensitive Notifications
 
@@ -53,38 +62,39 @@ Close
 
  If you don't want to receive such notifications, go to your**Do Not Disturb** settings in the**Settings** app. Tap**Apps** and toggle off**Time-Sensitive Notifications** .
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![disable time sensitive notifications for iphone do not disturb mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/3-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Alternatively, you can tap**Turn Off** for a specific app if you see its notifications pop up on your Lock Screen.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ## 4\. Change Settings for Incoming Calls
 
  When you first enable Do Not Disturb mode on your iPhone,**Favorites** tends to be the default setting for the incoming calls allowed. If you previously added quite a few family members and friends to your Favorites list, this may be why your iPhone calls are coming through even after you enabled Do Not Disturb, as if it's not working.
 
  To change this, head to**Settings > Focus > Do Not Disturb** **\> People** . Now, tap on**Allow Calls From** and select your preferred option. If you want to only allow specific individuals to call you during Do Not Disturb mode, choose**Allowed People Only** and tap the**Add** button above to select your contacts.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![do not disturb settings on iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/do-not-disturb-settings.JPEG)
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![call settings for do not disturb mode on iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/dnd-favorite-calls.JPEG)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![change calls allowed on iphone do not disturb mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/dnd-allowed-calls.JPEG)
 
 Close
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Don't Allow Repeated Calls
 
@@ -110,16 +120,10 @@ Close
 
  Head to your**Do Not Disturb** settings and tap on your existing schedule to edit it. You can also tap**Add Schedule** to set a new time to turn on Do Not Disturb.
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![schedule for iphone do not disturb mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/dnd-schedule.JPEG)
 
 ![automate schedule for iphone do not disturb mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/dnd-schedule-2.JPEG)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ![set time for iphone do not disturb mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/dnd-change-schedule.JPEG)
 
 Close
@@ -130,18 +134,6 @@ Close
 
  And if you haven't,[update your iPhone to the latest iOS version](https://www.makeuseof.com/tag/update-iphone-ios-apps-data/) as well. Apple's software updates often come with bug fixes and patches for performance-related issues.
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## No More Disruptions on Do Not Disturb Mode
 
  Do Not Disturb mode aims to help you focus on your task or rest and recharge when needed while ensuring you're still aware of the important matters that require your immediate attention.
@@ -156,8 +148,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -165,6 +155,22 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-explore-advanced-multi-screen-browsing-in-chrome/"><u>[New] In 2024, Explore Advanced Multi-Screen Browsing in Chrome</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-into-the-heart-of-windows-10-flawless-media-import-techniques-for-2024/"><u>[New] Into the Heart of Windows 10 Flawless Media Import Techniques for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-automatic-high-dynamic-range-enhances-image-quality/"><u>[Updated] How Automatic High Dynamic Range Enhances Image Quality</u></a></li>
+<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-realme-narzo-n53-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Realme Narzo N53 to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/demystifying-error-4013-in-ios-a-step-by-step-repair-tutorial/"><u>Demystifying Error 4013 in iOS: A Step-by-Step Repair Tutorial</u></a></li>
+<li><a href="https://fox-that.techidaily.com/elasticity-estimation/"><u>Elasticity Estimation</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-instagram-delays-effective-techniques-for-smooth-performance-on-phones/"><u>Fixing Instagram Delays: Effective Techniques for Smooth Performance on Phones</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-recover-an-iphone-app-that-has-gone-mia-a-step-by-step-tutorial/"><u>How To Recover An iPhone App That Has Gone MIA: A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-expert-methods-for-capturing-and-streaming-sports-gems/"><u>In 2024, Expert Methods for Capturing and Streaming Sports Gems</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-on-apple-iphone-8-without-password-by-drfone-ios/"><u>In 2024, How to Delete iCloud Account On Apple iPhone 8 without Password?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-control-panel-malfunction-discover-these-8-effective-fixes/"><u>IPhone Control Panel Malfunction? Discover These 8 Effective Fixes!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolve-the-problem-expert-advice-for-fixing-a-broken-or-non-working-airpod/"><u>Resolve The Problem: Expert Advice For Fixing a Broken or Non-Working AirPod</u></a></li>
+<li><a href="https://fox-that.techidaily.com/step-by-step-guide-unfreezing-your-stuck-iphone/"><u>Step-by-Step Guide: Unfreezing Your Stuck iPhone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/king-creativity-in-youtube-video-splitting/"><u>Unlocking Creativity in YouTube Video Splitting</u></a></li>
+<li><a href="https://win-bits.techidaily.com/1728499168115-windows-11/"><u>Windows 11 解密：發現並重新建立已下載檔案</u></a></li>
+</ul></div>
 

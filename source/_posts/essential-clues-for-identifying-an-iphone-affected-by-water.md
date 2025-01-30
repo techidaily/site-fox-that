@@ -1,7 +1,7 @@
 ---
 title: Essential Clues for Identifying an iPhone Affected by Water
-date: 2025-01-19T18:15:39.819Z
-updated: 2025-01-22T19:57:56.045Z
+date: 2025-01-23T03:51:52.973Z
+updated: 2025-01-29T20:35:43.656Z
 tags:
   - iphone
   - apple
@@ -23,13 +23,13 @@ thumbnail: https://thmb.techidaily.com/c37c2fb062f462104689e721c0e87e0aafa96193e
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Foggy Cameras
 
 ![Foggy iPhone X photo of a man](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/05/foggy-iphone-x-photo-of-a-man.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  One of the first things you should do when inspecting a phone for any kind of damage is to check its cameras. They are sensitive pieces of hardware and are easily affected by scratches, drops, and water.
 
@@ -41,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/c37c2fb062f462104689e721c0e87e0aafa96193e
 
 ![iPhone with Face ID is not available message on the lock screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/iphone-with-face-id-is-not-available-message-on-the-lock-screen.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Apple's biometric security features are one of the features you could lose when your iPhone takes an unfortunate bath in water.
 
  Face ID works using the TrueDepth camera system embedded into the notch or Dynamic Island. While your front camera might dry, and your picture quality may return to what it used to be, Face ID could still remain unavailable. You can try to [fix Face ID on your iPhone](https://www.makeuseof.com/how-to-fix-face-id-not-working-or-not-available-on-iphone/) , but your best bet is to get it to an expert as soon as possible.
@@ -51,10 +55,6 @@ thumbnail: https://thmb.techidaily.com/c37c2fb062f462104689e721c0e87e0aafa96193e
 
  Dirty water often contains all sorts of particles that can get into small gaps and block them. If you notice that the buttons on an iPhone feel stuck, make a grainy sound, or simply do not respond, then you could be holding a water-damaged iPhone.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Patches on the Display
 
 ![An iPhone X with a dark spot on its left bottom corner](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/05/an-iphone-x-with-a-dark-spot-on-its-left-bottom-corner.jpg)
@@ -62,6 +62,10 @@ thumbnail: https://thmb.techidaily.com/c37c2fb062f462104689e721c0e87e0aafa96193e
  If you're unlucky, water could also affect your display and develop permanent patches. You might see signs of water under the display first before it slowly forms dark patches—making the affected area dimmer.
 
  Once you see signs of water under the display, dry the device and [back up all your iPhone's data](https://www.makeuseof.com/tag/how-to-backup-iphone-ipad/) . Whatever you do, do not put it in rice because that myth may accelerate your problem. If there's still a dark spot after your phone is dry, you might need to change the screen assembly.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Faulty Touchscreen and Flickering Display
 
@@ -71,23 +75,19 @@ thumbnail: https://thmb.techidaily.com/c37c2fb062f462104689e721c0e87e0aafa96193e
 
  The phone's display module may have been affected by water. You should return it to Apple or an Apple Authorized Service Provider to replace that part of the screen.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Muffled Speakers
 
 ![iPhone 11 in the hands of a woman with volume control options on the screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/iphone-11-in-the-hands-of-a-woman-with-volume-control-options-on-the-screen.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Another clear sign that an iPhone is water-damaged is muffled speakers. If you want to purchase a used phone, after checking the cameras, you should play some sounds on the speakers to see what it sounds like.
 
  If the sounds on the iPhone come out muffled, then you can assume that the phone likely had some water damage to its speaker hardware at some point. You can also test the front speaker by playing a voice note on iMessage and placing it against your ear.
 
  You should dry out the speakers for iPhones that just fell into some water. If that still doesn't help, try some DIY [iPhone speaker fixes](https://www.makeuseof.com/tag/fix-iphone-speaker-not-working/) before you spend money on an expert.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Signs of Rust and Corrosion
 
@@ -98,7 +98,7 @@ thumbnail: https://thmb.techidaily.com/c37c2fb062f462104689e721c0e87e0aafa96193e
  If you're skilled at DIY repairs, you can try opening up the iPhone to search the interior components for signs of rust.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Unstable Charging
@@ -140,24 +140,20 @@ thumbnail: https://thmb.techidaily.com/c37c2fb062f462104689e721c0e87e0aafa96193e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-speedy-insights-modifying-videos-in-instagram-stories/"><u>[New] 2024 Approved Speedy Insights Modifying Videos in Instagram Stories</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-creating-momentum-in-life-coaching-video-series/"><u>[Updated] 2024 Approved Creating Momentum in Life Coaching Video Series</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-the-influencers-playbook-5-tips-for-building-brand-authority-through-reddit-partnerships-for-2024/"><u>[Updated] The Influencer's Playbook 5 Tips for Building Brand Authority Through Reddit Partnerships for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-safe-audio-conversion-techniques-turning-youtube-to-mp3-easily-and-securely/"><u>2024 Approved Safe Audio Conversion Techniques Turning YouTube to MP3 Easily & Securely</u></a></li>
-<li><a href="https://fox-that.techidaily.com/disabling-unwanted-ringers-ensuring-your-ipad-stays-quiet-during-iphone-phone-calls/"><u>Disabling Unwanted Ringers: Ensuring Your iPad Stays Quiet During iPhone Phone Calls</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fix-that-autocorrect-and-improve-your-iphones-spell-check-like-a-pro/"><u>Fix That Autocorrect and Improve Your iPhone's Spell Check Like a Pro!</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fixing-the-annoying-phone-screen-flicker-issue-with-these-7-tricks/"><u>Fixing the Annoying Phone Screen Flicker Issue with These 7 Tricks</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-the-geforce-experience-launch-problem-a-comprehensive-solution/"><u>Fixing the GeForce Experience Launch Problem: A Comprehensive Solution</u></a></li>
-<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-oppo-reno-9a-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Oppo Reno 9A | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-fix-monster-hunter-rise-not-launching-problems-easily/"><u>How To Fix Monster Hunter Rise Not Launching Problems Easily</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-tips-and-tricks-to-tell-if-your-iphone-6-plus-is-unlocked-by-drfone-ios/"><u>In 2024, Tips And Tricks To Tell if Your iPhone 6 Plus Is Unlocked</u></a></li>
-<li><a href="https://fox-that.techidaily.com/iphone-display-problems-a-comprehensive-fixing-manual-for-you/"><u>IPhone Display Problems? A Comprehensive Fixing Manual for You</u></a></li>
-<li><a href="https://fox-that.techidaily.com/mastering-the-art-of-managing-and-editing-iphone-snapshots-tips-and-solutions/"><u>Mastering the Art of Managing & Editing iPhone Snapshots: Tips & Solutions</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-mastering-sound-a-comprehensive-guide-to-normalizing-audio-in-multimedia-content/"><u>New 2024 Approved Mastering Sound A Comprehensive Guide to Normalizing Audio in Multimedia Content</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/transnational-tongues-turkish-korean-twine/"><u>Transnational Tongues: Turkish-Korean Twine</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-guide-fixing-icloud-sync-problems/"><u>Troubleshooting Guide: Fixing iCloud Sync Problems</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-missing-rings-why-your-iphone-wont-accept-calls/"><u>Troubleshooting Missing Rings: Why Your iPhone Won’t Accept Calls</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-how-to-fix-no-caller-id-displayed-on-your-iphone/"><u>Troubleshooting: How to Fix 'No Caller ID Displayed' On Your iPhone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/ultimate-troubleshooting-techniques-resolve-your-persistent-airpods-and-iphone-connection-problems-in-11-steps/"><u>Ultimate Troubleshooting Techniques: Resolve Your Persistent AirPods and iPhone Connection Problems in 11 Steps</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-transforming-raw-footage-an-in-depth-guide-to-applying-lut-filters-in-obs-studio/"><u>[New] Transforming Raw Footage An In-Depth Guide to Applying LUT Filters in OBS Studio</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-fast-fixes-to-skyrocket-your-podcast-live/"><u>[Updated] 2024 Approved Fast Fixes to Skyrocket Your Podcast Live</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-splitcam-review-does-it-reign-supreme-in-video-tech/"><u>[Updated] 2024 Approved SplitCam Review Does It Reign Supreme in Video Tech?</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/2024-approved-what-makes-youtube-and-dailymention-stand-out/"><u>2024 Approved What Makes YouTube and DailyMention Stand Out?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/6-proven-methods-to-prevent-unwanted-sos-only-messages-on-your-iphone/"><u>6 Proven Methods to Prevent Unwanted 'SOS Only' Messages on Your iPhone</u></a></li>
+<li><a href="https://win-studio.techidaily.com/aomei-image-deployment-common-issues-and-effective-solutions/"><u>AOMEI Image Deployment: Common Issues & Effective Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/avoid-overly-close-shots-how-to-optimize-your-camera-for-whatsapp-chats/"><u>Avoid Overly Close Shots: How to Optimize Your Camera for WhatsApp Chats</u></a></li>
+<li><a href="https://fox-that.techidaily.com/disabling-cross-device-alerts-prevent-your-ipad-from-ringing-when-your-iphone-rings/"><u>Disabling Cross-Device Alerts: Prevent Your iPad From Ringing when Your iPhone Rings</u></a></li>
+<li><a href="https://fox-that.techidaily.com/dynamic-head-motion-causes-earsplitting-noises-in-airpods-disable-for-silence/"><u>Dynamic Head Motion Causes Earsplitting Noises in AirPods - Disable for Silence</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-troubleshoot-typical-iphone-visual-glitches-7-expert-tips/"><u>How to Troubleshoot Typical iPhone Visual Glitches – 7 Expert Tips</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-samsung-galaxy-f54-5g-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Samsung Galaxy F54 5G without App | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-vivo-s18-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Vivo S18 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-app-download-issues-top-10-solutions-you-should-know/"><u>IPhone App Download Issues: Top 10 Solutions You Should Know</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-teamsters-issues-in-win11-w10-systems/"><u>Overcoming Teamsters Issues in Win11, W10 Systems</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-guide-resolving-iphone-personal-hotspot-issues/"><u>Troubleshooting Guide: Resolving iPhone Personal Hotspot Issues</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Bring Back the Bass: Expert Tips for Resolving iPhone Audio Problems"
-date: 2024-08-10T03:39:26.139Z
-updated: 2024-08-11T03:39:26.139Z
+date: 2025-01-25T02:38:09.365Z
+updated: 2025-01-30T04:17:05.179Z
 tags:
   - iphone
   - apple
@@ -31,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/5094501f2138eda47cf289c17fa771cf70f1a2ff2
 
 ![sounds and haptics on iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/sounds-haptics-iphone.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Close
 
  Also, check that it’s not your audio devices, such as AirPods, causing the “no sound” problem. Test this by connecting them to other smartphones or computers. If they’re working like usual, it means that the issue is with your iPhone and you can now focus on solving it through this article. For AirPods issues, read our guide on [how to solve common AirPods problems](https://www.makeuseof.com/tag/apple-airpods-problems-fix/) .
@@ -39,12 +43,13 @@ Close
 
  Before moving on to troubleshooting software issues, there may simply be dust and dirt affecting speaker function, causing no sound to play on your iPhone. We have instructions you can follow to [clean your iPhone safely](https://www.makeuseof.com/tag/clean-iphone-guide/) .
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![black iphone and airpods on wooden surface](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/iphone-airpods.jpg)
 
  If it’s not dust and dirt, try to recall whether you accidentally dropped your iPhone in water recently. While iPhones are water-resistant, water may still get into your speakers. You can use the [Sonic](https://apps.apple.com/app/sonic/id986999895) app to eject water from the speakers if this is the case.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Turn Off Silent Mode and Do Not Disturb
 
@@ -56,9 +61,6 @@ Here’s how to turn off Silent Mode:
 2. If Silent Mode is on, an orange strip shows.
 3. Move the switch towards the screen to cover the orange strip. This turns off Silent Mode.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ring and silent switch on side of iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/silent-switch-iphone.jpg)
 
 Here’s how to turn off Do Not Disturb or Focus:
@@ -66,14 +68,8 @@ Here’s how to turn off Do Not Disturb or Focus:
 1. Access your iPhone’s**Control Center** . The method to [open the Control Center](http://www.makeuseof.com/how-to-use-customize-control-center-iphone/) may vary depending on your iPhone model.
 2. Tap**Do Not Disturb: On** (moon icon) to turn it off. Or tap any other Focus mode that is currently enabled to disable it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 ![do not disturb switched on iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/do-not-disturb-on.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![iphone control center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/iphone-control-center.jpg)
 
 Close
@@ -87,9 +83,6 @@ Close
 1. Open the**Control Center** .
 2. The**Bluetooth** button is blue when switched on. Tap to turn it off.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 ![bluetooth turned on iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/bluetooth-on.jpg)
 
 ![iphone control center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/bluetooth-off-1.jpg)
@@ -103,6 +96,10 @@ Close
 
 ![iphone control center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/iphone-control-center.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![airplay on iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/airplay-iphone.jpg)
 
 Close
@@ -110,8 +107,9 @@ Close
  Another audio-output-related issue is headphone mode. If you see a persistent headphone icon on your iPhone’s status bar, we have a guide on [how to fix an iPhone stuck in headphone mode](https://www.makeuseof.com/tag/how-to-fix-iphone-stuck-in-headphone-mode/) .
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Check Your iPhone’s Sound Settings
 
  If your iPhone isn’t on Silent Mode or connected to any Bluetooth device, the problem of the sound not working may lie in your sound settings. First, adjust your volume buttons. You may think that there’s no sound on your iPhone because you accidentally turned the volume too low. To correct this, simply press the**Volume Up** button on the side of your iPhone.
@@ -125,9 +123,6 @@ Close
 
 ![iphone settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/iphone-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![sounds and haptics on iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/sounds-haptics-iphone.jpg)
 
 ![text tone on iphone settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/text-tone-iphone-1.jpg)
@@ -136,9 +131,6 @@ Close
 
  If the sound issue revolves around iPhone alerts, you can refer to our detailed guide on [how to fix alert sounds on your iPhone](https://www.makeuseof.com/how-to-fix-iphone-not-receiving-alerts/) .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ## 6\. Check Third-Party App Sound Settings
 
  If there’s no sound on your iPhone when you’re using a specific app, you should check the sound settings within the app itself. For messaging apps like WhatsApp, check that you chose a notification sound and that**None** is not selected. For games, make sure that you didn’t mute the audio or turn off some of the music settings.
@@ -147,31 +139,42 @@ Close
 
 ![audio settings in sky game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/sky-game-audio.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Exit and Relaunch the Third-Party App
 
  If you’ve already gone through all the sound settings and they’re all switched on correctly, your iPhone’s sound not working may just be an app glitch.
 
  For instance, you may notice that an Instagram video has no sound, despite showing the audio icon. Even if you pressed your**Volume Up** button, the volume bar doesn’t appear either. On social media platforms like this, you can save the post, exit the app, open it again, and go to your**Saved** collection to enjoy the video.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![person holding iphone showing instagram post](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/instagram-post.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can also opt to view the video through another route. Instead of watching the video in your Instagram feed, tap into that Instagram profile and select the video from there instead.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8\. Update iOS and Your iPhone Apps
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![iphone on wooden surface showing hello welcome screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/iphone-hello.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Updates often come with fixes for bugs and glitches, so you can solve the issue of no sound on your iPhone by simply keeping your iOS and apps up-to-date. For more information, refer to our guide on [how to update your iPhone](https://www.makeuseof.com/tag/update-iphone-ios-apps-data/) .
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 9\. Force Restart Your iPhone
 
  If there’s still no sound on your iPhone, the next method you can try is to [force restart your iPhone](https://www.makeuseof.com/tag/restart-iphone-recovery-mode/) . Don’t worry, you won’t lose any data when you force restart your iPhone.
@@ -180,9 +183,6 @@ Close
 
  Another potential solution is to [restore your iPhone to a previous backup](https://www.makeuseof.com/tag/restore-iphone-ipad-from-backup/) made when the sound was still working. However, take note that you will lose any new data that was added to your device since you made that backup. Even so, that might be worth it if it means fixing the sound on your iPhone again.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 11\. Reset All Settings on Your iPhone
 
  If you tried all the suggestions above but they don’t work, the last solution is to [reset your iPhone’s settings](https://www.makeuseof.com/tag/how-to-restore-reset-iphone-without-itunes/) . As long as you don’t select the**Erase All Content and Settings** option, rest assured that you will not lose any data. That said, you may need to erase all the content and set your iPhone up as new to fix the issue, so try that if the first option doesn’t work.
@@ -197,8 +197,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -206,6 +204,23 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/n-2024-from-youtube-to-avi-perfect-conversion-tools-revealed/"><u>[New] In 2024, From YouTube to AVI Perfect Conversion Tools Revealed</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-winning-windows-animation-the-best-9-apps-to-record-dynamic-graphics/"><u>[New] In 2024, Winning Windows Animation The Best 9 Apps to Record Dynamic Graphics</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-perfect-your-youtube-intro-step-by-step-method-a-plus-b/"><u>[Updated] In 2024, Perfect Your YouTube Intro Step by Step (Method A + B)</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-master-bluetooth-connectivity-on-your-iphone-as-a-novice-user/"><u>How to Master Bluetooth Connectivity on Your iPhone as a Novice User</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-on-spark-20-proplus-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos on Spark 20 Pro+</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/macbook-air-vs-macbook-pro-whats-the-difference/"><u>MacBook Air Vs. MacBook Pro: What's the Difference?</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/navigate-the-world-of-podcast-seo-efficiently/"><u>Navigate the World of Podcast SEO Efficiently</u></a></li>
+<li><a href="https://win11.techidaily.com/overhauling-deactivated-coolant-regulation-mechanism/"><u>Overhauling Deactivated Coolant Regulation Mechanism</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721474234843-quick-fixes-to-accelerate-your-iphones-safari-experience/"><u>Quick Fixes to Accelerate Your iPhone's Safari Experience!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/the-ultimate-guide-to-rebooting-iphones-when-physical-buttons-fail-you/"><u>The Ultimate Guide to Rebooting iPhones When Physical Buttons Fail You</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-5-solutions-for-troubleshooting-iphones-voice-recognition-issues/"><u>Top 5 Solutions for Troubleshooting iPhone's Voice Recognition Issues</u></a></li>
+<li><a href="https://fox-that.techidaily.com/ultimate-guide-solve-your-airpods-silent-dilemma-with-these-10-troubleshooting-tips/"><u>Ultimate Guide: Solve Your AirPods' Silent Dilemma with These 10 Troubleshooting Tips</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlock-the-potential-of-siri-solutions-for-when-suggestions-fail-to-appear/"><u>Unlock the Potential of Siri: Solutions for When Suggestions Fail to Appear</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unstick-your-ios-device-a-seven-step-guide-for-iphone-logo-freeing/"><u>Unstick Your iOS Device: A Seven-Step Guide for iPhone Logo Freeing</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/watch-deleted-youtube-secrets-to-accessing-lost-content-for-2024/"><u>Watch Deleted YouTube Secrets to Accessing Lost Content for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1725285362753-winx-dvd-ripper-platinum/"><u>WinX DVD Ripper Platinum: ユーザーからの高い評価と強力な機能について</u></a></li>
+</ul></div>
 

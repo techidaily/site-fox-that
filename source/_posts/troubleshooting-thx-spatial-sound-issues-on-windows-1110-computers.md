@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting THX Spatial Sound Issues on Windows 11/10 Computers
-date: 2025-01-21T23:28:15.684Z
-updated: 2025-01-22T19:36:37.307Z
+date: 2025-01-25T04:09:32.683Z
+updated: 2025-01-29T20:50:03.169Z
 tags:
   - win11
   - win10
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/66f3a5314b7f0b6f994f976b66c33a57ff0466854
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fixes for ‘Windows 10 Start Menu Not Working’
 
@@ -57,10 +61,6 @@ thumbnail: https://thmb.techidaily.com/66f3a5314b7f0b6f994f976b66c33a57ff0466854
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b3a59dfeba.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3) Check if your Start menu works all right now.
 
  If the same problem keeps reoccurring, you may need to try other methods below.
@@ -73,17 +73,21 @@ thumbnail: https://thmb.techidaily.com/66f3a5314b7f0b6f994f976b66c33a57ff0466854
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b3b34111eb.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) On the top of the Task Manager window, select**File** option and then choose**Run new task** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b8999a1831.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Then type **powershell**  and t  ick the box for**Create this task with administrative privileges** . Click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b8a563ff80.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) In PowerShell window, copy and paste in the following command and press the**Enter** key on your keyboard:
 
@@ -92,6 +96,10 @@ net user newusername newpassword /add
  We are using the username**“easeware”** and password “**drivereasy”** as an example in the screenshot, you can set them as per your own preference.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b8bbeac77b.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5) Restart your computer and log into the new user account.
 
@@ -109,17 +117,9 @@ net user newusername newpassword /add
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b92b357675.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Double-click**Sound, video and game controller** . Right-click your audio card driver and click**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b931f18df7.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  When prompted with the following notification, tick the box for**Delete the driver software for this device** and click**Uninstall** .
 
@@ -146,7 +146,7 @@ net user newusername newpassword /add
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b963732280.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 7) Check if your Start menu is back.
@@ -154,7 +154,7 @@ net user newusername newpassword /add
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4: Disable or uninstall third-party antivirus programs
@@ -164,10 +164,6 @@ net user newusername newpassword /add
  Note that Microsoft has its own default anti-malware, **Windows Defender** . It’s automatically enabled even if you also have other antivirus applications installed. Even if you disable your other antivirus programs, Windows Defender is always there for you during that certain time range. So, no need to worry too much about temporarily turning antivirus off.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5: Uninstall Dropbox
 
@@ -209,10 +205,6 @@ net user newusername newpassword /add
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b3b34111eb.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) On the top of the Task Manager window, select**File** option and then choose**Run new task** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b8999a1831.png)
@@ -220,6 +212,10 @@ net user newusername newpassword /add
  3) Then type **powershell**  and t  ick the box for**Create this task with administrative privileges** . Click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b8a563ff80.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Type**sfc /scannow** in and press the**Enter** key on your keyboard. Wait for a while for the process to complete.
 
@@ -232,12 +228,16 @@ DISM /Online /Cleanup-Image /RestoreHealth
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b9c8a8bb33.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6) When these two tests finishes, check if your Start menu is back.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8: Reinstall Cortana
 
@@ -250,10 +250,6 @@ DISM /Online /Cleanup-Image /RestoreHealth
  2) On the top of the Task Manager window, select**File** option and then choose**Run new task** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b8999a1831.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Then type **powershell**  and t  ick the box for**Create this task with administrative privileges** . Click **OK** .
 
@@ -271,6 +267,10 @@ de -Register "$($_.InstallLocation)\AppXManifest.xml"}
 Get-AppXPackage -AllUsers | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register "$($_.InstallLocation)\AppXManifest.xml"}
 
  4) There, your Cortana is reinstalled, and your Start menu should also be back now.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Last but not least: refresh your PC
 
@@ -295,22 +295,18 @@ Get-AppXPackage -AllUsers | Foreach {Add-AppxPackage -DisableDevelopmentMode -Re
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/updated-chinas-value-driven-virtual-reality-marketplace/"><u>[Updated] China's Value-Driven Virtual Reality Marketplace</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-enhance-visual-storytelling-top-4-strategies-for-looped-videos-in-instagram-for-2024/"><u>[Updated] Enhance Visual Storytelling Top 4 Strategies for Looped Videos in Instagram for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-vintage-track-simulators-the-quintet/"><u>[Updated] In 2024, Vintage Track Simulators The Quintet</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-warriors-way-selecting-superior-hand-to-hand-titles/"><u>[Updated] In 2024, Warrior's Way Selecting Superior Hand-to-Hand Titles</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-youcamproficiency-masteringwebcamcapture/"><u>[Updated] In 2024, YouCamProficiency MasteringWebCamCapture</u></a></li>
-<li><a href="https://fox-that.techidaily.com/dealing-with-phones-listing-numbers-not-names-tips-for-fixing-your-devices-messaging-glitch/"><u>Dealing with Phones Listing Numbers, Not Names - Tips for Fixing Your Device's Messaging Glitch</u></a></li>
-<li><a href="https://fox-that.techidaily.com/diy-iphone-hardware-assessment-with-apples-online-exam-services/"><u>DIY iPhone Hardware Assessment with Apple's Online Exam Services</u></a></li>
-<li><a href="https://fox-that.techidaily.com/escape-your-iphone-dilemma-7-strategies-to-resolve-apple-boot-loop-issues/"><u>Escape Your iPhone Dilemma: 7 Strategies to Resolve Apple Boot Loop Issues</u></a></li>
-<li><a href="https://fox-that.techidaily.com/essential-troubleshooting-steps-when-your-iphone-wont-progress-past-the-logo-sequence/"><u>Essential Troubleshooting Steps When Your iPhone Won't Progress Past the Logo Sequence</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-fix-on-hold-charging-glitches-on-your-iphone-8-methods-explored/"><u>How to Fix 'On Hold' Charging Glitches on Your iPhone - 8 Methods Explored</u></a></li>
-<li><a href="https://fox-that.techidaily.com/identifying-and-repairing-common-iphone-display-defects/"><u>Identifying & Repairing Common iPhone Display Defects</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-turn-your-social-tweets-into-mp3-audio-files/"><u>In 2024, Turn Your Social Tweets Into MP3 Audio Files</u></a></li>
-<li><a href="https://fox-that.techidaily.com/in-depth-look-at-the-most-frequent-issues-with-iphone-12-models-and-their-solutions/"><u>In-Depth Look at the Most Frequent Issues with iPhone 12 Models and Their Solutions</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/methodology-linking-hp-officejet-to-windows-os/"><u>Methodology: Linking HP Officejet to Windows OS</u></a></li>
-<li><a href="https://fox-that.techidaily.com/resolve-your-iphones-or-ipads-predictive-emoji-glitches-top-7-quick-fixes/"><u>Resolve Your iPhone's or iPad's Predictive Emoji Glitches: Top 7 Quick Fixes!</u></a></li>
-<li><a href="https://win11.techidaily.com/swiftly-solving-geforce-nows-error-xc0f1103f-on-windows-11/"><u>Swiftly Solving GeForce Now's Error: Xc0f1103f on Windows 11</u></a></li>
-<li><a href="https://howto.techidaily.com/vivo-v30-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo V30 Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-focus-on-you-iphone-and-android-photo-trimmers/"><u>[New] 2024 Approved Focus On You IPhone & Android Photo Trimmers</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-secrecy-in-posts-how-to-oc/"><u>[New] Secrecy in Posts How to Oc</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-freeplayvid-seamless-recording-for-the-avid-player/"><u>[Updated] 2024 Approved FreePlayVid Seamless Recording for the Avid Player</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-instagram-success-secrets-8-steps-to-becoming-a-top-poster/"><u>[Updated] Instagram Success Secrets 8 Steps to Becoming a Top Poster</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-revitalize-your-footage-mastering-window-11-photos-and-storyremix-integration/"><u>2024 Approved Revitalize Your Footage Mastering Window 11 Photos and StoryRemix Integration</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/apple-iphone-14-backup-password-never-set-but-still-asking-heres-the-fix-drfone-by-drfone-ios/"><u>Apple iPhone 14 Backup Password Never Set But Still Asking? Heres the Fix | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-fix-your-airpods-when-they-wont-stay-connected-to-iphone-a-step-by-step-guide/"><u>How to Fix Your AirPods When They Won't Stay Connected to iPhone: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-notification-issues-here-are-7-solutions-to-get-them-working/"><u>IPhone Notification Issues? Here Are 7 Solutions to Get Them Working</u></a></li>
+<li><a href="https://fox-that.techidaily.com/navigating-common-iphone-snapshot-issues-with-8-expert-advice-pieces/"><u>Navigating Common iPhone Snapshot Issues with 8 Expert Advice Pieces</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-the-google-home-app-for-pc-users-tips-and-tricks/"><u>Navigating the Google Home App for PC Users: Tips & Tricks</u></a></li>
+<li><a href="https://fox-that.techidaily.com/rectifying-outdated-email-notifications-on-ios-devices-expert-advice-for-iphones/"><u>Rectifying Outdated Email Notifications on iOS Devices: Expert Advice for iPhones</u></a></li>
+<li><a href="https://win11.techidaily.com/releasing-overflow-fixing-caps-on-gpt-chat/"><u>Releasing Overflow: Fixing Caps on GPT Chat</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-8-iphone-tools-for-enhanced-vision-accessibility/"><u>Top 8 iPhone Tools for Enhanced Vision Accessibility</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Rescuing Your iPhone After a Water Spill: Methods for Drying Phone Speakers"
-date: 2024-08-10T03:38:39.537Z
-updated: 2024-08-11T03:38:39.537Z
+date: 2025-01-26T16:53:04.105Z
+updated: 2025-01-30T00:17:30.866Z
 tags:
   - iphone
   - apple
@@ -15,8 +15,9 @@ thumbnail: https://thmb.techidaily.com/589975317cd54578e2464cf37ff9c3436a24bffda
 ## Rescuing Your iPhone After a Water Spill: Methods for Drying Phone Speakers
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Quick Links
 
 * [Use the Water Eject Shortcut on Your iPhone](https://www.makeuseof.com/how-to-eject-water-speaker-microphone-iphone/#use-the-water-eject-shortcut-on-your-iphone)
@@ -24,8 +25,9 @@ thumbnail: https://thmb.techidaily.com/589975317cd54578e2464cf37ff9c3436a24bffda
 * [What to Avoid When Your iPhone Speaker Is Wet](https://www.makeuseof.com/how-to-eject-water-speaker-microphone-iphone/#what-to-avoid-when-your-iphone-speaker-is-wet)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * You can use the built-in Shortcuts app to quickly get rid of water trapped in your iPhone's speakers.
@@ -34,9 +36,6 @@ thumbnail: https://thmb.techidaily.com/589975317cd54578e2464cf37ff9c3436a24bffda
 
  Although you're not supposed to take your iPhone into the shower or for a swim, many users do so anyway, causing water to get into the speaker. Fortunately, there are several free, simple ways to get water out of your iPhone's speakers.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ## Use the Water Eject Shortcut on Your iPhone
 
  First, make sure you have the Shortcuts app on your iPhone. Shortcuts is a native Apple app, so if you haven't got it, simply download it for free from the App Store.
@@ -64,15 +63,13 @@ Close
 Close
 
 <!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Other Ways to Eject Water From Your iPhone's Speakers
 
  If you feel the Water Eject shortcut isn't sufficient for removing water from your iPhone's speaker, you can also try a couple of third-party tools.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Sonic
 
 Close
@@ -81,16 +78,20 @@ Close
 
 **Download:** [Sonic](https://apps.apple.com/us/app/sonic-tone-generator/id986999895?platform=iphone) (Free, in-app purchases available)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix My Speakers
 
 ![Fix My Speakers webpage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/muo-in-article-image-1200px-by-600px-21-ratio-49.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you prefer not to download a shortcut or app on your device, you can head to the [Fix My Speakers site](https://fixmyspeakers.com/) to play the tone needed to eject water from your iPhone's speakers. Just tap the button with the wind and water droplets emoji to activate the sound.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ## What to Avoid When Your iPhone Speaker Is Wet
 
  Your iPhone's speakers get wet when you accidentally drop the device in water. When you're attempting to [save a wet smartphone or tablet](https://www.makeuseof.com/tag/how-to-save-a-wet-cell-phone-or-tablet/) , you might instantly think of the method where people put their devices in rice to dry them.
@@ -107,8 +108,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -116,6 +115,26 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-top-5-samsung-gear-360-camera-alternatives-for-2024/"><u>[New] Top 5 Samsung Gear 360 Camera Alternatives for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-goofy-flick-an-analysis-of-the-goofy-movie/"><u>[Updated] 2024 Approved Goofy Flick An Analysis of 'The Goofy Movie'</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-elite-arsenal-choosing-the-top-7-fps-for-2024/"><u>[Updated] Elite Arsenal Choosing the Top 7 FPS for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-a-step-by-step-journey-through-the-landscape-of-instagram-reels/"><u>[Updated] In 2024, A Step-by-Step Journey Through the Landscape of Instagram Reels</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721463395821-dealing-with-an-offline-find-my-iphone-explore-reasons-and-tracking-tricks-here/"><u>Dealing with an Offline Find My iPhone? Explore Reasons and Tracking Tricks Here!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/eliminate-airpod-disappearance-issues-discover-eight-fixes-using-find-my/"><u>Eliminate AirPod Disappearance Issues: Discover Eight Fixes Using 'Find My'</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fix-this-why-are-your-iphone-calls-and-sms-silent-in-do-not-disturb-mode-answer-with-8-fixes/"><u>Fix This! Why Are Your iPhone Calls and SMS Silent in Do Not Disturb Mode? (Answer with 8 Fixes)</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-common-issues-with-your-airpods-top-10-solutions-to-restore-sound/"><u>Fixing Common Issues with Your AirPods - Top 10 Solutions to Restore Sound</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-itel-s23plus-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Itel S23+ Fingerprint Lock</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-the-ideal-beginning-enhancer-for-your-devices/"><u>In 2024, The Ideal Beginning Enhancer for Your Devices</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-unidentified-video-images-strategies-for-blurring-private-sections/"><u>In 2024, Unidentified Video Images Strategies for Blurring Private Sections</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ive-reactions-in-a-world-of-negative-comments/"><u>Positive Reactions in a World of Negative Comments</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolving-recurring-airpod-disconnection-a-guide-for-iphone-users-11-steps/"><u>Resolving Recurring AirPod Disconnection: A Guide for iPhone Users (11 Steps)</u></a></li>
+<li><a href="https://fox-that.techidaily.com/sluggish-smartphone-signal-accelerate-your-data-speeds-in-just-10-steps/"><u>Sluggish Smartphone Signal? Accelerate Your Data Speeds in Just 10 Steps!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-the-problem-why-isnt-my-iphone-syncing-email/"><u>Solving the Problem: Why Isn't My iPhone Syncing Email?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/stop-unwanted-ring-tones-silencing-your-ipad-for-incoming-iphone-phonecalls/"><u>Stop Unwanted Ring Tones: Silencing Your iPad for Incoming iPhone Phonecalls</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-all-inclusive-guide-to-the-maisto-rc-rock-crawler-best-for-kids-and-parents-alike/"><u>The All-Inclusive Guide to the Maisto RC Rock Crawler – Best for Kids & Parents Alike</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unstuck-from-iphone-glitches-3-effective-ways-to-restore-your-contact-list/"><u>Unstuck From iPhone Glitches: 3 Effective Ways to Restore Your Contact List</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiled-most-incredible-cyber-monday-sales-for-gaming-systems-and-accessories-in-october-2024-cnet-insights/"><u>Unveiled: Most Incredible Cyber Monday Sales for Gaming Systems & Accessories in October 2024 | CNET Insights</u></a></li>
+</ul></div>
 

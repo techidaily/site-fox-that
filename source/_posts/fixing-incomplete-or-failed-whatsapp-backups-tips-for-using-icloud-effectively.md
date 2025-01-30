@@ -1,7 +1,7 @@
 ---
 title: "Fixing Incomplete or Failed WhatsApp Backups: Tips for Using iCloud Effectively"
-date: 2024-08-10T03:37:48.552Z
-updated: 2024-08-11T03:37:48.552Z
+date: 2025-01-25T06:33:48.607Z
+updated: 2025-01-30T00:37:22.259Z
 tags:
   - iphone
   - apple
@@ -20,25 +20,25 @@ thumbnail: https://thmb.techidaily.com/f00def1c04cb418f21da5c60f199b078da943127e
 
 ## 1\. Check if WhatsApp Is Enabled for iCloud Backup
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![name in iphone settings-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/name-in-iphone-settings-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![icloud settings in iphone settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/icloud-settings-in-iphone-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![show all option in icloud iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/show-all-option-in-icloud-iphone.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![apps using icloud in iphone settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/apps-using-icloud-in-iphone-settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -48,18 +48,20 @@ Close
 2. In the Section,**Apps Using iCloud** , and select**Show All** .
 3. Scroll down and**toggle** **on** the switch right next to**WhatsApp** . If it is already on, consider switching it off and then on again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Make Sure You Have Free Space Available
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![chat backup option in whatsapp](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/chat-backup-option-in-whatsapp.jpg)
 
 ![chats section in whatsapp](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/chats-section-in-whatsapp.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Whatsapp chat backup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/whatsapp-chat-backup.jpg)
 
 Close
@@ -78,18 +80,27 @@ To check your available iCloud storage space:
 
 ![icloud settings in iphone settings-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/icloud-settings-in-iphone-settings-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![manage account storage option in iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/manage-account-storage-option-in-iphone.jpg)
 
 Close
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Perform a Manual Backup on WhatsApp
 
 ![chat backup option in whatsapp-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/chat-backup-option-in-whatsapp-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Backing up now in Whatsapp](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/backing-up-now-in-whatsapp.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -102,9 +113,6 @@ Here's how you can do that:
 
  While not necessary, consider keeping WhatsApp open during this manual backup. This means not swiping the WhatsApp page up in the app switcher. You may use other apps or put your iPhone to sleep during this time though.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Check the iCloud Server Status
 
 ![Apple server status](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/apple-server-status.jpeg)
@@ -124,17 +132,15 @@ To restart your device:
 3. After a little while, press and hold the power button to switch your iPhone back on.
 4. Check to see if the WhatsApp backup succeeds now.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Update Your iPhone and WhatsApp
 
 ![General Section in iPhone Setttings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/general-section-in-iphone-setttings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Software Update in iPhone General Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/software-update-in-iphone-general-settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -161,9 +167,6 @@ To do this, follow these steps:
 
 ## 8\. Delete the Existing iCloud Backup
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![whatsapp messenger section in icloud settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/whatsapp-messenger-section-in-icloud-settings.jpg)
 
 ![whatsapp data in icloud](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/whatsapp-data-in-icloud.jpg)
@@ -189,8 +192,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -198,6 +199,26 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/updated-get-unlimited-data-for-nothing-a-compreran-guide-to-30-best-cloud-storages-for-2024/"><u>[Updated] Get Unlimited Data for Nothing! A Compreran Guide to 30 Best Cloud Storages for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-ideal-online-places-to-raise-audience-numbers/"><u>[Updated] Ideal Online Places to Raise Audience Numbers</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-channel-size-independent-strategies-for-securing-sponsors/"><u>[Updated] In 2024, Channel-Size-Independent Strategies for Securing Sponsors</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-safekeep-stories-the-unlimited-save-service-for-2024/"><u>[Updated] Safekeep Stories The Unlimited Save Service for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-client-reviews-the-heart-of-modern-marketing-strategies/"><u>2024 Approved Client Reviews The Heart of Modern Marketing Strategies</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-in-the-office-understanding-the-10-risks-to-your-job-security/"><u>ChatGPT in the Office: Understanding the 10 Risks to Your Job Security</u></a></li>
+<li><a href="https://fox-that.techidaily.com/common-reasons-and-fixes-for-non-functioning-iphone-alarms/"><u>Common Reasons and Fixes for Non-Functioning iPhone Alarms</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/dive-into-ai-with-these-9-foundational-toolsets-ideal-for-beginners/"><u>Dive Into AI with These 9 Foundational Toolsets Ideal for Beginners</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-poco-f5-5g-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Poco F5 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-call-reception-errors-steps-to-resolve-missed-connections/"><u>IPhone Call Reception Errors – Steps to Resolve Missed Connections</u></a></li>
+<li><a href="https://fox-that.techidaily.com/masterful-approach-to-resolving-iphone-issues-with-the-apple-support-application/"><u>Masterful Approach to Resolving iPhone Issues with the Apple Support Application</u></a></li>
+<li><a href="https://fox-that.techidaily.com/patients-with-diabetes-or-peripheral-vascular-disease-may-require-special-consideration-when-being-prescribed-beta-blockers-due-to-potential-adverse-effects21/"><u>Patients with Diabetes or Peripheral Vascular Disease May Require Special Consideration when Being Prescribed Beta Blockers Due to Potential Adverse Effects.</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revamp-the-way-you-search-on-windows-11/"><u>Revamp the Way You Search on Windows 11</u></a></li>
+<li><a href="https://fox-that.techidaily.com/revamp-your-stuck-iphone-home-button-with-these-five-tips/"><u>Revamp Your Stuck iPhone Home Button with These Five Tips</u></a></li>
+<li><a href="https://fox-that.techidaily.com/smooth-surfing-on-ios-the-definitive-list-of-fixes-for-a-broken-safari-app/"><u>Smooth Surfing on iOS: The Definitive List of Fixes for a Broken Safari App</u></a></li>
+<li><a href="https://fox-that.techidaily.com/step-by-step-tutorial-how-to-enable-and-use-bluetooth-technology-on-your-iphone/"><u>Step-by-Step Tutorial: How to Enable and Use Bluetooth Technology on Your iPhone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/steps-to-resolve-when-your-iphone-fails-to-receive-call-incoming/"><u>Steps to Resolve When Your iPhone Fails to Receive Call Incoming</u></a></li>
+<li><a href="https://dvd-bd.techidaily.com/top-3-methods-for-watching-mkv-videos-on-an-iphone/"><u>Top 3 Methods for Watching MKV Videos on an iPhone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-tips-for-issues-with-apple-family-sharing-discover-6-fixes/"><u>Troubleshooting Tips for Issues with Apple Family Sharing – Discover 6 Fixes!</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Identifying Liquid Impact: The Ultimate List of 9 Signs for a Damaged iPhone"
-date: 2024-08-15T11:50:33.030Z
-updated: 2024-08-16T11:50:33.030Z
+date: 2025-01-23T08:24:51.187Z
+updated: 2025-01-30T03:15:25.781Z
 tags:
   - iphone
   - apple
@@ -18,11 +18,12 @@ thumbnail: https://thmb.techidaily.com/733caf2abbd8fb995bf457552e00ba90aafeaec9c
 
  We've compiled a list of things you should watch out for if you suspect an iPhone is water damaged. Note that a symptom by itself may not be a sign of water damage, but the more signs a phone has, the more likely it is water damaged.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Foggy Cameras
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ![Foggy iPhone X photo of a man](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/05/foggy-iphone-x-photo-of-a-man.jpg)
 
  One of the first things you should do when inspecting a phone for any kind of damage is to check its cameras. They are sensitive pieces of hardware and are easily affected by scratches, drops, and water.
@@ -31,12 +32,13 @@ thumbnail: https://thmb.techidaily.com/733caf2abbd8fb995bf457552e00ba90aafeaec9c
 
  If you use your iPhone's camera and your pictures look like they're from a low-budget movie from the 50s, then it might be water-damaged. If you see a photo like this, turn off your phone and dry it thoroughly.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Face ID or Touch ID Malfunctioning
 
 ![iPhone with Face ID is not available message on the lock screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/iphone-with-face-id-is-not-available-message-on-the-lock-screen.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Apple's biometric security features are one of the features you could lose when your iPhone takes an unfortunate bath in water.
 
@@ -45,22 +47,24 @@ thumbnail: https://thmb.techidaily.com/733caf2abbd8fb995bf457552e00ba90aafeaec9c
  Likewise, Touch ID could also be negatively affected by water if it slips through the side of the Home button and gets into the sensors. This is less likely to happen if you use an iPhone 7 or 8, but it's still possible if the phone falls into extremely dirty water.
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Misbehaving Buttons
 
  Dirty water often contains all sorts of particles that can get into small gaps and block them. If you notice that the buttons on an iPhone feel stuck, make a grainy sound, or simply do not respond, then you could be holding a water-damaged iPhone.
 
 ## 4\. Patches on the Display
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![An iPhone X with a dark spot on its left bottom corner](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/05/an-iphone-x-with-a-dark-spot-on-its-left-bottom-corner.jpg)
 
  If you're unlucky, water could also affect your display and develop permanent patches. You might see signs of water under the display first before it slowly forms dark patches—making the affected area dimmer.
 
  Once you see signs of water under the display, dry the device and [back up all your iPhone's data](https://www.makeuseof.com/tag/how-to-backup-iphone-ipad/) . Whatever you do, do not put it in rice because that myth may accelerate your problem. If there's still a dark spot after your phone is dry, you might need to change the screen assembly.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Faulty Touchscreen and Flickering Display
 
@@ -80,6 +84,10 @@ thumbnail: https://thmb.techidaily.com/733caf2abbd8fb995bf457552e00ba90aafeaec9c
 
  You should dry out the speakers for iPhones that just fell into some water. If that still doesn't help, try some DIY [iPhone speaker fixes](https://www.makeuseof.com/tag/fix-iphone-speaker-not-working/) before you spend money on an expert.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Signs of Rust and Corrosion
 
  iPhones are typically made of stainless steel or aluminum, a sturdy lightweight metal, but a metal nonetheless. This means that when iPhones are exposed to moisture or salty water for too long, the metals can corrode and cause rust or pitting.
@@ -88,23 +96,14 @@ thumbnail: https://thmb.techidaily.com/733caf2abbd8fb995bf457552e00ba90aafeaec9c
 
  If you're skilled at DIY repairs, you can try opening up the iPhone to search the interior components for signs of rust.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 8\. Unstable Charging
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Plugged-in iPhone resting on a black surface](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/plugged-in-iphone-resting-on-a-black-surface.jpg)
 
  In most scenarios where a phone falls into some water, it will likely be dirty water. And dirty water could contain all sorts of things like sand, mud, or other icky particles. These particles can get into your phone's charging port and block the pins. When the pins are blocked in this manner, your charger might not be able to fully nest in your phone, stopping your phone from charging properly or charging at all.
 
  If your phone falls in muddy water, try to remove mud from the charging port as quickly as possible. When your phone dries, give the charging port a thorough clean. You can check our guide on [how to clean your dirty iPhone](https://www.makeuseof.com/tag/clean-iphone-guide/) for better assistance with that.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ## 9\. Strange Smells
 
  Dirty or salty water could also give your iPhone an odd smell, especially if it makes its way inside the phone, where it's harder to clean.
@@ -127,8 +126,6 @@ thumbnail: https://thmb.techidaily.com/733caf2abbd8fb995bf457552e00ba90aafeaec9c
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -136,6 +133,26 @@ thumbnail: https://thmb.techidaily.com/733caf2abbd8fb995bf457552e00ba90aafeaec9c
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/n-2024-the-complete-guide-to-creating-memorable-youtube-outros/"><u>[New] In 2024, The Complete Guide to Creating Memorable YouTube Outros</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-hubs-for-finding-googles-ad-sponsors-on-video/"><u>[Updated] In 2024, Hubs for Finding Google's Ad Sponsors on Video</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-maximizing-your-experience-with-youtube-tv/"><u>[Updated] In 2024, Maximizing Your Experience with YouTube TV</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-navigating-the-boundaries-of-video-posting-on-facebook-for-2024/"><u>[Updated] Navigating the Boundaries of Video Posting on Facebook for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/7-rapid-repairs-troubleshooting-stuck-predictive-emojis-on-iphones-and-ipads/"><u>7 Rapid Repairs: Troubleshooting Stuck Predictive Emojis on iPhones & iPads</u></a></li>
+<li><a href="https://fox-that.techidaily.com/cant-upload-photos-to-icloud-from-iphone-try-these-9-fixes/"><u>Can't Upload Photos to iCloud From iPhone? Try These 9 Fixes</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1725289984335-digiarty/"><u>Digiarty製品が注目される理由：専門家からの洞察と情報紹介</u></a></li>
+<li><a href="https://fox-that.techidaily.com/effective-methods-for-extracting-water-from-the-speaker-units-of-your-iphone/"><u>Effective Methods for Extracting Water From the Speaker Units of Your iPhone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/explore-my-selection-the-ultimate-list-of-8-free-music-apps-for-ios-devices/"><u>Explore My Selection: The Ultimate List of 8 FREE Music Apps for iOS Devices</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721464234468-iphone-volume-control-not-responding-here-are-7-effective-fixes/"><u>IPhone Volume Control Not Responding? Here Are 7 Effective Fixes</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/lenovo-legion-5-pro-16-screen-amd-ryzen-7-nvidia-rtx-dedicated-driver-installation-guide/"><u>Lenovo Legion 5 Pro (16 Screen, AMD Ryzen 7, NVIDIA RTX) - Dedicated Driver Installation Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/monster-hunter-rise-failed-to-open-heres-the-remedy/"><u>Monster Hunter Rise Failed to Open? Here's the Remedy</u></a></li>
+<li><a href="https://network-issues.techidaily.com/remedying-critical-c1900101-during-setup/"><u>Remedying Critical C1900101 During Setup</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721474415172-solving-uneven-sound-discover-how-to-fix-when-one-airpod-is-louder/"><u>Solving Uneven Sound: Discover How to Fix When One AirPod Is Louder</u></a></li>
+<li><a href="https://fox-that.techidaily.com/the-ultimate-guide-to-fixing-an-iphones-non-responsive-touch-7-key-reasons-explained/"><u>The Ultimate Guide to Fixing an iPhones' Non-Responsive Touch: 7 Key Reasons Explained</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/tutorial-comment-realiser-une-synchronisation-de-fichiers-en-direct-sous-les-systemes-dexploitation-windows-1187/"><u>Tutorial : Comment Réaliser Une Synchronisation De Fichiers en Direct Sous Les Systèmes D'exploitation Windows 11/8/7 ?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlock-effective-voice-typing-on-your-iphone-with-these-5-essential-troubleshooting-steps/"><u>Unlock Effective Voice Typing on Your iPhone with These 5 Essential Troubleshooting Steps</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unstuck-iphone-the-ultimate-guide-to-reestablishing-icloud-photo-sync/"><u>Unstuck iPhone: The Ultimate Guide to Reestablishing iCloud Photo Sync</u></a></li>
+<li><a href="https://fox-that.techidaily.com/usb-c-liquid-warning-on-iphone-understanding-and-resolution-steps/"><u>USB-C Liquid Warning on iPhone: Understanding and Resolution Steps</u></a></li>
+</ul></div>
 

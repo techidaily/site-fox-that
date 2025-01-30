@@ -1,7 +1,7 @@
 ---
 title: Can't See Your iPhone App? Discover the Steps to Retrieve Deleted Programs!
-date: 2024-08-15T11:50:18.354Z
-updated: 2024-08-16T11:50:18.354Z
+date: 2025-01-27T22:17:21.936Z
+updated: 2025-01-29T18:24:59.081Z
 tags:
   - iphone
   - apple
@@ -31,8 +31,9 @@ thumbnail: https://thmb.techidaily.com/e0be33554f7e808cbb9defb5e44d8742371f9f0a4
 ![App Library on iPhone showing all apps in proper categories](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/app-library-on-iphone-showing-all-apps-in-proper-categories.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![App Library showing apps in alphabetical order](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/app-library-showing-apps-in-alphabetical-order.png)
 
 ![Long-press app in App Library and tap Add to Home Screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/long-press-app-in-app-library-and-tap-add-to-home-screen.png)
@@ -41,9 +42,6 @@ Close
 
  In the future, if you want all the new apps you download to show on the iPhone Home Screen, open**Settings** \>**Home Screen** and select**Add to Home Screen** . This will put an end to new apps not appearing on the Home Screen.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Use Spotlight to Find the Missing App
 
  The second method is to use Spotlight search, which helps you find files and apps stored anywhere on your device.
@@ -52,16 +50,18 @@ Close
 
  Now, type the app name to find it. Once you do, you can also long-press the app icon and select the**Add to Home Screen** option or manually drag it onto the Home Screen.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![iphone home screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/img_5638.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![iphone search screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/img_5639.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![use search to find an app in iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/img_5640.jpg)
 
 Close
@@ -78,6 +78,10 @@ Close
 
  If this is your situation, open all the app folders on your iPhone Home Screen and look for the missing app inside. Once you find it, you may want to drag the app icon out of the folder onto the Home Screen.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Check Screen Time to Unhide Restricted Apps
 
  You can use Screen Time to [hide and restrict iPhone apps](https://www.makeuseof.com/tag/hide-restrict-apps-iphone/) like Safari, Camera, FaceTime, Mail, and more. As a result, you won't find the app icons for these restricted apps on the Home Screen or the App Library. They won't even appear in Spotlight search results or be accessible via Siri.
@@ -90,10 +94,11 @@ Close
 
 ![Tap Allowed Apps in iPhone Screen Time Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/tap-allowed-apps-in-iphone-screen-time-settings.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 ![Make Sure all iPhone apps are allowed and nothing is restricted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/make-sure-all-iphone-apps-are-allowed-and-nothing-is-restricted.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -105,9 +110,6 @@ Close
 
  To avoid confusion in the future, learn more about [hiding and unhiding the Home Screen pages](https://www.makeuseof.com/hide-iphone-home-screen-pages/) .
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ## 7\. Use App Store to Check If an App Is Installed or Not
 
  When an app is downloaded on your iPhone, the App Store page says**Open** (or**Update**). If the app is not downloaded, it says**Get** (or shows the**Download** cloud icon).
@@ -120,12 +122,17 @@ Close
 
 ![Long press iOS App Store icon and tap Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/long-press-ios-app-store-icon-and-tap-search.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Search for app in App Store and tap Open](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/search-for-app-in-app-store-and-tap-open.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Close
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Reset the Home Screen Layout to View All Apps Alphabetically
 
@@ -136,24 +143,18 @@ Here's how to reset your iPhone's Home Screen layout:
 1. Open**Settings** and tap**General** .
 2. Scroll to the bottom and tap**Transfer or Reset iPhone** \>**Reset** \>**Reset Home Screen Layout** .
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Tap General in iPhone Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/tap-general-in-iphone-settings-app.png)
 
 ![From the bottom tap Reset in iPhone Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/from-the-bottom-tap-reset-in-iphone-settings.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![Tap Reset Home Screen Layout in iPhone Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/tap-reset-home-screen-layout-in-iphone-settings.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 9\. Additional Fixes if You Still Can't Find an App
 
  Most of the methods we covered above involve unhiding an app and getting it back on the Home Screen again. But if those don't work, an app disappearing may be caused by a glitch.
@@ -174,8 +175,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -183,6 +182,22 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-framefinder-focus-top-recording-software-of-2023/"><u>[New] In 2024, FrameFinder Focus Top Recording Software of 2023</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-mastering-the-art-of-fbx-based-gaming-archiving/"><u>[Updated] 2024 Approved Mastering the Art of FBX-Based Gaming Archiving</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-retro-to-modern-radeon-transition/"><u>[Updated] In 2024, Retro to Modern Radeon Transition</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1-how-to-fix-distorted-aspect-ratio-when-converting-dvd-vob-files-to-mp4-using-handbrake/"><u>1. How to Fix Distorted Aspect Ratio when Converting DVD VOB Files to MP4 Using Handbrake</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/best-15-high-definition-christmas-anime-movies-hd-mp4-of-2023-free-download/"><u>Best 15 High-Definition Christmas Anime Movies (HD MP4) of 2023 - Free Download</u></a></li>
+<li><a href="https://extra-information.techidaily.com/boost-iphone-photographic-finesse-with-essential-additions-for-2024/"><u>Boost iPhone Photographic Finesse with Essential Additions for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/error-14-on-iphone-heres-how-you-can-fix-it-now/"><u>Error 14 on iPhone? Here's How You Can Fix It Now!</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-resolve-oppo-find-x6-pro-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Oppo Find X6 Pro Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/recharge-your-iphone-wirelessly-again-with-these-7-helpful-tricks/"><u>Recharge Your iPhone Wirelessly Again with These 7 Helpful Tricks</u></a></li>
+<li><a href="https://fox-that.techidaily.com/safari-lags-on-ios-discover-these-4-strategies-for-swift-browsing/"><u>Safari Lags on iOS? Discover These 4 Strategies for Swift Browsing</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/step-by-step-guide-for-using-zoom-via-gmail/"><u>Step-by-Step Guide for Using Zoom via Gmail</u></a></li>
+<li><a href="https://fox-that.techidaily.com/tracking-down-apples-facetime-imagery-a-comprehensive-guide/"><u>Tracking Down Apple's FaceTime Imagery: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-roblox-app-memory-warnings-for-iphones-easily/"><u>Troubleshoot Roblox App Memory Warnings for iPhones Easily</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-whatsapp-solutions-for-failed-icloud-backups/"><u>Troubleshooting WhatsApp: Solutions for Failed iCloud Backups</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unstick-your-iphones-siri-5-proven-ways-to-restore-dictation/"><u>Unstick Your iPhone's Siri: 5 Proven Ways to Restore Dictation</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: IPhone Notification Issues? Here Are 7 Solutions to Get Them Working
-date: 2024-08-15T11:48:46.361Z
-updated: 2024-08-16T11:48:46.361Z
+date: 2025-01-27T08:03:31.544Z
+updated: 2025-01-29T20:18:28.319Z
 tags:
   - iphone
   - apple
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/85dce2e7a62329814e9e3c20d7b6e75c4ef84f34c
 
  Your browser does not support the video tag.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 1\. Unmute Your iPhone
 
  The first step is to check whether you have accidentally muted your iPhone. When Silent mode is turned on, you won't hear incoming notification alerts, and as a result, you may think that you're not receiving notifications as they arrive.
@@ -34,8 +31,9 @@ thumbnail: https://thmb.techidaily.com/85dce2e7a62329814e9e3c20d7b6e75c4ef84f34c
  If you expected vibration alerts on Silent mode but did not receive them for incoming notifications, you'll need to review the relevant settings. In those cases, incorrect settings are the main reason [why your iPhone isn't vibrating on Silent Mode](https://www.makeuseof.com/iphone-not-vibrating-on-silent-or-ring-mode-fixes/) .
 
 <!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Restart Your iPhone
 
 ![fix notifications not showing on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/11/fix-notifications-not-showing-on-iphone.jpg)
@@ -60,16 +58,21 @@ thumbnail: https://thmb.techidaily.com/85dce2e7a62329814e9e3c20d7b6e75c4ef84f34c
 
  If the problem persists, see our [guide to speeding up a slow mobile data connection](https://www.makeuseof.com/tag/speed-up-slow-mobile-data/) . Make sure you still have an active data plan and haven't run out of data. Reach out to your cellular carrier for further support with this.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Troubleshoot Wi-Fi Connectivity Issues on Your iPhone
 
  When trying to fix an issue on a Wi-Fi connection, rebooting your router helps most of the time. However, if your iPhone's connection on a Wi-Fi network is still slow or unstable after a power cycle, see our [guide to fixing slow Wi-Fi connections](https://www.makeuseof.com/tag/4-reasons-wi-fi-slow-fix/) .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ### Disabling Your VPN Could Help
 
 ![fix notifications not showing on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/11/fix-notifications-not-showing-on-iphone-image-02.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Since VPNs change both your cellular and Wi-Fi connections, they can interfere with notification delivery. For example, if you're using a [free VPN for your iPhone](https://www.makeuseof.com/best-free-vpn-iphone-ipad/) , try disabling it, then check if that fixes the notification issue.
 
@@ -83,9 +86,6 @@ thumbnail: https://thmb.techidaily.com/85dce2e7a62329814e9e3c20d7b6e75c4ef84f34c
 
  Let's use Do Not Disturb as our example: note the color of the**crescent moon** icon. If it's violet (bluish-purple), that means Do Not Disturb is enabled; tap the icon to disable Do Not Disturb. That will change the crescent moon's color to white.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![iphone do not disturb mode enabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/img_6055.JPEG)
 
 ![disable iphone focus mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/img_6056.JPEG)
@@ -98,14 +98,12 @@ Close
 
  For example, if you're a passenger in a taxi or a train, the feature assumes you're the driver and silences all calls and notifications on your iPhone. To disable the feature, go to**Settings > Focus > Driving** . Then, tap the option under the**Turn On Automatically** section. Set the feature to be activated**Manually** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ![iphone focus settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/img_6057.JPEG)
 
 <!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![iphone driving focus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/img_6058.JPEG)
 
 ![iphone driving focus settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/img_6059.JPEG)
@@ -114,33 +112,31 @@ Close
 
  If you want notifications while [using Apple CarPlay](https://www.makeuseof.com/tag/apple-carplay-guide/) , you should also toggle off the**Activate With CarPlay** option. Leaving this enabled will activate Driving Focus when you connect your iPhone to a CarPlay-compatible vehicle.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## 6\. Check and Modify Your Notification Settings
 
  If your iPhone doesn't display notifications for a particular app, check that the app's notification settings and preferences are correctly configured.
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Change App Notifications From the Settings Menu
 
  Launch the**Settings** app and select**Notifications** . Next, choose the affected app and make sure**Allow Notifications** is toggled on.
 
  In addition, make sure**Lock Screen** ,**Notification Center** , and**Banners** are enabled per your preferences. You should also enable**Sounds** and**Badges** for the app if you want those to fire for new notifications.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![iPhone Settings Notifications](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/11/fix-notifications-not-showing-on-iphone-14.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![iphone notification settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/img_6061.JPEG)
 
 ![iphone app notification settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/img_6062.JPEG)
 
 Close
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Review Your Scheduled Notification Summary
 
@@ -152,10 +148,11 @@ Close
 
 ![iphone notification settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/img_6061.JPEG)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![iphone scheduled summary](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/img_6063.JPEG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -163,16 +160,14 @@ Close
 
  Some apps, particularly social media platforms and instant messengers like WhatsApp, Telegram, Instagram, and similar, have dedicated notification settings. These act independently of the notification configuration in your iPhone's Settings menu that we looked at above.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![Instagram In-App Notification Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/11/fix-notifications-not-showing-on-iphone-08.jpg)
 
 ![Telegram In-App Notification Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/11/fix-notifications-not-showing-on-iphone-09.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Twitter In-App Notification Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/11/fix-notifications-not-showing-on-iphone-10.jpg)
 
 Close
@@ -191,16 +186,10 @@ Close
 
  Go to the**App Store** , type the app name in the**Search** tab, and hit**Search** . If there's an update available, you'll see an**Update** button next to the app's name.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![iphone app store search tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/search-app-store-1.JPEG)
 
 ![type keyword to search for app in iphone app store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/app-store-search-2.JPEG)
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ![update instagram in iphone app store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/app-store-search-3.JPEG)
 
 Close
@@ -208,8 +197,9 @@ Close
  Even if there's no update available yet, you can try checking out the app's social media pages or website. Some app developers actively keep users up-to-date on the issues they've identified and are working on, so you'll just need to wait for the next update. If not, you can also contact them on the relevant channels to inform them about the issue.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 9\. Reset iPhone Settings
 
  Still not receiving notifications on your iPhone after all the above fixes? At this point, you should try resetting your device's settings. Doing this will restore your iPhone's notification preferences to factory defaults, hopefully fixing whatever is affecting notification delivery.
@@ -222,13 +212,14 @@ Close
 
 ![options to reset iphone settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/reset-iphone-options.JPEG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Close
 
  Remember that resetting your iPhone's settings puts all options back to the default. This means you'll have to connect to Wi-Fi networks again, re-configure Bluetooth devices, adjust your privacy settings, and more. However, your data isn't affected by this.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Get Timely Notifications on Your iPhone
 
  Chances are that at least one of the fixes mentioned above will resolve your iPhone's notification issues. It's more than likely an accidental setting blocking the notifications than a full-blown problem.
@@ -241,8 +232,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -250,6 +239,18 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-top-iphone-hacks-for-capturing-stunning-skyline-shots/"><u>[New] 2024 Approved Top iPhone Hacks for Capturing Stunning Skyline Shots</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-perfecting-video-frames-for-instagram-shares/"><u>[Updated] In 2024, Perfecting Video Frames for Instagram Shares</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/converti-gratuitamente-file-wav-in-formato-flac-con-soluzione-online-movevvi/"><u>Converti Gratuitamente File WAV in Formato FLAC Con Soluzione Online - Movevvi</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-from-hits-to-strikes-expert-youtube-studio-editing-strategies/"><u>In 2024, From Hits to Strikes Expert YouTube Studio Editing Strategies</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-nokia-g22-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from Nokia G22 to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-and-cant-access-the-vpn-connection-uncover-7-helpful-fixes/"><u>Iphone and Can't Access the VPN Connection? Uncover 7 Helpful Fixes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/mastering-iphone-maintenance-15-crucial-solutions-for-every-model/"><u>Mastering iPhone Maintenance: 15 Crucial Solutions for Every Model</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quad-channel-ddr4-team-group-sets-unprecedented-readwrite-speed-world-record/"><u>Quad-Channel DDR4 Team Group Sets Unprecedented Read/Write Speed World Record</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/simplescreensaver-easy-app-for-windows-10/"><u>SimpleScreenSaver Easy App for Windows 10</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-ice-cold-iphones-how-to-restart-and-fix-freezing-issues/"><u>Troubleshooting Ice-Cold iPhones: How to Restart and Fix Freezing Issues</u></a></li>
+<li><a href="https://fox-that.techidaily.com/why-does-my-imessage-transform-into-a-regular-text-am-i-actually-blocked/"><u>Why Does My iMessage Transform Into a Regular Text? Am I Actually Blocked?</u></a></li>
+</ul></div>
 

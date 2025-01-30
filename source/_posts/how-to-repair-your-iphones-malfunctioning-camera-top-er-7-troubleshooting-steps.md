@@ -1,7 +1,7 @@
 ---
 title: How to Repair Your iPhone's Malfunctioning Camera - Top Er 7 Troubleshooting Steps
-date: 2024-08-10T03:38:29.909Z
-updated: 2024-08-11T03:38:29.909Z
+date: 2025-01-28T02:46:59.747Z
+updated: 2025-01-30T02:43:47.857Z
 tags:
   - iphone
   - apple
@@ -18,14 +18,8 @@ thumbnail: https://thmb.techidaily.com/e35b3a5c1a462189bf0e7eb85d4007a41df15f6c2
 
  Here are the most common problems you might come across with your iPhone camera, along with everything you can do to fix them.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. iPhone Camera Shows a Black Screen
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![iPhone Camera not working, showing black screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/01/iPhone-Camera-not-working-showing-black-screen.jpg)
 
 ![iPhone Camera not working close apps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/01/iPhone-Camera-app-from-App-Switcher-view.jpg)
@@ -42,10 +36,11 @@ Close
 
 ## 2\. iPhone Photos Are Blurry or Out of Focus
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![iPhone camera blurry close up](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/01/iPhone-camera-blurry-close-up.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![iPhone camera in focus close up](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/01/iPhone-camera-in-focus-close-up.jpg)
 
@@ -68,16 +63,18 @@ Close
 2. Make sure you set the flash to**On** or**Auto** in the Camera app. To do this, tap the lightning bolt icon on the left side of the screen to see your flash options (you can't use the flash for panoramic photographs or time-lapse videos).
 3. Be careful when using the flash for long videos or in hot environments. If your iPhone gets too hot, it might disable the flash entirely until it has cooled down again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. iPhone Photos Are Flipped the Wrong Way
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![iPhone photo flipped the wrong way](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/01/iPhone-photo-flipped-the-wrong-way.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![iPhone photo rotated in edit screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/01/iPhone-photo-rotated-in-edit-screen.jpg)
 
 Close
@@ -90,12 +87,17 @@ Close
 3. You can always edit your pictures later from the Photos app, or other [third-party iPhone image editing apps](https://www.makeuseof.com/tag/best-free-photo-editing-apps-iphone/) .
 4. If you're wondering why your selfies always appear mirrored, that's simply how Apple designed the front-facing camera. The camera works like a mirror, but the photo flips over as if someone took it for you.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. The Camera App Is Missing or Keeps Freezing
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ![Screen Time settings on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/01/Screen-Time-settings-on-iPhone.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![Allowed Apps in Screen Time restrictions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/01/Allowed-Apps-in-Screen-Time-restrictions.jpg)
 
@@ -108,8 +110,9 @@ Close
 3. Make sure you turn the**Camera** app on; the toggle should be green.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. General iPhone Camera Software Fixes
 
 ![Reset All Settings iPhone confirmation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/01/Reset-All-Settings-iPhone-confirmation.jpg)
@@ -124,10 +127,11 @@ Close
 
 ## 7\. General iPhone Camera Hardware Fixes
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ![iPhone 11 camera](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/01/iPhone-11-camera.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you've tried everything above and your front or back iPhone camera is still not working, you might have a hardware problem instead. Try the troubleshooting steps below to fix it:
 
@@ -149,8 +153,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -158,6 +160,21 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-stay-ahead-with-innovation-integrating-youtube-into-your-educational-approach/"><u>[New] 2024 Approved Stay Ahead with Innovation Integrating YouTube Into Your Educational Approach</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-encompassing-activity-survey/"><u>[New] In 2024, Encompassing Activity Survey</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-top-networking-grounds-grow-your-youtube-audience/"><u>[New] In 2024, Top Networking Grounds Grow Your YouTube Audience</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-unmissable-gameplay-in-virtual-realms/"><u>[Updated] 2024 Approved Unmissable Gameplay in Virtual Realms</u></a></li>
+<li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-samsung-galaxy-f54-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Samsung Galaxy F54 5G to iPhone | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/6-common-factors-making-your-iphone-lag-learn-how-to-speed-it-up/"><u>6 Common Factors Making Your iPhone Lag – Learn How to Speed It Up</u></a></li>
+<li><a href="https://article-posts.techidaily.com/evaluating-on-demand-media-podcast-or-youtube-in-2024/"><u>Evaluating On-Demand Media Podcast or YouTube, In 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fix-your-iphones-unresponsive-volume-keys-with-these-7-effective-methods/"><u>Fix Your iPhone's Unresponsive Volume Keys with These 7 Effective Methods</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-factory-unlock-your-telstra-iphone-11-pro-by-drfone-ios/"><u>In 2024, How To Factory Unlock Your Telstra iPhone 11 Pro</u></a></li>
+<li><a href="https://fox-that.techidaily.com/master-the-art-of-keeping-iphone-apps-stable-10-crucial-fixes-for-frequent-crashes/"><u>Master the Art of Keeping iPhone Apps Stable: 10 Crucial Fixes for Frequent Crashes</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/three-proven-techniques-for-building-your-own-lenovo-system-repair-disk-using-windows-ergy-and-accuracy-to-attract-potential-readers-searching-for-this-info299/"><u>Three Proven Techniques for Building Your Own Lenovo System Repair Disk Using Windows Ergy, and Accuracy to Attract Potential Readers Searching for This Information.</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-a-non-functional-tablet-touch-display-with-these-8-key-strategies/"><u>Troubleshoot a Non-Functional Tablet Touch Display with These 8 Key Strategies</u></a></li>
+<li><a href="https://fox-that.techidaily.com/why-isnt-my-facetime-working-uncover-15-effective-remedies-and-repairs/"><u>Why Isn't My FaceTime Working? Uncover 15 Effective Remedies and Repairs</u></a></li>
+<li><a href="https://fox-that.techidaily.com/your-iphone-wont-connect-to-your-computer-heres-the-fix/"><u>Your iPhone Won't Connect to Your Computer? Here's the Fix!</u></a></li>
+</ul></div>
 

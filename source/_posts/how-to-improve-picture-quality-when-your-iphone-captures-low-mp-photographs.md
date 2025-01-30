@@ -1,7 +1,7 @@
 ---
 title: How to Improve Picture Quality When Your iPhone Captures Low MP Photographs
-date: 2024-08-10T03:38:45.646Z
-updated: 2024-08-11T03:38:45.646Z
+date: 2025-01-23T09:16:04.077Z
+updated: 2025-01-30T07:31:02.055Z
 tags:
   - iphone
   - apple
@@ -16,9 +16,6 @@ thumbnail: https://thmb.techidaily.com/10021b17375d6e35424f943b31fb1f59b98c4b332
 
  By default, your iPhone takes 12MP photos (or 24MP on the iPhone 15 series). However, some settings could lower that number, and you could have enabled them without knowing. So, read on to discover how to fix this issue.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Adjust the Camera's Aspect Ratio
 
  If you know [what aspect ratio is in photography](https://www.makeuseof.com/aspect-ratios-in-photography-guide/) , then you most likely don't need this guide. Simply put, the aspect ratio is essentially the ratio of the width to the height of an image.
@@ -31,26 +28,28 @@ thumbnail: https://thmb.techidaily.com/10021b17375d6e35424f943b31fb1f59b98c4b332
 
 ![iPhone Camera app in Photo mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/iphone-camera-app-in-photo-mode.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Photo mode options in the Camera app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/photo-mode-options-in-the-camera-app.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![Aspect ratio options in the Camera app for iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/aspect-ratio-options-in-the-camera-app-for-iphone.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![iPhone camera in 4-3 aspect ratio](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/3-aspect-ratio.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
  If your aspect ratio returns to 16:9 or 1:1 upon relaunching the Camera app, you can fix it in**Settings > Camera > Preserve Settings** . Toggle**Creative Controls** off, and your aspect ratio should return to the default every time you relaunch it.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Shoot in a Pro Format
 
  The iPhone 14 Pro and 15 Pro models can deliver the best possible image resolution when you shoot in a Pro format. But since it's not enabled by default, you'll need to follow these steps:
@@ -60,24 +59,22 @@ Close
 3. Toggle on**ProRAW & Resolution Control** .
 4. Tap**Pro Default** and choose**HEIF Max** or**ProRAW Max** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Camera settings menu in iOS 17](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/camera-settings-menu-in-ios-17.jpg)
 
 ![Camera Formats panel on a iPhone 15 Pro (ProRAW toggled on)](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/camera-formats-panel-on-a-iphone-15-pro-proraw-toggled-on.jpeg)
 
 ![Pro Default settings panel on an iPhone 15 Pro](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/pro-default-settings-panel-on-an-iphone-15-pro.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Close
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Enjoy Better Quality Pictures on Your iPhone
 
  While resolution and megapixels aren't the only things you need to make a good photo, they certainly offer the minimum standard for quality. With higher megapixels, you have a photo that you can do more things with and manipulate without losing too much quality.
@@ -88,8 +85,6 @@ No advertising on the website.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -97,6 +92,24 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-best-conversion-apps-enhance-tweets-with-video/"><u>[Updated] In 2024, Best Conversion Apps Enhance Tweets with Video</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-essential-tips-for-using-instagrams-sound-emojis/"><u>2024 Approved Essential Tips for Using Instagram's Sound Emojis</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-invisible-snapshotting-hidden-image-recording-on-snapchat/"><u>2024 Approved Invisible Snapshotting Hidden Image Recording on Snapchat</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/considerations-before-choosing-the-chatgpt-mobile-version-over-web-interface/"><u>Considerations Before Choosing the ChatGPT Mobile Version Over Web Interface</u></a></li>
+<li><a href="https://fox-that.techidaily.com/enhance-your-4g5g-speeds-key-strategies-for-quicker-data-usage/"><u>Enhance Your 4G/5G Speeds: Key Strategies for Quicker Data Usage</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-tecno-spark-20-proplus-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Tecno Spark 20 Pro+? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-a-comprehensive-guide-to-icloud-unlock-from-apple-iphone-11-online-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to iCloud Unlock From Apple iPhone 11 Online</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-vivo-y17s-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Vivo Y17s | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-samsung-galaxy-a14-5g-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Samsung Galaxy A14 5G Phones</u></a></li>
+<li><a href="https://fox-that.techidaily.com/ios-16-depth-effect-not-functioning-discover-these-7-fixes-to-restore-your-lock-screen-experience/"><u>IOS 16 Depth Effect Not Functioning? Discover These 7 Fixes to Restore Your Lock Screen Experience</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-airplay-disruptions-effective-fixes-to-try/"><u>Overcoming AirPlay Disruptions: Effective Fixes to Try</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolving-silent-text-messages-on-iphone-comprehensive-guide-with-over-15-fixes/"><u>Resolving Silent Text Messages on iPhone: Comprehensive Guide with Over 15 Fixes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/reviving-your-frozen-iphone-a-guide-to-fixing-it-without-functional-buttons/"><u>Reviving Your Frozen iPhone: A Guide to Fixing It without Functional Buttons</u></a></li>
+<li><a href="https://fox-that.techidaily.com/securely-restarting-your-iphone-a-quick-and-easy-tutorial/"><u>Securely Restarting Your iPhone: A Quick and Easy Tutorial</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/the-young-cinematographer-empowering-kids-to-tell-their-stories-for-2024/"><u>The Young Cinematographer Empowering Kids to Tell Their Stories for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-and-repair-an-inoperative-iphones-home-push-button-in-just-minutes/"><u>Troubleshoot and Repair an Inoperative iPhone's Home Push Button in Just Minutes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-the-depth-effect-on-ios-16-unlock-your-devices-full-potential-with-7-key-solutions/"><u>Troubleshooting the Depth Effect on iOS 16: Unlock Your Device's Full Potential with 7 Key Solutions</u></a></li>
+</ul></div>
 

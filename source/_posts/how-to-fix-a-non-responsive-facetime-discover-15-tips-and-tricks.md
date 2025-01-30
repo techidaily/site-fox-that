@@ -1,7 +1,7 @@
 ---
 title: How to Fix a Non-Responsive FaceTime - Discover 15 Tips & Tricks
-date: 2024-08-15T11:50:30.948Z
-updated: 2024-08-16T11:50:30.948Z
+date: 2025-01-23T08:55:08.111Z
+updated: 2025-01-29T20:18:36.468Z
 tags:
   - iphone
   - apple
@@ -14,14 +14,6 @@ thumbnail: https://thmb.techidaily.com/2a48b2247fe4fccf62c26b321b73686dd63d342e8
 
 ## How to Fix a Non-Responsive FaceTime - Discover 15 Tips & Tricks
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Quick Links
 
 * [Test the Camera and Microphone on Your Device](https://www.makeuseof.com/how-to-fix-facetime-not-working/#test-the-camera-and-microphone-on-your-device)
@@ -45,8 +37,9 @@ thumbnail: https://thmb.techidaily.com/2a48b2247fe4fccf62c26b321b73686dd63d342e8
  Your browser does not support the video tag.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Test the Camera and Microphone on Your Device
 
  If people can't see or hear you on FaceTime, there might be a problem with the camera or microphones on your device.
@@ -65,18 +58,12 @@ thumbnail: https://thmb.techidaily.com/2a48b2247fe4fccf62c26b321b73686dd63d342e8
 
  Similarly, if you can't see or hear the other person on FaceTime but they can see you, it's best to ask them to confirm if they have video and mic enabled on their end.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Test the Internet Connection on Your Device
 
  Unlike regular phone calls, FaceTime needs an internet connection to work. If FaceTime isn't connecting, load a webpage on your iPhone, iPad, or Mac to test the internet connection.
 
  FaceTime works best over Wi-Fi, but you can also use it with your cellular data on an iPhone or iPad. To use FaceTime without Wi-Fi, go to**Settings > Cellular** (or**Mobile Service**) and find**FaceTime** from the list. Toggle on the**FaceTime** slider to let it use cellular data.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ![iphone main settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/img_7705.JPEG)
 
 ![iphone mobile service settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/iphone-mobile-service-settings.JPEG)
@@ -99,6 +86,10 @@ Close
 
  Take a look at the current status of every Apple service on [Apple's System Status page](https://www.apple.com/support/systemstatus/) . If the status indicator next to FaceTime isn't green, it means the service is experiencing an outage and you'll need to wait.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Check if FaceTime Works in Your Country
 
  Unfortunately, FaceTime isn't available worldwide—although it certainly comes close. It also isn't available with every single network provider.
@@ -106,17 +97,15 @@ Close
  Take a look at [Apple's carrier support page](https://support.apple.com/HT204039) to find out if your carrier supports FaceTime in your country. If FaceTime isn't available where you live, you might be able to bypass these limitations by using a [free VPN app for your iPhone](https://www.makeuseof.com/best-free-vpn-iphone-ipad/) .
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Make Sure You Use the Right Contact Details
 
  On your iPhone, you can check your own FaceTime contact details by going to **Settings > FaceTime > You Can Be Reached By FaceTime At** . Ask the person you're calling to do the same to make sure you have the right details for them.
 
 ![iphone stock app settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/iphone-stock-app-settings.JPEG)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![iphone facetime settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/iphone-facetime-settings.JPEG)
 
 Close
@@ -126,8 +115,9 @@ Close
 ![facetime settings on mac](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/facetime-settings-on-mac.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 8\. Confirm That Your Device Works With Group FaceTime
 
  You might not be able to [get Group FaceTime chats to work](https://www.makeuseof.com/tag/group-facetime-mac-iphone/) if your device is too old. This could be the case even if one-to-one FaceTime calls work just fine.
@@ -141,9 +131,6 @@ For Group FaceTime chats, you need one of the following devices:
 
 ## 9\. Limit the People in Your Group FaceTime Chat
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![group facetime on ipad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/group-facetime-on-ipad.jpg)
 
  Image Credit:[Apple](https://www.apple.com/cm/newsroom/2021/09/apples-most-popular-ipad-delivers-even-more-performance-and-advanced-features/)
@@ -158,33 +145,35 @@ For Group FaceTime chats, you need one of the following devices:
 
  On an iPhone or iPad, go to**Settings > General > Software Update** . On a Mac, go to**System Settings > General > Software Update** to check for a newer version.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 ## 11\. Set the Date and Time Automatically
 
  Apple suggests you set the date and time automatically if FaceTime isn't working on your iPhone, iPad, or Mac. Most of us do this anyway, but you should ensure it's enabled in the settings on your device.
 
  On an iPhone or iPad, go to**Settings > General > Date & Time** and make sure**Set Automatically** is turned on.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![iphone main settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/img_7705.JPEG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![iPhone General settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/iphone-general-settings.JPEG)
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 ![iphone date and time settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/iphone-date-and-time-settings.JPEG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
  On a Mac, go to**System Settings > General > Date & Time** . Toggle on**Set time and date automatically** at the top. You may need to click the padlock and enter your Mac's admin password to unlock changes first.
 
 ![date and time settings on mac](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/date-and-time-settings-on-mac-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 12\. Temporarily Disable FaceTime in Settings
 
@@ -203,8 +192,9 @@ Close
  On a Mac, open the FaceTime app and go to**FaceTime > Settings** from the menu bar. Uncheck the**Enable this account** option to turn FaceTime off. Then click**Turn On** to enable it again.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 13\. Sign Out of FaceTime, Then Sign In Again
 
  If FaceTime still isn't working on your iPhone, iPad, or Mac, sign out entirely and then sign back in. You can [reset your Apple ID password](https://www.makeuseof.com/tag/forgot-apple-id-icloud-password/) if you've forgotten it.
@@ -220,8 +210,9 @@ Close
  On a Mac, open the FaceTime app and go to**FaceTime > Settings** from the menu bar. Click**Sign Out** at the top of the window, then confirm you want to**Sign Out** . After signing out, enter your Apple ID details in the main FaceTime window to sign in again.
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 14\. Disable Content Restrictions for FaceTime
 
  If the FaceTime app is completely missing on your iPhone, iPad, or Mac, you may have enabled Screen Time restrictions. People typically use these settings to keep young children from accessing certain features on a device.
@@ -230,24 +221,19 @@ Close
 
 ![iphone limit usage settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/iphone-limit-usage-settings.JPEG)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ![iphone content and privacy restrictions settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/iphone-content-and-privacy-restrictions-settings.JPEG)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ![allowed apps in iphone content and privacy restriction settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/allowed-apps-in-iphone-content-and-privacy-restriction-settings.JPEG)
 
 Close
 
  On a Mac, go to**System Settings > Screen Time** **\>** **Content & Privacy > App Restrictions** . Ensure that**Camera** and**FaceTime** are enabled.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ![app restrictions on mac](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/app-restrictions-on-mac.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If prompted on either device, enter your Screen Time passcode, which usually differs from your device passcode.
 
@@ -267,8 +253,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -276,6 +260,26 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/new-the-path-to-prominence-elevating-brands-with-telegram-strategies/"><u>[New] The Path to Prominence Elevating Brands with Telegram Strategies</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-crafting-depth-3d-text-designs-in-illustrator/"><u>[Updated] Crafting Depth 3D Text Designs in Illustrator</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-essential-fast-control-tools-for-gaming-enthusiasts/"><u>[Updated] In 2024, Essential Fast-Control Tools for Gaming Enthusiasts</u></a></li>
+<li><a href="https://fox-that.techidaily.com/7-proven-methods-to-restore-and-improve-auto-brightness-on-your-iphone/"><u>7 Proven Methods to Restore and Improve Auto-Brightness on Your iPhone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/airdrop-failing-to-connect-learn-how-to-resolve-it-using-these-16-tips/"><u>AirDrop Failing to Connect? Learn How to Resolve It Using These 16 Tips</u></a></li>
+<li><a href="https://fox-that.techidaily.com/bypassing-bugs-how-to-fix-an-iphones-inability-to-get-text-alerts/"><u>Bypassing Bugs: How to Fix an iPhone's Inability to Get Text Alerts</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ces-2023s-most-impressive-laptops-revealed-multi-screen-technology-twist-designs-and-cutting-edge-3d-visualization/"><u>CES 2023'S Most Impressive Laptops Revealed: Multi-Screen Technology, Twist Designs & Cutting-Edge 3D Visualization</u></a></li>
+<li><a href="https://fox-that.techidaily.com/expert-advice-restoring-hey-siri-functionality-to-its-full-potential-on-ios/"><u>Expert Advice: Restoring 'Hey Siri' Functionality to Its Full Potential on iOS</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/free-fb-music-journey-begins-here/"><u>Free FB Music Journey Begins Here</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-easily-fix-a-non-responsive-imessage-app-on-ios-and-macos/"><u>How to Easily Fix a Non-Responsive iMessage App on iOS and macOS</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-vivo-g2-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Vivo G2 | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-screen-malfunctioning-effective-methods-to-restore-functionality/"><u>IPhone Screen Malfunctioning: Effective Methods to Restore Functionality</u></a></li>
+<li><a href="https://win-help.techidaily.com/locating-trustworthy-crypto-market-insights-expert-guide-by-yl-computing-and-software-solutions/"><u>Locating Trustworthy Crypto Market Insights: Expert Guide by YL Computing & Software Solutions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/microsoft-sculpt-ergonomic-keyboard-driver-update-easily/"><u>Microsoft Sculpt Ergonomic Keyboard Driver Update Easily</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211447732-9781528799980-moon-magic-lunar-myths-goddesses-horoscopes-and-herbs/"><u>Moon Magic: Lunar Myths, Goddesses, Horoscopes, and Herbs | Free Book</u></a></li>
+<li><a href="https://fox-that.techidaily.com/navigating-iphone-photo-management-a-guide-to-resolving-pain-points/"><u>Navigating iPhone Photo Management: A Guide to Resolving Pain Points</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-guide-to-mending-spotify-errors-in-win11/"><u>Quick Guide to Mending Spotify Errors in Win11</u></a></li>
+<li><a href="https://fox-that.techidaily.com/struggling-with-iphone-vpn-connections-discover-these-7-troubleshooting-tips/"><u>Struggling with iPhone VPN Connections? Discover These 7 Troubleshooting Tips!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-an-iphone-proximity-detector-that-wont-work-expert-tips-and-solutions/"><u>Troubleshooting an iPhone Proximity Detector That Won't Work: Expert Tips and Solutions</u></a></li>
+</ul></div>
 

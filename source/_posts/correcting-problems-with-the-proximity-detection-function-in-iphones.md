@@ -1,7 +1,7 @@
 ---
 title: Correcting Problems With the Proximity Detection Function in iPhones
-date: 2025-01-18T16:03:48.041Z
-updated: 2025-01-22T21:40:30.519Z
+date: 2025-01-29T02:34:09.417Z
+updated: 2025-01-30T10:38:16.021Z
 tags:
   - iphone
   - apple
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/6658e9df1d38e14ee675787c7264985ccf523b4b4
 
 ![A gray iPhone 6 on a woman's ear](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/a-gray-iphone-6-on-a-woman-s-ear.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The iPhone's proximity sensor uses infrared light from an emitter at the top of your screen. The sensor measures how long it takes for the rays to reflect off a surface to determine the distance.
 
  There could be things blocking the infrared waves; that's why it's good to run some tests before you conclude that there's something wrong with your iPhone.
@@ -46,10 +50,6 @@ Here are some things you could do to check if it's working:
 
 ![person cleaning a phone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/cleaning-phone.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The most likely culprit is dirt and gunk that has accumulated on the top half of your screen, making it difficult for the emitter or sensor to work. You will run into this issue if you have sweaty or oily skin.
 
  While you could try a quick wipe against your shirt or some other cloth, the best thing to do is [clean your iPhone properly](https://www.makeuseof.com/tag/clean-iphone-guide/) . Use a moist, lint-free cloth and gently but thoroughly wipe the dirt away in one direction.
@@ -57,7 +57,7 @@ Here are some things you could do to check if it's working:
  Be careful not to use rubbing alcohol, window cleaners, vinegar, or any similar grease-cutting products, as they could eat away your screen's coating.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Restart the Target Application or Your iPhone
@@ -65,6 +65,10 @@ Here are some things you could do to check if it's working:
  If you notice that your proximity sensor is still not working after cleaning your screen, it could be the app (like WhatsApp or the Phone app) or iOS misbehaving.
 
  In this case, you should restart the app first. Merely returning to the Home Screen isn't enough; you must open the App Switcher (learn how to do so in our [iPhone navigation basics](https://www.makeuseof.com/how-to-go-back-get-home-switch-apps-iphone/) guide) and swipe up on the target app's preview. Open the app again and try to use the proximity sensor. You can also try [restarting your iPhone](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) for good measure.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Make Sure Your iPhone Is Up to Date
 
@@ -77,22 +81,14 @@ Here are some things you could do to check if it's working:
 ![Software update information on iOS for iOS 16.6](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/software-update-information-on-ios-for-ios-16-6.jpeg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Update terms and conditions on iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/update-terms-and-conditions-on-ios.jpeg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Close
 
  Your phone will restart a couple of times, but it will stabilize when it's finished. Test the proximity sensor again using our steps above.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. Remove the Screen Protector
 
@@ -112,6 +108,10 @@ Here's a brief rundown of how to do it:
 4. Pull out the screen protector.
 
  Give the proximity sensor a test to see if that helped. But if you're still out of luck, you have a last-resort option.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 5\. Take Your Phone Back to Apple or an Authorized Service Provider
 
@@ -142,22 +142,16 @@ Here's a brief rundown of how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-instagram-perfection-sizing-your-video-just-right/"><u>[New] 2024 Approved Instagram Perfection Sizing Your Video Just Right</u></a></li>
-<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-poco-x5-pro-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Poco X5 Pro? | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/dealing-with-a-broken-silent-switch-discover-alternative-ways-to-control-your-iphones-muting-settings/"><u>Dealing with a Broken Silent Switch? Discover Alternative Ways to Control Your iPhone's Muting Settings</u></a></li>
-<li><a href="https://fox-that.techidaily.com/easy-ways-to-troubleshoot-and-correct-error-14-on-iphone-devices/"><u>Easy Ways to Troubleshoot and Correct Error 14 on iPhone Devices</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/enhance-images-with-stunning-filters-and-effects-upgrade-photos-instantly/"><u>Enhance Images with Stunning Filters & Effects | Upgrade Photos Instantly</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721478705012-fix-a-halted-ios-update-effortlessly-in-just-6-steps/"><u>Fix a Halted iOS Update Effortlessly in Just 6 Steps!</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fixing-locked-icloud-settings-a-step-by-step-guide-for-your-mobile-device/"><u>Fixing Locked iCloud Settings: A Step-by-Step Guide for Your Mobile Device</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-vivo-v27e-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Vivo V27e | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-tecno-spark-20-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Tecno Spark 20 Pro+ | Dr.fone</u></a></li>
-<li><a href="https://fox-access.techidaily.com/innovate-brand-identity-complimentary-logo-templates-customization/"><u>Innovate Brand Identity Complimentary Logo Templates Customization</u></a></li>
-<li><a href="https://fox-that.techidaily.com/instagram-lagging-6-ways-to-fix-it-on-android-and-ios-devices/"><u>Instagram Lagging? 6 Ways to Fix It on Android and iOS Devices</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-talk-with-nvidias-rtx-ai-chat-bot/"><u>Mastering Talk with Nvidia's RTX AI Chat Bot</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/mastering-video-editing-in-windows-11-your-movie-maker-primer-for-2024/"><u>Mastering Video Editing in Windows 11 - Your Movie Maker Primer for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/nine-surefire-telltale-symptoms-your-iphone-has-been-compromised-by-water/"><u>Nine Surefire Telltale Symptoms Your iPhone Has Been Compromised by Water</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/the-best-motion-sensing-apps-for-android-iphone-and-ipad-for-2024/"><u>The Best Motion Sensing Apps for Android, iPhone, and iPad for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/the-meaning-behind-receiving-texts-instead-of-imessages-are-you-being-blocked/"><u>The Meaning Behind Receiving Texts Instead of iMessages - Are You Being Blocked?</u></a></li>
-<li><a href="https://fox-that.techidaily.com/unlock-the-potential-of-siri-expert-tips-to-repair-hey-siri-functionality-on-ios/"><u>Unlock the Potential of Siri: Expert Tips to Repair “Hey Siri” Functionality on iOS</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-guide-to-extracting-srt-from-a-zip-archive-for-2024/"><u>[New] Guide to Extracting SRT From a ZIP Archive for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/black-screen-on-latest-gpu/"><u>Black Screen on Latest GPU</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721455250637-cant-set-up-your-iphone-vpn-connection-follow-this-guide-and-fix-it-in-just-7-steps/"><u>Can't Set Up Your iPhone VPN Connection? Follow This Guide and Fix It in Just 7 Steps</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/free-online-conversion-tga-images-to-png-by-movavi/"><u>Free Online Conversion - TGA Images to PNG by Movavi</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/mastering-online-crypto-exchanges-safety-protocols-and-techniques-with-yl-softwares-expert-advice/"><u>Mastering Online Crypto Exchanges: Safety Protocols and Techniques with YL Software's Expert Advice</u></a></li>
+<li><a href="https://fox-that.techidaily.com/preventing-spotify-app-from-malfunctioning-after-iphones-are-locked/"><u>Preventing Spotify App From Malfunctioning After iPhones Are Locked</u></a></li>
+<li><a href="https://fox-that.techidaily.com/say-goodbye-to-fluctuating-screens-uncover-these-7-remedies-for-your-flickering-smartphone-display/"><u>Say Goodbye to Fluctuating Screens: Uncover These 7 Remedies for Your Flickering Smartphone Display</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/t-mobile-prepares-to-decommission-its-legacy-2g-wireless-infrastructure/"><u>T-Mobile Prepares to Decommission Its Legacy 2G Wireless Infrastructure</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-warm-embrace-what-makes-cozy-games-special/"><u>The Warm Embrace: What Makes Cozy Games Special</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-wi-fi-connection-issues-on-iphone-and-ipad-top-8-solutions/"><u>Troubleshooting Wi-Fi Connection Issues on iPhone & iPad: Top 8 Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/uncovering-the-7-most-common-factors-behind-slow-phone-wi-fi-speeds/"><u>Uncovering the 7 Most Common Factors Behind Slow Phone Wi-Fi Speeds</u></a></li>
 </ul></div>
 
