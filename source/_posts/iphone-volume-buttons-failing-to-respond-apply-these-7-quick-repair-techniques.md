@@ -1,7 +1,7 @@
 ---
 title: IPhone Volume Buttons Failing to Respond? Apply These 7 Quick Repair Techniques
-date: 2024-08-15T11:54:24.621Z
-updated: 2024-08-16T11:54:24.621Z
+date: 2025-02-03T19:11:03.002Z
+updated: 2025-02-11T05:17:04.218Z
 tags:
   - iphone
   - apple
@@ -18,28 +18,20 @@ thumbnail: https://thmb.techidaily.com/18cb20d227d8ba03579b3ae9c0233264966bbd1a9
 
  If your iPhone buttons aren't working properly, you should fix them as soon as possible. Luckily, there are plenty of solutions, and you can do many of them yourself.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Make Sure Your iPhone's Volume Buttons Are Enabled
 
  Some might not be aware of this, but there is a setting that turns your iPhone's volume buttons on and off. This setting is already enabled by default on all devices, but it's possible someone can turn it off without realizing it.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![iphone enable volume button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/iphone-enable-volume-button.jpg)
 
  To check this, head to**Settings > Sounds & Haptics** and toggle on**Change with Buttons** . If this isn't enabled, this could be why your volume buttons aren't working. If it's already enabled, proceed to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Remove Your iPhone From Its Case
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![iPhone in a leather case](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/iphone-in-a-leather-case.jpg)
 
  iPhones are expensive, so it's likely that most of you use a case to protect them. In some instances, your case can interfere with your volume buttons. This is especially true with cases that have layers or have built-in screen protectors.
@@ -52,6 +44,10 @@ thumbnail: https://thmb.techidaily.com/18cb20d227d8ba03579b3ae9c0233264966bbd1a9
 
 ![iPhone Ring/Silent switch](https://thmb.techidaily.com/14af88c4727edfc68754682f8d9e5a16b4632ead51b56f451896cf5d83dd52e4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  We use our phones so much that dirt and grime can sometimes get under the buttons, especially when not using a case. So, press down on your buttons a few times to check if your buttons are stuck. You might need to clean them if they're stuck or don't seem to click down.
 
  To clean your volume buttons, take a cotton swab and dip it in isopropyl alcohol. The best option for cleaning electronics is 99 percent isopropyl alcohol, as it dries quickly and doesn't contain much water. It also removes dirt and grime by breaking up oils.
@@ -60,9 +56,6 @@ thumbnail: https://thmb.techidaily.com/18cb20d227d8ba03579b3ae9c0233264966bbd1a9
 
  After cleaning, wait a few minutes for the alcohol to dry. If your volume buttons are working now, great! If they are only working a bit better, that's a sign that they are still dirty, and you should keep cleaning them. It's worth [cleaning your entire iPhone if it's dirty](https://www.makeuseof.com/tag/clean-iphone-guide/) .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ## 4\. Reset or Restore Your iPhone
 
  Sometimes, firmware updates can change how the buttons on our phones work. This is especially true for older iPhone models. If you recently updated your iPhone and the volume buttons stopped working, try [restarting your iPhone](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) by turning it off and on again.
@@ -86,9 +79,9 @@ thumbnail: https://thmb.techidaily.com/18cb20d227d8ba03579b3ae9c0233264966bbd1a9
  You can update it by heading to**Settings > General > Software Update** . Here, you can see if a new iOS version is available. If you're using a beta version of iOS, it might be time to switch back to the stable public build and report this issue to Apple.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Control Your iPhone's Volume Without Using Volume Buttons
 
 ![iphone screen volume control](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/iphone-screen-volume-control.jpg)
@@ -97,15 +90,11 @@ thumbnail: https://thmb.techidaily.com/18cb20d227d8ba03579b3ae9c0233264966bbd1a9
 
  You can open the Control Center and adjust your volume by swiping down from the top-right corner of your iPhone. If your iPhone has a Home button, you'll need to swipe up from the bottom of the screen instead.
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![iphone control panel volume control](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/iphone-control-panel-volume-control-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you have AirPods, you can say, "Hey Siri, turn up the volume." Other Bluetooth headphones typically have built-in volume controls, which you can use as well. This means that you won't have to keep going to your phone when you want to change the volume.
 
@@ -117,6 +106,10 @@ thumbnail: https://thmb.techidaily.com/18cb20d227d8ba03579b3ae9c0233264966bbd1a9
 
 ![assistive touch iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/IMG_2959.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Get Your Volume Buttons Repaired
 
  If cleaning your buttons and resetting your iPhone doesn't fix the volume buttons, you most likely need to get the buttons repaired. This is especially true if you recently damaged your iPhone or exposed it to water.
@@ -126,6 +119,10 @@ thumbnail: https://thmb.techidaily.com/18cb20d227d8ba03579b3ae9c0233264966bbd1a9
  So, next time you upgrade your iPhone, consider learning more about [the AppleCare+ extended warranty](http://www.makeuseof.com/tag/applecare-what-are-your-options-is-it-really-worth-it/) and see if it's worth it so you won't get caught with a costly repair again.
 
  While repairing your iPhone's volume buttons out of pocket can be expensive, it's cheaper than buying a new phone. But if you don't want to pay this price, maybe it's [time to upgrade your iPhone](https://www.makeuseof.com/7-signs-its-time-to-upgrade-your-iphone/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Will Apple Discontinue the Volume Button?
 
@@ -139,8 +136,6 @@ thumbnail: https://thmb.techidaily.com/18cb20d227d8ba03579b3ae9c0233264966bbd1a9
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -148,6 +143,22 @@ thumbnail: https://thmb.techidaily.com/18cb20d227d8ba03579b3ae9c0233264966bbd1a9
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-channel-catalysts-affiliates-aiding-budgeted-buzzers/"><u>[New] 2024 Approved Channel Catalysts Affiliates Aiding Budgeted Buzzers</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-how-to-give-a-makeover-to-existing-images-and-videos-with-ig-filters/"><u>[New] In 2024, How to Give a Makeover to Existing Images and Videos with IG Filters</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ing-compelling-youtube-content-through-split-screens/"><u>Crafting Compelling YouTube Content Through Split-Screens</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fast-solutions-resolve-issues-with-predictive-emojis-on-your-iphoneipad/"><u>Fast Solutions: Resolve Issues with Predictive Emojis on Your iPhone/iPad</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fix-your-whatsapp-why-it-wont-backup-to-icloud-and-what-to-do-about-it/"><u>Fix Your WhatsApp: Why It Won't Backup to iCloud and What to Do About It</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-full-guide-to-bypass-vivo-s18e-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Vivo S18e FRP</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-your-motorola-moto-g04-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Motorola Moto G04 Lock Screen Password</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Xiaomi Redmi Note 12T Pro? | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-iphone-alarm-malfunction-tips-and-steps-for-success/"><u>Overcoming iPhone Alarm Malfunction: Tips & Steps for Success</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolving-aol-mobile-mail-glitches-for-iphone-users-6-proven-strategies/"><u>Resolving AOL Mobile Mail Glitches for iPhone Users - 6 Proven Strategies</u></a></li>
+<li><a href="https://fox-that.techidaily.com/teach-your-iphone-to-type-correctly-a-guide-to-fixing-autocorrect-issues-in-six-steps/"><u>Teach Your iPhone to Type Correctly: A Guide to Fixing Autocorrect Issues in Six Steps</u></a></li>
+<li><a href="https://fox-that.techidaily.com/the-ultimate-trick-to-dry-wet-iphone-speaker-holes/"><u>The Ultimate Trick to Dry Wet iPhone Speaker Holes</u></a></li>
+<li><a href="https://some-skills.techidaily.com/transform-your-iphone-footage-filming-and-slowing-down-videos-for-2024/"><u>Transform Your iPhone Footage Filming and Slowing Down Videos for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-and-repairing-pc-instances-of-robocop-my-last-stand/"><u>Troubleshooting and Repairing PC Instances of RoboCop: My Last Stand</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-complete-page-capture-issues-in-safari-expert-solutions/"><u>Troubleshooting Complete Page Capture Issues in Safari: Expert Solutions</u></a></li>
+</ul></div>
 

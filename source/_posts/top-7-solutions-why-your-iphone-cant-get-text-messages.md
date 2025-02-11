@@ -1,7 +1,7 @@
 ---
 title: "Top 7 Solutions: Why Your iPhone Can't Get Text Messages"
-date: 2024-08-15T11:52:09.797Z
-updated: 2024-08-16T11:52:09.797Z
+date: 2025-02-05T02:29:48.811Z
+updated: 2025-02-11T10:35:36.808Z
 tags:
   - iphone
   - apple
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/849f56ab1426764bff20d4db63fa0a5cb77011405
 
  Your browser does not support the video tag.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Make Sure Messaging Is Enabled
 
  If you've just set up your iPhone or completed an iOS update, there is a chance iMessage isn't enabled. If not enabled, you won't receive texts from other iPhones. To turn this on, head to**Settings > Messages > iMessage** .
@@ -36,10 +40,11 @@ thumbnail: https://thmb.techidaily.com/849f56ab1426764bff20d4db63fa0a5cb77011405
 
 ## 2\. Edit Send & Receive Settings
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![iOS settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/messages-settings-ios16.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![iphone messages settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/iphone-messages-settings.jpg)
 
@@ -54,8 +59,9 @@ Close
  Some people might be sending you messages to your email address unknowingly, so changing this particular setting will make it possible to receive these messages.
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Make Sure You Have Cellular or Wi-Fi for iMessage
 
  If you are waiting for an iMessage from another iPhone user and aren't getting it, you could have a bad connection. iMessage requires Wi-Fi or cellular data to work.
@@ -65,8 +71,9 @@ Close
  To solve this issue, reconnect to Wi-Fi or cellular data. And if you don't have a good connection, you can try the next step.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Bad Connection? Turn on Send as SMS
 
  If you don't have access to a stable internet connection, consider turning on the Send as SMS feature. This will enable you to send regular SMS texts instead of iMessage texts when you don't have service.
@@ -75,10 +82,11 @@ Close
 
  To turn this on, head to**Settings > Messages** and tap**Send as SMS** . This will enable SMS messaging in the future.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![send as sms](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/send-as-sms.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Turn Off Message Filtering
 
@@ -98,16 +106,14 @@ Close
 
  To do this, head to **Settings > General > Transfer or Reset iPhone > Reset > Reset Network Settings** .
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![reset network settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/reset-network-settings.jpg)
 
  After resetting your network settings, get someone to send you another text message. If you still can't receive it, you can always try [resetting your iPhone entirely](https://www.makeuseof.com/tag/how-to-factory-reset-iphone-ipad/) . However, that is time-consuming and might not work.
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Contact Your Carrier
 
  If you tried the above fixes and still aren't receiving text messages on your iPhone, it's time to call your carrier. After all, there are many other ways your carrier can help you. For example, there could be a cell tower outage near you that they can inform you of, or you could have an issue with your account.
@@ -116,9 +122,6 @@ Close
 
  When calling your carrier, just let them know you aren't receiving text messages. If the carrier can't help you, consider switching to a different network provider unless you have a [carrier-locked phone](https://www.makeuseof.com/unlocked-vs-locked-phone/) .
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## iPhone Not Receiving Texts? There Are Things You Can Do
 
  You could miss important events or updates if you're not receiving text messages on your iPhone. This can be difficult for anybody. Because of this, you'll want to get this fixed as soon as possible. After all, you might have already missed some important messages and don't want to miss them anymore.
@@ -133,8 +136,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -142,6 +143,26 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-get-free-stock-footage-from-these-4-youtube-channels/"><u>[New] 2024 Approved Get Free Stock Footage From These 4 YouTube Channels</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-coping-with-youtube-copyright-claims-a-step-by-step-guide/"><u>[New] In 2024, Coping with YouTube Copyright Claims A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-techniques-for-elongated-iphone-photography-for-2024/"><u>[New] Techniques for Elongated iPhone Photography for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-simplifying-meeting-execution-combining-slacks-ease-with-filmora-writes/"><u>[Updated] In 2024, Simplifying Meeting Execution Combining Slack's Ease With Filmora' Writes</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-ringtone-revolution-transforming-your-ios-sound-for-2024/"><u>[Updated] Ringtone Revolution Transforming Your iOS Sound for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-smart-shopping-for-action-cameras-optimal-under-100-lists-for-2024/"><u>[Updated] Smart Shopping for ACTION Cameras Optimal Under $100 Lists for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/3-ways-to-erase-iphone-11-pro-when-its-locked-within-seconds-drfone-by-drfone-ios/"><u>3 Ways to Erase iPhone 11 Pro When Its Locked Within Seconds | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/bypassing-liquid-sensors-tips-for-resolving-moisture-alerts-on-iphone-connections/"><u>Bypassing Liquid Sensors: Tips for Resolving Moisture Alerts on iPhone Connections</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/comprehensive-guide-for-sfc-scan-on-windows-pcs/"><u>Comprehensive Guide for SFC Scan on Windows PCs</u></a></li>
+<li><a href="https://fox-that.techidaily.com/essential-insights-discover-why-your-iphones-touchscreen-may-not-be-working/"><u>Essential Insights: Discover Why Your iPhone's Touchscreen May Not Be Working</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fix-iphones-ghost-alerts-a-comprehensive-guide-to-the-top-7-remedies-for-invisible-notifications/"><u>Fix iPhone's Ghost Alerts: A Comprehensive Guide to the Top 7 Remedies for Invisible Notifications</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-unlock-icloud-activation-lock-and-icloud-account-from-apple-iphone-13-pro-max-by-drfone-ios/"><u>How to Unlock iCloud Activation Lock and iCloud Account From Apple iPhone 13 Pro Max?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/improving-instagram-speed-effective-techniques-to-boost-performance-on-ios-and-android-phones/"><u>Improving Instagram Speed: Effective Techniques to Boost Performance on iOS & Android Phones</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-oneplus-ace-3-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On OnePlus Ace 3</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-the-onyx-void-restoring-your-iphone-from-a-black-screen-catastrophe/"><u>Overcoming the Onyx Void: Restoring Your iPhone From a Black Screen Catastrophe</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-your-iphones-text-message-dilemma-with-10-expert-tips/"><u>Solving Your iPhone's Text Message Dilemma with 10 Expert Tips</u></a></li>
+<li><a href="https://fox-that.techidaily.com/steps-to-take-if-your-iphone-denies-payment-authentication/"><u>Steps to Take If Your iPhone Denies Payment Authentication</u></a></li>
+<li><a href="https://fox-that.techidaily.com/stop-silent-notifications-discover-11-tricks-for-non-responsive-iphone-calls/"><u>Stop Silent Notifications! Discover 11 Tricks for Non-Responsive iPhone Calls</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unsticking-standby-mode-a-comprehensive-guide-with-four-essential-tips-for-iphone-users/"><u>Unsticking Standby Mode: A Comprehensive Guide with Four Essential Tips for iPhone Users</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for 10 Typical Apple Pay Troubles
-date: 2024-08-15T11:51:18.875Z
-updated: 2024-08-16T11:51:18.875Z
+date: 2025-02-06T20:02:20.293Z
+updated: 2025-02-10T23:37:25.521Z
 tags:
   - iphone
   - apple
@@ -26,12 +26,13 @@ thumbnail: https://thmb.techidaily.com/fe07e4a07925d03fd4feb686ae505e57245e98882
 
  If the POS system accepts Apple Pay, ask the store clerk if they frequently encounter similar issues with mobile payments. They might know some quick fixes. For instance, they might need to check the POS internet connection or change a setting at the checkout. They could even advise you to take off your phone case or hold the phone at a specific angle to improve NFC connectivity.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Restart Your iPhone
 
  Before deciding to perform more extensive troubleshooting methods,[try restarting your iPhone](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) . Don’t skip this tip. A quick restart refreshes your device’s memory and clears the temporary cache, which might be interfering with the Apple Pay feature.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Check the System Status of Apple Pay
 
@@ -46,8 +47,9 @@ thumbnail: https://thmb.techidaily.com/fe07e4a07925d03fd4feb686ae505e57245e98882
 * **Red Triangle:** A red triangle only appears if the developers declare a system-wide outage.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Set Up Apple Pay Again
 
  If you receive an error message indicating that your Wallet doesn’t detect your card, disable Apple Pay for your Apple ID account then enable it again.
@@ -55,22 +57,17 @@ thumbnail: https://thmb.techidaily.com/fe07e4a07925d03fd4feb686ae505e57245e98882
  Go to **Settings > \[Your Name\] > Payment and Shipping > Apple Pay** . Then tap**Remove Apple Pay** . Afterward, sign out of your Apple ID, restart your iPhone, then sign in to your account and set up Apple Pay again.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Manually Select Your Card
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Woman changing the card on her mobile wallet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/woman-holding-card-and-smartphone.jpg)
 
  Apple Pay automatically uses your default card for all payments—online and offline. Although this feature streamlines checkouts, the NFC chips on POS terminals don’t always read Apple Pay properly.
 
  In these instances, you’ll need to select your preferred card manually. To pay with a card manually, go to the**Wallet** app by double-clicking the**Side** button or the**Home** button and choose the card you want to use for the purchase. Afterward, bring your phone up near the POS terminal. If the reason why Apple Pay wasn’t working involved NFC connectivity, your transaction should finally push through.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Remove Then Re-Add Your Credit Card
 
  If you’ve already tried choosing a card manually, you might need to remove, add, and reshuffle the credit and debit cards in the Wallet app. This tip best applies to users with multiple cards. Keeping a malfunctioning card in your Wallet app compromises the other ones registered, causing payment glitches.
@@ -78,6 +75,10 @@ thumbnail: https://thmb.techidaily.com/fe07e4a07925d03fd4feb686ae505e57245e98882
  Also, newly added credit cards might not register with Apple Pay right from the get-go. The system might need some time to read and update your payment preferences, especially if your new credit card has a different billing address.
 
  To add and remove cards, go to**Settings > Wallet & Apple Pay > Payment Cards** , then select**Remove This Card** on the malfunctioning card—or all your accounts. Afterward, restart your iPhone to clear the cache. Go back to the**Payment Cards** section and select**Add Card** . Repeat this as many times as needed.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Check Your Address and ZIP Code
 
@@ -87,17 +88,15 @@ thumbnail: https://thmb.techidaily.com/fe07e4a07925d03fd4feb686ae505e57245e98882
 * **Wallet and Apple Pay:** Go to **Settings > Wallet and Apple Pay > Payment and Shipping > Address** , then edit the billing address indicated.
 * **Apple ID:** Head over to **Settings > Apple ID > Payment and Shipping > Address** , then input the updated billing address.
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Screenshot of the iPhone settings wallet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/screenshot-of-iphone-settings-wallet.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Screenshot of the Apple Pay address section](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/screenshot-of-apple-pay-address-section.jpg)
 
 ![Screenshot of changing the billing address](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/screenshot-of-changing-billing-address.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -115,13 +114,14 @@ Close
 
 Close
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 9\. Recalibrate the Time and Date
 
  If you’re having trouble adding and removing credit cards to your Apple Pay app, check your device’s date and time. You might have accidentally changed it. Go to**Settings > General > Date and Time** , then toggle the**Set Automatically** feature to ensure that your device always stays updated no matter where you go.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 10\. Ask the Apple Pay Support Communities
 
  There’s a high chance that another Apple Pay user has already encountered the issue you’re experiencing before. Seek help from them. Visit [Apple’s Apple Pay Support Communities](https://discussions.apple.com/community/apple%5Fpay) , then click**Start a discussion** . Input your Apple ID and password, follow the account authentication procedure, read the terms and conditions, then create a username.
@@ -131,8 +131,9 @@ Close
 ![Screenshot of Apple Pay Community questions page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/screenshot-apple-pay-community-questions.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## If All Else Fails, Contact Customer Support
 
  Contact [Apple’s customer support](https://getsupport.apple.com) team if Apple Pay still isn’t working so that they can scan for hardware defects. They’ll likely check your NFC chip. However, hopefully one of the troubleshooting tips mentioned above gets Apple Pay properly running again on your iPhone.
@@ -145,8 +146,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -154,6 +153,23 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-magix-visual-compendium-an-examination/"><u>[New] MAGIX Visual Compendium An Examination</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-simplifying-post-production-using-luts-in-after-effects/"><u>[New] Simplifying Post Production Using LUTs in After Effects</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-the-ultimate-rank-5-premium-android-image-editing-tools/"><u>[New] The Ultimate Rank 5 Premium Android Image Editing Tools</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-explore-the-power-of-vce-22-for-impeccable-video-clarity/"><u>[Updated] In 2024, Explore the Power of VCE 2.2 for Impeccable Video Clarity</u></a></li>
+<li><a href="https://fox-that.techidaily.com/avoiding-confusion-with-facial-recognition-in-your-iphones-camera-roll/"><u>Avoiding Confusion with Facial Recognition in Your iPhone's Camera Roll</u></a></li>
+<li><a href="https://fox-that.techidaily.com/cant-access-the-control-center-on-your-iphone-try-these-8-effective-remedies-now/"><u>Can't Access the Control Center on Your iPhone? Try These 8 Effective Remedies Now!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/diagnosing-iphone-accessory-problems-tips-for-unsupported-devices/"><u>Diagnosing iPhone Accessory Problems: Tips for Unsupported Devices</u></a></li>
+<li><a href="https://fox-that.techidaily.com/empowering-low-vision-individuals-essential-iphone-features-to-know/"><u>Empowering Low-Vision Individuals: Essential iPhone Features to Know</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016956572-expert-fixes-for-when-your-steelseries-arctis-pros-microphone-wont-work-anymore/"><u>Expert Fixes for When Your SteelSeries Arctis Pro's Microphone Won't Work Anymore</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/fullscape-synergy-the-smart-mcn-picking-game-for-2024/"><u>FullScape Synergy The Smart MCN Picking Game for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/guide-to-resolving-iphones-incompatibility-with-third-party-gadgets/"><u>Guide to Resolving iPhone's Incompatibility with Third-Party Gadgets</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-resolve-persistent-screen-flashes-on-your-device-try-these-proven-tactics/"><u>How to Resolve Persistent Screen Flashes on Your Device - Try These Proven Tactics!</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-12-to-other-iphone-11-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 12 To Other iPhone 11 devices? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-samsung-galaxy-m14-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Samsung Galaxy M14 4G | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-nubia-z50s-pro-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Nubia Z50S Pro Android SIM Unlock APK</u></a></li>
+<li><a href="https://fox-that.techidaily.com/late-to-arrive-text-notifications-the-ultimate-list-of-9-fixes-for-iphones/"><u>Late-to-Arrive Text Notifications: The Ultimate List of 9 Fixes for iPhones</u></a></li>
+</ul></div>
 

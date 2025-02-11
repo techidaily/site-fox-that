@@ -1,7 +1,7 @@
 ---
 title: Retrieve Accidentally Erased iPhone Reminders with These Simple Steps
-date: 2024-08-15T11:51:21.989Z
-updated: 2024-08-16T11:51:21.989Z
+date: 2025-02-10T10:43:30.061Z
+updated: 2025-02-10T20:21:42.497Z
 tags:
   - iphone
   - apple
@@ -19,8 +19,9 @@ thumbnail: https://thmb.techidaily.com/dd00c272af0df6444eb7e9772f2833b20e1c6be4a
  Unfortunately, your notes can sometimes get deleted—which has caused a lot of trouble for some users. Luckily, there are two methods you can use to recover deleted notes, even if you haven't backed them up before. Keep reading to find out how to recover deleted notes on your iPhone.
 
 <!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Recover Notes From the Recently Deleted Folder
 
  The quickest way to recover a deleted note is from the Recently Deleted folder. This is available on all iPhones running iOS 11 and later. The Recently Deleted folder contains notes deleted in the past 30 days, after which they'll be permanently deleted.
@@ -32,23 +33,12 @@ thumbnail: https://thmb.techidaily.com/dd00c272af0df6444eb7e9772f2833b20e1c6be4a
 3. Select the note or notes you want to recover and tap on**Move** .
 4. Select the folder you want to move your notes to—any of them will do.
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Recently Deleted folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/Recover-Deleted-Notes-iPhone-Recently-Deleted.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Move Note to New Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/Recover-Deleted-Notes-iPhone-Move.jpg)
 
 Close
@@ -58,8 +48,9 @@ Close
  If you can't find the Recently Deleted folder on your iPhone, you can also access it by going to the [iCloud](https://icloud.com/) website and selecting**Notes > Recently Deleted** . This will only be present if your Notes are being synced to iCloud.
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Recover Notes From an iCloud Backup
 
  If your iPhone regularly backs up to iCloud, there's a fair chance that your deleted note may be present in a previous backup in the cloud. Even if you back up on an infrequent schedule, there's still a chance that the note will be available for you to recover. Related:[How to Organize Notes on Your iPhone Using Tags](https://www.makeuseof.com/how-to-use-tags-in-apple-notes/)
@@ -70,17 +61,19 @@ Close
 2. Tap on your profile at the top of the page.
 3. Tap on**iCloud** and scroll down and see if the**Notes** toggle is enabled or not. If the toggle is green, this means your iPhone is backing up your notes to iCloud.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Settings page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/Recover-Deleted-Notes-iPhone-Settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![iCloud Settings in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/Recover-Deleted-Notes-iPhone-iCloud.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Notes toggle in iCloud Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/Recover-Deleted-Notes-iPhone-Settings-Notes.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -110,8 +103,6 @@ To reset your iPhone and restore it from an iCloud Backup:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -119,6 +110,19 @@ To reset your iPhone and restore it from an iCloud Backup:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/1716184097735-updated-in-2024-how-to-use-the-instagram-green-screen-effect/"><u>[Updated] In 2024, How to Use the Instagram Green Screen Effect</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-key-top-5-ultra-light-action-recording-models/"><u>[Updated] Key Top 5 Ultra-Light Action Recording Models</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-lava-blaze-2-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Lava Blaze 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/best-image-enlargers-making-photographs-larger-without-losing-quality-for-2024/"><u>Best Image Enlargers Making Photographs Larger Without Losing Quality for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/from-quiet-to-clear-remedying-your-idevices-audio-problem/"><u>From Quiet to Clear: Remedying Your iDevice's Audio Problem</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/helmet-hats-a-comprehensive-look-at-best-cams-in-bike-culture/"><u>Helmet Hats A Comprehensive Look at Best Cams in Bike Culture</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-fix-an-unresponsive-or-disabled-face-id-on-your-iphone-in-14-steps/"><u>How to Fix an Unresponsive or Disabled Face ID on Your iPhone in 14 Steps</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-infinix-hot-40-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Infinix Hot 40 | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-challenges-unlock-your-iphones-full-potential-with-chatgpt-using-our-9-fix-tips/"><u>Overcoming Challenges: Unlock Your iPhone's Full Potential with ChatGPT Using Our 9 Fix Tips</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/setting-up-your-devices-energy-preferences-on-windows-10-a-step-by-step-guide-techtips-by-yl/"><u>Setting Up Your Device's Energy Preferences on Windows 10: A Step-by-Step Guide - TechTips by YL</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-and-repairing-error-code-14-on-iphones/"><u>Troubleshooting and Repairing Error Code 14 on iPhones</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-your-icloud-service-9-typical-problems-and-fixes-for-apple-devices/"><u>Troubleshooting Your iCloud Service: 9 Typical Problems and Fixes for Apple Devices</u></a></li>
+</ul></div>
 

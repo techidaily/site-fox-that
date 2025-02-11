@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Tips: How to Resolve 'Emergency Calls' Status on Your iPhone Screen"
-date: 2025-01-27T19:15:28.477Z
-updated: 2025-01-29T17:50:26.526Z
+date: 2025-02-06T01:42:00.534Z
+updated: 2025-02-11T11:49:59.307Z
 tags:
   - iphone
   - apple
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/df14118d9f463815cdf73b98eeffe83796c8ab688
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Turn Cellular Data Off and On
 
 [Your iPhone's cellular data may not be working properly](https://www.makeuseof.com/iphone-cellular-data-not-working-fixes/) . If that's the case, sometimes the best fix is the easiest fix: turning it off and on again.
@@ -45,17 +41,21 @@ Close
 
 ![iPhone settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-cellular-settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![iPhone cellular settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-settings-cellular-data-options.jpg)
 
 ![iPhone cellular data options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-settings-data-roaming.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Close
 
  To enable Data Roaming on your iPhone, go to**Settings > Cellular > Cellular Data Options** . Then, toggle on the**Data Roaming** switch.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Switch to LTE
 
@@ -63,33 +63,29 @@ Close
 
 ![iPhone settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-cellular-settings.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![iPhone cellular data options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-cellular-data-options-voice-data-settings.jpg)
 
 ![iPhone 5G and LTE options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-voice-data-5g-settings.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Close
 
  Go to**Settings > Cellular > Cellular Data Options** like before, but this time tap**Voice & Data** . If**5G On** or**5G Auto** is selected, choose**LTE** and see if that gets rid of the SOS Only status.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Restart Your iPhone
 
 ![iPhone user trying to force restart their device](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-user-trying-to-force-restart-their-device.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Of course, we have to mention the good old reboot technique. If you haven't yet tried turning your iPhone off and on again, let's go ahead and test it out. You'd be surprised how many little annoyances a quick restart can resolve.
 
 [The steps to restart your iPhone](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) are different depending on which model you have, but it's pretty easy nonetheless.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Check for Carrier Settings Update
 
@@ -98,6 +94,10 @@ Close
 ![iPhone Settings menu showing General](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-settings-general.jpg)
 
 ![iPhone General settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-settings-general-about.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -110,7 +110,7 @@ Close
  There may be an issue with your cell service that's worth getting to the bottom of. So, visit your carrier's website and search for a contact or support page to get a customer support phone number.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Getting to the Bottom of "SOS Only"
@@ -134,14 +134,18 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/2024-approved-essential-tech-aid-pinnacle-apps-for-changing-virtual-voices/"><u>2024 Approved Essential Tech Aid Pinnacle Apps for Changing Virtual Voices</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/eye-catching-coverage-laptop-wallpapers-online-for-2024/"><u>Eye-Catching Coverage Laptop Wallpapers Online for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-troubleshoot-and-repair-frequent-iphone-airpods-connection-drops-top-11-tips/"><u>How to Troubleshoot and Repair Frequent iPhone-AirPods Connection Drops: Top 11 Tips</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ignite-your-wordsmith-potential-leveraging-chatgpt-to-transform-creative-writing/"><u>Ignite Your Wordsmith Potential: Leveraging ChatGPT to Transform Creative Writing</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-any-tecno-spark-10-5g-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Tecno Spark 10 5G Phone Password Using Emergency Call</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721479869950-phone-screen-glimmering-troubles-here-are-7-reliable-fixes-to-stop-it-now/"><u>Phone Screen Glimmering Troubles? Here Are 7 Reliable Fixes to Stop It Now</u></a></li>
-<li><a href="https://fox-that.techidaily.com/unresponsive-tablet-touchscreen-woes-here-are-8-proven-remedies/"><u>Unresponsive Tablet Touchscreen Woes? Here Are 8 Proven Remedies</u></a></li>
-<li><a href="https://fox-that.techidaily.com/unstuck-iphone-illuminator-top-12-fixes-to-restore-light/"><u>Unstuck iPhone Illuminator: Top 12 Fixes to Restore Light</u></a></li>
-<li><a href="https://article-tips.techidaily.com/unveiling-audio-magic-the-gradual-introduction-with-audition-for-2024/"><u>Unveiling Audio Magic The Gradual Introduction with Audition for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-quick-tips-screen-recording-made-simple-for-mac-users/"><u>[New] In 2024, Quick Tips Screen Recording Made Simple for Mac Users</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-smooth-sailing-in-transforming-ppt-slides-into-videos-for-2024/"><u>[New] Smooth Sailing in Transforming PPT Slides Into Videos for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-vocal-excellence-in-action-tweaking-sound-for-instagram-content/"><u>[Updated] Vocal Excellence in Action Tweaking Sound for Instagram Content</u></a></li>
+<li><a href="https://fox-that.techidaily.com/9-recurrering-problems-with-apples-icloud-service-solutions-explored/"><u>9 Recurrering Problems with Apple's iCloud Service – Solutions Explored</u></a></li>
+<li><a href="https://fox-that.techidaily.com/bypass-iphone-voicemail-glitches-effective-techniques-to-try-now/"><u>Bypass iPhone Voicemail Glitches: Effective Techniques to Try Now</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-amd-radeon-r9-200-graphics-cards-windows-drivers-here/"><u>Get the Latest AMD Radeon R9 200 Graphics Cards Windows Drivers Here!</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-vivo-v27-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Vivo V27 Pro | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-itel-a60-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Itel A60 Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-pioneering-haptic-interface-an-in-depth-guide/"><u>In 2024, Pioneering Haptic Interface An In-Depth Guide</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-savor-success-ideas-to-bolster-cookery-channel-brands/"><u>In 2024, Savor Success Ideas to Bolster Cookery Channel Brands</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-the-issue-why-does-my-iphone-display-unpredictable-sites-during-screen-time/"><u>Solving the Issue: Why Does My iPhone Display Unpredictable Sites During Screen Time?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-the-issue-why-your-iphone-notifications-are-missing-and-7-proven-ways-to-fix-them/"><u>Solving the Issue: Why Your iPhone Notifications Are Missing & 7 Proven Ways to Fix Them</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/superior-options-replacing-vocaroo-expert-tools-for-web-based-voice-capture/"><u>Superior Options Replacing Vocaroo: Expert Tools for Web-Based Voice Capture</u></a></li>
 </ul></div>
 

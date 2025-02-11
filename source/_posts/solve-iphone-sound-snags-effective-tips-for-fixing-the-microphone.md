@@ -1,7 +1,7 @@
 ---
 title: Solve iPhone Sound Snags – Effective Tips for Fixing the Microphone
-date: 2024-08-15T11:51:25.115Z
-updated: 2024-08-16T11:51:25.115Z
+date: 2025-02-05T05:49:00.792Z
+updated: 2025-02-10T21:55:15.080Z
 tags:
   - iphone
   - apple
@@ -23,8 +23,9 @@ thumbnail: https://thmb.techidaily.com/c811d888eaef42c6d49c05cdca31aa1712344b1b9
  Test each microphone by recording using Voice Memos (bottom microphone), making a phone call on speakers (front microphone), and recording a video (back microphone). If all the microphones aren't working, it's most likely a hardware issue. If only one microphone isn't working or sounds muffled, continue to the next step.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. iPhone Microphone Muffled or Muted? Try Cleaning It
 
 ![iphone clean speaker](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/iphone-clean-speaker.jpg)
@@ -38,8 +39,9 @@ thumbnail: https://thmb.techidaily.com/c811d888eaef42c6d49c05cdca31aa1712344b1b9
  Isopropyl alcohol breaks up grime and dries fast, so it won't damage your iPhone. Try using the highest percentage of isopropyl alcohol you can find. While you're at it,[clean your entire iPhone thoroughly](https://www.makeuseof.com/tag/clean-iphone-guide/) if it's not in a good shape.
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Disconnect From Bluetooth Devices
 
 Close
@@ -49,8 +51,9 @@ Close
  This is a common issue with those who use Bluetooth headphones like AirPods or smart home systems. Check if you're connected to a Bluetooth device by [opening your iPhone's Control Center](https://www.makeuseof.com/how-to-use-customize-control-center-iphone/) , then toggle Bluetooth off. Alternatively, tap and hold it to view all your connected devices.
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Make Sure Apps Have Microphone Permissions
 
 Close
@@ -60,13 +63,11 @@ Close
  To grant an app permission, head to**Settings** and select the affected app. Now, make sure the**Microphone** toggle is enabled.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Use an External Microphone or AirPods
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![A guy holding AirPods Pro in charging case showing orange light](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/02/a-guy-holding-airpods-pro-in-charging-case-showing-orange-light.jpg)
 
  Hamlin Rozario/[MakeUseOf](https://www.makeuseof.com/author/hamlin-rozario/)
@@ -76,8 +77,9 @@ Close
  Most headphones, including Apple's AirPods, have built-in microphones. Since they connect via your iPhone's Lightning/USB-C port or Bluetooth, you won't have to rely on the built-in microphones for most tasks.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Other Generic Fixes
 
 Close
@@ -94,8 +96,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -103,6 +103,20 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-navigating-instagrams-restrictions-for-larger-posts-for-2024/"><u>[New] Navigating Instagram's Restrictions for Larger Posts for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-launch-your-stream-top-8-youtube-revenue-tactics-for-2024/"><u>[Updated] Launch Your Stream Top 8 YouTube Revenue Tactics for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/7-effective-solutions-for-a-stable-smartphone-screen-no-more-flicker/"><u>7 Effective Solutions for a Stable Smartphone Screen: No More Flicker</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210002081-9781609252168-about-peace/"><u>About Peace | Free Book</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/comparing-360-degree-captures-and-full-immersion-media-for-2024/"><u>Comparing 360-Degree Captures and Full Immersion Media for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/effortless-troubleshooting-guide-to-restarting-imessage-across-apple-platforms/"><u>Effortless Troubleshooting Guide to Restarting iMessage Across Apple Platforms</u></a></li>
+<li><a href="https://fox-that.techidaily.com/expose-public-properties-or-methods-for-controlled-access/"><u>Expose Public Properties or Methods for Controlled Access.</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-samsung-galaxy-m14-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on Samsung Galaxy M14 4G | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-and-icloud-photos-not-updating-try-these-7-fixes/"><u>IPhone and iCloud Photos Not Updating? Try These 7 Fixes</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/iseebell-video-doorbell-review/"><u>IseeBell Video Doorbell Review</u></a></li>
+<li><a href="https://fox-info.techidaily.com/nostalgic-notions-integrating-timeless-vhs-effects-into-modern-video-production-for-2024/"><u>Nostalgic Notions Integrating Timeless VHS Effects Into Modern Video Production for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-4-kid-friendly-ipad-models-comprehensive-review-by-zdnet/"><u>Top 4 Kid-Friendly iPad Models - Comprehensive Review by ZDNet</u></a></li>
+<li><a href="https://fox-that.techidaily.com/ultimate-tutorial-initiating-hard-reset-on-iphone-for-dfurecovery-boot/"><u>Ultimate Tutorial: Initiating Hard Reset on iPhone for DFU/Recovery Boot</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: IPhone Microphone Problems? Discover Proven Fixes in This Guide
-date: 2024-08-15T11:55:07.154Z
-updated: 2024-08-16T11:55:07.154Z
+date: 2025-02-06T23:11:20.585Z
+updated: 2025-02-10T19:29:29.418Z
 tags:
   - iphone
   - apple
@@ -17,9 +17,9 @@ thumbnail: https://thmb.techidaily.com/a0697447c3ea6b08edc7929364d24aaff9babf439
  An iPhone is almost useless without a working microphone. A broken microphone means no FaceTime, phone calls, or Siri. Sometimes, videos shot on your iPhone may not have any audio. But before you pay Apple for a costly repair, try these fixes first.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Find Out Which Microphone Isn't Working
 
  Before you begin fixing your iPhone's microphone, you'll need to know which microphone isn't working. If you have an iPhone 5 or later, you'll have three microphones: one on the bottom of your phone for phone calls, one on the front of your phone for speakerphone, and one on the back for the camera.
@@ -27,14 +27,16 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  Test each microphone by recording using Voice Memos (bottom microphone), making a phone call on speakers (front microphone), and recording a video (back microphone). If all the microphones aren't working, it's most likely a hardware issue. If only one microphone isn't working or sounds muffled, continue to the next step.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. iPhone Microphone Muffled or Muted? Try Cleaning It
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ![iphone clean speaker](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/iphone-clean-speaker.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Brent Dirks/[MakeUseOf](https://www.makeuseof.com/author/brentdirks/)
 
@@ -45,8 +47,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  Isopropyl alcohol breaks up grime and dries fast, so it won't damage your iPhone. Try using the highest percentage of isopropyl alcohol you can find. While you're at it,[clean your entire iPhone thoroughly](https://www.makeuseof.com/tag/clean-iphone-guide/) if it's not in a good shape.
 
 <!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Disconnect From Bluetooth Devices
 
 Close
@@ -55,9 +58,6 @@ Close
 
  This is a common issue with those who use Bluetooth headphones like AirPods or smart home systems. Check if you're connected to a Bluetooth device by [opening your iPhone's Control Center](https://www.makeuseof.com/how-to-use-customize-control-center-iphone/) , then toggle Bluetooth off. Alternatively, tap and hold it to view all your connected devices.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Make Sure Apps Have Microphone Permissions
 
 Close
@@ -65,6 +65,10 @@ Close
  If your microphone isn't working in a specific app, you might not have granted that app permission to use your microphone.
 
  To grant an app permission, head to**Settings** and select the affected app. Now, make sure the**Microphone** toggle is enabled.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Use an External Microphone or AirPods
 
@@ -76,9 +80,6 @@ Close
 
  Most headphones, including Apple's AirPods, have built-in microphones. Since they connect via your iPhone's Lightning/USB-C port or Bluetooth, you won't have to rely on the built-in microphones for most tasks.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## 6\. Other Generic Fixes
 
 Close
@@ -95,8 +96,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -104,6 +103,22 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-compatibility-score-which-phones-work-with-gear-vr/"><u>[New] Compatibility Score Which Phones Work with Gear VR?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-the-latest-logitech-rx250-software-compatible-with-windows-7-8-and-10/"><u>Download the Latest Logitech RX250 Software Compatible with Windows 7, 8 & 10</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/efficiently-uninstall-microsoft-copilot-from-your-windows-11-device-an-easy-guide/"><u>Efficiently Uninstall Microsoft Copilot From Your Windows 11 Device: An Easy Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/essential-criteria-for-choosing-the-perfect-desktop-a-comprehensive-guide/"><u>Essential Criteria for Choosing the Perfect Desktop: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/expanding-horizons-in-ai-the-game-changing-access-to-chatgpt-and-whisper-apis-for-business-innovation/"><u>Expanding Horizons in AI: The Game-Changing Access to ChatGPT & Whisper APIs for Business Innovation</u></a></li>
+<li><a href="https://fox-that.techidaily.com/facing-trouble-with-iphone-faceid-unlock-a-smoother-experience-with-our-14-tips/"><u>Facing Trouble with iPhone FaceID? Unlock a Smoother Experience With Our 14 Tips</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>How to Change Location on TikTok to See More Content On your Apple iPhone 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-track-and-retrieve-your-facetime-picture-files/"><u>How to Track and Retrieve Your FaceTime Picture Files</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-and-icloud-backup-problems-explore-9-troubleshooting-tactics-now/"><u>IPhone & iCloud Backup Problems: Explore 9 Troubleshooting Tactics Now</u></a></li>
+<li><a href="https://fox-that.techidaily.com/mastering-iphone-technical-help-the-ultimate-guide-to-utilizing-the-apple-support-app/"><u>Mastering iPhone Technical Help: The Ultimate Guide to Utilizing the Apple Support App</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-unexplained-input-on-iphones-a-guide-to-10-fixes-for-ghost-touch-glitches/"><u>Overcoming Unexplained Input on iPhones: A Guide to 10 Fixes for Ghost Touch Glitches</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-file-processing-the-6-top-gpt-applications/"><u>Revolutionizing File Processing: The 6 Top GPT Applications</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solve-this-why-wont-my-iphone-send-or-receive-texts/"><u>Solve This: Why Won't My iPhone Send or Receive Texts?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/struggling-with-iphone-app-downloads-here-are-10-remedies-to-try-now/"><u>Struggling with iPhone App Downloads? Here Are 10 Remedies to Try Now</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-battle-of-personal-computing-uncovering-the-true-variances-between-mac-and-windows-systems/"><u>The Battle of Personal Computing: Uncovering the True Variances Between Mac and Windows Systems</u></a></li>
+</ul></div>
 

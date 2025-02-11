@@ -1,7 +1,7 @@
 ---
 title: How to Fix Your iPhone When Vibration Stops Working in Quiet and Caller Tones Settings
-date: 2025-01-13T16:29:37.139Z
-updated: 2025-01-16T17:54:28.887Z
+date: 2025-02-04T02:02:51.237Z
+updated: 2025-02-11T05:07:48.049Z
 tags:
   - iphone
   - apple
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/909f3c7957e52f6fe9de5cd9ae15915a5af92e863
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Check Your iPhone's Current Mode
 
  Before proceeding to tweak your iPhone's sound settings, check if your iPhone is in the mode you want. Look at the side of your iPhone for the Ring/Silent switch.
@@ -36,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/909f3c7957e52f6fe9de5cd9ae15915a5af92e863
  If you can see the orange strip, your iPhone is in Silent mode. Push the switch (so that the orange strip is no longer showing) to put your iPhone back in Ring mode.
 
 ![iphone silent switch and volume buttons](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/iphone-silent-switch.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Turn On System Haptics
 
@@ -45,15 +45,7 @@ thumbnail: https://thmb.techidaily.com/909f3c7957e52f6fe9de5cd9ae15915a5af92e863
 
 ![iphone settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/img_6668.JPEG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![iphone sounds and haptics settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/img_6667.JPEG)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Close
 
@@ -64,10 +56,6 @@ Close
  Therefore, go to**Settings > Accessibility > Touch** , and then toggle on**Vibration** .
 
 ![iPhone Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/settings-general.JPEG)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![iphone accessibility settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/accessibility-settings.JPEG)
 
@@ -84,7 +72,7 @@ Close
 ![play haptics for ring and silent mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/MUO-in-article-image-(1200px-by-600px-21-ratio)-(11)-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Check the Selected Vibration Pattern for Each Alert
@@ -102,7 +90,7 @@ Close
 ![iphone ringtone settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/ringtone-settings.JPEG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![iphone ringtone vibration settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/vibration-settings.JPEG)
@@ -110,6 +98,10 @@ Close
 Close
 
  After you select a valid vibration pattern for**Ringtone** , go back to the**Sounds and Haptics Pattern** list. Repeat these steps for**Text Tone** ,**New Voicemail** ,**New Mail** , and so on.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Update Your iPhone
 
@@ -136,7 +128,7 @@ Close
 ![general settings in iphone settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/general-3.JPEG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![options to reset iphone settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/reset-iphone-options.JPEG)
@@ -144,7 +136,7 @@ Close
 Close
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Can You Enable Vibration for Calls and Texts Only on Your iPhone?
@@ -163,6 +155,10 @@ Close
 
 ![touch settings in iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/touch-settings.JPEG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Close
 
  Additionally, to cut down on system haptics as much as possible on Silent mode, you can also go to**Settings > Sounds & Haptics > Keyboard Feedback** and toggle off**Haptic** . This way, you'll at least avoid experiencing tapping vibrations each time you type a letter on your iPhone's keyboard.
@@ -170,7 +166,11 @@ Close
 ![iphone keyboard feedback settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/img_6645.JPEG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Use Your iPhone's Vibrations to Be Aware of Alerts
@@ -194,22 +194,24 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/ransform-raw-footage-to-polished-youtube-stories-on-windows/"><u>[New] Transform Raw Footage to Polished YouTube Stories on Windows</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-streaming-google-meet-to-youtube-a-compreenas-step-by-step-guide/"><u>2024 Approved Streaming Google Meet to YouTube - A Compreenas Step-by-Step Guide</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/2024-approved-viral-video-blueprint-top-10-tiktok-tricks/"><u>2024 Approved Viral Video Blueprint Top 10 TikTok Tricks</u></a></li>
-<li><a href="https://fox-that.techidaily.com/bypass-the-bug-fast-acting-remedies-for-iphoneipads-emoji-prediction-problems/"><u>Bypass the Bug: Fast-Acting Remedies for iPhone/iPad's Emoji Prediction Problems</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-call-logs-on-infinix-zero-5g-2023-turbo-by-fonelab-android-recover-call-logs/"><u>Complete guide for recovering call logs on Infinix Zero 5G 2023 Turbo</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/cutting-edge-screen-recorders-our-10-best-selections-for-2024/"><u>Cutting-Edge Screen Recorders Our 10 Best Selections for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/dont-delay-discover-the-essential-benefits-of-upgrading-to-ios-153-now/"><u>Don't Delay: Discover the Essential Benefits of Upgrading to iOS 15.3 Now!</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-a14-4g-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Samsung Galaxy A14 4G Phone without Any Data Loss</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-t-mobile-apple-iphone-6s-plus-online-without-sim-card-by-drfone-ios/"><u>How to Unlock T-Mobile Apple iPhone 6s Plus online without SIM Card?</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-asus-rog-phone-7-ultimate-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Asus ROG Phone 7 Ultimate to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721478027941-iphone-notification-troubles-discover-7-effective-solutions/"><u>IPhone Notification Troubles? Discover 7 Effective Solutions</u></a></li>
-<li><a href="https://fox-that.techidaily.com/quick-solutions-how-to-repair-imessage-issues-across-iphoneipadmac/"><u>Quick Solutions: How to Repair iMessage Issues Across iPhone/iPad/Mac</u></a></li>
-<li><a href="https://fox-that.techidaily.com/shutterbugs-solution-fixing-fuzzy-iphone-snapshots-with-ease/"><u>Shutterbug's Solution: Fixing Fuzzy iPhone Snapshots with Ease</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solving-the-problem-top-10-solutions-for-unresponsive-widgets-on-ios-devices/"><u>Solving the Problem: Top 10 Solutions for Unresponsive Widgets on iOS Devices</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-non-functioning-keyboards-in-apple-devices-find-quick-fixes-here/"><u>Troubleshooting Non-Functioning Keyboards in Apple Devices: Find Quick Fixes Here</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Oppo Reno 10 5G? | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/why-is-my-iphone-not-producing-sound-quick-fixes-inside/"><u>Why Is My iPhone Not Producing Sound? Quick Fixes Inside</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-pioneers-in-online-mastery-meet-up/"><u>[New] Pioneers in Online Mastery Meet-Up</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-finding-your-video-complement-the-process-of-collaborative-pairing/"><u>[Updated] 2024 Approved Finding Your Video Complement The Process of Collaborative Pairing</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/comparing-ig-reels-and-ig-stories-a-comprehensive-guide/"><u>Comparing IG Reels & IG Stories A Comprehensive Guide</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/effective-ways-to-fix-checkra1n-error-31-from-apple-iphone-13-pro-max-by-drfone-ios/"><u>Effective Ways To Fix Checkra1n Error 31 From Apple iPhone 13 Pro Max</u></a></li>
+<li><a href="https://fox-that.techidaily.com/enhance-your-iphones-web-experience-10-quick-safaricure-techniques/"><u>Enhance Your iPhone's Web Experience: 10 Quick Safaricure Techniques</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fix-a-non-functioning-tablet-touchscreen-in-8-simple-steps-for-improved-usability/"><u>Fix a Non-Functioning Tablet Touchscreen in 8 Simple Steps for Improved Usability</u></a></li>
+<li><a href="https://win-dash.techidaily.com/getting-started-how-to-update-or-install-amd-radeon-rx-nvidia-gpu-drivers/"><u>Getting Started: How to Update or Install AMD Radeon RX Nvidia GPU Drivers</u></a></li>
+<li><a href="https://fox-that.techidaily.com/getting-your-iphone-personal-hotspot-back-on-track-a-comprehensive-guide/"><u>Getting Your iPhone Personal Hotspot Back on Track – A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721477328780-having-trouble-with-your-iphones-vpn-connection-learn-how-to-solve-it-with-these-7-methods/"><u>Having Trouble with Your iPhone's VPN Connection? Learn How to Solve It With These 7 Methods!</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/how-instagram-new-algorithm-update-will-affect-you/"><u>How Instagram New Algorithm Update Will Affect You</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-stepwise-strategy-for-transforming-your-youtube-videos-with-imovie/"><u>In 2024, Stepwise Strategy for Transforming Your YouTube Videos with iMovie</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-message-compatibility-issues-between-iphones-and-android-phones/"><u>Overcoming Message Compatibility Issues Between iPhones and Android Phones</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/recognizing-the-warning-signs-identifying-a-deteriorating-psu-insights-from-yl-computing/"><u>Recognizing the Warning Signs: Identifying a Deteriorating PSU - Insights From YL Computing</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolve-iphone-qr-code-scanning-issues-with-these-essential-fixes/"><u>Resolve iPhone QR Code Scanning Issues with These Essential Fixes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolving-iphone-auto-brightness-glitches-try-out-these-eight-methods/"><u>Resolving iPhone Auto-Brightness Glitches? Try Out These Eight Methods</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/step-by-step-process-to-set-trending-tiktok-beats-as-your-cellphone-alarm-for-2024/"><u>Step-by-Step Process to Set Trending TikTok Beats as Your Cellphone Alarm for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/struggling-with-wireless-charging-on-your-iphone-find-relief-in-these-7-remedies/"><u>Struggling with Wireless Charging on Your iPhone? Find Relief in These 7 Remedies!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/why-you-should-regularly-restart-your-mobile-device-for-better-performance/"><u>Why You Should Regularly Restart Your Mobile Device for Better Performance</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/witje-transformeren-van-webp-naar-jpg-gratis-online-convertidoor-met-duurzaamheid-von-movavi/"><u>Witje Transformeren Van WEBP Naar JPG: Gratis Online Convertidoor Met Duurzaamheid Von Movavi</u></a></li>
 </ul></div>
 

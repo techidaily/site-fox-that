@@ -1,7 +1,7 @@
 ---
 title: "Addressing 'Location Not Available' Errors: A Step-by-Step Guide to Get Your iPhone Back Online"
-date: 2024-08-15T11:51:37.685Z
-updated: 2024-08-16T11:51:37.685Z
+date: 2025-02-06T07:17:40.582Z
+updated: 2025-02-11T05:28:28.150Z
 tags:
   - iphone
   - apple
@@ -18,12 +18,13 @@ thumbnail: https://thmb.techidaily.com/65adc82cc3ee9553a2913bedb3e5be45ee26dcc59
 
  So without any further ado, let's check out what it takes to fix the "Location Not Available" error on an iPhone. We'll start with the steps you can try yourself, before moving onto what the person you're trying to track needs to do.
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Fix "Location Not Available" From Your Own iPhone
 
  There isn't a lot you can do yourself if Messages or the Find My app says "Location Not Available" when someone has chosen to [share their iPhone location with you](https://www.makeuseof.com/how-to-share-location-iphone/) . But it's still easiest to try these steps first, before involving somebody else.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quit and Relaunch Find My or Messages
 
@@ -39,6 +40,10 @@ To force quit Messages or Find My:
 
 ![App Switcher on iPhone.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/2-app-switcher.PNG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Force-quitting an app on iPhone.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/3-force-quit-app.PNG)
 
 Close
@@ -47,9 +52,6 @@ Close
 
  If closing and reopening the relevant app didn't work, you might need to [restart your iPhone](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) instead. To restart your iPhone, simply open the**Settings** app and tap**General > Shut Down** . Once the screen goes black, wait for several seconds and hold the**Side** or the**Top** button until you see the Apple logo.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ## How to Fix "Location Not Available" From Someone Else's iPhone
 
  If the two fixes above didn't help, you'll need to shift your attention to your friend or family member's iPhone. Walk them through the fixes below on a call. Or, share this post with them and make sure they follow the instructions in this section.
@@ -61,14 +63,16 @@ Close
 ![Settings app on iPhone.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/4-settings-app.PNG)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Apple ID settings screen.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/5-apple-id-settings.PNG)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Find My preferences.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/6-share-my-location-1.PNG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -79,16 +83,14 @@ Close
 * **In Messages:** Open a chat with the person you want to share your location with. Tap the profile picture at the top of the chat and select**Stop Sharing My Location** . Now hit**Share My Location** .
 * **In Find My:** Switch to the**People** tab, tap the name of the person you want to share your location with and select**Stop Sharing My Location** . Then, go back to the**People** tab, tap the**Add (+)** icon,**Share My Location** , and choose a contact.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ![iMessage chat.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/7-messages-chat.PNG)
 
 ![Stop Sharing My Location.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/8-info-pane.PNG)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Start sharing my location.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/9-info-pane-alt.PNG)
 
 Close
@@ -101,22 +103,25 @@ Close
 
  An incorrect date or time can create issues with location sharing. To check this, go to**Settings > General > Date & Time** . If the date or time is wrong, turn on the switch next to**Set Automatically** to get the correct date and time from Apple's servers. If this doesn't help, deactivate the switch and set the correct time manually.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![iPhone Settings screen.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/10-iphone-settings.PNG)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![General settings screen on iPhone.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/11-general-settings.PNG)
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Date or time screen on iPhone.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/12date-time.PNG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Close
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Switch to Cellular Data
 
@@ -134,8 +139,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -143,6 +146,18 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-youth-empowerment-your-life-story-can-inspire/"><u>[New] Youth Empowerment Your Life Story Can Inspire</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-assessing-the-right-level-of-luminosity-in-creative-hdr-ventures-for-2024/"><u>[Updated] Assessing the Right Level of Luminosity in Creative HDR Ventures for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-clear-audio-in-videos-essential-tips-and-tool-reviews-for-2024/"><u>[Updated] Clear Audio in Videos Essential Tips and Tool Reviews for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-transform-your-video-presentation-with-updated-covers/"><u>[Updated] Transform Your Video Presentation with Updated Covers</u></a></li>
+<li><a href="https://fox-that.techidaily.com/conquering-common-setbacks-with-your-iphone-solutions-for-top-6-issues/"><u>Conquering Common Setbacks with Your iPhone ([Solutions for] Top 6 Issues)</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/evaluating-the-updated-movavi-video-editor/"><u>Evaluating the Updated Movavi Video Editor</u></a></li>
+<li><a href="https://win-unique.techidaily.com/paso-a-paso-configuracion-de-copias-de-seguridad-incrementales-en-su-sistema-nas-usando-windows-server/"><u>Paso a Paso: Configuración De Copias De Seguridad Incrementales en Su Sistema NAS Usando Windows Server</u></a></li>
+<li><a href="https://fox-that.techidaily.com/reclaim-lost-icon-spaces-a-guide-to-fixing-missing-app-icons-in-ios/"><u>Reclaim Lost Icon Spaces – A Guide to Fixing Missing App Icons in iOS</u></a></li>
+<li><a href="https://fox-that.techidaily.com/reviving-your-iphone-without-button-use-a-comprehensive-guide/"><u>Reviving Your iPhone Without Button Use: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unveiling-the-secret-spot-for-stored-facetime-photos-on-your-device/"><u>Unveiling the Secret Spot for Stored FaceTime Photos on Your Device</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-pro-audio-on-your-device-a-comprehensive-review-of-the-top-8-ios-compatible-daw-apps-for-2024/"><u>Updated Pro Audio on Your Device A Comprehensive Review of the Top 8 iOS-Compatible DAW Apps for 2024</u></a></li>
+</ul></div>
 

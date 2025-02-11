@@ -1,7 +1,7 @@
 ---
 title: IPhone's Mute and Media Keys Malfunctioning? Discover 7 Solutions
-date: 2025-01-24T23:55:50.499Z
-updated: 2025-01-30T08:39:20.616Z
+date: 2025-02-03T18:02:38.045Z
+updated: 2025-02-10T16:56:01.507Z
 tags:
   - iphone
   - apple
@@ -23,25 +23,13 @@ thumbnail: https://thmb.techidaily.com/1fa3b9714516519d17cdc00ae160f98cb4b200553
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Make Sure Your iPhone's Volume Buttons Are Enabled
 
  Some might not be aware of this, but there is a setting that turns your iPhone's volume buttons on and off. This setting is already enabled by default on all devices, but it's possible someone can turn it off without realizing it.
 
 ![iphone enable volume button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/iphone-enable-volume-button.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  To check this, head to**Settings > Sounds & Haptics** and toggle on**Change with Buttons** . If this isn't enabled, this could be why your volume buttons aren't working. If it's already enabled, proceed to the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Remove Your iPhone From Its Case
 
@@ -52,6 +40,10 @@ thumbnail: https://thmb.techidaily.com/1fa3b9714516519d17cdc00ae160f98cb4b200553
  Simply remove your iPhone case and give your volume buttons another try. If they work now, you'll need to get a new case. After all, you probably want to keep your iPhone protected.
 
  It's also possible that prolonged use of a case can cause your volume buttons to get dirty. If that's the case, proceed to the next step.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Clean Your iPhone's Volume Buttons Using Alcohol
 
@@ -66,7 +58,7 @@ thumbnail: https://thmb.techidaily.com/1fa3b9714516519d17cdc00ae160f98cb4b200553
  After cleaning, wait a few minutes for the alcohol to dry. If your volume buttons are working now, great! If they are only working a bit better, that's a sign that they are still dirty, and you should keep cleaning them. It's worth [cleaning your entire iPhone if it's dirty](https://www.makeuseof.com/tag/clean-iphone-guide/) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Reset or Restore Your iPhone
@@ -79,12 +71,16 @@ thumbnail: https://thmb.techidaily.com/1fa3b9714516519d17cdc00ae160f98cb4b200553
 
 ![iphone erase settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/iphone-erase-settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This will wipe your phone clean and essentially make it like new. Before restoring a backup, go into the device and test the volume buttons. If they work, restore your backup.
 
  In some cases, restoring your backup might make them not work again. If that's the case, it might have been an app you tried to download, or your backup could be corrupted. Sadly, this means starting from scratch unless you have an older backup you can try restoring.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Update Your iPhone
@@ -104,6 +100,10 @@ thumbnail: https://thmb.techidaily.com/1fa3b9714516519d17cdc00ae160f98cb4b200553
  You can open the Control Center and adjust your volume by swiping down from the top-right corner of your iPhone. If your iPhone has a Home button, you'll need to swipe up from the bottom of the screen instead.
 
 ![iphone control panel volume control](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/iphone-control-panel-volume-control-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you have AirPods, you can say, "Hey Siri, turn up the volume." Other Bluetooth headphones typically have built-in volume controls, which you can use as well. This means that you won't have to keep going to your phone when you want to change the volume.
 
@@ -126,7 +126,7 @@ thumbnail: https://thmb.techidaily.com/1fa3b9714516519d17cdc00ae160f98cb4b200553
  While repairing your iPhone's volume buttons out of pocket can be expensive, it's cheaper than buying a new phone. But if you don't want to pay this price, maybe it's [time to upgrade your iPhone](https://www.makeuseof.com/7-signs-its-time-to-upgrade-your-iphone/) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Apple Discontinue the Volume Button?
@@ -150,16 +150,21 @@ thumbnail: https://thmb.techidaily.com/1fa3b9714516519d17cdc00ae160f98cb4b200553
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-free-game-themes-and-melodies-10-best-websites/"><u>[New] Free Game Themes & Melodies – 10 Best Websites</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-picsart-secret-conceal-faces-easily/"><u>2024 Approved Picsart Secret Conceal Faces Easily</u></a></li>
-<li><a href="https://fox-that.techidaily.com/addressing-undelivered-imessages-techniques-for-iphone-owners/"><u>Addressing Undelivered iMessages: Techniques for iPhone Owners</u></a></li>
-<li><a href="https://fox-that.techidaily.com/earphone-troubles-here-are-the-reasons-behind-one-airpod-being-louder-than-its-pair-and-how-to-fix-it/"><u>Earphone Troubles? Here Are the Reasons Behind One AirPod Being Louder Than Its Pair and How to Fix It</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-this-device-is-not-plugged-in-error-codes-on-windows-1087/"><u>Fixing 'This Device Is Not Plugged In' Error Codes on Windows 10/8/7</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/flawless-approach-securing-gotomeeting-recordings/"><u>Flawless Approach Securing GoToMeeting Recordings</u></a></li>
-<li><a href="https://fox-that.techidaily.com/giveaway-glitches-5-common-hurdles-in-apples-gifting-feature/"><u>Giveaway Glitches: 5 Common Hurdles in Apple's Gifting Feature</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-realme-11-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on Realme 11 Pro+ | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/iphone-alert-fixes-while-on-dnd-mode-a-guide-to-getting-your-messages-and-calls-through-including-8-tactics/"><u>IPhone Alert Fixes While on DND Mode: A Guide to Getting Your Messages & Calls Through, Including 8 Tactics</u></a></li>
-<li><a href="https://fox-that.techidaily.com/step-by-step-tutorial-on-seeking-help-for-your-iphone-with-apples-dedicated-app/"><u>Step-by-Step Tutorial on Seeking Help for Your iPhone with Apple's Dedicated App</u></a></li>
-<li><a href="https://win-forum.techidaily.com/top-four-platforms-connecting-on-facebook-twitter-instagram-and-youtube/"><u>Top Four Platforms: Connecting on Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-from-camera-roll-to-screen-share-photos-fast-and-simple/"><u>[Updated] 2024 Approved From Camera Roll to Screen Share Photos Fast and Simple</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-essential-list-the-premier-mobile-dvd-units-for-2024/"><u>[Updated] Essential List The Premier Mobile DVD Units for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-flying-into-photography-discovering-the-dji-spark-advantage/"><u>[Updated] Flying Into Photography Discovering the DJI Spark Advantage</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/corsair-keyboard-led-issue-resolved-steps-for-brightening-up-your-board/"><u>Corsair Keyboard LED Issue Resolved – Steps for Brightening Up Your Board</u></a></li>
+<li><a href="https://extra-support.techidaily.com/navigating-the-floating-window-technology-in-netflix-for-2024/"><u>Navigating The Floating Window Technology in Netflix for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-dont-miss-these-the-most-impressive-4k-videos/"><u>New Dont Miss These The Most Impressive 4K Videos</u></a></li>
+<li><a href="https://driver-install.techidaily.com/silent-windows-desktop-check-and-reinstall-drivers/"><u>Silent Windows Desktop? Check and Reinstall Drivers</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-the-mystery-of-icloud-syncing-issues-a-step-by-step-guide/"><u>Solving the Mystery of iCloud Syncing Issues: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-the-problem-of-a-singular-non-working-airpod/"><u>Solving the Problem of a Singular Non-Working AirPod</u></a></li>
+<li><a href="https://fox-that.techidaily.com/spotting-trouble-the-ultimate-list-of-9-hints-for-a-wet-iphone-incident/"><u>Spotting Trouble: The Ultimate List of 9 Hints for a Wet iPhone Incident</u></a></li>
+<li><a href="https://fox-that.techidaily.com/step-by-step-solutions-getting-your-iphones-hey-siri-feature-back-on-track/"><u>Step-by-Step Solutions: Getting Your iPhone's 'Hey Siri' Feature Back on Track</u></a></li>
+<li><a href="https://fox-that.techidaily.com/understanding-and-fixing-random-browser-activity-in-iphone-screen-time-monitoring/"><u>Understanding and Fixing Random Browser Activity in iPhone Screen Time Monitoring</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/unlocking-online-potential-essential-fb-advice-for-businesses-for-2024/"><u>Unlocking Online Potential Essential FB Advice for Businesses for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unmuted-once-more-fixing-mute-malfunctions-on-iphones/"><u>Unmuted Once More: Fixing Mute Malfunctions on iPhones</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unsticking-iphone-from-apple-logo-a-step-by-step-guide-7-methods/"><u>Unsticking iPhone From Apple Logo: A Step-by-Step Guide (7 Methods)</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-integrating-audio-into-digital-videos-a-comprehensive-guide/"><u>Updated In 2024, Integrating Audio Into Digital Videos A Comprehensive Guide</u></a></li>
 </ul></div>
 

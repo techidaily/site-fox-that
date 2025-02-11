@@ -1,7 +1,7 @@
 ---
 title: Trouble with iPhone's Volume Controls? Discover 7 Quick Solutions
-date: 2025-01-14T17:21:31.928Z
-updated: 2025-01-16T16:19:21.861Z
+date: 2025-02-06T10:27:35.253Z
+updated: 2025-02-11T03:35:12.173Z
 tags:
   - iphone
   - apple
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/2aeb02acf862b6ad4b67e9ce99d75289c32cf73cc
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Make Sure Your iPhone's Volume Buttons Are Enabled
@@ -33,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/2aeb02acf862b6ad4b67e9ce99d75289c32cf73cc
 
 ![iphone enable volume button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/iphone-enable-volume-button.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To check this, head to**Settings > Sounds & Haptics** and toggle on**Change with Buttons** . If this isn't enabled, this could be why your volume buttons aren't working. If it's already enabled, proceed to the next fix.
 
 ## 2\. Remove Your iPhone From Its Case
@@ -40,7 +44,7 @@ thumbnail: https://thmb.techidaily.com/2aeb02acf862b6ad4b67e9ce99d75289c32cf73cc
 ![iPhone in a leather case](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/iphone-in-a-leather-case.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  iPhones are expensive, so it's likely that most of you use a case to protect them. In some instances, your case can interfere with your volume buttons. This is especially true with cases that have layers or have built-in screen protectors.
@@ -52,6 +56,10 @@ thumbnail: https://thmb.techidaily.com/2aeb02acf862b6ad4b67e9ce99d75289c32cf73cc
 ## 3\. Clean Your iPhone's Volume Buttons Using Alcohol
 
 ![iPhone Ring/Silent switch](https://thmb.techidaily.com/14af88c4727edfc68754682f8d9e5a16b4632ead51b56f451896cf5d83dd52e4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  We use our phones so much that dirt and grime can sometimes get under the buttons, especially when not using a case. So, press down on your buttons a few times to check if your buttons are stuck. You might need to clean them if they're stuck or don't seem to click down.
 
@@ -76,7 +84,7 @@ thumbnail: https://thmb.techidaily.com/2aeb02acf862b6ad4b67e9ce99d75289c32cf73cc
  In some cases, restoring your backup might make them not work again. If that's the case, it might have been an app you tried to download, or your backup could be corrupted. Sadly, this means starting from scratch unless you have an older backup you can try restoring.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Update Your iPhone
@@ -99,10 +107,6 @@ thumbnail: https://thmb.techidaily.com/2aeb02acf862b6ad4b67e9ce99d75289c32cf73cc
 
  If you have AirPods, you can say, "Hey Siri, turn up the volume." Other Bluetooth headphones typically have built-in volume controls, which you can use as well. This means that you won't have to keep going to your phone when you want to change the volume.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Control the Volume With AssistiveTouch
 
  If you're looking for another way to control the volume, consider using AssistiveTouch. You can set the AssistiveTouch button to open a menu to control your volume on the screen or have it either turn up or down when tapped.
@@ -112,11 +116,7 @@ thumbnail: https://thmb.techidaily.com/2aeb02acf862b6ad4b67e9ce99d75289c32cf73cc
 ![assistive touch iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/IMG_2959.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Get Your Volume Buttons Repaired
@@ -150,16 +150,17 @@ thumbnail: https://thmb.techidaily.com/2aeb02acf862b6ad4b67e9ce99d75289c32cf73cc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-from-novice-to-pro-a-tactical-guide-to-snapchat-marketing/"><u>[New] In 2024, From Novice to Pro A Tactical Guide to Snapchat Marketing</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-how-to-kickstart-your-zoom-webinar-journey/"><u>[Updated] How to Kickstart Your Zoom Webinar Journey</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/boost-your-pinterest-presence-using-any-of-these-top-5-posting-automation-solutions/"><u>Boost Your Pinterest Presence Using Any of These Top 5 Posting Automation Solutions</u></a></li>
-<li><a href="https://fox-that.techidaily.com/dealing-with-iphones-slow-display-shutdown-here-are-effective-fixes/"><u>Dealing with iPhone's Slow Display Shutdown? Here Are Effective Fixes!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/easy-ways-to-address-normalizdll-not-detected-in-windows-systems/"><u>Easy Ways to Address 'Normaliz.dll Not Detected' In Windows Systems</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fixing-a-broken-iphone-mute-function-a-guide-to-solving-silentring-mode-issues-without-the-switch/"><u>Fixing a Broken iPhone Mute Function: A Guide to Solving Silent/Ring Mode Issues Without The Switch</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-honor-magic5-ultimate-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Honor Magic5 Ultimate? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/next-gen-dialogue-masters-whos-the-future-top-chatbot/"><u>Next-Gen Dialogue Masters: Who's the Future Top Chatbot?</u></a></li>
-<li><a href="https://win-dash.techidaily.com/quick-installation-of-latest-acer-speaker-software-for-optimal-performance/"><u>Quick Installation of Latest Acer Speaker Software for Optimal Performance</u></a></li>
-<li><a href="https://fox-that.techidaily.com/tablet-touch-issues-demystified-follow-our-8-essential-fixes/"><u>Tablet Touch Issues Demystified: Follow Our 8 Essential Fixes!</u></a></li>
-<li><a href="https://fox-that.techidaily.com/unexpected-glitch-how-to-resolve-non-compatible-iphone-gadget-issues/"><u>Unexpected Glitch? How to Resolve Non-Compatible iPhone Gadget Issues</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-kinetic-keywords-animation-mastery-for-social-media-captions/"><u>[Updated] Kinetic Keywords Animation Mastery for Social Media Captions</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/a-step-by-step-guide-to-making-engaging-audio-promos-for-2024/"><u>A Step-by-Step Guide to Making Engaging Audio Promos for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/apps-not-downloading-on-iphone-10-fixes-to-try/"><u>Apps Not Downloading on iPhone? 10 Fixes to Try</u></a></li>
+<li><a href="https://fox-that.techidaily.com/easy-fixes-for-when-your-iphones-chatgpt-app-stops-working-9-tips/"><u>Easy Fixes for When Your iPhone's ChatGPT App Stops Working (9 Tips)</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-getting-started-free-videography-templates/"><u>In 2024, Getting Started Free Videography Templates</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/managing-system-resources-avoiding-conflict-scenarios/"><u>Managing System Resources: Avoiding Conflict Scenarios</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/slash-your-cost-snag-a-discounted-razor-blade-15-from-walmart-for-just-800-before-memorial-day-exclusive-deal-insights/"><u>Slash Your Cost: Snag a Discounted Razor Blade 15 From Walmart for Just $800 Before Memorial Day - Exclusive Deal Insights</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-the-launch-error-for-age-of-empires-4-expert-tips-and-solutions/"><u>Solving the Launch Error for Age of Empires 4: Expert Tips & Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/step-by-step-solutions-to-restore-hey-siri-functionality-on-ios-devices/"><u>Step-by-Step Solutions to Restore 'Hey Siri' Functionality on iOS Devices</u></a></li>
+<li><a href="https://extra-information.techidaily.com/top-attention-grabber-composer/"><u>Top Attention Grabber Composer</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-rated-text-transcription-software/"><u>Top Rated Text Transcription Software</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unable-to-mute-or-disable-internal-wifibluetooth-on-windows-10-fix/"><u>Unable to Mute or Disable Internal WIFI/Bluetooth on Windows 10 – Fix?</u></a></li>
 </ul></div>
 

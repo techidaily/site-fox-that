@@ -1,7 +1,7 @@
 ---
 title: IOS 16 Lock Screen Depth Effect Issues? Discover 7 Proven Solutions
-date: 2025-01-22T20:02:28.342Z
-updated: 2025-01-29T18:38:12.441Z
+date: 2025-02-09T02:08:53.444Z
+updated: 2025-02-11T10:02:09.743Z
 tags:
   - iphone
   - apple
@@ -46,7 +46,7 @@ thumbnail: https://thmb.techidaily.com/bcf259aa94b83b760e0c11d2e676389c6277abf06
  Depth Effect relies on A12 Bionic or newer iPhone processors to separate the foreground and background from the wallpaper. So, if you don't have a supported iPhone, Depth Effect simply won't work.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Troubleshooting Tips to Fix Depth Effect Not Working on iOS Lock Screen
@@ -66,16 +66,12 @@ thumbnail: https://thmb.techidaily.com/bcf259aa94b83b760e0c11d2e676389c6277abf06
 ![Tap General in iOS Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/ios-settings.jpeg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Tap Software Update in iOS General Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/ios-general-settings.jpeg)
 
 ![Tap Download and Install when you get iOS Software Update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/ios-software-update.jpeg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Close
 
@@ -95,24 +91,20 @@ Close
 ![Select Wallpaper in iOS Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/ios-settings-wallpaper.jpeg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Select Customize in Wallpaper Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/ios-wallpaper-settings-customize.jpeg)
 
-![Enable Depth Effect on Lock Screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/enable-depth-effect-lock-screen.jpeg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Enable Depth Effect on Lock Screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/enable-depth-effect-lock-screen.jpeg)
 
 Close
 
  Depth Effect should work on your iPhone's Lock Screen wallpaper if you have had it disabled before.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. Remove Lock Screen Widgets
 
@@ -125,21 +117,21 @@ Close
 
 ![iOS 16 Lock Screen with Widgets and Depth Effect Not Working](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/ios-16-lock-screen-with-widgets.jpeg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Remove Lock Screen Widgets by Tapping on them](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/ios-16-remove-lock-screen-widgets.jpeg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![iOS 16 Lock Screen without Widgets and Depth Effect working](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/ios-16-lock-screen-without-widgets.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
  Removing the Lock Screen widgets should automatically enable the Depth Effect feature. If not, allow the**Depth Effect** option from the Lock Screen.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Try a Different Lock Screen Wallpaper
 
@@ -153,6 +145,10 @@ Close
 
  Alternatively, you can search Google for some amazing Depth Effect wallpapers. However, check the [r/deptheffectwallpaper](https://www.reddit.com/r/deptheffectwallpaper/) Reddit community for some sure-shot wallpapers that work with Depth Effect.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 5\. Check the Wallpaper's File Format
 
  For some reason, the Depth Effect feature in iOS doesn't work well with PNG formats. It currently supports only the JPEG and HEIC formats without any issues. If you don't know how to check your wallpaper's file format, follow these instructions:
@@ -163,13 +159,13 @@ Close
 
 ![Select the photo whose file format you want to check in the Photos app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/select-the-photo-whose-file-format-you-want-to-check-in-the-photos-app.jpeg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Tap the i button on the bottom of the photo](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/tap-the-i-button-on-the-bottom-of-the-photo.jpeg)
 
 ![Check the file format of the image under its metadata](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/check-the-file-format-of-the-image-under-its-metadata.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -201,6 +197,10 @@ Close
 
  After restarting your iPhone, Depth Effect should be working perfectly. If it isn't working still, trying different wallpapers is your best choice.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Use Depth Effect on Your iPhone Without Problems
 
  We hope you finally got Depth Effect to work with your iPhone wallpaper. It's an excellent way to redefine your Lock Screen, making it unique to iPhones. Furthermore, Depth Effect works with multiple image formats and filters.
@@ -224,21 +224,19 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-vlcs-role-in-mpeg-4-and-other-file-type-conversions-explored/"><u>[Updated] In 2024, VLC's Role in MPEG-4 and Other File Type Conversions Explored</u></a></li>
-<li><a href="https://fox-that.techidaily.com/10-proven-methods-for-troubleshooting-iphone-data-connectivity-issues/"><u>10 Proven Methods for Troubleshooting iPhone Data Connectivity Issues</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721473416663-airplay-not-working-heres-how-you-can-get-it-running-smoothly-again/"><u>AirPlay Not Working? Here's How You Can Get It Running Smoothly Again</u></a></li>
-<li><a href="https://tools.techidaily.com/apowersoft/data-recovery/"><u>ApowerRecover</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721458454907-cant-connect-your-iphone-to-itunesfinder-try-these-effective-troubleshooting-tips/"><u>Can't Connect Your iPhone to iTunes/Finder? Try These Effective Troubleshooting Tips!</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721456107325-cant-see-your-alerts-on-the-iphone-here-are-7-remedies-to-restore-them/"><u>Can't See Your Alerts on the iPhone? Here Are 7 Remedies to Restore Them.</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/free-epson-ds-530-driver-software-downloads-for-windows-10-x64-systems/"><u>Free Epson DS-530 Driver Software Downloads for Windows 10 X64 Systems</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-remove-screen-lock-pin-on-samsung-galaxy-s23-ultra-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Samsung Galaxy S23 Ultra Like A Pro 5 Easy Ways</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-enhancing-engagement-on-igtv-with-well-oriented-videos/"><u>In 2024, Enhancing Engagement on IGTV with Well-Oriented Videos</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-locked-out-of-iphone-14-5-ways-to-get-into-a-locked-iphone-14-drfone-by-drfone-ios/"><u>In 2024, Locked Out of iPhone 14? 5 Ways to get into a Locked iPhone 14 | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721470682453-iphone-unresponsive-to-touch-here-are-7-possible-reasons-explained/"><u>IPhone Unresponsive to Touch? Here Are 7 Possible Reasons Explained</u></a></li>
-<li><a href="https://win11.techidaily.com/resolve-missing-external-devices-in-microsoft-system/"><u>Resolve Missing External Devices in Microsoft System</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-internet-explorer-has-stopped-working-errors-a-step-by-step-guide/"><u>Resolving 'Internet Explorer Has Stopped Working' Errors: A Step-by-Step Guide</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/richest-rewards-for-creators/"><u>Richest Rewards for Creators</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721476268960-struggling-with-your-iphones-slow-screen-timeout-discover-quick-solutions/"><u>Struggling with Your iPhone's Slow Screen Timeout? Discover Quick Solutions</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721475940731-utilize-readonly-fields-where-applicable/"><u>Utilize Readonly Fields Where Applicable</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ecoding-the-jargon-what-mcns-mean-for-you/"><u>[New] Decoding the Jargon What MCNs Mean for You</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-8-pioneering-exercise-videos-to-keep-your-viewers-active/"><u>[Updated] 2024 Approved 8 Pioneering Exercise Videos To Keep Your Viewers Active</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-best-video-and-sound-capture-apps-for-artistic-visionaries/"><u>[Updated] Best Video & Sound Capture Apps for Artistic Visionaries</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-can-you-store-high-quality-videos-in-128gb/"><u>2024 Approved Can You Store High-Quality Videos in 128Gb?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/balancing-your-earbuds-understand-why-an-airpods-volume-may-vary-and-solutions/"><u>Balancing Your Earbuds: Understand Why an AirPod's Volume May Vary and Solutions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/corsair-virtuoso-headset-troubleshooting-what-to-do-when-it-wont-work-anymore/"><u>Corsair Virtuoso Headset Troubleshooting: What To Do When It Won't Work Anymore</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-your-batch-script-execution-power/"><u>Elevate Your Batch Script Execution Power</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-fix-a-broken-proximity-sensor-on-your-iphone/"><u>How to Fix a Broken Proximity Sensor on Your iPhone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-overcome-lack-of-support-for-iphone-accessories-expert-hacks/"><u>How to Overcome Lack of Support for iPhone Accessories: Expert Hacks</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-s24-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Samsung Galaxy S24 Phone without Any Data Loss</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolve-mobile-data-woes-learn-to-reset-the-network-parameters-on-your-ios-device-for-optimal-connection/"><u>Resolve Mobile Data Woes: Learn to Reset the Network Parameters on Your iOS Device for Optimal Connection</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175702238-stay-cool-with-style-grab-your-essential-top-tier-arctic-aio-cooler-now-and-save-big-with-just-a-74-payment/"><u>Stay Cool with Style: Grab Your Essential, Top-Tier Arctic AIO Cooler Now and Save Big with Just a $74 Payment</u></a></li>
+<li><a href="https://fox-that.techidaily.com/ultimate-guide-effortlessly-restarting-your-iphone-with-a-soft-reset/"><u>Ultimate Guide: Effortlessly Restarting Your iPhone with a Soft Reset</u></a></li>
+<li><a href="https://games-able.techidaily.com/xbox-offers-the-ultimate-redeeming-guide/"><u>Xbox Offers: The Ultimate Redeeming Guide</u></a></li>
 </ul></div>
 

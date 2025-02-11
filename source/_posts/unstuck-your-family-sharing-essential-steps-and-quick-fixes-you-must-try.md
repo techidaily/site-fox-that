@@ -1,7 +1,7 @@
 ---
 title: "Unstuck Your Family Sharing: Essential Steps & Quick Fixes You Must Try"
-date: 2025-01-29T05:06:49.464Z
-updated: 2025-01-29T22:29:42.896Z
+date: 2025-02-09T17:14:34.779Z
+updated: 2025-02-11T06:32:02.942Z
 tags:
   - iphone
   - apple
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/99663f80a681577ef6d172804500e3555c286bc17
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Check Apple's System Status Page
 
@@ -48,13 +52,13 @@ Here's how to turn it on using an iPhone or iPad:
 
 ![Family menu on iOS 16 Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/1.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Family purchase sharing prompt screen on iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/2.jpeg)
 
 ![Purchase Sharing menu displaying payment options and family members on iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/3-1.jpeg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Close
 
@@ -67,7 +71,7 @@ And here's how to do the same on a Mac:
 ![Purchase Sharing prompt in System Settings on macOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/purchase-sharing-prompt-in-system-settings-on-macos.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 This might fix your issue, but try the next step if it doesn't.
@@ -99,23 +103,19 @@ Here's a quick way to do it on your browser:
 
 ![Settings home screen on iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/1-1.jpeg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Media & Purchases sub-settings in Apple ID menu on iOS Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/2-1.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![Prompt to confirm Media & Purchases sign out on iOS Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/3-2.jpeg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Close
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Sign Out, Restart, and Sign In
 
@@ -131,10 +131,6 @@ Close
 
 ![Prompt to enter Apple ID password](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/2-prompt-to-enter-apple-id-password.jpeg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![iOS Settings with Apple ID signed out](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/ios-settings-with-apple-id-signed-out.jpeg)
 
 Close
@@ -149,7 +145,7 @@ If the problematic device is a Mac, do this instead:
 ![System Settings Apple ID page displaying sign out button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/system-settings-apple-id-page-displaying-sign-out-button.jpeg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  This should refresh the App Store and other apps, and it should now recognize that the signed-in Apple ID has access to the shared subscriptions.
@@ -166,7 +162,15 @@ Here's how to do it on iOS and iPadOS:
 
 ![Family menu on iOS 16 Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/1.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Faizah's Family menu displaying option to Remove Faizah from Family](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/faizah-s-family-menu-displaying-option-to-remove-faizah-from-family.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -179,10 +183,6 @@ If you're on a Mac, follow these steps instead:
 ![Family member sub-window in System Settings on macOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/family-member-sub-window-in-system-settings-on-macos.jpeg)
 
  If you want to learn more about managing your family members, you can read our guide on [how to stop using Apple Family](https://www.makeuseof.com/how-to-stop-apple-family-sharing-or-remove-members/) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Check Payments if All Else Fails
 
@@ -207,24 +207,14 @@ If you're on a Mac, follow these steps instead:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-cutting-edge-tools-the-best-9-gif-recorders-for-animated-windows-content/"><u>[Updated] 2024 Approved Cutting-Edge Tools The Best 9 GIF Recorders for Animated Windows Content</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-from-novice-to-pro-screen-record-mastery-on-hp/"><u>[Updated] From Novice to Pro Screen Record Mastery on HP</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-metaverse-and-multimeva-a-comparative-study-of-features/"><u>[Updated] In 2024, Metaverse and Multimeva A Comparative Study of Features</u></a></li>
-<li><a href="https://fox-that.techidaily.com/10-proven-methods-to-repair-silent-or-fuzzy-sounds-from-your-airpods/"><u>10 Proven Methods to Repair Silent or Fuzzy Sounds From Your AirPods</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/best-free-apple-iphone-xr-imei-checker-by-drfone-ios/"><u>Best Free Apple iPhone XR IMEI Checker</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721457945025-cant-use-chatgpt-on-iphone-here-are-9-fixes-to-get-it-up-and-running-again/"><u>Can't Use ChatGPT on iPhone? Here Are 9 Fixes to Get It Up and Running Again</u></a></li>
-<li><a href="https://facebook.techidaily.com/dissecting-facebooks-internal-network-design/"><u>Dissecting Facebook's Internal Network Design</u></a></li>
-<li><a href="https://facebook.techidaily.com/from-rare-to-revelled-elevate-group-notoriety-on-fb/"><u>From Rare to Revelled: Elevate Group Notoriety on FB</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-teleport-your-gps-location-on-honor-x50iplus-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Honor X50i+? | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-gt-3-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Realme GT 3 Phone without PIN</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-vlc-recordings-tips-and-tricks/"><u>In 2024, VLC Recordings Tips and Tricks</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721463002122-iphone-volume-buttons-failing-to-function-apply-these-7-fixes-now/"><u>IPhone Volume Buttons Failing to Function? Apply These 7 Fixes Now</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/most-asked-questions-about-pokemon-go-battle-league-rewards-on-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>Most Asked Questions about Pokemon Go Battle League Rewards On Apple iPhone SE (2022) | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721465965086-overcome-iphone-and-icloud-connection-woes-with-these-9-fixes/"><u>Overcome iPhone and iCloud Connection Woes with These 9 Fixes!</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721469538416-quick-fixes-for-iphones-that-wont-make-a-sound-effective-solutions/"><u>Quick Fixes for iPhones That Won't Make a Sound - Effective Solutions!</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721459541690-trouble-with-iphone-cloud-sync-here-are-9-solutions/"><u>Trouble with iPhone Cloud Sync? Here Are 9 Solutions</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721454226068-trouble-with-iphone-cloud-syncing-discover-9-tactics-to-restore-your-icloud-backups/"><u>Trouble with iPhone Cloud Syncing? Discover 9 Tactics to Restore Your iCloud Backups!</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721475399343-unable-to-link-up-with-vpn-on-iphone-try-these-7-proven-fixes-today/"><u>Unable to Link Up With VPN on iPhone? Try These 7 Proven Fixes Today</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721476462821-unlock-the-secrets-to-restoring-sms-functionality-on-your-iphone-top-tips-revealed/"><u>Unlock The Secrets to Restoring SMS Functionality On Your iPhone - Top Tips Revealed</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-skyrocketing-performance-boosting-ram-in-minecraft/"><u>[Updated] 2024 Approved Skyrocketing Performance Boosting RAM in Minecraft</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-enhancing-visual-impact-a-guide-to-jump-cut-techniques-for-2024/"><u>[Updated] Enhancing Visual Impact A Guide to Jump Cut Techniques for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/6-common-problems-with-iphones-look-up-functionality-solutions-inside/"><u>6 Common Problems with iPhone's Look Up Functionality – Solutions Inside</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-from-your-iphone-6-plus-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code From your iPhone 6 Plus</u></a></li>
+<li><a href="https://fox-that.techidaily.com/imessage-blocker-detection-tips-how-to-tell-if-your-message-recipient-has-restricted-communication-with-you/"><u>IMessage Blocker Detection Tips: How to Tell if Your Message Recipient Has Restricted Communication with You</u></a></li>
+<li><a href="https://fox-that.techidaily.com/retrieving-your-iphone-pictures-in-icloud-8-essential-fixes-for-accidental-deletes/"><u>Retrieving Your iPhone Pictures in iCloud: 8 Essential Fixes for Accidental Deletes</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-tutorial-for-updating-your-intel-gen9-iris-graphics-54er-with-latest-driver-software/"><u>Step-by-Step Tutorial for Updating Your Intel Gen9 Iris Graphics 54Er with Latest Driver Software</u></a></li>
+<li><a href="https://fox-that.techidaily.com/tackling-iphone-photography-troubles-a-guide-with-8-essential-fixes/"><u>Tackling iPhone Photography Troubles: A Guide with 8 Essential Fixes</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/the-affordable-gaming-companion-an-in-depth-look-at-the-nintendo-switch-lite-edition/"><u>The Affordable Gaming Companion: An In-Depth Look at the Nintendo Switch Lite Edition</u></a></li>
 </ul></div>
 

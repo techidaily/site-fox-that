@@ -1,7 +1,7 @@
 ---
 title: "Fix: Why Are You Seeing Phone Numbers Instead of Names on Your Messages?"
-date: 2024-08-15T11:53:50.495Z
-updated: 2024-08-16T11:53:50.495Z
+date: 2025-02-05T11:27:48.507Z
+updated: 2025-02-11T10:21:50.964Z
 tags:
   - iphone
   - apple
@@ -31,13 +31,18 @@ thumbnail: https://thmb.techidaily.com/8f13b229b4309cc607ca12c22275ed95f06f33bc5
  However, this is usually a temporary issue and should fix itself. If this isn't the case, you can try a few quick fixes to get things back to normal quickly.
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Restart Your iPhone
 
  A quick fix to getting your contact names back instead of phone numbers is to [restart your iPhone](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) . As with many other issues, a quick reboot usually does the trick, and you should be able to see your contact names instead of phone numbers in Messages.
 
  In the case that this doesn't work and you are still facing the same issue, follow the fixes below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Add or Remove the Country Code
 
@@ -50,12 +55,13 @@ thumbnail: https://thmb.techidaily.com/8f13b229b4309cc607ca12c22275ed95f06f33bc5
 3. Add the country code to the start of their phone number, using either the full format (0044) or the short format (+44). Make sure you get the right country code for their device, which should be what shows up in the Messages app.
 4. Click**Done** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Contact Edit menu in iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/contact-edit-menu-in-ios.jpg)
 
 ![Add Country Code to Number](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Fix-Messages-Not-Showing-Contact-Number.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -65,9 +71,6 @@ Close
 
  Once you fix a phone number, you'll see Messages will automatically merge the conversations split across different chats.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Toggle iCloud Contacts
 
  Some people have reported iCloud contacts being the reason behind this issue. If you are syncing your contacts with your iCloud account, it might be worth re-syncing them, which might fix the issue.
@@ -82,23 +85,22 @@ To do this, follow these steps on your iPhone:
 6. Wait for a few seconds and then turn**Contacts** back on. When you are asked, select**Merge** . This will merge all your contacts with your phone's contacts.
 7. Now, restart your device, and this should fix the issue.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![Settings on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Fix-Messages-Not-Showing-iCloud.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Password and Security in iPhone iCloud Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/2FA-iPhone-Password-and-Security.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![Contacts in iCloud Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Fix-Messages-Not-Showing-iCloud-Contacts.jpg)
 
 Close
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix Messages Showing Phone Numbers Instead of Contact Names
 
  Hopefully, these three fixes should fix the issue of the Messages app showing phone numbers instead of contact names, and you'll be able to resume your normal conservation with your friends and loved ones. If none of these tips work, you may want to contact Apple support to help you get it fixed.
@@ -109,8 +111,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -118,6 +118,19 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-the-full-spectrum-alliance-an-mcn-decision-blueprint/"><u>[New] In 2024, The Full Spectrum Alliance An MCN Decision Blueprint</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-proven-winners-selecting-the-best-hdr-cameras/"><u>[New] Proven Winners Selecting the Best HDR Cameras</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-elevate-your-storytelling-with-instagram-and-youtube-vids/"><u>[Updated] In 2024, Elevate Your Storytelling with Instagram & YouTube Vids</u></a></li>
+<li><a href="https://fox-that.techidaily.com/avoid-frustration-a-users-guide-to-solving-10-frequent-problems-with-apple-pay/"><u>Avoid Frustration: A User's Guide to Solving 10 Frequent Problems with Apple Pay</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-hidden-power-saving-and-memory-management-tools-in-google-chrome-now/"><u>Discover Hidden Power Saving & Memory Management Tools in Google Chrome Now!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exploring-new-horizons-a-guide-to-top-6-nft-innovators-for-2024/"><u>Exploring New Horizons A Guide to Top 6 NFT Innovators for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-logitech-racing-wheel-software-for-windows-11107-g27-full-drivers-download/"><u>Install Logitech Racing Wheel Software for Windows 11/10/7 - G27 Full Drivers Download</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/jriver-media-centre-non-microsoft-media-option/"><u>JRiver Media Centre Non-Microsoft Media Option</u></a></li>
+<li><a href="https://ai-video.techidaily.com/new-2024-approved-how-to-translate-audiovideo-content-from-spanish-to-english-and-vice-versa/"><u>New 2024 Approved How to Translate Audio/Video Content From Spanish to English and Vice Versa?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/silent-apple-troubleshooting-no-audio-output-on-your-iphone/"><u>Silent Apple: Troubleshooting No Audio Output on Your iPhone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-connection-issues-making-itunes-and-finder-recognize-your-iphone/"><u>Solving Connection Issues: Making iTunes & Finder Recognize Your iPhone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/step-by-step-fixes-for-dealing-with-error-14-on-iphones/"><u>Step-by-Step Fixes for Dealing with Error 14 on iPhones</u></a></li>
+</ul></div>
 

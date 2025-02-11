@@ -1,7 +1,7 @@
 ---
 title: Fix It Yourself! How to Boot Up an iPhone When Physical Keys Don't Work
-date: 2025-01-24T22:00:59.883Z
-updated: 2025-01-30T03:21:52.781Z
+date: 2025-02-07T05:15:41.357Z
+updated: 2025-02-10T18:40:13.926Z
 tags:
   - iphone
   - apple
@@ -28,7 +28,7 @@ thumbnail: https://thmb.techidaily.com/f74f161f0523579dd71e4de3d10404ac967ce66d0
 ![How to Restart iPhone With Face ID](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/how-to-restart-iphone-with-face-id.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Follow these steps to restart iPhone X, iPhone XR, or any newer model with a notch or [Dynamic Island](https://www.makeuseof.com/what-is-dynamic-island/) :
@@ -41,7 +41,7 @@ thumbnail: https://thmb.techidaily.com/f74f161f0523579dd71e4de3d10404ac967ce66d0
  You have successfully restarted your iPhone with Face ID. Enter the device passcode to unlock it and get to the Home Screen.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Restart an iPhone With a Home Button
@@ -61,7 +61,15 @@ You have successfully restarted your iPhone with a Home button.
 
 ![How to Restart iPhone With Top Power Button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/how-to-restart-iphone-with-top-power-button.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you're using iPhone SE (1st generation), 5S, 5C, 5, 4S, 4, or earlier models, the steps are the same as above (for devices with the Home button). Just make sure to press the**Power button** on the top of the device instead.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Restart an iPhone if the Buttons Are Broken or Not Working
 
@@ -70,7 +78,7 @@ You have successfully restarted your iPhone with a Home button.
  This comes in handy if your iPhone buttons are broken or not working for any reason. It can also be helpful if you're unable to press and hold the buttons.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Restart an iPhone From the Settings App
@@ -86,17 +94,9 @@ You have successfully restarted your iPhone with a Home button.
 
 ![iPhone Settings app showing Shut Down](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/iphone-settings-app-showing-shut-down.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![iPhone Power off screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/iphone-power-off-screen.png)
 
 Close
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to Restart an iPhone Using Siri
 
@@ -136,18 +136,17 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-accelerated-image-viewer-in-windows-environment/"><u>[New] In 2024, Accelerated Image Viewer in Windows Environment</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ltimate-youtube-watch-list-highest-watched-in-24-hours/"><u>[New] Ultimate YouTube Watch List Highest-Watched in 24 Hours</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-firefoxvidrecorder-plugins/"><u>[Updated] FirefoxVidRecorder Plugins</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-the-social-media-whizs-playbook-analyzing-user-behavior-with-insta-insights/"><u>[Updated] In 2024, The Social Media Whiz's Playbook Analyzing User Behavior with Insta Insights</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unlocking-video-editing-on-windows-11-for-professionals/"><u>[Updated] Unlocking Video Editing on Windows 11 for Professionals</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/are-torrent-downloads-from-the-pirate-bay-secure-and-legal/"><u>Are Torrent Downloads From The Pirate Bay Secure and Legal?</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/budget-friendly-powerhouse-in-depth-look-at-the-zte-blade-a3y/"><u>Budget-Friendly Powerhouse: In-Depth Look at the ZTE Blade A^3Y</u></a></li>
-<li><a href="https://extra-information.techidaily.com/canvas-beats-the-art-of-cropping-and-editing-video-sound-for-2024/"><u>Canvas Beats The Art of Cropping and Editing Video Sound for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fix-liquid-intrusion-alert-in-apple-iphones-using-usb-c-connector/"><u>Fix Liquid Intrusion Alert in Apple iPhones Using USB-C Connector</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Vivo Y78+? | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/reviving-your-iphone-without-physical-controls-a-comprehensive-guide/"><u>Reviving Your iPhone Without Physical Controls: A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-that.techidaily.com/top-8-solutions-to-resolve-iphone-photo-gallery-glitches/"><u>Top 8 Solutions to Resolve iPhone Photo Gallery Glitches</u></a></li>
-<li><a href="https://fox-that.techidaily.com/uneven-earbud-volume-try-these-4-fixes-to-balance-your-airpods-sound/"><u>Uneven Earbud Volume? Try These 4 Fixes to Balance Your AirPods Sound</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-top-picks-for-novice-gopro-enthusiasts/"><u>[Updated] Top Picks for Novice GoPro Enthusiasts</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-unique-vlogging-conversation-pieces/"><u>2024 Approved Unique Vlogging Conversation Pieces</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effectively-embedding-or-linking-excel-data-in-your-presentations-with-these-easy-steps/"><u>Effectively Embedding or Linking Excel Data in Your Presentations with These Easy Steps</u></a></li>
+<li><a href="https://fox-that.techidaily.com/headphone-hold-up-try-these-8-tricks-to-free-up-your-iphones-audio-functionality/"><u>Headphone Hold-Up? Try These 8 Tricks to Free Up Your iPhone's Audio Functionality</u></a></li>
+<li><a href="https://fox-that.techidaily.com/master-control-over-your-airpod-pairings-avoid-unwanted-auto-switching-with-these-techniques/"><u>Master Control Over Your AirPod Pairings: Avoid Unwanted Auto-Switching with These Techniques</u></a></li>
+<li><a href="https://fox-that.techidaily.com/prevent-your-airpods-from-automatically-connecting-to-multiple-iphones-or-macs-a-step-by-step-guide/"><u>Prevent Your AirPods From Automatically Connecting to Multiple iPhones or Macs: A Step-by-Step Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-persistent-microsoft-edge-malfunctions-in-windows-11-a-comprehensive-guide/"><u>Resolving Persistent Microsoft Edge Malfunctions in Windows 11: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolving-your-iphones-imessage-signed-out-dilemma-a-step-by-step-guide/"><u>Resolving Your iPhone's iMessage 'Signed Out' Dilemma: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-liquid-damage-warnings-a-step-by-step-guide-for-iphone-usb-c-ports/"><u>Solving 'Liquid Damage' Warnings: A Step-by-Step Guide for iPhone USB-C Ports</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/the-editors-guide-to-age-old-vhs-effects-in-digital-video-production-for-2024/"><u>The Editor's Guide to Age-Old VHS Effects in Digital Video Production for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-how-to-fix-davinci-resolve-not-launching-in-windows/"><u>Troubleshooting Guide: How to Fix DaVinci Resolve Not Launching in Windows</u></a></li>
+<li><a href="https://win-trending.techidaily.com/unveiling-pivotal-moments-in-history-dating-the-commencement-of-the-initial-opium-conflict-analyzed-by-yl-computing-specialists/"><u>Unveiling Pivotal Moments in History: Dating the Commencement of the Initial Opium Conflict – Analyzed by YL Computing Specialists</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Can't Get Texts on Your iPhone? Fix Apple's Cross-Platform SMS Problem with Ease
-date: 2024-08-15T11:51:39.849Z
-updated: 2024-08-16T11:51:39.849Z
+date: 2025-02-10T07:25:20.995Z
+updated: 2025-02-10T21:50:23.589Z
 tags:
   - iphone
   - apple
@@ -23,8 +23,9 @@ thumbnail: https://thmb.techidaily.com/d168a05f3f195d26d6b5e0381b43203121c261c3d
  Your browser does not support the video tag.
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Make Sure MMS and Group Messaging Are Enabled
 
  While all iPhones can receive text messages by default, some might have MMS and Group Messaging disabled. If an Android user sends a picture, emoji, sticker, or group message, you won't receive it on your iPhone until the MMS and Group Messaging options are enabled.
@@ -33,12 +34,13 @@ thumbnail: https://thmb.techidaily.com/d168a05f3f195d26d6b5e0381b43203121c261c3d
 
  To enable MMS Messaging and Group Messaging, head to**Settings** \>**Messages** \>**MMS** **Messaging** and turn this on. Then, turn on**Group Messaging** , which is right below.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![mms messages](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/mms-messages.jpg)
 
  This is the most common fix for this issue, but if this doesn't work, there are still several more fixes you can try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Make Sure the Number Isn't Blocked
 
@@ -56,24 +58,23 @@ thumbnail: https://thmb.techidaily.com/d168a05f3f195d26d6b5e0381b43203121c261c3d
 
  To delete messages, head to the Messages app and tap**Edit** \>**Select Messages** and delete any messages you don't need.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![select messages](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/select-messages.jpg)
 
  Once you delete these messages, try to get someone with an Android phone to send you another text message. If you receive it, then this was the issue, and you're good to go. If not, try the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Update Your Carrier Settings
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![carrier settings about](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/carrier-settings-about.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ![carrier update page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/carrier-update-page.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -82,17 +83,15 @@ Close
  To update your carrier settings on your iPhone, head to**Settings > General > About** and wait for a few seconds to see if you get an update pop-up. And if you do, you can simply tap the**Update** button to install it.
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Reset Your iPhone's Network Settings
 
 ![iPhone reset page in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/iphone-reset-page.jpg)
 
 ![iphone choose reset](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/iphone-choose-reset.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ![reset network settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/reset-network-settings.jpg)
 
 Close
@@ -125,8 +124,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -134,6 +131,20 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-ideal-illustration-tools-for-windows-no-cost-high-prices/"><u>[New] 2024 Approved Ideal Illustration Tools for Windows No Cost, High Prices</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-logitech-4k-pro-webcam-complete-review/"><u>[Updated] Logitech 4K Pro Webcam Complete Review</u></a></li>
+<li><a href="https://fox-that.techidaily.com/cant-identify-pictures-on-your-iphone-these-amongst-6-hurdles-could-explain-it/"><u>Can’t Identify Pictures on Your iPhone? These Amongst 6 Hurdles Could Explain It</u></a></li>
+<li><a href="https://fox-that.techidaily.com/correcting-the-error-of-iphones-being-ignored-by-itunesfinder-get-expert-guidance-now/"><u>Correcting the Error of iPhones Being Ignored by iTunes/Finder – Get Expert Guidance Now</u></a></li>
+<li><a href="https://win11.techidaily.com/disabling-disk-read-errors-with-ease-on-windows-os/"><u>Disabling Disk Read Errors with Ease on Windows OS</u></a></li>
+<li><a href="https://fox-that.techidaily.com/experiencing-lag-on-instagram-discover-these-6-remedies-to-enhance-your-app-speed-on-mobile-devices/"><u>Experiencing Lag on Instagram? Discover These 6 Remedies to Enhance Your App Speed on Mobile Devices</u></a></li>
+<li><a href="https://fox-that.techidaily.com/guide-resolving-the-issue-when-whatsapp-wont-back-up-to-your-icloud-account/"><u>Guide: Resolving the Issue When WhatsApp Won't Back Up To Your iCloud Account</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-repair-iphone-microphone-malfunctions-with-these-simple-tips/"><u>How to Repair iPhone Microphone Malfunctions with These Simple Tips</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-capture-the-world-from-your-mobile-height/"><u>In 2024, Capture the World From Your Mobile Height</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-nubia-z50s-pro-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Nubia Z50S Pro without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/1715701090865-seeking-authentic-ps2-play-check-out-the-5-best-android-simulators/"><u>Seeking Authentic PS2 Play? Check Out the 5 Best Android Simulators!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-tutorial-downloading-and-installing-displaylink-for-win11/"><u>Step-by-Step Tutorial: Downloading & Installing DisplayLink for Win11</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-iphone-event-dropouts-what-steps-to-take/"><u>Troubleshooting iPhone Event Dropouts - What Steps to Take?</u></a></li>
+</ul></div>
 

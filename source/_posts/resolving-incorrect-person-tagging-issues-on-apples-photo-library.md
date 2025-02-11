@@ -1,7 +1,7 @@
 ---
 title: Resolving Incorrect Person Tagging Issues on Apple's Photo Library
-date: 2024-08-15T11:50:41.277Z
-updated: 2024-08-16T11:50:41.277Z
+date: 2025-02-10T10:01:26.268Z
+updated: 2025-02-11T04:59:15.818Z
 tags:
   - iphone
   - apple
@@ -19,8 +19,9 @@ thumbnail: https://thmb.techidaily.com/d77d95aa486b91c6469c5ee9cc4e937e8d3af5aa5
  Here's how you can review photos of identified people in the Photos app and fix any cases of mistaken identity, where your iPhone has tagged one person as someone else.
 
 <!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Review People in Photos on an iPhone or iPad
 
  To search for any misidentified photos of someone, you should first review your confirmed and uncategorized photos for that person to help your device learn what each person is supposed to look like. Here's how to do that:
@@ -35,17 +36,23 @@ thumbnail: https://thmb.techidaily.com/d77d95aa486b91c6469c5ee9cc4e937e8d3af5aa5
 ![review more photos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/review-more-photos.PNG)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![confirm person](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/confirm-person.PNG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
  Read More:[Tips That Will Help You Master the People Album in Photos](https://www.makeuseof.com/tips-to-master-people-album-photos-iphone/)
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Fix Misidentified People in Photos on iPhone or iPad
 
  If your iPhone has misidentified someone in a photo, they won't show up when you search for them and instead Photos will save pictures of them in someone else's album. What's more, that person—who might be a stranger—will show up in the People album for whoever your iPhone thinks they are! Here's how to fix it:
@@ -58,16 +65,13 @@ Close
 ![select photos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/select-photos.PNG)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![this is not X option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/this-is-not-X-option.PNG)
 
 Close
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Fix Misidentified People in Photos on a Mac
 
  Removing photos from another person's album on a Mac is just as easy as it is on your iPhone. Follow these steps to do so:
@@ -80,23 +84,17 @@ Close
 
 ![Person is not in this photo option in Photos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/Person-is-not-in-this-photo-option-in-Photos.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Easily Sort Pictures With the People Album
 
  The People album in Photos is a great way to view your photo library in an organized way. You can easily look back at all your memories with a particular person without needing to scroll past a sea of unrelated pictures.
 
  However, having misidentified photos in the wrong albums can be quite a nuisance to deal with. Fortunately, the problem has a relatively quick and easy fix. You can review uncategorized photos to avoid the problem in the future, and you can remove any mismatched pictures you stumble across using the Share button.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -105,6 +103,23 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-breaking-down-sony-bdp-s6700-updates/"><u>[New] Breaking Down Sony BDP-S6700 Updates</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-optimizing-youtube-banners-with-best-practices-in-mind/"><u>[Updated] In 2024, Optimizing YouTube Banners with Best Practices in Mind</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-the-most-popular-anime-themed-tiktok-videos-of-all-time-for-2024/"><u>[Updated] The Most Popular Anime-Themed TikTok Videos of All Time for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ce-your-channels-voice-dive-into-the-world-of-banner-makers-apps/"><u>Enhance Your Channel's Voice Dive Into the World of Banner Makers (Apps)</u></a></li>
+<li><a href="https://win-community.techidaily.com/fix-your-windows-update-issues-top-strategies-for-windows-10-and-11-revamp/"><u>Fix Your Windows Update Issues – Top Strategies for Windows 10 & 11 Revamp</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-restore-auto-brightness-functionality-in-your-iphone-a-step-by-step-guide/"><u>How to Restore Auto-Brightness Functionality in Your iPhone - A Step-by-Step Guide</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-oppo-reno-10-5g-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on Oppo Reno 10 5G and Browser | Dr.fone</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/mp3-conversion-from-youtube-on-macos-how-to-access-endless-songs-on-iphone-and-macbooks/"><u>MP3 Conversion From YouTube on macOS: How to Access Endless Songs on iPhone & MacBooks</u></a></li>
+<li><a href="https://fox-that.techidaily.com/navigating-common-icloud-hurdles-and-fixes-for-apple-tabletsphones/"><u>Navigating Common iCloud Hurdles and Fixes for Apple Tablets/Phones</u></a></li>
+<li><a href="https://fox-access.techidaily.com/perfect-online-shopping-picks-for-one-of-a-kind-box-packaging/"><u>Perfect Online Shopping Picks for One-of-a-Kind Box Packaging</u></a></li>
+<li><a href="https://fox-that.techidaily.com/revitalize-your-non-responsive-tablet-screen-a-guide-with-8-key-techniques/"><u>Revitalize Your Non-Responsive Tablet Screen: A Guide with 8 Key Techniques</u></a></li>
+<li><a href="https://windows11.techidaily.com/solve-mystery-of-disappearing-hardware-in-winos/"><u>Solve Mystery of Disappearing Hardware in WinOS</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlock-the-potential-of-your-iphone-a-tutorial-on-force-reboot-and-recovery-setup/"><u>Unlock the Potential of Your iPhone: A Tutorial on Force Reboot and Recovery Setup</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlocking-trouble-free-performance-why-rebooting-your-phone-matters/"><u>Unlocking Trouble-Free Performance: Why Rebooting Your Phone Matters</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unseen-alerts-on-your-apple-device-find-relief-with-these-aturinseven-fixes/"><u>Unseen Alerts on Your Apple Device? Find Relief With These Aturinseven Fixes!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/why-are-my-iphone-pictures-still-here-top-8-fixes-for-remaining-pics/"><u>Why Are My iPhone Pictures Still Here? - Top 8 Fixes for Remaining Pics</u></a></li>
+</ul></div>
 

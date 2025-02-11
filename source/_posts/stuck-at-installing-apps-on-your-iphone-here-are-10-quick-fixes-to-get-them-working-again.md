@@ -1,7 +1,7 @@
 ---
 title: Stuck at Installing Apps on Your iPhone? Here Are 10 Quick Fixes to Get Them Working Again.
-date: 2024-08-15T11:54:37.516Z
-updated: 2024-08-16T11:54:37.516Z
+date: 2025-02-09T06:32:33.474Z
+updated: 2025-02-10T16:34:16.797Z
 tags:
   - iphone
   - apple
@@ -16,15 +16,16 @@ thumbnail: https://thmb.techidaily.com/1417e9674a479dcdfdd7fe1ffab0e26b723730f6b
 
  Your iPhone isn't much good as a smartphone if it can't download apps from the App Store. Usually, grabbing an app is as simple as tapping the download button, but when that doesn't work, there are several steps you can use to force an app to download on your iPhone.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Won't My iPhone Apps Download?
 
  There are several reasons your iPhone might not let you download any apps, from problems with your internet connection to a lack of storage on your device. Whatever the reason, you can use the troubleshooting steps below to fix it. We've listed them starting with the most common issues, that are the quickest to fix, so just work your way down the list to start downloading apps on your iPhone again.
 
 ## 1\. Test Your Internet Connection
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Cellular settings with App Store turned on](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2019/12/Cellular-settings-with-App-Store-turned-on.jpg)
 
  For your iPhone to download apps from the App Store, it needs a working internet connection. Most of the time, you should connect to Wi-Fi, since cellular downloads use up your data allowance and often only let you download apps smaller than 200MB.
@@ -48,8 +49,9 @@ When this happens, an alert should pop up saying "Not Enough Storage."
  Go to**Settings > General > iPhone Storage** to see how much free space you have and take a look at which apps are using the most. There are plenty of ways to [create more free space on your iPhone](https://www.makeuseof.com/tag/iphone-storage-full-create-free-space-ios/) if you need to, such as offloading apps, uploading photos to the cloud, or deleting junk that you no longer need. You can do all of this from the iPhone storage settings.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Update Your Apple ID Details
 
 ![Apple ID Payment Information page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2019/12/Apple-ID-Payment-Information-page.jpg)
@@ -63,8 +65,9 @@ Update your Apple ID details from the iPhone Settings app:
 3. Lastly, tap**Add Payment Method** to add a payment method, or use**Edit** to edit your existing methods.
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Change the Date and Time
 
 ![Date & Time Settings with Set Automatically option in settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2019/12/Date-Time-Settings-with-Set-Automatically-option-in-settings.jpg)
@@ -92,9 +95,17 @@ To edit your restrictions:
    1. Tap**iTunes & App Store Purchases > Installing Apps** .  
    2. Select**Allow** to enable installing apps.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Pause and Resume Your App Download
 
 ![Quick Action menu for downloading app with pause and prioritize options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2019/12/Quick-Action-menu-for-downloading-app-with-pause-and-prioritize-options.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Sometimes, if your iPhone won't download apps, all you need to do to fix it is pause the download, then resume it again. You can do this from the Home Screen on your device.
 
@@ -105,13 +116,11 @@ To edit your restrictions:
  Alternatively, you have the option to**Prioritize Download** from the quick-action menu. This is a good idea if your iPhone is downloading other content as well, since it prioritizes this app above all other downloads.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Sign Out of the App Store, Then Sign In Again
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Apple Sign In window for iPhone App Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2019/12/Apple-Sign-In-window-for-iPhone-App-Store.jpg)
 
  Like pausing and resuming downloads, you can fix a lot of software bugs by signing in to the App Store again. This often reveals issues with your Apple ID account, like an incorrect password or username.
@@ -125,14 +134,8 @@ To sign out of the App Store:
 3. Confirm you want to**Sign Out** .
 4. Now tap**Media & Purchases** again and sign in with your Apple ID account.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 8\. Quit Every App and Restart Your iPhone
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![App Switcher view on iPhone with App Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2019/12/App-Switcher-view-on-iPhone-with-App-Store.jpg)
 
  After downloading an app to your iPhone, it might appear as a white icon with gray lines running through it. This happens when an app doesn't download or install correctly. You can usually fix it by restarting your device. This step can also be useful if your iPhone won't download any apps from the App Store, since you'll also restart the App Store itself.
@@ -143,11 +146,12 @@ To sign out of the App Store:
 
  Wait 30 seconds after it powers off before pressing the**Side** or**Sleep/Wake** button again to restart it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 9\. Delete the App, Then Download It Again
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Delete Minecraft iPhone popup alert](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2019/12/Delete-Minecraft-iPhone-popup-alert.jpg)
 
  Sometimes a download becomes so corrupted that the only way to fix it is deleting the half-downlaoded app and downloading it again from scratch. If you never used the app before, there's nothing to lose from doing this.
@@ -160,19 +164,11 @@ To sign out of the App Store:
 
 ## 10\. Make Sure the App Works With Your iPhone
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![App Store Information with Compatibility details](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2019/12/App-Store-Information-with-Compatibility-details.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Sometimes, you can't download or install an app because it's not compatible with your device. This might happen when the app depends on a piece of hardware your iPhone doesn't have—like Face ID or dual cameras—or when the app developer discontinues support for older versions of iOS.
 
@@ -194,8 +190,6 @@ To sign out of the App Store:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -203,6 +197,20 @@ To sign out of the App Store:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-boost-video-quality-on-youtube-the-essential-webcams-guide-for-2024/"><u>[New] Boost Video Quality on YouTube - The Essential Webcams Guide for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-ultimate-arena-crafting-the-quintessential-7-total-war-tactics/"><u>2024 Approved Ultimate Arena Crafting the Quintessential 7 Total War Tactics</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/caution-your-data-and-chatgpt-on-mobile/"><u>Caution: Your Data & ChatGPT on Mobile</u></a></li>
+<li><a href="https://fox-that.techidaily.com/comprehensive-fixes-overcoming-the-challenge-of-disconnected-steam-clients/"><u>Comprehensive Fixes: Overcoming the Challenge of Disconnected Steam Clients</u></a></li>
+<li><a href="https://video-capture.techidaily.com/get-pcs-audio-capture-tool-x-recorder-for-2024/"><u>Get PC's Audio Capture Tool X-Recorder for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/guidance-for-fixing-not-signed-in-mistakes-with-apples-messaging-service-on-ios/"><u>Guidance for Fixing 'Not Signed In' Mistakes with Apple's Messaging Service on iOS</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209971437-9781989838136-guided-meditations-for-deep-sleep-overcoming-anxiety-and-stress-relief/"><u>Guided Meditations For Deep Sleep, Overcoming Anxiety and Stress Relief | Free Book</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-infinix-note-30-5g-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Infinix Note 30 5G Phone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-solve-the-persistent-dark-screen-issue-on-iphones/"><u>How To Solve The Persistent Dark Screen Issue On iPhones</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-realme-11-pro-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Realme 11 Pro to Mac? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastering-screens-on-windows-with-best-no-cost-recorder-tools-for-2024/"><u>Mastering Screens on Windows with Best No-Cost Recorder Tools for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/roboix-crashing-with-low-memory-alert-heres-how-you-can-resolve-it-on-ios-devices/"><u>Roboix Crashing with Low Memory Alert? Here's How You Can Resolve It on iOS Devices</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solve-your-iphones-flashlight-woes-with-these-12-troubleshooting-steps/"><u>Solve Your iPhone's Flashlight Woes with These 12 Troubleshooting Steps</u></a></li>
+</ul></div>
 

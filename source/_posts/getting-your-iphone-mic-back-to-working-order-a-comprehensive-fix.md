@@ -1,7 +1,7 @@
 ---
 title: Getting Your iPhone Mic Back to Working Order - A Comprehensive Fix
-date: 2025-01-23T00:20:54.163Z
-updated: 2025-01-30T01:36:34.782Z
+date: 2025-02-06T19:36:04.368Z
+updated: 2025-02-11T00:42:36.915Z
 tags:
   - iphone
   - apple
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/bc4c1fafbeb0a4b8e3066f1ca761f451b6c08fbe8
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Find Out Which Microphone Isn't Working
@@ -31,17 +31,9 @@ thumbnail: https://thmb.techidaily.com/bc4c1fafbeb0a4b8e3066f1ca761f451b6c08fbe8
 
  Test each microphone by recording using Voice Memos (bottom microphone), making a phone call on speakers (front microphone), and recording a video (back microphone). If all the microphones aren't working, it's most likely a hardware issue. If only one microphone isn't working or sounds muffled, continue to the next step.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. iPhone Microphone Muffled or Muted? Try Cleaning It
 
 ![iphone clean speaker](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/iphone-clean-speaker.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Brent Dirks/[MakeUseOf](https://www.makeuseof.com/author/brentdirks/)
 
@@ -52,7 +44,7 @@ thumbnail: https://thmb.techidaily.com/bc4c1fafbeb0a4b8e3066f1ca761f451b6c08fbe8
  Isopropyl alcohol breaks up grime and dries fast, so it won't damage your iPhone. Try using the highest percentage of isopropyl alcohol you can find. While you're at it,[clean your entire iPhone thoroughly](https://www.makeuseof.com/tag/clean-iphone-guide/) if it's not in a good shape.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Disconnect From Bluetooth Devices
@@ -64,7 +56,7 @@ Close
  This is a common issue with those who use Bluetooth headphones like AirPods or smart home systems. Check if you're connected to a Bluetooth device by [opening your iPhone's Control Center](https://www.makeuseof.com/how-to-use-customize-control-center-iphone/) , then toggle Bluetooth off. Alternatively, tap and hold it to view all your connected devices.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Make Sure Apps Have Microphone Permissions
@@ -79,11 +71,19 @@ Close
 
 ![A guy holding AirPods Pro in charging case showing orange light](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/02/a-guy-holding-airpods-pro-in-charging-case-showing-orange-light.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Hamlin Rozario/[MakeUseOf](https://www.makeuseof.com/author/hamlin-rozario/)
 
  If you've tried all the above fixes but nothing is working, you can still use an external microphone with your iPhone. You can use this while you wait for a repair or even use an external microphone indefinitely if you can't afford a repair.
 
  Most headphones, including Apple's AirPods, have built-in microphones. Since they connect via your iPhone's Lightning/USB-C port or Bluetooth, you won't have to rely on the built-in microphones for most tasks.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Other Generic Fixes
 
@@ -110,24 +110,18 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/esign-principles-for-eye-catching-yt-previews/"><u>[New] Design Principles for Eye-Catching YT Previews</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-innovative-strategies-for-captivate-demonstrations-for-2024/"><u>[New] Innovative Strategies for Captivate Demonstrations for 2024</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/new-the-ultimate-path-to-tiktok-fun-for-macbook-owners-for-2024/"><u>[New] The Ultimate Path to TikTok Fun for MacBook Owners for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-canvas-and-chroma-mastering-color-interaction/"><u>[Updated] Canvas and Chroma Mastering Color Interaction</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fix-an-unresponsive-standby-mode-a-step-by-step-guide-for-iphone-users/"><u>Fix an Unresponsive Standby Mode: A Step-by-Step Guide for iPhone Users</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-keep-your-airpods-from-connecting-automatically-with-all-your-apple-gadgets/"><u>How To Keep Your AirPods From Connecting Automatically with All Your Apple Gadgets?</u></a></li>
-<li><a href="https://fox-that.techidaily.com/iphone-12-user-manual-navigating-through-its-12-most-prevalent-issues-and-fixing-them-easily/"><u>IPhone 12 User Manual: Navigating Through Its 12 Most Prevalent Issues and Fixing Them Easily</u></a></li>
-<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-lava-blaze-2-pro-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Lava Blaze 2 Pro? Fixed | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-messaging-a-comprehensive-guide-to-using-whatsapp-on-your-mac/"><u>Mastering Messaging: A Comprehensive Guide to Using WhatsApp on Your Mac</u></a></li>
-<li><a href="https://fox-that.techidaily.com/navigating-the-pitfalls-of-iphone-12-ultimate-troubleshooting-tips-and-fixes/"><u>Navigating the Pitfalls of iPhone 12 - Ultimate Troubleshooting Tips & Fixes</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/optimizing-performance-effective-ways-to-enhance-splitgates-frame-rate-and-reduce-stuttering/"><u>Optimizing Performance: Effective Ways to Enhance Splitgate’s Frame Rate & Reduce Stuttering</u></a></li>
-<li><a href="https://fox-that.techidaily.com/resolving-whatsapp-icloud-backup-problems-for-seamless-chat-history-syncing-on-iphone-and-ipad/"><u>Resolving WhatsApp iCloud Backup Problems for Seamless Chat History Syncing on iPhone and iPad</u></a></li>
-<li><a href="https://fox-that.techidaily.com/spot-the-clues-9-symptoms-of-h2o-damaged-iphones-revealed/"><u>Spot the Clues: 9 Symptoms of H2O-Damaged iPhones Revealed</u></a></li>
-<li><a href="https://fox-that.techidaily.com/stop-your-spotify-from-shutting-down-when-you-lock-your-iphone-top-fixes-and-workarounds/"><u>Stop Your Spotify From Shutting Down When You Lock Your iPhone - Top Fixes & Workarounds</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/streamlining-your-approach-to-youtube-community-dialogue-for-2024/"><u>Streamlining Your Approach to YouTube Community Dialogue for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/tackling-printer-connectivity-in-win11-hp/"><u>Tackling Printer Connectivity in Win11 (HP)</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/the-ultimate-selection-highest-rated-kids-films-from-2016/"><u>The Ultimate Selection: Highest-Rated Kids Films From 2016</u></a></li>
-<li><a href="https://fox-that.techidaily.com/top-8-solutions-for-iphone-photo-glitches-mastering-your-camera-roll/"><u>Top 8 Solutions for iPhone Photo Glitches: Mastering Your Camera Roll</u></a></li>
-<li><a href="https://fox-that.techidaily.com/ultimate-guide-resolving-recurring-issues-with-iphone-app-crashes-10-methods/"><u>Ultimate Guide: Resolving Recurring Issues with iPhone App Crashes (10 Methods)</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-logo-luminosity-enhancing-gaming-channels-with-designs/"><u>[New] In 2024, Logo Luminosity Enhancing Gaming Channels with Designs</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-restoring-streamlined-views-where-are-your-vids-for-2024/"><u>[New] Restoring Streamlined Views Where Are Your Vids for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-step-by-step-creating-a-skype-group-on-both-systems-for-2024/"><u>[New] Step-by-Step Creating a Skype Group on Both Systems for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-best-of-the-best-smartphone-ready-vr-headset-roundup/"><u>[Updated] 2024 Approved Best of the Best Smartphone-Ready VR Headset Roundup</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-gopro-and-ghost-s-face-off-in-racing-realities/"><u>[Updated] In 2024, GoPro and Ghost-S Face Off in Racing Realities</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-activation-lock-from-apple-iphone-15-pro-or-ipad-by-drfone-ios/"><u>How to Bypass Activation Lock from Apple iPhone 15 Pro or iPad?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-not-picking-up-calls-heres-how-you-can-fix-it/"><u>IPhone Not Picking Up Calls? Here's How You Can Fix It!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/no-more-silent-phone-uncover-7-fixes-for-non-appearing-iphone-notifications/"><u>No More Silent Phone: Uncover 7 Fixes for Non-Appearing iPhone Notifications</u></a></li>
+<li><a href="https://fox-that.techidaily.com/quick-solutions-overcoming-top-10-apple-pay-problems/"><u>Quick Solutions: Overcoming Top 10 Apple Pay Problems</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/strategies-for-purchasing-clear-visual-content/"><u>Strategies for Purchasing Clear Visual Content</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-7-frustrating-iphone-x-glitches-solutions-inside/"><u>Top 7 Frustrating iPhone X Glitches: Solutions Inside</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-guide-restoring-vibration-functionality-for-iphones-on-silent-or-ring-mode/"><u>Troubleshooting Guide: Restoring Vibration Functionality for iPhones on Silent or Ring Mode</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unveiling-10-key-triggers-behind-your-iphones-automatic-display-adjustment/"><u>Unveiling 10 Key Triggers Behind Your iPhone's Automatic Display Adjustment</u></a></li>
 </ul></div>
 

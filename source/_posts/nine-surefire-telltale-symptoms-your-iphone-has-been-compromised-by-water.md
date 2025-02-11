@@ -1,7 +1,7 @@
 ---
 title: Nine Surefire Telltale Symptoms Your iPhone Has Been Compromised by Water
-date: 2025-01-26T10:12:33.094Z
-updated: 2025-01-29T21:16:47.506Z
+date: 2025-02-07T07:58:40.497Z
+updated: 2025-02-11T03:18:16.575Z
 tags:
   - iphone
   - apple
@@ -27,19 +27,23 @@ thumbnail: https://thmb.techidaily.com/de7e32da454b1a64d1a9e174bd2f0af6c1c09ee74
 
 ![Foggy iPhone X photo of a man](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/05/foggy-iphone-x-photo-of-a-man.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  One of the first things you should do when inspecting a phone for any kind of damage is to check its cameras. They are sensitive pieces of hardware and are easily affected by scratches, drops, and water.
 
  When water finds its way into your camera, it can fog up the lens and affect the quality of your pictures. And the front camera is particularly prone to damage in this manner, especially if you have replaced the screen at some point in the phone's history.
 
  If you use your iPhone's camera and your pictures look like they're from a low-budget movie from the 50s, then it might be water-damaged. If you see a photo like this, turn off your phone and dry it thoroughly.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Face ID or Touch ID Malfunctioning
 
 ![iPhone with Face ID is not available message on the lock screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/iphone-with-face-id-is-not-available-message-on-the-lock-screen.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Apple's biometric security features are one of the features you could lose when your iPhone takes an unfortunate bath in water.
 
@@ -51,17 +55,21 @@ thumbnail: https://thmb.techidaily.com/de7e32da454b1a64d1a9e174bd2f0af6c1c09ee74
 
  Dirty water often contains all sorts of particles that can get into small gaps and block them. If you notice that the buttons on an iPhone feel stuck, make a grainy sound, or simply do not respond, then you could be holding a water-damaged iPhone.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Patches on the Display
 
 ![An iPhone X with a dark spot on its left bottom corner](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/05/an-iphone-x-with-a-dark-spot-on-its-left-bottom-corner.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you're unlucky, water could also affect your display and develop permanent patches. You might see signs of water under the display first before it slowly forms dark patches—making the affected area dimmer.
 
  Once you see signs of water under the display, dry the device and [back up all your iPhone's data](https://www.makeuseof.com/tag/how-to-backup-iphone-ipad/) . Whatever you do, do not put it in rice because that myth may accelerate your problem. If there's still a dark spot after your phone is dry, you might need to change the screen assembly.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Faulty Touchscreen and Flickering Display
 
@@ -71,13 +79,13 @@ thumbnail: https://thmb.techidaily.com/de7e32da454b1a64d1a9e174bd2f0af6c1c09ee74
 
  The phone's display module may have been affected by water. You should return it to Apple or an Apple Authorized Service Provider to replace that part of the screen.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Muffled Speakers
 
 ![iPhone 11 in the hands of a woman with volume control options on the screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/iphone-11-in-the-hands-of-a-woman-with-volume-control-options-on-the-screen.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Another clear sign that an iPhone is water-damaged is muffled speakers. If you want to purchase a used phone, after checking the cameras, you should play some sounds on the speakers to see what it sounds like.
 
@@ -97,17 +105,9 @@ thumbnail: https://thmb.techidaily.com/de7e32da454b1a64d1a9e174bd2f0af6c1c09ee74
 
 ![Plugged-in iPhone resting on a black surface](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/plugged-in-iphone-resting-on-a-black-surface.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  In most scenarios where a phone falls into some water, it will likely be dirty water. And dirty water could contain all sorts of things like sand, mud, or other icky particles. These particles can get into your phone's charging port and block the pins. When the pins are blocked in this manner, your charger might not be able to fully nest in your phone, stopping your phone from charging properly or charging at all.
 
  If your phone falls in muddy water, try to remove mud from the charging port as quickly as possible. When your phone dries, give the charging port a thorough clean. You can check our guide on [how to clean your dirty iPhone](https://www.makeuseof.com/tag/clean-iphone-guide/) for better assistance with that.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 9\. Strange Smells
 
@@ -140,20 +140,20 @@ thumbnail: https://thmb.techidaily.com/de7e32da454b1a64d1a9e174bd2f0af6c1c09ee74
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-efficiently-configuring-zoom-for-flawless-calls/"><u>[New] 2024 Approved Efficiently Configuring Zoom for Flawless Calls</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-mastering-the-art-of-frames-with-top-rated-tools-24/"><u>[New] Mastering the Art of Frames with Top-Rated Tools '24</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-the-quest-for-the-best-framerate-balancing-speed-and-clarity/"><u>[Updated] 2024 Approved The Quest for the Best Framerate - Balancing Speed & Clarity</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-budgeting-for-effective-youtube-marketing/"><u>2024 Approved Budgeting for Effective YouTube Marketing</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-hidden-melodic-markers-ios-and-android-recording-app-overview/"><u>2024 Approved Hidden Melodic Markers IOS & Android Recording App Overview</u></a></li>
-<li><a href="https://fox-that.techidaily.com/bypassing-apples-blocked-payment-gateway-a-list-of-6-troubleshooting-steps/"><u>Bypassing Apple's Blocked Payment Gateway: A List of 6 Troubleshooting Steps</u></a></li>
-<li><a href="https://fox-that.techidaily.com/cant-update-your-iphone-or-ipad-9-ways-to-fix-it/"><u>Can't Update Your iPhone or iPad? 9 Ways to Fix It</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-your-apple-iphone-6s-location-on-twitter-drfone-by-drfone-virtual-ios/"><u>How to Change your Apple iPhone 6s Location on Twitter | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/immediate-fixes-reviving-your-imessage-on-apples-mobile-gadgets-and-personal-computers/"><u>Immediate Fixes: Reviving Your iMessage on Apple's Mobile Gadgets & Personal Computers</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/lossless-restoration-software-android-edition/"><u>Lossless Restoration Software: Android Edition</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/new-update-all-graphics-hardware-compatible-with-overwatch/"><u>New Update: All Graphics Hardware Compatible with Overwatch</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solve-your-iphones-invisibility-problem-with-these-itunes-and-finder-fixes/"><u>Solve Your iPhone's Invisibility Problem with These ITunes and Finder Fixes</u></a></li>
-<li><a href="https://fox-that.techidaily.com/struggling-with-iphoneipad-software-updates-discover-9-reliable-solutions/"><u>Struggling with iPhone/iPad Software Updates? Discover 9 Reliable Solutions!</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721457254046-the-critical-need-for-instant-installation-of-ios-153-heres-why/"><u>The Critical Need for Instant Installation of iOS 15.3 – Here's Why!</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/ultimate-instruction-manual-on-retrieving-songs-and-sound-recordings-from-an-sd-memory-stick/"><u>Ultimate Instruction Manual on Retrieving Songs and Sound Recordings From an SD Memory Stick</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-the-revolution-of-filmmaking-discovering-yis-4k-hero-series/"><u>[New] In 2024, The Revolution of Filmmaking Discovering Yi's 4K Hero Series</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-chronological-clarity-in-your-photographic-work/"><u>[Updated] Chronological Clarity in Your Photographic Work</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-the-samsung-revolution-diving-deep-into-the-ue590-monitor-review/"><u>[Updated] In 2024, The Samsung Revolution - Diving Deep Into the UE590 Monitor Review</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/descubra-el-secreto-para-transformar-videos-mkv-a-mp4-con-rapidez-manteniendo-intacta-su-alta-calidad-visual/"><u>Descubra El Secreto Para Transformar Vídeos MKV a MP4 Con Rapidez, Manteniendo Intacta Su Alta Calidad Visual</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/138619864-9781633411272-evil-archaeology/"><u>Evil Archaeology | Free Book</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-call-history-on-lava-blaze-2-5g-by-fonelab-android-recover-call-logs/"><u>How to restore wiped call history on Lava Blaze 2 5G?</u></a></li>
+<li><a href="https://win-top.techidaily.com/how-to-swiftly-detect-and-exclude-your-address-from-spam-filters-using-massmail-techniques/"><u>How to Swiftly Detect & Exclude Your Address From Spam Filters Using Massmail Techniques</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-update-your-iphone-emails-overcoming-sync-and-update-problems/"><u>How to Update Your iPhone Emails: Overcoming Sync and Update Problems</u></a></li>
+<li><a href="https://fox-that.techidaily.com/mastering-iphone-maintenance-15-vital-troubleshooting-strategies/"><u>Mastering iPhone Maintenance: 15 Vital Troubleshooting Strategies</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/movavimpeg-swf/"><u>Movaviと一緒に、ストリーミングMPEG SWF変更サービス - 今すぐ始めよう!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/no-more-password-worries-learn-to-change-your-ios-and-mac-screen-time-passcode-today/"><u>No More Password Worries: Learn to Change Your iOS & Mac Screen Time Passcode Today</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/secure-image-privacy-with-blur-features/"><u>Secure Image Privacy with Blur Features</u></a></li>
+<li><a href="https://fox-that.techidaily.com/ultimate-iphone-repair-techniques-a-list-of-15-must-know-tips/"><u>Ultimate iPhone Repair Techniques: A List of 15 Must-Know Tips</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unresponsive-ios-display-discover-these-7-reasons-why-your-iphone-screen-may-not-be-working/"><u>Unresponsive iOS Display? Discover These 7 Reasons Why Your iPhone Screen May Not Be Working</u></a></li>
+<li><a href="https://fox-that.techidaily.com/why-wont-the-picture-analysis-function-work-on-your-iphone-camera/"><u>Why Won't the Picture Analysis Function Work on Your iPhone Camera?</u></a></li>
 </ul></div>
 

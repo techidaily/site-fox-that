@@ -1,7 +1,7 @@
 ---
 title: "How to Fix: When Your iPhone Shows Phone Numbers Not Names in Messages"
-date: 2025-01-28T10:14:14.398Z
-updated: 2025-01-30T05:14:39.960Z
+date: 2025-02-10T09:05:10.783Z
+updated: 2025-02-10T20:39:12.352Z
 tags:
   - iphone
   - apple
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/a7b063e2c5f1e938dc6e32e2ce85c52239dfc8e77
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Does Your Contact Name Disappear?
 
  When you initially see the Messages app showing a phone number instead of a contact name, you may think someone random has messaged you.
@@ -35,15 +39,15 @@ thumbnail: https://thmb.techidaily.com/a7b063e2c5f1e938dc6e32e2ce85c52239dfc8e77
 
  However, this is usually a temporary issue and should fix itself. If this isn't the case, you can try a few quick fixes to get things back to normal quickly.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Restart Your iPhone
 
  A quick fix to getting your contact names back instead of phone numbers is to [restart your iPhone](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) . As with many other issues, a quick reboot usually does the trick, and you should be able to see your contact names instead of phone numbers in Messages.
 
  In the case that this doesn't work and you are still facing the same issue, follow the fixes below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Add or Remove the Country Code
 
@@ -58,7 +62,15 @@ thumbnail: https://thmb.techidaily.com/a7b063e2c5f1e938dc6e32e2ce85c52239dfc8e77
 
 ![Contact Edit menu in iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/contact-edit-menu-in-ios.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Add Country Code to Number](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Fix-Messages-Not-Showing-Contact-Number.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -67,10 +79,6 @@ Close
  Alternatively, if you choose to add a new contact from the phone number, you can add it to an existing contact. But then you'll have two numbers saved for that person.
 
  Once you fix a phone number, you'll see Messages will automatically merge the conversations split across different chats.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Toggle iCloud Contacts
 
@@ -88,23 +96,15 @@ To do this, follow these steps on your iPhone:
 
 ![Settings on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Fix-Messages-Not-Showing-iCloud.jpg)
 
-![Password and Security in iPhone iCloud Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/2FA-iPhone-Password-and-Security.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Password and Security in iPhone iCloud Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/2FA-iPhone-Password-and-Security.jpg)
 
 ![Contacts in iCloud Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Fix-Messages-Not-Showing-iCloud-Contacts.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Close
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix Messages Showing Phone Numbers Instead of Contact Names
 
@@ -125,18 +125,20 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://sound-issues.techidaily.com/fixed-how-to-restore-voice-chat-capabilities-in-back-4-blood/"><u>[FIXED] How to Restore Voice Chat Capabilities in 'Back 4 Blood'</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-the-art-of-going-unseen-during-instagram-live-events/"><u>[New] The Art of Going Unseen During Instagram Live Events</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-engage-efficiently-leading-insta-filters/"><u>[Updated] Engage Efficiently Leading Insta Filters</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-explore-youtube-rankings-seo-tools-for-peak-performance/"><u>2024 Approved Explore YouTube Rankings SEO Tools for Peak Performance</u></a></li>
-<li><a href="https://fox-that.techidaily.com/boosting-your-iphones-browser-speed-a-guide-to-quicker-safari-experience/"><u>Boosting Your iPhone's Browser Speed: A Guide to Quicker Safari Experience</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1723808339328-how-to-share-games-on-ps4-2021-easy-guide/"><u>How to Share Games on PS4 - 2021 Easy Guide</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-stop-your-apple-device-from-heating-up-expert-advice-for-iphone-and-ipad-users/"><u>How to Stop Your Apple Device From Heating Up: Expert Advice for iPhone & iPad Users</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-troubleshoot-and-correct-a-rejected-payment-method-on-apple-services/"><u>How to Troubleshoot and Correct a Rejected Payment Method on Apple Services</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-5-solutions-for-motorola-moto-g23-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Motorola Moto G23 Unlock Without Password</u></a></li>
-<li><a href="https://fox-that.techidaily.com/rescue-your-stuck-iphone-from-perpetual-headphone-mode-with-these-8-tactics/"><u>Rescue Your Stuck iPhone From Perpetual Headphone Mode with These 8 Tactics</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/the-complete-guide-to-honor-magic-5-pro-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Honor Magic 5 Pro FRP Bypass Everything You Need to Know</u></a></li>
-<li><a href="https://fox-that.techidaily.com/trouble-with-iphone-app-downloads-discover-these-10-solutions/"><u>Trouble with iPhone App Downloads? Discover These 10 Solutions</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721478503521-why-your-iphones-alarm-might-not-be-working-and-how-to-fix-it/"><u>Why Your iPhone's Alarm Might Not Be Working – And How to Fix It!</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-balancing-dimensions-the-ultimate-guide-to-social-media-video-sizes-on-fb/"><u>[New] 2024 Approved Balancing Dimensions The Ultimate Guide to Social Media Video Sizes on FB</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-flawless-sound-overlap-exploring-crossfade/"><u>[Updated] 2024 Approved Flawless Sound Overlap Exploring Crossfade</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-charting-your-path-podcast-income-expectations-for-2024/"><u>[Updated] Charting Your Path Podcast Income Expectations for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-ultimate-list-of-ad-free-android-capturing-apps/"><u>[Updated] In 2024, Ultimate List of Ad-Free Android Capturing Apps</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-pro-iphone-photo-illumination-tricks/"><u>[Updated] Pro Iphone Photo Illumination Tricks</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/best-mac-image-sorter-for-2024/"><u>Best Mac Image Sorter for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/cant-see-your-iphone-alerts-solve-the-problem-with-these-seven-remedies/"><u>Can't See Your iPhone Alerts? Solve the Problem with These ˈSeven Remedies'</u></a></li>
+<li><a href="https://fox-that.techidaily.com/essential-fixes-top-15-solutions-for-any-iphone-model/"><u>Essential Fixes: Top 15 Solutions for Any iPhone Model</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-boost-troubleshooting-with-ipad-recovery-mode-tutorial/"><u>How To Boost Troubleshooting with iPad Recovery Mode Tutorial</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-enable-iphone-screen-rotation-tips-for-changing-from-portrait-to-landscape-view/"><u>How to Enable iPhone Screen Rotation - Tips for Changing From Portrait to Landscape View</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-resolve-iphone-tethering-problems-for-seamless-internet-sharing/"><u>How to Resolve iPhone Tethering Problems for Seamless Internet Sharing</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-restore-iphone-voicemail-functionality-top-9-solutions-you-should-try-now/"><u>How to Restore iPhone Voicemail Functionality: Top 9 Solutions You Should Try Now</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/revive-non-playing-android-media/"><u>Revive Non-Playing Android Media</u></a></li>
+<li><a href="https://win11.techidaily.com/techniques-to-reduce-windows-browser-resource-demand/"><u>Techniques to Reduce Windows Browser Resource Demand</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-tips-overcoming-error-14-on-ios-devices/"><u>Troubleshooting Tips: Overcoming Error 14 on iOS Devices</u></a></li>
 </ul></div>
 

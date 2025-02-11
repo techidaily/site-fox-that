@@ -1,7 +1,7 @@
 ---
 title: Can't Get New Apps on Your iPhone? 10 Quick Wins to Resolve the Problem
-date: 2024-08-15T11:51:38.731Z
-updated: 2024-08-16T11:51:38.731Z
+date: 2025-02-07T17:39:56.577Z
+updated: 2025-02-11T00:40:33.207Z
 tags:
   - iphone
   - apple
@@ -17,15 +17,24 @@ thumbnail: https://thmb.techidaily.com/6604e06a9acd007eaa4a4b27af2a49c5989610b00
  Your iPhone isn't much good as a smartphone if it can't download apps from the App Store. Usually, grabbing an app is as simple as tapping the download button, but when that doesn't work, there are several steps you can use to force an app to download on your iPhone.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Why Won't My iPhone Apps Download?
 
  There are several reasons your iPhone might not let you download any apps, from problems with your internet connection to a lack of storage on your device. Whatever the reason, you can use the troubleshooting steps below to fix it. We've listed them starting with the most common issues, that are the quickest to fix, so just work your way down the list to start downloading apps on your iPhone again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Test Your Internet Connection
 
 ![Cellular settings with App Store turned on](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2019/12/Cellular-settings-with-App-Store-turned-on.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  For your iPhone to download apps from the App Store, it needs a working internet connection. Most of the time, you should connect to Wi-Fi, since cellular downloads use up your data allowance and often only let you download apps smaller than 200MB.
 
@@ -37,9 +46,6 @@ thumbnail: https://thmb.techidaily.com/6604e06a9acd007eaa4a4b27af2a49c5989610b00
 2. Scroll down to the list of apps and turn on**App Store** .
 3. Then go to**Settings > App Store** , tap**App Downloads** and choose if you want your iPhone to ask permission before downloading apps over 200MB in size.
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Make Sure Your Have Enough Free Space
 
 ![iPhone Storage settings showing 30 GB of free space](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2019/12/iPhone-Storage-settings-showing-30-GB-of-free-space.jpg)
@@ -50,14 +56,8 @@ When this happens, an alert should pop up saying "Not Enough Storage."
 
  Go to**Settings > General > iPhone Storage** to see how much free space you have and take a look at which apps are using the most. There are plenty of ways to [create more free space on your iPhone](https://www.makeuseof.com/tag/iphone-storage-full-create-free-space-ios/) if you need to, such as offloading apps, uploading photos to the cloud, or deleting junk that you no longer need. You can do all of this from the iPhone storage settings.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Update Your Apple ID Details
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 ![Apple ID Payment Information page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2019/12/Apple-ID-Payment-Information-page.jpg)
 
  Even if you only download free apps from the App Store, you still need to have valid payment information and contact details linked to your Apple ID account. It's possible that the payment details on your account expired, so you should check if you need to update them.
@@ -69,8 +69,9 @@ Update your Apple ID details from the iPhone Settings app:
 3. Lastly, tap**Add Payment Method** to add a payment method, or use**Edit** to edit your existing methods.
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Change the Date and Time
 
 ![Date & Time Settings with Set Automatically option in settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2019/12/Date-Time-Settings-with-Set-Automatically-option-in-settings.jpg)
@@ -86,9 +87,6 @@ To correct the date and time on your iPhone:
 
 ## 5\. Turn Off Content and Privacy Restrictions
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Content & Privacy Restrictions for Installing Apps on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2019/12/Content-Privacy-Restrictions-for-Installing-Apps-on-iPhone.jpg)
 
  The content and privacy restrictions on an iPhone let you limit settings, apps, or features to keep the device safe for children. However, those same limitations explain why you can't download new apps on your iPhone.
@@ -101,9 +99,6 @@ To edit your restrictions:
    1. Tap**iTunes & App Store Purchases > Installing Apps** .  
    2. Select**Allow** to enable installing apps.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 6\. Pause and Resume Your App Download
 
 ![Quick Action menu for downloading app with pause and prioritize options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2019/12/Quick-Action-menu-for-downloading-app-with-pause-and-prioritize-options.jpg)
@@ -117,14 +112,16 @@ To edit your restrictions:
  Alternatively, you have the option to**Prioritize Download** from the quick-action menu. This is a good idea if your iPhone is downloading other content as well, since it prioritizes this app above all other downloads.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Sign Out of the App Store, Then Sign In Again
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ![Apple Sign In window for iPhone App Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2019/12/Apple-Sign-In-window-for-iPhone-App-Store.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Like pausing and resuming downloads, you can fix a lot of software bugs by signing in to the App Store again. This often reveals issues with your Apple ID account, like an incorrect password or username.
 
@@ -161,9 +158,17 @@ To sign out of the App Store:
 
  After deleting an app, restart your iPhone and download it again from the App Store.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 10\. Make Sure the App Works With Your iPhone
 
 ![App Store Information with Compatibility details](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2019/12/App-Store-Information-with-Compatibility-details.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Sometimes, you can't download or install an app because it's not compatible with your device. This might happen when the app depends on a piece of hardware your iPhone doesn't have—like Face ID or dual cameras—or when the app developer discontinues support for older versions of iOS.
 
@@ -185,8 +190,6 @@ To sign out of the App Store:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -194,6 +197,22 @@ To sign out of the App Store:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/new-master-class-on-vsco-camera-and-lens-for-creative-use/"><u>[New] Master Class on VSCO Camera & Lens for Creative Use</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/38502520-updated-2024-approved-master-youtube-ad-creation-with-no-cost-guide-inside/"><u>[Updated] 2024 Approved Master YouTube Ad Creation with No Cost – Guide Inside!</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-taking-advantage-of-vlcs-conversion-features-beyond-mp4-for-2024/"><u>[Updated] Taking Advantage of VLC's Conversion Features Beyond MP4 for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/comprehensive-look-at-the-lenovo-ideapad-series-where-solid-design-meets-functional-performance/"><u>Comprehensive Look at the Lenovo IdeaPad Series: Where Solid Design Meets Functional Performance</u></a></li>
+<li><a href="https://games-able.techidaily.com/dualsense-interoperability-ps5-and-previous-generation-playstation/"><u>DualSense Interoperability: PS5 and Previous Generation PlayStation?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/experiencing-a-dead-zone-on-your-iphone-discover-7-likely-causes-of-screen-unresponsiveness/"><u>Experiencing a Dead Zone on Your iPhone? Discover 7 Likely Causes of Screen Unresponsiveness</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-cant-send-sms-on-iphone-discover-effective-steps-to-resolve-it/"><u>Fixing 'Can't Send SMS' On iPhone: Discover Effective Steps to Resolve It</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-message-delivery-issues-between-iphones-and-android-phones/"><u>Fixing Message Delivery Issues Between iPhones and Android Phones</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-solve-iphone-and-ipad-wi-fi-connection-issues-top-8-remedies/"><u>How to Solve iPhone and iPad Wi-Fi Connection Issues: Top 8 Remedies</u></a></li>
+<li><a href="https://games-able.techidaily.com/ifa-2023-spotlight-on-cutting-edge-game-systems/"><u>IFA 2023 Spotlight on Cutting-Edge Game Systems</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-wont-rotate-step-by-step-guide-to-restoring-landscape-functionality/"><u>IPhone Won't Rotate - Step-by-Step Guide to Restoring Landscape Functionality</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/navigating-urban-terrain-with-ease-on-cycwagens-groundbreaking-electric-cargo-bike/"><u>Navigating Urban Terrain with Ease on CycWagen's Groundbreaking Electric Cargo Bike</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/proven-iphone-tips-effortless-video-length-and-size-control-for-2024/"><u>Proven iPhone Tips Effortless Video Length & Size Control for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-5-iphones-issues-resolved-with-dfu-bootloader-technique/"><u>Top 5 iPhones Issues Resolved with DFU Bootloader Technique</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-guide-how-to-fix-a-non-responsive-facetime-app/"><u>Troubleshooting Guide: How to Fix a Non-Responsive FaceTime App</u></a></li>
+</ul></div>
 

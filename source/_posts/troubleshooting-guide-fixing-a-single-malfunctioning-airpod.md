@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Fixing a Single Malfunctioning AirPod"
-date: 2024-08-15T11:54:43.749Z
-updated: 2024-08-16T11:54:43.749Z
+date: 2025-02-08T11:33:21.310Z
+updated: 2025-02-10T16:21:18.562Z
 tags:
   - iphone
   - apple
@@ -14,9 +14,6 @@ thumbnail: https://thmb.techidaily.com/6e2f3010b64553c858c441b2aa0463f3e8a124b61
 
 ## Troubleshooting Guide: Fixing a Single Malfunctioning AirPod
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ### Quick Links
 
 * [Check Your AirPods Battery](https://www.makeuseof.com/one-airpod-not-working/#check-your-airpods-battery)
@@ -27,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/6e2f3010b64553c858c441b2aa0463f3e8a124b61
 * [Reset Your AirPods to Factory Settings](https://www.makeuseof.com/one-airpod-not-working/#reset-your-airpods-to-factory-settings)
 * [Reset Your Phone's Network Settings](https://www.makeuseof.com/one-airpod-not-working/#reset-your-phone-39-s-network-settings)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Don't be quick to assume your AirPod is faulty because software bugs, depleted battery, and misconfigured settings could cause this issue.
@@ -34,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/6e2f3010b64553c858c441b2aa0463f3e8a124b61
 * Sometimes, your phone, tablet, or computer might be the culprit, and you'll need to troubleshoot the Bluetooth settings on it first.
 
  Did one of your AirPods stop working all of a sudden? Before you assume it's a hardware problem and contact Apple for a repair or replacement AirPod, follow these simple troubleshooting steps, as they can often quickly resolve the issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Check Your AirPods Battery
 
@@ -44,6 +49,10 @@ thumbnail: https://thmb.techidaily.com/6e2f3010b64553c858c441b2aa0463f3e8a124b61
  Remember that your AirPods case also has its own battery. For this to work, make sure the AirPods case is also fully charged.
 
 Close
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Restart the Connected Device
 
@@ -67,22 +76,16 @@ Close
 
  On a Mac, you can adjust the AirPods audio balance by opening**System Settings > Sound** and selecting the**Output** tab. Then, make sure your AirPods are selected and set the**Balance** slider to the middle.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 ![mac sound system settings airpods balance](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/mac-sound-system-settings-airpods-balance.png)
 
  You can adjust the AirPods audio balance on Windows 11 by opening**Settings > System > Sound** . Then, select your AirPods from the list of output devices and adjust the**Left channel** and**Right channel** sliders so that they're equal.
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Windows Sound Settings for AirPods Pro](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/windows-sound-settings-for-airpods-pro.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Try Your AirPods With Other Devices
 
  It isn't always your AirPods that have issues. Sometimes, one of your AirPods stops working because of a problem with your smartphone or your computer.
@@ -92,8 +95,9 @@ Close
  If both AirPods work just fine on any other device, you know the issue is with your primary device, and you'll need to fix it instead. Read [our AirPods troubleshooting guide](https://www.makeuseof.com/tag/apple-airpods-problems-fix/) for your specific device to see if one of the suggested fixes can rectify your problem.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Forget Your AirPods From Your Devices
 
  One of the best ways to fix issues with Bluetooth devices is to forget them on your phone or other device and then re-pair them. This allows your device to establish a fresh Bluetooth connection.
@@ -112,9 +116,6 @@ Close
 
  After unpairing, you need to [re-pair your AirPods to your device](https://www.makeuseof.com/tag/how-to-connect-airpods-mac-iphone-pc-android/) . Then, see if both your AirPods work.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 6\. Reset Your AirPods to Factory Settings
 
  If your AirPods still don't work after unpairing and re-pairing them, try resetting them to their factory settings. Once they're unpaired, put your AirPods in their charging case, but don't close the lid.
@@ -147,8 +148,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -156,6 +155,20 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-share-a-podcast-on-instagram-story-or-post/"><u>[New] Share a Podcast on Instagram Story or Post</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-true-color-equalizer-for-2024/"><u>[Updated] True Color Equalizer for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/a-guide-nokia-130-music-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Nokia 130 Music Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/bricked-your-realme-gt-5-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Realme GT 5? Heres A Full Solution | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/button-less-fixes-to-revive-any-nonresponsive-iphone-easily/"><u>Button-Less Fixes to Revive Any Nonresponsive iPhone Easily</u></a></li>
+<li><a href="https://fox-that.techidaily.com/chatgpt-stuck-on-your-iphone-discover-these-9-essential-fixes/"><u>ChatGPT Stuck on Your iPhone? Discover These 9 Essential FIXES</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/confronting-the-cursed-ones-on-two-wheels-unraveling-days-gone-review/"><u>Confronting The Cursed Ones on Two Wheels: Unraveling Days Gone Review</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-install-latest-zebra-printer-drivers-on-your-windows-pc/"><u>Download & Install Latest Zebra Printer Drivers on Your Windows PC</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-repair-your-iphones-non-functional-voicemail-a-step-by-step-guide/"><u>How to Repair Your iPhone's Non-Functional Voicemail: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/identifying-a-block-how-to-tell-if-youve-been-banned-from-messaging/"><u>Identifying a Block: How to Tell If You've Been Banned From Messaging</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-tecno-spark-20-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Tecno Spark 20 to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/no-longer-mystified-unravel-why-itunes-and-finder-wont-recognize-your-iphone-and-how-to-repair-it/"><u>No Longer Mystified? Unravel Why iTunes and Finder Won't Recognize Your iPhone & How to Repair It</u></a></li>
+<li><a href="https://fox-that.techidaily.com/revamp-browser-speed-4-effective-tips-for-a-smoother-safari-journey-on-iphones/"><u>Revamp Browser Speed: 4 Effective Tips for a Smoother Safari Journey on iPhones</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Master Misidentification Fixes in Your Apple Gallery with These Simple Steps
-date: 2024-08-15T11:53:24.279Z
-updated: 2024-08-16T11:53:24.279Z
+date: 2025-02-09T02:57:55.974Z
+updated: 2025-02-11T03:51:59.560Z
 tags:
   - iphone
   - apple
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/9d7c9f6d98f25a60252afdb702bb0a4fb1162bcb6
 
  Here's how you can review photos of identified people in the Photos app and fix any cases of mistaken identity, where your iPhone has tagged one person as someone else.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Review People in Photos on an iPhone or iPad
 
  To search for any misidentified photos of someone, you should first review your confirmed and uncategorized photos for that person to help your device learn what each person is supposed to look like. Here's how to do that:
@@ -30,15 +27,12 @@ thumbnail: https://thmb.techidaily.com/9d7c9f6d98f25a60252afdb702bb0a4fb1162bcb6
 3. You should now see photos of this person. Tap on any picture of someone else to deselect it and press**Done** . If you don't see any, tap**Review More Photos** .
 4. A popup will appear with a photo, asking**Is This X?** Tap**Yes** or**No** . Your device will automatically take you through all the photos for review. If you get tired at any point, just tap**Done** and you will go back to your previous page.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![review confirmed photos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/review-confirmed-photos.PNG)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![review more photos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/review-more-photos.PNG)
 
 ![confirm person](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/confirm-person.PNG)
@@ -46,6 +40,10 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 Close
 
  Read More:[Tips That Will Help You Master the People Album in Photos](https://www.makeuseof.com/tips-to-master-people-album-photos-iphone/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Fix Misidentified People in Photos on iPhone or iPad
 
@@ -56,17 +54,15 @@ Close
 3. Hit the**Share** button in the bottom-left corner of your screen.
 4. Choose**This is Not X** , and the selected photos will be removed from that album.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ![select photos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/select-photos.PNG)
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ![this is not X option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/this-is-not-X-option.PNG)
 
 Close
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Fix Misidentified People in Photos on a Mac
 
@@ -78,10 +74,15 @@ Close
 4. Control-click on the photo.
 5. Click**X is Not in This Photo** .
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Person is not in this photo option in Photos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/Person-is-not-in-this-photo-option-in-Photos.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Easily Sort Pictures With the People Album
 
@@ -89,14 +90,11 @@ Close
 
  However, having misidentified photos in the wrong albums can be quite a nuisance to deal with. Fortunately, the problem has a relatively quick and easy fix. You can review uncategorized photos to avoid the problem in the future, and you can remove any mismatched pictures you stumble across using the Share button.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -105,6 +103,22 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-wirecast-overview-and-comparable-solutions/"><u>[New] In 2024, WireCast Overview & Comparable Solutions</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-conceptualize-entertaining-posts-in-adobe/"><u>[Updated] In 2024, Conceptualize Entertaining Posts in Adobe</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-virtual-warrior-written-by-chelsea-boucher-phd/"><u>[Updated] Virtual Warrior' Written by Chelsea Boucher, PhD</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-shorts-visibility-no-more-problem-after-fix/"><u>2024 Approved Shorts Visibility No More Problem After Fix</u></a></li>
+<li><a href="https://fox-that.techidaily.com/diagnosing-and-repairing-a-defective-proximity-sensor-in-iphones/"><u>Diagnosing and Repairing a Defective Proximity Sensor in iPhones</u></a></li>
+<li><a href="https://fox-that.techidaily.com/missing-icon-troubles-heres-how-to-restore-all-app-icons-on-your-iphone/"><u>Missing Icon Troubles? Here's How to Restore All App Icons on Your iPhone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolving-whatsapps-camera-zoom-issue-a-step-by-step-guide/"><u>Resolving WhatsApp's Camera Zoom Issue: A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/stepwise-approach-to-downloading-movie-maker-6/"><u>Stepwise Approach to Downloading Movie Maker 6</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubles-with-image-recognition-here-are-the-possible-causes-behind-iphones-look-up-failure/"><u>Troubles with Image Recognition? Here Are the Possible Causes Behind iPhone's Look Up Failure</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-your-iphones-display-the-seven-typical-concerns-addressed/"><u>Troubleshooting Your iPhone's Display: The Seven Typical Concerns Addressed</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlock-the-secret-to-easily-fixing-your-phone-just-restart-it/"><u>Unlock the Secret to Easily Fixing Your Phone – Just Restart It!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlock-the-secrets-to-fixing-common-iphone-photo-storage-problems-with-these-8-essential-tricks/"><u>Unlock the Secrets to Fixing Common iPhone Photo Storage Problems with These 8 Essential Tricks</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-chatgpt-potential-essential-techniques-for-mac-enthusiasts/"><u>Unlocking ChatGPT Potential: Essential Techniques for Mac Enthusiasts</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/unraveling-the-secrets-of-pcl-xl-repairs/"><u>Unraveling the Secrets of PCL XL Repairs</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/youtuber-yield-the-leaders-with-the-largest-audiences-for-2024/"><u>YouTuber Yield The Leaders with the Largest Audiences for 2024</u></a></li>
+</ul></div>
 

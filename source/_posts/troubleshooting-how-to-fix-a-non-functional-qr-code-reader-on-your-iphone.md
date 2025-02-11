@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting: How to Fix a Non-Functional QR Code Reader on Your iPhone"
-date: 2025-01-24T00:05:53.500Z
-updated: 2025-01-29T16:58:37.948Z
+date: 2025-02-08T04:11:57.501Z
+updated: 2025-02-11T08:31:31.447Z
 tags:
   - iphone
   - apple
@@ -37,43 +37,43 @@ thumbnail: https://thmb.techidaily.com/a7dd9142f70f2e1fb0515e1b92c73345b73af0eeb
 
 Close
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Ensure Your Camera Is in Photo Mode
 
  The QR code scanner on your iPhone only works when the camera is set to Photo mode. If you've mistakenly switched to Video, Portrait, Pano, or any other camera mode, the QR code scanner might not work as expected. So, swipe left or right in the Camera app to switch back to Photo mode. Then, point the camera at the QR code and try to scan it again.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Position Your Camera Properly When Scanning
 
  For a quick and successful scan, make sure the QR code is positioned within the frame of your camera. Avoid scanning at steep angles, and try to keep the QR code parallel to your device. Also, ensure the QR code isn't wrinkled, obscured, or damaged in any way, as this can prevent a successful scan.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Move Into Better Lighting
 
 ![Person scanning QR Code on a parcel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/person-scanning-qr-code-on-a-parcel.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Good lighting is essential for any camera function, and the QR code scanner is no exception. A well-lit environment makes it easier for the camera to recognize and read the QR code. If you're in a dimly lit room or area, move to a brighter spot or shine some light on the QR code to improve visibility.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Clean Your Camera Lens
 
  A smudged or dirty camera lens can make it difficult for the camera to read the QR code. So, if you are still having trouble scanning the QR code, gently wipe your camera lens with a soft, lint-free cloth to ensure it's clean. Avoid using harsh or abrasive materials that might scratch the lens. If necessary, slightly dampen the cloth with water to remove stubborn smudges.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Relaunch the Camera App
 
  Sometimes, software glitches can cause your QR code scanner to malfunction. The quickest fix for this is to simply close the Camera app and relaunch it. To do this, swipe up from the bottom of the screen, then swipe up on the Camera app to close it. Wait for a few seconds, then reopen the**Camera** app and try to scan the QR code again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Add Code Scanner to Control Center
 
@@ -91,19 +91,23 @@ Here's how to add the Code Scanner to the Control Center:
 
 ![iPhone Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/img_1211.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![iPhone Control Center Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/img_1212.jpeg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![iPhone Control Center With Code Scanner](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/img_1213.jpeg)
 
-![iPhone QR Code Scanner](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/img_1221.jpeg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![iPhone QR Code Scanner](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/img_1221.jpeg)
 
 Close
 
@@ -127,10 +131,6 @@ Close
 
  Popular iOS third-party QR code reader apps include [QR Code & Barcode Scanner](https://apps.apple.com/us/app/qr-code-barcode-scanner/id1048473097) by TeaCapps,[Scan Shot](https://apps.apple.com/us/app/scan-shot-document-scanner-pdf/id1575194801) by Scanner App PDF Tool, and [CamScanner](https://apps.apple.com/us/app/camscanner-pdf-scanner-app/id388627783) by INSTIG.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Decode QR Codes on Your iPhone Without Issues
 
  QR codes have become a great way to access information with a simple scan. If you've tried all our fixes and still can't get your QR code scanner to work, you can always take a picture and scan the QR code with your Photos app.
@@ -152,19 +152,16 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-the-crazy-crews-top-10-unique-tiktok-games/"><u>[New] 2024 Approved The Crazy Crew's Top 10 Unique TikTok Games</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/comparative-analysis-understanding-different-green-cars-bev-phev-fcev-hybrid/"><u>Comparative Analysis: Understanding Different Green Cars (BEV, PHEV, FCEV, Hybrid)</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/effortless-guide-to-converting-your-dvds-into-itunes-library-for-play-on-ipod-devices/"><u>Effortless Guide to Converting Your DVDs Into iTunes Library for Play on iPod Devices</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fixing-wi-fi-connection-issues-top-8-solutions-for-iphone-and-ipad/"><u>Fixing Wi-Fi Connection Issues: Top 8 Solutions for iPhone and iPad</u></a></li>
-<li><a href="https://fox-that.techidaily.com/full-pages-not-saving-as-screenshots-on-safari-heres-the-fix-you-need/"><u>Full Pages Not Saving as Screenshots on Safari? Here's the Fix You Need</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-mastering-gesture-control-a-comprehensive-overview/"><u>In 2024, Mastering Gesture Control A Comprehensive Overview</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-preventing-frames-gaps-for-flawless-video-captures/"><u>In 2024, Preventing Frames Gaps for Flawless Video Captures</u></a></li>
-<li><a href="https://tools.techidaily.com/jetprofiler/products/"><u>Jetprofiler's Products</u></a></li>
-<li><a href="https://fox-that.techidaily.com/resolve-email-notifications-delays-on-your-iphone-with-these-proven-fixes/"><u>Resolve Email Notifications Delays on Your iPhone with These Proven Fixes</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/reviving-memories-one-image-at-a-time-with-stellar/"><u>Reviving Memories, One Image at a Time with Stellar</u></a></li>
-<li><a href="https://fox-that.techidaily.com/signs-of-being-blocked-when-your-imessage-goes-out-as-regular-sms-heres-what-it-means/"><u>Signs of Being Blocked: When Your iMessage Goes Out as Regular SMS, Here's What It Means</u></a></li>
-<li><a href="https://fox-that.techidaily.com/speed-up-safari-efficient-methods-to-enhance-iphone-web-surfing/"><u>Speed Up Safari: Efficient Methods to Enhance iPhone Web Surfing</u></a></li>
-<li><a href="https://article-files.techidaily.com/swiftly-survey-your-windows-documentation/"><u>Swiftly Survey Your Windows Documentation</u></a></li>
-<li><a href="https://win-great.techidaily.com/windows-11-elements-needing-your-focus-corrected-guide-discover-the-top-3-strategies/"><u>Windows 11 'Elements Needing Your Focus' Corrected Guide – Discover the Top 3 Strategies</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-clear-and-steady-essential-youtube-camera-tech/"><u>[New] In 2024, Clear and Steady Essential YouTube Camera Tech</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-best-practices-to-avoid-sound-in-video-capture/"><u>[Updated] Best Practices to Avoid Sound in Video Capture</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-grandview-media-mastering-the-art-of-selecting-a-cms/"><u>[Updated] In 2024, Grandview Media Mastering the Art of Selecting a CMS</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-independent-artists-guide-to-personalized-visual-tricks/"><u>2024 Approved Independent Artists' Guide to Personalized Visual Tricks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/5-chatgpt-therapist-bots-and-ai-apps-to-relieve-mental-health-problems/"><u>5 ChatGPT Therapist Bots and AI Apps to Relieve Mental Health Problems</u></a></li>
+<li><a href="https://fox-that.techidaily.com/comprehensive-fix-for-mobile-network-sim-not-provisioned-mmi-2-glitches/"><u>Comprehensive Fix for Mobile Network SIM Not Provisioned MMI 2 Glitches</u></a></li>
+<li><a href="https://fox-that.techidaily.com/experiencing-sluggish-mobile-internet-speeds-boost-them-with-these-top-10-tips/"><u>Experiencing Sluggish Mobile Internet Speeds? Boost Them with These Top 10 Tips</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-fix-the-sim-not-provisioned-mm-2-error/"><u>How to Fix the SIM Not Provisioned MM 2 Error</u></a></li>
+<li><a href="https://fox-that.techidaily.com/stay-ahead-of-the-curve-understand-why-installing-ios-153-is-a-must-do-for-your-iphone-or-ipad-now/"><u>Stay Ahead of the Curve: Understand Why Installing iOS 15.3 Is a Must-Do for Your iPhone or iPad Now</u></a></li>
+<li><a href="https://fox-that.techidaily.com/trouble-with-iphone-display-orientation-learn-the-quick-fix/"><u>Trouble with iPhone Display Orientation? Learn the Quick Fix!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-the-functionality-of-electric-bikes/"><u>Understanding the Functionality of Electric Bikes</u></a></li>
 </ul></div>
 

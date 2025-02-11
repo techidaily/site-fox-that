@@ -1,7 +1,7 @@
 ---
 title: "Silencing Your iPad: Tutorial on Halting Ringtone Activation From iPhone Alerts"
-date: 2024-08-15T11:53:02.975Z
-updated: 2024-08-16T11:53:02.975Z
+date: 2025-02-05T20:55:38.488Z
+updated: 2025-02-11T04:58:45.924Z
 tags:
   - iphone
   - apple
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/1b9c0ec4aac0a389de35bac2a472d37b33435d994
 
  It's easy to turn this feature on when setting up a new iPhone or iPad without meaning to. Fortunately, not only can you turn this feature off, but there are multiple ways to disable it, depending on how and when you want to receive notifications.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ## How to Disable the Ringing on Your iPad
 
  The simplest way to disable calls from your iPhone ringing on the iPad is to disable the ringer entirely. This method is quick and simple, though there are a few potential downsides.
@@ -32,18 +28,12 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
  Now, you've turned off your ringer and alert notifications. This could be a positive if you only want notifications from your iPhone or Apple Watch. On the other hand, if you count on Mail alerts on your iPad, this option won't work for you.
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Turn Down the Volume on Your iPad
 
  The above method is fine if you never want to hear calls ringing on your iPad, but what if you only need to disable them for a short while? In this case, assigning the ringer volume to your volume buttons makes raising and lowering notification volume on your iPad easy.
 
  To do this, open Settings and tap on the**Phone** section. Underneath the slider in the "Ringtone and Alert Volumes" section, enable the toggle for**Change with Buttons** . Now, the volume buttons control your ringer and alerts.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ![Enabling adjusting volume with the buttons on iPad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/how-to-stop-ipad-ringing-turn-down-volume.jpg)
 
  There's a reason this is disabled by default, as many people prefer to find a volume they like and stick with it. You may also accidentally change your ringer volume if you press the buttons while listening to music or watching a video.
@@ -51,8 +41,9 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
  Still, this is a great option for quickly muting your iPad notifications.
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Stop Your iPad From Ringing With Focus Modes
 
  If your iPad is running iPadOS 15 or later, you can [set up and use Focus modes](https://www.makeuseof.com/how-to-use-focus-modes-ipad/) to help you deal with that annoying ringer. Focus is essentially an evolution of the Do Not Disturb feature that can let you manually tweak what apps and services are allowed to launch notifications in various situations or times of the day.
@@ -75,7 +66,15 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
 ![Enabling a Focus Mode on iPadOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/how-to-stop-ipad-ringing-turn-focus-on.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  When you want to disable it, you can tap the**Focus** toggle.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Disable "Calls on Other Devices"
 
@@ -88,18 +87,19 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 ![allow calls on other devices iPhone setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/allow-calls-on-other-devices-iphone-setting.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Choosing which devices to ring when your iPhone rings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/how-to-stop-ipad-ringing-iphone-calls-on-other-devices-custom.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
  If you want to disable calls everywhere but on your iPhone, disable the**Allow Calls on Other Devices** toggle. But if you only want to disable calls ringing on your iPad, leave this toggle enabled but look for your iPad under the "Allow Calls On" section further down on the screen, and then disable the slider next to it.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Plenty of Ways to Silence iPad Calls
 
  For most people, the best way to silence calls ringing on your iPad is to disable the "Calls on Other Devices" setting on your iPhone, as it leaves the rest of the notifications on your iPad untouched. This lets you manage which devices do and don't ring when you receive an incoming call.
@@ -112,8 +112,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -121,6 +119,24 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/n-2024-should-you-pay-for-unlimited-youtube/"><u>[New] In 2024, Should You Pay for Unlimited YouTube?</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-efficient-hashtag-use-for-skyrocketing-youtube-audience/"><u>[Updated] Efficient Hashtag Use for Skyrocketing YouTube Audience</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/11-window-wisdom-the-secret-techniques-youve-missed-out-on/"><u>11 Window Wisdom The Secret Techniques You've Missed Out On</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-mastering-adobe-cloud-essential-storage-insights-and-top-alternatives/"><u>2024 Approved Mastering Adobe Cloud Essential Storage Insights & Top Alternatives</u></a></li>
+<li><a href="https://fox-that.techidaily.com/9-effective-fixes-for-dealing-with-yellow-tint-problems-on-iphones/"><u>9 Effective Fixes For Dealing With Yellow Tint Problems On iPhones</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ult-over-a-thousand-youtube-audience-members/"><u>Catapult Over a Thousand YouTube Audience Members</u></a></li>
+<li><a href="https://fox-that.techidaily.com/common-iphone-glitch-diagnosing-and-repairing-no-call-receiving-issues/"><u>Common iPhone Glitch: Diagnosing and Repairing No-Call-Receiving Issues</u></a></li>
+<li><a href="https://fox-that.techidaily.com/faster-off-fixing-the-persistent-screen-issue-in-your-iphone-device/"><u>Faster Off: Fixing the Persistent Screen Issue in Your iPhone Device</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-oppo-reno-9a-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Oppo Reno 9A | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-lock-your-vivo-y100t-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Vivo Y100t Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-maximizing-photo-quality-for-commercial-use/"><u>In 2024, Maximizing Photo Quality for Commercial Use</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcome-iphone-and-icloud-connection-woes-with-these-9-fixes/"><u>Overcome iPhone and iCloud Connection Woes with These 9 Fixes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/patients-with-diabetes-or-peripheral-vascular-disease-may-require-special-consideration-when-being-prescribed-beta-blockers-due-to-potential-adverse-effects23/"><u>Patients with Diabetes or Peripheral Vascular Disease May Require Special Consideration when Being Prescribed Beta Blockers Due to Potential Adverse Effects</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/perfecting-designs-a-guide-to-cutting-out-background-in-figma/"><u>Perfecting Designs A Guide to Cutting Out Background in Figma</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-delayed-iphone-text-message-issues-a-guide-with-9-effective-solutions/"><u>Solving Delayed iPhone Text Message Issues: A Guide with 9 Effective Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-guide-reactivating-grayed-out-icloud-features-on-iphoneipad/"><u>Troubleshooting Guide: Reactivating Grayed-Out iCloud Features on iPhone/iPad</u></a></li>
+<li><a href="https://fox-that.techidaily.com/where-did-my-iphone-app-go-a-step-by-step-guide-to-recover-lost-applications/"><u>Where Did My iPhone App Go? A Step-by-Step Guide to Recover Lost Applications</u></a></li>
+</ul></div>
 

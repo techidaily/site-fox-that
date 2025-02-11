@@ -1,7 +1,7 @@
 ---
 title: "Discover 8 Ways Your iPhone Saves Pictures to iCloud Despite Deletions: Unraveling the Mystery"
-date: 2024-08-15T11:52:18.596Z
-updated: 2024-08-16T11:52:18.596Z
+date: 2025-02-08T10:06:32.012Z
+updated: 2025-02-11T05:46:06.065Z
 tags:
   - iphone
   - apple
@@ -23,9 +23,9 @@ thumbnail: https://thmb.techidaily.com/dab2ef0415897bd2885169e6ea9bd44d0885cdc86
  Your browser does not support the video tag.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Check the Recently Deleted Folder
 
  A common reason for this issue revolves around the**Recently Deleted** album in the Photos app. This album allows you to recover deleted photos and videos for up to 30 days after deleting them. Like the Recycle Bin on your computer, it acts as a temporary safety net in case you change your mind.
@@ -34,27 +34,31 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  Thus, the first step to take if the**Photos** section of your iCloud storage still uses a lot of space is to delete the pictures in**Recently Deleted** permanently. Make sure you back up the photos to another location before doing this, in case you want them back in the future.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ![select option in recently deleted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/select-option-in-recently-deleted.jpg)
 
 ![all photos selected to delete](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/all-photos-selected-to-delete.jpg)
 
 ![recover and delete options in recently deleted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/recover-and-delete-options-in-recently-deleted.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Close
 
  If the problem isn't fixed after clearing out this folder, the rest of the below tips will lead you to a fix.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Restart Your iPhone
 
  Rebooting the system is a conventional fix to numerous bugs and errors. After you've removed a huge chunk of media from your storage, it's important to [restart your iPhone](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) . This will hopefully clear out any temporary hiccups causing your available storage to show incorrectly.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Update to the Latest iOS Software
 
@@ -70,11 +74,12 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
 ![software update available in settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/software-update-available-in-settings-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Close
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Modify the Date and Time to Reveal Old Photos
 
  The exact reasoning behind this fix isn't clear, but it often happens that media you deleted in the past returns as hidden files on your device. You won't know they exist, and you can't see them in the Recents album either.
@@ -88,10 +93,11 @@ Close
 5. After that, open the Photos app and check all your albums, including**Recents** and**Recently Deleted** .
 6. Select everything that has reappeared in your albums and delete them from your phone. If you don't see anything, try going back another year or two and check again.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ![iOS Settings General Page Open](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/ios-general-settings.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![date & time general settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/date-time-general-settings.jpg)
 
@@ -113,23 +119,14 @@ Close
 2. Go to**iCloud** and choose**Photos** .
 3. Turn off the toggle next to**Sync this iPhone** .
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![iCloud settings in Apple ID](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/icloud-settings-in-apple-id-1.jpg)
 
 ![iCloud options under Apple ID settings on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/icloud-options-under-apple-id-settings-on-iphone.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ![sync this iPhone toggle in iCloud photos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/sync-this-iphone-toggle-in-icloud-photos-1.jpg)
 
 Close
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 6\. Optimize iPhone Photos for Storage
 
  If photos are taking up too much space on your iPhone's storage all the time, the optimization option is handy. This has your iPhone decrease the resolution of media saved locally in Photos but retains a full-resolution copy in iCloud. There, you will have to toggle on iCloud Photos for this fix, unlike the previous one.
@@ -140,9 +137,6 @@ Close
 2. In the Settings menu, scroll down and tap on**Photos** .
 3. Make sure the**Optimize iPhone Storage** option is selected.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![photos in iPhone settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/photos-in-iphone-settings-1.jpg)
 
 ![optimise iPhone storage option in iCloud settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/optimise-iphone-storage-option-in-icloud-settings.JPG)
@@ -167,18 +161,23 @@ To factory reset your iPhone, follow these steps:
 
 ![Settings on iOS 17 showing the Transfer or Reset iPhone option highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/apple-ios-17-settings-transfer-or-reset-iphone-highlighted.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![reset iPhone options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/reset-iphone-options.jpg)
 
 Close
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ## 8\. Contact Apple Support
 
  You need to get in touch with an expert when all else fails. If the problem persists even after a factory reset, then it's likely severe, and you should get professional support from Apple.
 
  You can do this online through**Apple Support** or [visit your nearest Apple Store](https://www.makeuseof.com/apple-store-appointment-genius-bar/) to talk with experts. A valid warranty will likely help your case in case of a major issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Better Manage iPhone Storage in the Future
 
@@ -194,8 +193,9 @@ Close
 * Disable iCloud Photos if you don't use it—consider backing up photos to another cloud service.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Your iPhone Storage Can Breathe Now
 
  This iPhone and iCloud storage error, experienced by many, is definitely a pain. Fortunately, there are some ways around it. Hopefully, the methods presented here let you get your photo storage usage back to normal.
@@ -208,8 +208,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -217,6 +215,24 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-enhancing-accessibility-with-vimeo-subtitles/"><u>[New] Enhancing Accessibility with Vimeo Subtitles</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-perfecting-live-broadcasts-with-streamlabs-obs-tips-for-2024/"><u>[New] Perfecting Live Broadcasts with Streamlabs OBS Tips for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-exploring-differences-between-igtv-and-youtube-for-effective-posts/"><u>[Updated] 2024 Approved Exploring Differences Between IGTV and YouTube for Effective Posts</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-complete-guide-to-ios-snapshots-and-more/"><u>[Updated] Complete Guide to iOS Snapshots and More</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-launchpad-for-novice-gopro-owners-must-have-gear-guide/"><u>[Updated] Launchpad for Novice GoPro Owners - Must-Have Gear Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/banish-your-slow-loading-instagram-swift-fixes-available-for-smartphone-enthusiasts/"><u>Banish Your Slow-Loading Instagram: Swift Fixes Available for Smartphone Enthusiasts</u></a></li>
+<li><a href="https://fox-that.techidaily.com/beat-icloud-glitches-on-ios-gadgets-uncovering-and-resolving-the-9-most-common-snags/"><u>Beat iCloud Glitches on iOS Gadgets: Uncovering & Resolving the 9 Most Common Snags</u></a></li>
+<li><a href="https://fox-links.techidaily.com/crafting-the-auditory-journey-in-a-film-teaser/"><u>Crafting the Auditory Journey in a Film Teaser</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/sive-access-premium-youtube-film-watchlists/"><u>Exclusive Access Premium YouTube Film Watchlists</u></a></li>
+<li><a href="https://fox-that.techidaily.com/from-glitches-to-gleaming-comprehensive-instructions-on-performing-a-complete-ios-hardware-reset/"><u>From Glitches to Gleaming: Comprehensive Instructions on Performing a Complete iOS Hardware Reset</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210912763-9780645739671-guide-to-consciousness-and-the-unseen-universe/"><u>Guide to Consciousness and the Unseen Universe | Free Book</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-resolve-when-your-iphones-standby-function-is-not-working-4-strategies/"><u>How to Resolve When Your iPhone's Standby Function Is Not Working (4 Strategies)</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-aol-mail-outages-on-iphones-six-proven-methods-to-restore-access/"><u>Overcoming AOL Mail Outages on iPhones: Six Proven Methods to Restore Access</u></a></li>
+<li><a href="https://fox-that.techidaily.com/recognize-these-9-warning-signs-of-liquid-damage-on-your-iphone-device/"><u>Recognize These 9 Warning Signs of Liquid Damage on Your iPhone Device</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solutions-for-better-pictures-from-your-iphones-low-mp-camera/"><u>Solutions for Better Pictures From Your iPhone's Low-MP Camera</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/up-strategy-guide-affordable-channels-to-monetize/"><u>Startup Strategy Guide Affordable Channels to Monetize</u></a></li>
+<li><a href="https://fox-that.techidaily.com/the-ultimate-guide-to-fixing-iphone-ring-volume-problems/"><u>The Ultimate Guide to Fixing iPhone Ring Volume Problems</u></a></li>
+</ul></div>
 

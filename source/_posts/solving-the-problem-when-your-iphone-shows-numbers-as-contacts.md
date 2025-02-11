@@ -1,7 +1,7 @@
 ---
 title: Solving the Problem When Your iPhone Shows Numbers as Contacts
-date: 2025-01-15T17:26:36.190Z
-updated: 2025-01-16T17:13:51.244Z
+date: 2025-02-09T06:41:50.457Z
+updated: 2025-02-10T18:31:16.131Z
 tags:
   - iphone
   - apple
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/be96a560d136aae29d0d1d935d5244e5292b9067e
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Does Your Contact Name Disappear?
 
  When you initially see the Messages app showing a phone number instead of a contact name, you may think someone random has messaged you.
@@ -35,10 +39,6 @@ thumbnail: https://thmb.techidaily.com/be96a560d136aae29d0d1d935d5244e5292b9067e
 
  However, this is usually a temporary issue and should fix itself. If this isn't the case, you can try a few quick fixes to get things back to normal quickly.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Restart Your iPhone
 
  A quick fix to getting your contact names back instead of phone numbers is to [restart your iPhone](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) . As with many other issues, a quick reboot usually does the trick, and you should be able to see your contact names instead of phone numbers in Messages.
@@ -46,7 +46,7 @@ thumbnail: https://thmb.techidaily.com/be96a560d136aae29d0d1d935d5244e5292b9067e
  In the case that this doesn't work and you are still facing the same issue, follow the fixes below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Add or Remove the Country Code
@@ -62,11 +62,11 @@ thumbnail: https://thmb.techidaily.com/be96a560d136aae29d0d1d935d5244e5292b9067e
 
 ![Contact Edit menu in iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/contact-edit-menu-in-ios.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Add Country Code to Number](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Fix-Messages-Not-Showing-Contact-Number.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -75,10 +75,6 @@ Close
  Alternatively, if you choose to add a new contact from the phone number, you can add it to an existing contact. But then you'll have two numbers saved for that person.
 
  Once you fix a phone number, you'll see Messages will automatically merge the conversations split across different chats.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Toggle iCloud Contacts
 
@@ -97,7 +93,7 @@ To do this, follow these steps on your iPhone:
 ![Settings on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Fix-Messages-Not-Showing-iCloud.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Password and Security in iPhone iCloud Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/2FA-iPhone-Password-and-Security.jpg)
@@ -105,6 +101,10 @@ To do this, follow these steps on your iPhone:
 ![Contacts in iCloud Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Fix-Messages-Not-Showing-iCloud-Contacts.jpg)
 
 Close
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix Messages Showing Phone Numbers Instead of Contact Names
 
@@ -125,22 +125,19 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-from-good-to-great-transformative-tactics-with-studio/"><u>[Updated] 2024 Approved From Good to Great Transformative Tactics with Studio</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-why-virtual-reality-lack-of-content-2023-update/"><u>[Updated] 2024 Approved Why Virtual Reality Lack of Content? -2023 Update</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-grand-selection-of-incredibly-affordable-footage-for-2024/"><u>[Updated] Grand Selection of Incredibly Affordable Footage for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-innovating-your-reality-essential-vr-peripherals-guide/"><u>2024 Approved Innovating Your Reality Essential VR Peripherals Guide</u></a></li>
-<li><a href="https://fox-that.techidaily.com/6-key-solutions-for-overcoming-challenges-with-family-sharing-features/"><u>6 Key Solutions for Overcoming Challenges with Family Sharing Features</u></a></li>
-<li><a href="https://fox-that.techidaily.com/bright-ideas-for-fixing-an-unresponsive-iphone-torch-in-just-12-steps/"><u>Bright Ideas for Fixing an Unresponsive iPhone Torch in Just 12 Steps</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/creating-costless-webinars-on-youtube-a-handbook-for-2024/"><u>Creating Costless Webinars on YouTube A Handbook for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discovering-whos-at-the-helm-of-chatgpt-ownership/"><u>Discovering Who's at the Helm of ChatGPT Ownership</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/fresh-face-of-amazons-echo-dot-gen-4-review-a-comprehensive-look/"><u>Fresh Face of Amazon's Echo Dot Gen 4 Review: A Comprehensive Look</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-excel-surpasses-gpt-based-interaction/"><u>How Excel Surpasses GPT-Based Interaction</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-retrieve-deleted-facetime-pictures-on-your-iphone-or-ipad/"><u>How to Retrieve Deleted FaceTime Pictures on Your iPhone or iPad</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-create-an-apple-developer-account-on-iphone-se-by-drfone-ios/"><u>In 2024, How To Create an Apple Developer Account On iPhone SE</u></a></li>
-<li><a href="https://fox-that.techidaily.com/navigating-iphone-13-hiccups-top-6-solutions-exposed/"><u>Navigating iPhone 13 Hiccups: Top 6 Solutions Exposed</u></a></li>
-<li><a href="https://fox-that.techidaily.com/overcome-iphone-text-limit-errors-how-to-restore-full-typing-capacity/"><u>Overcome iPhone Text Limit Errors – How to Restore Full Typing Capacity</u></a></li>
-<li><a href="https://fox-that.techidaily.com/resolve-mobile-web-browsing-woes-top-10-tips-for-a-functional-iphone-safari/"><u>Resolve Mobile Web Browsing Woes: Top 10 Tips for a Functional iPhone Safari</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solving-your-iphone-wi-fi-sharing-issues-a-step-by-step-fix-for-non-working-hotspot-feature/"><u>Solving Your iPhone Wi-Fi Sharing Issues - A Step-by-Step Fix for Non-Working Hotspot Feature</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-steps-getting-your-airplay-back-on-track/"><u>Troubleshooting Steps: Getting Your AirPlay Back on Track</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-add-youtube-melodies-in-imovie-without-hurdles/"><u>[New] 2024 Approved Add YouTube Melodies in iMovie Without Hurdles</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-game-on-with-the-samsung-ue590-a-freesync-dream-tv-review/"><u>[Updated] Game On with the Samsung UE590 A FreeSync Dream TV Review</u></a></li>
+<li><a href="https://techtrends.techidaily.com/explore-the-best-12-favorite-voip-calls-apps-to-download-for-free/"><u>Explore The Best - 12 Favorite VoIP Calls Apps to Download for Free</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-everything-from-apple-iphone-8-plus-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Everything from Apple iPhone 8 Plus to iPhone 8/X/11 | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-do-i-sim-unlock-my-apple-iphone-8-by-drfone-ios/"><u>In 2024, How Do I SIM Unlock My Apple iPhone 8?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/quick-fixes-speeding-up-safari-on-ios-devices/"><u>Quick Fixes: Speeding up Safari on iOS Devices</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ready-to-pre-order-the-apple-vision-pro-key-factors-to-consider-before-making-your-decision-insights-from-zdnet/"><u>Ready to Pre-Order the Apple Vision Pro? Key Factors to Consider Before Making Your Decision - Insights From ZDNet</u></a></li>
+<li><a href="https://fox-that.techidaily.com/reviving-safari-on-your-iphone-discover-these-10-helpful-fixes/"><u>Reviving Safari on Your iPhone: Discover These 10 Helpful Fixes</u></a></li>
+<li><a href="https://video-capture.techidaily.com/revolutionary-gameplay-preservation-with-advanced-fbx-recording-for-2024/"><u>Revolutionary Gameplay Preservation with Advanced FBX Recording for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-11-solutions-to-locate-missing-airpods-on-find-my-apple-feature/"><u>Top 11 Solutions to Locate Missing AirPods on 'Find My' Apple Feature</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-ranking-evaluation-of-microsoft-surface-laptop-4-exceptional-quality/"><u>Top Ranking Evaluation of Microsoft Surface Laptop 4 - Exceptional Quality!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-guide-why-wont-my-iphone-alarm-sound/"><u>Troubleshooting Guide: Why Won't My iPhone Alarm Sound?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/ultimate-guide-resolving-your-iphones-black-screen-dilemma/"><u>Ultimate Guide: Resolving Your iPhone's Black Screen Dilemma</u></a></li>
+<li><a href="https://fox-that.techidaily.com/why-your-iphone-alarm-isnt-working-and-how-to-fix-it/"><u>Why Your iPhone Alarm Isn't Working and How to Fix It</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Visual Voyage: A Step-by-Step Approach to Locating Your Lost FaceTime Pictures"
-date: 2025-01-28T17:39:32.743Z
-updated: 2025-01-29T22:46:28.078Z
+date: 2025-02-06T04:21:17.505Z
+updated: 2025-02-11T10:57:34.461Z
 tags:
   - iphone
   - apple
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/8852f9f0dff99dd98034c53ca9e7b84a75b979ac3
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Where Do FaceTime Live Photos Go?
@@ -35,10 +35,6 @@ thumbnail: https://thmb.techidaily.com/8852f9f0dff99dd98034c53ca9e7b84a75b979ac3
 
  You can simplify matters by viewing only your Live Photos. To do this, go to the**Albums** tab and look for the**Live Photos** album. Your iPhone, iPad, or Mac creates this album automatically as soon as you add a Live Photo to your library.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Create a Smart Album for All Your FaceTime Live Photos
 
  If you want to keep all your FaceTime Live Photos in the same place, create a Smart Album to automatically capture them all. You need to [use a Mac to create a Smart Album in the Photos app](http://www.makeuseof.com/how-to-create-and-use-smart-albums-on-mac/) . Unfortunately, you can't create Smart Albums from the Photos app on an iPhone or iPad.
@@ -47,15 +43,15 @@ thumbnail: https://thmb.techidaily.com/8852f9f0dff99dd98034c53ca9e7b84a75b979ac3
 
 ![Creating a smart album in Photos on Mac](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/create-smart-albums-photos-mac.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You'll need to type "FaceTime" into the third box manually since it isn't an option in the dropdown menu.
 
  Click**OK** to create your Smart Album. Photos should fill the album with all the Live Photos you've captured during FaceTime calls. Any new FaceTime photos you take should also appear in the album automatically.
 
  If you [sync Photos over iCloud](https://www.makeuseof.com/how-to-set-up-sync-icloud-photos/) , this Smart Album will become available from the**Albums** tab on your other devices as well.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Take Photos During FaceTime Calls
 
@@ -64,7 +60,7 @@ thumbnail: https://thmb.techidaily.com/8852f9f0dff99dd98034c53ca9e7b84a75b979ac3
 ![Making a FaceTime video call on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/facetime-call-in-progress-ios.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Capturing a FaceTime Live Photo](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/taking-a-facetime-live-photo.jpg)
@@ -74,10 +70,6 @@ Close
  If you're in a FaceTime group call on your iPhone, select the person's tile you want to take a photo of, then tap the**Fullscreen** button to reveal the**shutter** button. However, if you're on a Mac during a group call, double-click the person you want to photograph, then click the**shutter** button.
 
  A Live Photo is better than taking a screenshot because it doesn't capture the FaceTime user interface. It also saves a couple of seconds of video and audio from right before and after you take the photo. In the future, you can even [turn your Live Photos into videos](https://www.makeuseof.com/how-to-turn-live-photos-into-videos-on-iphone-mac/) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to Take a FaceTime Photo Without Telling the Other Person
 
@@ -97,17 +89,21 @@ Close
 
 ![FaceTime Live Photos toggle enabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/facetime-live-photos-toggle-enabled.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Close
 
  On a Mac, open**FaceTime** and go to**FaceTime > Settings** from the menu bar. In the**Settings** tab, turn on the option to**Allow Live Photos to be captured during video calls** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Troubleshooting FaceTime Photo Problems
 
  There are lots of problems that might stop you from being able to snap a Live Photo during your FaceTime calls. If you can't find the shutter button, FaceTime isn't saving your photos, or you have trouble finding FaceTime photos after you take them, try these troubleshooting tips to fix it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Enable FaceTime Live Photos on Both Devices
 
@@ -119,6 +115,10 @@ Close
 
 ![Photos app on an iPhone Home Screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/share-shared-albums-with-non-apple-users.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Update to the Latest Operating System
 
  In some older versions of iOS, Apple temporarily removed the ability to take Live Photos on FaceTime. This was presumably due to a FaceTime security bug. FaceTime photos are available now, but you need to update your device to the latest software to use them. The person you're taking a photo of needs to update their device to the latest software as well.
@@ -129,16 +129,12 @@ Close
 
  Install any updates that are available there by clicking**Update Now** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 4\. Restart Your Device
 
  No matter what [FaceTime problem you're encountering](https://www.makeuseof.com/tag/facetime-not-working/) , you should always try to fix it by restarting your device. This is a remarkably effective troubleshooting step that only takes a moment to try out. Power off your iPhone, iPad, or Mac as you usually would, then wait 30 seconds before restarting it again.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5\. Restart FaceTime on Your Device
@@ -148,6 +144,10 @@ Close
  On an iPhone or iPad, go to**Settings > FaceTime** and toggle the**FaceTime** button at the top of the screen.
 
 ![iOS Settings menu FaceTime selected](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ios-settings-menu-facetime-selected.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![FaceTime enabled in iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/facetime-enabled-ios-1.jpg)
 
@@ -176,22 +176,21 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-maximize-your-impact-top-10-insta-tools-for-post-management/"><u>[Updated] 2024 Approved Maximize Your Impact Top 10 Insta Tools for Post Management</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-unlock-quality-video-recording-top-5-recorder-brands/"><u>[Updated] 2024 Approved Unlock Quality Video Recording - Top 5 Recorder Brands</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-backtracking-visual-vectors-techniques-for-tracking-originals-in-instagram-posts/"><u>[Updated] Backtracking Visual Vectors Techniques for Tracking Originals in Instagram Posts</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-mastering-ps4-screens-with-obs-full-steps/"><u>[Updated] Mastering PS4 Screens with OBS Full Steps</u></a></li>
-<li><a href="https://blog-min.techidaily.com/1724765613813-dvd/"><u>「円滑なDVD視聴をサポートする車内ナビ機能 - 一度見たくも思わぬエラー回避法の解明」</u></a></li>
-<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-realme-narzo-n55-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Realme Narzo N55 | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/guide-to-tracking-down-your-absent-iphone-via-apples-innovative-find-my-application/"><u>Guide to Tracking Down Your Absent iPhone via Apple's Innovative Find My Application</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-manage-and-maintain-your-iphone-14s-battery-life/"><u>How to Manage and Maintain Your iPhone 14'S Battery Life</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-extensive-analysis-djis-latest-uav-inspire-1/"><u>In 2024, Extensive Analysis DJI's Latest UAV, Inspire 1</u></a></li>
-<li><a href="https://fox-that.techidaily.com/navigating-iphone-photography-pitfalls-solutions-for-efficient-picture-processing/"><u>Navigating iPhone Photography Pitfalls: Solutions for Efficient Picture Processing</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-how-to-fade-audio-in-kinemaster/"><u>New In 2024, How To Fade Audio In Kinemaster</u></a></li>
-<li><a href="https://fox-that.techidaily.com/overcome-your-iphone-ringsilent-switch-problem-alternative-ways-to-manage-volume-control-effectively/"><u>Overcome Your iPhone Ring/Silent Switch Problem - Alternative Ways to Manage Volume Control Effectively</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-windows-search-service-error-on-pcs/"><u>Overcoming Windows Search Service Error on PCs</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solutions-for-receiving-messages-and-phone-calls-during-dnd-on-your-iphone-top-8-strategies/"><u>Solutions for Receiving Messages & Phone Calls During DND on Your iPhone: Top 8 Strategies</u></a></li>
-<li><a href="https://fox-that.techidaily.com/tackling-the-7-oft-encountered-iphone-display-glitches-a-guide-to-repairing-them/"><u>Tackling the 7 Oft-Encountered iPhone Display Glitches: A Guide to Repairing Them</u></a></li>
-<li><a href="https://fox-that.techidaily.com/top-7-solutions-why-your-iphone-cant-get-text-messages/"><u>Top 7 Solutions: Why Your iPhone Can't Get Text Messages</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshoot-iphone-standby-issues-top-four-fixes-you-need/"><u>Troubleshoot iPhone Standby Issues: Top Four Fixes You Need</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-untangling-aerial-vehicles-a-guide-to-drones-operation/"><u>[New] Untangling Aerial Vehicles A Guide to Drones' Operation</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-a-powerful-tool-for-identifying-issues-in-damaged-computers/"><u>ChatGPT: A Powerful Tool for Identifying Issues in Damaged Computers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/deciphering-the-truth-beyond-ai-generated-summary-texts/"><u>Deciphering the Truth Beyond AI-Generated Summary Texts</u></a></li>
+<li><a href="https://fox-that.techidaily.com/effortlessly-combine-similar-pictures-on-your-iphone-or-mac-step-by-step-guide/"><u>Effortlessly Combine Similar Pictures on Your iPhone or Mac - Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/essential-trouble-shooting-solutions-for-every-iphone-variant/"><u>Essential Trouble-Shooting Solutions for Every iPhone Variant</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-on-realme-by-drfone-android/"><u>How to Bypass FRP on Realme?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/improve-iphone-safari-speed-with-these-4-proven-tricks/"><u>Improve iPhone Safari Speed with These 4 Proven Tricks</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-asus-rog-phone-7-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Asus ROG Phone 7</u></a></li>
+<li><a href="https://some-skills.techidaily.com/investigating-the-underreported-drawbacks-of-vr-for-2024/"><u>Investigating the Underreported Drawbacks of VR for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-users-heres-how-to-fix-safari-image-load-failures-9-methods/"><u>IPhone Users! Here's How to Fix Safari Image Load Failures (9 Methods)</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-waht-is-ai-pixel-art-generator-wondershare-virbo-glossary/"><u>New 2024 Approved Waht Is AI Pixel Art Generator? | Wondershare Virbo Glossary</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-solving-the-fcpx-crash-problem-top-solutions/"><u>New In 2024, Solving the FCPX Crash Problem Top Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/reviving-a-frozen-iphone-essential-solutions-and-advice/"><u>Reviving a Frozen iPhone: Essential Solutions and Advice</u></a></li>
+<li><a href="https://fox-that.techidaily.com/safeguard-battery-health-8-techniques-to-solve-on-hold-charging-glitch-on-iphones/"><u>Safeguard Battery Health: 8 Techniques to Solve 'On-Hold' Charging Glitch on iPhones</u></a></li>
+<li><a href="https://driver-download.techidaily.com/simple-steps-get-your-corsair-drivers-installed-on-windows-systems/"><u>Simple Steps: Get Your Corsair Drivers Installed on Windows Systems</u></a></li>
+<li><a href="https://fox-that.techidaily.com/tackling-the-most-persistent-iphone-x-bugs-and-how-you-can-fix-them/"><u>Tackling the Most Persistent iPhone X Bugs & How You Can Fix Them</u></a></li>
 </ul></div>
 

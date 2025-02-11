@@ -1,7 +1,7 @@
 ---
 title: 4 Ways to Fix StandBy Not Working on Your iPhone
-date: 2025-01-24T04:44:02.611Z
-updated: 2025-01-30T02:13:28.963Z
+date: 2025-02-10T00:28:55.038Z
+updated: 2025-02-11T10:45:32.792Z
 tags:
   - iphone
   - apple
@@ -32,13 +32,13 @@ thumbnail: https://thmb.techidaily.com/1fd97819f96aea4d97e8ac4ff57edab197b6c14d9
 ![iPhone Settings StandBy option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-settings-standby-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![iPhone StandBy Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-standby-settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Close
@@ -46,7 +46,7 @@ Close
  It's worth mentioning that only the iPhone 14 Pro models that support [the always-on display feature](https://www.makeuseof.com/turn-off-always-on-display-iphone/) can show StandBy at all times. So, if you have an older iPhone, you have to manually access StandBy by tapping on the screen.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Make Sure You're Using StandBy Correctly
@@ -55,11 +55,11 @@ Close
 
 ![iPhone in StandBy Mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/iphone-in-standby-mode-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you do everything right, it should start working as intended, after which you can personalize StandBy on your iPhone by changing the Photos view, clock style, or even adding widgets.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Use an MFi-Certified Charging Accessory
 
@@ -67,15 +67,15 @@ Close
 
  Although Apple doesn't require you to use an MFi-certified charger, we highly recommend it, especially when StandBy fails to activate on your iPhone.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Restart Your iPhone
 
  If StandBy is still not working, your last option is to [restart your iPhone](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) . Simply turning your iPhone off and turning it back on is one of the easiest ways to fix any software issue you could be facing with your device. Therefore, a simple restart is also a potential fix when StandBy isn't working.
 
 ![iPhone slide to power off](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-slide-to-power-off.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  However, if you're still out of luck after a reboot, you should contact Apple Support or [make an Apple Store appointment at a Genius Bar](https://www.makeuseof.com/apple-store-appointment-genius-bar/) for in-person assistance.
 
@@ -100,20 +100,18 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-experiential-playground-vr-innovations/"><u>[New] 2024 Approved Experiential Playground VR Innovations</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-introduction-to-adding-new-fonts-in-ae-for-2024/"><u>[New] Introduction to Adding New Fonts in AE for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-going-against-the-flow-youtube-video-opposites/"><u>[Updated] Going Against the Flow YouTube Video Opposites</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-inside-scoop-on-sharex-scrutiny-and-comparisons/"><u>[Updated] Inside Scoop on ShareX Scrutiny & Comparisons</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721480815194-airpod-connection-woes-learn-how-to-limit-pairing-with-single-apple-devices-effortlessly/"><u>AirPod Connection Woes? Learn How to Limit Pairing with Single Apple Devices Effortlessly</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721456388331-discover-why-and-how-your-iphones-display-turns-dark-the-ultimate-list-of-10-reasons/"><u>Discover Why and How Your iPhone's Display Turns Dark - The Ultimate List of 10 Reasons</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-realme-narzo-60x-5g-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Realme Narzo 60x 5G</u></a></li>
-<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-realme-gt-5-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On Realme GT 5? | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/iphone-control-center-malfunction-here-are-eight-remedies-to-restore-functionality/"><u>IPhone Control Center Malfunction? Here Are Eight Remedies to Restore Functionality</u></a></li>
-<li><a href="https://fox-that.techidaily.com/iphone-rejuvenation-the-step-by-step-guide-to-no-itunes-device-recovery/"><u>IPhone Rejuvenation: The Step-by-Step Guide to No-ITunes Device Recovery</u></a></li>
-<li><a href="https://some-skills.techidaily.com/is-your-macs-ram-consumption-too-much-heres-why-that-shouldnt-concern-you/"><u>Is Your Mac's RAM Consumption Too Much? Here's Why That Shouldn't Concern You</u></a></li>
-<li><a href="https://fox-that.techidaily.com/resolve-your-iphones-silent-messages-dilemma-over-15-strategies-to-restore-notifications/"><u>Resolve Your iPhone's Silent Messages Dilemma: Over 15 Strategies to Restore Notifications</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721467124017-solving-common-icloud-errors-for-iphone-and-ipad-fix-them-now/"><u>Solving Common iCloud Errors for iPhone and iPad – Fix Them Now</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/step-by-step-walkthrough-how-to-get-your-hands-on-the-windows-wntez-11-for-arm-using-an-iso-image/"><u>Step-by-Step Walkthrough: How to Get Your Hands on the Windows ˈwɪntəʊz 11 for ARM Using an ISO Image</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-no-more-text-left-issue-on-iphones-easy-fixes/"><u>Troubleshooting 'No More Text Left' Issue on iPhones - Easy Fixes</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-brief-blueprints-iphone-content-for-desktop/"><u>[New] Brief Blueprints IPhone Content for Desktop</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-decoding-mycam-cams-video-quality-and-recording-speed/"><u>[New] Decoding MyCam Cam’s Video Quality and Recording Speed</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-elite-5-earbuds-youtubes-best-companions/"><u>[New] In 2024, Elite 5 Earbuds YouTube's Best Companions</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-unveiling-the-best-10-video-call-apps-for-iphone-and-android-users/"><u>[New] In 2024, Unveiling the Best 10 Video Call Apps for iPhone and Android Users</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/eamless-screen-stretch-cycle-youtube-on-television-display/"><u>[New] Seamless Screen Stretch Cycle YouTube on Television Display</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-unleashing-potential-crafting-a-youtube-channel-brand-for-success/"><u>[Updated] In 2024, Unleashing Potential Crafting a YouTube Channel Brand for Success</u></a></li>
+<li><a href="https://fox-that.techidaily.com/battling-connection-issues-discover-7-ways-to-fix-your-iphones-failed-attempt-at-joining-a-vpn/"><u>Battling Connection Issues? Discover 7 Ways to Fix Your iPhone's Failed Attempt at Joining a VPN</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/bulk-savings-continue-score-an-eight-terabyte-samsung-t5-ssd-at-prime-days-unbeatable-price-cut-revealed-by-zdnet/"><u>Bulk Savings Continue: Score an Eight-Terabyte Samsung T5 SSD at Prime Day's Unbeatable Price Cut, Revealed by ZDNet</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-get-your-iphone-hardware-tested-with-apples-remote-diagnostic-exam/"><u>How to Get Your iPhone Hardware Tested With Apple’s Remote Diagnostic Exam</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-huawei-nova-y71-phone-without-google-account-by-drfone-android/"><u>How to Unlock Huawei Nova Y71 Phone without Google Account?</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-top-auditory-alteration-aids-for-streamers-and-clips/"><u>In 2024, Top Auditory Alteration Aids for Streamers and Clips</u></a></li>
+<li><a href="https://fox-that.techidaily.com/lost-airpods-here-are-11-ways-to-spot-them-on-your-iphones-find-my/"><u>Lost AirPods? Here Are 11 Ways to Spot Them on Your iPhone's 'Find My'</u></a></li>
+<li><a href="https://fox-that.techidaily.com/rejuvenate-your-iphones-control-center-a-step-by-step-guide-to-8-key-repairs/"><u>Rejuvenate Your IPhone’s Control Center: A Step-by-Step Guide to 8 Key Repairs</u></a></li>
 </ul></div>
 

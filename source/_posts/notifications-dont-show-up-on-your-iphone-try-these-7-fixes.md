@@ -1,7 +1,7 @@
 ---
 title: Notifications Don’t Show Up on Your iPhone? Try These 7 Fixes
-date: 2025-01-29T11:00:52.942Z
-updated: 2025-01-30T03:20:36.398Z
+date: 2025-02-06T11:08:11.831Z
+updated: 2025-02-11T01:25:10.050Z
 tags:
   - iphone
   - apple
@@ -33,19 +33,15 @@ thumbnail: https://thmb.techidaily.com/30d2a20c84a301395b600ba93cb77523eb9f5d9c5
 
 ![iphone silent switch and volume buttons](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/iphone-silent-switch.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you expected vibration alerts on Silent mode but did not receive them for incoming notifications, you'll need to review the relevant settings. In those cases, incorrect settings are the main reason [why your iPhone isn't vibrating on Silent Mode](https://www.makeuseof.com/iphone-not-vibrating-on-silent-or-ring-mode-fixes/) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Restart Your iPhone
 
 ![fix notifications not showing on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/11/fix-notifications-not-showing-on-iphone.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Sometimes, your iPhone acts up for no apparent reason. Most of the time, a simple reboot can eliminate these glitches that cause temporary malfunctions.
 
@@ -57,10 +53,6 @@ thumbnail: https://thmb.techidaily.com/30d2a20c84a301395b600ba93cb77523eb9f5d9c5
 
  If your browser or other apps can't access the internet, chances are that your notification issue is network-related.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Troubleshoot Cellular Data Issues on Your iPhone
 
  For cellular connections, turn off cellular data and turn it back on. Alternatively, enable Airplane Mode and disable it after a few seconds. You'll find both of these options in the**Control Center** on your device.
@@ -69,11 +61,11 @@ thumbnail: https://thmb.techidaily.com/30d2a20c84a301395b600ba93cb77523eb9f5d9c5
 
 ![fix notifications not showing on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/11/fix-notifications-not-showing-on-iphone-image-01.jpg)
 
- If the problem persists, see our [guide to speeding up a slow mobile data connection](https://www.makeuseof.com/tag/speed-up-slow-mobile-data/) . Make sure you still have an active data plan and haven't run out of data. Reach out to your cellular carrier for further support with this.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ If the problem persists, see our [guide to speeding up a slow mobile data connection](https://www.makeuseof.com/tag/speed-up-slow-mobile-data/) . Make sure you still have an active data plan and haven't run out of data. Reach out to your cellular carrier for further support with this.
 
 ### Troubleshoot Wi-Fi Connectivity Issues on Your iPhone
 
@@ -111,10 +103,6 @@ Close
 
 ![iphone driving focus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/img_6058.JPEG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![iphone driving focus settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/img_6059.JPEG)
 
 Close
@@ -122,16 +110,12 @@ Close
  If you want notifications while [using Apple CarPlay](https://www.makeuseof.com/tag/apple-carplay-guide/) , you should also toggle off the**Activate With CarPlay** option. Leaving this enabled will activate Driving Focus when you connect your iPhone to a CarPlay-compatible vehicle.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Check and Modify Your Notification Settings
 
  If your iPhone doesn't display notifications for a particular app, check that the app's notification settings and preferences are correctly configured.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Change App Notifications From the Settings Menu
 
@@ -145,11 +129,11 @@ Close
 
 ![iphone app notification settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/img_6062.JPEG)
 
-Close
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+Close
 
 ### Review Your Scheduled Notification Summary
 
@@ -163,10 +147,14 @@ Close
 
 ![iphone scheduled summary](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/img_6063.JPEG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Close
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Check In-App Notification Settings
@@ -189,6 +177,10 @@ Close
 
  Go to**Settings > General > Software Update** to see if there's an update available. And if there is, tap**Download and Install** and walk through the process to update your device.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8\. Update Your Apps
 
  Sometimes, the problem is not with your iPhone but the apps themselves. If you're not receiving notifications for only a particular app, it may be a bug that can be fixed with an update.
@@ -197,7 +189,15 @@ Close
 
 ![iphone app store search tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/search-app-store-1.JPEG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![type keyword to search for app in iphone app store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/app-store-search-2.JPEG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![update instagram in iphone app store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/app-store-search-3.JPEG)
 
@@ -215,15 +215,15 @@ Close
 
 ![reset iphone in iphone settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/reset-iphone-menu.JPEG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![options to reset iphone settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/reset-iphone-options.JPEG)
 
 Close
 
  Remember that resetting your iPhone's settings puts all options back to the default. This means you'll have to connect to Wi-Fi networks again, re-configure Bluetooth devices, adjust your privacy settings, and more. However, your data isn't affected by this.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Get Timely Notifications on Your iPhone
 
@@ -246,17 +246,24 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-jumpstart-your-tiktok-presence-top-30-engaging-username-ideas/"><u>[Updated] 2024 Approved Jumpstart Your TikTok Presence - Top 30 Engaging Username Ideas</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-mi-drone-4k-flight-insights-and-features/"><u>[Updated] Mi Drone 4K Flight Insights & Features</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-thorough-investigation-into-simple-hdr-imaging/"><u>2024 Approved Thorough Investigation Into Simple HDR Imaging</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/can-you-unlock-apple-iphone-11-after-forgetting-the-passcode-drfone-by-drfone-ios/"><u>Can You Unlock Apple iPhone 11 After Forgetting the Passcode? | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721475280220-cant-connect-iphone-with-itunesfinder-try-these-proven-fixing-tips/"><u>Can't Connect iPhone with iTunes/Finder? Try These Proven Fixing Tips!</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721464513527-cant-see-app-icons-on-ios-expert-tips-for-restoring-every-single-icon-easily/"><u>Can't See App Icons on iOS? Expert Tips for Restoring Every Single Icon Easily.</u></a></li>
-<li><a href="https://driver-error.techidaily.com/download-the-latest-amd-radeon-hd-6670-graphics-card-drivers-with-these-simple-steps/"><u>Download the Latest AMD Radeon HD 6670 Graphics Card Drivers with These Simple Steps</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-poco-f5-pro-5g-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Poco F5 Pro 5G Current Location of a Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/revive-and-optimize-windows-audios-with-up-to-date-drivers-guide/"><u>Revive and Optimize Windows Audios with Up-to-Date Drivers Guide</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721458484864-revive-or-reboot-how-to-independently-reset-your-iphone-say-goodbye-to-itunes-dependency/"><u>Revive or Reboot: How to Independently Reset Your iPhone - Say Goodbye to iTunes Dependency!</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721451693709-struggling-with-iphones-silentvolume-buttons-correct-with-these-eb-optimized-solutions/"><u>Struggling with iPhone's Silent/Volume Buttons? Correct With These Eb-Optimized Solutions!</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721465627296-unlock-access-to-icloud-settings-on-your-device-top-4-fixes/"><u>Unlock Access to iCloud Settings on Your Device: Top 4 Fixes</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-capture-stillness-on-the-go-without-tripods/"><u>[Updated] Capture Stillness on the Go without Tripods</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-videography-subtitle-designer-for-2024/"><u>[Updated] Videography Subtitle Designer for 2024</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/1-quick-guide-resolving-a-frozen-ios-update-process/"><u>1. Quick Guide: Resolving a Frozen iOS Update Process</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/encouraging-multilingualism-prioritizing-english/"><u>Encouraging Multilingualism: Prioritizing English</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-speed-using-windows-powertoys/"><u>Enhance Speed: Using Windows PowerToys</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fix-any-iphone-issue-how-to-clear-network-configurations/"><u>Fix Any iPhone Issue: How to Clear Network Configurations</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/guide-to-top-8-linux-screenshot-solutions/"><u>Guide to Top 8 Linux Screenshot Solutions</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-the-error-23-issue-in-apex-legends-detailed-steps-inside/"><u>How to Fix the 'Error 23' Issue in Apex Legends – Detailed Steps Inside</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-overcome-iphone-application-installation-hurdles-10-proven-methods/"><u>How to Overcome iPhone Application Installation Hurdles – 10 Proven Methods</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-gmail-password-on-honor-magic-vs-2-devices-by-drfone-android/"><u>How to Reset Gmail Password on Honor Magic Vs 2 Devices</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-resolve-your-iphone-when-it-gets-stuck-at-startup-apple-icon-6-strategies-you-can-try-today/"><u>How to Resolve Your iPhone When It Gets Stuck at Startup (Apple Icon) - 6 Strategies You Can Try Today!</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlock-youtubes-potential-with-expert-picture-posting-techniques/"><u>In 2024, Unlock YouTube's Potential with Expert Picture Posting Techniques</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/professional-insights-choosing-the-right-tool-to-fix-corrupted-jpeg-pictures-flawlessly/"><u>Professional Insights: Choosing the Right Tool to Fix Corrupted JPEG Pictures Flawlessly</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resurrect-your-iphones-deleted-text-and-note-entries-with-these-strategies/"><u>Resurrect Your iPhone's Deleted Text and Note Entries with These Strategies</u></a></li>
+<li><a href="https://fox-that.techidaily.com/step-by-step-guide-forcing-reboot-on-your-iphone-and-accessing-recovery-mode/"><u>Step-by-Step Guide: Forcing Reboot on Your iPhone & Accessing Recovery Mode</u></a></li>
+<li><a href="https://fox-that.techidaily.com/the-lowdown-on-the-iphone-14s-charging-woes-an-essential-guide-to-battery-problems/"><u>The Lowdown on the iPhone 14'S Charging Woes: An Essential Guide to Battery Problems</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-15-solutions-when-you-encounter-issues-with-your-facetime-connection/"><u>Top 15 Solutions When You Encounter Issues with Your FaceTime Connection</u></a></li>
+<li><a href="https://fox-that.techidaily.com/understanding-iphone-screen-brightness-the-top-10-causes-of-automatic-dimming/"><u>Understanding iPhone Screen Brightness: The Top 10 Causes of Automatic Dimming</u></a></li>
+<li><a href="https://fox-that.techidaily.com/understanding-why-your-phones-wi-fi-speed-is-not-up-to-par-7-insights/"><u>Understanding Why Your Phone's Wi-Fi Speed Is Not Up To Par: 7 Insights</u></a></li>
 </ul></div>
 

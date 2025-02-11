@@ -1,7 +1,7 @@
 ---
 title: "Uncover Hidden or Deleted iPhone Apps: A Comprehensive Guide to Retrieving Them"
-date: 2024-08-15T11:50:53.416Z
-updated: 2024-08-16T11:50:53.416Z
+date: 2025-02-06T16:24:01.401Z
+updated: 2025-02-10T21:23:56.122Z
 tags:
   - iphone
   - apple
@@ -32,18 +32,20 @@ thumbnail: https://thmb.techidaily.com/b59734d21ac4befa6d882d663a57d13f768195f33
 
 ![App Library showing apps in alphabetical order](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/app-library-showing-apps-in-alphabetical-order.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 ![Long-press app in App Library and tap Add to Home Screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/long-press-app-in-app-library-and-tap-add-to-home-screen.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
  In the future, if you want all the new apps you download to show on the iPhone Home Screen, open**Settings** \>**Home Screen** and select**Add to Home Screen** . This will put an end to new apps not appearing on the Home Screen.
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Use Spotlight to Find the Missing App
 
  The second method is to use Spotlight search, which helps you find files and apps stored anywhere on your device.
@@ -54,32 +56,31 @@ Close
 
 ![iphone home screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/img_5638.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![iphone search screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/img_5639.jpg)
 
 ![use search to find an app in iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/img_5640.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Close
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ## 3\. Ask Siri to Open the Missing App
 
  You can use Siri to open downloaded apps that have disappeared from the Home Screen. If you have already [set up Siri on your iPhone](https://www.makeuseof.com/how-to-set-up-and-use-siri-iphone/) , simply activate the voice assistant and ask it to "Open \[app name\]."
 
  To activate Siri, you can say "Hey Siri" or press and hold the**Side** button (on iPhones with Face ID) or**Home** button (on iPhones with Touch ID). Besides opening apps, there are many other [tasks you can ask Siri to carry out for you](https://www.makeuseof.com/tag/8-things-you-probably-didnt-realize-siri-could-do/) .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Look Inside Folders to Find Hidden Apps
 
  Sometimes we put apps inside folders to hide them or keep them away from plain sight in case those apps aren't used frequently. After a while, it's possible to forget about them.
 
  If this is your situation, open all the app folders on your iPhone Home Screen and look for the missing app inside. Once you find it, you may want to drag the app icon out of the folder onto the Home Screen.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Check Screen Time to Unhide Restricted Apps
 
@@ -91,23 +92,8 @@ Close
 
 ![Tap Content & Privacy Restrictions in iPhone Screen Time Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/tap-content--privacy-restrictions-in-iphone-screen-time-settings.png)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ![Tap Allowed Apps in iPhone Screen Time Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/tap-allowed-apps-in-iphone-screen-time-settings.png)
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Make Sure all iPhone apps are allowed and nothing is restricted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/make-sure-all-iphone-apps-are-allowed-and-nothing-is-restricted.png)
 
 Close
@@ -120,6 +106,10 @@ Close
 
  To avoid confusion in the future, learn more about [hiding and unhiding the Home Screen pages](https://www.makeuseof.com/hide-iphone-home-screen-pages/) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Use App Store to Check If an App Is Installed or Not
 
  When an app is downloaded on your iPhone, the App Store page says**Open** (or**Update**). If the app is not downloaded, it says**Get** (or shows the**Download** cloud icon).
@@ -130,14 +120,15 @@ Close
 2. Type the name of the missing app.
 3. In the search results, if the app says**Open** , tap it. If it says**Get** or shows a cloud icon, download it.
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Long press iOS App Store icon and tap Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/long-press-ios-app-store-icon-and-tap-search.png)
 
 ![Search for app in App Store and tap Open](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/search-for-app-in-app-store-and-tap-open.png)
 
 Close
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Reset the Home Screen Layout to View All Apps Alphabetically
 
@@ -150,14 +141,19 @@ Here's how to reset your iPhone's Home Screen layout:
 
 ![Tap General in iPhone Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/tap-general-in-iphone-settings-app.png)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ![From the bottom tap Reset in iPhone Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/from-the-bottom-tap-reset-in-iphone-settings.png)
 
 ![Tap Reset Home Screen Layout in iPhone Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/tap-reset-home-screen-layout-in-iphone-settings.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Close
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 9\. Additional Fixes if You Still Can't Find an App
 
@@ -165,9 +161,6 @@ Close
 
  In this case, you can use generic (but frequently effective) solutions such as [restarting your iPhone](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) . You should also update your iPhone to ensure your device receives bug fixes from the latest version of iOS. Go to**Settings > General > Software Update** to check if an iOS update is available.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ## Hopefully, You Found the Missing iPhone App
 
  These were the quick ways to find any missing or hidden apps on iPhone. Sometimes if you can't find an app, you likely deleted it. In this case, re-download it from the App Store.
@@ -182,8 +175,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -191,6 +182,26 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-jolt-dampening-snapcam-accessory-kit/"><u>[New] 2024 Approved Jolt Dampening SnapCam Accessory Kit</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-invigorating-channel-content-best-video-concepts-to-inspire-viewers/"><u>[New] In 2024, Invigorating Channel Content Best Video Concepts to Inspire Viewers</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-from-fresh-face-to-hashtag-hero-unleash-the-secrets-for-swift-social-media-success-on-instagram-for-2024/"><u>[Updated] From Fresh Face to Hashtag Hero Unleash the Secrets for Swift Social Media Success on Instagram for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-high-quality-videos-best-windows-11-tools/"><u>[Updated] High-Quality Videos Best Windows 11 Tools</u></a></li>
+<li><a href="https://fox-that.techidaily.com/apple-wont-accept-my-creditdebit-here-are-6-fixes/"><u>Apple Won't Accept My Credit/Debit? Here Are 6 Fixes</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-magic-9-lifestyle-improvements-at-your-fingertips/"><u>ChatGPT Magic: 9 Lifestyle Improvements at Your Fingertips</u></a></li>
+<li><a href="https://fox-info.techidaily.com/fundamentals-for-newcomers-on-screen-quality-measures/"><u>Fundamentals for Newcomers on Screen Quality Measures</u></a></li>
+<li><a href="https://fox-that.techidaily.com/get-your-iphone-light-back-on-track-12-problem-solving-methods/"><u>Get Your iPhone Light Back on Track: 12 Problem-Solving Methods</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-does-unlimited-metro-by-t-mobile-facilitate-seamless-network-roaming/"><u>How Does Unlimited Metro by T-Mobile Facilitate Seamless Network Roaming?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-honor-100-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Honor 100 Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/imessage-disappearing-act-heres-what-it-means-and-how-to-check-for-a-block/"><u>IMessage Disappearing Act? Here’s What It Means and How to Check for a Block</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-oppo-a58-4g-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Oppo A58 4G</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-control-center-not-responding-discover-8-fixes-that-work/"><u>IPhone Control Center Not Responding? Discover 8 Fixes That Work!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/navigating-the-offline-feature-on-find-my-iphone-how-to-retrieve-your-lost-phone/"><u>Navigating the Offline Feature on Find My iPhone – How to Retrieve Your Lost Phone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/revitalize-your-iphone-a-step-by-step-guide-to-perfecting-battery-calibration/"><u>Revitalize Your iPhone: A Step-by-Step Guide to Perfecting Battery Calibration</u></a></li>
+<li><a href="https://fox-that.techidaily.com/revive-your-iphone-from-troubled-times-a-step-by-step-dfu-mode-guide-to-fixing-5-common-issues/"><u>Revive Your iPhone From Troubled Times: A Step-by-Step DFU Mode Guide to Fixing 5 Common Issues</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-samsung-galaxy-s24-ultra-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Samsung Galaxy S24 Ultra</u></a></li>
+<li><a href="https://fox-that.techidaily.com/speedily-restore-your-ios-widgets-with-these-10-easy-remedies/"><u>Speedily Restore Your iOS Widgets with These 10 Easy Remedies</u></a></li>
+<li><a href="https://fox-that.techidaily.com/trouble-setting-up-vpn-on-iphone-discover-7-proven-solutions/"><u>Trouble Setting Up VPN on iPhone? Discover 7 Proven Solutions!</u></a></li>
+</ul></div>
 

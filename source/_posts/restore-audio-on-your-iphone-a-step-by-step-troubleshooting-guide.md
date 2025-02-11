@@ -1,7 +1,7 @@
 ---
 title: "Restore Audio on Your iPhone: A Step-by-Step Troubleshooting Guide"
-date: 2025-01-12T16:19:59.887Z
-updated: 2025-01-16T16:27:26.443Z
+date: 2025-02-08T16:57:27.859Z
+updated: 2025-02-11T09:06:52.439Z
 tags:
   - iphone
   - apple
@@ -48,6 +48,10 @@ Close
 
  If it’s not dust and dirt, try to recall whether you accidentally dropped your iPhone in water recently. While iPhones are water-resistant, water may still get into your speakers. You can use the [Sonic](https://apps.apple.com/app/sonic/id986999895) app to eject water from the speakers if this is the case.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Turn Off Silent Mode and Do Not Disturb
 
  It’s convenient to use Silent Mode and Do Not Disturb to focus at work. Therefore, a simple reason why there’s no sound on your iPhone could be that these features are still turned on.
@@ -69,14 +73,10 @@ Here’s how to turn off Do Not Disturb or Focus:
 
 ![iphone control center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/iphone-control-center.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Close
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Check Your iPhone’s Audio Output
@@ -91,13 +91,13 @@ Close
 ![bluetooth turned on iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/bluetooth-on.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![iphone control center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/bluetooth-off-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Close
@@ -110,7 +110,7 @@ Close
 ![iphone control center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/iphone-control-center.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![airplay on iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/airplay-iphone.jpg)
@@ -140,10 +140,6 @@ Close
 
  If the sound issue revolves around iPhone alerts, you can refer to our detailed guide on [how to fix alert sounds on your iPhone](https://www.makeuseof.com/how-to-fix-iphone-not-receiving-alerts/) .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Check Third-Party App Sound Settings
 
  If there’s no sound on your iPhone when you’re using a specific app, you should check the sound settings within the app itself. For messaging apps like WhatsApp, check that you chose a notification sound and that**None** is not selected. For games, make sure that you didn’t mute the audio or turn off some of the music settings.
@@ -151,10 +147,6 @@ Close
  You’ll need to root around in the relevant in-app settings to find these options as they move around for every app.
 
 ![audio settings in sky game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/sky-game-audio.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Exit and Relaunch the Third-Party App
 
@@ -164,16 +156,28 @@ Close
 
 ![person holding iphone showing instagram post](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/instagram-post.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can also opt to view the video through another route. Instead of watching the video in your Instagram feed, tap into that Instagram profile and select the video from there instead.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Update iOS and Your iPhone Apps
 
 ![iphone on wooden surface showing hello welcome screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/iphone-hello.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Updates often come with fixes for bugs and glitches, so you can solve the issue of no sound on your iPhone by simply keeping your iOS and apps up-to-date. For more information, refer to our guide on [how to update your iPhone](https://www.makeuseof.com/tag/update-iphone-ios-apps-data/) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 9\. Force Restart Your iPhone
@@ -187,10 +191,6 @@ Close
 ## 11\. Reset All Settings on Your iPhone
 
  If you tried all the suggestions above but they don’t work, the last solution is to [reset your iPhone’s settings](https://www.makeuseof.com/tag/how-to-restore-reset-iphone-without-itunes/) . As long as you don’t select the**Erase All Content and Settings** option, rest assured that you will not lose any data. That said, you may need to erase all the content and set your iPhone up as new to fix the issue, so try that if the first option doesn’t work.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix No Sound on Your iPhone Easily
 
@@ -211,21 +211,19 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/omprehensive-guide-to-youtubes-subscription-advantages/"><u>[New] Comprehensive Guide to YouTube's Subscription Advantages</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-master-list-of-premium-9-multi-platform-video-communication-apps-for-2024/"><u>[New] Master List of Premium 9 Multi-Platform Video Communication Apps for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-top-10-unique-gaming-screen-capture-applications-for-2024/"><u>[New] Top 10 Unique Gaming Screen Capture Applications for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-making-your-favorite-tiktok-beats-your-personal-mobile-alarm-signal/"><u>[Updated] Making Your Favorite TikTok Beats Your Personal Mobile Alarm Signal</u></a></li>
-<li><a href="https://fox-that.techidaily.com/banish-your-slow-loading-instagram-swift-fixes-available-for-smartphone-enthusiasts/"><u>Banish Your Slow-Loading Instagram: Swift Fixes Available for Smartphone Enthusiasts</u></a></li>
-<li><a href="https://fox-that.techidaily.com/boosting-safari-performance-top-4-tips-to-accelerate-your-iphones-browser/"><u>Boosting Safari Performance: Top 4 Tips to Accelerate Your iPhone's Browser</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/exploring-malware-cleanup-is-it-integrated-in-microsofts-windows-defender-system-tips-from-yl-software-experts/"><u>Exploring Malware Cleanup: Is It Integrated in Microsoft's Windows Defender System - Tips From YL Software Experts</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/eye-on-video-the-premier-cameras-excellence-for-2024/"><u>Eye on Video The Premier Cameras Excellence for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/from-glitches-to-gleaming-comprehensive-instructions-on-performing-a-complete-ios-hardware-reset/"><u>From Glitches to Gleaming: Comprehensive Instructions on Performing a Complete iOS Hardware Reset</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-speed-settings-unveiled-customizing-your-snapchat-experience/"><u>In 2024, Speed Settings Unveiled Customizing Your Snapchat Experience</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solutions-for-better-pictures-from-your-iphones-low-mp-camera/"><u>Solutions for Better Pictures From Your iPhone's Low-MP Camera</u></a></li>
-<li><a href="https://fox-that.techidaily.com/the-output-characteristic-curves-are-typically-plotted-with-vds-on-the-x-axis-and-id-on-the-y-axis-for-various-values-of-vgs-showing-how-the-curve-shifts-wi19/"><u>The Output Characteristic Curves Are Typically Plotted with VDS on the X-Axis and ID on the Y-Axis for Various Values of VGS, Showing How the Curve Shifts with Different Gate Biases.</u></a></li>
-<li><a href="https://fox-that.techidaily.com/unlocking-sirihemeselves-overcoming-seven-critical-hurdles-in-apples-personal-assistant-system/"><u>Unlocking Siri'hemeselves: Overcoming Seven Critical Hurdles in Apple's Personal Assistant System</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-techniques-to-remove-audio-from-updated-avi-software-file/"><u>Updated 2024 Approved Techniques to Remove Audio From Updated AVI Software File</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-pro-level-jump-cuts-in-final-cut-pro-x-tips-and-tricks-for-2024/"><u>Updated Pro-Level Jump Cuts in Final Cut Pro X Tips and Tricks for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/what-to-do-if-your-iphone-takes-low-megapixel-photos/"><u>What to Do If Your iPhone Takes Low Megapixel Photos</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-ranking-android-6-premier-podcast-platforms/"><u>[New] Ranking Android 6 Premier Podcast Platforms</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-step-by-step-iphone-music-video-production-basics-for-2024/"><u>[New] Step-by-Step IPhone Music Video Production Basics for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-masterful-ways-of-scrolling-through-appreciated-youtube-feedback/"><u>[Updated] Masterful Ways of Scrolling Through Appreciated YouTube Feedback</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-iron-out-instability-in-iphone-videography-effortlessly/"><u>2024 Approved Iron Out Instability in iPhone Videography Effortlessly</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-premium-software-solutions-for-visual-storytelling-from-pictures/"><u>2024 Approved Premium Software Solutions for Visual Storytelling From Pictures</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/2024-rankings-top-comfort-enhancing-keyboard-wrist-rest-accessories/"><u>2024 Rankings: Top Comfort-Enhancing Keyboard Wrist Rest Accessories</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/best-free-360-degree-video-viewers-top-picks-compatible-with-windows-11-and-mac-os-download/"><u>Best Free 360-Degree Video Viewers: Top Picks Compatible with Windows 11 & Mac OS (Download)</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-incompatibility-making-all-iphone-accessories-work-together-smoothly/"><u>Fixing Incompatibility: Making All iPhone Accessories Work Together Smoothly</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/quick-and-effortless-guide-transferring-your-entire-iphone-library-to-your-personal-computer/"><u>Quick and Effortless Guide: Transferring Your Entire iPhone Library to Your Personal Computer</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/revolutionary-collages-made-simple-by-picshot/"><u>Revolutionary Collages Made Simple by Picshot</u></a></li>
+<li><a href="https://fox-that.techidaily.com/slow-iphones-demystified-6-reasons-and-fix-it-tips/"><u>Slow iPhones Demystified: 6 Reasons and Fix-It Tips</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solve-your-iphones-safari-image-problem-with-these-9-handy-tips/"><u>Solve Your iPhone's Safari Image Problem with These 9 Handy Tips</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-gps-problems-when-location-not-available-appears-on-iphone/"><u>Troubleshooting GPS Problems When 'Location Not Available' Appears on iPhone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unstuck-your-family-sharing-essential-steps-and-quick-fixes-you-must-try/"><u>Unstuck Your Family Sharing: Essential Steps & Quick Fixes You Must Try</u></a></li>
 </ul></div>
 
