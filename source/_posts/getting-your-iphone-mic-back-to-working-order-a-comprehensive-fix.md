@@ -1,7 +1,7 @@
 ---
 title: Getting Your iPhone Mic Back to Working Order - A Comprehensive Fix
-date: 2025-02-06T19:36:04.368Z
-updated: 2025-02-11T00:42:36.915Z
+date: 2025-02-24T16:09:52.825Z
+updated: 2025-03-02T16:42:27.457Z
 tags:
   - iphone
   - apple
@@ -21,10 +21,6 @@ thumbnail: https://thmb.techidaily.com/bc4c1fafbeb0a4b8e3066f1ca761f451b6c08fbe8
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Find Out Which Microphone Isn't Working
 
  Before you begin fixing your iPhone's microphone, you'll need to know which microphone isn't working. If you have an iPhone 5 or later, you'll have three microphones: one on the bottom of your phone for phone calls, one on the front of your phone for speakerphone, and one on the back for the camera.
@@ -43,10 +39,6 @@ thumbnail: https://thmb.techidaily.com/bc4c1fafbeb0a4b8e3066f1ca761f451b6c08fbe8
 
  Isopropyl alcohol breaks up grime and dries fast, so it won't damage your iPhone. Try using the highest percentage of isopropyl alcohol you can find. While you're at it,[clean your entire iPhone thoroughly](https://www.makeuseof.com/tag/clean-iphone-guide/) if it's not in a good shape.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Disconnect From Bluetooth Devices
 
 Close
@@ -54,10 +46,6 @@ Close
  Being connected to a Bluetooth device could mean that your iPhone is activating an external microphone, and you can't use the built-in one.
 
  This is a common issue with those who use Bluetooth headphones like AirPods or smart home systems. Check if you're connected to a Bluetooth device by [opening your iPhone's Control Center](https://www.makeuseof.com/how-to-use-customize-control-center-iphone/) , then toggle Bluetooth off. Alternatively, tap and hold it to view all your connected devices.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Make Sure Apps Have Microphone Permissions
 
@@ -71,19 +59,11 @@ Close
 
 ![A guy holding AirPods Pro in charging case showing orange light](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/02/a-guy-holding-airpods-pro-in-charging-case-showing-orange-light.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Hamlin Rozario/[MakeUseOf](https://www.makeuseof.com/author/hamlin-rozario/)
 
  If you've tried all the above fixes but nothing is working, you can still use an external microphone with your iPhone. You can use this while you wait for a repair or even use an external microphone indefinitely if you can't afford a repair.
 
  Most headphones, including Apple's AirPods, have built-in microphones. Since they connect via your iPhone's Lightning/USB-C port or Bluetooth, you won't have to rely on the built-in microphones for most tasks.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Other Generic Fixes
 
@@ -110,18 +90,24 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-logo-luminosity-enhancing-gaming-channels-with-designs/"><u>[New] In 2024, Logo Luminosity Enhancing Gaming Channels with Designs</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-restoring-streamlined-views-where-are-your-vids-for-2024/"><u>[New] Restoring Streamlined Views Where Are Your Vids for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-step-by-step-creating-a-skype-group-on-both-systems-for-2024/"><u>[New] Step-by-Step Creating a Skype Group on Both Systems for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-best-of-the-best-smartphone-ready-vr-headset-roundup/"><u>[Updated] 2024 Approved Best of the Best Smartphone-Ready VR Headset Roundup</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-gopro-and-ghost-s-face-off-in-racing-realities/"><u>[Updated] In 2024, GoPro and Ghost-S Face Off in Racing Realities</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-bypass-activation-lock-from-apple-iphone-15-pro-or-ipad-by-drfone-ios/"><u>How to Bypass Activation Lock from Apple iPhone 15 Pro or iPad?</u></a></li>
-<li><a href="https://fox-that.techidaily.com/iphone-not-picking-up-calls-heres-how-you-can-fix-it/"><u>IPhone Not Picking Up Calls? Here's How You Can Fix It!</u></a></li>
-<li><a href="https://fox-that.techidaily.com/no-more-silent-phone-uncover-7-fixes-for-non-appearing-iphone-notifications/"><u>No More Silent Phone: Uncover 7 Fixes for Non-Appearing iPhone Notifications</u></a></li>
-<li><a href="https://fox-that.techidaily.com/quick-solutions-overcoming-top-10-apple-pay-problems/"><u>Quick Solutions: Overcoming Top 10 Apple Pay Problems</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/strategies-for-purchasing-clear-visual-content/"><u>Strategies for Purchasing Clear Visual Content</u></a></li>
-<li><a href="https://fox-that.techidaily.com/top-7-frustrating-iphone-x-glitches-solutions-inside/"><u>Top 7 Frustrating iPhone X Glitches: Solutions Inside</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-guide-restoring-vibration-functionality-for-iphones-on-silent-or-ring-mode/"><u>Troubleshooting Guide: Restoring Vibration Functionality for iPhones on Silent or Ring Mode</u></a></li>
-<li><a href="https://fox-that.techidaily.com/unveiling-10-key-triggers-behind-your-iphones-automatic-display-adjustment/"><u>Unveiling 10 Key Triggers Behind Your iPhone's Automatic Display Adjustment</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-conquer-joining-on-tiktok-with-confidence-and-flair/"><u>[Updated] Conquer Joining on TikTok with Confidence and Flair</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-picture-puns-memify-pro/"><u>[Updated] In 2024, Picture Puns Memify Pro</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Nubia Red Magic 8S Pro | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/budget-friendly-syma-107g-hobbyist-rc-helicopter-in-depth-performance-analysis/"><u>Budget-Friendly Syma 107G Hobbyist RC Helicopter - In-Depth Performance Analysis</u></a></li>
+<li><a href="https://fox-that.techidaily.com/cant-send-texts-on-your-iphone-discover-10-essential-fixes/"><u>Can't Send Texts on Your iPhone? Discover 10 Essential Fixes!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/extended-iphones-sleep-time-troubleshooting-quick-fixes-to-try/"><u>Extended iPhones Sleep Time Troubleshooting - Quick Fixes to Try!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fix-guide-when-iphone-alarm-stays-silent/"><u>Fix Guide: When iPhone Alarm Stays Silent</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-incomplete-or-failed-whatsapp-backups-tips-for-using-icloud-effectively/"><u>Fixing Incomplete or Failed WhatsApp Backups: Tips for Using iCloud Effectively</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-iphones-auto-brightness-malfunction-unveil-these-7-troubleshooting-steps/"><u>Fixing iPhone's Auto-Brightness Malfunction: Unveil These 7 Troubleshooting Steps</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-mix-fold-3-bootloader-easily-by-drfone-android/"><u>How to Unlock Xiaomi Mix Fold 3 Bootloader Easily</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-boosting-your-video-income-on-youtube-essentials/"><u>In 2024, Boosting Your Video Income on Youtube - Essentials</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-imessage-hiccups-fixing-messages-that-wont-send-or-deliver/"><u>IPhone iMessage Hiccups: Fixing Messages That Won't Send or Deliver</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721466179049-keep-data-members-private-or-protected/"><u>Keep Data Members Private or Protected</u></a></li>
+<li><a href="https://program-issues.techidaily.com/master-the-art-of-overcoming-fifa-19-crashing-problems-on-your-pc-machine/"><u>Master the Art of Overcoming FIFA 19 Crashing Problems on Your PC Machine</u></a></li>
+<li><a href="https://apple-account.techidaily.com/removing-device-from-apple-id-for-your-apple-iphone-14-pro-by-drfone-ios/"><u>Removing Device From Apple ID For your Apple iPhone 14 Pro</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-fixes-for-a-non-functional-spacebar-keys-under-windows-10-environments/"><u>Step-by-Step Fixes for a Non-Functional Spacebar Keys Under Windows 10 Environments</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-guide-how-to-fix-control-center-issues-on-your-iphone/"><u>Troubleshooting Guide: How To Fix 'Control Center' Issues On Your iPhone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlocking-iphone-photo-potential-discover-these-amazing-8-camera-roll-optimization-techniques/"><u>Unlocking iPhone Photo Potential: Discover These Amazing 8 Camera Roll Optimization Techniques</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-tecno-camon-20-premier-5g-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Tecno Camon 20 Premier 5G? | Dr.fone</u></a></li>
 </ul></div>
 

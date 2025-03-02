@@ -1,7 +1,7 @@
 ---
 title: Unable to Activate iPhone Ring/Silent Feature? Discover Alternative Methods
-date: 2025-02-07T11:35:33.591Z
-updated: 2025-02-10T22:02:24.548Z
+date: 2025-03-01T16:12:44.061Z
+updated: 2025-03-02T16:24:53.496Z
 tags:
   - iphone
   - apple
@@ -36,15 +36,7 @@ thumbnail: https://thmb.techidaily.com/6a18129a35160648e7ff206817c86c3e7a35764f1
 
 ![Touch settings on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-with-assistivetouch-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![enabling AssistiveTouch on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-with-assistivetouch-4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Close
 
@@ -54,10 +46,6 @@ Close
 
 ![Mute option in AssistiveTouch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-with-assistivetouch-6.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Close
 
 * To unmute it, repeat the same steps. And this time, select**Unmute** under the**Device** options.
@@ -65,10 +53,6 @@ Close
  Although this approach works fine, it involves multiple taps. As you can imagine, this won't be very practical if you switch between Ring and Silent profiles on your iPhone multiple times a day.
 
  So, a better approach would be to customize AssistiveTouch's top-level menu and add the**Mute** option on the main screen. Or, to set up a custom action for AssistiveTouch to mute or unmute the device directly.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Customize the Top Level Menu
 
@@ -86,19 +70,11 @@ Close
 
 ![customizing AssistiveTouch's top-level menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customizing-assistivetouch-top-level-menu-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![adding a new button to the AssistiveTouch menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customizing-assistivetouch-top-level-menu-3.jpg)
 
 ![selecting Mute action for the new AssistiveTouch button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customizing-assistivetouch-top-level-menu-4.jpg)
 
 ![Mute action in AssistiveTouch's top-level menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customizing-assistivetouch-top-level-menu-5.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Close
 
@@ -121,10 +97,6 @@ Close
 
  Once set up, muting and unmuting your iPhone should be even easier. Simply perform the gesture to which you've assigned the Mute action, and it'll mute the device. Repeat it again to unmute.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Mute or Unmute iPhone Using Back Tap
 
  AssistiveTouch used to be the only way to mute or unmute your iPhone when the Ring/Silent switch stopped working for the longest time. And sure, it works fine and gets the job done, but for some, it isn't aesthetically pleasing to have the button on the screen at all times.
@@ -137,10 +109,6 @@ Close
 ![iPhone Accessibility settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-using-back-tap-1.jpg)
 
 ![Back Tap feature under Touch Accessibility settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-using-back-tap-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Close
 
@@ -180,21 +148,21 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-how-to-set-up-zoom-video-meeting/"><u>[New] In 2024, How to Set up Zoom Video Meeting</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-the-essential-windows-10-audio-handbook/"><u>[Updated] The Essential Windows 10 Audio Handbook</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-visual-journey-of-iphone-photos-with-leading-lines/"><u>2024 Approved The Visual Journey of iPhone Photos with Leading Lines</u></a></li>
-<li><a href="https://fox-that.techidaily.com/common-problems-and-solutions-for-whatsapp-icloud-backup-failures/"><u>Common Problems & Solutions for WhatsApp iCloud Backup Failures</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/cutting-through-brit-stereotypes-one-phrase-at-a-time/"><u>Cutting Through Brit Stereotypes, One Phrase at a Time</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-stop-audio-shifting-with-head-movement-on-your-airpods-turn-off-dynamic-headtracking/"><u>How to Stop Audio Shifting with Head Movement on Your AirPods: Turn Off Dynamic Headtracking</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-remove-your-apple-id-permanently-on-iphone-8-plus-by-drfone-ios/"><u>In 2024, How To Delete iCloud Account Remove Your Apple ID Permanently On iPhone 8 Plus</u></a></li>
-<li><a href="https://fox-that.techidaily.com/mastering-the-art-of-re-syncing-icloud-photos-discover-our-7-tips-for-iphone-owners/"><u>Mastering the Art of Re-Syncing iCloud Photos: Discover Our ^7^ Tips for iPhone Owners</u></a></li>
-<li><a href="https://fox-that.techidaily.com/navigating-iphone-snapshot-complications-strategies-for-successful-management-and-editing/"><u>Navigating iPhone Snapshot Complications – Strategies for Successful Management and Editing</u></a></li>
-<li><a href="https://fox-that.techidaily.com/overcome-your-iphones-stand-by-glitches-using-these-four-remedial-actions/"><u>Overcome Your iPhone's Stand-By Glitches Using These Four Remedial Actions</u></a></li>
-<li><a href="https://change-location.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-vivo-y100i-power-5g-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On Vivo Y100i Power 5G? | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/resolving-location-unavailable-issues-on-your-iphone-a-step-by-step-guide/"><u>Resolving 'Location Unavailable' Issues on Your iPhone: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/revive-your-lost-files-5-effective-methods-to-recover-data-on-windows-wuntezn-11/"><u>Revive Your Lost Files: 5 Effective Methods to Recover Data on Windows ˈwuntəzɛn 11</u></a></li>
-<li><a href="https://fox-that.techidaily.com/reviving-your-iphones-sound-capability-solutions-for-a-broken-mic/"><u>Reviving Your iPhone's Sound Capability: Solutions for a Broken Mic</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unlocking-the-secrets-of-lgs-retail-and-wholesale-avenues/"><u>Unlocking the Secrets of LG’s Retail and Wholesale Avenues</u></a></li>
-<li><a href="https://article-posts.techidaily.com/your-2024-guide-to-the-leading-cloud-storage-champions/"><u>Your 2024 Guide to the Leading Cloud Storage Champions</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-capturing-gameplay-moments-flawlessly/"><u>[New] Capturing Gameplay Moments Flawlessly</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-your-perfect-playlist-best-12-pc-games-to-enjoy-more-clicks/"><u>[New] In 2024, Your Perfect Playlist Best 12 PC Games to Enjoy More Clicks</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-projecting-the-financial-footprint-of-music-video-shootouts-for-2024/"><u>[New] Projecting the Financial Footprint of Music Video Shootouts for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-navigating-top-10-affordable-mobile-video-services/"><u>2024 Approved Navigating Top 10 Affordable Mobile Video Services</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/boundaries-of-machine-understanding-chatgpts-limits/"><u>Boundaries of Machine Understanding: ChatGPT's Limits</u></a></li>
+<li><a href="https://fox-that.techidaily.com/dealing-with-an-unresponsive-iphone-touchscreen-effective-solutions-explored/"><u>Dealing with an Unresponsive iPhone Touchscreen: Effective Solutions Explored</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/discreetly-discovering-stories-with-these-apps-for-2024/"><u>Discreetly Discovering Stories with These Apps for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/getting-msi-afterburner-to-detect-gpu-again-a-guide-for-windows-10-and-11-users/"><u>Getting MSI Afterburner to Detect GPU Again: A Guide for Windows 10 and 11 Users</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-resolve-iphone-communication-problems-discover-10-tips/"><u>How To Resolve iPhone Communication Problems – Discover 10 Tips</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-restore-microphone-performance-on-your-iphone-with-easy-diy-methods/"><u>How to Restore Microphone Performance on Your iPhone with Easy DIY Methods</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-restore-safari-functionality-on-your-iphone-a-top-10-quick-fix-guide/"><u>How to Restore Safari Functionality on Your iPhone – A Top 10 Quick-Fix Guide</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-samsung-galaxy-a14-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Samsung Galaxy A14 5G Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721475955510-iphone-qr-scanner-issues-discover-these-5-quick-fixes/"><u>IPhone QR Scanner Issues? Discover These 5 Quick Fixes!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolving-your-iphones-imessage-authentication-problem-a-step-by-step-guide/"><u>Resolving Your iPhone's iMessage Authentication Problem: A Step-by-Step Guide</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/simple-process-for-preserving-tweets-imagesvideos/"><u>Simple Process for Preserving Tweets' Images/Videos</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721458292690-your-iphone-home-key-stuck-or-broken-try-out-these-5-rapid-remedies/"><u>Your IPhone Home Key Stuck or Broken? Try Out These 5 Rapid Remedies.</u></a></li>
 </ul></div>
 

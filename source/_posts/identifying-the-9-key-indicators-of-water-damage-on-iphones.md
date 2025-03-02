@@ -1,7 +1,7 @@
 ---
 title: Identifying the 9 Key Indicators of Water Damage on iPhones
-date: 2024-08-22T23:01:42.445Z
-updated: 2024-08-23T23:01:42.445Z
+date: 2025-02-25T16:05:09.239Z
+updated: 2025-03-02T16:32:24.506Z
 tags:
   - iphone
   - apple
@@ -28,9 +28,6 @@ thumbnail: https://thmb.techidaily.com/ca9ebd9e5568d283ff74716c5b52278ddfb01bff4
 
  If you use your iPhone's camera and your pictures look like they're from a low-budget movie from the 50s, then it might be water-damaged. If you see a photo like this, turn off your phone and dry it thoroughly.
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 2\. Face ID or Touch ID Malfunctioning
 
 ![iPhone with Face ID is not available message on the lock screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/iphone-with-face-id-is-not-available-message-on-the-lock-screen.jpg)
@@ -41,18 +38,12 @@ thumbnail: https://thmb.techidaily.com/ca9ebd9e5568d283ff74716c5b52278ddfb01bff4
 
  Likewise, Touch ID could also be negatively affected by water if it slips through the side of the Home button and gets into the sensors. This is less likely to happen if you use an iPhone 7 or 8, but it's still possible if the phone falls into extremely dirty water.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Misbehaving Buttons
 
  Dirty water often contains all sorts of particles that can get into small gaps and block them. If you notice that the buttons on an iPhone feel stuck, make a grainy sound, or simply do not respond, then you could be holding a water-damaged iPhone.
 
 ## 4\. Patches on the Display
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 ![An iPhone X with a dark spot on its left bottom corner](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/05/an-iphone-x-with-a-dark-spot-on-its-left-bottom-corner.jpg)
 
  If you're unlucky, water could also affect your display and develop permanent patches. You might see signs of water under the display first before it slowly forms dark patches—making the affected area dimmer.
@@ -67,16 +58,8 @@ thumbnail: https://thmb.techidaily.com/ca9ebd9e5568d283ff74716c5b52278ddfb01bff4
 
  The phone's display module may have been affected by water. You should return it to Apple or an Apple Authorized Service Provider to replace that part of the screen.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ## 6\. Muffled Speakers
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ![iPhone 11 in the hands of a woman with volume control options on the screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/iphone-11-in-the-hands-of-a-woman-with-volume-control-options-on-the-screen.jpg)
 
  Another clear sign that an iPhone is water-damaged is muffled speakers. If you want to purchase a used phone, after checking the cameras, you should play some sounds on the speakers to see what it sounds like.
@@ -101,9 +84,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
  If your phone falls in muddy water, try to remove mud from the charging port as quickly as possible. When your phone dries, give the charging port a thorough clean. You can check our guide on [how to clean your dirty iPhone](https://www.makeuseof.com/tag/clean-iphone-guide/) for better assistance with that.
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 9\. Strange Smells
 
  Dirty or salty water could also give your iPhone an odd smell, especially if it makes its way inside the phone, where it's harder to clean.
@@ -112,9 +92,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
  Turning on your phone after water makes its way inside can cause the water inside to turn to vapor as the phone heats up. Not only can vapor cause more damage, but it could cause strange odors to ooze out of your phone.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ## Avoid a Water-Damaged iPhone at All Costs
 
  Unless you're absolutely sure you can fix the issue, do not buy a water-damaged iPhone—even if it's considerably cheaper.
@@ -129,8 +106,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -138,6 +113,23 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-capturing-chats-on-fb-messenger-instructions-and-tips/"><u>[New] 2024 Approved Capturing Chats on FB Messenger Instructions and Tips</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-evaluating-finances-setting-sights-on-cutting-music-videos/"><u>[New] 2024 Approved Evaluating Finances Setting Sights on Cutting Music Videos</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-evaluating-apples-m1-macbook-air-for-media-professionals/"><u>[Updated] 2024 Approved Evaluating Apple’s M1 MacBook Air for Media Professionals</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-best-unplugged-android-gaming-apps-no-internet-required-for-2024/"><u>[Updated] Best Unplugged Android Gaming Apps (No Internet Required) for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-the-blue-enigma-whats-behind-the-symbol-on-facebook-messenger/"><u>[Updated] In 2024, The Blue Enigma What's Behind the Symbol on Facebook Messenger?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/a-deep-dive-into-8-chatgpt-income-opportunities/"><u>A Deep Dive Into 8 ChatGPT Income Opportunities</u></a></li>
+<li><a href="https://fox-that.techidaily.com/bid-goodbye-to-fluctuating-screens-our-best-tips-for-a-smooth-display/"><u>Bid Goodbye to Fluctuating Screens: Our Best Tips for a Smooth Display</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721477116651-how-to-speed-up-iphone-display-shutdown-solutions-and-tricks/"><u>How to Speed Up iPhone Display Shutdown: Solutions & Tricks!</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-infinix-gt-10-pro-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Infinix GT 10 Pro to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-se-passcode-without-itunes-without-knowing-passcode-by-drfone-ios/"><u>How to Unlock Apple iPhone SE Passcode without iTunes without Knowing Passcode?</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-compact-guide-to-macs-screen-recording-shortcuts/"><u>In 2024, Compact Guide to Mac's Screen Recording Shortcuts</u></a></li>
+<li><a href="https://fox-that.techidaily.com/sim-card-setup-failures-addressing-the-not-provided-message-at-mobile-management-entity-mme-level/"><u>SIM Card Setup Failures: Addressing the Not Provided Message at Mobile Management Entity (MME) Level</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-iphone-problems-why-arent-you-getting-calls-anymore/"><u>Solving iPhone Problems: Why Aren’t You Getting Calls Anymore?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/step-by-step-guide-resolving-iphone-issues-with-apples-help-app/"><u>Step-by-Step Guide: Resolving iPhone Issues with Apple's Help App</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-a-non-functional-ringsilent-switch-on-your-iphone-effective-solutions/"><u>Troubleshooting a Non-Functional Ring/Silent Switch on Your iPhone: Effective Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlocking-the-secret-power-up-why-a-simple-restart-can-resolve-most-tech-issues-on-your-smartphone/"><u>Unlocking the Secret Power-Up: Why a Simple Restart Can Resolve Most Tech Issues on Your Smartphone</u></a></li>
+</ul></div>
 

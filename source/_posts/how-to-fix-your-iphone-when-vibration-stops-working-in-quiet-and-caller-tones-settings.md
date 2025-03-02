@@ -1,7 +1,7 @@
 ---
 title: How to Fix Your iPhone When Vibration Stops Working in Quiet and Caller Tones Settings
-date: 2025-02-04T02:02:51.237Z
-updated: 2025-02-11T05:07:48.049Z
+date: 2025-02-23T16:43:51.474Z
+updated: 2025-03-02T16:31:20.865Z
 tags:
   - iphone
   - apple
@@ -32,10 +32,6 @@ thumbnail: https://thmb.techidaily.com/909f3c7957e52f6fe9de5cd9ae15915a5af92e863
  If you can see the orange strip, your iPhone is in Silent mode. Push the switch (so that the orange strip is no longer showing) to put your iPhone back in Ring mode.
 
 ![iphone silent switch and volume buttons](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/iphone-silent-switch.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Turn On System Haptics
 
@@ -71,10 +67,6 @@ Close
 
 ![play haptics for ring and silent mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/MUO-in-article-image-(1200px-by-600px-21-ratio)-(11)-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Check the Selected Vibration Pattern for Each Alert
 
  If you have gone through the three troubleshooting methods above, but your iPhone is still not vibrating on Silent or Ring mode, it's time to check your vibration pattern settings.
@@ -89,19 +81,11 @@ Close
 
 ![iphone ringtone settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/ringtone-settings.JPEG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![iphone ringtone vibration settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/vibration-settings.JPEG)
 
 Close
 
  After you select a valid vibration pattern for**Ringtone** , go back to the**Sounds and Haptics Pattern** list. Repeat these steps for**Text Tone** ,**New Voicemail** ,**New Mail** , and so on.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Update Your iPhone
 
@@ -127,17 +111,9 @@ Close
 
 ![general settings in iphone settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/general-3.JPEG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![options to reset iphone settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/reset-iphone-options.JPEG)
 
 Close
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Can You Enable Vibration for Calls and Texts Only on Your iPhone?
 
@@ -155,23 +131,11 @@ Close
 
 ![touch settings in iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/touch-settings.JPEG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Close
 
  Additionally, to cut down on system haptics as much as possible on Silent mode, you can also go to**Settings > Sounds & Haptics > Keyboard Feedback** and toggle off**Haptic** . This way, you'll at least avoid experiencing tapping vibrations each time you type a letter on your iPhone's keyboard.
 
 ![iphone keyboard feedback settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/img_6645.JPEG)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Use Your iPhone's Vibrations to Be Aware of Alerts
 
@@ -194,24 +158,24 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-stream.techidaily.com/new-pioneers-in-online-mastery-meet-up/"><u>[New] Pioneers in Online Mastery Meet-Up</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-finding-your-video-complement-the-process-of-collaborative-pairing/"><u>[Updated] 2024 Approved Finding Your Video Complement The Process of Collaborative Pairing</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/comparing-ig-reels-and-ig-stories-a-comprehensive-guide/"><u>Comparing IG Reels & IG Stories A Comprehensive Guide</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/effective-ways-to-fix-checkra1n-error-31-from-apple-iphone-13-pro-max-by-drfone-ios/"><u>Effective Ways To Fix Checkra1n Error 31 From Apple iPhone 13 Pro Max</u></a></li>
-<li><a href="https://fox-that.techidaily.com/enhance-your-iphones-web-experience-10-quick-safaricure-techniques/"><u>Enhance Your iPhone's Web Experience: 10 Quick Safaricure Techniques</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fix-a-non-functioning-tablet-touchscreen-in-8-simple-steps-for-improved-usability/"><u>Fix a Non-Functioning Tablet Touchscreen in 8 Simple Steps for Improved Usability</u></a></li>
-<li><a href="https://win-dash.techidaily.com/getting-started-how-to-update-or-install-amd-radeon-rx-nvidia-gpu-drivers/"><u>Getting Started: How to Update or Install AMD Radeon RX Nvidia GPU Drivers</u></a></li>
-<li><a href="https://fox-that.techidaily.com/getting-your-iphone-personal-hotspot-back-on-track-a-comprehensive-guide/"><u>Getting Your iPhone Personal Hotspot Back on Track – A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721477328780-having-trouble-with-your-iphones-vpn-connection-learn-how-to-solve-it-with-these-7-methods/"><u>Having Trouble with Your iPhone's VPN Connection? Learn How to Solve It With These 7 Methods!</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/how-instagram-new-algorithm-update-will-affect-you/"><u>How Instagram New Algorithm Update Will Affect You</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-stepwise-strategy-for-transforming-your-youtube-videos-with-imovie/"><u>In 2024, Stepwise Strategy for Transforming Your YouTube Videos with iMovie</u></a></li>
-<li><a href="https://fox-that.techidaily.com/overcoming-message-compatibility-issues-between-iphones-and-android-phones/"><u>Overcoming Message Compatibility Issues Between iPhones and Android Phones</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/recognizing-the-warning-signs-identifying-a-deteriorating-psu-insights-from-yl-computing/"><u>Recognizing the Warning Signs: Identifying a Deteriorating PSU - Insights From YL Computing</u></a></li>
-<li><a href="https://fox-that.techidaily.com/resolve-iphone-qr-code-scanning-issues-with-these-essential-fixes/"><u>Resolve iPhone QR Code Scanning Issues with These Essential Fixes</u></a></li>
-<li><a href="https://fox-that.techidaily.com/resolving-iphone-auto-brightness-glitches-try-out-these-eight-methods/"><u>Resolving iPhone Auto-Brightness Glitches? Try Out These Eight Methods</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/step-by-step-process-to-set-trending-tiktok-beats-as-your-cellphone-alarm-for-2024/"><u>Step-by-Step Process to Set Trending TikTok Beats as Your Cellphone Alarm for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/struggling-with-wireless-charging-on-your-iphone-find-relief-in-these-7-remedies/"><u>Struggling with Wireless Charging on Your iPhone? Find Relief in These 7 Remedies!</u></a></li>
-<li><a href="https://fox-that.techidaily.com/why-you-should-regularly-restart-your-mobile-device-for-better-performance/"><u>Why You Should Regularly Restart Your Mobile Device for Better Performance</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/witje-transformeren-van-webp-naar-jpg-gratis-online-convertidoor-met-duurzaamheid-von-movavi/"><u>Witje Transformeren Van WEBP Naar JPG: Gratis Online Convertidoor Met Duurzaamheid Von Movavi</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-nikon-j5-in-4k-the-ultimate-camera-review/"><u>[New] Nikon J5 in 4K The Ultimate Camera Review</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-prime-selection-of-top-20-humorous-lockdown-memes-lifting-spirits-on-facebook/"><u>[Updated] Prime Selection of Top 20 Humorous Lockdown Memes, Lifting Spirits on Facebook</u></a></li>
+<li><a href="https://win-webster.techidaily.com/1-best-practices-for-storing-your-digital-coins-safely-with-yl-computing-expert-advice/"><u>1. Best Practices for Storing Your Digital Coins Safely with YL Computing - Expert Advice</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unleashing-creativity-a-guide-to-innovative-gopro-video-editing/"><u>2024 Approved Unleashing Creativity A Guide to Innovative GoPro Video Editing</u></a></li>
+<li><a href="https://fox-that.techidaily.com/correcting-incorrectly-tagged-individuals-in-your-apple-photos/"><u>Correcting Incorrectly Tagged Individuals in Your Apple Photos</u></a></li>
+<li><a href="https://fox-that.techidaily.com/experiencing-sound-drift-on-airpods-turn-off-the-dynamic-headtracking-feature-for-a-solution/"><u>Experiencing Sound Drift on AirPods? Turn Off the Dynamic Headtracking Feature for a Solution!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-safari-issues-top-10-solutions-for-your-iphone/"><u>Fixing Safari Issues: Top 10 Solutions for Your iPhone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/getting-airplay-up-and-running-solutions-for-connectivity-hiccups/"><u>Getting AirPlay Up and Running: Solutions for Connectivity Hiccups</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-vivo-x-fold-2-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Vivo X Fold 2 | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-reset-hacks-overcoming-button-malfunctions-and-getting-back-online/"><u>IPhone Reset Hacks: Overcoming Button Malfunctions & Getting Back Online</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/masterclass-in-media-magic-with-magix-video-pro-x-for-2024/"><u>Masterclass in Media Magic with Magix Video Pro X for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-photos-after-infinix-note-30-has-been-deleted-by-fonelab-android-recover-photos/"><u>Recover your photos after Infinix Note 30 has been deleted.</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solution-guide-restoring-outlooks-network-functionality/"><u>Solution Guide: Restoring Outlook's Network Functionality</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solve-persistent-connection-issues-top-11-tips-for-reliable-airpod-pairing-with-iphone/"><u>Solve Persistent Connection Issues: Top 11 Tips for Reliable AirPod Pairing with iPhone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-science-behind-mammoth-text-algorithms/"><u>The Science Behind Mammoth Text Algorithms</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-siri-how-to-fix-common-issues-with-voice-assistant-on-iphoneipad/"><u>Troubleshooting Siri: How to Fix Common Issues with Voice Assistant on iPhone/iPad</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unveiling-11-tricks-for-locating-your-disappearing-airpods-on-apples-find-my-app/"><u>Unveiling 11 Tricks for Locating Your Disappearing AirPods on Apple's Find My App</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-mastering-pip-a-step-by-step-guide-to-final-cut-pro/"><u>Updated 2024 Approved Mastering PiP A Step-by-Step Guide to Final Cut Pro</u></a></li>
+<li><a href="https://fox-that.techidaily.com/what-to-do-when-your-iphones-chat-only-shows-numbers-not-names/"><u>What to Do When Your iPhone's Chat Only Shows Numbers, Not Names</u></a></li>
 </ul></div>
 

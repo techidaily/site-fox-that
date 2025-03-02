@@ -1,7 +1,7 @@
 ---
 title: "Get Your AirDrop Back On Track: Expert Advice on Rapidly Fixing It With 16 Proven Tips"
-date: 2025-02-09T09:59:23.216Z
-updated: 2025-02-11T02:20:44.503Z
+date: 2025-02-25T16:13:55.317Z
+updated: 2025-03-02T16:32:08.104Z
 tags:
   - iphone
   - apple
@@ -52,10 +52,6 @@ thumbnail: https://thmb.techidaily.com/1dd490a8bd0fd9490b2a1a7e2f3e07f4fe2881674
 
 ![airdrop visibility options in iphone control center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/airdrop-visibility-options-in-iphone-control-center.JPEG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Close
 
  On a Mac, open**Control Center** and click**AirDrop** from the top-left section. In the window that pops up, choose**Everyone** or**Contacts Only** .
@@ -76,15 +72,7 @@ Close
 
 ![iphone limit usage settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/iphone-limit-usage-settings.JPEG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![iphone content and privacy restrictions settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/iphone-content-and-privacy-restrictions-settings.JPEG)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![allowed apps in iphone content and privacy restriction settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/allowed-apps-in-iphone-content-and-privacy-restriction-settings.JPEG)
 
@@ -96,10 +84,6 @@ Close
 
  Make sure**AirDrop** is turned on for each device. You may need to enter your Screen Time passcode to make these changes.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Enable AirDrop Over Cellular
 
  AirDrop's (Bluetooth) range is around 30 feet, so if you move beyond that distance, AirDrop won't work anymore. But if you've updated your device to iOS/iPadOS 17.1 (or later), you can enable a setting to allow AirDrop file transfers to continue even after you leave the range.
@@ -108,15 +92,7 @@ Close
 
 ![iphone general settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/iphone-general-settings-2.JPEG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![iPhone General settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/iphone-general-settings.JPEG)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![iphone airdrop settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/iphone-airdrop-settings.JPEG)
 
@@ -144,19 +120,11 @@ Close
 
  This isn't an option for everyone, but if you have a spare Apple device, you should try using that to connect over AirDrop. Usually, if your iPhone, iPad, or Mac shows up on this new device, it will suddenly appear on the original device as well.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 9\. Send a Single File Instead of Multiple Files
 
  AirDrop lets you share many kinds of files at the same time. But if AirDrop isn't working, you should consider simplifying matters by sending a single file at a time instead.
 
  AirDrop files automatically open in a relevant app. For instance, images open in the Photos app, but multiple file types don't always open in the same app. This could explain why your AirDrop transfer failed.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 10\. Check the Downloads Folder for Missing Files
 
@@ -178,10 +146,6 @@ Close
 
  On an iPhone or iPad, go to**Settings > VPN** to do this. On a Mac, go to**System Settings > Network > VPN** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 12\. Open Your Mac's Firewall to More Connections
 
  The firewall on your Mac might be set to block all incoming connections, which often includes new AirDrop transfers. You'll need to loosen these restrictions from System Settings if AirDrop still isn't working.
@@ -189,10 +153,6 @@ Close
  Go to**System Settings > Network > Firewall** . Toggle off**Firewall** and enter your Mac's admin password if prompted.
 
 ![Firewall option in macOS System Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Firewall-option-in-macOS-System-Settings.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 13\. Sign In to Your Apple ID Account Again
 
@@ -251,18 +211,18 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-from-standard-to-spectacomed-adding-fonts-to-after-effects-workflow/"><u>[New] In 2024, From Standard to Spectacomed Adding Fonts to After Effects Workflow</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-the-art-of-iphone-cinematography-transforming-fast-motion-into-sluggish-sequences/"><u>[New] In 2024, The Art of iPhone Cinematography Transforming Fast Motion Into Sluggish Sequences</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-waveform-whispering-how-to-gradually-reduce-volume-in-adobe/"><u>[New] Waveform Whispering How to Gradually Reduce Volume In Adobe</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-audiovisual-harmony-perfecting-voiceover-in-videos-for-2024/"><u>[Updated] Audiovisual Harmony Perfecting Voiceover in Videos for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/dealing-with-a-broken-proximity-sensor-on-your-apple-device/"><u>Dealing With a Broken Proximity Sensor on Your Apple Device</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fixing-ipados-and-iphones-lost-3d-look-solutions-for-ios-1amoos-depth-effect-problems/"><u>Fixing iPadOS and iPhone's Lost 3D Look: Solutions for iOS 1Amoos Depth Effect Problems</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-get-your-iphone-display-to-rotate-in-landscape-mode-step-by-step-guide/"><u>How To Get Your iPhone Display to Rotate in Landscape Mode: Step-by-Step Guide</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-hdr-technology-demystified-with-a-look-at-aurora/"><u>In 2024, HDR Technology Demystified with a Look at Aurora</u></a></li>
-<li><a href="https://fox-that.techidaily.com/step-by-step-guide-activating-recovery-mode-on-your-ipad/"><u>Step-by-Step Guide: Activating Recovery Mode on Your iPad</u></a></li>
-<li><a href="https://fox-that.techidaily.com/struggling-with-iphone-vpn-connection-issues-discover-7-effective-solutions/"><u>Struggling with iPhone VPN Connection Issues? Discover 7 Effective Solutions!</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-oneplus-nord-n30-5g-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your OnePlus Nord N30 5G Phone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-your-tablets-unresponsive-screen-a-guide-with-8-effective-solutions/"><u>Troubleshooting Your Tablet's Unresponsive Screen: A Guide with 8 Effective Solutions</u></a></li>
-<li><a href="https://games-able.techidaily.com/unleash-full-gameplay-of-bg3-on-a-mac-m1m2-device-via-crossover/"><u>Unleash Full Gameplay of BG3 on a Mac M1/M2 Device via Crossover</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-explore-these-6-powerful-instagram-reel-tools/"><u>[New] 2024 Approved Explore These 6 Powerful Instagram Reel Tools</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-fixing-disconnected-headphone-unit-for-2024/"><u>[Updated] Fixing Disconnected Headphone Unit for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-gif-basics-crafting-your-first-animated-image/"><u>[Updated] GIF Basics Crafting Your First Animated Image</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-cut-cost-and-clutter-together-top-45-best-free-apps-for-saving-videos-on-android/"><u>2024 Approved Cut Cost and Clutter Together Top 45 Best Free Apps for Saving Videos on Android</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721456388331-discover-why-and-how-your-iphones-display-turns-dark-the-ultimate-list-of-10-reasons/"><u>Discover Why and How Your iPhone's Display Turns Dark - The Ultimate List of 10 Reasons</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/effortless-obs-and-zoom-stream-merge-steps-for-2024/"><u>Effortless OBS and Zoom Stream Merge Steps for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/from-green-bars-to-golden-ticks-discover-the-three-iphone-16-advantages-that-could-persuade-even-a-dedicated-android-user/"><u>From Green Bars to Golden Ticks: Discover the Three iPhone 16 Advantages That Could Persuade Even a Dedicated Android User</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-xiaomi-13-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Xiaomi 13 Ultra | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-rejuvenation-the-step-by-step-guide-to-no-itunes-device-recovery/"><u>IPhone Rejuvenation: The Step-by-Step Guide to No-ITunes Device Recovery</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721467124017-solving-common-icloud-errors-for-iphone-and-ipad-fix-them-now/"><u>Solving Common iCloud Errors for iPhone and iPad – Fix Them Now</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/top-mp4-tools-for-mac-users-maximizing-youtube-productions-for-2024/"><u>Top MP4 Tools For Mac Users Maximizing YouTube Productions for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-no-more-text-left-issue-on-iphones-easy-fixes/"><u>Troubleshooting 'No More Text Left' Issue on iPhones - Easy Fixes</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Apple iPhone 15 Plus | Dr.fone</u></a></li>
 </ul></div>
 

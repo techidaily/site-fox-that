@@ -1,7 +1,7 @@
 ---
 title: Can't Enjoy Depth Effect at iPhone XS/XR Lock Screen in iOS 16? Here Are 7 Fixes to Try Now!
-date: 2025-02-09T02:42:02.750Z
-updated: 2025-02-11T04:22:07.492Z
+date: 2025-02-23T16:30:23.216Z
+updated: 2025-03-02T16:31:22.740Z
 tags:
   - iphone
   - apple
@@ -65,10 +65,6 @@ thumbnail: https://thmb.techidaily.com/12e208bbd75085a265128c07333cb07b6d6f82e50
 
 ![Tap Download and Install when you get iOS Software Update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/ios-software-update.jpeg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Close
 
  Wait for it to finish and select Install once it downloads the update. Your iPhone will restart and install the latest iOS update. Once restarted, check if Depth Effect is working or not.
@@ -86,15 +82,7 @@ Close
 
 ![Select Wallpaper in iOS Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/ios-settings-wallpaper.jpeg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Select Customize in Wallpaper Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/ios-wallpaper-settings-customize.jpeg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![Enable Depth Effect on Lock Screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/enable-depth-effect-lock-screen.jpeg)
 
@@ -113,10 +101,6 @@ Close
 
 ![iOS 16 Lock Screen with Widgets and Depth Effect Not Working](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/ios-16-lock-screen-with-widgets.jpeg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Remove Lock Screen Widgets by Tapping on them](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/ios-16-remove-lock-screen-widgets.jpeg)
 
 ![iOS 16 Lock Screen without Widgets and Depth Effect working](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/ios-16-lock-screen-without-widgets.jpeg)
@@ -124,10 +108,6 @@ Close
 Close
 
  Removing the Lock Screen widgets should automatically enable the Depth Effect feature. If not, allow the**Depth Effect** option from the Lock Screen.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. Try a Different Lock Screen Wallpaper
 
@@ -151,15 +131,7 @@ Close
 
 ![Select the photo whose file format you want to check in the Photos app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/select-the-photo-whose-file-format-you-want-to-check-in-the-photos-app.jpeg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Tap the i button on the bottom of the photo](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/tap-the-i-button-on-the-bottom-of-the-photo.jpeg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![Check the file format of the image under its metadata](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/check-the-file-format-of-the-image-under-its-metadata.jpeg)
 
@@ -181,15 +153,7 @@ Close
 
 ![Lock Screen Wallpaper Before Repositioning](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/lock-screen-wallpaper-before-repositioning.jpeg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Lock Screen Wallpaper After Repositioning](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/lock-screen-wallpaper-after-repositioning.jpeg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Close
 
@@ -224,20 +188,22 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-the-ultimate-youtube-music-replay-tracks-2023/"><u>[New] 2024 Approved The Ultimate YouTube Music Replay Tracks, 2023</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-elevating-success-channel-ideas-to-spark-momentum-for-2024/"><u>[Updated] Elevating Success Channel Ideas to Spark Momentum for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-ultimate-selection-8-preferred-mp3-grabbers-android/"><u>[Updated] In 2024, Ultimate Selection 8 Preferred MP3 Grabbers (Android)</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-maximizing-insights-with-twitter-archive-analysis/"><u>[Updated] Maximizing Insights with Twitter Archive Analysis</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-unlocking-your-most-watched-fb-movies-for-2024/"><u>[Updated] Unlocking Your Most-Watched Fb Movies for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/facing-airdrop-failures-master-the-fixes-with-this-essential-guide-of-16-tips/"><u>Facing AirDrop Failures? Master the Fixes with This Essential Guide of 16 Tips</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-fetch-the-newest-canon-pixma-ts3322-driver-version-for-your-printer/"><u>How to Fetch the Newest Canon PIXMA TS3322 Driver Version for Your Printer</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/innovative-tips-for-multisnap-creation-on-snapchat-for-2024/"><u>Innovative Tips for Multisnap Creation on Snapchat for 2024</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-in-2024-real-time-ai-voice-changer-revolutionizing-communication/"><u>New In 2024, Real-Time AI Voice Changer Revolutionizing Communication</u></a></li>
-<li><a href="https://fox-that.techidaily.com/optimize-mobile-web-experience-fast-track-techniques-for-ios-safari-users/"><u>Optimize Mobile Web Experience: Fast-Track Techniques for iOS Safari Users</u></a></li>
-<li><a href="https://win-brilliant.techidaily.com/persistent-windows-app-issues-why-your-programs-fail-to-stay-running-expert-advice-by-yl-computing/"><u>Persistent Windows App Issues: Why Your Programs Fail to Stay Running - Expert Advice by YL Computing</u></a></li>
-<li><a href="https://fox-that.techidaily.com/revive-your-iphones-voice-recognition-quick-fix-guide/"><u>Revive Your iPhone's Voice Recognition: Quick Fix Guide</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721480111376-spotify-on-ios-addressing-app-stability-concerns-prevent-it-from-shutting-down-while-your-phone-is-locked/"><u>Spotify on iOS: Addressing App Stability Concerns – Prevent It From Shutting Down While Your Phone Is Locked.</u></a></li>
-<li><a href="https://fox-that.techidaily.com/the-ultimate-troubleshooting-for-7-regular-iphone-display-problems/"><u>The Ultimate Troubleshooting for 7 Regular iPhone Display Problems</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-iphone-qr-code-scan-issues-top-10-solutions/"><u>Troubleshooting iPhone QR Code Scan Issues - Top 10 Solutions</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-best-virtual-race-titles-reviewed/"><u>[New] Best Virtual Race Titles Reviewed</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-non-sharex-heroes-for-secure-file-sharing/"><u>[New] In 2024, Non-ShareX Heroes for Secure File Sharing</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-prime-video-hits-on-twitter-the-most-popular-watches-of-23/"><u>[New] Prime Video Hits on Twitter The Most Popular Watches of '23</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-illuminating-your-android-videos/"><u>[Updated] 2024 Approved Illuminating Your Android Videos</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-elite-selection-30plus-ultimate-free-templates-guide/"><u>2024 Approved Elite Selection 30+ Ultimate Free Templates Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/crystal-clear-snaps-every-time-how-to-fix-a-blurred-iphone-lens-in-just-7-steps/"><u>Crystal Clear Snaps Every Time: How to Fix a Blurred iPhone Lens in Just 7 Steps</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-game-crashes-on-days-gone-expert-advice-for-players-in-202/"><u>Fixing Game Crashes on 'Days Gone': Expert Advice for Players in 202([[[[[]]]]])</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-can-you-retrieve-deleted-facetime-pictures-find-out-here/"><u>How Can You Retrieve Deleted FaceTime Pictures? Find Out Here</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/improve-teleconference-experience-fixing-zoom-sound/"><u>Improve Teleconference Experience Fixing Zoom Sound</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/mondly-associates-with-pearson-learning-consortium/"><u>Mondly Associates With Pearson Learning Consortium</u></a></li>
+<li><a href="https://fox-that.techidaily.com/navigating-imessage-interactions-recognizing-when-someone-has-blocked-you/"><u>Navigating iMessage Interactions: Recognizing When Someone Has Blocked You</u></a></li>
+<li><a href="https://fox-that.techidaily.com/reawaken-your-apple-device-troubleshooting-disabled-iphones-and-ipads/"><u>Reawaken Your Apple Device: Troubleshooting Disabled iPhones and iPads</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolving-the-persistent-problem-of-airpods-unplugging-from-your-iphone-6-steps/"><u>Resolving the Persistent Problem of AirPods Unplugging From Your iPhone (6 Steps)</u></a></li>
+<li><a href="https://fox-that.techidaily.com/revive-airdrop-functionality-fast-learn-how-with-these-16-proven-strategies/"><u>Revive AirDrop Functionality Fast - Learn How With These 16 Proven Strategies!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-the-top-9-issues-with-icloud-on-your-iphoneipad-troubleshooting-and-solutions/"><u>Solving the Top 9 Issues with iCloud on Your iPhone/iPad: Troubleshooting & Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/ultimate-guide-perform-a-gentle-restart-on-your-ios-device/"><u>Ultimate Guide: Perform a Gentle Restart on Your iOS Device</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-realme-note-50-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Realme Note 50 | Dr.fone</u></a></li>
 </ul></div>
 

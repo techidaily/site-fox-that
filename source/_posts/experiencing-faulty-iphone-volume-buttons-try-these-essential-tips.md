@@ -1,7 +1,7 @@
 ---
 title: Experiencing Faulty iPhone Volume Buttons? Try These Essential Tips
-date: 2024-08-27T14:28:28.931Z
-updated: 2024-08-28T14:28:28.931Z
+date: 2025-02-27T16:06:08.721Z
+updated: 2025-03-02T16:35:44.126Z
 tags:
   - iphone
   - apple
@@ -18,26 +18,16 @@ thumbnail: https://thmb.techidaily.com/e238ad00eb0e97c8dd57c3ad56e056f669853f212
 
  If your iPhone buttons aren't working properly, you should fix them as soon as possible. Luckily, there are plenty of solutions, and you can do many of them yourself.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Make Sure Your iPhone's Volume Buttons Are Enabled
 
  Some might not be aware of this, but there is a setting that turns your iPhone's volume buttons on and off. This setting is already enabled by default on all devices, but it's possible someone can turn it off without realizing it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ![iphone enable volume button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/iphone-enable-volume-button.jpg)
 
  To check this, head to**Settings > Sounds & Haptics** and toggle on**Change with Buttons** . If this isn't enabled, this could be why your volume buttons aren't working. If it's already enabled, proceed to the next fix.
 
 ## 2\. Remove Your iPhone From Its Case
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ![iPhone in a leather case](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/iphone-in-a-leather-case.jpg)
 
  iPhones are expensive, so it's likely that most of you use a case to protect them. In some instances, your case can interfere with your volume buttons. This is especially true with cases that have layers or have built-in screen protectors.
@@ -58,9 +48,6 @@ thumbnail: https://thmb.techidaily.com/e238ad00eb0e97c8dd57c3ad56e056f669853f212
 
  After cleaning, wait a few minutes for the alcohol to dry. If your volume buttons are working now, great! If they are only working a bit better, that's a sign that they are still dirty, and you should keep cleaning them. It's worth [cleaning your entire iPhone if it's dirty](https://www.makeuseof.com/tag/clean-iphone-guide/) .
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ## 4\. Reset or Restore Your iPhone
 
  Sometimes, firmware updates can change how the buttons on our phones work. This is especially true for older iPhone models. If you recently updated your iPhone and the volume buttons stopped working, try [restarting your iPhone](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) by turning it off and on again.
@@ -75,9 +62,6 @@ thumbnail: https://thmb.techidaily.com/e238ad00eb0e97c8dd57c3ad56e056f669853f212
 
  In some cases, restoring your backup might make them not work again. If that's the case, it might have been an app you tried to download, or your backup could be corrupted. Sadly, this means starting from scratch unless you have an older backup you can try restoring.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Update Your iPhone
 
  Not updating your iPhone can also cause issues with your iPhone's volume buttons. Outdated iPhones might not work with the latest apps, and the volume controls might not work correctly as a result.
@@ -94,10 +78,6 @@ thumbnail: https://thmb.techidaily.com/e238ad00eb0e97c8dd57c3ad56e056f669853f212
 
  You can open the Control Center and adjust your volume by swiping down from the top-right corner of your iPhone. If your iPhone has a Home button, you'll need to swipe up from the bottom of the screen instead.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ![iphone control panel volume control](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/iphone-control-panel-volume-control-1.jpg)
 
  If you have AirPods, you can say, "Hey Siri, turn up the volume." Other Bluetooth headphones typically have built-in volume controls, which you can use as well. This means that you won't have to keep going to your phone when you want to change the volume.
@@ -108,9 +88,6 @@ thumbnail: https://thmb.techidaily.com/e238ad00eb0e97c8dd57c3ad56e056f669853f212
 
  To use it, go to**Settings > Accessibility > Touch > AssistiveTouch** . Here, you can set your device to turn the volume down with one tap and turn it up with two taps.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![assistive touch iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/IMG_2959.jpg)
 
 ## 7\. Get Your Volume Buttons Repaired
@@ -135,8 +112,6 @@ thumbnail: https://thmb.techidaily.com/e238ad00eb0e97c8dd57c3ad56e056f669853f212
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -144,6 +119,23 @@ thumbnail: https://thmb.techidaily.com/e238ad00eb0e97c8dd57c3ad56e056f669853f212
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-mastering-hd-broadcasts-on-the-social-media-giant-fb/"><u>[New] In 2024, Mastering HD Broadcasts on the Social Media Giant, FB</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-the-shutters-symphony-top-techniques-for-exquisite-images/"><u>[Updated] 2024 Approved The Shutter's Symphony Top Techniques for Exquisite Images</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-seamless-mac-screen-record-with-audio-device/"><u>[Updated] Seamless Mac Screen Record with Audio Device</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixed-top-10-tips-for-restoring-cellular-data-on-your-iphone/"><u>Fixed! Top 10 Tips For Restoring Cellular Data On Your iPhone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/full-page-screen-grabs-failing-on-safari-heres-what-you-need-to-know/"><u>Full Page Screen Grabs Failing on Safari? Here's What You Need to Know!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-fix-an-iphone-that-cant-send-texts-essential-tips/"><u>How to Fix an iPhone That Can't Send Texts – Essential Tips</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-merge-duplicate-photographs-on-your-iphone-or-mac-a-step-by-step-guide/"><u>How To Merge Duplicate Photographs On Your iPhone Or Mac: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721478564034-iphone-brightness-adjustment-failures-discover-these-7-quick-fixes/"><u>IPhone Brightness Adjustment Failures – Discover These 7 Quick Fixes</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-video-editing-software-showdown-virtualdub-vs-the-best-free-alternatives/"><u>New 2024 Approved Video Editing Software Showdown Virtualdub Vs. The Best Free Alternatives</u></a></li>
+<li><a href="https://fox-that.techidaily.com/quick-solutions-top-10-tips-for-troubleshooting-apple-pay-problems/"><u>Quick Solutions: Top 10 Tips for Troubleshooting Apple Pay Problems</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/recover-elusive-facebook-watch-video-icon-for-2024/"><u>Recover Elusive Facebook Watch Video Icon for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/srt-to-sub-pivotal-approaches-for-content-transformation-for-2024/"><u>SRT to SUB Pivotal Approaches for Content Transformation for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/tips-for-adapting-third-party-iphone-add-ons-when-they-say-not-supported/"><u>Tips for Adapting Third-Party iPhone Add-Ons When They Say 'Not Supported'</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-the-ultimate-guide-to-computer-components-t17238628801698/"><u>Tom's Tech Insights: The Ultimate Guide to Computer Components</u></a></li>
+<li><a href="https://common-error.techidaily.com/why-isnt-my-hdmi-converter-working-with-usb-solutions-inside/"><u>Why Isn't My HDMI Converter Working with USB? Solutions Inside</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/why-you-should-think-twice-about-chatgpt-as-your-online-health-consultant-top-reasons-explained/"><u>Why You Should Think Twice About ChatGPT as Your Online Health Consultant – Top Reasons Explained</u></a></li>
+</ul></div>
 

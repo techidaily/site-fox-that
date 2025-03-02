@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Tips: How to Resolve 'Emergency Calls' Status on Your iPhone Screen"
-date: 2025-02-06T01:42:00.534Z
-updated: 2025-02-11T11:49:59.307Z
+date: 2025-02-23T16:30:02.242Z
+updated: 2025-03-02T16:00:17.685Z
 tags:
   - iphone
   - apple
@@ -41,10 +41,6 @@ Close
 
 ![iPhone settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-cellular-settings.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![iPhone cellular settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-settings-cellular-data-options.jpg)
 
 ![iPhone cellular data options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-settings-data-roaming.jpg)
@@ -52,10 +48,6 @@ Close
 Close
 
  To enable Data Roaming on your iPhone, go to**Settings > Cellular > Cellular Data Options** . Then, toggle on the**Data Roaming** switch.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Switch to LTE
 
@@ -71,17 +63,9 @@ Close
 
  Go to**Settings > Cellular > Cellular Data Options** like before, but this time tap**Voice & Data** . If**5G On** or**5G Auto** is selected, choose**LTE** and see if that gets rid of the SOS Only status.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Restart Your iPhone
 
 ![iPhone user trying to force restart their device](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-user-trying-to-force-restart-their-device.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Of course, we have to mention the good old reboot technique. If you haven't yet tried turning your iPhone off and on again, let's go ahead and test it out. You'd be surprised how many little annoyances a quick restart can resolve.
 
@@ -95,10 +79,6 @@ Close
 
 ![iPhone General settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-settings-general-about.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Close
 
  If your device needs a carrier settings update, you'll get a pop-up on this screen. If you don't see one, you're up-to-date already.
@@ -108,10 +88,6 @@ Close
  When all else fails, you should contact your carrier to see what's going on. Since having SOS Only status on your iPhone greatly limits the features you can use, you wouldn't want to have it for long.
 
  There may be an issue with your cell service that's worth getting to the bottom of. So, visit your carrier's website and search for a contact or support page to get a customer support phone number.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Getting to the Bottom of "SOS Only"
 
@@ -134,18 +110,20 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-quick-tips-screen-recording-made-simple-for-mac-users/"><u>[New] In 2024, Quick Tips Screen Recording Made Simple for Mac Users</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-smooth-sailing-in-transforming-ppt-slides-into-videos-for-2024/"><u>[New] Smooth Sailing in Transforming PPT Slides Into Videos for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-vocal-excellence-in-action-tweaking-sound-for-instagram-content/"><u>[Updated] Vocal Excellence in Action Tweaking Sound for Instagram Content</u></a></li>
-<li><a href="https://fox-that.techidaily.com/9-recurrering-problems-with-apples-icloud-service-solutions-explored/"><u>9 Recurrering Problems with Apple's iCloud Service – Solutions Explored</u></a></li>
-<li><a href="https://fox-that.techidaily.com/bypass-iphone-voicemail-glitches-effective-techniques-to-try-now/"><u>Bypass iPhone Voicemail Glitches: Effective Techniques to Try Now</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-latest-amd-radeon-r9-200-graphics-cards-windows-drivers-here/"><u>Get the Latest AMD Radeon R9 200 Graphics Cards Windows Drivers Here!</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-vivo-v27-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Vivo V27 Pro | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-itel-a60-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Itel A60 Lock Screen Clock in Seconds</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-pioneering-haptic-interface-an-in-depth-guide/"><u>In 2024, Pioneering Haptic Interface An In-Depth Guide</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-savor-success-ideas-to-bolster-cookery-channel-brands/"><u>In 2024, Savor Success Ideas to Bolster Cookery Channel Brands</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solving-the-issue-why-does-my-iphone-display-unpredictable-sites-during-screen-time/"><u>Solving the Issue: Why Does My iPhone Display Unpredictable Sites During Screen Time?</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solving-the-issue-why-your-iphone-notifications-are-missing-and-7-proven-ways-to-fix-them/"><u>Solving the Issue: Why Your iPhone Notifications Are Missing & 7 Proven Ways to Fix Them</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/superior-options-replacing-vocaroo-expert-tools-for-web-based-voice-capture/"><u>Superior Options Replacing Vocaroo: Expert Tools for Web-Based Voice Capture</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-hurdlehop-pausevidsnapshot/"><u>[Updated] HurdleHop PauseVidSnapshot</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-tuning-into-trends-effective-music-uploads/"><u>2024 Approved Tuning Into Trends Effective Music Uploads</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-kobo-forma-assessment-a-commitment-to-the-art-of-reading-redefined/"><u>Comprehensive Kobo Forma Assessment - A Commitment to the Art of Reading Redefined</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/enhanced-audio-clarity-on-apple-tv-post-tvos-18-update-exclusive-tips/"><u>Enhanced Audio Clarity on Apple TV Post-tvOS ˈ18 Update | Exclusive Tips</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/first-timers-manual-for-cool-mac-crafted-youtube-clips/"><u>First-Timer's Manual for Cool, Mac-Crafted YouTube Clips</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-prolonged-screen-timeout-issues-on-your-iphone-easily/"><u>Fixing Prolonged Screen Timeout Issues on Your iPhone Easily</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/game-on-for-gaiety-your-must-try-10/"><u>Game On for Gaiety Your Must-Try 10</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-unlocking-superior-sound-recordings-minus-the-mic/"><u>In 2024, Unlocking Superior Sound Recordings Minus the Mic</u></a></li>
+<li><a href="https://fox-that.techidaily.com/managing-communication-on-iphones-do-not-disturb-8-effective-ways-to-stay-connected/"><u>Managing Communication on iPhone's Do Not Disturb - 8 Effective Ways to Stay Connected</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/solucion-al-problema-de-imagen-de-vera-grabadora-con-la-edicion-trueimage-de-acronis-problemas-de-clonacion-del-disco/"><u>Solucion Al Problema De Imagen De Vera Grabadora Con La Edición TrueImage De Acronis: Problemas De Clonación Del Disco</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solve-your-airdrop-is-unavailable-problem-in-minutes-with-these-16-essential-fixes/"><u>Solve Your 'Airdrop Is Unavailable' Problem in Minutes with These 16 Essential Fixes</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-tutorial-for-quickly-installing-corsair-void-pro-drivers-windows/"><u>Step-by-Step Tutorial for Quickly Installing Corsair Void Pro Drivers (Windows)</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-glitchy-audio-in-your-airpods-proven-techniques-for-crystal-clear-sound/"><u>Troubleshoot Glitchy Audio in Your AirPods: Proven Techniques for Crystal Clear Sound</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-your-iphone-when-it-stops-vibrating-in-silentring-mode-discover-8-solutions/"><u>Troubleshoot Your iPhone When It Stops Vibrating in Silent/Ring Mode – Discover 8 Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/ultimate-guide-resolving-issues-with-iphones-non-functional-alarm/"><u>Ultimate Guide: Resolving Issues with iPhone's Non-Functional Alarm</u></a></li>
 </ul></div>
 

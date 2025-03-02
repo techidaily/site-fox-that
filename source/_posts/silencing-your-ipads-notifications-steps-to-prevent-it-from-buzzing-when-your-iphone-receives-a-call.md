@@ -1,7 +1,7 @@
 ---
 title: "Silencing Your iPad's Notifications: Steps to Prevent It From Buzzing when Your iPhone Receives a Call"
-date: 2024-08-22T22:59:31.208Z
-updated: 2024-08-23T22:59:31.208Z
+date: 2025-02-24T16:00:32.652Z
+updated: 2025-03-02T16:30:44.235Z
 tags:
   - iphone
   - apple
@@ -24,9 +24,6 @@ thumbnail: https://thmb.techidaily.com/49f07ba1564e1ad5829085791d56fbd558cd9b6be
 
  To turn off the ringer on your iPad, open Settings and tap on**Sounds** . At the top of the screen, you'll see a slider under the section labeled "Ringtone and Alert Volume." Bring this slider all the way to the left and make sure the toggle for**Change with Buttons** is disabled.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Turning down ringer and alerts volume on iPad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/how-to-stop-ipad-ringing-turn-off-ringer.jpg)
 
  Now, you've turned off your ringer and alert notifications. This could be a positive if you only want notifications from your iPhone or Apple Watch. On the other hand, if you count on Mail alerts on your iPad, this option won't work for you.
@@ -37,9 +34,6 @@ thumbnail: https://thmb.techidaily.com/49f07ba1564e1ad5829085791d56fbd558cd9b6be
 
  To do this, open Settings and tap on the**Phone** section. Underneath the slider in the "Ringtone and Alert Volumes" section, enable the toggle for**Change with Buttons** . Now, the volume buttons control your ringer and alerts.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Enabling adjusting volume with the buttons on iPad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/how-to-stop-ipad-ringing-turn-down-volume.jpg)
 
  There's a reason this is disabled by default, as many people prefer to find a volume they like and stick with it. You may also accidentally change your ringer volume if you press the buttons while listening to music or watching a video.
@@ -56,18 +50,12 @@ thumbnail: https://thmb.techidaily.com/49f07ba1564e1ad5829085791d56fbd558cd9b6be
 
  Tap the**plus (+)** button in the top-right to add a new Focus mode, then tap**Custom** at the top. Choose a name, color, and icon for the Focus mode. Then, tap**Customize Focus** .
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Creating a Focus Mode on iPadOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/how-to-stop-ipad-ringing-create-focus.jpg)
 
  On this screen, you can select the people and apps you want to manage notifications from. Select**Choose Apps** , then select**Allow Notifications From** at the top of the list. The list below will populate with a few apps, but you can add more.
 
  To add an app you want to allow notifications from, tap the**Add Apps** button on the left, then select it from the list of available apps. Once apps are added to the list, you can tap the checkbox in the top-left of each app to enable or disable notifications. There are [plenty of other aspects to Focus modes](https://www.makeuseof.com/focus-mode-ideas-to-set-up-in-ios/) , but this is all you need for notifications.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Allowing notifications for certain apps in a new Focus Mode on iPadOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/how-to-stop-ipad-ringing-allow-notification.jpg)
 
  After you've created your custom Focus mode, you need to enable it from the Control Center. Pull down from the top-right of the iPad's screen, then long-press on**Focus** and choose your custom Focus Mode. ​​​​​​
@@ -76,9 +64,6 @@ thumbnail: https://thmb.techidaily.com/49f07ba1564e1ad5829085791d56fbd558cd9b6be
 
  When you want to disable it, you can tap the**Focus** toggle.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Disable "Calls on Other Devices"
 
  All the other options we've looked at to stop your iPad from ringing involve addressing the issue on the iPad. These all have downsides, though, from silencing other notifications to having to use Focus Modes to manage the ringer. Those are fine options if you want to disable the ringer for a short while, but what about turning it off for good?
@@ -95,9 +80,6 @@ Close
 
  If you want to disable calls everywhere but on your iPhone, disable the**Allow Calls on Other Devices** toggle. But if you only want to disable calls ringing on your iPad, leave this toggle enabled but look for your iPad under the "Allow Calls On" section further down on the screen, and then disable the slider next to it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ## Plenty of Ways to Silence iPad Calls
 
  For most people, the best way to silence calls ringing on your iPad is to disable the "Calls on Other Devices" setting on your iPhone, as it leaves the rest of the notifications on your iPad untouched. This lets you manage which devices do and don't ring when you receive an incoming call.
@@ -110,8 +92,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -119,6 +99,22 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/new-top-10-premium-luts-available-for-free/"><u>[New] Top 10 Premium LUTs, Available for FREE</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-realme-gt-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Realme GT 3 | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/9-effective-tricks-to-restore-natural-colors-to-yellowish-iphone-displays/"><u>9 Effective Tricks to Restore Natural Colors to Yellowish iPhone Displays</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-oppo-reno-10-pro-5g-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Oppo Reno 10 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/altitude-assurance-choosing-between-copilot-and-copilot-pro/"><u>Altitude Assurance: Choosing Between CoPilot and Copilot Pro</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-fix-a-broken-touchscreen-on-your-tablet-8-proven-methods/"><u>How to Fix a Broken Touchscreen on Your Tablet - 8 Proven Methods</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-reset-and-fix-windows-11-volume-control-malfunctions-quickly/"><u>How to Reset and Fix Windows 11 Volume Control Malfunctions Quickly</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-git-workflows-using-github-desktop-in-windows-11/"><u>Navigating Git Workflows Using GitHub Desktop in Windows 11</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolving-iphone-x-issues-preventing-spotify-app-from-crashing-upon-lock/"><u>Resolving iPhone X Issues: Preventing Spotify App From Crashing Upon Lock</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/-fidelity-at-home-mastering-quality-recordings-for-2024/"><u>Sound Fidelity at Home Mastering Quality Recordings for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-non-apple-rechargeable-airtag-alternative-the-ideal-choice-for-your-wallet-discovered/"><u>Top Non-Apple Rechargeable AirTag Alternative: The Ideal Choice for Your Wallet - Discovered !</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-a-glitched-iphone-display-top-7-solutions-to-fix-the-endless-apple-logo-screen/"><u>Troubleshoot a Glitched iPhone Display: Top 7 Solutions to Fix the Endless Apple Logo Screen</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-how-to-fix-issues-when-your-iphone-wont-take-incoming-calls/"><u>Troubleshooting: How to Fix Issues When Your iPhone Won't Take Incoming Calls</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-s-top-free-mpeg-video-editors-for-splitting-and-trimming-for-2024/"><u>Updated S Top Free MPEG Video Editors for Splitting and Trimming for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721466714412-your-iphone-wont-connect-to-your-computer-heres-the-fix/"><u>Your iPhone Won't Connect to Your Computer? Here's the Fix</u></a></li>
+</ul></div>
 

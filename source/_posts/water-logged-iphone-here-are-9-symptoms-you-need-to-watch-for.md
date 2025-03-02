@@ -1,7 +1,7 @@
 ---
 title: Water Logged iPhone? Here Are 9 Symptoms You Need to Watch For!
-date: 2025-02-08T02:00:43.377Z
-updated: 2025-02-11T11:49:41.666Z
+date: 2025-02-23T16:18:22.349Z
+updated: 2025-03-02T16:13:14.164Z
 tags:
   - iphone
   - apple
@@ -37,10 +37,6 @@ thumbnail: https://thmb.techidaily.com/255abe49d787e06c0ed6c6f504e1d68fdfd70d280
 
 ![iPhone with Face ID is not available message on the lock screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/iphone-with-face-id-is-not-available-message-on-the-lock-screen.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Apple's biometric security features are one of the features you could lose when your iPhone takes an unfortunate bath in water.
 
  Face ID works using the TrueDepth camera system embedded into the notch or Dynamic Island. While your front camera might dry, and your picture quality may return to what it used to be, Face ID could still remain unavailable. You can try to [fix Face ID on your iPhone](https://www.makeuseof.com/how-to-fix-face-id-not-working-or-not-available-on-iphone/) , but your best bet is to get it to an expert as soon as possible.
@@ -58,10 +54,6 @@ thumbnail: https://thmb.techidaily.com/255abe49d787e06c0ed6c6f504e1d68fdfd70d280
  If you're unlucky, water could also affect your display and develop permanent patches. You might see signs of water under the display first before it slowly forms dark patches—making the affected area dimmer.
 
  Once you see signs of water under the display, dry the device and [back up all your iPhone's data](https://www.makeuseof.com/tag/how-to-backup-iphone-ipad/) . Whatever you do, do not put it in rice because that myth may accelerate your problem. If there's still a dark spot after your phone is dry, you might need to change the screen assembly.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Faulty Touchscreen and Flickering Display
 
@@ -81,10 +73,6 @@ thumbnail: https://thmb.techidaily.com/255abe49d787e06c0ed6c6f504e1d68fdfd70d280
 
  You should dry out the speakers for iPhones that just fell into some water. If that still doesn't help, try some DIY [iPhone speaker fixes](https://www.makeuseof.com/tag/fix-iphone-speaker-not-working/) before you spend money on an expert.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. Signs of Rust and Corrosion
 
  iPhones are typically made of stainless steel or aluminum, a sturdy lightweight metal, but a metal nonetheless. This means that when iPhones are exposed to moisture or salty water for too long, the metals can corrode and cause rust or pitting.
@@ -93,10 +81,6 @@ thumbnail: https://thmb.techidaily.com/255abe49d787e06c0ed6c6f504e1d68fdfd70d280
 
  If you're skilled at DIY repairs, you can try opening up the iPhone to search the interior components for signs of rust.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 8\. Unstable Charging
 
 ![Plugged-in iPhone resting on a black surface](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/plugged-in-iphone-resting-on-a-black-surface.jpg)
@@ -104,10 +88,6 @@ thumbnail: https://thmb.techidaily.com/255abe49d787e06c0ed6c6f504e1d68fdfd70d280
  In most scenarios where a phone falls into some water, it will likely be dirty water. And dirty water could contain all sorts of things like sand, mud, or other icky particles. These particles can get into your phone's charging port and block the pins. When the pins are blocked in this manner, your charger might not be able to fully nest in your phone, stopping your phone from charging properly or charging at all.
 
  If your phone falls in muddy water, try to remove mud from the charging port as quickly as possible. When your phone dries, give the charging port a thorough clean. You can check our guide on [how to clean your dirty iPhone](https://www.makeuseof.com/tag/clean-iphone-guide/) for better assistance with that.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 9\. Strange Smells
 
@@ -140,19 +120,18 @@ thumbnail: https://thmb.techidaily.com/255abe49d787e06c0ed6c6f504e1d68fdfd70d280
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-unmatched-youtube-success-10-unique-tips-for-your-shorts/"><u>[New] 2024 Approved Unmatched YouTube Success 10 Unique Tips for Your Shorts</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-poker-professional-panelisms/"><u>2024 Approved POKER PROFESSIONAL PANELISMS</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/choosing-the-right-macbook-pro-a-detailed-comparison-of-m3-vs-m2-models-for-savvy-shoppers-zdnet/"><u>Choosing the Right MacBook Pro: A Detailed Comparison of M3 Vs. M2 Models for Savvy Shoppers | ZDNet</u></a></li>
-<li><a href="https://fox-that.techidaily.com/expert-tips-to-resolve-non-deliverable-text-messages-on-ios-devices/"><u>Expert Tips to Resolve Non-Deliverable Text Messages on iOS Devices</u></a></li>
-<li><a href="https://fox-that.techidaily.com/get-swift-with-safari-improve-your-iphone-web-experience-in-4-steps/"><u>Get Swift with Safari: Improve Your iPhone Web Experience in 4 Steps</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-prevent-bloodhunt-from-stuttering-or-crashing-during-gameplay-pc/"><u>How to Prevent Bloodhunt From Stuttering or Crashing During Gameplay (PC)</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-innovative-ai-pixel-perfect-editor/"><u>In 2024, Innovative AI Pixel Perfect Editor</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-tips-for-effective-tripod-usage-in-video-blogging/"><u>In 2024, Tips for Effective Tripod Usage in Video Blogging</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/new-2024-approved-what-is-an-ai-art-generator/"><u>New 2024 Approved What Is an AI Art Generator?</u></a></li>
-<li><a href="https://common-error.techidaily.com/origin-gaming-help-easy-fixes-for-common-game-setup-issues/"><u>Origin Gaming Help: Easy Fixes for Common Game Setup Issues</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/restoring-perfect-document-output/"><u>Restoring Perfect Document Output</u></a></li>
-<li><a href="https://fox-that.techidaily.com/revive-your-damaged-iphone-a-step-by-step-guide-to-starting-it-up-without-using-buttons/"><u>Revive Your Damaged iPhone: A Step-by-Step Guide to Starting It Up Without Using Buttons</u></a></li>
-<li><a href="https://fox-that.techidaily.com/revive-your-iphones-dictation-functionality-discover-the-5-must-try-fixes/"><u>Revive Your iPhone's Dictation Functionality - Discover the 5 Must-Try Fixes!</u></a></li>
-<li><a href="https://fox-that.techidaily.com/unlocking-your-iphones-data-potential-a-guide-to-solving-connection-problems/"><u>Unlocking Your iPhone’s Data Potential: A Guide to Solving Connection Problems</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-acquiring-free-music-youtube-video-edition/"><u>[New] In 2024, Acquiring Free Music YouTube Video Edition</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-unlocking-the-power-of-android-time-lapses-for-2024/"><u>[New] Unlocking the Power of Android Time-Lapses for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-unveil-the-secrets-to-excellent-youtube-thumbnails-for-2024/"><u>[Updated] Unveil the Secrets to Excellent YouTube Thumbnails for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-bare-bones-budget-friendly-best-5-windows-10-recording-apps/"><u>2024 Approved Bare-Bones, Budget-Friendly Best 5 Windows 10 Recording Apps</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721464513527-cant-see-app-icons-on-ios-expert-tips-for-restoring-every-single-icon-easily/"><u>Can't See App Icons on iOS? Expert Tips for Restoring Every Single Icon Easily.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-find-lost-iphone-backup-files-on-windows-pc-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to find lost iPhone Backup files on Windows PC? | Stellar</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721458484864-revive-or-reboot-how-to-independently-reset-your-iphone-say-goodbye-to-itunes-dependency/"><u>Revive or Reboot: How to Independently Reset Your iPhone - Say Goodbye to iTunes Dependency!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721471764451-solving-button-issues-on-iphones-heres-how-you-can-reboot-them-easily/"><u>Solving Button Issues on iPhones? Here's How You Can Reboot Them Easily!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-installation-of-the-nexiq-usb-link-driver-v2/"><u>Step by Step Installation of the Nexiq USB Link Driver V2</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721459325666-struggling-with-sms-timing-on-your-iphone-here-are-nine-prompt-action-steps-for-improvement/"><u>Struggling with SMS Timing on Your iPhone? Here Are Nine Prompt-Action Steps for Improvement!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-process-explained-how-are-ev-batteries-interchanged/"><u>The Process Explained: How Are EV Batteries Interchanged?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721465627296-unlock-access-to-icloud-settings-on-your-device-top-4-fixes/"><u>Unlock Access to iCloud Settings on Your Device: Top 4 Fixes</u></a></li>
 </ul></div>
 

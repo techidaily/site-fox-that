@@ -1,7 +1,7 @@
 ---
 title: "Navigating Through Apple's Cloud: A Guide to Retrieving FaceTime Photos"
-date: 2025-02-06T09:03:38.131Z
-updated: 2025-02-11T04:06:45.411Z
+date: 2025-02-25T16:41:15.082Z
+updated: 2025-03-02T16:08:42.351Z
 tags:
   - iphone
   - apple
@@ -21,10 +21,6 @@ thumbnail: https://thmb.techidaily.com/3a57b1ddb74892f92e7ea8db98be1fa90b1375e9f
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Where Do FaceTime Live Photos Go?
 
  It's all well and good snapping a photo while you're using FaceTime, but you need to know where those photos go to enjoy them after the call. The answer is pretty simple: FaceTime photos save directly to the Photos app on your device.
@@ -34,10 +30,6 @@ thumbnail: https://thmb.techidaily.com/3a57b1ddb74892f92e7ea8db98be1fa90b1375e9f
 ![Library tab in the Photos app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/03-library-tab-photos-app-ios.jpg)
 
  You can simplify matters by viewing only your Live Photos. To do this, go to the**Albums** tab and look for the**Live Photos** album. Your iPhone, iPad, or Mac creates this album automatically as soon as you add a Live Photo to your library.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Create a Smart Album for All Your FaceTime Live Photos
 
@@ -89,17 +81,9 @@ Close
 
  On a Mac, open**FaceTime** and go to**FaceTime > Settings** from the menu bar. In the**Settings** tab, turn on the option to**Allow Live Photos to be captured during video calls** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Troubleshooting FaceTime Photo Problems
 
  There are lots of problems that might stop you from being able to snap a Live Photo during your FaceTime calls. If you can't find the shutter button, FaceTime isn't saving your photos, or you have trouble finding FaceTime photos after you take them, try these troubleshooting tips to fix it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Enable FaceTime Live Photos on Both Devices
 
@@ -110,10 +94,6 @@ Close
  When you take Live Photos in FaceTime, it automatically saves those pictures to the Photos app on your device. If you haven't used Photos before, open it on your device to initialize the app before FaceTime can save photos.
 
 ![Photos app on an iPhone Home Screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/share-shared-albums-with-non-apple-users.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. Update to the Latest Operating System
 
@@ -129,10 +109,6 @@ Close
 
  No matter what [FaceTime problem you're encountering](https://www.makeuseof.com/tag/facetime-not-working/) , you should always try to fix it by restarting your device. This is a remarkably effective troubleshooting step that only takes a moment to try out. Power off your iPhone, iPad, or Mac as you usually would, then wait 30 seconds before restarting it again.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 5\. Restart FaceTime on Your Device
 
  Finally, try turning FaceTime off and on in your device settings. You may need to sign in to your Apple ID account again when you do this.
@@ -143,17 +119,9 @@ Close
 
 ![FaceTime enabled in iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/facetime-enabled-ios-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Close
 
  On a Mac, open the**FaceTime** app and go to**FaceTime > Settings** from the menu bar. In the**Settings** tab, uncheck the box for**Enable this account** , then check the box again to re-enable FaceTime.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Revisit Your FaceTime Photos on iPhone, iPad and Mac
 
@@ -176,18 +144,15 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-blueprints-for-constructing-a-high-definition-video-editing-beast/"><u>[New] Blueprints for Constructing a High-Definition Video Editing Beast</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-insider-strategies-free-access-to-professional-imagery-for-2024/"><u>[New] Insider Strategies Free Access to Professional Imagery for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-foster-conversations-via-thoughtful-instagram-quiz-style-lives/"><u>[Updated] 2024 Approved Foster Conversations via Thoughtful Instagram Quiz-Style Lives</u></a></li>
-<li><a href="https://fox-that.techidaily.com/3-effective-troubleshooting-tips-for-when-your-iphone-contact-list-isnt-responding/"><u>3 Effective Troubleshooting Tips for When Your iPhone Contact List Isn't Responding</u></a></li>
-<li><a href="https://fox-that.techidaily.com/6-effective-fixes-for-an-iphone-stuck-showing-sos-in-the-status-bar-restore-full-use/"><u>6 Effective Fixes for an iPhone Stuck Showing SOS in the Status Bar - Restore Full Use!</u></a></li>
-<li><a href="https://fox-that.techidaily.com/bypass-the-glitch-instant-remedies-when-your-iphones-emoji-prediction-fails/"><u>Bypass the Glitch: Instant Remedies When Your iPhone's Emoji Prediction Fails</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-the-innovative-camera-button-on-every-iphone-16-unveiling-its-capabilities-insights/"><u>Discover the Innovative Camera Button on Every iPhone 16: Unveiling Its Capabilities – Insights</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-repair-your-iphones-malfunctioning-voicemail-a-step-by-step-guide/"><u>How to Repair Your iPhone's Malfunctioning Voicemail – A Step-by-Step Guide</u></a></li>
-<li><a href="https://review-topics.techidaily.com/iphone-15-activation-lock-primer-by-drfone-ios-unlock-ios-unlock/"><u>iPhone 15 activation lock primer</u></a></li>
-<li><a href="https://fox-that.techidaily.com/shadowplay-not-working-expert-tips-to-get-your-game-recordings-up-and-running-in-windows/"><u>Shadowplay Not Working? Expert Tips to Get Your Game Recordings Up and Running in Windows</u></a></li>
-<li><a href="https://fox-that.techidaily.com/step-by-step-guide-for-repairing-iphones-distance-sensing-functionality/"><u>Step-by-Step Guide for Repairing iPhone's Distance Sensing Functionality</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722985667652-troubleshooting-solutions-for-non-responsive-discord-overlays-instant-fixes/"><u>Troubleshooting Solutions for Non-Responsive Discord Overlays - Instant Fixes!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/windows-11-87xpvista-hp-officejet-pro-8610-drivers-update-and-installation-steps/"><u>Windows 11, 8/7/XP/Vista에서 HP Officejet Pro 8610 Drivers Update & Installation Steps</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-expert-tips-for-conducting-obs-meetings-via-zoom/"><u>[New] Expert Tips for Conducting OBS Meetings via Zoom</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-diy-youtube-openers-technique-one-and-technique-two/"><u>[Updated] In 2024, DIY YouTube Openers Technique One & Technique Two</u></a></li>
+<li><a href="https://fox-that.techidaily.com/15-key-iphone-troubleshooting-tips-for-all-iphone-models/"><u>15 Key iPhone Troubleshooting Tips for All iPhone Models</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721453652447-expert-tips-for-repairing-your-iphones-biggest-issues-discover-how-dfu-mode-can-help/"><u>Expert Tips for Repairing Your iPhone's Biggest Issues - Discover How DFU Mode Can Help!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fortnite-login-troubles-overcome-the-permission-error-easily/"><u>Fortnite Login Troubles? Overcome the 'Permission Error' Easily!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721444038091-get-your-iphones-voicemail-running-again-with-these-9-tips/"><u>Get Your iPhone's Voicemail Running Again with These 9 Tips!</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-simplified-webinar-recording-methods-for-windows-and-mac-users/"><u>In 2024, Simplified Webinar Recording Methods for Windows & Mac Users</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/synchronize-your-local-files-with-a-network-drive-on-windows-10-two-effective-methods/"><u>Synchronize Your Local Files with a Network Drive on Windows 10: Two Effective Methods</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721475888841-tired-of-audio-bouncing-around-in-your-airpods-disable-dynamic-head-tracking-now/"><u>Tired of Audio Bouncing Around in Your AirPods? Disable Dynamic Head Tracking Now</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Vivo X Flip | Dr.fone</u></a></li>
 </ul></div>
 

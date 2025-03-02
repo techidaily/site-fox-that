@@ -1,7 +1,7 @@
 ---
 title: How to Repair an Iphone When the Screen Won't Respond?
-date: 2025-02-06T23:06:07.034Z
-updated: 2025-02-11T02:59:56.410Z
+date: 2025-02-23T16:22:32.167Z
+updated: 2025-03-02T16:36:14.524Z
 tags:
   - iphone
   - apple
@@ -45,10 +45,6 @@ thumbnail: https://thmb.techidaily.com/38a7a5c0a5123e7708eb11aa967d228491b394608
 
  If there’s a problem with your digitizer, there are a few fixes you can try before taking your iPhone to a repair shop. However, if it’s the LCD, you’ll need to start searching for repairs straight away.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Make Sure Touch Accommodations Is Off
 
  Some users might have activated certain accessibility settings that can interfere with how the touchscreen works. The most common culprit is Touch Accommodations. If enabled, your iPhone screen will seem buggy and you’ll have a difficult time navigating the touchscreen.
@@ -59,17 +55,9 @@ If your screen is working, but not correctly, this could be the cause.
 
 ![iphone touch accommodations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/iphone-touch-accommodations.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you’re having a hard time navigating there because of the dodgy touchscreen, just activate Siri and say “Turn off Touch Accommodations.”
 
  Alternatively, you can click the Side button three times and this will disable it on most newer devices. For older devices, you may need to tap the Home button three times.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Back Up and Factory Reset Your iPhone
 
@@ -84,10 +72,6 @@ If your screen is working, but not correctly, this could be the cause.
  Related:[How to Factory Reset Your iPhone or iPad](https://www.makeuseof.com/tag/how-to-factory-reset-iphone-ipad/)
 
  If you do choose to get your iPhone repaired, you’ll most likely need to do this anyway. This ensures that the technician won’t be able to access your personal data. They may also need to test Face ID to make sure the repair worked and will need the phone to be unlocked to do so, which means you’re better off erasing all your data first.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Getting Your iPhone Screen Repaired
 
@@ -119,10 +103,6 @@ If your screen is working, but not correctly, this could be the cause.
 
  To use Voice Control, you should familiarize yourself with the basic commands.[Apple](https://support.apple.com/HT210417) has a full list of these commands on its website.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## iPhone Screen Not Working? These Fixes Should Have Helped
 
  If your iPhone stopped responding to touch after damage, heat, or salt water exposure, a repair is likely needed. However, a user might have activated Touch Accommodations, which could be the culprit. There are also rare cases where a software problem can cause the touchscreen to work and a factory reset could solve the problem.
@@ -144,24 +124,21 @@ If your screen is working, but not correctly, this could be the cause.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-carving-a-path-individuality-in-the-face-of-tiktok-influencers/"><u>[Updated] 2024 Approved Carving a Path Individuality in the Face of TikTok Influencers</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-complete-guide-to-camstudio-screencap-mastery/"><u>[Updated] 2024 Approved Complete Guide to CamStudio Screencap Mastery</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-strategies-for-replaying-group-conversations/"><u>2024 Approved Strategies for Replaying Group Conversations</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-top-time-lapse-tools-the-finest-screen-recorders/"><u>2024 Approved TOP Time-Lapse Tools - The Finest Screen Recorders</u></a></li>
-<li><a href="https://fox-that.techidaily.com/airpods-disappearing-act-discover-these-11-fixes-to-restore-them-in-apples-find-my-app/"><u>AirPods Disappearing Act? Discover These 11 Fixes to Restore Them in Apple's Find My App</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/best-picks-no-charging-high-definition-video-players-for-pcmacos-for-2024/"><u>Best Picks No-Charging, High Definition Video Players for PC/MacOS for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/catching-and-logging-exceptions/"><u>Catching and Logging Exceptions:</u></a></li>
-<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-itel-s23plus-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Itel S23+ | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/get-your-iphone-back-on-track-resolving-5-common-issues-through-dfu-resetting-methods/"><u>Get Your iPhone Back on Track: Resolving 5 Common Issues Through DFU Resetting Methods</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-ensure-successful-full-screen-imaging-in-your-safari-browser-experience/"><u>How To Ensure Successful Full-Screen Imaging in Your Safari Browser Experience</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-resolve-an-hdcp-mistake-a-comprehensive-guide-with-expert-advice/"><u>How to Resolve an HDCP Mistake: A Comprehensive Guide with Expert Advice</u></a></li>
-<li><a href="https://fox-that.techidaily.com/iphones-or-ipads-not-joining-the-network-try-these-8-ways-to-restore-connection/"><u>IPhones or iPads Not Joining the Network? Try These 8 Ways to Restore Connection</u></a></li>
-<li><a href="https://fox-that.techidaily.com/revive-the-depth-feature-on-iphone-xrxs-in-ios-16-top-7-fixes/"><u>Revive the Depth Feature on iPhone XR/XS in iOS 16 - Top 7 Fixes</u></a></li>
-<li><a href="https://fox-that.techidaily.com/silence-no-more-discover-top-techniques-for-enabling-iphones-messaging-sounds-and-alerts/"><u>Silence No More: Discover Top Techniques for Enabling iPhone's Messaging Sounds and Alerts</u></a></li>
-<li><a href="https://windows11.techidaily.com/starting-diagnostics-five-quick-steps-in-windows/"><u>Starting Diagnostics: Five Quick Steps in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-fix-windows-update-error-0x80242016/"><u>Step-by-Step Fix: Windows Update Error 0X80242016</u></a></li>
-<li><a href="https://fox-that.techidaily.com/step-by-step-solution-for-iphone-hotspot-not-working-error/"><u>Step-by-Step Solution for 'iPhone Hotspot Not Working' Error</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-honor-90-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Honor 90 for Parents | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/why-isnt-your-whatsapp-conversations-storing-in-icloud-expert-fixes-and-tips/"><u>Why Isn't Your WhatsApp Conversations Storing in iCloud? Expert Fixes and Tips</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-navigate-video-landscape-3-pros-of-using-zoom-altering-tools/"><u>[New] Navigate Video Landscape 3 Pros of Using Zoom Altering Tools</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-evaluating-dji-phantom-3-professional-goggles/"><u>[Updated] 2024 Approved Evaluating DJI Phantom 3 Professional Goggles</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-graphic-wizardry-from-novice-to-industry-success-story/"><u>[Updated] Graphic Wizardry From Novice to Industry Success Story</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-optimizing-fb-techniques-for-shooting-and-posting-360-vids-for-2024/"><u>[Updated] Optimizing FB Techniques for Shooting & Posting 360 Vids for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-crime-quest-clones-video-game-list-like-gta-v/"><u>2024 Approved Crime Quest Clones Video Game List Like GTA V</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/conquer-the-configuring-hurdle-troubleshooting-steps-to-unstick-your-windows-installation/"><u>Conquer the Configuring Hurdle: Troubleshooting Steps to Unstick Your Windows Installation</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722848067306-enhance-your-viewing-experience-with-cutting-edge-hitachi-4k-tvs-and-inbuilt-roku-technology/"><u>Enhance Your Viewing Experience with Cutting-Edge Hitachi 4K TVs and Inbuilt Roku Technology</u></a></li>
+<li><a href="https://fox-that.techidaily.com/guide-rebuild-iphone-network-parameters-for-enhanced-performance-and-bug-fixes/"><u>Guide: Rebuild iPhone Network Parameters for Enhanced Performance and Bug Fixes</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210770333-9798886540178-healing-with-gemstones/"><u>Healing with Gemstones | Free Book</u></a></li>
+<li><a href="https://fox-that.techidaily.com/reactivate-and-optimize-your-iphones-voicemail-in-just-nine-easy-ways/"><u>Reactivate and Optimize Your iPhone's Voicemail in Just Nine Easy Ways!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/rescue-and-repair-clear-water-blockages-in-iphones-sound-output-areas/"><u>Rescue and Repair: Clear Water Blockages in iPhone's Sound Output Areas</u></a></li>
+<li><a href="https://fox-that.techidaily.com/struggling-with-face-id-discover-14-fixes-to-get-it-working-again-on-iphone/"><u>Struggling with Face ID? Discover 14 Fixes to Get It Working Again on iPhone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721461235326-struggling-with-iphone-display-lags-before-sleeping-quick-solutions-inside/"><u>Struggling with iPhone Display Lags Before Sleeping? Quick Solutions Inside</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-windows-clean-slate-three-methods/"><u>The Ultimate Windows Clean Slate: Three Methods</u></a></li>
+<li><a href="https://fox-that.techidaily.com/understanding-why-your-lost-iphone-might-be-displayed-as-disconnected-on-icloud/"><u>Understanding Why Your Lost iPhone Might Be Displayed As Disconnected on iCloud</u></a></li>
+<li><a href="https://fox-that.techidaily.com/why-wont-my-iphone-connect-uncover-common-solutions-for-device-pairing-woes/"><u>Why Won't My iPhone Connect? Uncover Common Solutions for Device Pairing Woes</u></a></li>
 </ul></div>
 

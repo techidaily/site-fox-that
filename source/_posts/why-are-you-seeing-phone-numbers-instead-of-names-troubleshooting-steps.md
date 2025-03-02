@@ -1,7 +1,7 @@
 ---
 title: Why Are You Seeing Phone Numbers Instead of Names? Troubleshooting Steps
-date: 2024-08-27T14:28:12.512Z
-updated: 2024-08-28T14:28:12.512Z
+date: 2025-02-27T16:18:14.082Z
+updated: 2025-03-02T16:38:28.495Z
 tags:
   - iphone
   - apple
@@ -36,13 +36,6 @@ thumbnail: https://thmb.techidaily.com/289107adae482c208effdc1eb510e9f1c669fd2ac
 
  In the case that this doesn't work and you are still facing the same issue, follow the fixes below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ## Add or Remove the Country Code
 
  Sometimes the issue may be caused by Messages not associating phone numbers without a country code with their entries in your contact list. For example, the international dialing code for the UK is +44\. If Messages thought that +447981234532 was different from 07981234532, it would show the chat under a phone number.
@@ -54,15 +47,8 @@ No advertising on the website.
 3. Add the country code to the start of their phone number, using either the full format (0044) or the short format (+44). Make sure you get the right country code for their device, which should be what shows up in the Messages app.
 4. Click**Done** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![Contact Edit menu in iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/contact-edit-menu-in-ios.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Add Country Code to Number](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Fix-Messages-Not-Showing-Contact-Number.jpg)
 
 Close
@@ -87,20 +73,10 @@ To do this, follow these steps on your iPhone:
 6. Wait for a few seconds and then turn**Contacts** back on. When you are asked, select**Merge** . This will merge all your contacts with your phone's contacts.
 7. Now, restart your device, and this should fix the issue.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![Settings on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Fix-Messages-Not-Showing-iCloud.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Password and Security in iPhone iCloud Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/2FA-iPhone-Password-and-Security.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ![Contacts in iCloud Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Fix-Messages-Not-Showing-iCloud-Contacts.jpg)
 
 Close
@@ -115,8 +91,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -124,6 +98,20 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-a-beginners-approach-to-nvidia-screen-capture-for-2024/"><u>[New] A Beginner's Approach to NVIDIA Screen Capture for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-combat-blurry-iphone-hdri-4-pivotal-tips-for-premiere-pro-users/"><u>[Updated] In 2024, Combat Blurry iPhone HDRI 4 Pivotal Tips for Premiere Pro Users</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-superior-cams-for-animated-storytelling-for-2024/"><u>[Updated] Superior Cams for Animated Storytelling for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-11-easy-to-produce-vlog-projects-at-home/"><u>2024 Approved 11 Easy-to-Produce Vlog Projects at Home</u></a></li>
+<li><a href="https://fox-that.techidaily.com/bypassing-the-hold-alert-during-iphone-charging-with-these-8-tricks/"><u>Bypassing the Hold Alert During iPhone Charging with These 8 Tricks</u></a></li>
+<li><a href="https://fox-that.techidaily.com/eliminating-excessive-magnification-of-images-in-whatsapp-conversations/"><u>Eliminating Excessive Magnification of Images in WhatsApp Conversations</u></a></li>
+<li><a href="https://fox-that.techidaily.com/essential-iphone-settings-for-improved-visual-impairment-support/"><u>Essential iPhone Settings for Improved Visual Impairment Support</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/iphone-13-is-it-built-for-aquatic-adventures-or-not/"><u>IPhone 13: Is It Built for Aquatic Adventures or Not?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721472063630-iphone-control-center-malfunction-here-are-8-remedies-that-work/"><u>IPhone Control Center Malfunction? Here Are 8 Remedies That Work!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/mastering-autocorrect-6-strategies-to-ensure-accurate-typing-on-your-iphone/"><u>Mastering AutoCorrect: 6 Strategies to Ensure Accurate Typing on Your iPhone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-poco-m6-5g-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Poco M6 5G to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-unlimited-free-face-creation-top-online-resources-for-2024/"><u>Updated Unlimited Free Face Creation Top Online Resources for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-honor-magic-5-pro-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Honor Magic 5 Pro? | Dr.fone</u></a></li>
+</ul></div>
 

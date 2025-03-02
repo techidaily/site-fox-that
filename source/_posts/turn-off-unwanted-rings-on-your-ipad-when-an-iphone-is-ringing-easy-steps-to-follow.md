@@ -1,7 +1,7 @@
 ---
 title: Turn Off Unwanted Rings on Your iPad when an iPhone Is Ringing – Easy Steps to Follow
-date: 2025-02-07T09:34:38.123Z
-updated: 2025-02-10T22:35:38.575Z
+date: 2025-03-01T16:05:36.624Z
+updated: 2025-03-02T16:29:53.524Z
 tags:
   - iphone
   - apple
@@ -31,10 +31,6 @@ thumbnail: https://thmb.techidaily.com/773bcb287706a7e5add3e76fb4807bc2dd418c60c
 
 ![Turning down ringer and alerts volume on iPad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/how-to-stop-ipad-ringing-turn-off-ringer.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now, you've turned off your ringer and alert notifications. This could be a positive if you only want notifications from your iPhone or Apple Watch. On the other hand, if you count on Mail alerts on your iPad, this option won't work for you.
 
 ## Turn Down the Volume on Your iPad
@@ -44,10 +40,6 @@ thumbnail: https://thmb.techidaily.com/773bcb287706a7e5add3e76fb4807bc2dd418c60c
  To do this, open Settings and tap on the**Phone** section. Underneath the slider in the "Ringtone and Alert Volumes" section, enable the toggle for**Change with Buttons** . Now, the volume buttons control your ringer and alerts.
 
 ![Enabling adjusting volume with the buttons on iPad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/how-to-stop-ipad-ringing-turn-down-volume.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  There's a reason this is disabled by default, as many people prefer to find a volume they like and stick with it. You may also accidentally change your ringer volume if you press the buttons while listening to music or watching a video.
 
@@ -71,17 +63,9 @@ thumbnail: https://thmb.techidaily.com/773bcb287706a7e5add3e76fb4807bc2dd418c60c
 
 ![Allowing notifications for certain apps in a new Focus Mode on iPadOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/how-to-stop-ipad-ringing-allow-notification.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After you've created your custom Focus mode, you need to enable it from the Control Center. Pull down from the top-right of the iPad's screen, then long-press on**Focus** and choose your custom Focus Mode. ​​​​​​
 
 ![Enabling a Focus Mode on iPadOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/how-to-stop-ipad-ringing-turn-focus-on.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  When you want to disable it, you can tap the**Focus** toggle.
 
@@ -94,10 +78,6 @@ thumbnail: https://thmb.techidaily.com/773bcb287706a7e5add3e76fb4807bc2dd418c60c
  To get started, open the Settings app, scroll down, and tap the**Phone** icon. On this screen, scroll down until you see the "Calls" section, and tap on**Calls on Other Devices** below it.
 
 ![allow calls on other devices iPhone setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/allow-calls-on-other-devices-iphone-setting.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![Choosing which devices to ring when your iPhone rings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/how-to-stop-ipad-ringing-iphone-calls-on-other-devices-custom.jpg)
 
@@ -126,20 +106,24 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-undetectable-volume-variations-in-garageband-artistry/"><u>[New] Undetectable Volume Variations in Garageband Artistry</u></a></li>
-<li><a href="https://fox-that.techidaily.com/a-users-guide-to-iphone-resets-and-restorations-without-itunes-involvement/"><u>A User's Guide to iPhone Resets and Restorations without iTunes Involvement</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fixing-issues-with-iphones-guided-access-feature-a-step-by-step-guide/"><u>Fixing Issues with iPhone's Guided Access Feature: A Step-by-Step Guide</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/gratis-dvd-audiokonverter-professionelle-audioextraktion-mit-optimaler-qualitat-aus-dvds/"><u>Gratis DVD-Audiokonverter: Professionelle Audioextraktion Mit Optimaler Qualität Aus DVDs</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-stop-your-iphone-from-dropping-wi-fi-connections-a-5-step-guide/"><u>How to Stop Your iPhone From Dropping Wi-Fi Connections: A 5 Step Guide</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-xiaomi-redmi-k70-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Xiaomi Redmi K70?</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-honor-90-pro-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Honor 90 Pro? | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/install-hp-officejet-pro-amo-8740-driver-on-your-pc-windows-11108-solutions/"><u>Install HP OfficeJet Pro Amo 8740 Driver on Your PC: Windows 11/10/8 Solutions</u></a></li>
-<li><a href="https://fox-that.techidaily.com/iphone-alarm-malfunction-heres-how-to-fix-it/"><u>IPhone Alarm Malfunction? Here's How to Fix It</u></a></li>
-<li><a href="https://fox-that.techidaily.com/iphone-or-ipad-getting-hot-learn-why-and-how-to-fix-it/"><u>IPhone or iPad Getting Hot? Learn Why and How to Fix It</u></a></li>
-<li><a href="https://fox-that.techidaily.com/mastering-the-factory-reset-on-your-ios-device-a-step-by-step-tutorial/"><u>Mastering the Factory Reset on Your iOS Device - A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-the-art-of-dvd-creation-tips-and-tricks-for-amateur-filmmakers/"><u>New In 2024, The Art of DVD Creation Tips and Tricks for Amateur Filmmakers</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/scheduled-stellar-file-wiper-the-ultimate-windows-default-cleanup-solution/"><u>Scheduled Stellar File Wiper: The Ultimate Windows Default Cleanup Solution</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/shutter-free-skyline-images-top-drone-camera-stabilizers/"><u>Shutter-Free Skyline Images Top Drone Camera Stabilizers</u></a></li>
-<li><a href="https://games-able.techidaily.com/unlocking-new-york-times-connection-rules/"><u>Unlocking New York Times Connection Rules</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-exclusive-snap-chronicles-an-in-depth-walkthrough/"><u>[New] Exclusive Snap Chronicles An In-Depth Walkthrough</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-ultimate-guide-on-google-podcast-upload/"><u>[New] Ultimate Guide on Google Podcast Upload</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-mastering-the-art-of-simplification-streamlining-oversized-tiktok-archives/"><u>[Updated] Mastering the Art of Simplification Streamlining Oversized TikTok Archives</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-path-to-perfected-morphvox-control/"><u>2024 Approved The Ultimate Path to Perfected MorphVOX Control</u></a></li>
+<li><a href="https://fox-that.techidaily.com/autonomous-vehicle-algorithms-as-autonomous-vehicles-avs-become-more-prevalent-algorithms-capable-of-making-decisions-based-on-sensor-data-are-crucial-for-s12/"><u>Autonomous Vehicle Algorithms: As Autonomous Vehicles (AVs) Become More Prevalent, Algorithms Capable of Making Decisions Based on Sensor Data Are Crucial for Safety-Critical Functions Like Obstacle Avoidance and Navigation in Complex Traffic Scenarios.</u></a></li>
+<li><a href="https://fox-that.techidaily.com/best-ways-to-resolve-the-most-frequent-iphone-display-difficulties/"><u>Best Ways to Resolve the Most Frequent iPhone Display Difficulties</u></a></li>
+<li><a href="https://video-capture.techidaily.com/engaging-verbal-communicator-study-part-8/"><u>Engaging Verbal Communicator Study, Part 8</u></a></li>
+<li><a href="https://fox-that.techidaily.com/guide-to-apples-remote-device-evaluation-testing-your-iphone-at-home/"><u>Guide to Apple's Remote Device Evaluation: Testing Your iPhone at Home</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-error-1015-while-restoring-iphone-6s-plus-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to fix error 1015 while restoring iPhone 6s Plus | Stellar</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-open-your-apple-iphone-se-2022-without-a-home-button-by-drfone-ios/"><u>How To Open Your Apple iPhone SE (2022) Without a Home Button</u></a></li>
+<li><a href="https://howto.techidaily.com/htc-u23-pro-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>HTC U23 Pro Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-zoom-brilliance-a-blueprint-for-immaculate-edges/"><u>In 2024, Zoom Brilliance A Blueprint for Immaculate Edges</u></a></li>
+<li><a href="https://fox-that.techidaily.com/lost-iphone-heres-what-offline-means-and-how-to-track-it-down-on-find-my-iphone/"><u>Lost iPhone? Here's What 'Offline' Means and How to Track It Down on Find My iPhone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/no-more-twinkling-screens-discover-these-7-tricks-for-fixing-flickering-displays-on-phones/"><u>No More Twinkling Screens: Discover These 7 Tricks for Fixing Flickering Displays on Phones</u></a></li>
+<li><a href="https://fox-that.techidaily.com/optimize-your-safari-browser-4-effective-ways-for-quicker-iphone-surfing/"><u>Optimize Your Safari Browser - 4 Effective Ways for Quicker iPhone Surfing</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/precision-based-adjustments-for-maximum-impact-on-instagram-tv-for-2024/"><u>Precision-Based Adjustments for Maximum Impact on Instagram TV for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/quick-solutions-for-iphone-users-facing-guided-access-glitches/"><u>Quick Solutions for iPhone Users Facing Guided Access Glitches</u></a></li>
+<li><a href="https://fox-that.techidaily.com/reviving-hidden-connections-a-guide-to-restoring-missing-contacts-on-iphone/"><u>Reviving Hidden Connections: A Guide to Restoring Missing Contacts on iPhone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/step-by-step-guide-to-restore-disappeared-contacts-from-my-iphone/"><u>Step-by-Step Guide to Restore Disappeared Contacts From My iPhone</u></a></li>
 </ul></div>
 

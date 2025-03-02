@@ -1,7 +1,7 @@
 ---
 title: How to Fix Contacts Not Showing Up on Your iPhone
-date: 2024-08-22T22:59:20.208Z
-updated: 2024-08-23T22:59:20.208Z
+date: 2025-02-26T16:14:36.304Z
+updated: 2025-03-02T16:27:10.155Z
 tags:
   - iphone
   - apple
@@ -30,9 +30,6 @@ thumbnail: https://thmb.techidaily.com/da7fa3270346efb8a59ee9a2227fafe39fab3e809
 
  There are different ways to restart your iPhone, depending on the model. Read our dedicated guide on [how to restart any iPhone](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) for step-by-step instructions. Once your iPhone is back up and running, confirm if your contacts have been restored. If not, move on to step number two.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 2\. Resync Your Contacts With iCloud
 
  You could also fix this issue by resyncing your Contacts app with iCloud. We’ll do this by disabling iCloud access to Contacts and then re-enabling it again. Here’s how:
@@ -63,9 +60,6 @@ So, follow these steps to show hidden contact groups:
 2. Tap**Lists** in the top left.
 3. On the**Lists** page, tap**All Contacts** at the top to view all your saved contacts.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ![Contacts app in iOS 16](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/contacts-app-ios-16.jpg)
 
 ![All Accounts option in iOS 16](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/accounts-options-contacts-app.jpg)
@@ -74,9 +68,6 @@ Close
 
  If some contacts from a particular account weren’t showing up on your iPhone, this should fix the issue. However, read on if you still don’t see all your contacts.
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Add All Your Accounts to Your iPhone
 
  If you have several accounts that you use, chances are contacts might be saved across them. To fix this, you need to add all your accounts to your iPhone to ensure you have access to all your contacts. So, follow these steps to add an account to your iPhone:
@@ -88,9 +79,6 @@ Close
 
 ![Contacts settings page in iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/01-contacts-settings-ios.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![Accounts page in iOS settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/02-accounts-ios-settings.jpg)
 
 ![Adding a new account in iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/03-add-account-ios.jpg)
@@ -107,19 +95,10 @@ Close
 2. Under Contacts, select**Accounts** . You will see all your connected accounts listed here.
 3. Tap each account and ensure**Contacts** is toggled on.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ![Screenshot of iOS Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/iOS-Settings-app.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Contacts settings in iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/Contacts-option-in-iOS-settings-app.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Individual account settings in iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/Individual-account-settings-iOS.jpg)
 
 Close
@@ -140,19 +119,12 @@ Close
 
 ![Editing contact details on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/02-editing-contact-details-iphone.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![An edited contact on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/edited-contact-ios.jpg)
 
 Close
 
  When your iPhone powers on, it will have to rebuild all the contact names and details. Once your iPhone restores all the contacts, you can delete the fake information you added to the contact above. Check if your contacts have been restored after a few minutes. If this doesn’t solve your issue, try data recovery tools.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## 7\. Recover Lost Data Using iCloud or Data Recovery Tools
 
  Before you try third-party data recovery tools, we advise using iCloud first. You can do this by going to the [iCloud website](https://www.icloud.com/) . Click the card with your account name, then select the**Data Recovery** option at the top of the page.
@@ -169,9 +141,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  Alternatively, you can reach out to them via [Apple’s support website](https://getsupport.apple.com/) . Either way, a certified expert should help sort out the issue in more ways than we could.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Restore Your Missing iPhone Contacts
 
  Contacts not showing up on an iPhone isn’t something new. It can happen to you, but when it does, don’t panic. There are a variety of ways to fix the problem. In summary, you could restart your iPhone, resync with iCloud, show all contacts in your Phone app, add all accounts to your iPhone, modify account settings, or force rebuild your contacts.
@@ -184,8 +153,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -193,6 +160,26 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/updated-from-kitchen-to-screen-unveiling-the-top-7-cooking-film-tricks/"><u>[Updated] From Kitchen to Screen Unveiling the Top 7 Cooking Film Tricks</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-new-wins-for-windows-11-users-for-2024/"><u>[Updated] New Wins for Windows 11 Users for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-mastering-the-science-of-writing-magnetic-vlogs/"><u>2024 Approved Mastering the Science of Writing Magnetic Vlogs</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-revolutionizing-communication-free-top-8-srt-tools-revealed/"><u>2024 Approved Revolutionizing Communication Free Top 8 SRT Tools Revealed</u></a></li>
+<li><a href="https://driver-error.techidaily.com/bring-back-life-to-your-unused-laptop-keyboard-article-name-358-characters/"><u>Bring Back Life to Your 'Unused' Laptop Keyboard - Article Name — 358 Characters</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/conquer-the-social-networking-landscape-and-grow-your-followers-for-2024/"><u>Conquer the Social Networking Landscape and Grow Your Followers for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/exploring-top-virtual-networking-sites-facebook-twitter-instagram-and-youtube/"><u>Exploring Top Virtual Networking Sites: Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-the-hidden-siri-recommendations-problem-making-them-visible-again-on-iphones/"><u>Fixing the Hidden Siri Recommendations Problem: Making Them Visible Again on iPhones</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721478779314-illuminating-factors-behind-your-iphones-dimming-display-explore-these-10-key-reasons-today/"><u>Illuminating Factors Behind Your iPhone's Dimming Display - Explore These 10 Key Reasons Today!</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-realme-c53-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Realme C53 to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-muting-mystery-a-step-by-step-guide-to-unsilencing/"><u>IPhone Muting Mystery: A Step-by-Step Guide to Unsilencing</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-or-ipad-keyboard-not-working-6-problems-solved/"><u>IPhone or iPad Keyboard Not Working? 6 Problems Solved</u></a></li>
+<li><a href="https://fox-that.techidaily.com/is-your-iphone-sending-mms-when-you-expected-an-imessage-find-out-why/"><u>Is Your iPhone Sending MMS When You Expected an iMessage? Find Out Why</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/navigating-instagrams-search-function-a-pathway-to-complimentary-filters/"><u>Navigating Instagram's Search Function A Pathway to Complimentary Filters</u></a></li>
+<li><a href="https://fox-that.techidaily.com/revive-disabled-icloud-features-a-guide-for-iphone-and-ipad-users/"><u>Revive Disabled iCloud Features: A Guide for iPhone and iPad Users</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-4-methods-to-enhance-safari-performance-on-your-ios-device/"><u>Top 4 Methods to Enhance Safari Performance on Your iOS Device</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-6-causes-why-apples-look-up-feature-may-fail-on-iphones/"><u>Top 6 Causes Why Apple's Look Up Feature May Fail on iPhones</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-iphone-qr-code-reader-top-10-solutions-for-scan-issues/"><u>Troubleshooting iPhone QR Code Reader: Top 10 Solutions for Scan Issues</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/troubleshooting-your-pcs-sound-card-a-comprehensive-guide-by-yl-computing/"><u>Troubleshooting Your PC's Sound Card: A Comprehensive Guide by YL Computing</u></a></li>
+</ul></div>
 

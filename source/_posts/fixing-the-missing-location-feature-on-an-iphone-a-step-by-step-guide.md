@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Missing Location Feature on an iPhone: A Step-by-Step Guide"
-date: 2024-08-27T14:27:38.227Z
-updated: 2024-08-28T14:27:38.227Z
+date: 2025-02-23T16:00:57.814Z
+updated: 2025-03-02T16:31:54.937Z
 tags:
   - iphone
   - apple
@@ -22,9 +22,6 @@ thumbnail: https://thmb.techidaily.com/e66e28dff9a78d29ac6c41d0e2dd487a7c339d734
 
  There isn't a lot you can do yourself if Messages or the Find My app says "Location Not Available" when someone has chosen to [share their iPhone location with you](https://www.makeuseof.com/how-to-share-location-iphone/) . But it's still easiest to try these steps first, before involving somebody else.
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Quit and Relaunch Find My or Messages
 
  Sometimes, the Messages or the Find My app can bug out and result in the "Location Not Available" error. The quickest way to resolve that is to [force quit and relaunch the app](https://www.makeuseof.com/close-apps-on-ipad-iphone/) in question.
@@ -35,25 +32,10 @@ To force quit Messages or Find My:
 2. Locate the**Messages** or**Find My** card and push it off the top of the screen to close it.
 3. Now go back to the Home screen and open Messages or Find My again.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Home Screen on iPhone.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/1-iphone-home-screen.PNG)
 
 ![App Switcher on iPhone.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/2-app-switcher.PNG)
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Force-quitting an app on iPhone.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/3-force-quit-app.PNG)
 
 Close
@@ -78,9 +60,6 @@ Close
 
 Close
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Share the Location in Messages and Find My Again
 
  Next, disable and re-enable location sharing in the Messages or Find My app:
@@ -88,16 +67,10 @@ Close
 * **In Messages:** Open a chat with the person you want to share your location with. Tap the profile picture at the top of the chat and select**Stop Sharing My Location** . Now hit**Share My Location** .
 * **In Find My:** Switch to the**People** tab, tap the name of the person you want to share your location with and select**Stop Sharing My Location** . Then, go back to the**People** tab, tap the**Add (+)** icon,**Share My Location** , and choose a contact.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![iMessage chat.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/7-messages-chat.PNG)
 
 ![Stop Sharing My Location.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/8-info-pane.PNG)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Start sharing my location.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/9-info-pane-alt.PNG)
 
 Close
@@ -112,21 +85,12 @@ Close
 
 ![iPhone Settings screen.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/10-iphone-settings.PNG)
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![General settings screen on iPhone.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/11-general-settings.PNG)
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Date or time screen on iPhone.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/12date-time.PNG)
 
 Close
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Switch to Cellular Data
 
  Spotty Wi-Fi can also play a factor, so try using cellular or mobile data instead. To do that, open the iPhone's**Control Center** (swipe down from the top-right of the screen or swipe up from the bottom if your iPhone has a Home button) and tap the**Wi-Fi** icon to disable it.
@@ -143,8 +107,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -152,6 +114,19 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-strategic-planning-aligning-research-with-business-objectives/"><u>[New] 2024 Approved Strategic Planning Aligning Research with Business Objectives</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-online-broadcast-battle-facebook-vs-youtube-and-twitspaces/"><u>[New] In 2024, Online Broadcast Battle FACEbook Vs. YOUTube & TWITSpaces</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-expert-insights-into-synchronizing-desktops-in-google-meet/"><u>[Updated] 2024 Approved Expert Insights Into Synchronizing Desktops in Google Meet</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-metaverse-comedy-the-art-and-science-of-creating-viral-online-laughs/"><u>[Updated] 2024 Approved Metaverse Comedy The Art & Science of Creating Viral Online Laughs</u></a></li>
+<li><a href="https://fox-that.techidaily.com/complete-restoration-techniques-for-apple-ios-devices-that-wont-turn-on/"><u>Complete Restoration Techniques for Apple iOS Devices That Won't Turn On</u></a></li>
+<li><a href="https://fox-that.techidaily.com/getting-your-iphones-lte-back-on-track-try-these-10-fixes-first/"><u>Getting Your iPhone's LTE Back on Track? Try These 10 Fixes First</u></a></li>
+<li><a href="https://fox-that.techidaily.com/guide-modifying-your-apple-devices-screen-time-access-restrictions-securely/"><u>Guide: Modifying Your Apple Device's Screen Time Access Restrictions Securely</u></a></li>
+<li><a href="https://fox-that.techidaily.com/itunes-sync-woes-restoring-your-iphones-lost-contact-list-effortlessly/"><u>ITunes Sync Woes - Restoring Your iPhone's Lost Contact List Effortlessly</u></a></li>
+<li><a href="https://fox-that.techidaily.com/revive-your-iphone-top-7-tips-when-its-frozen-on-apple-logo/"><u>Revive Your iPhone: Top 7 Tips When It's Frozen on Apple Logo</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-ideal-pocket-wi-fi-hotspot-explore-the-world-with-tp-links-wr902-ac-travel-router/"><u>The Ideal Pocket Wi-Fi Hotspot: Explore the World with TP-Link's WR902 AC Travel Router</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-and-solving-directdraw-complications-on-your-pc/"><u>Troubleshooting and Solving DirectDraw Complications on Your PC</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unpacking-the-future-of-computing-with-a-review-on-the-raspberry-pi-400/"><u>Unpacking the Future of Computing with a Review on the Raspberry Pi 400</u></a></li>
+</ul></div>
 

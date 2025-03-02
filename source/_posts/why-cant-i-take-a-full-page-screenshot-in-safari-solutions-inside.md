@@ -1,7 +1,7 @@
 ---
 title: Why Can't I Take a Full Page Screenshot in Safari? Solutions Inside
-date: 2025-02-04T07:20:05.466Z
-updated: 2025-02-10T17:52:58.526Z
+date: 2025-02-24T16:08:00.767Z
+updated: 2025-03-02T16:20:14.839Z
 tags:
   - iphone
   - apple
@@ -29,17 +29,9 @@ thumbnail: https://thmb.techidaily.com/1ecbe0134963fa333301ade42400de327d03477a1
 
  Related:[How to Take Full-Page Screenshots in Safari on iOS](https://www.makeuseof.com/how-to-screenshot-full-webpage-safari-ios/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What to Do When Full-Page Screenshots Aren't Working
 
 Try these tips if you can't take full-page screenshots in Safari.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Check Your iOS Version
 
@@ -47,25 +39,13 @@ Try these tips if you can't take full-page screenshots in Safari.
 
  If your OS is not the problem, make sure to check the app you’re using when attempting to take a full-page screenshot. It only works with Safari.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Make Sure You're in Safari
 
  There are times that, depending on what you’re browsing, Safari will redirect you to another built-in app, like Apple Books, Files, or Messages. Full-page screenshots are not available in other apps or browsers.
 
 ![Full-page screenshots](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/08/Full-page-screenshots.PNG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Save Full-page screenshots](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/08/Save-Full-page-screenshots.PNG)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Close
 
@@ -98,22 +78,22 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-the-ultimate-guide-to-creating-fluid-edits/"><u>[Updated] 2024 Approved The Ultimate Guide to Creating Fluid Edits</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-the-ultimate-list-for-google-pixel-tunes/"><u>[Updated] The Ultimate List for Google Pixel Tunes</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-the-essential-guide-to-snap-mastery/"><u>2024 Approved The Essential Guide to Snap Mastery</u></a></li>
-<li><a href="https://fox-that.techidaily.com/7-effective-solutions-to-stop-screen-flicker-on-your-mobile-device/"><u>7 Effective Solutions to Stop Screen Flicker on Your Mobile Device</u></a></li>
-<li><a href="https://fox-that.techidaily.com/beat-the-yellow-screen-problem-on-your-iphone-with-these-proven-techniques-9-fixes/"><u>Beat the Yellow Screen Problem on Your iPhone with These Proven Techniques (9 Fixes)</u></a></li>
-<li><a href="https://facebook.techidaily.com/charting-back-to-when-i-embarked-on-social-medias-vast-sea-facebook/"><u>Charting Back to When I Embarked on Social Media's Vast Sea - Facebook</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-lock-apps-on-itel-a70-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Itel A70 to Protect Your Individual Information</u></a></li>
-<li><a href="https://fox-that.techidaily.com/iphone-picture-dilemma-can-space-be-saved-and-pics-retrieved-post-deletion-with-these-8-hacks/"><u>IPhone Picture Dilemma: Can Space Be Saved & Pics Retrieved Post-Deletion with These 8 Hacks?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/kickstarting-your-career-in-crafting-dynamic-chatbots/"><u>Kickstarting Your Career in Crafting Dynamic Chatbots</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/melodic-movements-music-upload-mastery-for-youtube/"><u>Melodic Movements Music Upload Mastery for YouTube</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/professional-techniques-for-superior-audacity-sessions-for-2024/"><u>Professional Techniques for Superior Audacity Sessions for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/quick-fixes-for-10-typical-apple-pay-problems/"><u>Quick Fixes for 10 Typical Apple Pay Problems</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/step-by-step-guide-to-instagram-livestreaming-using-obs/"><u>Step-by-Step Guide to Instagram Livestreaming Using OBS</u></a></li>
-<li><a href="https://fox-that.techidaily.com/top-7-simple-steps-to-get-your-imessage-back-working-on-apple-gadgets/"><u>Top 7 Simple Steps to Get Your iMessage Back Working on Apple Gadgets</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-how-to-solve-a-non-functioning-facetime-top-15-tips/"><u>Troubleshooting: How to Solve a Non-Functioning FaceTime - Top 15 Tips</u></a></li>
-<li><a href="https://fox-that.techidaily.com/why-is-my-iphone-so-slow-uncovering-6-common-reasons-and-their-fixes/"><u>Why Is My iPhone So Slow? Uncovering 6 Common Reasons and Their Fixes</u></a></li>
-<li><a href="https://fox-that.techidaily.com/why-is-my-iphoneipad-overheating-solutions-and-prevention-tips/"><u>Why Is My iPhone/iPad Overheating? Solutions & Prevention Tips</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-discover-easy-free-video-transformation-platforms-with-unmatched-features/"><u>[New] 2024 Approved Discover Easy, Free Video Transformation Platforms with Unmatched Features</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-streamlined-video-calls-synchronizing-zoom-and-gmail-for-better-communication-for-2024/"><u>[New] Streamlined Video Calls Synchronizing Zoom & Gmail for Better Communication for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-easing-into-cinematic-scene/"><u>[Updated] 2024 Approved Easing Into Cinematic Scene</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-eyecatcher-firefox-tools/"><u>2024 Approved EyeCatcher Firefox Tools</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-the-ultimate-game-capture-kit-tools-and-methodologies/"><u>2024 Approved The Ultimate Game Capture Kit Tools and Methodologies</u></a></li>
+<li><a href="https://win-docs.techidaily.com/6-facons-de-resoudre-les-problemes-avec-le-service-mise-a-jour-windows-en-touche-de-reinitialisation-ou-de-restauration-dans-windows-1011/"><u>6 Façons De Résoudre Les Problèmes Avec Le Service Mise À Jour Windows en Touche De Réinitialisation Ou De Restauration Dans Windows 10/11</u></a></li>
+<li><a href="https://fox-that.techidaily.com/bypass-common-troubles-with-iphoneipad-widgets-the-fast-fixes-you-need/"><u>Bypass Common Troubles with iPhone/iPad Widgets – The Fast Fixes You Need</u></a></li>
+<li><a href="https://fox-that.techidaily.com/cant-locate-the-app-on-your-iphone-this-guide-will-show-you-how-to-retrieve-lost-programs-quickly/"><u>Can't Locate the App on Your iPhone? This Guide Will Show You How to Retrieve Lost Programs Quickly</u></a></li>
+<li><a href="https://fox-that.techidaily.com/experiencing-continuous-noise-with-airpods-turn-off-dynamic-head-tracking-now/"><u>Experiencing Continuous Noise with AirPods? Turn Off Dynamic Head Tracking Now</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-iphone-voicemail-issues-in-just-9-steps/"><u>Fixing iPhone Voicemail Issues in Just 9 Steps</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-enhance-wi-fi-connectivity-and-speed-on-ios-devices/"><u>How to Enhance Wi-Fi Connectivity and Speed on iOS Devices</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-oppo-reno-9a-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Oppo Reno 9A Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/mac-innovators-handbook-crafting-cool-youtube-videos-for-2024/"><u>Mac Innovators' Handbook Crafting Cool Youtube Videos for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-your-iphones-constant-sos-display-discover-these-six-remedies/"><u>Overcoming Your iPhone’s Constant SOS Display – Discover These Six Remedies</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/problembehebung-windows-11-zeigt-weniger-speicherplatz-auf-der-festplatte-an/"><u>Problembehebung: Windows 11 Zeigt Weniger Speicherplatz Auf Der Festplatte An</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-guide-solving-iphone-wi-fi-hotspot-issues/"><u>Troubleshooting Guide: Solving iPhone Wi-Fi Hotspot Issues</u></a></li>
+<li><a href="https://fox-that.techidaily.com/what-to-do-if-your-apple-airpod-is-silent-expert-fixes-for-solo-non-working-units/"><u>What To Do If Your Apple AirPod Is Silent? Expert Fixes for Solo Non-Working Units</u></a></li>
 </ul></div>
 

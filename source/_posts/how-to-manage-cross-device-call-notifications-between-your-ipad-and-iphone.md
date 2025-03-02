@@ -1,7 +1,7 @@
 ---
 title: How to Manage Cross-Device Call Notifications Between Your iPad and iPhone
-date: 2025-02-07T19:00:50.066Z
-updated: 2025-02-11T07:02:16.656Z
+date: 2025-02-28T16:25:06.520Z
+updated: 2025-03-02T16:04:02.467Z
 tags:
   - iphone
   - apple
@@ -33,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/f247ef7a94b421ec0fcafea579ee074c3050225ad
 
  Now, you've turned off your ringer and alert notifications. This could be a positive if you only want notifications from your iPhone or Apple Watch. On the other hand, if you count on Mail alerts on your iPad, this option won't work for you.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Turn Down the Volume on Your iPad
 
  The above method is fine if you never want to hear calls ringing on your iPad, but what if you only need to disable them for a short while? In this case, assigning the ringer volume to your volume buttons makes raising and lowering notification volume on your iPad easy.
@@ -44,10 +40,6 @@ thumbnail: https://thmb.techidaily.com/f247ef7a94b421ec0fcafea579ee074c3050225ad
  To do this, open Settings and tap on the**Phone** section. Underneath the slider in the "Ringtone and Alert Volumes" section, enable the toggle for**Change with Buttons** . Now, the volume buttons control your ringer and alerts.
 
 ![Enabling adjusting volume with the buttons on iPad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/how-to-stop-ipad-ringing-turn-down-volume.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  There's a reason this is disabled by default, as many people prefer to find a volume they like and stick with it. You may also accidentally change your ringer volume if you press the buttons while listening to music or watching a video.
 
@@ -71,17 +63,9 @@ thumbnail: https://thmb.techidaily.com/f247ef7a94b421ec0fcafea579ee074c3050225ad
 
 ![Allowing notifications for certain apps in a new Focus Mode on iPadOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/how-to-stop-ipad-ringing-allow-notification.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After you've created your custom Focus mode, you need to enable it from the Control Center. Pull down from the top-right of the iPad's screen, then long-press on**Focus** and choose your custom Focus Mode. ​​​​​​
 
 ![Enabling a Focus Mode on iPadOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/how-to-stop-ipad-ringing-turn-focus-on.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  When you want to disable it, you can tap the**Focus** toggle.
 
@@ -100,10 +84,6 @@ thumbnail: https://thmb.techidaily.com/f247ef7a94b421ec0fcafea579ee074c3050225ad
 Close
 
  If you want to disable calls everywhere but on your iPhone, disable the**Allow Calls on Other Devices** toggle. But if you only want to disable calls ringing on your iPad, leave this toggle enabled but look for your iPad under the "Allow Calls On" section further down on the screen, and then disable the slider next to it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Plenty of Ways to Silence iPad Calls
 
@@ -126,19 +106,14 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/updated-the-photographers-toolkit-essential-tips-for-cutting-edge-edits/"><u>[Updated] The Photographer's Toolkit Essential Tips for Cutting-Edge Edits</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-best-mobile-and-desktop-mkv-software/"><u>2024 Approved Best Mobile and Desktop MKV Software</u></a></li>
-<li><a href="https://howto.techidaily.com/best-methods-for-xiaomi-redmi-a2plus-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Xiaomi Redmi A2+ Wont Turn On | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/effective-strategies-to-overcome-the-black-screen-of-death-on-iphones/"><u>Effective Strategies To Overcome the 'Black Screen of Death' On iPhones</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/how-to-crop-and-export-videos-to-instagram-for-2024/"><u>How to Crop and Export Videos to Instagram for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-fix-frustratingly-slow-wi-fi-on-phones-explore-these/"><u>How to Fix Frustratingly Slow Wi-Fi on Phones? Explore These</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-open-your-iphone-6s-plus-without-a-home-button-by-drfone-ios/"><u>In 2024, How To Open Your iPhone 6s Plus Without a Home Button</u></a></li>
-<li><a href="https://fox-that.techidaily.com/iphone-volume-control-not-responding-here-are-7-effective-fixes/"><u>IPhone Volume Control Not Responding? Here Are 7 Effective Fixes!</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/pcdj-update-announced-dj-software-dex-v31306-mainsheet-released-for-enhanced-performance/"><u>PCDJ Update Announced: DJ Software DEX v3.13.0.6 Mainsheet Released for Enhanced Performance</u></a></li>
-<li><a href="https://fox-that.techidaily.com/step-by-step-method-to-correct-misidentified-persons-in-the-apple-photos-app/"><u>Step-by-Step Method to Correct Misidentified Persons in the Apple Photos App</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-apple-imac-215-inch-4k-monitor-an-impeccable-mix-of-beauty-and-strength-examined-in-this-comprehensive-review/"><u>The Apple iMac 21.5-Inch 4K Monitor - An Impeccable Mix of Beauty and Strength Examined in This Comprehensive Review</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-evolution-of-ai-understanding-chatgpts-co-pilot-extension/"><u>The Evolution of AI: Understanding ChatGPT's Co-Pilot Extension</u></a></li>
-<li><a href="https://fox-that.techidaily.com/ultimate-guide-steps-for-a-successful-iphone-soft-restart/"><u>Ultimate Guide: Steps for a Successful iPhone Soft Restart</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721461256731-why-does-my-iphone-keep-dimming-explore-the-top-10-insights/"><u>Why Does My iPhone Keep Dimming? Explore the Top 10 Insights</u></a></li>
+<li><a href="https://fox-that.techidaily.com/boosting-your-iphones-browser-speed-a-guide-to-quicker-safari-experience/"><u>Boosting Your iPhone's Browser Speed: A Guide to Quicker Safari Experience</u></a></li>
+<li><a href="https://fox-that.techidaily.com/common-problems-with-iphone-alarms-troubleshooting-steps-for-a-reliable-wake-up-call/"><u>Common Problems with iPhone Alarms: Troubleshooting Steps for a Reliable Wake-Up Call</u></a></li>
+<li><a href="https://win-blog.techidaily.com/compatibility-guide-avoiding-hardware-issues-with-rainbow-six-extraction/"><u>Compatibility Guide: Avoiding Hardware Issues with Rainbow Six Extraction</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Oppo Reno 10 Pro+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-troubleshoot-and-correct-a-rejected-payment-method-on-apple-services/"><u>How to Troubleshoot and Correct a Rejected Payment Method on Apple Services</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-sony-a6400-fixing-the-invisible-video-playback/"><u>In 2024, Sony A6400 Fixing the Invisible Video Playback</u></a></li>
+<li><a href="https://windows11.techidaily.com/pushing-boundaries-my-quest-to-overcome-app-guard-censorship/"><u>Pushing Boundaries: My Quest to Overcome App Guard Censorship</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-sequence-viewing-the-conjuring-series-properly/"><u>The Ultimate Sequence: Viewing 'The Conjuring' Series Properly</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721478503521-why-your-iphones-alarm-might-not-be-working-and-how-to-fix-it/"><u>Why Your iPhone's Alarm Might Not Be Working – And How to Fix It!</u></a></li>
 </ul></div>
 

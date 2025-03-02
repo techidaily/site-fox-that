@@ -1,7 +1,7 @@
 ---
 title: Clear Steps to Correct the 'Location Not Available' Glitch on iPhones
-date: 2024-08-27T14:28:24.257Z
-updated: 2024-08-28T14:28:24.257Z
+date: 2025-02-27T16:35:30.193Z
+updated: 2025-03-02T16:34:14.144Z
 tags:
   - iphone
   - apple
@@ -34,10 +34,6 @@ To force quit Messages or Find My:
 
 ![Home Screen on iPhone.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/1-iphone-home-screen.PNG)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ![App Switcher on iPhone.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/2-app-switcher.PNG)
 
 ![Force-quitting an app on iPhone.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/3-force-quit-app.PNG)
@@ -48,9 +44,6 @@ Close
 
  If closing and reopening the relevant app didn't work, you might need to [restart your iPhone](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) instead. To restart your iPhone, simply open the**Settings** app and tap**General > Shut Down** . Once the screen goes black, wait for several seconds and hold the**Side** or the**Top** button until you see the Apple logo.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Fix "Location Not Available" From Someone Else's iPhone
 
  If the two fixes above didn't help, you'll need to shift your attention to your friend or family member's iPhone. Walk them through the fixes below on a call. Or, share this post with them and make sure they follow the instructions in this section.
@@ -61,18 +54,12 @@ Close
 
 ![Settings app on iPhone.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/4-settings-app.PNG)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Apple ID settings screen.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/5-apple-id-settings.PNG)
 
 ![Find My preferences.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/6-share-my-location-1.PNG)
 
 Close
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Share the Location in Messages and Find My Again
 
  Next, disable and re-enable location sharing in the Messages or Find My app:
@@ -80,14 +67,8 @@ Close
 * **In Messages:** Open a chat with the person you want to share your location with. Tap the profile picture at the top of the chat and select**Stop Sharing My Location** . Now hit**Share My Location** .
 * **In Find My:** Switch to the**People** tab, tap the name of the person you want to share your location with and select**Stop Sharing My Location** . Then, go back to the**People** tab, tap the**Add (+)** icon,**Share My Location** , and choose a contact.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![iMessage chat.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/7-messages-chat.PNG)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Stop Sharing My Location.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/8-info-pane.PNG)
 
 ![Start sharing my location.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/9-info-pane-alt.PNG)
@@ -102,23 +83,14 @@ Close
 
  An incorrect date or time can create issues with location sharing. To check this, go to**Settings > General > Date & Time** . If the date or time is wrong, turn on the switch next to**Set Automatically** to get the correct date and time from Apple's servers. If this doesn't help, deactivate the switch and set the correct time manually.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ![iPhone Settings screen.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/10-iphone-settings.PNG)
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![General settings screen on iPhone.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/11-general-settings.PNG)
 
 ![Date or time screen on iPhone.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/12date-time.PNG)
 
 Close
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Switch to Cellular Data
 
  Spotty Wi-Fi can also play a factor, so try using cellular or mobile data instead. To do that, open the iPhone's**Control Center** (swipe down from the top-right of the screen or swipe up from the bottom if your iPhone has a Home button) and tap the**Wi-Fi** icon to disable it.
@@ -135,8 +107,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -144,6 +114,21 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-unlocking-iphones-loop-functionality/"><u>[New] 2024 Approved Unlocking iPhone's Loop Functionality</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-ins-and-outs-of-firefox-picture-in-picture/"><u>[New] The Ins and Outs of Firefox Picture-in-Picture</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/beat-the-runtime-library-fiasco-a-users-manual-for-overcoming-error-0xc00000e9-in-windows/"><u>Beat the Runtime Library Fiasco: A User's Manual for Overcoming Error 0xC00000E9 in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/debugging-code-0xc0000142-on-windows-oses/"><u>Debugging Code 0XC0000142 on Windows OSes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fix-common-iphone-connection-glitches-by-restoring-default-network-settings/"><u>Fix Common iPhone Connection Glitches by Restoring Default Network Settings</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/free-online-video-converter-convert-mp4-files-to-mpg-format-with-movavi/"><u>Free Online Video Converter: Convert MP4 Files to MPG Format with Movavi</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-resolve-common-problems-with-apples-guided-access-feature/"><u>How to Resolve Common Problems with Apple's Guided Access Feature</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/investigating-the-ideal-state-of-windows-pcs/"><u>Investigating the Ideal State of Windows PCs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/jim-zemlin-unpacks-the-linux-foundations-approach-to-open-source-success-discoveries-with-zdnet/"><u>Jim Zemlin Unpacks The Linux Foundation's Approach to Open Source Success - Discoveries with ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-preparation-for-a-productive-academic-season-comprehensive-organizational-advice-by-experts-at-zdnet/"><u>Mastering Preparation for a Productive Academic Season: Comprehensive Organizational Advice by Experts at ZDNET</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-10-explanations-behind-auto-dimming-of-iphone-displays/"><u>Top 10 Explanations Behind Auto-Dimming of iPhone Displays</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-your-aoc-monitor-steps-to-restore-functionality-on-windows-10-devices/"><u>Troubleshoot Your AOC Monitor: Steps to Restore Functionality on Windows 10 Devices</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unstuck-from-silence-the-ultimate-9-step-method-for-repairing-iphone-voicemail-not-working/"><u>Unstuck From Silence: The Ultimate 9-Step Method for Repairing iPhone Voicemail Not Working</u></a></li>
+<li><a href="https://fox-that.techidaily.com/usb-c-alert-on-your-iphone-heres-how-you-can-fix-the-liquid-detected-issue/"><u>USB-C Alert on Your iPhone? Here’s How You Can Fix the 'Liquid Detected' Issue</u></a></li>
+</ul></div>
 

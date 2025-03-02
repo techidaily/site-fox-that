@@ -1,7 +1,7 @@
 ---
 title: Can You Get Notifications on iPhone When in Do Not Disturb? Explore These Effective Fixes
-date: 2025-02-08T19:10:00.605Z
-updated: 2025-02-11T00:27:14.693Z
+date: 2025-03-01T16:08:46.636Z
+updated: 2025-03-02T16:24:54.661Z
 tags:
   - iphone
   - apple
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/07830baed28dcfedcdb1e672639175802d38d29df
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Check Whether You Enabled the Correct Focus Mode
 
 ![do not disturb and personal mode in iphone control center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/1-2.jpg)
@@ -36,10 +32,6 @@ thumbnail: https://thmb.techidaily.com/07830baed28dcfedcdb1e672639175802d38d29df
  If you accidentally enabled**Work** mode instead of**Do Not Disturb** or**Personal** mode on your iPhone, you will certainly receive texts and calls from work colleagues because the latter wasn't made to deter people from your workplace.
 
  Therefore, before proceeding with the other suggestions in the list, access your iPhone's**Control Center** and check that you have the correct Focus mode turned on to match your activity.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Review Your Allowed Apps
 
@@ -54,10 +46,6 @@ thumbnail: https://thmb.techidaily.com/07830baed28dcfedcdb1e672639175802d38d29df
 ![do not disturb settings on iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/do-not-disturb-settings.JPEG)
 
 ![allowed apps on do not disturb mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/dnd-allowed-apps.JPEG)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Close
 
@@ -85,10 +73,6 @@ Close
 
 Close
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Don't Allow Repeated Calls
 
  If someone calls you more than once in a three-minute timespan, Do Not Disturb lets their call come through, regardless of the incoming call preferences you indicated earlier. This feature ensures that people can reach you in cases of emergencies, and it's not because Do Not Disturb is not working.
@@ -96,10 +80,6 @@ Close
  But if there are people who call you mindlessly the moment you don't pick up, and this feature ends up giving you more problems than convenience, you can choose to disable it. As outlined in the previous solution, go to the**People** settings in**Do Not Disturb** . Then, toggle off**Allow Repeated Calls** .
 
 ![turn off allow repeated calls for iphone do not disturb mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/2-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Turn Off or Hide Your Focus Status
 
@@ -121,15 +101,7 @@ Close
 
 ![automate schedule for iphone do not disturb mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/dnd-schedule-2.JPEG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![set time for iphone do not disturb mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/dnd-change-schedule.JPEG)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Close
 
@@ -162,19 +134,22 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-logic-pro-x-guide-to-cohesive-track-transitions/"><u>[New] In 2024, Logic Pro X Guide to Cohesive Track Transitions</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-best-10-youtube-volume-boosters-for-windows-macos-android-and-iphone/"><u>[Updated] 2024 Approved Best 10 YouTube Volume Boosters for Windows, MacOS, Android and iPhone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-the-enhanced-functionality-in-windows-11s-most-recent-update-tech-news-zdnet/"><u>Discover the Enhanced Functionality in Windows 11'S Most Recent Update | Tech News - ZDNet</u></a></li>
-<li><a href="https://facebook.techidaily.com/eliminate-facebook-surveillance-on-your-terms/"><u>Eliminate Facebook Surveillance on Your Terms</u></a></li>
-<li><a href="https://windows11.techidaily.com/eliminating-genuineness-errors-in-adobe-windows/"><u>Eliminating Genuineness Errors in Adobe Windows</u></a></li>
-<li><a href="https://fox-that.techidaily.com/getting-your-control-center-back-on-track-8-helpful-fixes-for-iphones/"><u>Getting Your Control Center Back on Track – 8 Helpful Fixes for iPhones</u></a></li>
-<li><a href="https://change-location.techidaily.com/home-button-not-working-on-tecno-spark-go-2023-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Tecno Spark Go (2023)? Here Are Real Fixes | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-stop-sounds-shifting-with-head-movement-on-your-airpods-the-ultimate-guide/"><u>How to Stop Sounds Shifting with Head Movement on Your AirPods: The Ultimate Guide</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-tackle-common-iphone-screen-issues-with-easy-fixes/"><u>How to Tackle Common iPhone Screen Issues with Easy Fixes</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-samsung-galaxy-a14-5g-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Samsung Galaxy A14 5G to iPhone XS/11 | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/overcoming-stuck-iphone-problems-with-these-7-effective-techniques/"><u>Overcoming Stuck iPhone Problems with These 7 Effective Techniques</u></a></li>
-<li><a href="https://fox-that.techidaily.com/revive-your-smartphone-experience-by-restoring-iphones-network-functionality/"><u>Revive Your Smartphone Experience by Restoring iPhone's Network Functionality</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/steps-to-fix-cmusbdacsys-related-bluescreen-of-death-errors-in-microsoft-windows/"><u>Steps to Fix 'CMUSBDAC.sys' Related Bluescreen of Death Errors in Microsoft Windows</u></a></li>
-<li><a href="https://fox-that.techidaily.com/ultimate-guide-thawing-out-your-stuck-iphone/"><u>Ultimate Guide: Thawing Out Your Stuck iPhone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-effortless-tiktok-video-enhancement-replace-backdrop-techniques/"><u>[New] 2024 Approved Effortless TikTok Video Enhancement Replace Backdrop Techniques</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-how-do-i-delete-or-close-my-old-linkedin-account-solved/"><u>[New] 2024 Approved How Do I Delete Or Close My Old LinkedIn Account (Solved)</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-crafting-digital-worlds-the-essential-software-list-for-animators-for-2024/"><u>[New] Crafting Digital Worlds The Essential Software List for Animators for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/7-frequent-iphone-screen-malfunctions-and-expert-solutions-for-each/"><u>7 Frequent iPhone Screen Malfunctions & Expert Solutions for Each</u></a></li>
+<li><a href="https://fox-that.techidaily.com/detecting-water-intrusion-a-list-of-9-key-indicators-on-iphones/"><u>Detecting Water Intrusion: A List of 9 Key Indicators on iPhones</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-install-canoscan-lide-120-printer-drivers-latest-version/"><u>Download and Install CanoScan LiDE 120 Printer Drivers: Latest Version</u></a></li>
+<li><a href="https://fox-that.techidaily.com/five-key-obstacles-impeding-gift-sending-on-mac-and-apple-phones/"><u>Five Key Obstacles Impeding Gift Sending on Mac and Apple Phones</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Motorola Edge 2023? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/in-2024-all-you-need-to-know-about-youtube-shorts-fund/"><u>In 2024, All You Need to Know About YouTube Shorts Fund</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-exclusive-review-top-10-gratis-gaming-screen-recorder-apps/"><u>In 2024, Exclusive Review Top 10 Gratis Gaming Screen Recorder Apps</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolving-airplay-errors-effective-strategies-and-tips-for-uninterrupted-playback/"><u>Resolving AirPlay Errors: Effective Strategies and Tips for Uninterrupted Playback</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolving-iphones-update-dilemma-effective-solutions-to-error-4013/"><u>Resolving iPhone's Update Dilemma: Effective Solutions to Error 4013</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolving-the-sim-not-provisioned-mccmnc-too-large-issue/"><u>Resolving the 'SIM Not Provisioned MCC/MNC Too Large' Issue</u></a></li>
+<li><a href="https://fox-that.techidaily.com/streamlining-photo-collections-on-your-apple-device-merging-repeated-subject-album/"><u>Streamlining Photo Collections on Your Apple Device: Merging Repeated Subject Album</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-10-solutions-for-iphone-calling-issues-no-more-dropped-calls/"><u>Top 10 Solutions for iPhone Calling Issues – No More Dropped Calls!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-how-to-resolve-teso-game-freezing-and-loading-issues/"><u>Troubleshooting: How to Resolve TESO Game Freezing & Loading Issues</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-ai-constraints-the-7-questions-chatgpt-struggles-with/"><u>Understanding AI Constraints: The 7 Questions ChatGPT Struggles With</u></a></li>
 </ul></div>
 

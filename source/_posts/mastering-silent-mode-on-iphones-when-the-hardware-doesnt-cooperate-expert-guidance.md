@@ -1,7 +1,7 @@
 ---
 title: "Mastering Silent Mode on iPhones When the Hardware Doesn’t Cooperate: Expert Guidance"
-date: 2025-02-09T17:02:12.035Z
-updated: 2025-02-11T04:54:08.845Z
+date: 2025-02-28T16:28:51.144Z
+updated: 2025-03-02T16:36:49.925Z
 tags:
   - iphone
   - apple
@@ -34,27 +34,15 @@ thumbnail: https://thmb.techidaily.com/77d3e1b90c90a1223bd94c398f31bb9940ba742ed
 
 ![iPhone Accessibility settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-with-assistivetouch-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Touch settings on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-with-assistivetouch-3.jpg)
 
 ![enabling AssistiveTouch on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-with-assistivetouch-4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Close
 
 * When you want to mute your iPhone, tap the AssistiveTouch (virtual) button on the screen, select**Device** from the menu, and hit**Mute** .
 
 ![AssistiveTouch top-level menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-with-assistivetouch-5.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![Mute option in AssistiveTouch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-with-assistivetouch-6.jpg)
 
@@ -82,10 +70,6 @@ Close
 
 ![customizing AssistiveTouch's top-level menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customizing-assistivetouch-top-level-menu-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![adding a new button to the AssistiveTouch menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customizing-assistivetouch-top-level-menu-3.jpg)
 
 ![selecting Mute action for the new AssistiveTouch button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customizing-assistivetouch-top-level-menu-4.jpg)
@@ -95,10 +79,6 @@ Close
 Close
 
  All you need to do now is tap the AssistiveTouch button and hit**Mute** . When you do this, the**Mute** button will change to**Unmute** , and you can tap on it again to unmute the device quickly.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Set Up a Custom Action
 
@@ -113,17 +93,9 @@ Follow these simple instructions to get this done:
 
 ![adding Mute action to Double-Tap gesture](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/setting-a-custom-action-for-assistivetouch-button-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Close
 
  Once set up, muting and unmuting your iPhone should be even easier. Simply perform the gesture to which you've assigned the Mute action, and it'll mute the device. Repeat it again to unmute.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Mute or Unmute iPhone Using Back Tap
 
@@ -155,10 +127,6 @@ Close
 
  With certain iPhone cases, especially thicker ones, you might need to tap harder for the iPhone to register your taps and trigger the action.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Broken iPhone Ring/Silent Switch? No Problem
 
  A broken or malfunctioning Ring/Silent switch can make things inconvenient. This can be particularly problematic if you frequently switch between Ring and Silent sound profiles on your iPhone.
@@ -180,21 +148,17 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-mastering-the-art-of-video-capturing-zdsofts-method/"><u>[Updated] In 2024, Mastering the Art of Video Capturing ZDSoft's Method</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-pixelprofiler-yearly-review-of-best-screen-capturing-tools/"><u>[Updated] In 2024, PixelProfiler Yearly Review of Best Screen Capturing Tools</u></a></li>
-<li><a href="https://fox-that.techidaily.com/cant-adjust-auto-brightness-on-iphone-discover-these-7-quick-solutions/"><u>Can't Adjust Auto-Brightness on iPhone? Discover These 7 Quick Solutions</u></a></li>
-<li><a href="https://fox-that.techidaily.com/eliminating-iphone-error-14-a-comprehensive-walkthrough-to-restore-your-devices-functionality/"><u>Eliminating iPhone Error 14: A Comprehensive Walkthrough to Restore Your Device's Functionality</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-your-hands-on-metas-unbeatable-512gb-quest-3-package-top-pick-for-virtual-reality-enthusiasts-today/"><u>Get Your Hands on Meta's Unbeatable 512GB Quest 3 Package: Top Pick for Virtual Reality Enthusiasts Today!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/guide-achieving-a-professional-look-with-google-meets-background-blur-feature/"><u>Guide: Achieving a Professional Look with Google Meet's Background Blur Feature</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/how-to-delete-or-deactivate-an-instagram-account-permanently-for-2024/"><u>How to Delete or Deactivate An Instagram Account Permanently for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-nokia-c12-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Nokia C12 | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/iphone-microphone-not-working-heres-how-to-fix-it/"><u>IPhone Microphone Not Working? Here’s How to Fix It</u></a></li>
-<li><a href="https://fox-that.techidaily.com/is-your-iphones-silentring-switch-not-responding-here-are-some-steps-you-can-take-to-fix-it/"><u>Is Your iPhone's Silent/Ring Switch Not Responding? Here Are Some Steps You Can Take To Fix It</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/mastering-snapchats-spotlight-system-for-2024/"><u>Mastering Snapchat's Spotlight System for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/step-by-step-guide-rejuvenating-your-iphones-battery-with-simple-calibration/"><u>Step-by-Step Guide: Rejuvenating Your iPhone's Battery with Simple Calibration</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-tutorial-on-utilizing-zune-video-converter-factory-at-no-cost/"><u>Step-by-Step Tutorial on Utilizing Zune Video Converter Factory at No Cost</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-iphone-photography-top-7-faults-and-solutions-for-a-non-working-camera/"><u>Troubleshooting iPhone Photography: Top 7 Faults & Solutions for a Non-Working Camera</u></a></li>
-<li><a href="https://fox-that.techidaily.com/unlock-your-iphones-potential-with-dfu-mode-for-quick-repairs/"><u>Unlock Your iPhone's Potential with DFU Mode for Quick Repairs</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-the-best-of-the-rest-10-adobe-premiere-elements-alternatives-for-video-production/"><u>Updated In 2024, The Best of the Rest 10 Adobe Premiere Elements Alternatives for Video Production</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-the-ultimate-playlist-plan-for-insta/"><u>[New] 2024 Approved The Ultimate Playlist Plan for Insta</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-tips-and-tricks-to-help-you-change-color-like-a-pro/"><u>[New] 2024 Approved Tips and Tricks to Help You Change Color Like A Pro</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-how-burst-mode-enhances-gopro-videos/"><u>[New] In 2024, How Burst Mode Enhances GoPro Videos</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-symphony-of-screenshots-incorinas-music-into-social-media/"><u>[New] In 2024, Symphony of Screenshots Incorinas Music Into Social Media</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-enhance-visual-harmony-editing-for-instagram-standards/"><u>[Updated] 2024 Approved Enhance Visual Harmony Editing for Instagram Standards</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-fast-favorites-todays-highest-youtube-tracks-for-2024/"><u>[Updated] Fast Favorites Today's Highest Youtube Tracks for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-premier-business-cloud-data-solutions/"><u>2024 Approved Premier Business Cloud Data Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/5-effective-solutions-when-chatgpt-wont-work-on-ios-devices/"><u>5 Effective Solutions When ChatGPT Won't Work on iOS Devices</u></a></li>
+<li><a href="https://fox-that.techidaily.com/identifying-a-blocked-contact-a-guide-to-recognizing-when-youre-not-receiving-imessages/"><u>Identifying a Blocked Contact: A Guide to Recognizing When You're Not Receiving iMessages</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-create-viral-tiktok-content-step-by-step-templates-guide/"><u>In 2024, Create Viral TikTok Content Step-by-Step Templates Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/trouble-linking-up-with-an-iphone-vpn-discover-7-effective-solutions/"><u>Trouble Linking Up with an iPhone VPN? Discover 7 Effective Solutions!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-iphone-screen-time-issues-with-unanticipated-websites-listed/"><u>Troubleshooting iPhone Screen Time Issues with Unanticipated Websites Listed</u></a></li>
 </ul></div>
 

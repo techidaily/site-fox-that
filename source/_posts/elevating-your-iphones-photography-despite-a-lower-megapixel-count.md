@@ -1,7 +1,7 @@
 ---
 title: Elevating Your iPhone's Photography Despite a Lower Megapixel Count
-date: 2024-08-22T23:01:31.429Z
-updated: 2024-08-23T23:01:31.429Z
+date: 2025-03-01T16:19:20.055Z
+updated: 2025-03-02T16:16:18.450Z
 tags:
   - iphone
   - apple
@@ -16,9 +16,6 @@ thumbnail: https://thmb.techidaily.com/c540c3268cb02c45602ab66fa4199a7f1fc574c2a
 
  By default, your iPhone takes 12MP photos (or 24MP on the iPhone 15 series). However, some settings could lower that number, and you could have enabled them without knowing. So, read on to discover how to fix this issue.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Adjust the Camera's Aspect Ratio
 
  If you know [what aspect ratio is in photography](https://www.makeuseof.com/aspect-ratios-in-photography-guide/) , then you most likely don't need this guide. Simply put, the aspect ratio is essentially the ratio of the width to the height of an image.
@@ -31,25 +28,16 @@ thumbnail: https://thmb.techidaily.com/c540c3268cb02c45602ab66fa4199a7f1fc574c2a
 
 ![iPhone Camera app in Photo mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/iphone-camera-app-in-photo-mode.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Photo mode options in the Camera app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/photo-mode-options-in-the-camera-app.jpeg)
 
 ![Aspect ratio options in the Camera app for iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/aspect-ratio-options-in-the-camera-app-for-iphone.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ![iPhone camera in 4-3 aspect ratio](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/3-aspect-ratio.jpeg)
 
 Close
 
  If your aspect ratio returns to 16:9 or 1:1 upon relaunching the Camera app, you can fix it in**Settings > Camera > Preserve Settings** . Toggle**Creative Controls** off, and your aspect ratio should return to the default every time you relaunch it.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Shoot in a Pro Format
 
  The iPhone 14 Pro and 15 Pro models can deliver the best possible image resolution when you shoot in a Pro format. But since it's not enabled by default, you'll need to follow these steps:
@@ -59,14 +47,8 @@ Close
 3. Toggle on**ProRAW & Resolution Control** .
 4. Tap**Pro Default** and choose**HEIF Max** or**ProRAW Max** .
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Camera settings menu in iOS 17](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/camera-settings-menu-in-ios-17.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 ![Camera Formats panel on a iPhone 15 Pro (ProRAW toggled on)](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/camera-formats-panel-on-a-iphone-15-pro-proraw-toggled-on.jpeg)
 
 ![Pro Default settings panel on an iPhone 15 Pro](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/pro-default-settings-panel-on-an-iphone-15-pro.jpeg)
@@ -83,8 +65,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -92,6 +72,26 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-green-screen-templates-free-download-videography-and-filmmaking/"><u>[New] Green Screen Templates Free Download – Videography, and Filmmaking</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-cutting-edge-filmmaking-techniques-youtubes-insights-and-competitors-for-2024/"><u>[Updated] Cutting-Edge Filmmaking Techniques YouTube's Insights & Competitors for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-hdr-review-luminances-creation-capability/"><u>[Updated] HDR Review Luminance's Creation Capability</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-how-to-set-up-zoom-video-meeting/"><u>[Updated] In 2024, How to Set up Zoom Video Meeting</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-pinnacle-speed-windows-10-image-browser/"><u>2024 Approved Pinnacle Speed Windows 10 Image Browser</u></a></li>
+<li><a href="https://fox-that.techidaily.com/defogging-your-iphone-lens-a-step-by-step-fix-for-blurry-pics/"><u>Defogging Your iPhone Lens: A Step-by-Step Fix for Blurry Pics</u></a></li>
+<li><a href="https://win-docs.techidaily.com/effiziente-methoden-zur-wiederherstellung-verlorener-daten-auf-raw-datentragern-expertenrat-zum-schutz-ihrer-wichtigen-informationen/"><u>Effiziente Methoden Zur Wiederherstellung Verlorener Daten Auf RAW-Datenträgern - Expertenrat Zum Schutz Ihrer Wichtigen Informationen</u></a></li>
+<li><a href="https://fox-that.techidaily.com/experiencing-delayed-text-messages-on-your-iphone-try-these-9-fixes/"><u>Experiencing Delayed Text Messages on Your iPhone? Try These 9 Fixes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fix-disconnect-dilemmas-strategies-to-synchronize-airpods-with-iphone-smoothly/"><u>Fix Disconnect Dilemmas: Strategies to Synchronize AirPods with iPhone Smoothly</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721475634264-fix-your-facetime-woes-a-comprehensive-list-of-15-tips-to-restore-service/"><u>Fix Your FaceTime Woes: A Comprehensive List of 15 Tips to Restore Service</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-remove-the-unwanted-yellow-hue-from-your-iphone-screen-a-step-by-step-guide/"><u>How to Remove the Unwanted Yellow Hue From Your iPhone Screen: A Step-by-Step Guide</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-google-pixel-8-pro-bootloader-easily-by-drfone-android/"><u>How to Unlock Google Pixel 8 Pro Bootloader Easily</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-icloud-hiccups-4-methods-for-iphoneipad-users/"><u>Overcoming iCloud Hiccups: 4 Methods for iPhone/iPad Users</u></a></li>
+<li><a href="https://win-web.techidaily.com/resolve-windows-10-reboot-hanging-issues-at-various-progress-percentages-with-6-effective-fixes/"><u>Resolve Windows 10 Reboot Hanging Issues at Various Progress Percentages with 6 Effective Fixes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-your-iphones-silent-volume-knobs-7-proven-repair-methods/"><u>Solving Your iPhone's Silent Volume Knobs: 7 Proven Repair Methods</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-honor-magic-5-lite-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Honor Magic 5 Lite</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/trending-image-memes-unveiling-the-real-story/"><u>Trending Image Memes Unveiling the Real Story</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-and-tame-your-ios-devices-keyboard-woes-with-these-6-effective-fixes/"><u>Troubleshoot & Tame Your iOS Device's Keyboard Woes with These 6 Effective Fixes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-and-organizing-your-iphotos-fixes-for-common-issues/"><u>Troubleshooting and Organizing Your iPhotos: Fixes for Common Issues</u></a></li>
+</ul></div>
 

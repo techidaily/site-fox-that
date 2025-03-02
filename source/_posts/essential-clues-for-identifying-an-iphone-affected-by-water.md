@@ -1,7 +1,7 @@
 ---
 title: Essential Clues for Identifying an iPhone Affected by Water
-date: 2025-02-05T21:14:38.688Z
-updated: 2025-02-10T23:04:15.150Z
+date: 2025-02-28T16:38:00.447Z
+updated: 2025-03-02T16:42:15.223Z
 tags:
   - iphone
   - apple
@@ -27,19 +27,11 @@ thumbnail: https://thmb.techidaily.com/c37c2fb062f462104689e721c0e87e0aafa96193e
 
 ![Foggy iPhone X photo of a man](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/05/foggy-iphone-x-photo-of-a-man.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  One of the first things you should do when inspecting a phone for any kind of damage is to check its cameras. They are sensitive pieces of hardware and are easily affected by scratches, drops, and water.
 
  When water finds its way into your camera, it can fog up the lens and affect the quality of your pictures. And the front camera is particularly prone to damage in this manner, especially if you have replaced the screen at some point in the phone's history.
 
  If you use your iPhone's camera and your pictures look like they're from a low-budget movie from the 50s, then it might be water-damaged. If you see a photo like this, turn off your phone and dry it thoroughly.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Face ID or Touch ID Malfunctioning
 
@@ -75,10 +67,6 @@ thumbnail: https://thmb.techidaily.com/c37c2fb062f462104689e721c0e87e0aafa96193e
 
 ![iPhone 11 in the hands of a woman with volume control options on the screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/iphone-11-in-the-hands-of-a-woman-with-volume-control-options-on-the-screen.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Another clear sign that an iPhone is water-damaged is muffled speakers. If you want to purchase a used phone, after checking the cameras, you should play some sounds on the speakers to see what it sounds like.
 
  If the sounds on the iPhone come out muffled, then you can assume that the phone likely had some water damage to its speaker hardware at some point. You can also test the front speaker by playing a voice note on iMessage and placing it against your ear.
@@ -97,17 +85,9 @@ thumbnail: https://thmb.techidaily.com/c37c2fb062f462104689e721c0e87e0aafa96193e
 
 ![Plugged-in iPhone resting on a black surface](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/plugged-in-iphone-resting-on-a-black-surface.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  In most scenarios where a phone falls into some water, it will likely be dirty water. And dirty water could contain all sorts of things like sand, mud, or other icky particles. These particles can get into your phone's charging port and block the pins. When the pins are blocked in this manner, your charger might not be able to fully nest in your phone, stopping your phone from charging properly or charging at all.
 
  If your phone falls in muddy water, try to remove mud from the charging port as quickly as possible. When your phone dries, give the charging port a thorough clean. You can check our guide on [how to clean your dirty iPhone](https://www.makeuseof.com/tag/clean-iphone-guide/) for better assistance with that.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 9\. Strange Smells
 
@@ -140,22 +120,24 @@ thumbnail: https://thmb.techidaily.com/c37c2fb062f462104689e721c0e87e0aafa96193e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/new-ultimate-story-blueprints-across-8-movie-sectors/"><u>[New] Ultimate Story Blueprints Across 8 Movie Sectors</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-locating-your-own-playlists-on-youtube/"><u>[Updated] In 2024, Locating Your Own Playlists on Youtube</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-game-based-youtube-earning-guide/"><u>2024 Approved Game-Based YouTube Earning Guide</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/googles-goldmine-a-simplified-three-step-blueprint-for-calculating-subscriber-earning-potential-for-2024/"><u>Google's Goldmine A Simplified Three-Step Blueprint for Calculating Subscriber Earning Potential for 2024</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-7-ways-to-lock-apps-on-apple-iphone-11-and-ipad-securely-by-drfone-ios/"><u>In 2024, 7 Ways to Lock Apps on Apple iPhone 11 and iPad Securely</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-melodic-minutes-streamlined-strategies-for-viral-music-on-youtub/"><u>In 2024, Melodic Minutes Streamlined Strategies for Viral Music on YouTub</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-top-gamers-guide-to-live-platforms-1-9/"><u>In 2024, Top Gamer's Guide to Live Platforms #1-#9</u></a></li>
-<li><a href="https://fox-that.techidaily.com/iphone-factory-reset-hacks-no-reliance-on-itunes-required/"><u>IPhone Factory Reset Hacks: No Reliance on iTunes Required</u></a></li>
-<li><a href="https://win-lab.techidaily.com/peaky-blinders-themed-hd-wallpaper-and-image-pack-high-quality-graphics-by-yl-computing/"><u>Peaky Blinders Themed HD Wallpaper & Image Pack - High-Quality Graphics by YL Computing</u></a></li>
-<li><a href="https://fox-that.techidaily.com/persistent-iphone-problem-make-sure-you-receive-vibrations-in-quiet-and-active-modes/"><u>Persistent iPhone Problem? Make Sure You Receive Vibrations in Quiet and Active Modes</u></a></li>
-<li><a href="https://fox-that.techidaily.com/restore-volume-solutions-when-your-iphone-wont-produce-sounds/"><u>Restore Volume: Solutions When Your iPhone Won't Produce Sounds</u></a></li>
-<li><a href="https://fox-that.techidaily.com/revive-your-iphones-gallery-expert-advice-on-solving-common-image-issues/"><u>Revive Your iPhone's Gallery: Expert Advice on Solving Common Image Issues</u></a></li>
-<li><a href="https://fox-that.techidaily.com/revolutionize-your-ios-connectivity-discover-8-tips-to-elevate-wi-fi-performance/"><u>Revolutionize Your iOS Connectivity: Discover 8 Tips to Elevate Wi-Fi Performance</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/the-revolutionary-ai-chat-experience-has-arrived/"><u>The Revolutionary AI Chat Experience Has Arrived</u></a></li>
-<li><a href="https://fox-that.techidaily.com/top-eleven-fixes-how-to-resolve-no-ring-issues-on-your-iphone/"><u>Top Eleven Fixes: How to Resolve No-Ring Issues on Your iPhone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-iphone-cloud-backup-issues-top-9-solutions/"><u>Troubleshooting iPhone Cloud Backup Issues: Top 9 Solutions</u></a></li>
-<li><a href="https://fox-that.techidaily.com/ultimate-guide-removing-water-from-iphone-speakers/"><u>Ultimate Guide: Removing Water From iPhone Speakers</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-the-ultimate-no-charge-frame-by-frame-youtube-tutorial/"><u>[New] In 2024, The Ultimate No-Charge, Frame-by-Frame YouTube Tutorial</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-the-ultimate-guide-to-top-cloud-stores-on-android/"><u>[New] The Ultimate Guide to Top Cloud Stores on Android</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-launch-your-channel-8-entry-level-digital-course-series/"><u>[Updated] 2024 Approved Launch Your Channel 8 Entry-Level Digital Course Series</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-transform-your-photos-mastering-time-lapse-with-samsung-mobile/"><u>2024 Approved Transform Your Photos Mastering Time Lapse with Samsung Mobile</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721464344152-cant-use-facetime-anymore-discover-15-effective-ways-to-get-it-up-and-running-again/"><u>Can't Use FaceTime Anymore? Discover 15 Effective Ways to Get It Up and Running Again!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatbots-and-confidentiality-how-to-guard-against-information-leaks-via-model-inversion-attacks/"><u>Chatbots and Confidentiality: How to Guard Against Information Leaks via Model Inversion Attacks</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721462332557-fix-the-missing-siri-hints-on-iphone-with-these-simple-steps/"><u>Fix the Missing Siri Hints on iPhone with These Simple Steps.</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721454878347-how-to-successfully-connect-to-vpn-using-your-iphone-7-helpful-tips-and-tricks/"><u>How to Successfully Connect to VPN Using Your iPhone: 7 Helpful Tips & Tricks.</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721456655474-improve-your-airpod-listening-experience-effective-methods-for-clearer-sound-and-no-more-issues/"><u>Improve Your AirPod Listening Experience: Effective Methods for Clearer Sound and No More Issues.</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-extract-and-save-youtube-gallery-files/"><u>In 2024, Extract and Save YouTube Gallery Files</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721473277073-iphone-messaging-glitch-here-are-10-tips-for-a-smooth-solution/"><u>IPhone Messaging Glitch? Here Are 10 Tips for a Smooth Solution</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721454865485-iphone-stuck-on-startup-screen-follow-these-7-solutions/"><u>IPhone Stuck on Startup Screen? Follow These 7 Solutions!</u></a></li>
+<li><a href="https://win-forum.techidaily.com/1722915336813-master-social-media-harnessing-the-power-of-facebook-twitter-instagram-and-youtube/"><u>Master Social Media: Harnessing the Power of Facebook, Twitter, Instagram and Youtube.</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-update-expert-picks-for-the-top-2d-animation-software/"><u>New Update Expert Picks for the Top 2D Animation Software</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/secrets-to-getting-your-account-verification-badge-on-formerly-twitter/"><u>Secrets to Getting Your Account Verification Badge on Formerly Twitter</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721476752444-stuck-with-an-uninstalling-issue-here-are-5-quick-fixes-for-iphone-app-downloads/"><u>Stuck with an Uninstalling Issue? Here Are 5 Quick Fixes for iPhone App Downloads</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721476070720-troubleshooting-iphone-wont-switch-to-landscape-solutions-inside/"><u>Troubleshooting: IPhone Won't Switch to Landscape - Solutions Inside</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unlocking-multi-app-playlists-synchronization-secrets-for-2024/"><u>Unlocking Multi-App Playlists Synchronization Secrets for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721444376815-unlocking-the-mystery-making-your-iphone-visible-on-itunes-or-finder-again/"><u>Unlocking the Mystery: Making Your iPhone Visible on iTunes or Finder Again</u></a></li>
 </ul></div>
 

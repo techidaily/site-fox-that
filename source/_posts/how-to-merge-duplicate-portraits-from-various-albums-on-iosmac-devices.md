@@ -1,7 +1,7 @@
 ---
 title: How to Merge Duplicate Portraits From Various Albums on iOS/Mac Devices
-date: 2025-02-09T21:51:59.310Z
-updated: 2025-02-11T01:45:41.577Z
+date: 2025-02-23T16:09:23.079Z
+updated: 2025-03-02T16:45:59.898Z
 tags:
   - iphone
   - apple
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/1ed4f091728645649c840ae907d2be87aba494a53
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Merge Multiple People in Photos on an iPhone or iPad
 
  Luckily, it's easy to fix duplicate people albums in Photos by merging them together. You can even merge People albums for totally different people into one, if you want to create one album for your entire family or group of friends. Follow these steps to merge different People albums into one on an iPhone or iPad:
@@ -40,25 +36,13 @@ thumbnail: https://thmb.techidaily.com/1ed4f091728645649c840ae907d2be87aba494a53
 
 ![select icon in top right](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/select-icon-in-top-right.PNG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![select profiles](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/select-profiles.PNG)
 
 ![merge people albums](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/merge-people-albums.PNG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Close
 
  Related:[Tips That Will Help You Master the People Album in Photos](https://www.makeuseof.com/tips-to-master-people-album-photos-iphone/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Merge Multiple People in Photos on a Mac
 
@@ -75,10 +59,6 @@ Close
 ![Merge 2 People option in Photos app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/Merge-2-People-option-in-Photos-app.jpg)
 
  Read More:[Ways to Fix iCloud Photos Not Syncing on Your Mac](http://www.makeuseof.com/how-to-fix-icloud-photos-not-syncing-mac/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Sort Through Your Photos by People
 
@@ -101,19 +81,20 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-link-films-for-organized-youtube-display/"><u>[New] Link Films for Organized YouTube Display</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-transforming-life-experiences-into-engaging-yt-videos/"><u>[New] Transforming Life Experiences Into Engaging YT Videos</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-aspect-ratios-unveiled-a-complete-youtube-manual/"><u>[Updated] 2024 Approved Aspect Ratios Unveiled A Complete YOUTUBE Manual</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-explore-top-10-dynamic-picture-background-switchers-for-2024/"><u>[Updated] Explore Top 10 Dynamic Picture-Background Switchers for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-top-free-speech-to-text-apps-for-mac-you-need-to-try-for-2024/"><u>[Updated] Top Free Speech to Text Apps for Mac You Need to Try for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/7-most-annoying-iphone-x-problems-and-how-to-fix-issues/"><u>7 Most Annoying iPhone X Problems and How to Fix Issues</u></a></li>
-<li><a href="https://fox-that.techidaily.com/escape-the-endless-apple-logo-7-tips-for-restarting-a-stuck-iphone/"><u>Escape the Endless Apple Logo: 7 Tips for Restarting a Stuck iPhone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-disabled-experience-in-roblox-troubleshooting-user-configs/"><u>Fixing Disabled Experience in Roblox: Troubleshooting User Configs</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fixing-the-issue-of-silent-iphones-and-missed-alarms/"><u>Fixing the Issue of Silent iPhones and Missed Alarms</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-vivo-y27-5g-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Vivo Y27 5G Quickly? | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/make-apples-safari-zoom-past-sluggishness-with-these-4-speedy-tweaks-for-iphones/"><u>Make Apple's Safari Zoom Past Sluggishness with These 4 Speedy Tweaks for iPhones</u></a></li>
-<li><a href="https://fox-that.techidaily.com/the-ultimate-fix-for-a-disabled-idevice-expert-tips-and-tricks/"><u>The Ultimate Fix for a Disabled iDevice: Expert Tips and Tricks</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/understanding-the-benefits-of-switching-to-an-e-ink-phone/"><u>Understanding the Benefits of Switching to an E-Ink Phone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/unlocking-smooth-icloud-integration-resolving-the-most-prevalent-issues-on-ios-devices-9-in-one-article/"><u>Unlocking Smooth iCloud Integration: Resolving the Most Prevalent Issues on iOS Devices (9 in One Article)</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-optimal-voice-capture-systems-reviewed-top-7-2023/"><u>[Updated] 2024 Approved Optimal Voice Capture Systems Reviewed Top 7 2023</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-creating-momentum-in-life-coaching-video-series-for-2024/"><u>[Updated] Creating Momentum in Life Coaching Video Series for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-the-ultimate-guide-to-facetune-photo-enhancement/"><u>2024 Approved The Ultimate Guide to Facetune Photo Enhancement</u></a></li>
+<li><a href="https://fox-that.techidaily.com/avoiding-confusion-the-ultimate-trick-for-rectifying-wrongly-tagged-people-on-your-iphones-camera-roll/"><u>Avoiding Confusion: The Ultimate Trick for Rectifying Wrongly Tagged People on Your iPhone's Camera Roll</u></a></li>
+<li><a href="https://extra-information.techidaily.com/capturing-motion-with-gopro-time-lapse-techniques-for-2024/"><u>Capturing Motion with GoPro Time-Lapse Techniques for 2024</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-xiaomi-civi-3-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Xiaomi Civi 3 | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigating-the-hunt-in-pokemon-go-insider-tips-and-techniques/"><u>Navigating the Hunt in Pokémon Go – Insider Tips & Techniques</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcome-mobile-connectivity-hiccups-10-ways-to-restore-iphone-calls/"><u>Overcome Mobile Connectivity Hiccups: 10 Ways to Restore iPhone Calls</u></a></li>
+<li><a href="https://fox-that.techidaily.com/restoring-lost-iphone-notes-a-step-by-step-guide/"><u>Restoring Lost iPhone Notes: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/reviving-your-iphone-a-guide-to-recovery-and-factory-resets-without-itunes/"><u>Reviving Your iPhone: A Guide to Recovery and Factory Resets without iTunes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-the-mystery-of-missing-contacts-on-iphone-a-step-by-step-guide/"><u>Solving the Mystery of Missing Contacts on iPhone: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/the-journey-of-facetime-snapshots-how-to-retrieve-and-store-them-safely/"><u>The Journey of FaceTime Snapshots: How to Retrieve and Store Them Safely</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-to-running-two-apps-simultaneeusly-on-a-macbook-air/"><u>The Ultimate Guide to Running Two Apps Simultaneeusly on a MacBook Air</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/when-ai-meets-analog-charting-smartwatch-progress-with-chatgpts-6-features/"><u>When AI Meets Analog: Charting Smartwatch Progress with ChatGPT's 6 Features</u></a></li>
+<li><a href="https://fox-that.techidaily.com/why-wont-my-iphone-touchscreen-work-exploring-7-possible-reasons/"><u>Why Won't My iPhone Touchscreen Work? Exploring 7 Possible Reasons</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Fix and Restart an iPhone with Malfunctioning Buttons - Step by Step Tutorial
-date: 2024-08-22T22:59:14.642Z
-updated: 2024-08-23T22:59:14.642Z
+date: 2025-02-26T16:03:40.043Z
+updated: 2025-03-02T16:09:04.936Z
 tags:
   - iphone
   - apple
@@ -33,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/c45c79cad80f175d94c593fb8ff026b4aafae59d2
 
 ## How to Restart an iPhone With a Home Button
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ![How to Restart iPhone With Home Button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/how-to-restart-iphone-with-home-button.png)
 
  Follow these steps to restart iPhone 6, 6S, 7, 8, and SE (2nd generation):
@@ -50,16 +46,10 @@ You have successfully restarted your iPhone with a Home button.
 
 ## How to Restart an iPhone With a Top Power Button
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ![How to Restart iPhone With Top Power Button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/how-to-restart-iphone-with-top-power-button.png)
 
  If you're using iPhone SE (1st generation), 5S, 5C, 5, 4S, 4, or earlier models, the steps are the same as above (for devices with the Home button). Just make sure to press the**Power button** on the top of the device instead.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Restart an iPhone if the Buttons Are Broken or Not Working
 
  In the sections above, we detailed the steps to restart an iPhone using its physical buttons. However, there are two more methods you can use to restart your iPhone, and they don't involve using any buttons.
@@ -75,23 +65,14 @@ You have successfully restarted your iPhone with a Home button.
 3. Wait for at least 30 seconds.
 4. Finally, to turn on your iPhone, plug it in to charge.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ![iPhone Settings app showing General option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/iphone-settings-app-showing-general-option.png)
 
 ![iPhone Settings app showing Shut Down](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/iphone-settings-app-showing-shut-down.png)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![iPhone Power off screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/iphone-power-off-screen.png)
 
 Close
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 ### How to Restart an iPhone Using Siri
 
  The second button-free method involves using Siri, the virtual assistant on your iPhone. However, this method requires an iPhone running iOS 16 or later. To use Siri to restart your device, follow these steps:
@@ -109,10 +90,6 @@ Close
 
  For the best iPhone experience, you should restart your iPhone at least once every week. If you do it every three days, that's even better. This gives the device a chance to shut down and cool off. Plus, temporary files are cleared, minor issues are fixed automatically, and you'll probably face fewer situations where you need to [force stop apps on your iPhone](https://www.makeuseof.com/should-you-force-stop-apps-on-your-phone/) .
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 ## Force Restart When a Normal Restart Doesn't Work
 
  This is how you can restart any iPhone. As you saw, the process is quick and straightforward. However, if your device is frozen, the screen is black, stuck indefinitely on the Apple logo, or the touch screen isn't working, a simple restart may not work.
@@ -125,8 +102,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -134,6 +109,17 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-sculpting-textual-space-with-ais-powerful-features-for-2024/"><u>[New] Sculpting Textual Space with AI's Powerful Features for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/nravel-time-on-your-screen-fresh-perspectives-to-watch-youtube-backwards/"><u>[New] Unravel Time on Your Screen Fresh Perspectives to Watch YouTube Backwards</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-unpacking-sharex-evaluation-and-replacements/"><u>[Updated] In 2024, Unpacking ShareX Evaluation & Replacements</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-streamlining-video-production-with-clear-sound-effects/"><u>2024 Approved Streamlining Video Production with Clear Sound Effects</u></a></li>
+<li><a href="https://fox-that.techidaily.com/6-steps-to-ensure-your-airpods-auto-connect-with-all-apple-products-effortlessly/"><u>6 Steps to Ensure Your AirPods Auto-Connect with All Apple Products Effortlessly</u></a></li>
+<li><a href="https://fox-that.techidaily.com/expert-tips-repairing-a-frozen-iphone-showing-an-endless-apple-icon/"><u>Expert Tips: Repairing a Frozen iPhone Showing an Endless Apple Icon</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolving-error-4013-steps-to-successfully-updaterestore-your-iphone/"><u>Resolving Error 4013: Steps to Successfully Update/Restore Your iPhone</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-ultimate-showdown-of-corporate-and-casual-online-communities/"><u>The Ultimate Showdown of Corporate and Casual Online Communities</u></a></li>
+<li><a href="https://driver-download.techidaily.com/ultimate-downloads-for-brother-hl-2280dw-driver-supports-windows-xp-to-11/"><u>Ultimate Downloads for Brother HL-2280DW Driver - Supports Windows XP to 11</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlocking-independence-the-ultimate-list-of-8-iphone-features-tailored-for-the-visually-challenged/"><u>Unlocking Independence: The Ultimate List of ˈ8 iPhone Features Tailored for the Visually Challenged</u></a></li>
+</ul></div>
 

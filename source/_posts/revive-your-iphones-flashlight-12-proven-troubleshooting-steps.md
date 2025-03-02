@@ -1,7 +1,7 @@
 ---
 title: "Revive Your iPhone's Flashlight: 12 Proven Troubleshooting Steps"
-date: 2025-02-08T09:35:19.483Z
-updated: 2025-02-10T17:40:18.650Z
+date: 2025-02-26T16:13:28.233Z
+updated: 2025-03-02T16:18:00.731Z
 tags:
   - iphone
   - apple
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/a516821dc0dcd8fb768903303922c214d1ad710be
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Turn Off Low Power Mode
 
@@ -68,15 +64,7 @@ Close
 
 ![iphone settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/iphone-settings-1.JPG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![customize iphone control center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/iphone-settings-3.JPG)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![customize iphone control center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/iphone-settings-4.JPG)
 
@@ -87,10 +75,6 @@ Close
  Your iPhone's camera's flash function uses the same light as the flashlight. If you have the**Camera** app opened, it's normal to see the Control Center's flashlight icon grayed out. This is because you can't use both features at the same time.
 
  To solve this, just exit the**Camera** app and access your**Control Center** again. You should see that the flashlight button can once more be selected as usual.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Turn On Your Flashlight Using the Camera Flash
 
@@ -108,10 +92,6 @@ Close
 
 Close
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. Toggle the Flash in Your iPhone's Camera App
 
  To get rid of glitches that stop your iPhone's flashlight from working, you can also try turning your camera flash on and off. The steps are the same as the workaround to turn on your iPhone's camera flash, as discussed in the previous solution. But instead of leaving the**Flash** set to**On** , toggle between**On** and**Off** a few times.
@@ -125,10 +105,6 @@ Close
 ![siri icon on iphone screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/img_7829.JPEG)
 
 ![siri response after turning on iphone flashlight](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/img_7830.JPEG)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Close
 
@@ -146,17 +122,9 @@ Close
 
  The method you need to follow varies depending on the iPhone model you have. But in general, you can go to **Settings > General > Shut Down > Slide to power off** . Then, hold the**Side** button to restart your iPhone once it powers off.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 11\. Restore Your iPhone to a Previous Backup
 
  Besides updating and restarting your iPhone, you can also try [restoring your iPhone to a previous backup](https://www.makeuseof.com/tag/restore-iphone-ipad-from-backup/) from when the flashlight was still working as usual. However, when you use this method, keep in mind that you will also lose any new data that was added to your device since you made that backup.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 12\. Reset All Settings on Your iPhone
 
@@ -165,10 +133,6 @@ Close
  Take note that the reset process can take a long time, especially if you have a lot of data on your iPhone. So, if you're stuck in the dark and urgently need a flashlight, don't rely on resetting your iPhone right there and then!
 
  Make sure you don't accidentally choose**Erase All Content and Settings** from the**Reset** menu. Doing that would delete all the data on your device.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Effective Solutions When Your iPhone's Flashlight Is Not Working
 
@@ -191,22 +155,24 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-innovations-crown-award-winning-computers/"><u>[New] Innovation's Crown Award-Winning Computers</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-premium-camcorders-head-on-video-sharing/"><u>[New] Premium Camcorders Head-On Video Sharing</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-analytics-tools-for-an-improved-tracking-of-your-instagram-metrics-for-2024/"><u>[Updated] Analytics Tools For an Improved Tracking of Your Instagram Metrics for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-photo-philosophers-guide-ios-and-android-writers-choice/"><u>[Updated] Photo Philosopher's Guide – iOS & Android Writers' Choice</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-superior-selection-ultimate-cloud-storage-picks/"><u>2024 Approved Superior Selection Ultimate Cloud Storage Picks</u></a></li>
-<li><a href="https://fox-that.techidaily.com/6-key-factors-contributing-to-iphone-sluggishness-and-solutions/"><u>6 Key Factors Contributing to iPhone Sluggishness & Solutions</u></a></li>
-<li><a href="https://fox-that.techidaily.com/deal-with-any-of-these-7-iphone-x-problems-expert-fixes-to-improve-your-device/"><u>Deal with Any of These 7 iPhone X Problems: Expert Fixes to Improve Your Device</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/digital-guardianship-dont-fall-for-googles-misleading-bard-app/"><u>Digital Guardianship: Don't Fall for Google's Misleading Bard App</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-repair-your-aol-mail-service-when-it-stops-working-on-iphone-discover-these-6-fixes/"><u>How to Repair Your AOL Mail Service When It Stops Working on iPhone - Discover These 6 Fixes</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-show-wi-fi-password-on-infinix-smart-8-hd-by-drfone-android/"><u>How to Show Wi-Fi Password on Infinix Smart 8 HD</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-premium-pcandroid-mkv-player/"><u>In 2024, Premium PC/Android MKV Player</u></a></li>
-<li><a href="https://fox-that.techidaily.com/overcome-the-hurdle-connecting-your-iphone-to-a-pc-made-simple/"><u>Overcome the Hurdle: Connecting Your iPhone to a PC Made Simple</u></a></li>
-<li><a href="https://win-brilliant.techidaily.com/schritt-fur-schritt-anleitung-ihre-hdd-durch-eine-ssd-ersetzen/"><u>Schritt-Für-Schritt-Anleitung: Ihre HDD Durch Eine SSD Ersetzen</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-non-compatible-iphone-adapters-and-cases-tips-and-solutions/"><u>Troubleshooting Non-Compatible iPhone Adapters and Cases – Tips & Solutions</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-tips-for-overcoming-sim-not-provisioned-mobile-errors/"><u>Troubleshooting Tips for Overcoming 'SIM Not Provisioned' Mobile Errors</u></a></li>
-<li><a href="https://fox-that.techidaily.com/ultimate-guide-reviving-your-inactive-iphoneipad/"><u>Ultimate Guide: Reviving Your Inactive iPhone/iPad</u></a></li>
-<li><a href="https://fox-that.techidaily.com/why-isnt-my-iphone-buzzing-on-silentring-settings-fix-it-with-these-8-steps/"><u>Why Isn't My iPhone Buzzing on Silent/Ring Settings? Fix It With These 8 Steps</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-effortless-mp4-conversion-from-facebook-hd-content-all-for-free/"><u>[New] In 2024, Effortless MP4 Conversion From Facebook HD Content – All For Free</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-begin-a-new-era-of-editing-with-xps-video-suite/"><u>[Updated] Begin a New Era of Editing with Xp's Video Suite</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-the-infographic-cache-of-2017s-yt-facts-and-figures/"><u>[Updated] The Infographic Cache of 2017’S YT Facts and Figures</u></a></li>
+<li><a href="https://fox-that.techidaily.com/10-ways-to-fix-safari-not-working-on-an-iphone/"><u>10 Ways to Fix Safari Not Working on an iPhone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-huawei-nova-y91-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Huawei Nova Y91 Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://fox-that.techidaily.com/bluetooth-basics-for-new-iphone-users-an-easy-guide/"><u>Bluetooth Basics for New iPhone Users: An Easy Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/can-iphone-save-images-in-the-cloud-post-deletion-top-8-solutions/"><u>Can iPhone Save Images in the Cloud Post-Deletion? Top 8 Solutions!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/cant-access-chatgpt-on-iphone-discover-these-9-effective-remedies/"><u>Can't Access ChatGPT on iPhone? Discover These 9 Effective Remedies</u></a></li>
+<li><a href="https://win11.techidaily.com/customizing-tray-ui-show-number-keys-scroll-lock-windows-11/"><u>Customizing Tray UI: Show Number Keys, Scroll Lock Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-fixing-unplugged-nvidia-output-issues/"><u>Diagnosing and Fixing Unplugged Nvidia Output Issues</u></a></li>
+<li><a href="https://fox-that.techidaily.com/dont-delay-discover-how-ios-153-enhances-security-and-features-on-your-apple-device/"><u>Don't Delay! Discover How iOS 15.3 Enhances Security and Features on Your Apple Device</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/eradicate-the-chromium-threat-comprehensive-guide-to-cleaning-your-pc-with-malwarefox/"><u>Eradicate the Chromium Threat: Comprehensive Guide to Cleaning Your PC with MalwareFox</u></a></li>
+<li><a href="https://fox-that.techidaily.com/first-steps-in-pairing-devices-a-comprehensive-guide-for-iphones/"><u>First Steps in Pairing Devices: A Comprehensive Guide for iPhones</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-solve-your-iphones-persistent-portrait-only-display-problem/"><u>How to Solve Your iPhone's Persistent Portrait-Only Display Problem</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-premium-mobile-and-desktop-avc-viewer-with-ease/"><u>In 2024, Premium Mobile and Desktop AVC Viewer with Ease</u></a></li>
+<li><a href="https://fox-that.techidaily.com/mastering-the-repair-of-imessage-issues-in-one-easy-method-tips-for-iphone-ipad-and-mac-enthusiasts/"><u>Mastering the Repair of iMessage Issues in One Easy Method: Tips for iPhone, iPad, and Mac Enthusiasts</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-gpu-not-found-errors-in-msi-afterburner-software-on-windows-11-computers/"><u>Resolving 'GPU Not Found' Errors in MSI Afterburner Software on Windows 11 Computers</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/reviving-lost-data-top-6-strategies-for-retrieving-accidentally-deleted-excel-sheets/"><u>Reviving Lost Data: Top 6 Strategies for Retrieving Accidentally Deleted Excel Sheets</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solution-steps-for-dealing-with-iphones-malfunctioning-close-window-sensor/"><u>Solution Steps for Dealing with iPhone's Malfunctioning Close Window Sensor</u></a></li>
 </ul></div>
 

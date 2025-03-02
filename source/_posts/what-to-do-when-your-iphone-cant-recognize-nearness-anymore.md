@@ -1,7 +1,7 @@
 ---
 title: What to Do When Your iPhone Can't Recognize Nearness Anymore
-date: 2025-02-08T09:20:01.854Z
-updated: 2025-02-10T20:45:01.213Z
+date: 2025-02-25T16:08:01.604Z
+updated: 2025-03-02T16:21:05.642Z
 tags:
   - iphone
   - apple
@@ -38,10 +38,6 @@ Here are some things you could do to check if it's working:
 
  Your phone's display should go off In both scenarios. If they don't, you should consult the steps below for troubleshooting.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Steps to Take if Your iPhone's Proximity Sensor Isn't Working
 
  Hardware and software issues could cause this problem. But you could try the steps below in descending order.
@@ -55,10 +51,6 @@ Here are some things you could do to check if it's working:
  While you could try a quick wipe against your shirt or some other cloth, the best thing to do is [clean your iPhone properly](https://www.makeuseof.com/tag/clean-iphone-guide/) . Use a moist, lint-free cloth and gently but thoroughly wipe the dirt away in one direction.
 
  Be careful not to use rubbing alcohol, window cleaners, vinegar, or any similar grease-cutting products, as they could eat away your screen's coating.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Restart the Target Application or Your iPhone
 
@@ -74,10 +66,6 @@ Here are some things you could do to check if it's working:
 
 ![iPhone searching for updates in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-searching-for-updates-in-settings.jpeg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Software update information on iOS for iOS 16.6](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/software-update-information-on-ios-for-ios-16-6.jpeg)
 
 ![Update terms and conditions on iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/update-terms-and-conditions-on-ios.jpeg)
@@ -89,10 +77,6 @@ Close
 ### 4\. Remove the Screen Protector
 
 ![man applying screen protector to smartphone feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/man-applying-screen-protector-to-smartphone-feature.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Image Credit: Nor Gal/[Shutterstock](https://www.shutterstock.com/image-photo/man-replacing-broken-tempered-glass-screen-1106925758)
 
@@ -108,10 +92,6 @@ Here's a brief rundown of how to do it:
 4. Pull out the screen protector.
 
  Give the proximity sensor a test to see if that helped. But if you're still out of luck, you have a last-resort option.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 5\. Take Your Phone Back to Apple or an Authorized Service Provider
 
@@ -142,21 +122,24 @@ Here's a brief rundown of how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-hilarity-and-sobriety-a-list-of-top-10-memetic-spots-on-insta/"><u>[New] 2024 Approved Hilarity & Sobriety A List of Top 10 Memetic Spots on Insta</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/024-approved-is-youtube-premium-worth-it-a-user-guide/"><u>[New] 2024 Approved Is YouTube Premium Worth It A User Guide</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-virtual-captures-unlocked/"><u>[New] 2024 Approved Virtual Captures Unlocked</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-integrating-b-roll-effectively-without-distraction/"><u>[New] In 2024, Integrating B Roll Effectively Without Distraction</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-capturing-the-moment-advanced-tips-for-iphone-silhouettes/"><u>[Updated] Capturing the Moment Advanced Tips for iPhone Silhouettes</u></a></li>
-<li><a href="https://fox-that.techidaily.com/4-ways-to-fix-standby-not-working-on-your-iphone/"><u>4 Ways to Fix StandBy Not Working on Your iPhone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/breeze-through-imessage-fixes-for-iphone-ipad-and-mac-top-7-methods/"><u>Breeze Through iMessage Fixes for iPhone, iPad & Mac – Top 7 Methods</u></a></li>
-<li><a href="https://fox-that.techidaily.com/bypass-iphoneipad-screen-time-password-without-resetting-a-comprehensive-guide/"><u>Bypass iPhone/iPad Screen Time Password without Resetting - A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-that.techidaily.com/experiencing-issues-with-iphones-contacts-feature-try-out-these-ameliorative-strategies/"><u>Experiencing Issues With iPhone's Contacts Feature? Try Out These Ameliorative Strategies.</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-nokia-c12-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Nokia C12 Without Them Knowing? | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/replace-the-current-usb-cable-with-an-official-apple-lightning-to-usb-cable-for-iphones-or-a-certified-usb-cable-for-newer-ipads-you-can-purchase-them-from-291/"><u>Replace the Current USB Cable with an Official Apple Lightning to USB Cable (for iPhones) or a Certified USB Cable (for Newer iPads). You Can Purchase Them From Apple Store or Authorized Resellers.</u></a></li>
-<li><a href="https://common-error.techidaily.com/solutions-to-reactivate-your-hp-laptops-camera-in-windows-11/"><u>Solutions to Reactivate Your HP Laptop's Camera in Windows 11</u></a></li>
-<li><a href="https://fox-that.techidaily.com/speeding-up-your-safari-four-essential-fixes-for-quick-and-smooth-iphone-browsing/"><u>Speeding Up Your Safari: Four Essential Fixes for Quick and Smooth iPhone Browsing</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/egies-for-sustainable-income-via-product-based-videos/"><u>Strategies for Sustainable Income via Product-Based Videos</u></a></li>
-<li><a href="https://fox-that.techidaily.com/the-ultimate-list-of-prevalent-iphone-display-issues-with-easy-fixes/"><u>The Ultimate List of Prevalent iPhone Display Issues with Easy Fixes</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-accurate-tracking-of-websites-with-iphone-screen-time/"><u>Troubleshooting Accurate Tracking of Websites with iPhone Screen Time</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-artists-playground-the-prime-6-platforms-for-nft-creation/"><u>[New] Artists' Playground The Prime 6 Platforms for NFT Creation</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-why-are-status-emojis-blue-understanding-fbs-visual-language/"><u>[New] Why Are Status Emojis Blue? Understanding FB's Visual Language</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-a-step-by-step-journey-through-vo-and-powerpoint-magic/"><u>2024 Approved A Step-by-Step Journey Through VO and Powerpoint Magic</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-converting-ordinary-to-exceptional-lightroom-hdr-tutorial/"><u>2024 Approved Converting Ordinary to Exceptional Lightroom HDR Tutorial</u></a></li>
+<li><a href="https://some-tips.techidaily.com/agnes-ro-of-atlassian-shares-insights-the-evolutionary-journey-of-modern-software-development/"><u>Agnes Ro of Atlassian Shares Insights: The Evolutionary Journey of Modern Software Development</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/behind-the-interface-demystifying-top-9-myths-about-ai-bots/"><u>Behind the Interface: Demystifying Top 9 Myths About AI Bots</u></a></li>
+<li><a href="https://fox-that.techidaily.com/experience-smooth-browsing-again-the-10-best-ways-to-fix-safari-on-iphone/"><u>Experience Smooth Browsing Again: The 10 Best Ways to Fix Safari on iPhone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fix-an-unresponsive-standby-mode-a-step-by-step-guide-for-iphone-users/"><u>Fix an Unresponsive Standby Mode: A Step-by-Step Guide for iPhone Users</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-keep-your-airpods-from-connecting-automatically-with-all-your-apple-gadgets/"><u>How To Keep Your AirPods From Connecting Automatically with All Your Apple Gadgets?</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-expert-strategies-for-live-over-the-net-broadcast-in-vlc/"><u>In 2024, Expert Strategies for Live Over-the-Net Broadcast in VLC</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-12-user-manual-navigating-through-its-12-most-prevalent-issues-and-fixing-them-easily/"><u>IPhone 12 User Manual: Navigating Through Its 12 Most Prevalent Issues and Fixing Them Easily</u></a></li>
+<li><a href="https://fox-that.techidaily.com/navigating-the-pitfalls-of-iphone-12-ultimate-troubleshooting-tips-and-fixes/"><u>Navigating the Pitfalls of iPhone 12 - Ultimate Troubleshooting Tips & Fixes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolving-whatsapp-icloud-backup-problems-for-seamless-chat-history-syncing-on-iphone-and-ipad/"><u>Resolving WhatsApp iCloud Backup Problems for Seamless Chat History Syncing on iPhone and iPad</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/simple-techniques-for-fixing-gpus-only/"><u>Simple Techniques for Fixing GPUs Only</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/start-editing-with-ease-implementing-movie-maker-in-windows-11/"><u>Start Editing with Ease Implementing Movie Maker in Windows 11</u></a></li>
+<li><a href="https://fox-that.techidaily.com/stop-your-spotify-from-shutting-down-when-you-lock-your-iphone-top-fixes-and-workarounds/"><u>Stop Your Spotify From Shutting Down When You Lock Your iPhone - Top Fixes & Workarounds</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-8-solutions-for-iphone-photo-glitches-mastering-your-camera-roll/"><u>Top 8 Solutions for iPhone Photo Glitches: Mastering Your Camera Roll</u></a></li>
+<li><a href="https://fox-that.techidaily.com/ultimate-guide-resolving-recurring-issues-with-iphone-app-crashes-10-methods/"><u>Ultimate Guide: Resolving Recurring Issues with iPhone App Crashes (10 Methods)</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/virtual-guru-guide-to-lithuanian-mastery/"><u>Virtual Guru Guide to Lithuanian Mastery</u></a></li>
 </ul></div>
 

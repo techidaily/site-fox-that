@@ -1,7 +1,7 @@
 ---
 title: AirPlay Not Working? Here's How You Can Get It Running Smoothly Again!
-date: 2025-02-05T09:38:44.078Z
-updated: 2025-02-11T00:45:07.228Z
+date: 2025-02-26T16:28:50.215Z
+updated: 2025-03-02T16:18:20.461Z
 tags:
   - iphone
   - apple
@@ -70,25 +70,13 @@ thumbnail: https://thmb.techidaily.com/4aaf8bbfbdfb57b83b54a7e30f7b8f03d80755a12
 
 ![AirPlay menu on iPhone 15 Pro Max listing nearby devices](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/apple-iphone-15-pro-max-airplay-audio-menu.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Since AirPlay typically relies on peer-to-peer discovery, bring them as close to each other as possible to increase the connection strength.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Enable Screen Mirroring in the Menu Bar
 
  When your Mac detects an AirPlay receiver on the network, it shows up under the Screen Mirroring icon in the menu bar. If no icon is visible, go to**System Settings > Control Center** , click the menu next to**Screen Mirroring** , and select**Always Show in Menu Bar** .
 
 ![macOS Control Center settings with the option to always show Screen Mirroring in the menu bar enabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/apple-macos-sonoma-system-settings-control-center-screen-mirroring-always-show-in-menu-bar-selected.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Now, you can quickly start or stop AirPlay, mirror your Mac's screen, or use a nearby iPad as a second display—all from the menu bar.
 
@@ -99,10 +87,6 @@ thumbnail: https://thmb.techidaily.com/4aaf8bbfbdfb57b83b54a7e30f7b8f03d80755a12
 ![Apple iOS 17 Settings App Airplay and Handoff Section Highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/apple-ios-17-settings-app-airplay-and-handoff-section-highlighted.jpg)
 
 ![Apple iOS 17 Settings App Airplay and Handoff Section Automatically AirPlay Highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/apple-ios-17-settings-app-airplay-and-handoff-section-automatically-airplay-highlighted.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![iOS 17 AirPlay settings with the Automatically AirPlay option set to Never](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/apple-ios-17-settings-app-airplay-and-handoff-section-automatically-airplay-never-highlighted.jpg)
 
@@ -116,10 +100,6 @@ Close
 
 ![Closeup of iPhone's Settings app with Airplane Mode disabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/apple-ios-17-settings-app-airplane-mode-disabled.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Open the Control Center on your iPhone or iPad by swiping down from the top-right corner, then touch a little airplane icon to toggle Airplane Mode. Alternatively, go to**Settings > Airplane Mode** to turn the feature on or off.
 
 ## 7\. Switch on Bluetooth
@@ -128,15 +108,7 @@ Close
 
 ![iOS 17 Settings with the Bluetooth section highlighted and disabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/apple-ios-17-settings-app-bluetooth-section-disabled-highlighted.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![iOS 17 Settings with Bluetooth enabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/apple-ios-17-settings-app-bluetooth-enabled.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Close
 
@@ -152,10 +124,6 @@ Close
 
 ![iOS 17 Settings with the Wi-Fi highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/apple-ios-17-settings-app-wi-fi-section-network-name-highlighted.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Close
 
  To check the Wi-Fi network you're connected to on macOS, click the Wi-Fi icon in the menu bar or go to**System Settings > Wi-Fi** .
@@ -166,19 +134,11 @@ Close
 
 ![Apple TV 4K displaying the Wi-Fi network name in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/apple-tv-4k-settings-wi-fi-network-name.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If your Apple TV uses an Ethernet connection, be sure to connect it to the same router that creates your home's Wi-Fi connection.
 
 ## 9\. Restart Your Devices
 
  Sometimes, the best solution is to restart all the devices you wish to use with AirPlay. On iOS and iPadOS, choose**Settings > General > Shut Down** . On tvOS, select**Settings > System > Restart** . To restart your Mac, click the**Apple** menu and choose**Restart** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 10\. Reboot Your Router
 
@@ -226,24 +186,24 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-mastering-the-marketplace-30-advanced-fb-techniques-explored/"><u>[New] 2024 Approved Mastering the Marketplace 30 Advanced FB Techniques Explored</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-sage-select-best-general-knowledge-channels/"><u>[New] 2024 Approved Sage Select Best General Knowledge Channels</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-demystifying-the-symbolism-of-a-blue-marker-in-facebook-chats/"><u>[New] In 2024, Demystifying the Symbolism of a Blue Marker in Facebook Chats</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-a-beginners-guide-to-jujutsu-kaisen-on-tiktok/"><u>[Updated] A Beginner’s Guide to Jujutsu Kaisen on TikTok</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-how-to-use-luts-in-premiere-pro/"><u>[Updated] How To Use LUTs In Premiere Pro</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-igtv-mastery-best-video-editors-for-social-media/"><u>[Updated] In 2024, IGTV Mastery Best Video Editors for Social Media</u></a></li>
-<li><a href="https://fox-that.techidaily.com/contact-name-replacement-error-what-to-do-when-phone-numbers-display-on-ios-chat-apps/"><u>Contact Name Replacement Error: What to Do When Phone Numbers Display on iOS Chat Apps</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/how-to-ensure-the-best-live-experience-with-top-networks/"><u>How to Ensure the Best Live Experience with Top Networks</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-reset-your-xiaomi-mix-fold-3-lock-screen-password-by-drfone-android/"><u>How to Reset your Xiaomi Mix Fold 3 Lock Screen Password</u></a></li>
-<li><a href="https://fox-that.techidaily.com/icloud-backup-failures-on-iphone-top-9-remedies/"><u>ICloud Backup Failures on iPhone - Top 9 Remedies!</u></a></li>
-<li><a href="https://fox-that.techidaily.com/imessage-glossary-guide-dealing-with-contacts-showing-as-numbers-not-names/"><u>IMessage Glossary Guide: Dealing with Contacts Showing as Numbers, Not Names</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-free-jokes-at-your-fingertips-quickmemes-handbook/"><u>In 2024, Free Jokes at Your Fingertips – QuickMemes Handbook</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-navigate-to-the-5-preferred-android-ps2-emulator-apps/"><u>In 2024, Navigate to the 5 Preferred Android PS2 Emulator Apps</u></a></li>
-<li><a href="https://fox-that.techidaily.com/mastering-iphone-troubleshooting-force-reboot-steps-to-reach-the-recovery-menu/"><u>Mastering iPhone Troubleshooting: Force Reboot Steps to Reach the Recovery Menu</u></a></li>
-<li><a href="https://fox-that.techidaily.com/recovering-a-missing-or-pilfered-iphone-a-step-by-step-guide-with-the-find-my-app/"><u>Recovering a Missing or Pilfered iPhone: A Step-by-Step Guide with the Find My App</u></a></li>
-<li><a href="https://fox-that.techidaily.com/stumped-by-iphones-wireless-charging-malfunctions-discover-these-seven-resolving-strategies/"><u>Stumped by iPhone's Wireless Charging Malfunctions? Discover These ^Seven Resolving Strategies</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshoot-the-lacking-depth-feature-on-ios-16-top-7-fix-methods/"><u>Troubleshoot the Lacking Depth Feature on iOS 16: Top 7 Fix Methods</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-the-iphone-amoji-uncovering-the-6-typical-challenges-and-their-fixes/"><u>Troubleshooting the iPhone Amoji - Uncovering the 6 Typical Challenges and Their Fixes</u></a></li>
-<li><a href="https://fox-that.techidaily.com/understanding-and-troubleshooting-phone-numbers-instead-of-names-in-messages/"><u>Understanding and Troubleshooting Phone Numbers Instead of Names in Messages</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-perfected-beats-on-the-go-no-cost-just-download-and-play/"><u>2024 Approved Perfected Beats on the Go - No Cost, Just Download and Play</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/webcam2024/"><u>免費Webcam錄影工具大選：發現2024年最傑出的電視鏡頭解決方案！</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/a-closer-look-at-immersive-virtual-reality-tech/"><u>A Closer Look at Immersive Virtual Reality Tech</u></a></li>
+<li><a href="https://fox-that.techidaily.com/accelerate-your-instagram-experience-swift-solutions-for-lagging-issues-in-android-and-ios/"><u>Accelerate Your Instagram Experience: Swift Solutions for Lagging Issues in Android & iOS</u></a></li>
+<li><a href="https://fox-that.techidaily.com/cant-connect-on-facetime-a-list-of-15-possible-fixes-you-should-try/"><u>Can't Connect on FaceTime? A List of 15 Possible Fixes You Should Try</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/create-neon-effects-online-8-simple-and-free-tools-to-get-you-started/"><u>Create Neon Effects Online 8 Simple and Free Tools to Get You Started</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-methods-for-stopping-persistent-content-warnings-from-collapsing-pc-performance/"><u>Effective Methods for Stopping Persistent Content Warnings From Collapsing PC Performance</u></a></li>
+<li><a href="https://fox-that.techidaily.com/essential-strategies-to-overcome-the-black-screen-dilemma-on-your-iphone/"><u>Essential Strategies to Overcome the Black Screen Dilemma on Your iPhone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-incoming-call-issues-a-guide-for-iphone-users/"><u>Fixing Incoming Call Issues – A Guide for iPhone Users</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-the-launch-error-how-to-successfully-start-age-of-empires-iv/"><u>Fixing the Launch Error: How to Successfully Start Age of Empires IV</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/fixing-your-intel-dynamic-platform-and-thermal-framework-driver-errors-dptf-step-by-step/"><u>Fixing Your Intel Dynamic Platform & Thermal Framework Driver Errors (DPTF) [Step-by-Step]</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-vivo-y56-5g-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Vivo Y56 5G to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-spinning-tales-embracing-the-full-rotational-vision/"><u>In 2024, Spinning Tales Embracing the Full Rotational Vision</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/metodo-eficaz-para-afinar-o-tom-das-cancoes-descubra-a-solucao-ideal/"><u>Método Eficaz Para Afinar O Tom Das Canções: Descubra a Solução Ideal</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-problems-what-to-do-if-apple-refuses-your-payment/"><u>Overcoming Problems: What to Do If Apple Refuses Your Payment</u></a></li>
+<li><a href="https://fox-that.techidaily.com/quick-solutions-how-to-repair-imessage-issues-on-your-ios-devices/"><u>Quick Solutions: How to Repair iMessage Issues on Your iOS Devices</u></a></li>
+<li><a href="https://fox-that.techidaily.com/the-comprehensive-guide-to-dfu-mode-for-iphones-explained/"><u>The Comprehensive Guide to DFU Mode for iPhones Explained</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721467435745-why-wont-my-iphone-back-up-to-icloud-here-are-9-fixes-that-work/"><u>Why Won’t My iPhone Back Up to iCloud? Here Are 9 Fixes That Work</u></a></li>
+<li><a href="https://fox-that.techidaily.com/wi-fi-not-working-on-ios-devices-discover-these-8-effective-fixes-for-iphone-and-ipad-connections/"><u>Wi-Fi Not Working on iOS Devices? Discover These 8 Effective Fixes for iPhone and iPad Connections</u></a></li>
 </ul></div>
 

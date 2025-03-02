@@ -1,7 +1,7 @@
 ---
 title: Nine Surefire Telltale Symptoms Your iPhone Has Been Compromised by Water
-date: 2025-02-07T07:58:40.497Z
-updated: 2025-02-11T03:18:16.575Z
+date: 2025-02-27T16:38:34.569Z
+updated: 2025-03-02T16:23:03.063Z
 tags:
   - iphone
   - apple
@@ -27,10 +27,6 @@ thumbnail: https://thmb.techidaily.com/de7e32da454b1a64d1a9e174bd2f0af6c1c09ee74
 
 ![Foggy iPhone X photo of a man](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/05/foggy-iphone-x-photo-of-a-man.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  One of the first things you should do when inspecting a phone for any kind of damage is to check its cameras. They are sensitive pieces of hardware and are easily affected by scratches, drops, and water.
 
  When water finds its way into your camera, it can fog up the lens and affect the quality of your pictures. And the front camera is particularly prone to damage in this manner, especially if you have replaced the screen at some point in the phone's history.
@@ -40,10 +36,6 @@ thumbnail: https://thmb.techidaily.com/de7e32da454b1a64d1a9e174bd2f0af6c1c09ee74
 ## 2\. Face ID or Touch ID Malfunctioning
 
 ![iPhone with Face ID is not available message on the lock screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/iphone-with-face-id-is-not-available-message-on-the-lock-screen.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Apple's biometric security features are one of the features you could lose when your iPhone takes an unfortunate bath in water.
 
@@ -59,17 +51,9 @@ thumbnail: https://thmb.techidaily.com/de7e32da454b1a64d1a9e174bd2f0af6c1c09ee74
 
 ![An iPhone X with a dark spot on its left bottom corner](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/05/an-iphone-x-with-a-dark-spot-on-its-left-bottom-corner.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you're unlucky, water could also affect your display and develop permanent patches. You might see signs of water under the display first before it slowly forms dark patches—making the affected area dimmer.
 
  Once you see signs of water under the display, dry the device and [back up all your iPhone's data](https://www.makeuseof.com/tag/how-to-backup-iphone-ipad/) . Whatever you do, do not put it in rice because that myth may accelerate your problem. If there's still a dark spot after your phone is dry, you might need to change the screen assembly.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Faulty Touchscreen and Flickering Display
 
@@ -82,10 +66,6 @@ thumbnail: https://thmb.techidaily.com/de7e32da454b1a64d1a9e174bd2f0af6c1c09ee74
 ## 6\. Muffled Speakers
 
 ![iPhone 11 in the hands of a woman with volume control options on the screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/iphone-11-in-the-hands-of-a-woman-with-volume-control-options-on-the-screen.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Another clear sign that an iPhone is water-damaged is muffled speakers. If you want to purchase a used phone, after checking the cameras, you should play some sounds on the speakers to see what it sounds like.
 
@@ -140,20 +120,21 @@ thumbnail: https://thmb.techidaily.com/de7e32da454b1a64d1a9e174bd2f0af6c1c09ee74
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-the-revolution-of-filmmaking-discovering-yis-4k-hero-series/"><u>[New] In 2024, The Revolution of Filmmaking Discovering Yi's 4K Hero Series</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-chronological-clarity-in-your-photographic-work/"><u>[Updated] Chronological Clarity in Your Photographic Work</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-the-samsung-revolution-diving-deep-into-the-ue590-monitor-review/"><u>[Updated] In 2024, The Samsung Revolution - Diving Deep Into the UE590 Monitor Review</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/descubra-el-secreto-para-transformar-videos-mkv-a-mp4-con-rapidez-manteniendo-intacta-su-alta-calidad-visual/"><u>Descubra El Secreto Para Transformar Vídeos MKV a MP4 Con Rapidez, Manteniendo Intacta Su Alta Calidad Visual</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/138619864-9781633411272-evil-archaeology/"><u>Evil Archaeology | Free Book</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-call-history-on-lava-blaze-2-5g-by-fonelab-android-recover-call-logs/"><u>How to restore wiped call history on Lava Blaze 2 5G?</u></a></li>
-<li><a href="https://win-top.techidaily.com/how-to-swiftly-detect-and-exclude-your-address-from-spam-filters-using-massmail-techniques/"><u>How to Swiftly Detect & Exclude Your Address From Spam Filters Using Massmail Techniques</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-update-your-iphone-emails-overcoming-sync-and-update-problems/"><u>How to Update Your iPhone Emails: Overcoming Sync and Update Problems</u></a></li>
-<li><a href="https://fox-that.techidaily.com/mastering-iphone-maintenance-15-vital-troubleshooting-strategies/"><u>Mastering iPhone Maintenance: 15 Vital Troubleshooting Strategies</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/movavimpeg-swf/"><u>Movaviと一緒に、ストリーミングMPEG SWF変更サービス - 今すぐ始めよう!</u></a></li>
-<li><a href="https://fox-that.techidaily.com/no-more-password-worries-learn-to-change-your-ios-and-mac-screen-time-passcode-today/"><u>No More Password Worries: Learn to Change Your iOS & Mac Screen Time Passcode Today</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/secure-image-privacy-with-blur-features/"><u>Secure Image Privacy with Blur Features</u></a></li>
-<li><a href="https://fox-that.techidaily.com/ultimate-iphone-repair-techniques-a-list-of-15-must-know-tips/"><u>Ultimate iPhone Repair Techniques: A List of 15 Must-Know Tips</u></a></li>
-<li><a href="https://fox-that.techidaily.com/unresponsive-ios-display-discover-these-7-reasons-why-your-iphone-screen-may-not-be-working/"><u>Unresponsive iOS Display? Discover These 7 Reasons Why Your iPhone Screen May Not Be Working</u></a></li>
-<li><a href="https://fox-that.techidaily.com/why-wont-the-picture-analysis-function-work-on-your-iphone-camera/"><u>Why Won't the Picture Analysis Function Work on Your iPhone Camera?</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-discover-the-ultimate-30-list-of-free-vectr-and-illustration-sites-online-for-2024/"><u>[New] Discover the Ultimate 30 List of Free Vectr and Illustration Sites Online for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-instagram-video-preservation-direct-and-indirect-approaches/"><u>[New] In 2024, Instagram Video Preservation Direct & Indirect Approaches</u></a></li>
+<li><a href="https://fox-that.techidaily.com/bluetooth-basics-for-iphones-a-comprehensive-guide-for-first-timers/"><u>Bluetooth Basics for iPhones: A Comprehensive Guide for First-Timers</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-instagram-delay-issues-a-guide-with-six-effective-methods-for-android-and-ios/"><u>Fixing Instagram Delay Issues: A Guide with Six Effective Methods for Android and iOS</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/happy-tails-enjoy-pets-and-games/"><u>Happy Tails: Enjoy Pets & Games!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-resolve-sudden-touch-responsiveness-problems-on-your-iphone-with-10-tactics/"><u>How to Resolve Sudden Touch Responsiveness Problems on Your iPhone with 10 Tactics</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-stream-apple-iphone-6s-video-to-computer-drfone-by-drfone-ios/"><u>How to Stream Apple iPhone 6s Video to Computer? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-8-without-swiping-up-6-ways-by-drfone-ios/"><u>In 2024, How To Unlock iPhone 8 Without Swiping Up? 6 Ways</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-depth-synopsis-gopro-slr4-sliver-camera-review-for-2024/"><u>In-Depth Synopsis GoPro SLR4 Sliver Camera Review for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revolutionize-your-garden-get-togethers-with-top-6-must-have-gadgets-insights-by-zdnet/"><u>Revolutionize Your Garden Get-Togethers with Top 6 Must-Have Gadgets, Insights by ZDnet</u></a></li>
+<li><a href="https://fox-that.techidaily.com/steps-to-take-when-the-proximity-function-on-your-iphone-fails/"><u>Steps to Take When the Proximity Function on Your iPhone Fails</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-guide-addressing-the-issue-of-numbered-contacts-in-messages/"><u>Troubleshooting Guide: Addressing the Issue of Numbered Contacts in Messages</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-tecno-spark-10c-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Tecno Spark 10C | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlock-the-secrets-of-forcing-a-reset-on-iphones-plus-entering-into-recovery-mode-easily/"><u>Unlock the Secrets of Forcing a Reset on iPhones + Entering Into Recovery Mode Easily</u></a></li>
+<li><a href="https://fox-that.techidaily.com/what-to-do-when-iphone-contacts-go-missing-practical-fixes-for-users/"><u>What to Do When iPhone Contacts Go Missing: Practical Fixes for Users</u></a></li>
 </ul></div>
 

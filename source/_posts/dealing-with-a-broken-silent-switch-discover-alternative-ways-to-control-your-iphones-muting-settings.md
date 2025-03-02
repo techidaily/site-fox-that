@@ -1,7 +1,7 @@
 ---
 title: Dealing with a Broken Silent Switch? Discover Alternative Ways to Control Your iPhone's Muting Settings
-date: 2025-02-03T20:23:41.619Z
-updated: 2025-02-11T11:27:53.840Z
+date: 2025-02-25T16:24:53.077Z
+updated: 2025-03-02T16:39:20.388Z
 tags:
   - iphone
   - apple
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/07ca320cf616365de8ad632002d02eea2e2a464ff
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Mute or Unmute iPhone Using AssistiveTouch
 
 [AssistiveTouch is an accessibility feature](https://www.makeuseof.com/create-virtual-iphone-home-button-with-assistivetouch/) that simplifies performing various operations on the iPhone. Among other things, this also includes muting and unmuting the iPhone, and there are three ways you can do this with AssistiveTouch. First, let's start with the basic approach:
@@ -37,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/07ca320cf616365de8ad632002d02eea2e2a464ff
 ![iPhone Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-with-assistivetouch-1.jpg)
 
 ![iPhone Accessibility settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-with-assistivetouch-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![Touch settings on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-with-assistivetouch-3.jpg)
 
@@ -53,10 +45,6 @@ Close
 ![AssistiveTouch top-level menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-with-assistivetouch-5.jpg)
 
 ![Mute option in AssistiveTouch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-with-assistivetouch-6.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Close
 
@@ -86,19 +74,11 @@ Close
 
 ![selecting Mute action for the new AssistiveTouch button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customizing-assistivetouch-top-level-menu-4.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Mute action in AssistiveTouch's top-level menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customizing-assistivetouch-top-level-menu-5.jpg)
 
 Close
 
  All you need to do now is tap the AssistiveTouch button and hit**Mute** . When you do this, the**Mute** button will change to**Unmute** , and you can tap on it again to unmute the device quickly.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Set Up a Custom Action
 
@@ -117,10 +97,6 @@ Close
 
  Once set up, muting and unmuting your iPhone should be even easier. Simply perform the gesture to which you've assigned the Mute action, and it'll mute the device. Repeat it again to unmute.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Mute or Unmute iPhone Using Back Tap
 
  AssistiveTouch used to be the only way to mute or unmute your iPhone when the Ring/Silent switch stopped working for the longest time. And sure, it works fine and gets the job done, but for some, it isn't aesthetically pleasing to have the button on the screen at all times.
@@ -132,15 +108,7 @@ Close
 
 ![iPhone Accessibility settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-using-back-tap-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Back Tap feature under Touch Accessibility settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-using-back-tap-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Close
 
@@ -180,24 +148,20 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-safely-download-facebook-media-on-windowsmac/"><u>[New] 2024 Approved Safely Download Facebook Media on Windows/Mac</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-from-virality-to-value-gauge-your-content-against-competing-craftsmen/"><u>[New] From Virality to Value Gauge Your Content Against Competing Craftsmen</u></a></li>
-<li><a href="https://fox-that.techidaily.com/bypass-the-resume-download-hurdle-top-6-fixes-for-a-successful-stalled-ios-update-on-apple-devices/"><u>Bypass the 'Resume Download' Hurdle: Top 6 Fixes for a Successful Stalled iOS Update on Apple Devices</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/diy-fixes-for-the-persistent-camera-error-code-0xa00f4244-on-windows-11-devices/"><u>DIY Fixes for the Persistent 'Camera Error Code 0Xa00f4244' On Windows 11 Devices</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210375265-9781786786432-how-to-be-highly-sensitive-and-empowered/"><u>How To Be Highly Sensitive and Empowered | Free Book</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-outro-aesthetics-selecting-templates-any-budget/"><u>In 2024, Outro Aesthetics Selecting Templates, Any Budget</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-tecno-spark-20-pro-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Tecno Spark 20 Pro Device</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/innovative-uses-of-chatgpt-boosting-your-excel-skills-with-3-key-techniques/"><u>Innovative Uses of ChatGPT: Boosting Your Excel Skills with 3 Key Techniques</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/new-guide-how-to-check-icloud-activation-lock-status-on-your-apple-iphone-12-mini-by-drfone-ios/"><u>New Guide How To Check iCloud Activation Lock Status On Your Apple iPhone 12 mini</u></a></li>
-<li><a href="https://fox-that.techidaily.com/overcome-iphone-and-android-messaging-woes-fix-not-receiving-texts-today/"><u>Overcome iPhone and Android Messaging Woes - Fix Not Receiving Texts Today</u></a></li>
-<li><a href="https://fox-that.techidaily.com/reactivate-your-iphones-control-center-8-fixes-for-common-issues-and-problems/"><u>Reactivate Your iPhone's Control Center: 8 Fixes for Common Issues and Problems</u></a></li>
-<li><a href="https://fox-that.techidaily.com/rekindle-your-iphones-camera-magic-address-these-7-prevalent-problems-and-fix-them-today/"><u>Rekindle Your iPhone's Camera Magic: Address These 7 Prevalent Problems & Fix Them Today</u></a></li>
-<li><a href="https://fox-that.techidaily.com/resolve-iphones-error-14-a-comprehensive-how-to-guide/"><u>Resolve iPhone's Error 14 - A Comprehensive How-To Guide</u></a></li>
-<li><a href="https://fox-that.techidaily.com/restore-true-colors-fixing-yellowed-iphone-screens-for-crystal-clear-imagery/"><u>Restore True Colors: Fixing Yellowed iPhone Screens for Crystal Clear Imagery</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721480751564-solving-the-mystery-of-yellow-screens-on-iphones-unveiling-nine-reliable-fixes-to-restore-vibrancy/"><u>Solving the Mystery of Yellow Screens on iPhones: Unveiling Nine Reliable Fixes to Restore Vibrancy.</u></a></li>
-<li><a href="https://fox-that.techidaily.com/stop-the-shifting-sounds-guide-to-turn-off-dynamic-sound-alignment-on-apple-airpods/"><u>Stop the Shifting Sounds: Guide to Turn Off Dynamic Sound Alignment on Apple AirPods</u></a></li>
-<li><a href="https://fox-that.techidaily.com/the-input-resistance-of-an-n-channel-jfet-can-be-quite-high-often-in-the-range-of-megaohms-which-makes-them-useful-for-interfacing-with-other-circuit-elemen24/"><u>The Input Resistance of an N-Channel JFET Can Be Quite High, Often in the Range of Megaohms, Which Makes Them Useful for Interfacing with Other Circuit Elements without Much Loading Effect.</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-ultimate-selection-best-workout-journaling-apps-of-2024/"><u>The Ultimate Selection: Best Workout Journaling Apps of 2024</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/unlock-potential-with-cookiebot-integration-for-superior-web-performance/"><u>Unlock Potential with Cookiebot Integration for Superior Web Performance</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-the-fundamentals-of-assembling-photos-into-art/"><u>[New] 2024 Approved The Fundamentals of Assembling Photos Into Art</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-getting-started-with-adobe-presenter-video-recordings-for-2024/"><u>[New] Getting Started with Adobe Presenter Video Recordings for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-streamers-checklist-secure-video-ad-revenue/"><u>[New] Streamer's Checklist Secure Video Ad Revenue</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-the-hunt-for-hit-tunes-and-viral-videos-on-fb-for-2024/"><u>[New] The Hunt for Hit Tunes and Viral Videos on FB for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-canva-tutorial-for-flawless-image-border-clearance-for-2024/"><u>[Updated] Canva Tutorial for Flawless Image Border Clearance for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/doesnt-my-imessage-go-through-how-to-tell-if-youve-been-blocked/"><u>Doesn't My iMessage Go Through? How to Tell if You’ve Been Blocked</u></a></li>
+<li><a href="https://fox-that.techidaily.com/expert-tips-and-tricks-for-restoring-the-hey-siri-capability-when-encountering-issues-in-ios-phones-guide-with-18-steps/"><u>Expert Tips & Tricks for Restoring the Hey Siri Capability When Encountering Issues in iOS Phones (Guide with 18 Steps)</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-ios-update-or-restore-failure-understand-and-address-error-4013-on-iphone/"><u>Fixing iOS Update or Restore Failure - Understand & Address Error 4013 on iPhone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/get-siri-working-again-on-ios-devices-the-ultimate-troubleshooting-guide-with-7-key-solutions/"><u>Get Siri Working Again on iOS Devices: The Ultimate Troubleshooting Guide with 7 Key Solutions</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-vivo-v29-pro-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Vivo V29 Pro</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On Sony Xperia 10 V? | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/itunes-offnet-sich-nicht-schnelle-fixes-fur-den-bekannten-itunes-startfehler-und-wie-du-ihn-behebst/"><u>ITunes Öffnet Sich Nicht - Schnelle Fixes Für Den Bekannten iTunes-Startfehler Und Wie Du Ihn Behebst!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/revamp-your-siri-experience-overcoming-dictation-hurdles-on-iphone-with-these-5-fixes/"><u>Revamp Your Siri Experience: Overcoming Dictation Hurdles on iPhone with These 5 Fixes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-iphone-wireless-charging-woes-a-guide-to-7-crucial-repairs/"><u>Solving iPhone Wireless Charging Woes: A Guide to 7 Crucial Repairs</u></a></li>
+<li><a href="https://fox-that.techidaily.com/step-by-step-tutorial-on-draining-water-trapped-inside-iphone-speakers/"><u>Step-by-Step Tutorial on Draining Water Trapped Inside iPhone Speakers</u></a></li>
 </ul></div>
 

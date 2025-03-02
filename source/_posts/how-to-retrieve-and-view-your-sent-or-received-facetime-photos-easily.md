@@ -1,7 +1,7 @@
 ---
 title: How to Retrieve and View Your Sent or Received FaceTime Photos Easily
-date: 2025-02-08T19:01:19.526Z
-updated: 2025-02-10T20:54:37.846Z
+date: 2025-02-25T16:31:38.783Z
+updated: 2025-03-02T16:29:59.504Z
 tags:
   - iphone
   - apple
@@ -28,10 +28,6 @@ thumbnail: https://thmb.techidaily.com/7640686b3055c0a77032f97db3d754d6950a2fb76
  To view your FaceTime photos, open the**Photos** app and go to the**Library** tab at the bottom, then select the**All Photos** view to make sure your device doesn't filter them out. Scroll to the date and time you took a photo to find it.
 
 ![Library tab in the Photos app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/03-library-tab-photos-app-ios.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can simplify matters by viewing only your Live Photos. To do this, go to the**Albums** tab and look for the**Live Photos** album. Your iPhone, iPad, or Mac creates this album automatically as soon as you add a Live Photo to your library.
 
@@ -79,27 +75,15 @@ Close
 
 ![iOS Settings menu FaceTime selected](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ios-settings-menu-facetime-selected.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![FaceTime Live Photos toggle enabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/facetime-live-photos-toggle-enabled.jpg)
 
 Close
 
  On a Mac, open**FaceTime** and go to**FaceTime > Settings** from the menu bar. In the**Settings** tab, turn on the option to**Allow Live Photos to be captured during video calls** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Troubleshooting FaceTime Photo Problems
 
  There are lots of problems that might stop you from being able to snap a Live Photo during your FaceTime calls. If you can't find the shutter button, FaceTime isn't saving your photos, or you have trouble finding FaceTime photos after you take them, try these troubleshooting tips to fix it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Enable FaceTime Live Photos on Both Devices
 
@@ -111,10 +95,6 @@ Close
 
 ![Photos app on an iPhone Home Screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/share-shared-albums-with-non-apple-users.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Update to the Latest Operating System
 
  In some older versions of iOS, Apple temporarily removed the ability to take Live Photos on FaceTime. This was presumably due to a FaceTime security bug. FaceTime photos are available now, but you need to update your device to the latest software to use them. The person you're taking a photo of needs to update their device to the latest software as well.
@@ -124,10 +104,6 @@ Close
 ![Software update available in macOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/software-update-macos-settings.jpg)
 
  Install any updates that are available there by clicking**Update Now** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. Restart Your Device
 
@@ -141,19 +117,11 @@ Close
 
 ![iOS Settings menu FaceTime selected](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ios-settings-menu-facetime-selected.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![FaceTime enabled in iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/facetime-enabled-ios-1.jpg)
 
 Close
 
  On a Mac, open the**FaceTime** app and go to**FaceTime > Settings** from the menu bar. In the**Settings** tab, uncheck the box for**Enable this account** , then check the box again to re-enable FaceTime.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Revisit Your FaceTime Photos on iPhone, iPad and Mac
 
@@ -176,22 +144,15 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-unveiling-instagram-insights-a-deep-dive-into-data-trends/"><u>[Updated] In 2024, Unveiling Instagram Insights A Deep Dive Into Data Trends</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-oneplus-12-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On OnePlus 12 | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/8-remedies-for-iphone-charging-alerts-on-hold-fixes-and-tricks-revealed/"><u>8 Remedies for iPhone Charging Alerts on Hold – Fixes and Tricks Revealed!</u></a></li>
-<li><a href="https://fox-that.techidaily.com/correcting-misreported-browsing-history-in-iphones-screen-time-monitor/"><u>Correcting Misreported Browsing History in iPhone's Screen Time Monitor</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/elevating-your-instagram-conversations-an-in-depth-guide/"><u>Elevating Your Instagram Conversations An In-Depth Guide</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/find-the-ideal-tablet-for-you-a-comprehensive-look-at-comparing-devices-based-on-physical-specs/"><u>Find the Ideal Tablet for You: A Comprehensive Look at Comparing Devices Based on Physical Specs</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/fixes-for-common-frostpunk-game-crash-problems-a-comprehensive-guide/"><u>Fixes for Common Frostpunk Game Crash Problems: A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-fix-your-iphone-when-the-screen-wont-work-step-by-step-guide/"><u>How To Fix Your iPhone When The Screen Won't Work – Step By Step Guide</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/how-to-go-frame-by-frame-on-youtube-video-5-free-methods-for-2024/"><u>How to Go Frame by Frame on YouTube Video [5 Free Methods] for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-your-infinix-smart-8-plus-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Infinix Smart 8 Plus Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
-<li><a href="https://extra-information.techidaily.com/prime-setup-the-finest-4k-dslr-shoulder-rigs-reviewed/"><u>Prime Setup The Finest 4K DSLR Shoulder Rigs Reviewed</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/shield-your-snapshots-from-times-tide-explore-cost-effective-solutions/"><u>Shield Your Snapshots From Time's Tide - Explore Cost-Effective Solutions</u></a></li>
-<li><a href="https://fox-that.techidaily.com/simple-guide-adjusting-your-iphone-battery-with-6-straightforward-methods/"><u>Simple Guide: Adjusting Your iPhone Battery with 6 Straightforward Methods</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solving-iphone-touchscreen-problems-in-minutes-expert-advice/"><u>Solving iPhone Touchscreen Problems in Minutes – Expert Advice</u></a></li>
-<li><a href="https://fox-that.techidaily.com/steps-to-resolve-your-iphones-inability-to-back-up-to-icloud-9-solutions/"><u>Steps to Resolve Your iPhone's Inability to Back Up to iCloud (9 Solutions)</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-a-single-malfunctioning-airpod-a-step-by-step-guide/"><u>Troubleshooting a Single Malfunctioning AirPod: A Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-that.techidaily.com/why-your-iphone-isnt-getting-messages-from-android-fix-it-now/"><u>Why Your iPhone Isn't Getting Messages From Android? Fix It Now</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-5-best-no-cost-video-enhancement-platforms/"><u>[New] 5 Best No-Cost Video Enhancement Platforms</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-elevating-video-content-10-proven-methods-for-youtube-conversion/"><u>[New] In 2024, Elevating Video Content 10 Proven Methods for YouTube Conversion</u></a></li>
+<li><a href="https://fox-that.techidaily.com/11-proven-fixes-to-tackle-the-problem-of-no-ringing-for-incoming-calls-on-iphones/"><u>11 Proven Fixes to Tackle the Problem of No Ringing for Incoming Calls on iPhones</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/drone-titans-the-ultimate-industrial-heavylifters/"><u>Drone Titans The Ultimate Industrial Heavylifters</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721467378973-how-to-get-your-iphone-texting-again-discover-10-effective-fixes/"><u>How to Get Your iPhone Texting Again? Discover 10 Effective Fixes</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-contacts-from-edge-40-neo-by-fonelab-android-recover-contacts/"><u>How to recover deleted contacts from Edge 40 Neo.</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721461795408-iphone-control-center-glitches-discover-these-8-remedies/"><u>IPhone Control Center Glitches? Discover These 8 Remedies!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721469947717-say-goodbye-to-that-annoying-yellow-cast-on-your-iphone-screen-discover-these-9-fixing-methods/"><u>Say Goodbye to That Annoying Yellow Cast on Your iPhone Screen – Discover These 9 Fixing Methods</u></a></li>
+<li><a href="https://extra-information.techidaily.com/telegram-marketing-made-simple-for-those-just-starting-out/"><u>Telegram Marketing Made Simple For Those Just Starting Out</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-oneplus-11r-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On OnePlus 11R</u></a></li>
 </ul></div>
 

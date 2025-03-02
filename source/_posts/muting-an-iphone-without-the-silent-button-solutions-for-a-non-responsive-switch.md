@@ -1,7 +1,7 @@
 ---
 title: Muting an iPhone Without the Silent Button - Solutions for a Non-Responsive Switch
-date: 2025-02-07T00:30:08.871Z
-updated: 2025-02-10T22:00:34.150Z
+date: 2025-03-01T16:25:01.095Z
+updated: 2025-03-02T16:19:59.705Z
 tags:
   - iphone
   - apple
@@ -44,10 +44,6 @@ Close
 
 ![AssistiveTouch top-level menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-with-assistivetouch-5.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Mute option in AssistiveTouch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-with-assistivetouch-6.jpg)
 
 Close
@@ -57,10 +53,6 @@ Close
  Although this approach works fine, it involves multiple taps. As you can imagine, this won't be very practical if you switch between Ring and Silent profiles on your iPhone multiple times a day.
 
  So, a better approach would be to customize AssistiveTouch's top-level menu and add the**Mute** option on the main screen. Or, to set up a custom action for AssistiveTouch to mute or unmute the device directly.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Customize the Top Level Menu
 
@@ -78,31 +70,15 @@ Close
 
 ![customizing AssistiveTouch's top-level menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customizing-assistivetouch-top-level-menu-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![adding a new button to the AssistiveTouch menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customizing-assistivetouch-top-level-menu-3.jpg)
 
 ![selecting Mute action for the new AssistiveTouch button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customizing-assistivetouch-top-level-menu-4.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Mute action in AssistiveTouch's top-level menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customizing-assistivetouch-top-level-menu-5.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Close
 
  All you need to do now is tap the AssistiveTouch button and hit**Mute** . When you do this, the**Mute** button will change to**Unmute** , and you can tap on it again to unmute the device quickly.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Set Up a Custom Action
 
@@ -120,10 +96,6 @@ Follow these simple instructions to get this done:
 Close
 
  Once set up, muting and unmuting your iPhone should be even easier. Simply perform the gesture to which you've assigned the Mute action, and it'll mute the device. Repeat it again to unmute.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Mute or Unmute iPhone Using Back Tap
 
@@ -155,10 +127,6 @@ Close
 
  With certain iPhone cases, especially thicker ones, you might need to tap harder for the iPhone to register your taps and trigger the action.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Broken iPhone Ring/Silent Switch? No Problem
 
  A broken or malfunctioning Ring/Silent switch can make things inconvenient. This can be particularly problematic if you frequently switch between Ring and Silent sound profiles on your iPhone.
@@ -180,24 +148,20 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-effortless-audio-extraction-best-youtube-to-mp3-tools-list-for-2024/"><u>[Updated] Effortless Audio Extraction Best YouTube to MP3 Tools List for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-curating-youtube-music-experiences/"><u>[Updated] In 2024, Curating YouTube Music Experiences</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-mastering-marketing-magic-in-metaverse/"><u>[Updated] In 2024, Mastering Marketing Magic in Metaverse</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-ultimate-action-cam-editing-picks/"><u>[Updated] In 2024, Ultimate Action Cam Editing Picks</u></a></li>
-<li><a href="https://fox-that.techidaily.com/diagnosing-and-repairing-issues-with-unresponsive-airplay-technology/"><u>Diagnosing and Repairing Issues with Unresponsive AirPlay Technology</u></a></li>
-<li><a href="https://fox-that.techidaily.com/do-not-miss-alerts-get-essential-guidance-on-configuring-dnd-settings-for-iphones-to-receive-messages-and-calls/"><u>Do Not Miss Alerts: Get Essential Guidance on Configuring DND Settings for iPhones to Receive Messages and Calls!</u></a></li>
-<li><a href="https://fox-that.techidaily.com/essential-troubleshooting-steps-when-encountered-with-guided-access-problems-on-apple-iphones/"><u>Essential Troubleshooting Steps When Encountered with Guided Access Problems on Apple iPhones</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-protect-your-windows-command-history/"><u>How to Protect Your Windows Command History</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/how-to-use-android-phones-in-watching-vr-or-360-videos-2023-update-for-2024/"><u>How to Use Android Phones in Watching VR or 360 Videos -2023 Update for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/in-2024-hacking-tiktoks-video-pace-efficiently/"><u>In 2024, Hacking TikTok's Video Pace Efficiently</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-skyline-design-studio-evaluation-insightful-review-for-the-year/"><u>In 2024, Skyline Design Studio Evaluation Insightful Review for the Year</u></a></li>
-<li><a href="https://fox-that.techidaily.com/keeping-spotify-active-while-you-lock-your-iphone-a-step-by-step-guide/"><u>Keeping Spotify Active While You Lock Your iPhone - A Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-that.techidaily.com/resolve-non-loading-images-in-iphones-safari-browser-using-these-9-tricks/"><u>Resolve Non-Loading Images in iPhone's Safari Browser Using These 9 Tricks</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-ultimate-high-res-guide-best-and-worst-8k-televisions/"><u>The Ultimate High-Res Guide Best and Worst 8K Televisions</u></a></li>
-<li><a href="https://fox-that.techidaily.com/top-6-issues-preventing-visual-search-from-functioning-on-iphones-and-how-to-fix-them/"><u>Top 6 Issues Preventing Visual Search From Functioning on iPhones and How to Fix Them</u></a></li>
-<li><a href="https://article-tips.techidaily.com/top-iphone-hacks-for-capturing-stunning-skyline-shots/"><u>Top iPhone Hacks for Capturing Stunning Skyline Shots</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-making-itunesfinder-recognize-your-iphone-again/"><u>Troubleshooting: Making iTunes/Finder Recognize Your iPhone Again</u></a></li>
-<li><a href="https://fox-that.techidaily.com/uncover-8-tactics-to-resolve-iphones-stuck-on-charge-problem/"><u>Uncover 8 Tactics to Resolve iPhone's Stuck on Charge Problem</u></a></li>
-<li><a href="https://fox-that.techidaily.com/why-wont-my-iphone-read-qr-codes-discover-10-effective-remedies/"><u>Why Won't My iPhone Read QR Codes? Discover 10 Effective Remedies</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-revolutionizing-content-creation-the-future-of-live-video-on-facebook/"><u>[Updated] 2024 Approved Revolutionizing Content Creation The Future of Live Video on Facebook</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-av1-versus-vp9-the-ultimate-codec-showdown/"><u>[Updated] AV1 Versus VP9 The Ultimate Codec Showdown</u></a></li>
+<li><a href="https://fox-that.techidaily.com/airdrop-failing-to-connect-learn-how-to-resolve-it-using-these-16-tips/"><u>AirDrop Failing to Connect? Learn How to Resolve It Using These 16 Tips</u></a></li>
+<li><a href="https://howto.techidaily.com/best-methods-for-xiaomi-redmi-note-12-pro-4g-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Xiaomi Redmi Note 12 Pro 4G Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/easy-guide-revamping-your-vcenter-appliance-two-proven-methods/"><u>Easy Guide: Revamping Your vCenter Appliance - Two Proven Methods</u></a></li>
+<li><a href="https://fox-that.techidaily.com/expert-advice-restoring-hey-siri-functionality-to-its-full-potential-on-ios/"><u>Expert Advice: Restoring 'Hey Siri' Functionality to Its Full Potential on iOS</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-for-restoring-functionality-a-comprehensive-guide-to-keyboard-resets/"><u>Expert Tips for Restoring Functionality - A Comprehensive Guide to Keyboard Resets</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-mov-files-of-xiaomi-redmi-k70e-using-video-repair-utility-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and MOV files of Xiaomi Redmi K70E using Video Repair Utility on Mac?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-successfully-troubleshoot-and-fix-minecraft-error-code-n5/"><u>How to Successfully Troubleshoot and Fix Minecraft Error Code N5</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-screen-malfunctioning-effective-methods-to-restore-functionality/"><u>IPhone Screen Malfunctioning: Effective Methods to Restore Functionality</u></a></li>
+<li><a href="https://fox-that.techidaily.com/navigating-iphone-photo-management-a-guide-to-resolving-pain-points/"><u>Navigating iPhone Photo Management: A Guide to Resolving Pain Points</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/protecting-your-privacy-identifying-and-erasing-malicious-software-from-phones-expert-advice/"><u>Protecting Your Privacy: Identifying & Erasing Malicious Software From Phones - Expert Advice</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-whatsapps-overzoom-issue-a-step-by-step-guide/"><u>Solving WhatsApp's Overzoom Issue: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/struggling-with-iphone-vpn-connections-discover-these-7-troubleshooting-tips/"><u>Struggling with iPhone VPN Connections? Discover These 7 Troubleshooting Tips!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/why-is-an-imessage-showing-up-as-a-regular-sms-could-you-be-blocked/"><u>Why Is an iMessage Showing Up As a Regular SMS?: Could You Be Blocked?</u></a></li>
 </ul></div>
 

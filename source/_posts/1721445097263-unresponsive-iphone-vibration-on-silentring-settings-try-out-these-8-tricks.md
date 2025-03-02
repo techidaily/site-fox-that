@@ -1,7 +1,7 @@
 ---
 title: Unresponsive iPhone Vibration on Silent/Ring Settings? Try Out These 8 Tricks!
-date: 2024-08-15T11:56:11.984Z
-updated: 2024-08-16T11:56:11.984Z
+date: 2025-02-25T16:18:12.233Z
+updated: 2025-03-02T16:15:04.447Z
 tags:
   - iphone
   - apple
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/61dcd74c9ca257bd7a3583ce0e08424eaf979002c
 
  Your browser does not support the video tag.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ## 1\. Check Your iPhone's Current Mode
 
  Before proceeding to tweak your iPhone's sound settings, check if your iPhone is in the mode you want. Look at the side of your iPhone for the Ring/Silent switch.
@@ -39,9 +36,6 @@ thumbnail: https://thmb.techidaily.com/61dcd74c9ca257bd7a3583ce0e08424eaf979002c
 
 ![iphone settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/img_6668.JPEG)
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![iphone sounds and haptics settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/img_6667.JPEG)
 
 Close
@@ -60,9 +54,6 @@ Close
 
 Close
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Check Your Vibration Setting for Ring and Silent Mode
 
  Now, if your iPhone vibrates on Silent mode but doesn't on Ring mode (or vice versa), it's likely because you set a different vibration preference for each mode. To check this, go to**Settings > Sounds & Haptics** .
@@ -71,9 +62,6 @@ Close
 
 ![play haptics for ring and silent mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/MUO-in-article-image-(1200px-by-600px-21-ratio)-(11)-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 5\. Check the Selected Vibration Pattern for Each Alert
 
  If you have gone through the three troubleshooting methods above, but your iPhone is still not vibrating on Silent or Ring mode, it's time to check your vibration pattern settings.
@@ -84,16 +72,10 @@ Close
 
  Check that you have**Synchronized** or one of the Standard vibration patterns selected, such as**Accent** or**Alert** . If you have**Custom** selected, tap on it to play the vibration recording and make sure it's not just an accidental replica of**None** .
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ![sounds & haptics settings on iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/sounds--haptics-2.JPEG)
 
 ![iphone ringtone settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/ringtone-settings.JPEG)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ![iphone ringtone vibration settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/vibration-settings.JPEG)
 
 Close
@@ -110,9 +92,6 @@ Close
 
  Software glitches can sometimes prevent your iPhone from vibrating, whether it's on Ring or Silent mode. In such cases, simply restarting your iPhone will resolve the problem, making this troubleshooting step worth trying. Note that different steps may be required to [restart your iPhone](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) , depending on the model you own.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ## 8\. Reset All Settings
 
  If all else fails, you can attempt to reset all settings on your iPhone. This procedure returns all settings on your device to the default factory state.
@@ -123,10 +102,6 @@ Close
 
  Do not accidentally select**Erase All Content and Settings,** as this will delete all the data on your iPhone.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ![iPhone Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/settings-general.JPEG)
 
 ![general settings in iphone settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/general-3.JPEG)
@@ -135,9 +110,6 @@ Close
 
 Close
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Can You Enable Vibration for Calls and Texts Only on Your iPhone?
 
  If the solutions above worked and your iPhone can vibrate on Silent and Ring mode again, there's still a dilemma—what if you want your iPhone to only vibrate for incoming calls and texts, but not system haptics?
@@ -158,14 +130,8 @@ Close
 
  Additionally, to cut down on system haptics as much as possible on Silent mode, you can also go to**Settings > Sounds & Haptics > Keyboard Feedback** and toggle off**Haptic** . This way, you'll at least avoid experiencing tapping vibrations each time you type a letter on your iPhone's keyboard.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![iphone keyboard feedback settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/img_6645.JPEG)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Use Your iPhone's Vibrations to Be Aware of Alerts
 
  We hope this list of fixes helped you solve the problem if your iPhone wasn't vibrating in Silent or Ring mode. Since the old days of Nokia phones, vibrations have always helped us make sure we don't miss out on a call or text.
@@ -178,8 +144,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -187,6 +151,21 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-immersive-commerce-environments-design/"><u>[New] 2024 Approved Immersive Commerce Environments Design</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-top-notch-game-capture-applications-outshining-fbx-capabilities/"><u>[New] 2024 Approved Top-Notch Game Capture Applications Outshining FBX Capabilities</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-3-pro-level-plans-to-preserve-precise-gaming-moments-for-2024/"><u>[New] 3 Pro-Level Plans to Preserve Precise Gaming Moments for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/rowing-presence-in-video-platforms-via-short-films-for-2024/"><u>[New] Growing Presence in Video Platforms via Short Films for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-mastering-digital-compositing-with-kinemasters-gs-capabilities-for-2024/"><u>[New] Mastering Digital Compositing with KineMaster's GS Capabilities for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/audiences-choice-in-drama-writings-for-2024/"><u>Audience's Choice in Drama Writings for 2024</u></a></li>
+<li><a href="https://media-tips.techidaily.com/easy-steps-to-connect-and-stream-from-iphone-6s-ios-9-to-google-chromecast/"><u>Easy Steps to Connect and Stream From iPhone 6S, iOS 9 to Google Chromecast</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721470787862-fix-your-ios-widget-problems-in-under-15-minutes-top-methods-inside/"><u>Fix Your iOS Widget Problems in Under 15 Minutes – Top Methods Inside</u></a></li>
+<li><a href="https://games-able.techidaily.com/gamers-ultimate-companion-high-refresh-rate-panels/"><u>Gamers’ Ultimate Companion: High-Refresh Rate Panels</u></a></li>
+<li><a href="https://extra-information.techidaily.com/inspiring-14-animated-text-concepts/"><u>Inspiring 14 Animated Text Concepts</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-wont-backup-to-icloud-attempt-these-easy-to-follow-9-fixes/"><u>IPhone Won't Backup to iCloud? Attempt These Easy-to-Follow 9 Fixes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solve-your-airplay-problems-effective-fixes-when-it-stops-working/"><u>Solve Your AirPlay Problems: Effective Fixes When It Stops Working</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-iphone-why-your-device-wont-vibrate-in-silentring-modes-top-8-solutions/"><u>Troubleshooting iPhone: Why Your Device Won't Vibrate in Silent/Ring Modes – Top 8 Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unresponsive-iphone-silent-switch-easy-alternative-methods-to-control-your-ringer/"><u>Unresponsive iPhone Silent Switch? Easy Alternative Methods to Control Your Ringer</u></a></li>
+</ul></div>
 

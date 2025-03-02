@@ -1,7 +1,7 @@
 ---
 title: "Unstuck Your Family Sharing: Essential Steps & Quick Fixes You Must Try"
-date: 2025-02-09T17:14:34.779Z
-updated: 2025-02-11T06:32:02.942Z
+date: 2025-02-25T16:33:47.326Z
+updated: 2025-03-02T16:34:22.338Z
 tags:
   - iphone
   - apple
@@ -22,10 +22,6 @@ thumbnail: https://thmb.techidaily.com/99663f80a681577ef6d172804500e3555c286bc17
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Check Apple's System Status Page
 
@@ -52,10 +48,6 @@ Here's how to turn it on using an iPhone or iPad:
 
 ![Family menu on iOS 16 Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/1.jpeg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Family purchase sharing prompt screen on iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/2.jpeg)
 
 ![Purchase Sharing menu displaying payment options and family members on iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/3-1.jpeg)
@@ -69,10 +61,6 @@ And here's how to do the same on a Mac:
 3. Follow the on-screen prompts by clicking**Continue,** then**Turn On Purchase Sharing.**
 
 ![Purchase Sharing prompt in System Settings on macOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/purchase-sharing-prompt-in-system-settings-on-macos.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 This might fix your issue, but try the next step if it doesn't.
 
@@ -105,15 +93,7 @@ Here's a quick way to do it on your browser:
 
 ![Media & Purchases sub-settings in Apple ID menu on iOS Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/2-1.jpeg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Prompt to confirm Media & Purchases sign out on iOS Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/3-2.jpeg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Close
 
@@ -144,10 +124,6 @@ If the problematic device is a Mac, do this instead:
 
 ![System Settings Apple ID page displaying sign out button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/system-settings-apple-id-page-displaying-sign-out-button.jpeg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  This should refresh the App Store and other apps, and it should now recognize that the signed-in Apple ID has access to the shared subscriptions.
 
 ## 6\. Add the Family Member Again
@@ -162,15 +138,7 @@ Here's how to do it on iOS and iPadOS:
 
 ![Family menu on iOS 16 Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/1.jpeg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Faizah's Family menu displaying option to Remove Faizah from Family](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/faizah-s-family-menu-displaying-option-to-remove-faizah-from-family.jpeg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Close
 
@@ -207,14 +175,19 @@ If you're on a Mac, follow these steps instead:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-skyrocketing-performance-boosting-ram-in-minecraft/"><u>[Updated] 2024 Approved Skyrocketing Performance Boosting RAM in Minecraft</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-enhancing-visual-impact-a-guide-to-jump-cut-techniques-for-2024/"><u>[Updated] Enhancing Visual Impact A Guide to Jump Cut Techniques for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/6-common-problems-with-iphones-look-up-functionality-solutions-inside/"><u>6 Common Problems with iPhone's Look Up Functionality – Solutions Inside</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-from-your-iphone-6-plus-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code From your iPhone 6 Plus</u></a></li>
-<li><a href="https://fox-that.techidaily.com/imessage-blocker-detection-tips-how-to-tell-if-your-message-recipient-has-restricted-communication-with-you/"><u>IMessage Blocker Detection Tips: How to Tell if Your Message Recipient Has Restricted Communication with You</u></a></li>
-<li><a href="https://fox-that.techidaily.com/retrieving-your-iphone-pictures-in-icloud-8-essential-fixes-for-accidental-deletes/"><u>Retrieving Your iPhone Pictures in iCloud: 8 Essential Fixes for Accidental Deletes</u></a></li>
-<li><a href="https://driver-download.techidaily.com/step-by-step-tutorial-for-updating-your-intel-gen9-iris-graphics-54er-with-latest-driver-software/"><u>Step-by-Step Tutorial for Updating Your Intel Gen9 Iris Graphics 54Er with Latest Driver Software</u></a></li>
-<li><a href="https://fox-that.techidaily.com/tackling-iphone-photography-troubles-a-guide-with-8-essential-fixes/"><u>Tackling iPhone Photography Troubles: A Guide with 8 Essential Fixes</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/the-affordable-gaming-companion-an-in-depth-look-at-the-nintendo-switch-lite-edition/"><u>The Affordable Gaming Companion: An In-Depth Look at the Nintendo Switch Lite Edition</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-harmonizing-content-and-sound-in-instagram-reels/"><u>[New] In 2024, Harmonizing Content & Sound in Instagram Reels</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-requesting-for-unrestricted-access-to-shared-visual-and-audio-content/"><u>[New] Requesting for Unrestricted Access to Shared Visual & Audio Content</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-examining-the-efficiency-of-m1-for-editing-software/"><u>[Updated] 2024 Approved Examining the Efficiency of M1 for Editing Software</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-becoming-a-video-wizard-with-screencast-insider-tips/"><u>[Updated] Becoming a Video Wizard with Screencast Insider Tips</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-cut-copy-and-paste-quickly-create-perfect-video-conclusions-no-cost-for-2024/"><u>[Updated] Cut, Copy & Paste Quickly Create Perfect Video Conclusions (No Cost) for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-avoiding-common-pitfalls-using-movie-maker-on-windows-8/"><u>2024 Approved Avoiding Common Pitfalls Using Movie Maker on Windows 8</u></a></li>
+<li><a href="https://fox-that.techidaily.com/effortless-entry-into-recovery-a-beginners-manual-for-ipad-troubleshooting/"><u>Effortless Entry Into Recovery: A Beginner's Manual for iPad Troubleshooting</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-your-airplay-problems-a-step-by-step-guide/"><u>Fixing Your AirPlay Problems: A Step-by-Step Guide</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Samsung Galaxy XCover 6 Pro Tactical Edition? | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/perfecting-image-clarity-a-guide-to-correcting-blur-with-iphone-tricks/"><u>Perfecting Image Clarity: A Guide to Correcting Blur with iPhone Tricks</u></a></li>
+<li><a href="https://fox-that.techidaily.com/signs-of-being-blocked-on-imessage-how-to-tell-if-someone-has-restricted-your-messages/"><u>Signs of Being Blocked on iMessage: How to Tell If Someone Has Restricted Your Messages</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/stable-vr-experience-8-ways-to-prevent-nausea/"><u>Stable VR Experience 8 Ways to Prevent Nausea</u></a></li>
+<li><a href="https://win-answers.techidaily.com/steam-cloud-desync-error-solutions-and-troubleshooting-guide/"><u>Steam Cloud Desync Error - Solutions and Troubleshooting Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/understanding-the-limitations-5-reasons-for-no-gift-sending-on-apple-products/"><u>Understanding the Limitations: 5 Reasons for No Gift-Sending on Apple Products</u></a></li>
 </ul></div>
 

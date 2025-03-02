@@ -1,7 +1,7 @@
 ---
 title: How to Fix a Non-Responsive iPhone Proximity Detector
-date: 2024-08-22T23:00:50.497Z
-updated: 2024-08-23T23:00:50.497Z
+date: 2025-02-24T16:15:56.412Z
+updated: 2025-03-02T16:25:53.620Z
 tags:
   - iphone
   - apple
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/60aeb73e6646ca7cba89b069f503754c9115c11cb
 
 ## How to Test the Proximity Sensor on an iPhone
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ![A gray iPhone 6 on a woman's ear](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/a-gray-iphone-6-on-a-woman-s-ear.jpg)
 
  The iPhone's proximity sensor uses infrared light from an emitter at the top of your screen. The sensor measures how long it takes for the rays to reflect off a surface to determine the distance.
@@ -42,9 +39,6 @@ Here are some things you could do to check if it's working:
 
 1\. Clean the Top Half of the Screen
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![person cleaning a phone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/cleaning-phone.jpg)
 
  The most likely culprit is dirt and gunk that has accumulated on the top half of your screen, making it difficult for the emitter or sensor to work. You will run into this issue if you have sweaty or oily skin.
@@ -53,9 +47,6 @@ Here are some things you could do to check if it's working:
 
  Be careful not to use rubbing alcohol, window cleaners, vinegar, or any similar grease-cutting products, as they could eat away your screen's coating.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. Restart the Target Application or Your iPhone
 
  If you notice that your proximity sensor is still not working after cleaning your screen, it could be the app (like WhatsApp or the Phone app) or iOS misbehaving.
@@ -70,14 +61,8 @@ Here are some things you could do to check if it's working:
 
 ![iPhone searching for updates in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-searching-for-updates-in-settings.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Software update information on iOS for iOS 16.6](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/software-update-information-on-ios-for-ios-16-6.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Update terms and conditions on iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/update-terms-and-conditions-on-ios.jpeg)
 
 Close
@@ -86,9 +71,6 @@ Close
 
 ### 4\. Remove the Screen Protector
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ![man applying screen protector to smartphone feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/man-applying-screen-protector-to-smartphone-feature.jpg)
 
  Image Credit: Nor Gal/[Shutterstock](https://www.shutterstock.com/image-photo/man-replacing-broken-tempered-glass-screen-1106925758)
@@ -126,8 +108,6 @@ Here's a brief rundown of how to do it:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -135,6 +115,22 @@ Here's a brief rundown of how to do it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/updated-guide-backing-up-camera-roll-to-snapchat-in-the-right-way-for-2024/"><u>[Updated] Guide – Backing Up Camera Roll to Snapchat In the Right Way for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-what-is-the-youtube-creator-studio-in-2024/"><u>[Updated] What Is the YouTube Creator Studio, In 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/audio-extraction-simplified-with-pazera-tools-in-the-new-era/"><u>Audio Extraction Simplified with Pazera Tools in the New Era</u></a></li>
+<li><a href="https://fox-that.techidaily.com/effective-solutions-for-pausing-resume-problems-with-ios-software-enhancements/"><u>Effective Solutions for Pausing-Resume Problems with iOS Software Enhancements</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-realme-11x-5g-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Realme 11X 5G Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-vivo-t2x-5g-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Vivo T2x 5G to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-cant-back-up-with-icloud/"><u>IPhone Can't Back Up with iCloud?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-wont-send-text-messages-10-tips-and-fixes/"><u>IPhone Won't Send Text Messages? 10 Tips and Fixes</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/premier-selection-top-8-webcams-transform-livestreaming/"><u>Premier Selection Top 8 Webcams Transform Livestreaming</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solve-your-iphones-qr-code-scanning-problems-with-these-10-tips/"><u>Solve Your iPhone's QR Code Scanning Problems with These 10 Tips</u></a></li>
+<li><a href="https://fox-that.techidaily.com/steps-to-have-your-iphone-assessed-through-apples-online-tech-support/"><u>Steps To Have Your iPhone Assessed Through Apple's Online Tech Support</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-contacts-on-xiaomi-redmi-note-12r-without-backup-by-fonelab-android-recover-contacts/"><u>The way to recover deleted contacts on Xiaomi Redmi Note 12R without backup.</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-10-swift-solutions-get-your-iphone-and-ipad-widgets-running-smoothly/"><u>Top 10 Swift Solutions: Get Your iPhone & iPad Widgets Running Smoothly</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-protectors-for-your-new-iphone-16-and-16-pro-industry-experts-reveal-the-choices-techguardian/"><u>Top-Rated Protectors for Your New iPhone 16 & 16 Pro - Industry Experts Reveal the Choices | TechGuardian</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-instagram-delays-top-6-solutions-for-both-android-and-ios-users/"><u>Troubleshooting Instagram Delays: Top 6 Solutions for Both Android & iOS Users</u></a></li>
+</ul></div>
 

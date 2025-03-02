@@ -1,7 +1,7 @@
 ---
 title: "Eliminate Blurry Pics: A Guide to Perfect iPhone Snapshots"
-date: 2024-08-22T22:59:12.471Z
-updated: 2024-08-23T22:59:12.471Z
+date: 2025-03-01T16:33:10.953Z
+updated: 2025-03-02T16:20:57.100Z
 tags:
   - iphone
   - apple
@@ -40,32 +40,20 @@ thumbnail: https://thmb.techidaily.com/7e3fbcfe204dfbd52573599aedc96b853d77272f3
 
  You can achieve this by not holding your breath while shooting and ensuring that you press the capture button at the end of exhaling. Using volume buttons instead of the Shutter button to capture can also improve stability.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Person taking a photo with an iPhone Pro](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/how-to-keep-iphone-camera-night-mode-always-off-in-ios-15.jpg)
 
  If you struggle with this, you can place your iPhone on a surface, or if you're ready to spend a few bucks, you can invest in a tripod stand for your iPhone.
 
  For expert recommendations, check out our roundup of [the best phone tripods](https://www.makeuseof.com/tag/whats-best-phone-tripod/) . If you're the DIY type and are willing to invest time in making your own, here are [cheap and easy DIY smartphone tripod stands](https://www.makeuseof.com/tag/3-cheap-easy-diy-smartphone-tripod-mounts-made-tested-si-x3/) that will keep you engaged this weekend.
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ## 4\. Disable the AE/AF Lock
 
  Auto-exposure (AE) and Auto-focus (AF) features on your iPhone camera are important for setting fixed focus and exposure values. AE/AF ensures that your device always retains the exposure and focus on the subject. Even if you change the distance between you and the subject by either walking towards or away from it, your device will not refocus.
 
  This is perfect as long as you remain in the same position. But if the distance between your device and the subject changes, the AE/AF lock will cause your images to look blurry. If the feature is enabled, you'll see a yellow box with**AE/AF Lock** in your camera's view.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ![AE/AF Lock enabled on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/aeaf-lock-enabled-iphone.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![AE/AF Lock disabled on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/aeaf-lock-disabled-ios.jpg)
 
 Close
@@ -78,9 +66,6 @@ Close
 
  But the more you zoom in, the more your images lose details. Images will lose their sharpness and become blurry at maximum zoom levels. If you've zoomed in, reduce the zoom until you can capture the image without quality degradation.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Zoomed-in view in iOS Camera app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/zoomed-in-view-iphone-camera.jpg)
 
 ![Standard view in iOS Camera app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/standard-view-iphone-camera.jpg)
@@ -93,9 +78,6 @@ Close
 
  If you have magnetic or metallic accessories on your iPhone, they might interfere with your camera's ability to focus. Common culprits include phone cases and camera accessories like a magnetic lens mount or a lens converter.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![iPhone covered in case with moment macro lens attached](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/iphone-with-moment-lens-case.jpg)
 
  These accessories commonly cause motion blur in low-light situations, according to Apple. So, remove the accessories and try taking a photo, then see if the issue has been fixed. If this fixes your blurry iPhone camera, remove the accessory whenever you want to shoot.
@@ -106,9 +88,6 @@ Close
 
  You might not be a believer in this catch-all solution, but it's been proven that [restarting fixes most smartphone problems](https://www.makeuseof.com/why-restarting-smartphone-fixes-most-problems/) . Go ahead and do it, then [open your iPhone's Camera app](https://www.makeuseof.com/alternate-ways-to-open-iphone-camera/) again and check if your problem is fixed.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ## Take Clear Pictures on Your iPhone
 
  Taking clear images on your iPhone requires the software and hardware to be in great condition or set up correctly. If your iPhone's camera has been taking blurry pictures, try all the solutions above.
@@ -121,8 +100,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -130,6 +107,26 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-adding-sparkle-to-your-content-incorinasing-unique-story-emojis-for-2024/"><u>[New] Adding Sparkle to Your Content Incorinasing Unique Story Emojis for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/11-ways-to-fix-when-your-airpods-are-undetected-by-apples-find-my/"><u>11 Ways to Fix When Your AirPods Are Undetected by Apple's 'Find My'</u></a></li>
+<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-motorola-moto-g13-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Motorola Moto G13 | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/from-hush-to-boom-easy-fixes-for-an-iphones-audio-issues/"><u>From Hush to Boom: Easy Fixes for an iPhone’s Audio Issues</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/galactic-gateway-top-10-sci-fi-movies-that-transcend-reality/"><u>Galactic Gateway Top 10 Sci-Fi Movies that Transcend Reality</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-easily-obtain-and-install-gigabyte-z370p-drivers-step-by-step-guide-with-downloads/"><u>How to Easily Obtain and Install Gigabyte Z370P Drivers - Step-by-Step Guide with Downloads</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721470080429-how-to-fix-your-iphone-cant-be-seen-in-itunes-or-finder-quick-solutions/"><u>How to Fix Your iPhone Can't Be Seen in iTunes or Finder: Quick Solutions</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/illuminating-seamless-transitions-in-song-production-crossfade/"><u>Illuminating Seamless Transitions in Song Production (Crossfade)</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Xiaomi Civi 3 Disney 100th Anniversary Edition | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-obs-armada-cameras-at-full-power-again/"><u>In 2024, OBS Armada Cameras at Full Power Again</u></a></li>
+<li><a href="https://article-files.techidaily.com/joining-forces-in-video-marketing-on-youtube/"><u>Joining Forces in Video Marketing on YouTube</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-common-challenges-with-iphone-guided-access-functionality/"><u>Overcoming Common Challenges with iPhone Guided Access Functionality</u></a></li>
+<li><a href="https://fox-that.techidaily.com/reviving-your-iphone-overcoming-limited-access-when-sos-is-displayed-on-the-status-bar/"><u>Reviving Your iPhone: Overcoming Limited Access when SOS Is Displayed on the Status Bar</u></a></li>
+<li><a href="https://fox-that.techidaily.com/secure-your-device-today-discover-why-ios-153-is-a-must-have-update/"><u>Secure Your Device Today: Discover Why iOS 15.3 Is a Must-Have Update</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solve-your-iphones-facial-recognition-problem-with-these-14-proven-techniques/"><u>Solve Your iPhone's Facial Recognition Problem with These 14 Proven Techniques</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/step-by-step-guide-to-correcting-tdr-problems-with-atikmpagsys-in-windows-11/"><u>Step-by-Step Guide to Correcting TDR Problems with atikmpag.sys in Windows 11</u></a></li>
+<li><a href="https://blog-min.techidaily.com/step-by-step-guide-converting-your-classic-vhs-tapes-into-digital-format-with-dvd/"><u>Step-by-Step Guide: Converting Your Classic VHS Tapes Into Digital Format with DVD</u></a></li>
+<li><a href="https://fox-that.techidaily.com/struggling-with-a-non-functioning-contacts-app-on-your-iphone-discover-3-easy-solutions/"><u>Struggling with a Non-Functioning Contacts App on Your iPhone? Discover 3 Easy Solutions!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/urgent-update-how-essential-is-it-to-upgrade-to-ios-153-immediately/"><u>Urgent Update: How Essential Is It To Upgrade to iOS 15.3 Immediately?</u></a></li>
+</ul></div>
 

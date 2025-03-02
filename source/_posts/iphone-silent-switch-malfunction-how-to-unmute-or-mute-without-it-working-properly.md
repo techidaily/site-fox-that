@@ -1,7 +1,7 @@
 ---
 title: "IPhone Silent Switch Malfunction: How To Unmute or Mute Without It Working Properly"
-date: 2025-02-09T10:26:43.922Z
-updated: 2025-02-11T10:52:54.109Z
+date: 2025-02-26T16:37:17.100Z
+updated: 2025-03-02T16:26:56.735Z
 tags:
   - iphone
   - apple
@@ -34,10 +34,6 @@ thumbnail: https://thmb.techidaily.com/2ca46c2a129dc1360b713c04a30f75e3e36c2cb0f
 
 ![iPhone Accessibility settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-with-assistivetouch-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Touch settings on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-with-assistivetouch-3.jpg)
 
 ![enabling AssistiveTouch on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-with-assistivetouch-4.jpg)
@@ -48,15 +44,7 @@ Close
 
 ![AssistiveTouch top-level menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-with-assistivetouch-5.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Mute option in AssistiveTouch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-with-assistivetouch-6.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Close
 
@@ -80,33 +68,17 @@ Close
 
 ![AssistiveTouch settings on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customizing-assistivetouch-top-level-menu-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![customizing AssistiveTouch's top-level menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customizing-assistivetouch-top-level-menu-2.jpg)
 
 ![adding a new button to the AssistiveTouch menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customizing-assistivetouch-top-level-menu-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![selecting Mute action for the new AssistiveTouch button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customizing-assistivetouch-top-level-menu-4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![Mute action in AssistiveTouch's top-level menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customizing-assistivetouch-top-level-menu-5.jpg)
 
 Close
 
  All you need to do now is tap the AssistiveTouch button and hit**Mute** . When you do this, the**Mute** button will change to**Unmute** , and you can tap on it again to unmute the device quickly.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Set Up a Custom Action
 
@@ -155,10 +127,6 @@ Close
 
  With certain iPhone cases, especially thicker ones, you might need to tap harder for the iPhone to register your taps and trigger the action.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Broken iPhone Ring/Silent Switch? No Problem
 
  A broken or malfunctioning Ring/Silent switch can make things inconvenient. This can be particularly problematic if you frequently switch between Ring and Silent sound profiles on your iPhone.
@@ -180,19 +148,17 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-discover-the-ultimate-websites-delivering-artful-text-styling-for-2024/"><u>[New] Discover the Ultimate Websites Delivering Artful Text Styling for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-becoming-an-instagram-editor-extraordinaire/"><u>[Updated] In 2024, Becoming an Instagram Editor Extraordinaire</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-navigating-through-the-world-of-directed-interaction/"><u>[Updated] In 2024, Navigating Through the World of Directed Interaction</u></a></li>
-<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-motorola-edgeplus-2023-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Motorola Edge+ (2023) | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/banish-wi-fi-dropouts-on-your-iphone-discover-5-effective-strategies-now/"><u>Banish Wi-Fi Dropouts on Your iPhone: Discover 5 Effective Strategies Now</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/deciphering-value-4-compelling-factors-for-vision-pro/"><u>Deciphering Value: 4 Compelling Factors for Vision Pro</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exclusive-apple-watch-series/"><u>Exclusive Apple Watch Series</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fix-common-phone-troubles-with-a-simple-reboot-technique/"><u>Fix Common Phone Troubles with a Simple Reboot Technique</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fixing-a-frozen-or-unresponsive-iphone-screen-quickly-and-easily/"><u>Fixing a Frozen or Unresponsive iPhone Screen Quickly and Easily</u></a></li>
-<li><a href="https://fox-that.techidaily.com/imessage-to-sms-transition-how-to-tell-if-someone-has-blocked-you-on-iphone/"><u>IMessage to SMS Transition: How to Tell if Someone Has Blocked You on iPhone?</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-setting-up-video-size-on-youtube-complete-tutorial/"><u>In 2024, Setting Up Video Size on YouTube Complete Tutorial</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-your-lava-blaze-2s-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Lava Blaze 2s Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
-<li><a href="https://fox-that.techidaily.com/key-points-to-understand-regarding-battery-health-challenges-for-iphone-14-owners/"><u>Key Points to Understand Regarding Battery Health Challenges for iPhone 14 Owners</u></a></li>
-<li><a href="https://fox-that.techidaily.com/overcoming-common-problems-enabling-your-iphone-to-pair-with-a-desktop-or-laptop/"><u>Overcoming Common Problems: Enabling Your iPhone to Pair with a Desktop or Laptop</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-from-social-tv-viewing-to-funny-interactive-gifs-a-twitter-video-journey/"><u>[New] 2024 Approved From Social TV Viewing to Funny, Interactive Gifs A Twitter Video Journey</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-professional-tiktok-videos-with-strategic-zoom-use/"><u>[Updated] Professional TikTok Videos with Strategic Zoom Use</u></a></li>
+<li><a href="https://fox-that.techidaily.com/aqua-alert-recognizing-the-9-warning-signs-of-your-iphones-brush-with-moisture/"><u>Aqua Alert: Recognizing the 9 Warning Signs of Your iPhone's Brush with Moisture</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beat-the-wait-fast-talk-with-nvidias-rtx-chatbot/"><u>Beat The Wait: Fast Talk with Nvidia's RTX Chatbot</u></a></li>
+<li><a href="https://fox-that.techidaily.com/bottlenecks-in-mobile-internet-discovering-why-your-phones-wi-fi-is-slow/"><u>Bottlenecks in Mobile Internet: Discovering Why Your Phone's Wi-Fi Is Slow</u></a></li>
+<li><a href="https://fox-that.techidaily.com/expert-solutions-to-overcome-the-iphone-black-screen-dilemma/"><u>Expert Solutions to Overcome the iPhone Black Screen Dilemma</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-tips-on-connecting-and-using-a-bose-bluetooth-soundlink-system/"><u>Expert Tips on Connecting and Using a Bose Bluetooth SoundLink System</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/must-watch-adolescent-adventures-on-netflix/"><u>Must-Watch Adolescent Adventures on Netflix</u></a></li>
+<li><a href="https://games-able.techidaily.com/next-gen-contenders-sxs-versus-high-end-pc/"><u>Next-Gen Contenders: SXS Versus High-End PC</u></a></li>
+<li><a href="https://fox-that.techidaily.com/quick-fixes-restoring-access-by-resetting-your-iphone-ipad-or-mac-screen-time-passcode/"><u>Quick Fixes: Restoring Access by Resetting Your iPhone, iPad or Mac Screen Time Passcode</u></a></li>
+<li><a href="https://fox-that.techidaily.com/speed-up-your-iphone-safari-essential-techniques-for-a-faster-web-browsing-experience/"><u>Speed up Your iPhone Safari: Essential Techniques for a Faster Web Browsing Experience</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-samsung-galaxy-s24plus-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Samsung Galaxy S24+ IMEI without Root A Comprehensive Guide</u></a></li>
 </ul></div>
 

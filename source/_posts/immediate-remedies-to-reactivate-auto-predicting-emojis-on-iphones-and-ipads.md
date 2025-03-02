@@ -1,7 +1,7 @@
 ---
 title: Immediate Remedies to Reactivate Auto-Predicting Emojis on iPhones & iPads
-date: 2025-02-07T07:40:19.697Z
-updated: 2025-02-10T22:21:07.615Z
+date: 2025-03-01T16:15:46.481Z
+updated: 2025-03-02T16:19:32.627Z
 tags:
   - iphone
   - apple
@@ -35,10 +35,6 @@ thumbnail: https://thmb.techidaily.com/81ebff8fdaf42fd74fab3caf1df319bd8e37362bc
 
 ![Predictive Emoji not working on an iPhone with blank space instead of emoji.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/2-predictive-emoji-not-working-on-an-iphone-with-blank-space-instead-of-emoji.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Make Sure Predictive Emojis Are Turned On
 
  First, check if you have the Emoji keyboard enabled on your device. Head to **Settings > General > Keyboard > Keyboards > Add a New Keyboard** , then find and select**Emoji** .
@@ -48,10 +44,6 @@ thumbnail: https://thmb.techidaily.com/81ebff8fdaf42fd74fab3caf1df319bd8e37362bc
  Now, make sure the**Predictive** function is enabled. Go back to**Settings > General > Keyboard** , then scroll down and enable the**Predictive** toggle.
 
 ![Predictive option enabled in iPhone settings.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/4-predictive-option-enabled-in-iphone-settings.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Switch to Apple's English Keyboard
 
@@ -79,15 +71,7 @@ thumbnail: https://thmb.techidaily.com/81ebff8fdaf42fd74fab3caf1df319bd8e37362bc
 
 ![Predictive Emoji showing laughing options.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/8-predictive-emoji-showing-laughing-options.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You should repeat this process for every app where predictive emoji is not working.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Reset Your Keyboard Dictionary
 
@@ -105,10 +89,6 @@ thumbnail: https://thmb.techidaily.com/81ebff8fdaf42fd74fab3caf1df319bd8e37362bc
 
 ![Deleting Emoji keyboard on an iPhone.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/10-deleting-emoji-keyboard-on-an-iphone.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Tap**Add New Keyboard** , then select**Emoji** to add it again.
 
 ## 6\. Restart Your iPhone or iPad
@@ -117,19 +97,11 @@ thumbnail: https://thmb.techidaily.com/81ebff8fdaf42fd74fab3caf1df319bd8e37362bc
 
 ![Slide to power off option on iPhone.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/11-slide-to-power-off-option-on-iphone.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. Update Your Software
 
  Apple does its best to improve your iPhone and iPad software with every update. These updates include fixing common bugs that pester users, like when the Predictive Emoji feature stops working. To update your software to the latest version of iOS or iPadOS, head to**Settings > General > Software Update** .
 
 ![Checking for update on iPhone.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/12-checking-for-update-on-iphone.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If your software is out of date, you'll see a**Download and Install** button at the bottom of the screen. Tap it and follow the prompts to complete the update.
 
@@ -152,22 +124,22 @@ thumbnail: https://thmb.techidaily.com/81ebff8fdaf42fd74fab3caf1df319bd8e37362bc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-cutting-edge-tools-for-digital-video-capture/"><u>[New] In 2024, Cutting-Edge Tools for Digital Video Capture</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-top-8-android-fixes-for-time-lags-in-videos-for-2024/"><u>[New] Top 8 Android Fixes for Time-Lags in Videos for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-discover-the-leading-mobile-movie-units/"><u>2024 Approved Discover the Leading Mobile Movie Units</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/a-compreayers-manual-turning-pre-recorded-footage-online-live-for-2024/"><u>A Compreayer's Manual Turning Pre-Recorded Footage Online Live for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fix-your-iphones-charge-on-hold-warning-in-just-8-steps/"><u>Fix Your iPhone's Charge-On-Hold Warning in Just 8 Steps!</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fixing-only-sos-issue-effective-methods-for-reviving-an-iphones-status-bar-features/"><u>Fixing 'Only SOS' Issue: Effective Methods for Reviving an iPhone's Status Bar Features</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-activate-and-restart-your-iphone-without-button-functionality-easy-fixes-for-common-issues/"><u>How To Activate and Restart Your iPhone Without Button Functionality - Easy Fixes for Common Issues</u></a></li>
-<li><a href="https://fox-that.techidaily.com/navigating-iphone-bluetooth-pairing-for-beginners-a-simple-guide/"><u>Navigating iPhone Bluetooth Pairing for Beginners - A Simple Guide</u></a></li>
-<li><a href="https://win-blog.techidaily.com/resolve-steam-remote-play-glitches-using-simple-techniques/"><u>Resolve Steam Remote Play Glitches Using Simple Techniques</u></a></li>
-<li><a href="https://fox-that.techidaily.com/roblox-crashing-due-to-insufficient-memory-heres-how-to-resolve-it/"><u>Roblox Crashing Due to Insufficient Memory? Here's How to Resolve It!</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/samsung-photo-editor-review-2023-pros-con-features-and-guide/"><u>Samsung Photo Editor Review 2023 - Pros, Con, Features, and Guide</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/thoughtful-interactions-employing-gpt-ethically/"><u>Thoughtful Interactions: Employing GPT Ethically</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Motorola Moto G24 | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/top-6-ways-to-restore-functionality-of-your-idevices-keypad/"><u>Top 6 Ways to Restore Functionality of Your iDevice's Keypad</u></a></li>
-<li><a href="https://fox-that.techidaily.com/top-9-solutions-to-correct-your-iphones-yellow-discoloration-issue/"><u>Top 9 Solutions to Correct Your iPhone’s Yellow Discoloration Issue</u></a></li>
-<li><a href="https://win-blog.techidaily.com/ultimate-guide-lower-ping-and-enhance-gameplay-smoothness-in-valheim-windows/"><u>Ultimate Guide: Lower Ping & Enhance Gameplay Smoothness in Valheim (Windows)</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721479762042-unstick-your-iphone-phone-calls-discover-these-10-fixes/"><u>Unstick Your iPhone Phone Calls – Discover These 10 Fixes!</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-digital-gallery-music-meets-images-for-2024/"><u>[New] Digital Gallery Music Meets Images for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-navigate-10-top-free-web-explorers-for-remote-collaboration/"><u>[Updated] 2024 Approved Navigate 10 Top Free Web Explorers for Remote Collaboration</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-starlight-strategies-dos-and-donts-for-perfect-nightscape-portraits-for-2024/"><u>[Updated] Starlight Strategies Do's & Don'ts for Perfect Nightscape Portraits for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/7-rapid-repairs-troubleshooting-stuck-predictive-emojis-on-iphones-and-ipads/"><u>7 Rapid Repairs: Troubleshooting Stuck Predictive Emojis on iPhones & iPads</u></a></li>
+<li><a href="https://fox-that.techidaily.com/cant-use-silent-switch-on-iphone-discover-other-ways-to-control-sound-settings/"><u>Can't Use Silent Switch on iPhone? Discover Other Ways to Control Sound Settings</u></a></li>
+<li><a href="https://change-location.techidaily.com/honor-v-purse-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Honor V Purse Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-restore-your-iphones-volume-buttons-top-7-tips-and-tricks/"><u>How to Restore Your iPhone's Volume Buttons - Top 7 Tips and Tricks</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-troubleshoot-and-repair-iphone-standby-malfunction-in-4-steps/"><u>How to Troubleshoot and Repair iPhone Standby Malfunction in 4 Steps</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-turn-off-motion-following-sound-feature-on-your-apple-airpods/"><u>How to Turn Off Motion-Following Sound Feature on Your Apple AirPods</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-free-licensed-soundtracks-for-gamers-a-complete-list/"><u>In 2024, Free, Licensed Soundtracks for Gamers - A Complete List</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-honor-x8b-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Honor X8b? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-vivo-t2x-5g-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Vivo T2x 5G</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-screen-woes-recover-lost-or-missing-app-icons-with-these-fixes/"><u>IPhone Screen Woes: Recover Lost or Missing App Icons with These Fixes!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcome-face-id-failures-on-your-iphone-with-our-comprehensive-list-of-14-remedies/"><u>Overcome Face ID Failures on Your iPhone with Our Comprehensive List of 14 Remedies</u></a></li>
+<li><a href="https://win-guides.techidaily.com/top-m2-nvme-ssd-kloner-effizientes-duplizieren-auf-zwei-methoden/"><u>Top-M.2 NVMe SSD Kloner: Effizientes Duplizieren Auf Zwei Methoden</u></a></li>
+<li><a href="https://article-helps.techidaily.com/unpacking-the-essence-of-digital-tales/"><u>Unpacking the Essence of Digital Tales</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unstick-your-iphones-voicemail-functionality-a-guide-to-9-quick-fixes/"><u>Unstick Your iPhone's Voicemail Functionality: A Guide to 9 Quick Fixes</u></a></li>
 </ul></div>
 

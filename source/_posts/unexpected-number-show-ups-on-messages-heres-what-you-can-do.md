@@ -1,7 +1,7 @@
 ---
 title: Unexpected Number Show-Ups on Messages? Here’s What You Can Do!
-date: 2025-02-07T20:27:39.370Z
-updated: 2025-02-11T05:14:14.125Z
+date: 2025-02-26T16:50:52.195Z
+updated: 2025-03-02T16:09:42.625Z
 tags:
   - iphone
   - apple
@@ -35,19 +35,11 @@ thumbnail: https://thmb.techidaily.com/8e153531bfb1cc2249d2aa88119afd6c59e7a577b
 
  However, this is usually a temporary issue and should fix itself. If this isn't the case, you can try a few quick fixes to get things back to normal quickly.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Restart Your iPhone
 
  A quick fix to getting your contact names back instead of phone numbers is to [restart your iPhone](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) . As with many other issues, a quick reboot usually does the trick, and you should be able to see your contact names instead of phone numbers in Messages.
 
  In the case that this doesn't work and you are still facing the same issue, follow the fixes below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Add or Remove the Country Code
 
@@ -62,10 +54,6 @@ thumbnail: https://thmb.techidaily.com/8e153531bfb1cc2249d2aa88119afd6c59e7a577b
 
 ![Contact Edit menu in iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/contact-edit-menu-in-ios.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Add Country Code to Number](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Fix-Messages-Not-Showing-Contact-Number.jpg)
 
 Close
@@ -75,10 +63,6 @@ Close
  Alternatively, if you choose to add a new contact from the phone number, you can add it to an existing contact. But then you'll have two numbers saved for that person.
 
  Once you fix a phone number, you'll see Messages will automatically merge the conversations split across different chats.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Toggle iCloud Contacts
 
@@ -95,10 +79,6 @@ To do this, follow these steps on your iPhone:
 7. Now, restart your device, and this should fix the issue.
 
 ![Settings on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Fix-Messages-Not-Showing-iCloud.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![Password and Security in iPhone iCloud Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/2FA-iPhone-Password-and-Security.jpg)
 
@@ -125,21 +105,20 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-ultimate-360-eye-exploration-test/"><u>[New] Ultimate 360° Eye Exploration Test</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-teach-you-to-transfer-files-from-xiaomi-redmi-note-13-pro-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways To Teach You To Transfer Files from Xiaomi Redmi Note 13 Pro 5G to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/6-steps-to-fix-guided-access-glitches-on-your-ios-device/"><u>6 Steps to Fix Guided Access Glitches on Your iOS Device</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/beat-stress-away-the-ultimate-gaming-list/"><u>Beat Stress Away The Ultimate Gaming List</u></a></li>
-<li><a href="https://fox-that.techidaily.com/expert-tips-using-the-apple-support-app-for-easy-iphone-troubleshooting/"><u>Expert Tips: Using the Apple Support App for Easy iPhone Troubleshooting</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-vivo-y100i-power-5g-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Vivo Y100i Power 5G to iPhone 15/14/13/12 | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-meizu-21-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Meizu 21? | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/mute-or-malfunction-diagnose-and-repair-iphones-silent-stubbornness/"><u>Mute or Malfunction? Diagnose and Repair iPhone's Silent Stubbornness</u></a></li>
-<li><a href="https://fox-that.techidaily.com/navigating-the-process-enabling-ipads-recovery-mode-with-ease/"><u>Navigating the Process: Enabling iPad's Recovery Mode with Ease</u></a></li>
-<li><a href="https://fox-that.techidaily.com/no-luck-with-iphone-detection-try-these-effective-tips-for-itunesfinder-recognition/"><u>No Luck With iPhone Detection? Try These Effective Tips for iTunes/Finder Recognition</u></a></li>
-<li><a href="https://fox-that.techidaily.com/remedies-for-iphone-proximity-recognition-failure-a-step-by-step-guide/"><u>Remedies for iPhone Proximity Recognition Failure: A Step-by-Step Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/resolving-issues-with-microsofts-compliant-battery-driver-under-the-acpi-framework/"><u>Resolving Issues with Microsoft's Compliant Battery Driver Under the ACPI Framework</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-future-is-here-rumors-and-projections-for-the-google-pixel-watch-3s-market-entry/"><u>The Future Is Here: Rumors & Projections for the Google Pixel Watch 3'S Market Entry</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-a-frozen-ios-phone-swift-fixes-that-work/"><u>Troubleshooting a Frozen iOS Phone: Swift Fixes That Work</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-and-repairing-windows-11-disk-read-failures-easy-fixes-for-users/"><u>Troubleshooting and Repairing Windows 11 Disk Read Failures: Easy Fixes for Users</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/voice-of-vogue-establishing-your-channel-in-the-cosmetic-world/"><u>Voice of Vogue Establishing Your Channel in the Cosmetic World</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-the-complete-guide-to-inverted-footage-in-instagram/"><u>[Updated] In 2024, The Complete Guide to Inverted Footage in Instagram</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-ultimate-editing-hacks-for-flawless-image-edits-on-canva-for-2024/"><u>[Updated] Ultimate Editing Hacks for Flawless Image Edits on Canva for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/6-key-strategies-for-fixing-common-iphone-autocorrect-issues-and-achieving-spelling-perfection/"><u>6 Key Strategies for Fixing Common iPhone AutoCorrect Issues & Achieving Spelling Perfection</u></a></li>
+<li><a href="https://fox-that.techidaily.com/accelerate-safari-on-ios-discover-4-key-strategies-to-speed-up-your-phone-browsing/"><u>Accelerate Safari on iOS: Discover 4 Key Strategies to Speed Up Your Phone Browsing</u></a></li>
+<li><a href="https://fox-that.techidaily.com/cant-see-notifications-on-iphone-here-are-7-ways-to-resolve-the-issue/"><u>Can't See Notifications on iPhone? Here Are 7 Ways to Resolve the Issue</u></a></li>
+<li><a href="https://fox-that.techidaily.com/clarify-your-shots-top-7-methods-to-correct-a-fuzzy-iphone-lens/"><u>Clarify Your Shots: Top 7 Methods to Correct a Fuzzy iPhone Lens</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-fix-non-downloading-iphone-apps-discover-these-10-key-methods-for-successful-installation/"><u>How to Fix Non-Downloading iPhone Apps: Discover These 10 Key Methods for Successful Installation</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-icloud-from-apple-iphone-xr-smoothly-by-drfone-ios/"><u>How To Remove iCloud From Apple iPhone XR Smoothly</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-samsung-galaxy-f14-5g-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Samsung Galaxy F14 5G | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-spoofing-life360-how-to-do-it-on-infinix-hot-30i-drfone-by-drfone-virtual-android/"><u>In 2024, Spoofing Life360 How to Do it on Infinix Hot 30i? | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/srt-to-subconvert-the-ultimate-guide/"><u>SRT to SUBCONVERT The Ultimate Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-process-of-pairing-samsung-headphones-and-laptop-for-optimal-audio-experience/"><u>Step-by-Step Process of Pairing Samsung Headphones and Laptop for Optimal Audio Experience</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-non-working-wireless-charging-iphone-hacks-and-tips/"><u>Troubleshoot Non-Working Wireless Charging: IPhone Hacks & Tips</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-guide-by-toms-review-team-hardware-insights/"><u>Ultimate Guide by Tom's Review Team: Hardware Insights</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unsticking-stubborn-iphone-alarms-that-just-wont-go-off/"><u>Unsticking Stubborn iPhone Alarms That Just Won't Go Off</u></a></li>
 </ul></div>
 

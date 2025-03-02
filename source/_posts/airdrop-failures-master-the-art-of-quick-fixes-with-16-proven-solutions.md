@@ -1,7 +1,7 @@
 ---
 title: AirDrop Failures? Master the Art of Quick Fixes with 16 Proven Solutions
-date: 2025-02-06T16:17:29.432Z
-updated: 2025-02-11T11:19:20.756Z
+date: 2025-03-01T16:01:13.886Z
+updated: 2025-03-02T16:46:15.088Z
 tags:
   - iphone
   - apple
@@ -52,10 +52,6 @@ thumbnail: https://thmb.techidaily.com/e7ff9df7bb6af3b5e4d65d67011a30e37297e02c3
 
 ![airdrop visibility options in iphone control center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/airdrop-visibility-options-in-iphone-control-center.JPEG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Close
 
  On a Mac, open**Control Center** and click**AirDrop** from the top-left section. In the window that pops up, choose**Everyone** or**Contacts Only** .
@@ -70,10 +66,6 @@ Close
 
 ![go tab in mac finder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/go-tab-in-mac-finder.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Turn Off AirDrop Restrictions
 
  If AirDrop isn't showing up at all, you may have blocked it in your**Content & Privacy Restrictions** for Screen Time. On an iPhone or iPad, go to **Settings > Screen Time > Content & Privacy Restrictions > Allowed Apps** .
@@ -81,10 +73,6 @@ Close
 ![iphone limit usage settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/iphone-limit-usage-settings.JPEG)
 
 ![iphone content and privacy restrictions settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/iphone-content-and-privacy-restrictions-settings.JPEG)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![allowed apps in iphone content and privacy restriction settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/allowed-apps-in-iphone-content-and-privacy-restriction-settings.JPEG)
 
@@ -104,10 +92,6 @@ Close
 
 ![iphone general settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/iphone-general-settings-2.JPEG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![iPhone General settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/iphone-general-settings.JPEG)
 
 ![iphone airdrop settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/iphone-airdrop-settings.JPEG)
@@ -122,19 +106,11 @@ Close
 
  Note that NameDrop only lets you share new contact information. You can't update an existing contact with NameDrop.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Turn Off Do Not Disturb Mode
 
  Your device may not receive transfer requests from AirDrop if Do Not Disturb or another Focus mode is enabled. Open**Control Center** and hit the**Focus** icon (the default is a**moon** icon) to turn it off on your iPhone, iPad, or Mac.
 
 ![Control Center on Mac](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/Control-Center-on-Mac.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Restart Wi-Fi and Bluetooth on Both Devices
 
@@ -158,19 +134,11 @@ Close
 
 ![on my iphone folder in files app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/on-my-iphone-folder-in-files-app.JPEG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Close
 
  On a Mac, you can usually find the**Downloads** folder by opening a new Finder window and pressing**Option + Command + L** . You may also find it next to**Trash** on your**Dock** .
 
 ![Downloads folder in macOS Sonoma](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/downloads-folder-in-macos-sonoma.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 11\. Turn Off Your VPN for AirDrop to Work
 
@@ -186,19 +154,11 @@ Close
 
 ![Firewall option in macOS System Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Firewall-option-in-macOS-System-Settings.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 13\. Sign In to Your Apple ID Account Again
 
  Go to**Settings** or**System Settings** on your iPhone or Mac respectively, then select**\[Your Name\]** at the top of the menu and choose**Sign Out** at the bottom of the following page. Choose the data to keep on your device, then confirm you want to sign out.
 
 ![apple id on mac](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/apple-id-on-mac.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  It doesn't matter too much if you keep data on your device since you're planning to sign in to the same account again. After signing out, return to**Settings** or**System Settings** to sign in to your Apple ID again.
 
@@ -251,17 +211,24 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-that.techidaily.com/how-to-overcome-iphone-dial-tone-problems-a-guide-with-10-fixes/"><u>How to Overcome iPhone Dial Tone Problems: A Guide with 10 Fixes</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-fix-apple-iphone-14-pro-max-stuck-on-data-transfer-verified-solution-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Fix Apple iPhone 14 Pro Max Stuck on Data Transfer Verified Solution! | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-passcode-from-apple-iphone-xr-complete-guide-by-drfone-ios/"><u>In 2024, How To Remove Passcode From Apple iPhone XR? Complete Guide</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solving-the-location-unavailable-error-on-your-iphone-a-step-by-step-guide/"><u>Solving the 'Location Unavailable' Error on Your iPhone: A Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-that.techidaily.com/step-by-step-guide-to-fix-unsent-imessages-on-ios-devices/"><u>Step-by-Step Guide to Fix Unsent iMessages on iOS Devices</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-solution-to-get-valorant-running-smoothly-on-your-computer-2024-edition/"><u>Step-by-Step Solution to Get Valorant Running Smoothly on Your Computer - 2024 Edition</u></a></li>
-<li><a href="https://fox-that.techidaily.com/streamlining-your-visual-memories-combining-repeated-photos-in-iphone-and-mac-libraries/"><u>Streamlining Your Visual Memories: Combining Repeated Photos in iPhone & Mac Libraries</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/the-quest-for-perfection-topiary-angles-in-mobile-photography-for-2024/"><u>The Quest for Perfection Topiary Angles in Mobile Photography for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-xiaomi-redmi-k70-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Xiaomi Redmi K70 | Dr.fone</u></a></li>
-<li><a href="https://discover-exclusive.techidaily.com/tipps-und-tricks-zum-wiedererlangen-verlorener-informationen-von-einer-toten-ssd-eine-detaillierte-anleitung-zur-datenwiederherstellung-auf-m2-festplatten.m258/"><u>Tipps Und Tricks Zum Wiedererlangen Verlorener Informationen Von Einer Toten SSD: Eine Detaillierte Anleitung Zur Datenwiederherstellung Auf M2-Festplatten</u></a></li>
-<li><a href="https://fox-that.techidaily.com/ultimate-guide-top-15-fixes-for-common-iphone-issues-across-various-models/"><u>Ultimate Guide: Top 15 Fixes for Common iPhone Issues Across Various Models</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unleashing-the-potential-with-toms-computer-components-guide/"><u>Unleashing the Potential with Tom's Computer Components Guide</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-android-non-root-audio-capture-4-easy-methods/"><u>[New] 2024 Approved Android Non-Root Audio Capture 4 Easy Methods</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-how-to-use-video-enhancer-22/"><u>[Updated] In 2024, How To Use Video Enhancer 2.2</u></a></li>
+<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>8 Solutions to Fix Find My Friends Location Not Available On Apple iPhone 13 | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/confidential-communication-with-ai-unlock-the-potential-of-private-messaging-on-duckduckgo-including-chatgpt-capabilities/"><u>Confidential Communication with AI: Unlock the Potential of Private Messaging on DuckDuckGo Including ChatGPT Capabilities</u></a></li>
+<li><a href="https://fox-that.techidaily.com/discover-how-to-restore-hidden-or-lost-notifications-on-your-ios-device/"><u>Discover How to Restore Hidden or Lost Notifications on Your iOS Device</u></a></li>
+<li><a href="https://games-able.techidaily.com/dive-into-steams-workshop-a-comprehensive-guide/"><u>Dive Into Steam's Workshop: A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-installation-of-logitech-g602-drivers-on-your-windows-based-computer/"><u>Free Installation of Logitech G602 Drivers on Your Windows-Based Computer</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-successfully-set-up-your-ipad-in-apples-recovery-mode/"><u>How To Successfully Set Up Your iPad in Apple's Recovery Mode</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-5-low-cost-pinterest-video-download-software/"><u>In 2024, Top 5 Low-Cost Pinterest Video Download Software</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-unlocking-direct-conversation-on-snapchat-follow-these-steps/"><u>In 2024, Unlocking Direct Conversation on Snapchat - Follow These Steps</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/is-openai-struggling-to-maintain-authority-over-chatgpt/"><u>Is OpenAI Struggling to Maintain Authority Over ChatGPT?</u></a></li>
+<li><a href="https://win-premium.techidaily.com/malwarebytes-reviewed-protecting-your-system-without-compromising-security/"><u>Malwarebytes Reviewed: Protecting Your System without Compromising Security</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcome-wireless-power-problems-on-ios-devices-discover-these-7-effective-fixes-for-iphone/"><u>Overcome Wireless Power Problems on iOS Devices: Discover These 7 Effective Fixes for iPhone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-itunes-refusal-6-steps-for-successful-transactions/"><u>Overcoming iTunes Refusal: 6 Steps for Successful Transactions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/reconnect-to-the-world-11-ways-to-ensure-your-iphone-rings-on-incoming-calls-step-by-step-guide/"><u>Reconnect to the World: 11 Ways to Ensure Your iPhone Rings on Incoming Calls – Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/speed-up-instagram-6-essential-tips-to-enhance-app-performance-on-all-smartphones/"><u>Speed Up Instagram: 6 Essential Tips to Enhance App Performance on All Smartphones</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-guide-identifying-and-fixing-iphone-screen-response-failures/"><u>Troubleshooting Guide: Identifying and Fixing iPhone Screen Response Failures</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlocking-iphones-potential-for-vision-difficulty-a-guide-to-its-top-8-features/"><u>Unlocking iPhone's Potential for Vision Difficulty: A Guide to Its Top 8 Features</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unveiling-the-secrets-where-are-my-saved-facetime-photos-stored/"><u>Unveiling the Secrets: Where Are My Saved FaceTime Photos Stored?</u></a></li>
 </ul></div>
 

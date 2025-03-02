@@ -1,7 +1,7 @@
 ---
 title: "How to Resolve 'Safari Cannot Take Full-Page Screenshots': A Step-by-Step Guide"
-date: 2025-02-04T08:00:30.032Z
-updated: 2025-02-10T23:24:08.323Z
+date: 2025-02-23T16:04:27.008Z
+updated: 2025-03-02T16:33:00.393Z
 tags:
   - iphone
   - apple
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/9be41d62e85e6d9d35faed892e42e95be3740ff67
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Take a Full-Page Screenshot
 
  To take a full-page, scrolling screenshot of a webpage, take a screenshot as you normally would while on Safari, then tap the preview and select**Full Page** at the top. You can then choose**Save PDF to Files** or the Share icon to send it elsewhere.
@@ -43,31 +39,15 @@ Try these tips if you can't take full-page screenshots in Safari.
 
  If your OS is not the problem, make sure to check the app you’re using when attempting to take a full-page screenshot. It only works with Safari.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Make Sure You're in Safari
 
  There are times that, depending on what you’re browsing, Safari will redirect you to another built-in app, like Apple Books, Files, or Messages. Full-page screenshots are not available in other apps or browsers.
 
 ![Full-page screenshots](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/08/Full-page-screenshots.PNG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Save Full-page screenshots](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/08/Save-Full-page-screenshots.PNG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Close
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. Remove Safari From Any Home Screen Folders
 
@@ -98,16 +78,16 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-mastering-clear-communication-via-skype/"><u>[New] Mastering Clear Communication via Skype</u></a></li>
-<li><a href="https://win-docs.techidaily.com/connect-your-local-mt4-platform-to-dxtrade-in-a-snap-discover-the-latest-currency-exchange-copier-innovation/"><u>Connect Your Local MT4 Platform to DXTrade in a Snap - Discover the Latest Currency Exchange Copier Innovation</u></a></li>
-<li><a href="https://fox-that.techidaily.com/easy-steps-to-resolve-iphones-imessage-sign-out-problem/"><u>Easy Steps to Resolve iPhone's iMessage Sign-Out Problem</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/edit-mp4-videos-like-a-pro-top-10-free-tools-for-2024/"><u>Edit MP4 Videos Like a Pro Top 10 Free Tools for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-enable-and-restore-siri-suggestions-when-they-go-missing-on-ios-devices/"><u>How to Enable and Restore Siri Suggestions When They Go Missing on iOS Devices</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-lock-apps-on-realme-c51-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Realme C51 to Protect Your Individual Information</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-music-from-infinix-smart-8-by-fonelab-android-recover-music/"><u>How to retrieve erased music from Infinix Smart 8</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/learn-how-to-lock-stolen-your-iphone-14-properly-by-drfone-ios/"><u>Learn How To Lock Stolen Your iPhone 14 Properly</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/schritt-fur-schritt-anleitung-zum-konvertieren-von-blu-rays-mit-handbrake/"><u>Schritt-Für-Schritt-Anleitung Zum Konvertieren Von Blu-Rays Mit HandBrake</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-made-easy-restore-iphones-network-settings-to-resolve-multiple-device-problems/"><u>Troubleshooting Made Easy: Restore iPhone's Network Settings to Resolve Multiple Device Problems</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-how-to-fix-a-non-responsive-control-center-on-iphone/"><u>Troubleshooting: How to Fix a Non-Responsive Control Center on iPhone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-unlocking-av1-an-entry-point-to-encoding/"><u>[Updated] In 2024, Unlocking AV1 An Entry Point to Encoding</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-mirth-mechanics-zombie-satire-units-for-2024/"><u>[Updated] Mirth Mechanics Zombie Satire Units for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-soundtrack-your-youtube-videos-7-free-audio-selections-for-2024/"><u>[Updated] Soundtrack Your YouTube Videos 7 Free Audio Selections for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/6-troubleshooting-steps-to-solve-family-sharing-issues-with-subscription-sharing/"><u>6 Troubleshooting Steps to Solve Family Sharing Issues with Subscription Sharing</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fix-your-airpods-fast-the-ultimate-guide-to-resolving-sound-issues-and-audio-disruptions/"><u>Fix Your AirPods Fast: The Ultimate Guide to Resolving Sound Issues and Audio Disruptions</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-iphone-12-passcode-not-working-by-drfone-ios/"><u>How to Fix iPhone 12 Passcode not Working?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-successfully-establish-a-vpn-on-ios-a-guide-with-7-strategies/"><u>How to Successfully Establish a VPN on iOS: A Guide with 7 Strategies</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/masterclass-5-in-best-mac-videography-software/"><u>Masterclass 5 in Best Mac Videography Software</u></a></li>
+<li><a href="https://win-best.techidaily.com/1728475017350-pcwindows-11/"><u>PCがWindows 11へ更新不可の修正手順</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-the-issue-of-your-airpods-not-auto-connecting-across-apple-gadgets/"><u>Solving the Issue of Your AirPods Not Auto-Connecting Across Apple Gadgets</u></a></li>
+<li><a href="https://fox-within.techidaily.com/top-rated-stickers-creator-apps-for-enhancing-your-whatsapp-experience/"><u>Top-Rated Stickers Creator Apps for Enhancing Your WhatsApp Experience</u></a></li>
 </ul></div>
 

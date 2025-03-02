@@ -1,7 +1,7 @@
 ---
 title: Unlocking the Mystery of Missing Names in Your iPhone Address Book
-date: 2025-02-04T08:53:46.529Z
-updated: 2025-02-10T23:11:18.864Z
+date: 2025-02-28T16:01:21.031Z
+updated: 2025-03-02T16:41:13.108Z
 tags:
   - iphone
   - apple
@@ -49,10 +49,6 @@ thumbnail: https://thmb.techidaily.com/fddafecbf8d052882c8613835d6b91422875b8a8a
 
 ![iCloud settings in iOS 16](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/icloud-page-ios-16.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Disabling Contacts sync in iOS 16](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/disabling-contacts-sync-ios-16.jpg)
 
 Close
@@ -71,23 +67,11 @@ So, follow these steps to show hidden contact groups:
 
 ![Contacts app in iOS 16](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/contacts-app-ios-16.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![All Accounts option in iOS 16](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/accounts-options-contacts-app.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Close
 
  If some contacts from a particular account weren’t showing up on your iPhone, this should fix the issue. However, read on if you still don’t see all your contacts.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Add All Your Accounts to Your iPhone
 
@@ -122,10 +106,6 @@ Close
 
 ![Individual account settings in iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/Individual-account-settings-iOS.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Close
 
  If contacts from one of your connected accounts weren’t showing up on your iPhone, this should help fix the issue.
@@ -142,15 +122,7 @@ Close
 
 ![Editing contact details on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/01-edit-iphone-contact.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Editing contact details on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/02-editing-contact-details-iphone.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![An edited contact on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/edited-contact-ios.jpg)
 
@@ -174,10 +146,6 @@ Close
 
  Alternatively, you can reach out to them via [Apple’s support website](https://getsupport.apple.com/) . Either way, a certified expert should help sort out the issue in more ways than we could.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Restore Your Missing iPhone Contacts
 
  Contacts not showing up on an iPhone isn’t something new. It can happen to you, but when it does, don’t panic. There are a variety of ways to fix the problem. In summary, you could restart your iPhone, resync with iCloud, show all contacts in your Phone app, add all accounts to your iPhone, modify account settings, or force rebuild your contacts.
@@ -199,17 +167,19 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-how-to-archive-your-minecraft-sessions-on-a-mac-computer/"><u>[New] In 2024, How to Archive Your Minecraft Sessions on a Mac Computer</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-the-ultimate-guide-to-discord-live-broadcasts/"><u>[Updated] The Ultimate Guide to Discord Live Broadcasts</u></a></li>
-<li><a href="https://driver-install.techidaily.com/better-graphics-just-install-gtx-1050-ti-drivers/"><u>Better Graphics, Just Install GTX 1050 Ti Drivers</u></a></li>
-<li><a href="https://fox-that.techidaily.com/dealing-with-moisture-alerts-how-to-clear-liquid-detection-in-iphone-chargers/"><u>Dealing with Moisture Alerts: How to Clear Liquid Detection in iPhone Chargers</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-crafting-podcast-descriptions-that-stick-strategies-and-samples/"><u>In 2024, Crafting Podcast Descriptions That Stick Strategies and Samples</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-android-3d-player-showcase/"><u>In 2024, Ultimate Android 3D Player Showcase</u></a></li>
-<li><a href="https://fox-that.techidaily.com/overcoming-common-problems-getting-your-aol-mail-up-and-running-on-iphones-with-6-solutions/"><u>Overcoming Common Problems - Getting Your AOL Mail Up and Running on iPhones with 6 Solutions</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solving-iphones-qr-scanner-problems-a-step-by-step-guide-to-getting-it-working-again/"><u>Solving iPhone's QR Scanner Problems: A Step-by-Step Guide to Getting It Working Again</u></a></li>
-<li><a href="https://fox-that.techidaily.com/step-by-step-guide-reinstalling-your-ios-system-with-no-need-for-itunes/"><u>Step-by-Step Guide: Reinstalling Your iOS System with No Need for iTunes</u></a></li>
-<li><a href="https://article-helps.techidaily.com/the-ultimate-guide-to-designing-captivating-podcast-logos/"><u>The Ultimate Guide to Designing Captivating Podcast Logos</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-guide-top-10-solutions-when-your-iphone-wont-download-apps/"><u>Troubleshooting Guide: Top 10 Solutions When Your iPhone Won't Download Apps</u></a></li>
-<li><a href="https://games-able.techidaily.com/ultimate-display-upgrade-165hz-speeds/"><u>Ultimate Display Upgrade - 165Hz Speeds</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-remote-classroom-video-archive/"><u>[New] 2024 Approved Remote Classroom Video Archive</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-unlocking-secrets-your-complete-overview-of-stardew-and-ginger-isle/"><u>[New] 2024 Approved Unlocking Secrets Your Complete Overview of Stardew and Ginger Isle</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-excellent-4k-capture-gear-the-18-best-ones-for-2024/"><u>[New] Excellent 4K Capture Gear - The 18 Best Ones for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-from-shopping-spree-to-stunning-video-haul-editing-explained/"><u>[New] In 2024, From Shopping Spree to Stunning Video Haul Editing Explained</u></a></li>
+<li><a href="https://fox-that.techidaily.com/17-effective-solutions-to-get-hey-siri-up-and-running-on-your-iphone-again/"><u>17 Effective Solutions to Get 'Hey Siri' Up and Running on Your iPhone Again</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-intel-82579v-chipset-drivers-free-simple-and-fast-installation-guide/"><u>Download Intel 82579V Chipset Drivers Free - Simple and Fast Installation Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/elevate-your-snap-game-learn-to-zoom-effectively/"><u>Elevate Your Snap Game Learn to Zoom Effectively</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-tecno-spark-go-2023-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Tecno Spark Go (2023) to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-iphone-email-hurdles-six-ways-to-fix-your-aol-messaging-issues/"><u>Overcoming iPhone Email Hurdles: Six Ways to Fix Your AOL Messaging Issues</u></a></li>
+<li><a href="https://fox-that.techidaily.com/the-ultimate-solution-getting-your-airplay-functionality-back-online/"><u>The Ultimate Solution: Getting Your AirPlay Functionality Back Online</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/tricks-to-ensure-stable-iphone-cinematography/"><u>Tricks to Ensure Stable iPhone Cinematography</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-and-restore-your-airdrop-functionality-using-these-essential-16-steps/"><u>Troubleshoot and Restore Your AirDrop Functionality Using These Essential 16 Steps</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-your-iphones-safari-issues-with-these-proven-techniques-top-10/"><u>Troubleshoot Your iPhone's Safari Issues with These Proven Techniques (Top 10)</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-lost-iphones-apps-methods-for-finding-and-restoring-unexpectedly-deleted-programs/"><u>Troubleshooting Lost IPhones Apps - Methods for Finding and Restoring Unexpectedly Deleted Programs</u></a></li>
 </ul></div>
 

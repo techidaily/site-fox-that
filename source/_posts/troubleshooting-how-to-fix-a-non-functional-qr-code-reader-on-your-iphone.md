@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting: How to Fix a Non-Functional QR Code Reader on Your iPhone"
-date: 2025-02-08T04:11:57.501Z
-updated: 2025-02-11T08:31:31.447Z
+date: 2025-02-25T16:45:11.143Z
+updated: 2025-03-02T16:30:34.331Z
 tags:
   - iphone
   - apple
@@ -41,17 +41,9 @@ Close
 
  The QR code scanner on your iPhone only works when the camera is set to Photo mode. If you've mistakenly switched to Video, Portrait, Pano, or any other camera mode, the QR code scanner might not work as expected. So, swipe left or right in the Camera app to switch back to Photo mode. Then, point the camera at the QR code and try to scan it again.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Position Your Camera Properly When Scanning
 
  For a quick and successful scan, make sure the QR code is positioned within the frame of your camera. Avoid scanning at steep angles, and try to keep the QR code parallel to your device. Also, ensure the QR code isn't wrinkled, obscured, or damaged in any way, as this can prevent a successful scan.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Move Into Better Lighting
 
@@ -63,17 +55,9 @@ Close
 
  A smudged or dirty camera lens can make it difficult for the camera to read the QR code. So, if you are still having trouble scanning the QR code, gently wipe your camera lens with a soft, lint-free cloth to ensure it's clean. Avoid using harsh or abrasive materials that might scratch the lens. If necessary, slightly dampen the cloth with water to remove stubborn smudges.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Relaunch the Camera App
 
  Sometimes, software glitches can cause your QR code scanner to malfunction. The quickest fix for this is to simply close the Camera app and relaunch it. To do this, swipe up from the bottom of the screen, then swipe up on the Camera app to close it. Wait for a few seconds, then reopen the**Camera** app and try to scan the QR code again.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Add Code Scanner to Control Center
 
@@ -91,21 +75,9 @@ Here's how to add the Code Scanner to the Control Center:
 
 ![iPhone Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/img_1211.jpeg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![iPhone Control Center Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/img_1212.jpeg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![iPhone Control Center With Code Scanner](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/img_1213.jpeg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![iPhone QR Code Scanner](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/img_1221.jpeg)
 
@@ -152,16 +124,22 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/n-2024-clear-and-steady-essential-youtube-camera-tech/"><u>[New] In 2024, Clear and Steady Essential YouTube Camera Tech</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-best-practices-to-avoid-sound-in-video-capture/"><u>[Updated] Best Practices to Avoid Sound in Video Capture</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-grandview-media-mastering-the-art-of-selecting-a-cms/"><u>[Updated] In 2024, Grandview Media Mastering the Art of Selecting a CMS</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-independent-artists-guide-to-personalized-visual-tricks/"><u>2024 Approved Independent Artists' Guide to Personalized Visual Tricks</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/5-chatgpt-therapist-bots-and-ai-apps-to-relieve-mental-health-problems/"><u>5 ChatGPT Therapist Bots and AI Apps to Relieve Mental Health Problems</u></a></li>
-<li><a href="https://fox-that.techidaily.com/comprehensive-fix-for-mobile-network-sim-not-provisioned-mmi-2-glitches/"><u>Comprehensive Fix for Mobile Network SIM Not Provisioned MMI 2 Glitches</u></a></li>
-<li><a href="https://fox-that.techidaily.com/experiencing-sluggish-mobile-internet-speeds-boost-them-with-these-top-10-tips/"><u>Experiencing Sluggish Mobile Internet Speeds? Boost Them with These Top 10 Tips</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-fix-the-sim-not-provisioned-mm-2-error/"><u>How to Fix the SIM Not Provisioned MM 2 Error</u></a></li>
-<li><a href="https://fox-that.techidaily.com/stay-ahead-of-the-curve-understand-why-installing-ios-153-is-a-must-do-for-your-iphone-or-ipad-now/"><u>Stay Ahead of the Curve: Understand Why Installing iOS 15.3 Is a Must-Do for Your iPhone or iPad Now</u></a></li>
-<li><a href="https://fox-that.techidaily.com/trouble-with-iphone-display-orientation-learn-the-quick-fix/"><u>Trouble with iPhone Display Orientation? Learn the Quick Fix!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/understanding-the-functionality-of-electric-bikes/"><u>Understanding the Functionality of Electric Bikes</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-comparing-metaverse-to-multiplemetasa-highlighting-their-variance/"><u>[Updated] 2024 Approved Comparing Metaverse to MultipleMetasa Highlighting Their Variance</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-comprehensive-picsart-breakdown/"><u>[Updated] 2024 Approved Comprehensive PicsArt Breakdown</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-easily-set-up-and-use-bluetooth-on-your-iphone-a-step-by-step-tutorial/"><u>How to Easily Set Up and Use Bluetooth on Your iPhone: A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-effortlessly-overcome-iphone-slide-album-challenges-with-these-8-essential-hacks/"><u>How to Effortlessly Overcome iPhone Slide Album Challenges with These 8 Essential Hacks</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-a-locked-nokia-phone-by-drfone-android/"><u>How to Reset a Locked Nokia Phone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-realme-c67-4g-by-drfone-android-unlock-android-unlock/"><u>How to unlock Realme C67 4G</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-magic-behind-melodies-an-analysis-of-magix-music-maker/"><u>In 2024, Magic Behind Melodies An Analysis of Magix Music Maker</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-mastering-profit-on-beauty-channels/"><u>In 2024, Mastering Profit on Beauty Channels</u></a></li>
+<li><a href="https://fox-that.techidaily.com/navigate-through-common-apple-pay-complications-using-these-10-simple-strategies/"><u>Navigate Through Common Apple Pay Complications Using These 10 Simple Strategies</u></a></li>
+<li><a href="https://some-skills.techidaily.com/next-generation-search-evolves-as-alphabet-and-microsoft-prepare-to-unveil-ai-powered-web-query-innovations-similar-to-chatgpt/"><u>Next Generation Search Evolves as Alphabet and Microsoft Prepare to Unveil AI-Powered Web Query Innovations Similar to ChatGPT</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-the-issue-of-just-seeing-sos-on-your-iphone-six-effective-fixes-for-the-status-bar-problem/"><u>Solving the Issue of Just Seeing 'SOS' On Your iPhone: Six Effective Fixes for the Status Bar Problem</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-the-issue-why-your-airpods-arent-seamlessly-connecting-across-apple-gadgets/"><u>Solving the Issue: Why Your AirPods Aren't Seamlessly Connecting Across Apple Gadgets</u></a></li>
+<li><a href="https://fox-that.techidaily.com/stop-airpod-connection-woes-tips-to-keep-them-paired-with-one-device-only/"><u>Stop AirPod Connection Woes: Tips to Keep Them Paired with One Device Only</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/tailoring-a-triad-of-topical-youtube-tracks/"><u>Tailoring a Triad of Topical YouTube Tracks</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721456061186-unable-to-download-apps-on-your-iphone-here-are-10-effective-tips/"><u>Unable to Download Apps on Your iPhone? Here Are 10 Effective Tips!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unstucking-itunes-and-finder-from-ignoring-your-iphone-proven-solutions/"><u>Unstucking iTunes and Finder From Ignoring Your iPhone: Proven Solutions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/upcoming-release-date-of-latest-apple-airpods-insights-and-pre-order-options/"><u>Upcoming Release Date of Latest Apple AirPods - Insights & Pre-Order Options</u></a></li>
 </ul></div>
 

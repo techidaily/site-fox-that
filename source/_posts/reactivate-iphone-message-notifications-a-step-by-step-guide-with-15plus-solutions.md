@@ -1,7 +1,7 @@
 ---
 title: "Reactivate iPhone Message Notifications: A Step-by-Step Guide with 15+ Solutions"
-date: 2025-02-06T06:11:12.633Z
-updated: 2025-02-10T23:40:43.562Z
+date: 2025-03-01T16:32:17.581Z
+updated: 2025-03-02T16:07:10.293Z
 tags:
   - iphone
   - apple
@@ -39,25 +39,13 @@ To do this, follow these simple instructions:
 
 ![Screenshot showing Tap Notifications in iPhone Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/tap-notifications-in-iphone-settings-app.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Screenshot showing Tap Messages in iPhone Notifications](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/tap-messages-in-iphone-notifications.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![Ensure all Messages app notification settings are enabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/ensure-all-messages-app-notification-settings-are-enabled.png)
 
 Close
 
  After following the above steps, new text messages via SMS and iMessage should show up on your iPhone and make a sound when the device is locked.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Ensure the Person Isn't Muted
 
@@ -71,10 +59,6 @@ Close
 
 ![Swipe on muted conversation and tap bell icon to start alerts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/swipe-on-muted-conversation-and-tap-bell-icon-to-start-alerts.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Close
 
 ## 3\. Turn Off Silent Mode and Focus
@@ -84,10 +68,6 @@ Close
  Secondly, when your iPhone is in Focus (or Do Not Disturb) mode, it does not vibrate or play a sound for new texts. You can fix this by [opening the iOS Control Center](https://www.makeuseof.com/how-to-use-customize-control-center-iphone/) and ensuring the Focus toggle (crescent moon icon) isn't purple. If it is, tap on it to toggle the feature off.
 
  That said, you can [set up Focus modes](https://www.makeuseof.com/how-to-use-focus-modes-ios/) that let you configure which apps and people you want to allow notifications from.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Force Quit the Messages App
 
@@ -103,10 +83,6 @@ Close
 
  Next, tap**Send & Receive** and check you have the correct phone number and email here. You should start receiving notifications again after doing this.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Restart Your iPhone
 
  Often, things might not work correctly on your iPhone due to temporary glitches. Usually, a quick restart fixes these issues.
@@ -121,17 +97,9 @@ Close
 
 ![Tap Messages in iPhone Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/tap-messages-in-iphone-settings.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Tap Unknown and Spam in iPhone Messages Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/tap-unknown-and-spam-in-iphone-messages-settings.png)
 
 ![Turn off Filter Unknown Senders in iPhone Messages Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/turn-off-filter-unknown-senders-in-iphone-messages-settings.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Close
 
@@ -183,10 +151,6 @@ Close
 
 ![Turn off Text Message Forwarding for all your other Apple devices](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/turn-off-text-message-forwarding-for-all-your-other-apple-devices.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Close
 
 ## 13\. Are You Using an Apple Watch?
@@ -196,10 +160,6 @@ Close
 ## 14\. Have You Opened the Messages App on Your Mac?
 
  If you keep the Messages app open on your Mac, new messages may appear there, and your iPhone may not play the text notification sound for them. To fix this,[quit the Messages app on your Mac](https://www.makeuseof.com/ways-to-quit-apps-on-mac/) . Or, you may use it there if you're already working on your computer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 15\. Other Solutions
 
@@ -230,24 +190,24 @@ If none of the solutions above help, don't worry—hope isn't lost yet.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-accelerate-with-these-key-windows-10-tricks/"><u>[Updated] 2024 Approved Accelerate with These Key Windows 10 Tricks</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-make-big-bucks-fast-with-a-focus-on-youtube-short-video-creation/"><u>[Updated] 2024 Approved Make Big Bucks Fast with a Focus on YouTube Short Video Creation</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-discovering-the-stars-of-youtubes-best-music-videos-2023/"><u>[Updated] Discovering the Stars of YouTube's Best Music Videos, 2023</u></a></li>
-<li><a href="https://win-docs.techidaily.com/touch-id-iphones-ios-15/"><u>如何當 Touch ID iPhones 因 iOS 15 版本而無法使用時修復？</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/be-bilingual-today-learn-german-from-popular-show-dark/"><u>Be Bilingual Today! Learn German From Popular Show, Dark</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/design-excellence-premier-templates-and-free-2023-plan-guide-for-2024/"><u>Design Excellence Premier Templates & Free 2023 Plan Guide for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/discover-8-ways-your-iphone-saves-pictures-to-icloud-despite-deletions-unraveling-the-mystery/"><u>Discover 8 Ways Your iPhone Saves Pictures to iCloud Despite Deletions: Unraveling the Mystery!</u></a></li>
-<li><a href="https://win-web.techidaily.com/efficient-text-editing-with-emeditor-a-powerful-tool-for-professionals/"><u>Efficient Text Editing with EmEditor: A Powerful Tool for Professionals</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/finalize-your-digiarty-software-experience-with-winxdvd-understanding-the-end-user-license-terms/"><u>Finalize Your Digiarty Software Experience with WinXDVD: Understanding the End User License Terms</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fixing-widget-issues-in-under-10-minutes-solutions-for-iphone-and-ipad-users/"><u>Fixing Widget Issues in Under 10 Minutes: Solutions for iPhone and iPad Users</u></a></li>
-<li><a href="https://fox-that.techidaily.com/hot-iphones-or-ipads-uncover-causes-and-fixes-for-device-overheating-problems/"><u>Hot iPhones or iPads? Uncover Causes and Fixes for Device Overheating Problems</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-special-features-virtual-location-on-tecno-spark-go-2023-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Tecno Spark Go (2023)? | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/improve-your-iphones-performance-by-refreshing-its-network-setup-options/"><u>Improve Your iPhone's Performance by Refreshing Its Network Setup Options</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-top-5-infinix-zero-5g-2023-turbo-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Infinix Zero 5G 2023 Turbo Bypass FRP Tools for PC That Actually Work</u></a></li>
-<li><a href="https://fox-that.techidaily.com/overcome-silent-and-fuzzy-airpod-problems-with-our-effective-top-10-fixes/"><u>Overcome Silent and Fuzzy AirPod Problems with Our Effective Top 10 Fixes</u></a></li>
-<li><a href="https://fox-that.techidaily.com/quick-solutions-repair-airdrop-issues-with-these-16-handy-tips/"><u>Quick Solutions: Repair AirDrop Issues with These 16 Handy Tips</u></a></li>
-<li><a href="https://fox-that.techidaily.com/resolving-typical-issues-with-your-iphones-visual-output-the-7-key-troubleshooting-steps/"><u>Resolving Typical Issues with Your iPhone's Visual Output - The 7 Key Troubleshooting Steps</u></a></li>
-<li><a href="https://fox-that.techidaily.com/what-to-do-when-only-one-airpod-wont-charge-or-work/"><u>What To Do When Only One AirPod Won’t Charge or Work?</u></a></li>
-<li><a href="https://fox-that.techidaily.com/why-isnt-my-whatsapp-data-uploading-to-icloud-fixes-for-a-smoother-experience/"><u>Why Isn't My WhatsApp Data Uploading to iCloud? Fixes for a Smoother Experience</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-make-your-solitary-voice-resonate/"><u>[New] How To Make Your Solitary Voice Resonate</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-prioritize-your-videography-with-top-12-players/"><u>[Updated] In 2024, Prioritize Your Videography with Top 12 Players</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-high-end-8-cam-modifiers-for-crystal-clear-feeds/"><u>2024 Approved High-End 8 Cam Modifiers for Crystal Clear Feeds</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721457945025-cant-use-chatgpt-on-iphone-here-are-9-fixes-to-get-it-up-and-running-again/"><u>Can't Use ChatGPT on iPhone? Here Are 9 Fixes to Get It Up and Running Again</u></a></li>
+<li><a href="https://fox-that.techidaily.com/diagnosing-your-device-from-afar-leveraging-apples-remote-diagnostics-for-iphones/"><u>Diagnosing Your Device From Afar - Leveraging Apple's Remote Diagnostics for iPhones</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/enhanced-bioshock-n-experience-crisis-averted-in-the-remake/"><u>Enhanced BioShock N Experience: Crisis Averted in the Remake</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-iphone-connectivity-what-to-do-when-itunes-and-finder-ignore-your-device/"><u>Fixing iPhone Connectivity: What To Do When iTunes & Finder Ignore Your Device</u></a></li>
+<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-honor-100-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Honor 100 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/icloud-sync-errors-demystified-effective-solutions-inside/"><u>ICloud Sync Errors Demystified - Effective Solutions Inside!</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-samsung-galaxy-s23plus-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Samsung Galaxy S23+ FRP Without Computer</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unveiling-the-ultimate-collection-of-42-premium-free-video-compression-tools/"><u>In 2024, Unveiling the Ultimate Collection of 42 Premium Free Video Compression Tools</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721474155655-overcoming-connectivity-issues-make-your-iphone-compatible-with-itunes-and-finder-again/"><u>Overcoming Connectivity Issues - Make Your iPhone Compatible with iTunes & Finder Again!</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/performance-best-post-times-unveiled/"><u>Peak Performance Best Post Times Unveiled</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721472331059-struggling-with-your-iphone-data-connection-discover-10-remedies-that-work/"><u>Struggling With Your iPhone Data Connection? Discover 10 Remedies That Work</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/sunday-summary-atandt-cyber-incident-analysis-and-samsungs-cutting-edge-phone-launches-revealed/"><u>Sunday Summary: AT&T Cyber Incident Analysis & Samsung's Cutting-Edge Phone Launches Revealed</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-future-of-social-media-platforms-hangs-in-balance/"><u>The Future of Social Media Platforms Hangs in Balance</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721459541690-trouble-with-iphone-cloud-sync-here-are-9-solutions/"><u>Trouble with iPhone Cloud Sync? Here Are 9 Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/understanding-imessages-converted-into-texts-is-this-a-sign-youre-blocked/"><u>Understanding iMessages Converted Into Texts: Is This a Sign You're Blocked?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/why-cant-you-send-tokens-of-appreciation-via-iphone-or-ipad/"><u>Why Can't You Send Tokens of Appreciation via iPhone or iPad?</u></a></li>
 </ul></div>
 

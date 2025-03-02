@@ -1,7 +1,7 @@
 ---
 title: Troubleshoot the iPhone Contacts App - Top 3 Fixes to Try Now!
-date: 2024-08-27T14:28:04.502Z
-updated: 2024-08-28T14:28:04.502Z
+date: 2025-02-25T16:33:26.014Z
+updated: 2025-03-02T16:11:58.441Z
 tags:
   - iphone
   - apple
@@ -16,9 +16,6 @@ thumbnail: https://thmb.techidaily.com/74045d9d6303c7a70563d004d7c7b11c2909530a5
 
  Created a fun Contact Poster for yourself, but none of your contacts can view it? Whether it's a software bug preventing the feature from working as it should or an innocent mistake you made when creating your poster, we'll help you resolve this issue quickly.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 1\. Enable Name and Photo Sharing with Contacts
 
  If you created your Contact Poster recently, you may have accidentally disabled the feature that allows you to share your poster with your contacts. It's alright—mistakes happen, and enabling the feature again will only take a few seconds! Follow the steps below:
@@ -28,9 +25,6 @@ thumbnail: https://thmb.techidaily.com/74045d9d6303c7a70563d004d7c7b11c2909530a5
 3. Now, check whether**Name & Photo Sharing** is enabled. If not, toggle it on.
 4. Make sure the**Share Automatically** setting is set to**Contacts Only** .
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![viewing contact list in phone app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/viewing-contact-list-in-phone-app.jpeg)
 
 ![viewing my own contact photo & poster](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/viewing-my-own-contact-phot-poster.jpeg)
@@ -43,9 +37,6 @@ Close
 
  If someone you know has set up their Contact Poster and you can't see it, simply ask them to follow the steps above and ensure the feature is enabled!
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ## 2\. Delete and Recreate the Contact Poster
 
  If the above fix doesn't work, we recommend deleting your Contact Poster entirely and creating a new one. Here's how you can delete your current Contact Poster:
@@ -57,15 +48,8 @@ Close
 
 ![viewing my own contact photo & poster](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/viewing-my-own-contact-phot-poster-1.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![viewing my created contact posters](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/viewing-my-created-contact-posters-1.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ![swiping up on my created contact poster and trash icon appears](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/swiping-up-on-my-created-contact-poster-and-trash-icon-appears.jpeg)
 
 ![deleting my contact poster](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/deleting-my-contact-poster.jpeg)
@@ -78,21 +62,15 @@ Close
 
  Whether you're using a model with a notch or Dynamic Island or an old-school iPhone with a physical Home button,[restarting your iPhone, even if the buttons aren't working](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) , is pretty straightforward. After you turn your iPhone back on, follow the steps above to enable**Name & Photo Sharing** again.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## It's Time to Get Your Contact Posters Back
 
  If none of the troubleshooting steps we mentioned above worked, you may be experiencing this issue due to an iOS bug. Fortunately, Apple periodically rolls out software updates to resolve well-known problems like this. While it isn't ideal, we recommend waiting it out until a new update is available. Alternatively, you can contact Apple Support for expert assistance.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -101,6 +79,20 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-top-10-luxury-car-accessories-for-the-modern-sj4000-driver-for-2024/"><u>[New] Top 10 Luxury Car Accessories for the Modern SJ4000 Driver for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-capture-the-moment-iphone-time-lapse-tutorial/"><u>[Updated] In 2024, Capture the Moment IPhone Time-Lapse Tutorial</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-advanced-procedures-for-livestreaming-sporting-spectacles/"><u>2024 Approved Advanced Procedures for Livestreaming Sporting Spectacles</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-best-free-3d-text-psd-files/"><u>2024 Approved Best Free 3D Text PSD Files</u></a></li>
+<li><a href="https://fox-that.techidaily.com/a-comprehensive-tutorial-activating-ipad-recovery-mode-easily/"><u>A Comprehensive Tutorial: Activating iPad Recovery Mode Easily</u></a></li>
+<li><a href="https://fox-that.techidaily.com/diy-tech-hacks-correct-5-baffling-iphone-issues-using-dfu-reset-method/"><u>DIY Tech Hacks: Correct 5 Baffling iPhone Issues Using DFU Reset Method</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-keep-spotify-running-smoothly-even-when-you-lock-your-iphone/"><u>How to Keep Spotify Running Smoothly Even When You Lock Your iPhone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-essential-guide-to-downloading-and-personalizing-whatsapp-tones-for-iphonesandroids/"><u>In 2024, The Essential Guide to Downloading & Personalizing WhatsApp Tones for iPhones/Androids</u></a></li>
+<li><a href="https://review-topics.techidaily.com/infinix-gt-10-pro-music-recovery-recover-deleted-music-from-infinix-gt-10-pro-by-fonelab-android-recover-music/"><u>Infinix GT 10 Pro Music Recovery - Recover Deleted Music from Infinix GT 10 Pro</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/master-your-own-chatai-blueprint/"><u>Master Your Own ChatAI Blueprint</u></a></li>
+<li><a href="https://fox-that.techidaily.com/stop-missing-texts-on-your-iphone-learn-these-7-fixes-to-get-notifications-working/"><u>Stop Missing Texts on Your iPhone! Learn These 7 Fixes to Get Notifications Working</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unstick-stand-by-on-your-iphone-using-this-easy-four-step-guide/"><u>Unstick 'Stand By' On Your iPhone Using This Easy Four-Step Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721471709385-whatsapp-and-icloud-syncing-problems-discover-effective-solutions-here/"><u>WhatsApp and iCloud Syncing Problems? Discover Effective Solutions Here</u></a></li>
+</ul></div>
 

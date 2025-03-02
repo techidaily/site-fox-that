@@ -1,7 +1,7 @@
 ---
 title: Trouble with iPhone's Volume Controls? Discover 7 Quick Solutions
-date: 2025-02-06T10:27:35.253Z
-updated: 2025-02-11T03:35:12.173Z
+date: 2025-03-01T16:11:30.896Z
+updated: 2025-03-02T16:28:14.174Z
 tags:
   - iphone
   - apple
@@ -23,29 +23,17 @@ thumbnail: https://thmb.techidaily.com/2aeb02acf862b6ad4b67e9ce99d75289c32cf73cc
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Make Sure Your iPhone's Volume Buttons Are Enabled
 
  Some might not be aware of this, but there is a setting that turns your iPhone's volume buttons on and off. This setting is already enabled by default on all devices, but it's possible someone can turn it off without realizing it.
 
 ![iphone enable volume button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/iphone-enable-volume-button.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  To check this, head to**Settings > Sounds & Haptics** and toggle on**Change with Buttons** . If this isn't enabled, this could be why your volume buttons aren't working. If it's already enabled, proceed to the next fix.
 
 ## 2\. Remove Your iPhone From Its Case
 
 ![iPhone in a leather case](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/iphone-in-a-leather-case.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  iPhones are expensive, so it's likely that most of you use a case to protect them. In some instances, your case can interfere with your volume buttons. This is especially true with cases that have layers or have built-in screen protectors.
 
@@ -56,10 +44,6 @@ thumbnail: https://thmb.techidaily.com/2aeb02acf862b6ad4b67e9ce99d75289c32cf73cc
 ## 3\. Clean Your iPhone's Volume Buttons Using Alcohol
 
 ![iPhone Ring/Silent switch](https://thmb.techidaily.com/14af88c4727edfc68754682f8d9e5a16b4632ead51b56f451896cf5d83dd52e4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  We use our phones so much that dirt and grime can sometimes get under the buttons, especially when not using a case. So, press down on your buttons a few times to check if your buttons are stuck. You might need to clean them if they're stuck or don't seem to click down.
 
@@ -82,10 +66,6 @@ thumbnail: https://thmb.techidaily.com/2aeb02acf862b6ad4b67e9ce99d75289c32cf73cc
  This will wipe your phone clean and essentially make it like new. Before restoring a backup, go into the device and test the volume buttons. If they work, restore your backup.
 
  In some cases, restoring your backup might make them not work again. If that's the case, it might have been an app you tried to download, or your backup could be corrupted. Sadly, this means starting from scratch unless you have an older backup you can try restoring.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Update Your iPhone
 
@@ -114,10 +94,6 @@ thumbnail: https://thmb.techidaily.com/2aeb02acf862b6ad4b67e9ce99d75289c32cf73cc
  To use it, go to**Settings > Accessibility > Touch > AssistiveTouch** . Here, you can set your device to turn the volume down with one tap and turn it up with two taps.
 
 ![assistive touch iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/IMG_2959.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Get Your Volume Buttons Repaired
 
@@ -150,17 +126,20 @@ thumbnail: https://thmb.techidaily.com/2aeb02acf862b6ad4b67e9ce99d75289c32cf73cc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/updated-kinetic-keywords-animation-mastery-for-social-media-captions/"><u>[Updated] Kinetic Keywords Animation Mastery for Social Media Captions</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/a-step-by-step-guide-to-making-engaging-audio-promos-for-2024/"><u>A Step-by-Step Guide to Making Engaging Audio Promos for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/apps-not-downloading-on-iphone-10-fixes-to-try/"><u>Apps Not Downloading on iPhone? 10 Fixes to Try</u></a></li>
-<li><a href="https://fox-that.techidaily.com/easy-fixes-for-when-your-iphones-chatgpt-app-stops-working-9-tips/"><u>Easy Fixes for When Your iPhone's ChatGPT App Stops Working (9 Tips)</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-getting-started-free-videography-templates/"><u>In 2024, Getting Started Free Videography Templates</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/managing-system-resources-avoiding-conflict-scenarios/"><u>Managing System Resources: Avoiding Conflict Scenarios</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/slash-your-cost-snag-a-discounted-razor-blade-15-from-walmart-for-just-800-before-memorial-day-exclusive-deal-insights/"><u>Slash Your Cost: Snag a Discounted Razor Blade 15 From Walmart for Just $800 Before Memorial Day - Exclusive Deal Insights</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solving-the-launch-error-for-age-of-empires-4-expert-tips-and-solutions/"><u>Solving the Launch Error for Age of Empires 4: Expert Tips & Solutions</u></a></li>
-<li><a href="https://fox-that.techidaily.com/step-by-step-solutions-to-restore-hey-siri-functionality-on-ios-devices/"><u>Step-by-Step Solutions to Restore 'Hey Siri' Functionality on iOS Devices</u></a></li>
-<li><a href="https://extra-information.techidaily.com/top-attention-grabber-composer/"><u>Top Attention Grabber Composer</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/top-rated-text-transcription-software/"><u>Top Rated Text Transcription Software</u></a></li>
-<li><a href="https://driver-error.techidaily.com/unable-to-mute-or-disable-internal-wifibluetooth-on-windows-10-fix/"><u>Unable to Mute or Disable Internal WIFI/Bluetooth on Windows 10 – Fix?</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-mastering-hulu-capture-windows-mac-and-mobile-edition-for-2024/"><u>[New] Mastering Hulu Capture Windows, Mac & Mobile Edition for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-precise-codex-of-conduct-in-the-digital-realm/"><u>[New] Precise Codex of Conduct in the Digital Realm</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-crafting-the-perfect-strategy-exclusive-youtube-to-gmail-connection-for-2024/"><u>[Updated] Crafting the Perfect Strategy Exclusive YouTube to Gmail Connection for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-a-stepwise-journey-to-meme-mastery-in-kinemaster/"><u>[Updated] In 2024, A Stepwise Journey to Meme Mastery in KineMaster</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-the-issue-of-disappearing-schedules-in-ios-calendars/"><u>Fixing the Issue of Disappearing Schedules in iOS Calendars</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-your-tablets-unresponsive-screen-top-8-solutions/"><u>Fixing Your Tablet's Unresponsive Screen: Top 8 Solutions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/human-creativity-in-writing-unmatched-by-algorithms/"><u>Human Creativity in Writing Unmatched by Algorithms</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-download-facebook-videos-anywhere-winmacosiphone/"><u>In 2024, Download Facebook Videos Anywhere Win/macOS/iPhone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/mastering-your-digital-footprint-facebook-lives-made-easy/"><u>Mastering Your Digital Footprint Facebook Lives Made Easy</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-iphone-silence-a-step-by-step-guide-to-reactive-alarms/"><u>Overcoming iPhone Silence: A Step-by-Step Guide to Reactive Alarms</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-texting-troubles-on-iphone-7-effective-fixes/"><u>Overcoming Texting Troubles on iPhone – 7 Effective Fixes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solve-your-iphone-safari-picture-problems-effective-strategies-and-techniques/"><u>Solve Your iPhone Safari Picture Problems: Effective Strategies & Techniques</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-guide-correcting-driver-errors-for-usb-bluetooth-adapters/"><u>Step-by-Step Guide: Correcting Driver Errors for USB Bluetooth Adapters</u></a></li>
+<li><a href="https://fox-that.techidaily.com/whatsapp-not-backing-up-to-icloud-heres-how-to-fix-it/"><u>WhatsApp Not Backing Up to iCloud? Here's How to Fix It</u></a></li>
+<li><a href="https://fox-that.techidaily.com/why-wont-my-iphone-respond-to-touch-explore-the-top-seven-factors-that-could-be-affecting-your-screen/"><u>Why Won't My iPhone Respond to Touch? Explore the Top Seven Factors That Could Be Affecting Your Screen</u></a></li>
 </ul></div>
 

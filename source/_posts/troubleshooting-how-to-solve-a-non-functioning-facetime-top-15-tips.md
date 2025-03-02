@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting: How to Solve a Non-Functioning FaceTime - Top 15 Tips"
-date: 2025-02-07T20:21:25.892Z
-updated: 2025-02-11T11:24:32.561Z
+date: 2025-02-26T16:47:37.409Z
+updated: 2025-03-02T16:29:37.406Z
 tags:
   - iphone
   - apple
@@ -53,10 +53,6 @@ thumbnail: https://thmb.techidaily.com/31170fc82b47adef76e35b1dbe5e6312865cece8c
 
 ![FaceTime controls on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/08/FaceTime-controls-on-iPhone.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If people can't see or hear you on FaceTime, it could be because you've accidentally disabled your camera or microphone for that call.
 
  During a FaceTime call, reveal more controls by tapping the screen on an iPhone or iPad or hovering your mouse over the FaceTime window on a Mac. Click the**Video** and**Microphone** icons to turn your camera or microphone on and off during the call.
@@ -103,10 +99,6 @@ Close
 
 ![iphone stock app settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/iphone-stock-app-settings.JPEG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![iphone facetime settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/iphone-facetime-settings.JPEG)
 
 Close
@@ -130,29 +122,17 @@ For Group FaceTime chats, you need one of the following devices:
 
 ![group facetime on ipad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/group-facetime-on-ipad.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Image Credit:[Apple](https://www.apple.com/cm/newsroom/2021/09/apples-most-popular-ipad-delivers-even-more-performance-and-advanced-features/)
 
  FaceTime lets you start a group chat with up to 32 people at a time. But having that many people makes it difficult to know who is causing FaceTime problems. Try starting a one-to-one chat, then add extra people one at a time to find out when the problems start.
 
  If FaceTime doesn't connect for anyone at all, there must be an issue with your device or internet connection. However, if FaceTime isn't working with one person in particular, the problem probably lies at their end.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 10\. Update the Software on Your Device
 
  FaceTime might run into issues if you aren't running the latest software on your iPhone, iPad, or Mac. Update your device to the latest OS release to fix this issue. Also, make sure the person you're trying to call updates their device as well.
 
  On an iPhone or iPad, go to**Settings > General > Software Update** . On a Mac, go to**System Settings > General > Software Update** to check for a newer version.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 11\. Set the Date and Time Automatically
 
@@ -162,17 +142,9 @@ For Group FaceTime chats, you need one of the following devices:
 
 ![iphone main settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/img_7705.JPEG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![iPhone General settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/iphone-general-settings.JPEG)
 
 ![iphone date and time settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/iphone-date-and-time-settings.JPEG)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Close
 
@@ -192,17 +164,9 @@ Close
 
 ![iphone facetime toggled off in settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/iphone-facetime-toggled-off-in-settings.JPEG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Close
 
  On a Mac, open the FaceTime app and go to**FaceTime > Settings** from the menu bar. Uncheck the**Enable this account** option to turn FaceTime off. Then click**Turn On** to enable it again.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 13\. Sign Out of FaceTime, Then Sign In Again
 
@@ -229,10 +193,6 @@ Close
 ![iphone content and privacy restrictions settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/iphone-content-and-privacy-restrictions-settings.JPEG)
 
 ![allowed apps in iphone content and privacy restriction settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/allowed-apps-in-iphone-content-and-privacy-restriction-settings.JPEG)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Close
 
@@ -267,20 +227,18 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-tips.techidaily.com/new-unveiling-av1-foundations-and-fundamentals/"><u>[New] Unveiling AV1 Foundations and Fundamentals</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-why-do-imovie-trims-exist-uncovering-the-reason-for-video-cropping/"><u>[Updated] In 2024, Why Do iMovie Trims Exist? Uncovering the Reason for Video Cropping</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-boost-your-video-subtitle-skills-using-these-top-online-aids/"><u>2024 Approved Boost Your Video Subtitle Skills Using These Top Online Aids</u></a></li>
-<li><a href="https://fox-that.techidaily.com/navigate-through-these-6-tactics-to-restore-family-subscription-sharing-functions/"><u>Navigate Through These 6 Tactics to Restore Family Subscription Sharing Functions</u></a></li>
-<li><a href="https://fox-that.techidaily.com/overcome-iphone-scanning-challenges-a-guide-to-repairing-your-qr-code-reader/"><u>Overcome iPhone Scanning Challenges: A Guide to Repairing Your QR Code Reader</u></a></li>
-<li><a href="https://fox-that.techidaily.com/overcoming-delivery-hurdles-a-guide-to-solving-unsent-imessage-problems-on-ios-devices/"><u>Overcoming Delivery Hurdles: A Guide to Solving Unsent iMessage Problems on iOS Devices</u></a></li>
-<li><a href="https://fox-that.techidaily.com/reappear-the-ultimate-fix-for-lost-contact-information-on-iphones/"><u>Reappear! The Ultimate Fix for Lost Contact Information on iPhones</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-essentials-of-simple-straightforward-hdr-techniques/"><u>The Essentials of Simple, Straightforward HDR Techniques</u></a></li>
-<li><a href="https://fox-access.techidaily.com/the-ultimate-guide-to-launching-hit-online-streams/"><u>The Ultimate Guide to Launching Hit Online Streams</u></a></li>
-<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-poco-x6-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Poco X6? | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-lost-airpods-expert-tips-and-tricks-for-find-my-app-issues/"><u>Troubleshooting Lost AirPods - Expert Tips & Tricks for Find My App Issues</u></a></li>
-<li><a href="https://fox-that.techidaily.com/unlock-the-secrets-restoring-siri-suggestion-visibility-on-iphones/"><u>Unlock the Secrets: Restoring Siri Suggestion Visibility on iPhones</u></a></li>
-<li><a href="https://fox-that.techidaily.com/unsticking-your-iphone-from-constant-earbud-mode-a-guide-to-eight-effective-fixes/"><u>Unsticking Your iPhone From Constant Earbud Mode: A Guide to Eight Effective Fixes</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/xboxs-foray-into-vr-projected-price-tag-launch-window-and-comprehensive-specs-with-ongoing-news/"><u>Xbox's Foray Into VR: Projected Price Tag, Launch Window & Comprehensive Specs with Ongoing News</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/xperiawma/"><u>XperiaスマートフォンにおけるWMA音楽ファイル再生不能解決策</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ltimate-streaming-hits-for-movie-lovers/"><u>[New] Ultimate Streaming Hits for Movie Lovers</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-exploring-determinants-of-your-youtube-view-count-status/"><u>[Updated] 2024 Approved Exploring Determinants of Your YouTube View Count Status</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-how-to-create-a-3d-text-art-effect-in-adobe-illustrator/"><u>[Updated] 2024 Approved How to Create a 3D Text Art Effect in Adobe Illustrator</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-unlocking-full-gaming-potential-with-fbx-capturing/"><u>[Updated] 2024 Approved Unlocking Full Gaming Potential with FBX Capturing</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-elevate-your-content-learn-igtv-upload-techniques/"><u>2024 Approved Elevate Your Content Learn IGTV Upload Techniques</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721453827116-cant-see-your-iphone-app-discover-the-steps-to-retrieve-deleted-programs/"><u>Can't See Your iPhone App? Discover the Steps to Retrieve Deleted Programs!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/from-outdated-ai-pcs-to-cutting-edge-tech-how-microsofts-copilotplus-empowers-users-of-2024-laptops-beyond-expectations/"><u>From Outdated AI PCs to Cutting-Edge Tech: How Microsoft's Copilot+ Empowers Users of 2024 Laptops Beyond Expectations</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-handle-when-your-iphone-displays-phone-numbers-rather-than-contact-names/"><u>How to Handle When Your iPhone Displays Phone Numbers Rather Than Contact Names</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/iphone-15-pro-max-one-cent-offer-on-amazon-heres-what-you-need-to-know-zdnet-exclusive-insight/"><u>IPhone 15 Pro Max One Cent Offer on Amazon? Here's What You Need to Know | ZDNet Exclusive Insight</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-vpn-connection-problems-on-iphone-a-comprehensive-list-of-asterixes/"><u>Overcoming VPN Connection Problems on iPhone: A Comprehensive List of Asterixes</u></a></li>
+<li><a href="https://windows11.techidaily.com/reinvigorating-deactivated-alerts-of-phone-link-app-in-windows/"><u>Reinvigorating Deactivated Alerts of Phone Link App in Windows</u></a></li>
+<li><a href="https://fox-that.techidaily.com/step-by-step-tutorial-rectifying-person-identification-mistakes-on-apple-camera-roll/"><u>Step-by-Step Tutorial: Rectifying Person Identification Mistakes on Apple Camera Roll</u></a></li>
+<li><a href="https://fox-that.techidaily.com/why-arent-siri-suggestions-appearing-on-your-iphone-troubleshooting-steps-inside/"><u>Why Aren't Siri Suggestions Appearing on Your iPhone? Troubleshooting Steps Inside</u></a></li>
 </ul></div>
 

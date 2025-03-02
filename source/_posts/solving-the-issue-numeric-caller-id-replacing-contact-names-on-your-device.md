@@ -1,7 +1,7 @@
 ---
 title: "Solving the Issue: Numeric Caller ID Replacing Contact Names on Your Device"
-date: 2024-08-22T22:58:49.994Z
-updated: 2024-08-23T22:58:49.994Z
+date: 2025-02-24T16:09:54.448Z
+updated: 2025-03-02T16:01:19.777Z
 tags:
   - iphone
   - apple
@@ -22,9 +22,6 @@ thumbnail: https://thmb.techidaily.com/56e9a63f6cd0da6aa662fe6ddfb8ba418b2232ba0
 
  Your browser does not support the video tag.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ## Why Does Your Contact Name Disappear?
 
  When you initially see the Messages app showing a phone number instead of a contact name, you may think someone random has messaged you.
@@ -50,9 +47,6 @@ thumbnail: https://thmb.techidaily.com/56e9a63f6cd0da6aa662fe6ddfb8ba418b2232ba0
 3. Add the country code to the start of their phone number, using either the full format (0044) or the short format (+44). Make sure you get the right country code for their device, which should be what shows up in the Messages app.
 4. Click**Done** .
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Contact Edit menu in iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/contact-edit-menu-in-ios.jpg)
 
 ![Add Country Code to Number](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Fix-Messages-Not-Showing-Contact-Number.jpg)
@@ -65,10 +59,6 @@ Close
 
  Once you fix a phone number, you'll see Messages will automatically merge the conversations split across different chats.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ## Toggle iCloud Contacts
 
  Some people have reported iCloud contacts being the reason behind this issue. If you are syncing your contacts with your iCloud account, it might be worth re-syncing them, which might fix the issue.
@@ -83,23 +73,14 @@ To do this, follow these steps on your iPhone:
 6. Wait for a few seconds and then turn**Contacts** back on. When you are asked, select**Merge** . This will merge all your contacts with your phone's contacts.
 7. Now, restart your device, and this should fix the issue.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Settings on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Fix-Messages-Not-Showing-iCloud.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Password and Security in iPhone iCloud Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/2FA-iPhone-Password-and-Security.jpg)
 
 ![Contacts in iCloud Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Fix-Messages-Not-Showing-iCloud-Contacts.jpg)
 
 Close
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix Messages Showing Phone Numbers Instead of Contact Names
 
  Hopefully, these three fixes should fix the issue of the Messages app showing phone numbers instead of contact names, and you'll be able to resume your normal conservation with your friends and loved ones. If none of these tips work, you may want to contact Apple support to help you get it fixed.
@@ -110,8 +91,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -119,6 +98,23 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-unraveling-instagrams-video-time-restrictions-for-2024/"><u>[New] Unraveling Instagram's Video Time Restrictions for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-preventing-unwanted-filming-in-quicktime-for-2024/"><u>[Updated] Preventing Unwanted Filming in QuickTime for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/as-vgs-the-voltage-between-the-gate-and-source-becomes-more-negative-the-channel-through-which-current-flows-from-the-drain-to-the-source-starts-to-constric20/"><u>As VGS (the Voltage Between the Gate and Source) Becomes More Negative, the Channel Through Which Current Flows From the Drain to the Source Starts to Constrict. This Is because a Negative VGS Repels Electrons in the Channel, Making It Narrower.</u></a></li>
+<li><a href="https://techtrends.techidaily.com/cant-log-in-to-facebook-without-an-email-or-number-discover-alternative-passwords-restoration-methods/"><u>Can't Log In to Facebook without an Email or Number? Discover Alternative Passwords Restoration Methods.</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-motorola-g24-power-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Motorola G24 Power | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-fix-your-iphone-cant-be-seen-in-itunes-or-finder-quick-solutions/"><u>How to Fix Your iPhone Can't Be Seen in iTunes or Finder: Quick Solutions!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-videos-from-your-play-7t-by-fonelab-android-recover-video/"><u>How to recover old videos from your Play 7T</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-honor-x50-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Honor X50? | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/instagram-not-running-smoothly-master-these-six-fixes-for-a-better-performance-across-android-and-ios-platforms/"><u>Instagram Not Running Smoothly? Master These Six Fixes for a Better Performance Across Android and iOS Platforms</u></a></li>
+<li><a href="https://win-dash.techidaily.com/intel-graphics-driver-upgrade-how-to-refresh-your-windows-11-display-experience/"><u>Intel Graphics Driver Upgrade: How to Refresh Your Windows 11 Display Experience</u></a></li>
+<li><a href="https://fox-that.techidaily.com/quick-solutions-how-to-rapidly-repair-airdrop-issues-using-16-effective-tips/"><u>Quick Solutions: How to Rapidly Repair AirDrop Issues Using 16 Effective Tips</u></a></li>
+<li><a href="https://fox-that.techidaily.com/recover-lost-or-stolen-iphones-utilizing-apples-powerful-find-my-tool/"><u>Recover Lost or Stolen iPhones: Utilizing Apple's Powerful Find My Tool</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/snapshots-and-snickers-the-art-of-memery/"><u>Snapshots and Snickers The Art of Memery</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/sound-stuttering-distortion-problem-on-windows-117-solved/"><u>Sound Stuttering / Distortion Problem on Windows 11/7 [Solved]</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721466911363-the-ultimate-guide-to-fixing-ghost-touch-on-iphones-learn-from-the-top-10-tips/"><u>The Ultimate Guide to Fixing Ghost Touch on iPhones - Learn From the Top 10 Tips!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-iphoneipad-to-restore-functional-icloud-preferences/"><u>Troubleshooting iPhone/iPad to Restore Functional iCloud Preferences</u></a></li>
+</ul></div>
 

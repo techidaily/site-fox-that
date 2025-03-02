@@ -1,7 +1,7 @@
 ---
 title: "Solving the Issue: Unexpected Sites in Screen Time on iPhone"
-date: 2025-02-10T11:15:52.808Z
-updated: 2025-02-10T22:56:42.794Z
+date: 2025-02-26T16:43:33.128Z
+updated: 2025-03-02T16:01:53.016Z
 tags:
   - iphone
   - apple
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/971a75711e8320cab50ce3d6d3f20ecd50a3ca987
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Why Is Your iPhone Screen Time Showing Random Websites?
 
  According to hundreds of users from online forums, Screen Time has a bug where a website you have previously visited continues to appear in its settings.
@@ -45,10 +41,6 @@ thumbnail: https://thmb.techidaily.com/971a75711e8320cab50ce3d6d3f20ecd50a3ca987
 
  But if the first two solutions don't work, your next steps would be to clear your Safari website data and history on all your iCloud-linked devices. You may also need to reset the Screen Time feature.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How to Clear the History and Website Data on Your iPhone
 
  On your iPhone, go to**Settings > Safari** . Then, select**Clear History and Website Data** . Lastly, tap**Clear History and Data** to confirm.
@@ -56,10 +48,6 @@ thumbnail: https://thmb.techidaily.com/971a75711e8320cab50ce3d6d3f20ecd50a3ca987
 ![iPhone Settings Safari](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/IMG_8806.PNG)
 
 ![Safari Clear Website History](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/IMG_8807.PNG)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![Safari Clear Website History](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/IMG_8808.PNG)
 
@@ -77,19 +65,11 @@ Close
 
 ![Screen Time Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/IMG_8810.PNG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Turn Off Screen Time](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/IMG_8809.PNG)
 
 Close
 
  If you encounter some issues with this step, you can refer to our guide on [how to turn off Screen Time on your iPhone](https://www.makeuseof.com/turn-off-screen-time/) for more details.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fixing the Screen Time Glitch on Your iPhone
 
@@ -112,21 +92,22 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-how-to-upload-and-upgrade-your-horizons-in-igtvs-format/"><u>[Updated] 2024 Approved How to Upload & Upgrade Your Horizons in IGTV's Format</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-from-online-video-beats-to-your-phones-ringtones-a-simple-guide/"><u>[Updated] From Online Video Beats to Your Phone's Ringtones A Simple Guide</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-achieving-perfect-picture-quality-on-zoom/"><u>2024 Approved Achieving Perfect Picture Quality on Zoom</u></a></li>
-<li><a href="https://fox-that.techidaily.com/beta-blockers-reduce-heart-rate-and-blood-pressure-by-blocking-beta-1-receptors-in-the-heart/"><u>Beta Blockers Reduce Heart Rate and Blood Pressure by Blocking Beta-1 Receptors in the Heart.</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1723808238592-conquer-the-map-triumph-over-foes-advanced-tactics-to-skyrocket-your-fps-in-fortnites-ultimate-showdown-the-next-level-awaits/"><u>Conquer the Map, Triumph Over Foes: Advanced Tactics to Skyrocket Your FPS in Fortnite's Ultimate Showdown - The Next Level Awaits</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/cursor-enters-blacked-out-win11/"><u>Cursor Enters Blacked Out Win11</u></a></li>
-<li><a href="https://fox-that.techidaily.com/effective-methods-for-extracting-water-from-iphone-sound-outputs/"><u>Effective Methods for Extracting Water From iPhone Sound Outputs</u></a></li>
-<li><a href="https://fox-that.techidaily.com/essential-solutions-for-overcoming-sos-signal-malfunction-in-iphone-status-bars-a-comprehensive-guide/"><u>Essential Solutions for Overcoming 'SOS' Signal Malfunction in iPhone Status Bars: A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-fix-that-unwanted-amber-glow-on-your-iphones-panel-top-9-tips-and-tricks/"><u>How to Fix That Unwanted Amber Glow on Your iPhone's Panel: Top 9 Tips & Tricks</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-watch-hulu-outside-us-on-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Samsung Galaxy S24+ | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-the-complete-wm-maker-playbook-for-youtube-clips-perfection/"><u>In 2024, The Complete WM Maker Playbook for YouTube Clips Perfection</u></a></li>
-<li><a href="https://fox-place.techidaily.com/quick-guide-how-to-move-your-applications-seamlessly-between-pcs-using-windows-11/"><u>Quick Guide: How to Move Your Applications Seamlessly Between PCs Using Windows 11</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721469247018-revamp-your-screen-time-security-learn-how-to-change-your-apple-devices-password-today/"><u>Revamp Your Screen Time Security: Learn How to Change Your Apple Device's Password Today</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/stunning-bmw-i8-roadster-hd-visuals-for-enhanced-user-experience-professional-graphics-by-yl-computing/"><u>Stunning BMW I8 Roadster HD Visuals for Enhanced User Experience – Professional Graphics by YL Computing</u></a></li>
-<li><a href="https://fox-that.techidaily.com/the-definitive-list-of-15-proven-fixes-for-every-type-of-iphone-dilemma/"><u>The Definitive List of 15 Proven Fixes for Every Type of iPhone Dilemma</u></a></li>
-<li><a href="https://fox-that.techidaily.com/top-11-solutions-what-to-do-when-airpods-vanish-from-find-my-on-iphone/"><u>Top 11 Solutions: What To Do When AirPods Vanish From 'Find My' On iPhone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-effortless-image-capturing-on-chrome-devices-method-4/"><u>[New] 2024 Approved Effortless Image Capturing on Chrome Devices (Method #4)</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-pro-level-pc-webcam-recorders-tested-in-windows-11/"><u>[Updated] In 2024, Pro-Level PC Webcam Recorders Tested in Windows 11</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-master-the-art-of-youtube-video-sizing-shape-and-clarity-for-2024/"><u>[Updated] Master the Art of YouTube Video Sizing, Shape & Clarity for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/7-proven-ways-to-reactivate-depth-effect-feature-on-ios-16-lock-screen/"><u>7 Proven Ways to Reactivate Depth Effect Feature on iOS 16 Lock Screen</u></a></li>
+<li><a href="https://games-able.techidaily.com/choosing-top-quality-work-flooring-systems/"><u>Choosing Top-Quality Work Flooring Systems</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722959693178-easy-access-to-your-msi-x470-gaming-performance-optimizers-download-here/"><u>Easy Access to Your MSI X470 Gaming Performance Optimizers - Download Here</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fix-a-broken-tablet-display-8-tips-for-reviving-the-touchscreen/"><u>Fix a Broken Tablet Display: 8 Tips for Reviving the Touchscreen</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fix-your-iphones-standby-issue-with-these-4-methods/"><u>Fix Your iPhone's Standby Issue with These 4 Methods</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/from-capture-to-curve-an-insider-look-at-editing-and-sharing-360-videos-on-youtube-for-2024/"><u>From Capture to Curve An Insider Look at Editing and Sharing 360° Videos on YouTube for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-fix-a-malfunctioning-facetime-in-just-15-steps/"><u>How To Fix a Malfunctioning FaceTime in Just 15 Steps</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-common-icloud-connectivity-challenges-solutions-for-smooth-syncing/"><u>Overcoming Common iCloud Connectivity Challenges: Solutions for Smooth Syncing</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/quick-start-essential-hp-photosmart-7520-printing-drivers-free-downloads/"><u>Quick Start: Essential HP Photosmart 7520 Printing Drivers - Free Downloads</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solve-iphone-display-lag-quick-fixes-for-slow-screen-shutdown/"><u>Solve iPhone Display Lag: Quick Fixes for Slow Screen Shutdown</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-8-solutions-and-hacks-for-iphone-photo-library-woes/"><u>Top 8 Solutions & Hacks for iPhone Photo Library Woes</u></a></li>
+<li><a href="https://blog-min.techidaily.com/ultimate-guide-to-cracking-secure-disney-and-sony-dvds-with-these-6-leading-applications/"><u>Ultimate Guide to Cracking Secure Disney and Sony DVDs with These 6 Leading Applications</u></a></li>
+<li><a href="https://fox-that.techidaily.com/wi-fi-woes-discover-8-strategies-to-supercharge-your-iphones-network-speed/"><u>Wi-Fi Woes? Discover 8 Strategies to Supercharge Your iPhone's Network Speed</u></a></li>
+<li><a href="https://win-updates.techidaily.com/1728479323676-windows-7/"><u>Windows 7復原隱藏分割區的高效解決方案 - 選手級建議</u></a></li>
 </ul></div>
 

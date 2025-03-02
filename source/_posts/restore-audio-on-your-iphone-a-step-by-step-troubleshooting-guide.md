@@ -1,7 +1,7 @@
 ---
 title: "Restore Audio on Your iPhone: A Step-by-Step Troubleshooting Guide"
-date: 2025-02-08T16:57:27.859Z
-updated: 2025-02-11T09:06:52.439Z
+date: 2025-02-28T16:41:04.824Z
+updated: 2025-03-02T16:49:16.134Z
 tags:
   - iphone
   - apple
@@ -48,10 +48,6 @@ Close
 
  If it’s not dust and dirt, try to recall whether you accidentally dropped your iPhone in water recently. While iPhones are water-resistant, water may still get into your speakers. You can use the [Sonic](https://apps.apple.com/app/sonic/id986999895) app to eject water from the speakers if this is the case.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Turn Off Silent Mode and Do Not Disturb
 
  It’s convenient to use Silent Mode and Do Not Disturb to focus at work. Therefore, a simple reason why there’s no sound on your iPhone could be that these features are still turned on.
@@ -75,10 +71,6 @@ Here’s how to turn off Do Not Disturb or Focus:
 
 Close
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Check Your iPhone’s Audio Output
 
  There may be no sound on your iPhone because you have Bluetooth turned on and it has automatically connected to an active Bluetooth audio device, such as wireless earbuds. Therefore, your iPhone’s sound is actually playing from those instead of the speakers.
@@ -90,15 +82,7 @@ Close
 
 ![bluetooth turned on iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/bluetooth-on.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![iphone control center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/bluetooth-off-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Close
 
@@ -108,10 +92,6 @@ Close
 2. Check that**iPhone** is selected.
 
 ![iphone control center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/iphone-control-center.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![airplay on iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/airplay-iphone.jpg)
 
@@ -156,29 +136,13 @@ Close
 
 ![person holding iphone showing instagram post](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/instagram-post.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can also opt to view the video through another route. Instead of watching the video in your Instagram feed, tap into that Instagram profile and select the video from there instead.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 8\. Update iOS and Your iPhone Apps
 
 ![iphone on wooden surface showing hello welcome screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/iphone-hello.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Updates often come with fixes for bugs and glitches, so you can solve the issue of no sound on your iPhone by simply keeping your iOS and apps up-to-date. For more information, refer to our guide on [how to update your iPhone](https://www.makeuseof.com/tag/update-iphone-ios-apps-data/) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 9\. Force Restart Your iPhone
 
@@ -211,19 +175,22 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-ranking-android-6-premier-podcast-platforms/"><u>[New] Ranking Android 6 Premier Podcast Platforms</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-step-by-step-iphone-music-video-production-basics-for-2024/"><u>[New] Step-by-Step IPhone Music Video Production Basics for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-masterful-ways-of-scrolling-through-appreciated-youtube-feedback/"><u>[Updated] Masterful Ways of Scrolling Through Appreciated YouTube Feedback</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-iron-out-instability-in-iphone-videography-effortlessly/"><u>2024 Approved Iron Out Instability in iPhone Videography Effortlessly</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-premium-software-solutions-for-visual-storytelling-from-pictures/"><u>2024 Approved Premium Software Solutions for Visual Storytelling From Pictures</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/2024-rankings-top-comfort-enhancing-keyboard-wrist-rest-accessories/"><u>2024 Rankings: Top Comfort-Enhancing Keyboard Wrist Rest Accessories</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/best-free-360-degree-video-viewers-top-picks-compatible-with-windows-11-and-mac-os-download/"><u>Best Free 360-Degree Video Viewers: Top Picks Compatible with Windows 11 & Mac OS (Download)</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fixing-incompatibility-making-all-iphone-accessories-work-together-smoothly/"><u>Fixing Incompatibility: Making All iPhone Accessories Work Together Smoothly</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/quick-and-effortless-guide-transferring-your-entire-iphone-library-to-your-personal-computer/"><u>Quick and Effortless Guide: Transferring Your Entire iPhone Library to Your Personal Computer</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/revolutionary-collages-made-simple-by-picshot/"><u>Revolutionary Collages Made Simple by Picshot</u></a></li>
-<li><a href="https://fox-that.techidaily.com/slow-iphones-demystified-6-reasons-and-fix-it-tips/"><u>Slow iPhones Demystified: 6 Reasons and Fix-It Tips</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solve-your-iphones-safari-image-problem-with-these-9-handy-tips/"><u>Solve Your iPhone's Safari Image Problem with These 9 Handy Tips</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-gps-problems-when-location-not-available-appears-on-iphone/"><u>Troubleshooting GPS Problems When 'Location Not Available' Appears on iPhone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/unstuck-your-family-sharing-essential-steps-and-quick-fixes-you-must-try/"><u>Unstuck Your Family Sharing: Essential Steps & Quick Fixes You Must Try</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-the-art-of-slow-motion-a-guide-for-instagrams-next-viral-reels/"><u>[Updated] The Art of Slow-Motion A Guide for Instagram's Next Viral Reels</u></a></li>
+<li><a href="https://fox-that.techidaily.com/7-rapid-repairs-restore-predictive-emoji-feature-on-iphone-and-ipad-instantly/"><u>7 Rapid Repairs: Restore Predictive Emoji Feature on iPhone and iPad Instantly!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/addressing-undelivered-imessages-techniques-for-iphone-owners/"><u>Addressing Undelivered iMessages: Techniques for iPhone Owners</u></a></li>
+<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-nokia-105-classic-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Nokia 105 Classic | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/dyra-fotballfantasimarkeslista-for-windows-nasta-ar-basta-14-spelare-med-programvarorna-i-2024/"><u>Dyra Fotballfantasimärkeslista För Windows Nästa År: Bästa 14 Spelare Med Programvarorna I 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/giveaway-glitches-5-common-hurdles-in-apples-gifting-feature/"><u>Giveaway Glitches: 5 Common Hurdles in Apple's Gifting Feature</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-handle-changing-phone-number-displays-in-your-messaging-app/"><u>How to Handle Changing Phone Number Displays in Your Messaging App</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-oneplus-ace-3-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On OnePlus Ace 3 | Dr.fone</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/incorporando-o-windows-10-ao-seu-novo-ssd-duas-tecnicas-distintas-para-a-configuracao-inicial/"><u>Incorporando O Windows 10 Ao Seu Novo SSD: Duas Técnicas Distintas Para a Configuração Inicial</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-alert-fixes-while-on-dnd-mode-a-guide-to-getting-your-messages-and-calls-through-including-8-tactics/"><u>IPhone Alert Fixes While on DND Mode: A Guide to Getting Your Messages & Calls Through, Including 8 Tactics</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigate-the-options-menu-win11-pointer-personalization-guide/"><u>Navigate the Options Menu: Win11 Pointer Personalization Guide</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-poco-x6-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Poco X6 Black and White | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/step-by-step-tutorial-on-seeking-help-for-your-iphone-with-apples-dedicated-app/"><u>Step-by-Step Tutorial on Seeking Help for Your iPhone with Apple's Dedicated App</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/streamlined-social-media-management-our-picks-of-the-best-8-planners/"><u>Streamlined Social Media Management Our Picks of the Best 8 Planners</u></a></li>
+<li><a href="https://fox-that.techidaily.com/struggling-with-iphone-notifications-disappearing-implement-7-proven-fixes-today/"><u>Struggling with iPhone Notifications Disappearing? Implement 7 Proven Fixes Today</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-ultimate-guide-to-repairing-your-windows-10-crimson-display-problem/"><u>The Ultimate Guide to Repairing Your Windows 10 Crimson Display Problem</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlocking-iphone-message-and-call-settings-in-dnd-mode-eight-effective-fixes-revealed/"><u>Unlocking iPhone Message and Call Settings in DND Mode: Eight Effective Fixes Revealed</u></a></li>
 </ul></div>
 

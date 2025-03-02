@@ -1,7 +1,7 @@
 ---
 title: "Reviving iPhone Functionality: How To Restore Non-Emergency Features When SOS Is Persistent"
-date: 2025-02-06T00:05:48.972Z
-updated: 2025-02-10T18:44:54.442Z
+date: 2025-02-27T16:12:12.665Z
+updated: 2025-03-02T16:07:02.208Z
 tags:
   - iphone
   - apple
@@ -45,10 +45,6 @@ Close
 
 ![iPhone cellular data options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-settings-data-roaming.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Close
 
  To enable Data Roaming on your iPhone, go to**Settings > Cellular > Cellular Data Options** . Then, toggle on the**Data Roaming** switch.
@@ -63,17 +59,9 @@ Close
 
 ![iPhone 5G and LTE options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-voice-data-5g-settings.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Close
 
  Go to**Settings > Cellular > Cellular Data Options** like before, but this time tap**Voice & Data** . If**5G On** or**5G Auto** is selected, choose**LTE** and see if that gets rid of the SOS Only status.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Restart Your iPhone
 
@@ -83,10 +71,6 @@ Close
 
 [The steps to restart your iPhone](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) are different depending on which model you have, but it's pretty easy nonetheless.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Check for Carrier Settings Update
 
  Sometimes, carriers roll out over-the-air updates that can solve problems with connectivity. To check if one is available for your iPhone, open**Settings** , then go to**General > About** and wait for a few seconds.
@@ -94,10 +78,6 @@ Close
 ![iPhone Settings menu showing General](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-settings-general.jpg)
 
 ![iPhone General settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/iphone-settings-general-about.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Close
 
@@ -108,10 +88,6 @@ Close
  When all else fails, you should contact your carrier to see what's going on. Since having SOS Only status on your iPhone greatly limits the features you can use, you wouldn't want to have it for long.
 
  There may be an issue with your cell service that's worth getting to the bottom of. So, visit your carrier's website and search for a contact or support page to get a customer support phone number.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Getting to the Bottom of "SOS Only"
 
@@ -134,20 +110,16 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/updated-shopping-guide-to-top-10-mystery-boxes-purchase-sites/"><u>[Updated] Shopping Guide to Top 10 Mystery Boxes Purchase Sites</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-culinary-waves-tiktoks-most-shared-meals/"><u>2024 Approved Culinary Waves TikTok's Most Shared Meals</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-apples-new-nfc-capabilities-in-iphones-enhance-integration-with-third-party-applications-the-comprehensive-guide-tech-insights/"><u>How Apple's New NFC Capabilities in iPhones Enhance Integration with Third-Party Applications: The Comprehensive Guide | Tech Insights</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-motorola-defy-2-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Motorola Defy 2</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-top-7-icloud-activation-bypass-tools-for-your-apple-iphone-se-2022-by-drfone-ios/"><u>In 2024, Top 7 iCloud Activation Bypass Tools For your Apple iPhone SE (2022)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/instructions-to-launch-system-file-checker-sfc-tool/"><u>Instructions to Launch System File Checker (SFC) Tool</u></a></li>
-<li><a href="https://fox-that.techidaily.com/iphone-auto-dim-functionality-explained-here-are-the-top-10-triggers-for-you/"><u>IPhone Auto-Dim Functionality Explained: Here Are the Top 10 Triggers for You</u></a></li>
-<li><a href="https://fox-that.techidaily.com/overcoming-guided-access-problems-on-ios-devices-top-six-fixes/"><u>Overcoming Guided Access Problems on iOS Devices – Top Six Fixes!</u></a></li>
-<li><a href="https://fox-that.techidaily.com/quick-fixes-for-a-slow-safari-on-ios-devices-discover-4-effective-strategies/"><u>Quick Fixes for a Slow Safari on iOS Devices - Discover 4 Effective Strategies</u></a></li>
-<li><a href="https://fox-that.techidaily.com/resolving-hurdles-in-family-subscription-management-6-effective-strategies-for-seamless-sharing/"><u>Resolving Hurdles in Family Subscription Management: 6 Effective Strategies for Seamless Sharing</u></a></li>
-<li><a href="https://win11.techidaily.com/restoring-lost-configuration-in-nvidias-windows-software/"><u>Restoring Lost Configuration in NVIDIA's Windows Software</u></a></li>
-<li><a href="https://fox-that.techidaily.com/steps-to-resolve-missed-inbound-call-problems-on-an-iphone/"><u>Steps to Resolve Missed Inbound Call Problems on an iPhone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/top-6-troubleshooting-steps-stop-airpods-from-sticking-to-one-device/"><u>Top 6 Troubleshooting Steps: Stop AirPods From Sticking to One Device</u></a></li>
-<li><a href="https://fox-that.techidaily.com/unmuted-or-stuck-on-sound-learn-how-to-manage-your-iphones-volume-settings-without-the-side-button/"><u>Unmuted or Stuck on Sound? Learn How to Manage Your iPhone's Volume Settings Without the Side Button</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/upgrading-your-epson-wf-7720-the-ultimate-guide-to-installing-latest-printer-drivers-in-windows/"><u>Upgrading Your Epson WF-7720: The Ultimate Guide to Installing Latest Printer Drivers in Windows</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-pivot-to-alternatives-considerations-with-vidmas-reader/"><u>[New] 2024 Approved Pivot to Alternatives? Considerations with Vidma's Reader</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-complete-razer-kiyo-webcam-overview/"><u>2024 Approved Complete Razer Kiyo Webcam Overview</u></a></li>
+<li><a href="https://fox-that.techidaily.com/decoding-iphone-message-changes-are-you-really-blocked/"><u>Decoding iPhone Message Changes: Are You Really Blocked?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/essential-setup-sequences-preparing-and-configuring-your-new-computer-in-5-steps/"><u>Essential Setup Sequences: Preparing and Configuring Your New Computer in 5 Steps</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fix-your-iphones-dimming-display-7-steps-for-improved-auto-brightness-control/"><u>Fix Your iPhone's Dimming Display: 7 Steps for Improved Auto-Brightness Control</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-for-beginners-the-top-8-versatile-cameras-under-400/"><u>In 2024, For Beginners The Top 8 Versatile Cameras Under $400</u></a></li>
+<li><a href="https://discover-great.techidaily.com/prproj-to-mp4/"><u>PRPROJ to MP4コンバージョンガイド：ファイル変換方法の紹介</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-iphones-usb-c-error-a-step-by-step-guide/"><u>Solving iPhone's USB-C Error: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/steps-to-resolve-message-error-code-mm-when-setting-up-new-sim/"><u>Steps to Resolve Message Error Code MM when Setting Up New SIM</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-smart-users-guide-to-chatgpt-on-macos/"><u>The Smart User's Guide to ChatGPT on macOS</u></a></li>
+<li><a href="https://fox-that.techidaily.com/the-ultimate-guide-to-restoring-imessage-functionality-after-receiving-signed-out-notifications-on-your-iphone/"><u>The Ultimate Guide to Restoring iMessage Functionality After Receiving Signed Out Notifications on Your iPhone</u></a></li>
 </ul></div>
 

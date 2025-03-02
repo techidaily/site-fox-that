@@ -1,7 +1,7 @@
 ---
 title: Can't Use the Silent Switch on Your iPhone? Learn Alternative Ways to Control Sound Settings
-date: 2025-02-06T00:10:02.188Z
-updated: 2025-02-11T11:09:58.469Z
+date: 2025-02-23T16:25:32.834Z
+updated: 2025-03-02T16:16:16.816Z
 tags:
   - iphone
   - apple
@@ -34,10 +34,6 @@ thumbnail: https://thmb.techidaily.com/50a0e21454dc02c593e958f3f8488f7e3d42941b9
 
 ![iPhone Accessibility settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-with-assistivetouch-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Touch settings on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-with-assistivetouch-3.jpg)
 
 ![enabling AssistiveTouch on iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-with-assistivetouch-4.jpg)
@@ -47,10 +43,6 @@ Close
 * When you want to mute your iPhone, tap the AssistiveTouch (virtual) button on the screen, select**Device** from the menu, and hit**Mute** .
 
 ![AssistiveTouch top-level menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-with-assistivetouch-5.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![Mute option in AssistiveTouch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-with-assistivetouch-6.jpg)
 
@@ -80,10 +72,6 @@ Close
 
 ![adding a new button to the AssistiveTouch menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customizing-assistivetouch-top-level-menu-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![selecting Mute action for the new AssistiveTouch button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customizing-assistivetouch-top-level-menu-4.jpg)
 
 ![Mute action in AssistiveTouch's top-level menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customizing-assistivetouch-top-level-menu-5.jpg)
@@ -105,17 +93,9 @@ Follow these simple instructions to get this done:
 
 ![adding Mute action to Double-Tap gesture](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/setting-a-custom-action-for-assistivetouch-button-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Close
 
  Once set up, muting and unmuting your iPhone should be even easier. Simply perform the gesture to which you've assigned the Mute action, and it'll mute the device. Repeat it again to unmute.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Mute or Unmute iPhone Using Back Tap
 
@@ -128,10 +108,6 @@ Close
 
 ![iPhone Accessibility settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-using-back-tap-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Back Tap feature under Touch Accessibility settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-using-back-tap-2.jpg)
 
 Close
@@ -143,15 +119,7 @@ Close
 
 ![Back Tap gesture options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-using-back-tap-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![setting Mute action to a Back Tap gesture](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mute-unmute-iphone-using-back-tap-4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Close
 
@@ -180,24 +148,20 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-virtual-realms-evolutions-tale-for-2024/"><u>[New] Virtual Realms Evolution's Tale for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-building-your-ultimate-youtube-music-list-step-by-step-guide-webmobile/"><u>[Updated] In 2024, Building Your Ultimate YouTube Music List Step-by-Step Guide (Web/Mobile)</u></a></li>
-<li><a href="https://fox-that.techidaily.com/7-easy-ways-to-fix-imessage-not-working-on-an-iphone-ipad-or-mac/"><u>7 Easy Ways to Fix iMessage Not Working on an iPhone, iPad, or Mac</u></a></li>
-<li><a href="https://techidaily.com/beware-of-fake-help-social-media-bots-posing-as-travel-support-agents/"><u>Beware of Fake Help: Social Media Bots Posing as Travel Support Agents</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-decoded-ais-new-era-in-creative-generation/"><u>ChatGPT Decoded: AI’s New Era in Creative Generation</u></a></li>
-<li><a href="https://fox-that.techidaily.com/enhance-your-safari-speed-4-efficient-methods-for-optimizing-iphone-usage/"><u>Enhance Your Safari Speed: 4 Efficient Methods for Optimizing iPhone Usage</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fixing-iphone-control-center-issues-discover-these-8-effective-solutions/"><u>FIXING Iphone Control Center Issues – Discover These 8 Effective Solutions</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-utilize-dfu-mode-on-your-iphone-effectively-a-users-manual/"><u>How to Utilize DFU Mode on Your iPhone Effectively: A User's Manual</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-google-pixel-fold-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Google Pixel Fold Devices | Dr.fone</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/nd-android-tips-for-silent-youtube-viewing-for-2024/"><u>IOS & Android Tips for Silent YouTube Viewing for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/mastering-proper-spelling-6-tips-for-overcoming-iphone-autocorrect-issues/"><u>Mastering Proper Spelling: 6 Tips for Overcoming iPhone AutoCorrect Issues</u></a></li>
-<li><a href="https://fox-that.techidaily.com/missing-app-on-your-iphone-discover-the-techniques-to-retrieve-it-now/"><u>Missing App on Your iPhone? Discover the Techniques to Retrieve It Now!</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solving-iphone-emergency-top-6-solutions-for-sos-signal-appearing-on-your-device/"><u>Solving iPhone Emergency: Top 6 Solutions for 'SOS Signal' Appearing on Your Device</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/stay-ahead-the-creme-de-la-liste-of-tiktok-font-generators/"><u>Stay Ahead The Crème De La Liste of TikTok Font Generators</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/studio-masterclass-in-depth-xvideostudio-report/"><u>Studio Masterclass In-Depth XVideoStudio Report</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/tips-and-tricks-for-setting-up-your-honor-magic-5-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Honor Magic 5 Phone Pattern Lock</u></a></li>
-<li><a href="https://fox-that.techidaily.com/top-10-factors-causing-your-iphones-auto-dimming-display/"><u>Top 10 Factors Causing Your iPhone's Auto-Dimming Display</u></a></li>
-<li><a href="https://fox-that.techidaily.com/unstick-your-airpods-6-guides-for-effortless-transfer-between-macbook-iphone-and-ipad/"><u>Unstick Your AirPods: 6 Guides for Effortless Transfer Between MacBook, iPhone & iPad</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-10-top-rated-image-to-video-creation-platforms/"><u>Updated 10 Top-Rated Image to Video Creation Platforms</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-the-ultimate-iphone-playlist-podcast-tips-for-2024/"><u>[Updated] The Ultimate iPhone Playlist Podcast Tips for 2024</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/2024-approved-10-best-free-websites-to-watch-cartoons-online/"><u>2024 Approved 10 Best Free Websites to Watch Cartoons Online</u></a></li>
+<li><a href="https://fox-that.techidaily.com/dealing-with-invisible-names-and-visible-phone-numbers-in-messaging-conversations/"><u>Dealing With Invisible Names and Visible Phone Numbers in Messaging Conversations</u></a></li>
+<li><a href="https://fox-that.techidaily.com/enhancing-facial-recognition-in-the-photos-app-tips-to-correctly-tag-your-loved-ones-on-macos/"><u>Enhancing Facial Recognition in the Photos App – Tips to Correctly Tag Your Loved Ones on macOS</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/exploring-the-financial-framework-of-youtubes-burgeoning-shorts-fund/"><u>Exploring the Financial Framework of YouTube's Burgeoning Shorts Fund</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-erase-all-content-on-your-apple-device-a-simple-factory-reset-guide/"><u>How to Erase All Content on Your Apple Device: A Simple Factory Reset Guide</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-motorola-g24-power-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Motorola G24 Power</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-navigating-youtubes-digital-canvas-studio-essentials/"><u>In 2024, Navigating YouTube's Digital Canvas Studio Essentials</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-vivo-s18-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Vivo S18 Device</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-top-choice-vr-game-engines-update-march-2023/"><u>In 2024, Top Choice VR Game Engines Update - March 2023</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/quick-tips-modifying-snapchat-video-velocity/"><u>Quick Tips Modifying Snapchat Video Velocity</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolve-tablet-touch-issues-effective-strategies-to-enhance-screen-interaction/"><u>Resolve Tablet Touch Issues: Effective Strategies to Enhance Screen Interaction</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-the-on-hold-charging-issue-8-effective-solutions-for-your-iphone/"><u>Solving the 'On-Hold' Charging Issue: 8 Effective Solutions for Your iPhone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-siri-issues-fixing-the-top-7-iphone-and-ipad-glitches/"><u>Troubleshooting Siri Issues: Fixing the Top 7 iPhone and iPad Glitches</u></a></li>
+<li><a href="https://fox-that.techidaily.com/uneven-volume-in-airpods-here-are-4-fixes-to-get-your-sound-balance-back-on-track/"><u>Uneven Volume in AirPods? Here Are 4 Fixes to Get Your Sound Balance Back on Track</u></a></li>
 </ul></div>
 
